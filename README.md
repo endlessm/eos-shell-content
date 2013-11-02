@@ -1,4 +1,4 @@
-eos-cms-content
-===============
+eos-shell-content
+=================
 
-Manages translation and installation of content from the CMS for the app store and the discovery center
+Manages translation and installation of content from the CMS for eos-shell, including the app store and the discovery center
