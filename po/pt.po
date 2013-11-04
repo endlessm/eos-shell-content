@@ -1,0 +1,1445 @@
+# Translations for the Endless OS Shell Content
+# Copyright (C) 2013 Endless Mobile
+# This file is distributed under the same license as the eos-shell-content package.
+# 
+# Translators:
+# joelmx <joel@endlessm.com>, 2013
+# nsanchez <ns@endlessm.com>, 2013
+# rshuler <roddy@endlessm.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: eos-shell-content\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-04 15:18-0800\n"
+"PO-Revision-Date: 2013-11-04 23:25+0000\n"
+"Last-Translator: rshuler <roddy@endlessm.com>\n"
+"Language-Team: Portuguese (http://www.transifex.com/projects/p/teams/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Extracted from Default/apps/content.json
+#: ../content/Default/apps/content.json.h:4
+#: ../content/Default/links/content.json.h:4
+msgctxt "title"
+msgid "Freecell"
+msgstr "Freecell"
+
+#: ../content/Default/apps/content.json.h:5
+#: ../content/Default/links/content.json.h:5
+msgctxt "subtitle"
+msgid "Freecell"
+msgstr "Freecell"
+
+#: ../content/Default/apps/content.json.h:6
+#: ../content/Default/links/content.json.h:6
+msgctxt "description"
+msgid ""
+"This application lets you play a new type of solitaire that will keep you "
+"busy for hours! Freecell Solitaire is a little different from the "
+"traditional Klondike Solitaire, but the rules are easy to get the hang of. "
+"Like Klondike Solitaire, the general idea is to put cards of the same suit "
+"down in numerical order, but it’s a little more complicated than that. This "
+"card game challenges the mind and provides plenty of entertainment for you "
+"to enjoy."
+msgstr "Esta aplicação permite que você jogue um novo tipo de paciência que irá mantê-lo ocupado por horas! Freecell Solitaire é um pouco diferente do tradicional Paciência, mas as regras são fáceis de pegar. Como Paciência, a idéia geral é colocar cartas do mesmo naipe para baixo, em ordem numérica, mas é um pouco mais complicado do que isso. Este jogo de cartas desafia a mente e proporciona muita diversão para você aproveitar."
+
+#: ../content/Default/apps/content.json.h:7
+#: ../content/Default/links/content.json.h:7
+msgctxt "title"
+msgid "Sudoku"
+msgstr "Sudoku"
+
+#: ../content/Default/apps/content.json.h:8
+#: ../content/Default/links/content.json.h:8
+msgctxt "subtitle"
+msgid "Puzzle game"
+msgstr "Quebra-cabeça"
+
+#: ../content/Default/apps/content.json.h:9
+#: ../content/Default/links/content.json.h:9
+msgctxt "description"
+msgid ""
+"If you’re a fan of puzzles and math games, the Sudoku app is perfect for "
+"you. These fun brain teasers require you to input numbers in a grid so that "
+"you have unique rows, columns, and grid regions containing all the numbers 1"
+" through 9. It may seem complicated at first, but with this app, you’ll "
+"learn how to play and can get the hang of the game in no time. You'll soon "
+"have hours of fun solving Sudoku puzzles and exercising your mind!"
+msgstr "Se você é um fã de quebra-cabeças e jogos de matemática, o app Sudoku é perfeito para você. Estes divertidos quebra-cabeças exigem que você insera números em uma grade para que você tenha linhas, colunas e regiões de grade exclusivas,  contendo todos os números de 1 a 9. Pode parecer complicado no começo, mas com este app, você vai aprender a jogar e pode pegar o jeito do jogo muito rápido. Em breve, você terá horas de diversão resolver enigmas de Sudoku e exercitar sua mente!"
+
+#: ../content/Default/apps/content.json.h:10
+#: ../content/Default/links/content.json.h:10
+msgctxt "title"
+msgid "Khan Academy"
+msgstr "Academia Khan"
+
+#: ../content/Default/apps/content.json.h:11
+#: ../content/Default/links/content.json.h:11
+msgctxt "subtitle"
+msgid "Learn almost anything for free"
+msgstr "Aprenda quase qualquer coisa de graça"
+
+#: ../content/Default/apps/content.json.h:12
+#: ../content/Default/links/content.json.h:12
+msgctxt "description"
+msgid ""
+"A whole world of learning is at your fingertips with the Khan Academy app. "
+"One of the greatest educational resources out there, Khan Academy, offers "
+"online video courses in a vast variety of content areas, including math, "
+"biology, chemistry, and physics. These exciting videos give you access to "
+"fascinating content, and help you learn more than just your classroom's "
+"education. The videos are free, easy to access, and provide learning "
+"opportunities that are sure to expand your mind."
+msgstr "Um mundo inteiro de aprendizagem está ao seu alcance com o app Khan Academy. Um dos maiores recursos educacionais no mundo, Khan Academy, oferece vídeo aulas on-line em uma grande variedade de áreas de conteúdo, incluindo matemática, biologia, química e física. Estes emocionantes vídeos lhe dará acesso a conteúdo fascinante, e ajudá-lo a aprender mais do que apenas a educação de sua sala de aula. Os vídeos são gratuitos, de fácil acesso, e proporcionarão oportunidades de aprendizagem que com certeza vão expandir sua mente."
+
+#: ../content/Default/apps/content.json.h:13
+#: ../content/Default/links/content.json.h:13
+msgctxt "title"
+msgid "Dictionary"
+msgstr "Dicionário"
+
+#: ../content/Default/apps/content.json.h:14
+#: ../content/Default/links/content.json.h:14
+msgctxt "subtitle"
+msgid "GoldenDict"
+msgstr "Dicionário"
+
+#: ../content/Default/apps/content.json.h:15
+#: ../content/Default/links/content.json.h:15
+msgctxt "description"
+msgid ""
+"In reading and conversation, words often come up with which you’re not "
+"familiar. Rather than pretend you know what they mean, it’s best to have a "
+"dictionary app so you can learn new vocabulary and understand what you read "
+"and hear. This dictionary app is easy to use and navigate, so you’ll never "
+"have trouble finding just the word you’re looking for. "
+msgstr "Em leitura e conversação, agumas vezes aparecem palavras com as quais você não está familiarizado. Ao invés de fingir que você sabe o que elas querem dizer, é melhor ter um app de dicionário onde você possa aprender novo vocabulário e compreender o que lê e ouve. Este app de dicionário é fácil de usar e navegar, então você nunca terá dificuldade em encontrar a palavra que você está procurando."
+
+#: ../content/Default/apps/content.json.h:16
+#: ../content/Default/links/content.json.h:16
+msgctxt "title"
+msgid "Wikipedia"
+msgstr "Wikipédia"
+
+#: ../content/Default/apps/content.json.h:17
+#: ../content/Default/links/content.json.h:17
+msgctxt "subtitle"
+msgid "The free encyclopedia"
+msgstr "A enciclopédia livre"
+
+#: ../content/Default/apps/content.json.h:18
+#: ../content/Default/links/content.json.h:18
+msgctxt "description"
+msgid ""
+"Whether you’re working online or offline, you want access to the world’s "
+"treasure trove of information – Wikipedia. With the Wikipedia app, you’ll "
+"have just that. Use the easy search tool to look up any topic you want, and "
+"you’ll be able to read the encyclopedia entry on that topic. You’ll learn "
+"more than you ever thought possible with access to the Internet's greatest "
+"informational resource."
+msgstr "Se você está trabalhando online ou offline, você quer acesso ao tesouro do mundo da informação - Wikipedia. Com o Wikipédia app, você vai ter isso. Use a fácil ferramenta de busca para procurar qualquer assunto que você quer, e você vai ser capaz de ler o verbete de enciclopédia sobre o assunto. Você vai aprender mais do que você jamais imaginou ser possível com o acesso à maior fonte de informação da Internet."
+
+#: ../content/Default/apps/content.json.h:19
+#: ../content/Default/links/content.json.h:19
+msgctxt "title"
+msgid "Skype"
+msgstr "Skype"
+
+#: ../content/Default/apps/content.json.h:20
+#: ../content/Default/links/content.json.h:20
+msgctxt "subtitle"
+msgid "Internet calls and chat"
+msgstr "Chamadas pela Internet and chat"
+
+#: ../content/Default/apps/content.json.h:21
+#: ../content/Default/links/content.json.h:21
+msgctxt "description"
+msgid ""
+"Skype makes staying in touch incredibly easy and fun! If you have a webcam "
+"and a microphone, you can easily make video calls and voice calls to anyone "
+"in the world who also has Skype. This app’s features are simple to use and "
+"you can stay in touch with people anywhere in world!"
+msgstr "Skype faz ficar em contato incrivelmente fácil e divertido! Se você tiver uma webcam e um microfone, você pode facilmente fazer chamadas de vídeo e chamadas de voz para qualquer pessoa no mundo que também tem Skype. As características deste aplicativo são simples de usar e você pode ficar em contato com pessoas em qualquer lugar no mundo!"
+
+#: ../content/Default/apps/content.json.h:22
+#: ../content/Default/links/content.json.h:22
+msgctxt "title"
+msgid "Armagetron"
+msgstr "Armagetron"
+
+#: ../content/Default/apps/content.json.h:23
+#: ../content/Default/links/content.json.h:23
+msgctxt "subtitle"
+msgid "Multiplayer game"
+msgstr "Jogo multi-jogador"
+
+#: ../content/Default/apps/content.json.h:24
+#: ../content/Default/links/content.json.h:24
+msgctxt "description"
+msgid ""
+"This exciting game lets you into the world of Tron. Get behind the wheel of "
+"a “light cycle”, a cool and futuristic motorcycle, and battle others on the "
+"road. Force your opponents to hit the arena walls to eliminate them from the"
+" game and come out victorious. This app is easy to learn and a lot of fun to"
+" play!"
+msgstr "Este emocionante jogo leva você para o mundo do Tron. Chegar ao volante de um \"ciclo de luz\", uma moto legal e futurista e combatir os outros na estrada. Forçar seus adversários a bater nas paredes de arena para eliminá-los do jogo e sair vitorioso. Este aplicativo é fácil de aprender e muito divertido de jogar!"
+
+#: ../content/Default/apps/content.json.h:25
+#: ../content/Default/links/content.json.h:25
+msgctxt "title"
+msgid "Audio Editor"
+msgstr "Editor de audio"
+
+#: ../content/Default/apps/content.json.h:26
+#: ../content/Default/links/content.json.h:26
+msgctxt "subtitle"
+msgid "Record and edit sounds"
+msgstr "Gravar e editar sons"
+
+#: ../content/Default/apps/content.json.h:27
+#: ../content/Default/links/content.json.h:27
+msgctxt "description"
+msgid ""
+"Have you ever wanted to make your own audio clips or songs? With this app, "
+"you'll be able to access all the tools you need to create audio clips that "
+"you can play for your friends and family. Create high quality clips and "
+"songs that you can even share with the world! "
+msgstr "Alguma vez você já quis fazer seus próprios clipes de áudio ou músicas? Com este aplicativo, você será capaz de acessar todas as ferramentas que você precisa para criar clipes de áudio que você pode tocar para os seus amigos e familiares. Criar clipes de alta qualidade e músicas que você pode até compartilhar com o mundo!"
+
+#: ../content/Default/apps/content.json.h:28
+#: ../content/Default/links/content.json.h:28
+msgctxt "title"
+msgid "Billiards"
+msgstr "Sinuca"
+
+#: ../content/Default/apps/content.json.h:29
+#: ../content/Default/links/content.json.h:29
+msgctxt "subtitle"
+msgid "Billiard game"
+msgstr "Jogo de Bilhar"
+
+#: ../content/Default/apps/content.json.h:30
+#: ../content/Default/links/content.json.h:30
+msgctxt "description"
+msgid ""
+"Do you love playing billiards, or have you ever wanted to learn how to play?"
+" This game lets you have the experience of playing pool and other similar "
+"games right from your home. It’s simple to learn and use, yet highly "
+"realistic. Play carom, eightball or nineball games, or just practice for "
+"real-life billiards games against your friends. This app is a great tool for"
+" both playing for fun and improving your game."
+msgstr "Você ama jogar bilhar, ou que você sempre quis aprender a jogar? Este jogo permite que você tenha a experiência de jogar bilhar e outros jogos similares direito de sua casa. É simples de aprender e usar, mas altamente realista. Jogar carom, eightball ou nineball, ou apenas para a prática de jogos de bilhar reais contra seus amigos. Este aplicativo é uma grande ferramenta para jogar e para se divertir e melhorar o seu jogo."
+
+#: ../content/Default/apps/content.json.h:31
+#: ../content/Default/links/content.json.h:31
+msgctxt "title"
+msgid "BlockOut 2"
+msgstr "BlockOut 2"
+
+#: ../content/Default/apps/content.json.h:32
+#: ../content/Default/links/content.json.h:32
+msgctxt "subtitle"
+msgid "3D Tetris-style game"
+msgstr "Jogo de Tetris 3D"
+
+#: ../content/Default/apps/content.json.h:33
+#: ../content/Default/links/content.json.h:33
+msgctxt "description"
+msgid ""
+"Do you love puzzle games? Then you’ll love BlockOut 2. This 3-D Tetris game "
+"is fast-paced and a lot of fun! Figure out how to stack different-shaped "
+"blocks together and create whole layers of blocks to get points, all before "
+"the blocks stack up too high and you lose! It’s great for the brain, and "
+"tons of fun."
+msgstr "Você gosta de jogos de quebra-cabeça? Então você vai adorar BlockOut 2. Este jogo 3-D Tetris é rápido e muito divertido! Descubra como empilhar blocos diferentes juntos e criar camadas inteiras de blocos para obter pontos, todos antes dos blocos de empilhar muito alto e você perder! É muito bom para o cérebro, e toneladas de diversão."
+
+#: ../content/Default/apps/content.json.h:34
+#: ../content/Default/links/content.json.h:34
+msgctxt "title"
+msgid "Chromium BSU"
+msgstr "Chromium BSU"
+
+#: ../content/Default/apps/content.json.h:35
+#: ../content/Default/links/content.json.h:35
+msgctxt "subtitle"
+msgid "Space shooting game"
+msgstr "Jogo de tiro espacial"
+
+#: ../content/Default/apps/content.json.h:36
+#: ../content/Default/links/content.json.h:36
+msgctxt "description"
+msgid ""
+"Imagine this: You’re the captain of Chromium B.S.U., a vital cargo ship that"
+" must get supplies to the frontline of a great war in space. With the help "
+"of your robotic fighting fleet, you just might make it. This thrilling, "
+"arcade-style game is sure to get your blood pumping. With a variety of "
+"objectives to achieve and the tools to do it, you’re on your way to a galaxy"
+" of fun!"
+msgstr "Imagine isto: Você é o capitão do Chromium BSU, um navio de carga vital que deve obter suprimentos para a linha de frente de uma grande guerra no espaço. Com a ajuda de sua frota de combate robótico, você poderia fazê-lo. Este emocionante jogo no estilo arcade tem a certeza de ser emocionante. Com uma variedade de objectivos a atingir e as ferramentas para fazê-lo, você está no seu caminho para uma galáxia de diversão!"
+
+#: ../content/Default/apps/content.json.h:37
+#: ../content/Default/links/content.json.h:37
+msgctxt "title"
+msgid "Learn English"
+msgstr "Aprenda Inglês"
+
+#: ../content/Default/apps/content.json.h:38
+#: ../content/Default/links/content.json.h:38
+msgctxt "subtitle"
+msgid "Have fun learning English!"
+msgstr "Divirta-se aprendendo Inglês!"
+
+#: ../content/Default/apps/content.json.h:39
+#: ../content/Default/links/content.json.h:39
+msgctxt "description"
+msgid ""
+"Ready to take your English to a new level? Have fun and learn a new skill by"
+" playing games, listening to your favorites songs with lyrics, and watching "
+"interesting videos. Sometimes all it takes is a push in the right direction,"
+" and with our app, you’ll learn about resources that can help you improve "
+"your English and take you to new opportunities."
+msgstr "Pronto para levar o seu Inglês a um novo nível? Divirta-se e aprenda uma nova habilidade jogando jogos, ouvindo suas músicas favoritas com letras, e assistindo vídeos interessantes. Às vezes, tudo o que precisamos é de um empurrão na direção certa, e com nossa app, você vai aprender sobre os recursos que podem ajudá-lo a melhorar o seu Inglês e levá-lo a novas oportunidades."
+
+#: ../content/Default/apps/content.json.h:40
+#: ../content/Default/links/content.json.h:40
+msgctxt "title"
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../content/Default/apps/content.json.h:41
+#: ../content/Default/links/content.json.h:41
+msgctxt "subtitle"
+msgid "E-mail"
+msgstr "Correio Eletrônico"
+
+#: ../content/Default/apps/content.json.h:42
+#: ../content/Default/links/content.json.h:42
+msgctxt "description"
+msgid ""
+"Staying in touch is an important part of modern life, and email has become "
+"one of the best ways of doing so. You may receive emails from faraway or "
+"close-by friends and family, access messages containing daily jokes, "
+"vocabulary, or news, and even handle important matters – all via email. When"
+" you need to check your email quickly and simply, this app is there for you."
+msgstr "Ficar em contato é uma parte importante da vida moderna, e-mail tornou-se uma das melhores maneiras de fazê-lo. Você pode receber e-mails de amigos e familiares distantes, mensagens de acesso contendo piadas diárias, vocabulário, ou notícias, e até mesmo lidar com questões importantes - tudo via e-mail. Quando você precisa verificar seu e-mail de forma rápida e simples, este app é para você."
+
+#: ../content/Default/apps/content.json.h:43
+#: ../content/Default/links/content.json.h:43
+msgctxt "title"
+msgid "Media Download"
+msgstr "Baixar Mídia"
+
+#: ../content/Default/apps/content.json.h:44
+#: ../content/Default/links/content.json.h:44
+msgctxt "subtitle"
+msgid "File sharing"
+msgstr "Compartilhamento de Arquivos"
+
+#: ../content/Default/apps/content.json.h:45
+#: ../content/Default/links/content.json.h:45
+msgctxt "description"
+msgid ""
+"With this useful app, you can access, download and share almost any file "
+"you'd like to on the Web. From music, videos, and games to more complex "
+"downloads like software, you can share files with millions of users. Special"
+" features include a video player built into the app. Share files large and "
+"small with a massive online community, and get the media you love right at "
+"your fingertips."
+msgstr "Com este útil aplicativo, você pode acessar, baixar e compartilhar quase qualquer arquivo na web. Desde música, vídeos e jogos ate downloads mais complexos como software, você pode compartilhar arquivos com milhões de usuários. As características especiais incluem um reprodutor de vídeo embutido no aplicativo. Compartilhe arquivos grandes e pequenos, com uma comunidade on-line gigante, e obtenha a mídia que você ama facilmente."
+
+#: ../content/Default/apps/content.json.h:46
+#: ../content/Default/links/content.json.h:46
+msgctxt "title"
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: ../content/Default/apps/content.json.h:47
+#: ../content/Default/links/content.json.h:47
+msgctxt "subtitle"
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: ../content/Default/apps/content.json.h:48
+#: ../content/Default/links/content.json.h:48
+msgctxt "description"
+msgid ""
+"Do you ever consider how often you need to do basic or even complex math in "
+"daily life? From calculating a budget to converting measurements in a recipe"
+" to figuring out taxes, you probably use equations more regularly than you "
+"think. That’s why this calculator app comes in handy. Perform simple "
+"arithmetic quickly, or allow the calculator to do more advanced work, "
+"depending on your needs. You’ll never struggle to perform mathematical tasks"
+" again as long as you have this calculator app! "
+msgstr "Você já pensou quantas vezes você precisa fazer matemática básica ou mesmo complexa na vida diária? De calcular um orçamento, converter medidas de uma receita, ou para descobrir os impostos, você provavelmente usa equações mais regularmente do que você pensa. É por isso que este app de calculadora é super util. Faça operações aritméticas simples rápidamente, ou use a calculadora para fazer um trabalho mais avançado, dependendo de suas necessidades. Você nunca vai lutar para realizar tarefas matemáticas de novo, enquanto você tem este aplicativo calculadora!"
+
+#: ../content/Default/apps/content.json.h:49
+#: ../content/Default/links/content.json.h:49
+msgctxt "title"
+msgid "EduGames"
+msgstr "Joguinhos"
+
+#: ../content/Default/apps/content.json.h:50
+#: ../content/Default/links/content.json.h:50
+msgctxt "subtitle"
+msgid "Childrens games"
+msgstr "Jogos pra crianças"
+
+#: ../content/Default/apps/content.json.h:51
+#: ../content/Default/links/content.json.h:51
+msgctxt "description"
+msgid ""
+"This app makes learning fun for young children with more than 100 games and "
+"activities! Educational topics include reading, geography, and math, and the"
+" app also features games like chess and Connect Four, which are great for "
+"young brains. Your child will have a wonderful time developing valuable "
+"skills that will help him or her throughout life.  "
+msgstr "Este aplicativo torna o aprendizado divertido para as crianças com mais de 100 jogos e atividades! Temas educativos incluem leitura, geografia e matemática, a app também possui jogos como xadrez e conecta-cuatro, que são ótimos para cérebros jovens. Seu filho vai ter um tempo maravilhoso desenvolvendo habilidades valiosas que vão ajudá-la ao longo da vida."
+
+#: ../content/Default/apps/content.json.h:52
+#: ../content/Default/links/content.json.h:52
+msgctxt "title"
+msgid "GIMP"
+msgstr "GIMP"
+
+#: ../content/Default/apps/content.json.h:53
+#: ../content/Default/links/content.json.h:53
+msgctxt "subtitle"
+msgid "Photo Editor"
+msgstr "Editor de Imagem"
+
+#: ../content/Default/apps/content.json.h:54
+#: ../content/Default/links/content.json.h:54
+msgctxt "description"
+msgid ""
+"This application is similar to Adobe Photoshop, and it is free. This tool "
+"allows you to edit photos in a variety of ways, creating even more beautiful"
+" works of art from your original images. This app can also do things like "
+"convert formats of files or serve as a basic paint program. There are so "
+"many possibilities for how to create cool images once you get the hang of "
+"this helpful editing app!"
+msgstr "Esta aplicação é semelhante ao Adobe Photoshop, e é gratuito. Esta ferramenta permite que você edite fotos em uma variedade de maneiras, criando as mais belas obras de arte a partir de suas imagens originais. Este aplicativo também pode fazer coisas como converter formatos de arquivos ou servir como um programa básico de pintura. Há tantas possibilidades de como criar imagens legais uma vez que você pegar o jeito desse útil app de edição!"
+
+#: ../content/Default/apps/content.json.h:55
+#: ../content/Default/links/content.json.h:55
+msgctxt "title"
+msgid "Math"
+msgstr "Matemáticas"
+
+#: ../content/Default/apps/content.json.h:56
+#: ../content/Default/links/content.json.h:56
+msgctxt "subtitle"
+msgid "Mathematics Tool"
+msgstr "Ferramentas Matemáticas"
+
+#: ../content/Default/apps/content.json.h:57
+#: ../content/Default/links/content.json.h:57
+msgctxt "description"
+msgid ""
+"This math application offers advanced mathematical computing functions that "
+"can be used for far more than just basic calculations. If you’re a math whiz"
+" who loves to experiment with this exciting discipline, this is the app for "
+"you. And even if you’re not, the app works wonderfully as a high-level "
+"calculator. Everything you need to figure out numerical mysteries is right "
+"here."
+msgstr "Esta aplicação matemática oferece funções matemáticas avançadas que podem ser utilizados para bem mais do que apenas cálculos básicos. Se você é um gênio da matemática que gosta de experimentar com esta disciplina emocionante, este é o aplicativo para você. E mesmo se você não estiver, o aplicativo funciona maravilhosamente como uma calculadora de alto nível. Tudo o que você precisa descobrir sobre mistérios numéricos esta bem aqui."
+
+#: ../content/Default/apps/content.json.h:58
+#: ../content/Default/links/content.json.h:58
+msgctxt "title"
+msgid "Kobo Deluxe"
+msgstr "Kobo Deluxe"
+
+#: ../content/Default/apps/content.json.h:59
+#: ../content/Default/links/content.json.h:59
+msgctxt "subtitle"
+msgid "Destroy enemy bases in space"
+msgstr "Destrua as bases inimigas no espaço"
+
+#: ../content/Default/apps/content.json.h:60
+#: ../content/Default/links/content.json.h:60
+msgctxt "description"
+msgid ""
+"Fans of arcade-style games will love the Kobo Deluxe app. This third-person "
+"shooter allows you to protect yourself from and destroy enemy ships as they "
+"pursue you, shooting and launching themselves at you. All this takes place "
+"in an exciting outer-space environment, with fun graphics and invigorating "
+"tactical challenges. Move up through the 50 levels and come out a champion. "
+msgstr "Os fãs de jogos estilo arcade vão adorar o app Kobo Deluxe. Este jogo de naves permite que você se proteger e destruir navios inimigos quando eles te perseguir, atirar e lançar-se em você. Tudo isso acontece em no espaço, com gráficos divertidos e estimulantes desafios táticos. Mova-se através dos 50 níveis e saia um campeão."
+
+#: ../content/Default/apps/content.json.h:61
+#: ../content/Default/links/content.json.h:61
+msgctxt "title"
+msgid "Breakout"
+msgstr "Fuga"
+
+#: ../content/Default/apps/content.json.h:62
+#: ../content/Default/links/content.json.h:62
+msgctxt "subtitle"
+msgid "LBreakout2 game"
+msgstr "Jogo LBreakout2 "
+
+#: ../content/Default/apps/content.json.h:63
+#: ../content/Default/links/content.json.h:63
+msgctxt "description"
+msgid ""
+"This classic paddle game is tons of fun! The aim is to destroy bricks with "
+"your ball by hitting them with your paddle, which allows you to level up. "
+"The original Breakout game came out in 1976, and people have loved this "
+"simple yet addictive game ever since. Get your brick-breaking fix with great"
+" graphics and animation, intuitive controls, and plenty of levels to beat."
+msgstr "Este jogo pá clássico é toneladas de diversão! O objetivo é destruir os tijolos com a bola batendo neles com a sua raquete, o que lhe permite subir de nível. O jogo Breakout original foi lançado em 1976, e as pessoas amaram este jogo simples, mas viciante, desde então. Obter a sua correção de quebra de tijolos com ótimos gráficos e animações, controles intuitivos e abundância de níveis para bater."
+
+#: ../content/Default/apps/content.json.h:64
+#: ../content/Default/links/content.json.h:64
+msgctxt "title"
+msgid "Spreadsheet"
+msgstr "Planilha"
+
+#: ../content/Default/apps/content.json.h:65
+#: ../content/Default/links/content.json.h:65
+msgctxt "subtitle"
+msgid "Spreadsheet"
+msgstr "Planilha"
+
+#: ../content/Default/apps/content.json.h:66
+#: ../content/Default/links/content.json.h:66
+msgctxt "description"
+msgid ""
+"Whatever you need to keep track of, the spreadsheet app can help you do it. "
+"This advanced yet easy-to-use spreadsheet has something for everyone: a "
+"simple layout that’s easy to understand, plus the ability to do complex "
+"calculations. Spreadsheets are used in many careers throughout the world, so"
+" getting the hang of this app can also help you gain valuable skills for the"
+" job market."
+msgstr "Tuda informação que você precise manter controle e podee acompanhar, o app de planilha pode ajudá-lo a fazê-lo. Esta planilha é avançada mas fácil-de-usar, ela tem algo para todos: um layout simples que é fácil de entender, além da capacidade de fazer cálculos complexos. Planilhas são usados ​​em muitas carreiras em todo o mundo, assim pegando o jeito desse aplicativo também pode ajudar você a ganhar habilidades valiosas para o mercado de trabalho."
+
+#: ../content/Default/apps/content.json.h:67
+#: ../content/Default/links/content.json.h:67
+msgctxt "title"
+msgid "Presentation"
+msgstr "Apresentação"
+
+#: ../content/Default/apps/content.json.h:68
+#: ../content/Default/links/content.json.h:68
+msgctxt "subtitle"
+msgid "Presentation"
+msgstr "Apresentação"
+
+#: ../content/Default/apps/content.json.h:69
+#: ../content/Default/links/content.json.h:69
+msgctxt "description"
+msgid ""
+"Create clean, attractive, and professional presentations with this "
+"presentation app. This app features the ability to use text, drawing tools, "
+"transitions, 2-D and 3-D art, and even animations to get your point across "
+"in a beautiful and compelling way. And best of all, this app is easy to "
+"understand and use, with simplified steps for creating exactly what you "
+"need."
+msgstr "Crie apresentações limpas, atraentes e profissionais com este app de apresentação. Este aplicativo possui a capacidade de usar o texto, ferramentas, transições, arte 2-D e 3-D, e até mesmo animações para mostrar o seu ponto de vista de uma maneira bonita e atraente. E o melhor de tudo, este aplicativo é fácil de entender e usar, com passos simplificados para criar exatamente o que você precisa."
+
+#: ../content/Default/apps/content.json.h:70
+#: ../content/Default/links/content.json.h:70
+msgctxt "title"
+msgid "Writer"
+msgstr "Redator"
+
+#: ../content/Default/apps/content.json.h:71
+#: ../content/Default/links/content.json.h:71
+msgctxt "subtitle"
+msgid "Writer"
+msgstr "Redator"
+
+#: ../content/Default/apps/content.json.h:72
+#: ../content/Default/links/content.json.h:72
+msgctxt "description"
+msgid ""
+"This app gives you all the features of the best word processing applications"
+" and is compatible with Microsoft Office. Create and edit documents easily, "
+"create short notes and longer pieces of writing with annotations and "
+"diagrams. It’s all possible with this app. Your documents will look "
+"professional enough to present to employers, teachers, or other important "
+"people. Use this app to compose your next masterpiece or to take great "
+"notes; either way, you’ll have simple yet powerful tools available."
+msgstr "Este app dá-lhe todas as características dos melhores aplicativos de processamento de texto e é compatível com o Microsoft Office. Criar e editar documentos com facilidade, criar notas curtas ou longas peças de escritura com anotações e diagramas. Tudo isso é possível com este aplicativo. Seus documentos vão ficar profissionaos, suficiente para apresentar aos empregadores, professores ou outras pessoas importantes. Use este aplicativo para compor sua próxima obra-prima ou para tirar ótimas notas, de qualquer forma, você terá ferramentas simples, mas poderosas disponíveis."
+
+#: ../content/Default/apps/content.json.h:73
+#: ../content/Default/links/content.json.h:73
+msgctxt "title"
+msgid "Physics"
+msgstr "Fisicando"
+
+#: ../content/Default/apps/content.json.h:74
+#: ../content/Default/links/content.json.h:74
+msgctxt "subtitle"
+msgid "Harness gravity with your crayon"
+msgstr "Atrele a gravidade com seu pastel"
+
+#: ../content/Default/apps/content.json.h:75
+#: ../content/Default/links/content.json.h:75
+msgctxt "description"
+msgid ""
+"Who knew the laws of physics could be so much fun? With this app, you can "
+"solve puzzles by drawing objects like pulleys, levers, and ramps. If your "
+"creations turn out right, you’ll accomplish that level’s task and move to "
+"the next level. This challenging game will also teach you some basic "
+"physics, but you’ll be having so much fun that you’ll hardly know you’re "
+"learning."
+msgstr "Quem diria que as leis da física podem ser muito divertidas? Com este aplicativo, você pode resolver quebra-cabeças, desenhando objetos como polias, alavancas e rampas. Se suas criações dar certo, você vai realizar tarefa do nível e avançar para o próximo nível. Este jogo desafiador também vai te ensinar algumas física básica, mas você vai estar se divertindo tanto que dificilmente você vai saber que você está aprendendo."
+
+#: ../content/Default/apps/content.json.h:76
+#: ../content/Default/links/content.json.h:76
+msgctxt "title"
+msgid "Open Arena"
+msgstr "Open Arena"
+
+#: ../content/Default/apps/content.json.h:77
+#: ../content/Default/links/content.json.h:77
+msgctxt "subtitle"
+msgid "First person shooter"
+msgstr "Jogo FPS"
+
+#: ../content/Default/apps/content.json.h:78
+#: ../content/Default/links/content.json.h:78
+msgctxt "description"
+msgid ""
+"If arena battles are your idea of a good time, then you’ll love this "
+"application. Be warned – this is a game of serious skill, and serious "
+"bloodshed. Use different styles of weapons in contests like Capture the "
+"Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each "
+"of these modes offers its own form of excitement as you battle your enemies!"
+msgstr "Se os jogos de batalhas são a sua idéia de um bom tempo, então você vai adorar este app. Esteja avisado - este é um jogo de habilidade séria, e derramamento de sangue sério. Use diferentes estilos de armas em concursos como Capture the Flag, Deathmatch, Team Deathmatch, Último homem em pé, e Tournament. Cada um destes modos oferece a sua própria forma de emoção mentras você batalha seus inimigos!"
+
+#: ../content/Default/apps/content.json.h:79
+#: ../content/Default/links/content.json.h:79
+msgctxt "title"
+msgid "Photo Editor"
+msgstr "Editor de Fotos"
+
+#: ../content/Default/apps/content.json.h:80
+#: ../content/Default/links/content.json.h:80
+msgctxt "subtitle"
+msgid "Edit, filter and share your images"
+msgstr "Edite, filtre e compartilhe suas imagens"
+
+#: ../content/Default/apps/content.json.h:81
+#: ../content/Default/links/content.json.h:81
+msgctxt "description"
+msgid ""
+"Have you ever wanted to edit your own photos like the pros and create "
+"beautiful images you can share with those you love? Well, now you can do "
+"that in just a few steps! We have a variety of attractive, artful filters so"
+" you can customize your photos and create one-of-a-kind works of art from "
+"your everyday life. And with this handy app, you can post your creations "
+"directly to Facebook, so everyone can see your photography skills!"
+msgstr "Alguma vez você já quis editar suas próprias fotos como os profissionais e criar belas imagens que você possa compartilhar com aqueles que você ama? Bem, agora você pode fazer isso em poucos passos! Temos uma grande variedade de atrativos, filtros artísticos para que você possa personalizar suas fotos e criar obras de arte únicas de sua vida cotidiana. E com este acessível aplicativo, você pode enviar suas criações diretamente para o Facebook, para que todos possam ver suas habilidades de fotografia!"
+
+#: ../content/Default/apps/content.json.h:82
+#: ../content/Default/links/content.json.h:82
+msgctxt "title"
+msgid "Pingus"
+msgstr "Pingus"
+
+#: ../content/Default/apps/content.json.h:83
+#: ../content/Default/links/content.json.h:83
+msgctxt "subtitle"
+msgid "A journey into the unknown"
+msgstr "Uma viagem para o desconhecido"
+
+#: ../content/Default/apps/content.json.h:84
+#: ../content/Default/links/content.json.h:84
+msgctxt "description"
+msgid ""
+"Penguins are among the cutest animals, so who wouldn’t want to play a fun "
+"game protecting these beloved creatures from falling off cliffs and into "
+"freezing waters? With lots of levels and adorable characters, this is sure "
+"to become your new favorite game. Watch your penguins use the tools you give"
+" them in order to avoid an untimely end."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:85
+#: ../content/Default/links/content.json.h:85
+msgctxt "title"
+msgid "Music"
+msgstr "Música"
+
+#: ../content/Default/apps/content.json.h:86
+#: ../content/Default/links/content.json.h:86
+msgctxt "subtitle"
+msgid "Music player and radio"
+msgstr "Reprodutor de música e rádio"
+
+#: ../content/Default/apps/content.json.h:87
+#: ../content/Default/links/content.json.h:87
+msgctxt "description"
+msgid ""
+"In addition to listening to your favorite music, this app lets you search "
+"through your library, create playlists, play and burn CDs, shows you album "
+"art and even songs' lyrics. This app also supports Internet radio streaming "
+"and audio visualizations. Enjoy all your favorite songs, stored and sorted "
+"in one convenient app."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:88
+#: ../content/Default/links/content.json.h:88
+msgctxt "title"
+msgid "Photos"
+msgstr "Fotos"
+
+#: ../content/Default/apps/content.json.h:89
+#: ../content/Default/links/content.json.h:89
+msgctxt "subtitle"
+msgid "Photo viewer and organizer"
+msgstr "Visualizador e organizador de fotos"
+
+#: ../content/Default/apps/content.json.h:90
+#: ../content/Default/links/content.json.h:90
+msgctxt "description"
+msgid ""
+"We all love to take pictures in our everyday lives – and we especially love "
+"downloading them to our computers so we can edit and share them via social "
+"media. This app lets you import photos from a digital camera or phone "
+"seamlessly. You can then arrange them into albums, edit them for maximum "
+"beauty and effect, and of course, display them on your favorite social "
+"networks, like Facebook. This photo app also allows you to create albums "
+"that you share on the web, if you’d rather share that way. Whatever you "
+"choose, your friends can see all the photos you want them to!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:91
+#: ../content/Default/links/content.json.h:91
+msgctxt "title"
+msgid "Solitaire"
+msgstr "Paciência"
+
+#: ../content/Default/apps/content.json.h:92
+#: ../content/Default/links/content.json.h:92
+msgctxt "subtitle"
+msgid "Card game"
+msgstr "Jogo de cartas"
+
+#: ../content/Default/apps/content.json.h:93
+#: ../content/Default/links/content.json.h:93
+msgctxt "description"
+msgid ""
+"Solitaire is a classic card game that is fun for people of all ages. It’s "
+"easy to figure out the rules, but it takes time to master the game.  "
+"Luckily, you’ll want to put in the time to really learn how to play, because"
+" you’ll be having so much fun. This engrossing and mind-enriching game is "
+"sure to entertain you, hour after hour."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:94
+#: ../content/Default/links/content.json.h:94
+msgctxt "title"
+msgid "Stellarium"
+msgstr "Constelação"
+
+#: ../content/Default/apps/content.json.h:95
+#: ../content/Default/links/content.json.h:95
+msgctxt "subtitle"
+msgid "Look up at the stars!"
+msgstr "Olhe para as estrelas!"
+
+#: ../content/Default/apps/content.json.h:96
+#: ../content/Default/links/content.json.h:96
+msgctxt "description"
+msgid ""
+"Discover the night sky with this application. With a catalogue of more than "
+"600,000 stars, constellations from more than a dozen cultures, and many more"
+" features, this application lets you see and get to know the stars right "
+"from your desktop. This application shows you a night sky that is so "
+"realistic, it matches the one you see above you. Set your location "
+"coordinates and learn about the stars above you!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:97
+#: ../content/Default/links/content.json.h:97
+msgctxt "title"
+msgid "Super Tux"
+msgstr "Super Tux"
+
+#: ../content/Default/apps/content.json.h:98
+#: ../content/Default/links/content.json.h:98
+msgctxt "subtitle"
+msgid "Super Tux"
+msgstr "Super Tux"
+
+#: ../content/Default/apps/content.json.h:99
+#: ../content/Default/links/content.json.h:99
+msgctxt "description"
+msgid ""
+"This game is similar to the original Super Mario Brothers games and allows "
+"your avatar to run and jump its way to new levels. The game features 26 "
+"levels with different opponents to fight, and fun music, in addition to a "
+"story that you can follow along with as you play. "
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:100
+#: ../content/Default/links/content.json.h:100
+msgctxt "title"
+msgid "Tux Kart"
+msgstr "Tux Kart"
+
+#: ../content/Default/apps/content.json.h:101
+#: ../content/Default/links/content.json.h:101
+msgctxt "subtitle"
+msgid "Racing game"
+msgstr "Jogo de corridas"
+
+#: ../content/Default/apps/content.json.h:102
+#: ../content/Default/links/content.json.h:102
+msgctxt "description"
+msgid ""
+"Tux Kart is a racing game that stars the lovable character, Tux the Penguin."
+" This game features several different tracks of varying difficulty for you "
+"to test your driving skills. Whether you’re on Tux’s Tollway or Gown’s Bow, "
+"you’re rushing toward the finish, trying to stay ahead of your opponents as "
+"you collect Red Herrings (which give you special abilities) and avoid Green "
+"Herrings (which trip you up). This game is sure to entertain you and your "
+"friends for hours!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:103
+#: ../content/Default/links/content.json.h:103
+msgctxt "title"
+msgid "Teeworlds"
+msgstr "Teelândia"
+
+#: ../content/Default/apps/content.json.h:104
+#: ../content/Default/links/content.json.h:104
+msgctxt "subtitle"
+msgid "Multiplayer shooting game"
+msgstr "Jogo de tiro multi jogador"
+
+#: ../content/Default/apps/content.json.h:105
+#: ../content/Default/links/content.json.h:105
+msgctxt "description"
+msgid ""
+"Teeworlds is a retro-looking game, but don’t let this old-school feel fool "
+"you; it’s also an exciting multiplayer shooter. Epic battles of up to 16 "
+"players rage, in formats such as Capture the Flag and Team Deathmatch. Try "
+"to survive in the deadly arena while dispatching your opponents. One "
+"exciting feature of Teeworlds is that the game allows you to design your own"
+" maps. Lots of bloody fun awaits you with the Teeworlds app."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:106
+#: ../content/Default/links/content.json.h:106
+msgctxt "title"
+msgid "Videos"
+msgstr "Videos"
+
+#: ../content/Default/apps/content.json.h:107
+#: ../content/Default/links/content.json.h:107
+msgctxt "subtitle"
+msgid "Video player"
+msgstr "Reprodutor de vídeo"
+
+#: ../content/Default/apps/content.json.h:108
+#: ../content/Default/links/content.json.h:108
+msgctxt "description"
+msgid ""
+"Do you love watching movies? Do it the right way with this video application"
+" that allows you to watch movies you have downloaded in full-screen mode. "
+"Other basics, like volume control and playlists, make your video-watching "
+"experience easy and fun. With this application you'll want to invite all of "
+"your family and friends to join you in watching all of your favorite movies!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:109
+#: ../content/Default/links/content.json.h:109
+msgctxt "title"
+msgid "Translate"
+msgstr "Tradutor"
+
+#: ../content/Default/apps/content.json.h:110
+#: ../content/Default/links/content.json.h:110
+msgctxt "subtitle"
+msgid "Translate"
+msgstr "Tradutor"
+
+#: ../content/Default/apps/content.json.h:111
+#: ../content/Default/links/content.json.h:111
+msgctxt "description"
+msgid ""
+"Translating from one language to another is a great way to bridge across "
+"cultures. It’s also important in many day-to-day activities in our "
+"increasingly globalized world. With the Translate app, you can understand "
+"and be understood in virtually any language. The app features an easy-to-"
+"understand setup so that you can use it without any trouble or hassle. It’s "
+"delightfully simple. Make new connections – and even new friends – with the "
+"world’s languages at your fingertips."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:112
+#: ../content/Default/links/content.json.h:112
+msgctxt "title"
+msgid "123 Tux"
+msgstr "123 Tux"
+
+#: ../content/Default/apps/content.json.h:113
+#: ../content/Default/links/content.json.h:113
+msgctxt "subtitle"
+msgid "Math games"
+msgstr "Jogos matemáticos"
+
+#: ../content/Default/apps/content.json.h:114
+#: ../content/Default/links/content.json.h:114
+msgctxt "description"
+msgid ""
+"Starring kids’ favorite buddy, Tux the Penguin, this fun math game "
+"application leads kids through math facts in a way that’s fun and engaging. "
+"You want your children’s math skills to improve, and they want to play games"
+" – so encouraging them to play brings together the best of both worlds and "
+"will help your child learn to love math! "
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:115
+#: ../content/Default/links/content.json.h:115
+msgctxt "title"
+msgid "Tux Typing"
+msgstr "Tecla Tux"
+
+#: ../content/Default/apps/content.json.h:116
+#: ../content/Default/apps/content.json.h:134
+#: ../content/Default/links/content.json.h:116
+#: ../content/Default/links/content.json.h:134
+msgctxt "subtitle"
+msgid "Learn to type"
+msgstr "Aprenda a digitar"
+
+#: ../content/Default/apps/content.json.h:117
+#: ../content/Default/links/content.json.h:117
+msgctxt "description"
+msgid ""
+"This fun application is a great way for kids, and even adults, to learn how "
+"to type! Learn the basics, or improve your skills by playing games that "
+"teach you how to use a keyboard without even looking at it. Children today "
+"are growing up surrounded by computers and mobile devices, and learning how "
+"to use these technologies well will only grow more important in the future. "
+"Start them off with a great foundation by downloading this app and "
+"encouraging them to play!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:118
+#: ../content/Default/links/content.json.h:118
+msgctxt "title"
+msgid "Weather"
+msgstr "Tempo"
+
+#: ../content/Default/apps/content.json.h:119
+#: ../content/Default/links/content.json.h:119
+msgctxt "subtitle"
+msgid "See the weather forecast"
+msgstr "Veja a previsão do tempo"
+
+#: ../content/Default/apps/content.json.h:120
+#: ../content/Default/links/content.json.h:120
+msgctxt "description"
+msgid ""
+"“How’s the weather out there?” Answer this question easily, every day, with "
+"the click of a button. This simple weather app allows you to see what’s "
+"happening right outside your door. Will it be chilly? Should you plan for "
+"rain? Is it a perfect day to spend outdoors? Learn all you need to know "
+"about the weather to to take advantage of your day!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:121
+#: ../content/Default/links/content.json.h:121
+msgctxt "title"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../content/Default/apps/content.json.h:122
+#: ../content/Default/links/content.json.h:122
+msgctxt "subtitle"
+msgid "Watch videos and series"
+msgstr "Assista vídeos e seriados"
+
+#: ../content/Default/apps/content.json.h:123
+#: ../content/Default/links/content.json.h:123
+msgctxt "description"
+msgid ""
+"YouTube is one of the most entertaining and informative sites on the Web. "
+"You can find videos of your favorite musical artists, tutorials that teach "
+"you to do virtually anything, funny or cute videos, and so much more! The "
+"YouTube app makes finding videos easier in a beautiful new way. This app is "
+"the best way to discover exactly the video you’re looking for."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:124
+#: ../content/Default/links/content.json.h:124
+msgctxt "title"
+msgid "Brazil"
+msgstr "Brasil"
+
+#: ../content/Default/apps/content.json.h:125
+#: ../content/Default/links/content.json.h:125
+msgctxt "subtitle"
+msgid "Learn more about brazilian culture"
+msgstr "Saiba mais sobre a cultura brasileira"
+
+#: ../content/Default/apps/content.json.h:126
+#: ../content/Default/links/content.json.h:126
+msgctxt "description"
+msgid ""
+"Want to learn more about the nation you call home? Brazil is a beautiful "
+"country with a rich heritage, delicious food, exciting sports, engaging "
+"cultural events, beautiful sites, and much more. Explore articles showcasing"
+" these areas of Brazilian life, art, geography, and culture. You’ll deepen "
+"your knowledge of the nation and be able to share what you learn with "
+"friends, family, and visitors."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:127
+#: ../content/Default/links/content.json.h:127
+msgctxt "title"
+msgid "Health"
+msgstr "Saúde"
+
+#: ../content/Default/apps/content.json.h:128
+#: ../content/Default/links/content.json.h:128
+msgctxt "subtitle"
+msgid "Information about health"
+msgstr "Informações sobre saúde"
+
+#: ../content/Default/apps/content.json.h:129
+#: ../content/Default/links/content.json.h:129
+msgctxt "description"
+msgid ""
+"Your health is one of the most important aspects of daily life, and you need"
+" resources to make sure you understand how to lead a healthy lifestyle and "
+"stay well. With this health app, you’ll have access to information about a "
+"range of health topics. Learn about how to keep yourself and your family "
+"from getting sick, and how to take care of minor ailments when they occur. "
+"This app is your indispensable resource to learn how to live a healthy life."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:130
+#: ../content/Default/links/content.json.h:130
+msgctxt "title"
+msgid "Coding Fun"
+msgstr "Código Divertido"
+
+#: ../content/Default/apps/content.json.h:131
+#: ../content/Default/links/content.json.h:131
+msgctxt "subtitle"
+msgid "Learn to code"
+msgstr "Se torne em um hacker"
+
+#: ../content/Default/apps/content.json.h:132
+#: ../content/Default/links/content.json.h:132
+msgctxt "description"
+msgid ""
+"Do you like playing video games? Then why not create your own? Learn "
+"valuable programming and coding skills with this fun application that lets "
+"you change the rules of video games to make them your own! See what happens "
+"when you change lines of code and progress through levels to keep learning "
+"more and more about how to code. You'll soon find out that learning how to "
+"program allows you not only to change the world inside your games, but also "
+"your very own! "
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:133
+#: ../content/Default/links/content.json.h:133
+msgctxt "title"
+msgid "Typing"
+msgstr "Tecla-Okê"
+
+#: ../content/Default/apps/content.json.h:135
+#: ../content/Default/links/content.json.h:135
+msgctxt "description"
+msgid ""
+"Typing is a valuable skill in almost any educational or professional "
+"environment. But did you know it could be a whole lot of fun, too? With "
+"engaging games, this typing application will teach you to use a keyboard "
+"effectively, as well as help you develop typing muscle memory. And the best "
+"part is, you’ll learn this useful skill by typing the lyrics to your "
+"favorite songs! What could be more entertaining than following along with "
+"the songs you love, all the while gaining a great new ability?"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:136
+#: ../content/Default/links/content.json.h:136
+msgctxt "title"
+msgid "Résumé"
+msgstr "Currículo"
+
+#: ../content/Default/apps/content.json.h:137
+#: ../content/Default/links/content.json.h:137
+msgctxt "subtitle"
+msgid "Write a résumé"
+msgstr "Escreva um currículo"
+
+#: ../content/Default/apps/content.json.h:138
+#: ../content/Default/links/content.json.h:138
+msgctxt "description"
+msgid ""
+"The best way to make a great impression on a potential employer is to have "
+"an outstanding resume, and this app is here to help you do just that. With "
+"handy, attractive templates, you have plenty of models to use as you build "
+"your own stellar resume. Learn exactly what a resume is and what it should "
+"contain, get tips on each section, and even receive guidance on how to "
+"prepare for job interviews. This app can help you move closer to the job of "
+"your choice."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:139
+#: ../content/Default/links/content.json.h:139
+msgctxt "title"
+msgid "Chat"
+msgstr "Chat"
+
+#: ../content/Default/apps/content.json.h:140
+#: ../content/Default/links/content.json.h:140
+msgctxt "subtitle"
+msgid "Converse com amigos por chat e vídeo"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:141
+#: ../content/Default/links/content.json.h:141
+msgctxt "description"
+msgid ""
+"This chat app is a truly amazing communication tool. It supports the chat "
+"functions from sites like Facebook, Jabber, MSN, AIM, Gadu Gadu, and more, "
+"and brings them all together so you can do your messaging, voice, and video "
+"chats all in one app, no matter how many contacts you have in all your other"
+" programs. All you need to do is set up this one chat with all of your other"
+" accounts and you are ready to talk to everyone you know without having to "
+"switch from application to application to talk to them all. This app also "
+"allows file sharing, in case you have pictures, documents, or media to send "
+"to loved ones while you chat. You can keep in touch with all your friends "
+"and family with this awesome app!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:142
+#: ../content/Default/links/content.json.h:142
+msgctxt "title"
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: ../content/Default/apps/content.json.h:143
+#: ../content/Default/links/content.json.h:143
+msgctxt "subtitle"
+msgid "Editor de gráficos vetoriais"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:144
+#: ../content/Default/links/content.json.h:144
+msgctxt "description"
+msgid ""
+"This application is for intermediate and advanced graphic designers who need"
+" to create and edit their graphics and images. This app gives you advanced "
+"features and is comparable to Adobe InDesign. For example, it allows you to "
+"create SVGs (Scalable Vector Graphics), which allow your graphics to remain "
+"high quality no matter what size they are. Create beautiful ads, brochures, "
+"presentations and artwork with this great free graphics app!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:145
+#: ../content/Default/links/content.json.h:145
+msgctxt "title"
+msgid "Frozen Bubble"
+msgstr "Bolhinhas"
+
+#: ../content/Default/apps/content.json.h:146
+#: ../content/Default/links/content.json.h:146
+msgctxt "subtitle"
+msgid "Destrua as bolhas antes que elas congelem"
+msgstr "Destrua as bolhas antes que elas congelem"
+
+#: ../content/Default/apps/content.json.h:147
+#: ../content/Default/links/content.json.h:147
+msgctxt "description"
+msgid ""
+"Play by yourself or challenge your friends to an exciting game of frozen "
+"bubbles! Match the colored bubbles in order to knock them down and get them "
+"out of the way before they stack up too high and crash into you. You need to"
+" have a good strategy and develop a quick trigger finger in order to win!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:148
+#: ../content/Default/links/content.json.h:148
+msgctxt "title"
+msgid "Scorched 3D"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:149
+#: ../content/Default/links/content.json.h:149
+msgctxt "subtitle"
+msgid "Turn-based artillery game"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:150
+#: ../content/Default/links/content.json.h:150
+msgctxt "description"
+msgid ""
+"Do you love games with jets, naval vessels, and all sorts of weapons? If so,"
+" then you will love Scorched3D. This game comes with many different lands "
+"for you to visit and engage in battles. You will need to develop a good "
+"strategy in order to outsmart your opponents and make sure that you end up "
+"victorious. You can play by yourself, with friends, or battle other "
+"community members online. Hold onto your hats, because this game is sure to "
+"shake things up!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:151
+#: ../content/Default/links/content.json.h:151
+msgctxt "title"
+msgid "Mexico"
+msgstr "Mexico"
+
+#: ../content/Default/apps/content.json.h:152
+#: ../content/Default/links/content.json.h:152
+msgctxt "subtitle"
+msgid "Learn all about Mexico right from your desktop!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:153
+#: ../content/Default/links/content.json.h:153
+msgctxt "description"
+msgid ""
+"Want to learn more about the nation you call home? Mexico is a beautiful "
+"country with a rich heritage, delicious food, exciting sports, engaging "
+"cultural events, beautiful sites, and much more. Explore articles showcasing"
+" these areas of Mexican life, art, geography, and culture. You’ll deepen "
+"your knowledge of the nation and be able to share what you learn with "
+"friends, family, and visitors."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:154
+#: ../content/Default/links/content.json.h:154
+msgctxt "title"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: ../content/Default/apps/content.json.h:155
+#: ../content/Default/links/content.json.h:155
+msgctxt "subtitle"
+msgid "Learn all about Guatemala right from your desktop!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:156
+#: ../content/Default/links/content.json.h:156
+msgctxt "description"
+msgid ""
+"Guatemala has an ancient and fascinating history, but it’s also a modern, "
+"bustling nation with many attractions, cultural events, and important "
+"population centers. Explore articles showcasing these areas of Guatemalan "
+"life, art, geography, and culture. You’ll deepen your knowledge of Guatemala"
+" and be able to share what you learn with friends, family, and visitors."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:157
+#: ../content/Default/links/content.json.h:157
+msgctxt "title"
+msgid "Science - ES"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:158
+#: ../content/Default/apps/content.json.h:185
+#: ../content/Default/links/content.json.h:158
+#: ../content/Default/links/content.json.h:185
+msgctxt "subtitle"
+msgid "Learn about everything from dinosaurs to space"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:159
+#: ../content/Default/apps/content.json.h:186
+#: ../content/Default/links/content.json.h:159
+#: ../content/Default/links/content.json.h:186
+msgctxt "description"
+msgid ""
+"Are you someone who always wants to know how things work? Do you ask “why” "
+"and “how” often in everyday life? Then this application is for you. This fun"
+" and informative app will help you answer many of the questions you have "
+"about the universe’s wonders, and covers amazing topics like physics, earth "
+"sciences, and life sciences. From the origins of the dinosaurs to the "
+"mysteries of outer space, there’s so much to learn and share! This app will "
+"help you on your road to scientific discovery."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:160
+#: ../content/Default/links/content.json.h:160
+msgctxt "title"
+msgid "Soccer - GT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:161
+#: ../content/Default/apps/content.json.h:164
+#: ../content/Default/apps/content.json.h:167
+#: ../content/Default/links/content.json.h:161
+#: ../content/Default/links/content.json.h:164
+#: ../content/Default/links/content.json.h:167
+msgctxt "subtitle"
+msgid "Learn more about your favorite game - soccer"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:162
+#: ../content/Default/apps/content.json.h:165
+#: ../content/Default/apps/content.json.h:168
+#: ../content/Default/links/content.json.h:162
+#: ../content/Default/links/content.json.h:165
+#: ../content/Default/links/content.json.h:168
+msgctxt "description"
+msgid ""
+"Soccer is a major sport with fans all around the world. Are you one of them?"
+" Then this is the app for you. It features everything you need to know about"
+" the world’s major teams, players, and competitions. Learn facts about the "
+"game and its history, discover the intricacies of the rules, and keep up to "
+"date with articles about your favorite sport!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:163
+#: ../content/Default/links/content.json.h:163
+msgctxt "title"
+msgid "Soccer - BR"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:166
+#: ../content/Default/links/content.json.h:166
+msgctxt "title"
+msgid "Soccer - MX"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:169
+#: ../content/Default/links/content.json.h:169
+msgctxt "title"
+msgid "Travel - ES"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:170
+#: ../content/Default/apps/content.json.h:182
+#: ../content/Default/links/content.json.h:170
+#: ../content/Default/links/content.json.h:182
+msgctxt "subtitle"
+msgid "Explore beautiful places all over the world"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:171
+#: ../content/Default/apps/content.json.h:183
+#: ../content/Default/links/content.json.h:171
+#: ../content/Default/links/content.json.h:183
+msgctxt "description"
+msgid ""
+"The world is an amazing and beautiful place! Start exploring it with this "
+"cool application that lets you see pictures and learn facts about areas from"
+" all over the world. It features information on major sites in places like "
+"the Americas, Europe, Asia and beyond. Learn about natural wonders, explore "
+"new cultures, and discover some of the most important and holy religious "
+"sites in the world!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:172
+#: ../content/Default/links/content.json.h:172
+msgctxt "title"
+msgid "Celebrities - PT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:173
+#: ../content/Default/apps/content.json.h:194
+#: ../content/Default/links/content.json.h:173
+#: ../content/Default/links/content.json.h:194
+msgctxt "subtitle"
+msgid "Learn about celebrities from all around the world"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:174
+#: ../content/Default/apps/content.json.h:195
+#: ../content/Default/links/content.json.h:174
+#: ../content/Default/links/content.json.h:195
+msgctxt "description"
+msgid ""
+"Whether you’re wondering about the life of your favorite movie or pop star, "
+"or want to know more about the background and formative years of an "
+"important politician, this application can help be your guide. Have fun, "
+"learn interesting and juicy facts, and share your knowledge of famous people"
+" with all of your friends!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:175
+#: ../content/Default/links/content.json.h:175
+msgctxt "title"
+msgid "Fitness - PT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:176
+#: ../content/Default/apps/content.json.h:188
+#: ../content/Default/links/content.json.h:176
+#: ../content/Default/links/content.json.h:188
+msgctxt "subtitle"
+msgid "Look and feel your best"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:177
+#: ../content/Default/apps/content.json.h:189
+#: ../content/Default/links/content.json.h:177
+#: ../content/Default/links/content.json.h:189
+msgctxt "description"
+msgid ""
+"We all want to look and feel our best. With this app, you’ll learn how to "
+"exercise safely and effectively. With a range of exercises and routines, as "
+"well as information about keeping yourself safe and preventing injury, "
+"you’ll have your workout on track in no time. The app also features guidance"
+" on how to live a healthy life of the body and the mind."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:178
+#: ../content/Default/links/content.json.h:178
+msgctxt "title"
+msgid "Cooking - PT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:179
+#: ../content/Default/apps/content.json.h:191
+#: ../content/Default/links/content.json.h:179
+#: ../content/Default/links/content.json.h:191
+msgctxt "subtitle"
+msgid "Learn the basics of cooking"
+msgstr "Aprenda as bases de cozinhar"
+
+#: ../content/Default/apps/content.json.h:180
+#: ../content/Default/apps/content.json.h:192
+#: ../content/Default/links/content.json.h:180
+#: ../content/Default/links/content.json.h:192
+msgctxt "description"
+msgid ""
+"Looking to cook something great for your friends and family? This helpful "
+"app features basic cooking instructions and some great recipes. Get helpful "
+"tips about the kitchen, as well as information on how to eat healthily to "
+"keep your body in its best shape. Your loved ones will be glad to share your"
+" cooking creations, and will be impressed with your skills."
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:181
+#: ../content/Default/links/content.json.h:181
+msgctxt "title"
+msgid "Travel - PT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:184
+#: ../content/Default/links/content.json.h:184
+msgctxt "title"
+msgid "Science - PT"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:187
+#: ../content/Default/links/content.json.h:187
+msgctxt "title"
+msgid "Fitness - ES"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:190
+#: ../content/Default/links/content.json.h:190
+msgctxt "title"
+msgid "Cooking - ES"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:193
+#: ../content/Default/links/content.json.h:193
+msgctxt "title"
+msgid "Celebrities - ES"
+msgstr ""
