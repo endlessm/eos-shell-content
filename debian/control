@@ -1,0 +1,21 @@
+Source: eos-shell-content
+Section: non-free/misc
+Priority: standard
+Maintainer: Endless Mobile <maintainers@endlessm.com>
+Uploaders: Roddy Shuler <roddy@endlessm.com>
+Build-Depends: cdbs (>= 0.4.90~),
+               autotools-dev,
+               debhelper (>= 0.7),
+               gnome-pkg-tools,
+               pkg-config,
+               libjson-glib-dev,
+               libglib2.0-dev
+Standards-Version: 3.9.2
+Homepage: http://www.endlessm.com
+
+Package: eos-shell-content
+Architecture: all
+Depends: glib,
+	 json-glib
+Description: Endless OS Shell Content installation package
+ This package will install the content for the app store
