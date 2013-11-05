@@ -15,7 +15,5 @@ Homepage: http://www.endlessm.com
 
 Package: eos-shell-content
 Architecture: all
-Depends: glib,
-	 json-glib
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
