@@ -89,8 +89,8 @@ for source in os.listdir(source_dir):
 
 # Copy and rename the links json to the content folder
 # We currently support only one version of the content,
-# so we use the en-us and ignore es-gt and pt-br
-source = os.path.join(UNZIP_DIR, 'links', 'en-us.json')
+# so we use the es-gt and ignore en-us and pt-br
+source = os.path.join(UNZIP_DIR, 'links', 'es-gt.json')
 target_dir = os.path.join(CONTENT_DIR, 'links')
 target = os.path.join(target_dir, 'content.json')
 os.makedirs(target_dir)
