@@ -1,6 +1,6 @@
-# Translations for the Endless OS Shell Content
-# Copyright (C) 2013 Endless Mobile
-# This file is distributed under the same license as the eos-shell-content package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
 # joelmx <joel@endlessm.com>, 2013
@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-04 15:18-0800\n"
-"PO-Revision-Date: 2013-11-04 23:25+0000\n"
+"POT-Creation-Date: 2013-11-06 15:50-0800\n"
+"PO-Revision-Date: 2013-11-06 23:51+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/teams/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -30,8 +30,8 @@ msgstr "Freecell"
 #: ../content/Default/apps/content.json.h:5
 #: ../content/Default/links/content.json.h:5
 msgctxt "subtitle"
-msgid "Freecell"
-msgstr "Freecell"
+msgid "Solitare based single player card game"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:6
 #: ../content/Default/links/content.json.h:6
@@ -55,8 +55,8 @@ msgstr "Sudoku"
 #: ../content/Default/apps/content.json.h:8
 #: ../content/Default/links/content.json.h:8
 msgctxt "subtitle"
-msgid "Puzzle game"
-msgstr "Quebra-cabeça"
+msgid "Play one of the most popular puzzle games of all time"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:9
 #: ../content/Default/links/content.json.h:9
@@ -79,8 +79,10 @@ msgstr "Academia Khan"
 #: ../content/Default/apps/content.json.h:11
 #: ../content/Default/links/content.json.h:11
 msgctxt "subtitle"
-msgid "Learn almost anything for free"
-msgstr "Aprenda quase qualquer coisa de graça"
+msgid ""
+"Learn about math, computers, economics, science, medicine, finance, history,"
+" and more, for free"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:12
 #: ../content/Default/links/content.json.h:12
@@ -104,8 +106,8 @@ msgstr "Dicionário"
 #: ../content/Default/apps/content.json.h:14
 #: ../content/Default/links/content.json.h:14
 msgctxt "subtitle"
-msgid "GoldenDict"
-msgstr "Dicionário"
+msgid "Feature-rich dictionary lookup software, with lots of bonus tools"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:15
 #: ../content/Default/links/content.json.h:15
@@ -127,8 +129,8 @@ msgstr "Wikipédia"
 #: ../content/Default/apps/content.json.h:17
 #: ../content/Default/links/content.json.h:17
 msgctxt "subtitle"
-msgid "The free encyclopedia"
-msgstr "A enciclopédia livre"
+msgid "The free encyclopedia that anyone can edit"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:18
 #: ../content/Default/links/content.json.h:18
@@ -151,8 +153,9 @@ msgstr "Skype"
 #: ../content/Default/apps/content.json.h:20
 #: ../content/Default/links/content.json.h:20
 msgctxt "subtitle"
-msgid "Internet calls and chat"
-msgstr "Chamadas pela Internet and chat"
+msgid ""
+"Make internet calls for free and cheap online calls to phones and mobiles"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:21
 #: ../content/Default/links/content.json.h:21
@@ -173,8 +176,9 @@ msgstr "Armagetron"
 #: ../content/Default/apps/content.json.h:23
 #: ../content/Default/links/content.json.h:23
 msgctxt "subtitle"
-msgid "Multiplayer game"
-msgstr "Jogo multi-jogador"
+msgid ""
+"Multiplayer 3D game inspired by the lightcycle sequence from the movie Tron"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:24
 #: ../content/Default/links/content.json.h:24
@@ -196,8 +200,8 @@ msgstr "Editor de audio"
 #: ../content/Default/apps/content.json.h:26
 #: ../content/Default/links/content.json.h:26
 msgctxt "subtitle"
-msgid "Record and edit sounds"
-msgstr "Gravar e editar sons"
+msgid "Audio editor for recording, slicing, and mixing audio"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:27
 #: ../content/Default/links/content.json.h:27
@@ -218,8 +222,8 @@ msgstr "Sinuca"
 #: ../content/Default/apps/content.json.h:29
 #: ../content/Default/links/content.json.h:29
 msgctxt "subtitle"
-msgid "Billiard game"
-msgstr "Jogo de Bilhar"
+msgid "Fun 3D billiards game"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:30
 #: ../content/Default/links/content.json.h:30
@@ -265,8 +269,8 @@ msgstr "Chromium BSU"
 #: ../content/Default/apps/content.json.h:35
 #: ../content/Default/links/content.json.h:35
 msgctxt "subtitle"
-msgid "Space shooting game"
-msgstr "Jogo de tiro espacial"
+msgid "A fast paced, arcade-style, top-scrolling space shooter "
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:36
 #: ../content/Default/links/content.json.h:36
@@ -289,8 +293,8 @@ msgstr "Aprenda Inglês"
 #: ../content/Default/apps/content.json.h:38
 #: ../content/Default/links/content.json.h:38
 msgctxt "subtitle"
-msgid "Have fun learning English!"
-msgstr "Divirta-se aprendendo Inglês!"
+msgid "Learn or improve your English while having fun"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:39
 #: ../content/Default/links/content.json.h:39
@@ -312,8 +316,8 @@ msgstr "E-mail"
 #: ../content/Default/apps/content.json.h:41
 #: ../content/Default/links/content.json.h:41
 msgctxt "subtitle"
-msgid "E-mail"
-msgstr "Correio Eletrônico"
+msgid "Full-featured tool for tool managing e-mail, address book and calendar"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:42
 #: ../content/Default/links/content.json.h:42
@@ -335,8 +339,8 @@ msgstr "Baixar Mídia"
 #: ../content/Default/apps/content.json.h:44
 #: ../content/Default/links/content.json.h:44
 msgctxt "subtitle"
-msgid "File sharing"
-msgstr "Compartilhamento de Arquivos"
+msgid "BitTorrent dowloader app that supports file sharing"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:45
 #: ../content/Default/links/content.json.h:45
@@ -359,8 +363,8 @@ msgstr "Calculadora"
 #: ../content/Default/apps/content.json.h:47
 #: ../content/Default/links/content.json.h:47
 msgctxt "subtitle"
-msgid "Calculator"
-msgstr "Calculadora"
+msgid "Full-featured scientific calculator with many bonus tools"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:48
 #: ../content/Default/links/content.json.h:48
@@ -384,8 +388,8 @@ msgstr "Joguinhos"
 #: ../content/Default/apps/content.json.h:50
 #: ../content/Default/links/content.json.h:50
 msgctxt "subtitle"
-msgid "Childrens games"
-msgstr "Jogos pra crianças"
+msgid "Activities for kids like telling time, puzzles, memory games, and more"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:51
 #: ../content/Default/links/content.json.h:51
@@ -402,13 +406,13 @@ msgstr "Este aplicativo torna o aprendizado divertido para as crianças com mais
 #: ../content/Default/links/content.json.h:52
 msgctxt "title"
 msgid "GIMP"
-msgstr "GIMP"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:53
 #: ../content/Default/links/content.json.h:53
 msgctxt "subtitle"
-msgid "Photo Editor"
-msgstr "Editor de Imagem"
+msgid " Image retouching and editing tool"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:54
 #: ../content/Default/links/content.json.h:54
@@ -431,8 +435,8 @@ msgstr "Matemáticas"
 #: ../content/Default/apps/content.json.h:56
 #: ../content/Default/links/content.json.h:56
 msgctxt "subtitle"
-msgid "Mathematics Tool"
-msgstr "Ferramentas Matemáticas"
+msgid " Numerical computing environment and programming language"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:57
 #: ../content/Default/links/content.json.h:57
@@ -478,8 +482,8 @@ msgstr "Fuga"
 #: ../content/Default/apps/content.json.h:62
 #: ../content/Default/links/content.json.h:62
 msgctxt "subtitle"
-msgid "LBreakout2 game"
-msgstr "Jogo LBreakout2 "
+msgid "Classic arcade-style game packed with new features"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:63
 #: ../content/Default/links/content.json.h:63
@@ -501,8 +505,8 @@ msgstr "Planilha"
 #: ../content/Default/apps/content.json.h:65
 #: ../content/Default/links/content.json.h:65
 msgctxt "subtitle"
-msgid "Spreadsheet"
-msgstr "Planilha"
+msgid "Spreadsheet program with a comprehensive range of advanced functions"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:66
 #: ../content/Default/links/content.json.h:66
@@ -525,8 +529,10 @@ msgstr "Apresentação"
 #: ../content/Default/apps/content.json.h:68
 #: ../content/Default/links/content.json.h:68
 msgctxt "subtitle"
-msgid "Presentation"
-msgstr "Apresentação"
+msgid ""
+"Presentation builder enhanced with templates, art, special effects, and "
+"high-impact drawing tools"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:69
 #: ../content/Default/links/content.json.h:69
@@ -549,8 +555,8 @@ msgstr "Redator"
 #: ../content/Default/apps/content.json.h:71
 #: ../content/Default/links/content.json.h:71
 msgctxt "subtitle"
-msgid "Writer"
-msgstr "Redator"
+msgid "Full-featured word processing and desktop publishing tool"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:72
 #: ../content/Default/links/content.json.h:72
@@ -574,8 +580,8 @@ msgstr "Fisicando"
 #: ../content/Default/apps/content.json.h:74
 #: ../content/Default/links/content.json.h:74
 msgctxt "subtitle"
-msgid "Harness gravity with your crayon"
-msgstr "Atrele a gravidade com seu pastel"
+msgid "Play games where physics is used to solve puzzles"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:75
 #: ../content/Default/links/content.json.h:75
@@ -598,8 +604,9 @@ msgstr "Open Arena"
 #: ../content/Default/apps/content.json.h:77
 #: ../content/Default/links/content.json.h:77
 msgctxt "subtitle"
-msgid "First person shooter"
-msgstr "Jogo FPS"
+msgid ""
+"First-person shooter game based on the Quake III Arena-style deathmatch"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:78
 #: ../content/Default/links/content.json.h:78
@@ -621,8 +628,10 @@ msgstr "Editor de Fotos"
 #: ../content/Default/apps/content.json.h:80
 #: ../content/Default/links/content.json.h:80
 msgctxt "subtitle"
-msgid "Edit, filter and share your images"
-msgstr "Edite, filtre e compartilhe suas imagens"
+msgid ""
+"Edit your pictures and create beautiful images that you can share with all "
+"your friends"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:81
 #: ../content/Default/links/content.json.h:81
@@ -645,8 +654,8 @@ msgstr "Pingus"
 #: ../content/Default/apps/content.json.h:83
 #: ../content/Default/links/content.json.h:83
 msgctxt "subtitle"
-msgid "A journey into the unknown"
-msgstr "Uma viagem para o desconhecido"
+msgid "Fun multi-level game featuring penguins"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:84
 #: ../content/Default/links/content.json.h:84
@@ -668,8 +677,8 @@ msgstr "Música"
 #: ../content/Default/apps/content.json.h:86
 #: ../content/Default/links/content.json.h:86
 msgctxt "subtitle"
-msgid "Music player and radio"
-msgstr "Reprodutor de música e rádio"
+msgid "Audio player and radio that plays and helps organize digital music"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:87
 #: ../content/Default/links/content.json.h:87
@@ -691,8 +700,8 @@ msgstr "Fotos"
 #: ../content/Default/apps/content.json.h:89
 #: ../content/Default/links/content.json.h:89
 msgctxt "subtitle"
-msgid "Photo viewer and organizer"
-msgstr "Visualizador e organizador de fotos"
+msgid "Makes it easy to edit, organize, and share photos."
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:90
 #: ../content/Default/links/content.json.h:90
@@ -717,8 +726,8 @@ msgstr "Paciência"
 #: ../content/Default/apps/content.json.h:92
 #: ../content/Default/links/content.json.h:92
 msgctxt "subtitle"
-msgid "Card game"
-msgstr "Jogo de cartas"
+msgid "The classic single player card game"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:93
 #: ../content/Default/links/content.json.h:93
@@ -740,8 +749,9 @@ msgstr "Constelação"
 #: ../content/Default/apps/content.json.h:95
 #: ../content/Default/links/content.json.h:95
 msgctxt "subtitle"
-msgid "Look up at the stars!"
-msgstr "Olhe para as estrelas!"
+msgid ""
+"Planetarium software that shows what you see when you look at the stars"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:96
 #: ../content/Default/links/content.json.h:96
@@ -764,8 +774,8 @@ msgstr "Super Tux"
 #: ../content/Default/apps/content.json.h:98
 #: ../content/Default/links/content.json.h:98
 msgctxt "subtitle"
-msgid "Super Tux"
-msgstr "Super Tux"
+msgid "Classic jump-and-run arcade sidescroller game"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:99
 #: ../content/Default/links/content.json.h:99
@@ -786,8 +796,8 @@ msgstr "Tux Kart"
 #: ../content/Default/apps/content.json.h:101
 #: ../content/Default/links/content.json.h:101
 msgctxt "subtitle"
-msgid "Racing game"
-msgstr "Jogo de corridas"
+msgid "Racing game with colorful characters and imaginative tracks"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:102
 #: ../content/Default/links/content.json.h:102
@@ -811,8 +821,8 @@ msgstr "Teelândia"
 #: ../content/Default/apps/content.json.h:104
 #: ../content/Default/links/content.json.h:104
 msgctxt "subtitle"
-msgid "Multiplayer shooting game"
-msgstr "Jogo de tiro multi jogador"
+msgid "Exciting multi-player shooting game"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:105
 #: ../content/Default/links/content.json.h:105
@@ -835,8 +845,8 @@ msgstr "Videos"
 #: ../content/Default/apps/content.json.h:107
 #: ../content/Default/links/content.json.h:107
 msgctxt "subtitle"
-msgid "Video player"
-msgstr "Reprodutor de vídeo"
+msgid "Full function video and media player"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:108
 #: ../content/Default/links/content.json.h:108
@@ -858,8 +868,8 @@ msgstr "Tradutor"
 #: ../content/Default/apps/content.json.h:110
 #: ../content/Default/links/content.json.h:110
 msgctxt "subtitle"
-msgid "Translate"
-msgstr "Tradutor"
+msgid "Translate text between many languages instantly"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:111
 #: ../content/Default/links/content.json.h:111
@@ -883,8 +893,8 @@ msgstr "123 Tux"
 #: ../content/Default/apps/content.json.h:113
 #: ../content/Default/links/content.json.h:113
 msgctxt "subtitle"
-msgid "Math games"
-msgstr "Jogos matemáticos"
+msgid "Arcade-style game that helps kids practice their math facts"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:114
 #: ../content/Default/links/content.json.h:114
@@ -904,12 +914,10 @@ msgid "Tux Typing"
 msgstr "Tecla Tux"
 
 #: ../content/Default/apps/content.json.h:116
-#: ../content/Default/apps/content.json.h:134
 #: ../content/Default/links/content.json.h:116
-#: ../content/Default/links/content.json.h:134
 msgctxt "subtitle"
-msgid "Learn to type"
-msgstr "Aprenda a digitar"
+msgid "Educational typing tutor for kids"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:117
 #: ../content/Default/links/content.json.h:117
@@ -933,8 +941,8 @@ msgstr "Tempo"
 #: ../content/Default/apps/content.json.h:119
 #: ../content/Default/links/content.json.h:119
 msgctxt "subtitle"
-msgid "See the weather forecast"
-msgstr "Veja a previsão do tempo"
+msgid "Get daily local forecasts from trusted sources"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:120
 #: ../content/Default/links/content.json.h:120
@@ -956,8 +964,8 @@ msgstr "YouTube"
 #: ../content/Default/apps/content.json.h:122
 #: ../content/Default/links/content.json.h:122
 msgctxt "subtitle"
-msgid "Watch videos and series"
-msgstr "Assista vídeos e seriados"
+msgid "Share your videos with friends, family, and the world"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:123
 #: ../content/Default/links/content.json.h:123
@@ -971,19 +979,35 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:124
+#: ../content/Default/apps/content.json.h:127
 #: ../content/Default/links/content.json.h:124
+#: ../content/Default/links/content.json.h:127
 msgctxt "title"
 msgid "Brazil"
 msgstr "Brasil"
 
 #: ../content/Default/apps/content.json.h:125
+#: ../content/Default/apps/content.json.h:128
+#: ../content/Default/apps/content.json.h:155
+#: ../content/Default/apps/content.json.h:158
+#: ../content/Default/apps/content.json.h:161
+#: ../content/Default/apps/content.json.h:164
 #: ../content/Default/links/content.json.h:125
+#: ../content/Default/links/content.json.h:128
+#: ../content/Default/links/content.json.h:155
+#: ../content/Default/links/content.json.h:158
+#: ../content/Default/links/content.json.h:161
+#: ../content/Default/links/content.json.h:164
 msgctxt "subtitle"
-msgid "Learn more about brazilian culture"
-msgstr "Saiba mais sobre a cultura brasileira"
+msgid ""
+"Learn about the country you call home and impress family and friends with "
+"the facts you know"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:126
+#: ../content/Default/apps/content.json.h:129
 #: ../content/Default/links/content.json.h:126
+#: ../content/Default/links/content.json.h:129
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Brazil is a beautiful "
@@ -994,20 +1018,20 @@ msgid ""
 "friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:127
-#: ../content/Default/links/content.json.h:127
+#: ../content/Default/apps/content.json.h:130
+#: ../content/Default/links/content.json.h:130
 msgctxt "title"
 msgid "Health"
 msgstr "Saúde"
 
-#: ../content/Default/apps/content.json.h:128
-#: ../content/Default/links/content.json.h:128
+#: ../content/Default/apps/content.json.h:131
+#: ../content/Default/links/content.json.h:131
 msgctxt "subtitle"
-msgid "Information about health"
-msgstr "Informações sobre saúde"
+msgid "Live a healthy life with this app, packed with tips and resources"
+msgstr ""
 
-#: ../content/Default/apps/content.json.h:129
-#: ../content/Default/links/content.json.h:129
+#: ../content/Default/apps/content.json.h:132
+#: ../content/Default/links/content.json.h:132
 msgctxt "description"
 msgid ""
 "Your health is one of the most important aspects of daily life, and you need"
@@ -1018,20 +1042,20 @@ msgid ""
 "This app is your indispensable resource to learn how to live a healthy life."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:130
-#: ../content/Default/links/content.json.h:130
+#: ../content/Default/apps/content.json.h:133
+#: ../content/Default/links/content.json.h:133
 msgctxt "title"
 msgid "Coding Fun"
 msgstr "Código Divertido"
 
-#: ../content/Default/apps/content.json.h:131
-#: ../content/Default/links/content.json.h:131
+#: ../content/Default/apps/content.json.h:134
+#: ../content/Default/links/content.json.h:134
 msgctxt "subtitle"
-msgid "Learn to code"
-msgstr "Se torne em um hacker"
+msgid "Learn to program computers by creating your own video games"
+msgstr ""
 
-#: ../content/Default/apps/content.json.h:132
-#: ../content/Default/links/content.json.h:132
+#: ../content/Default/apps/content.json.h:135
+#: ../content/Default/links/content.json.h:135
 msgctxt "description"
 msgid ""
 "Do you like playing video games? Then why not create your own? Learn "
@@ -1043,14 +1067,20 @@ msgid ""
 "your very own! "
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:133
-#: ../content/Default/links/content.json.h:133
+#: ../content/Default/apps/content.json.h:136
+#: ../content/Default/links/content.json.h:136
 msgctxt "title"
 msgid "Typing"
 msgstr "Tecla-Okê"
 
-#: ../content/Default/apps/content.json.h:135
-#: ../content/Default/links/content.json.h:135
+#: ../content/Default/apps/content.json.h:137
+#: ../content/Default/links/content.json.h:137
+msgctxt "subtitle"
+msgid "Learn to type with games and songs"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:138
+#: ../content/Default/links/content.json.h:138
 msgctxt "description"
 msgid ""
 "Typing is a valuable skill in almost any educational or professional "
@@ -1062,20 +1092,22 @@ msgid ""
 "the songs you love, all the while gaining a great new ability?"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:136
-#: ../content/Default/links/content.json.h:136
+#: ../content/Default/apps/content.json.h:139
+#: ../content/Default/links/content.json.h:139
 msgctxt "title"
 msgid "Résumé"
 msgstr "Currículo"
 
-#: ../content/Default/apps/content.json.h:137
-#: ../content/Default/links/content.json.h:137
+#: ../content/Default/apps/content.json.h:140
+#: ../content/Default/links/content.json.h:140
 msgctxt "subtitle"
-msgid "Write a résumé"
-msgstr "Escreva um currículo"
+msgid ""
+"Pick a resume template and customize the content to create an impressive "
+"resume in minutes"
+msgstr ""
 
-#: ../content/Default/apps/content.json.h:138
-#: ../content/Default/links/content.json.h:138
+#: ../content/Default/apps/content.json.h:141
+#: ../content/Default/links/content.json.h:141
 msgctxt "description"
 msgid ""
 "The best way to make a great impression on a potential employer is to have "
@@ -1087,20 +1119,21 @@ msgid ""
 "your choice."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:139
-#: ../content/Default/links/content.json.h:139
+#: ../content/Default/apps/content.json.h:142
+#: ../content/Default/links/content.json.h:142
 msgctxt "title"
 msgid "Chat"
 msgstr "Chat"
 
-#: ../content/Default/apps/content.json.h:140
-#: ../content/Default/links/content.json.h:140
+#: ../content/Default/apps/content.json.h:143
+#: ../content/Default/links/content.json.h:143
 msgctxt "subtitle"
-msgid "Converse com amigos por chat e vídeo"
+msgid ""
+"Messaging program that supports text, voice, video chat, and file transfers"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:141
-#: ../content/Default/links/content.json.h:141
+#: ../content/Default/apps/content.json.h:144
+#: ../content/Default/links/content.json.h:144
 msgctxt "description"
 msgid ""
 "This chat app is a truly amazing communication tool. It supports the chat "
@@ -1115,20 +1148,22 @@ msgid ""
 "and family with this awesome app!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:142
-#: ../content/Default/links/content.json.h:142
+#: ../content/Default/apps/content.json.h:145
+#: ../content/Default/links/content.json.h:145
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: ../content/Default/apps/content.json.h:143
-#: ../content/Default/links/content.json.h:143
+#: ../content/Default/apps/content.json.h:146
+#: ../content/Default/links/content.json.h:146
 msgctxt "subtitle"
-msgid "Editor de gráficos vetoriais"
+msgid ""
+"Vector graphics editor with transparency, gradients, node editing, pattern "
+"fills, PNG, and more"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:144
-#: ../content/Default/links/content.json.h:144
+#: ../content/Default/apps/content.json.h:147
+#: ../content/Default/links/content.json.h:147
 msgctxt "description"
 msgid ""
 "This application is for intermediate and advanced graphic designers who need"
@@ -1139,20 +1174,20 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:145
-#: ../content/Default/links/content.json.h:145
+#: ../content/Default/apps/content.json.h:148
+#: ../content/Default/links/content.json.h:148
 msgctxt "title"
 msgid "Frozen Bubble"
 msgstr "Bolhinhas"
 
-#: ../content/Default/apps/content.json.h:146
-#: ../content/Default/links/content.json.h:146
+#: ../content/Default/apps/content.json.h:149
+#: ../content/Default/links/content.json.h:149
 msgctxt "subtitle"
-msgid "Destrua as bolhas antes que elas congelem"
-msgstr "Destrua as bolhas antes que elas congelem"
+msgid "The most addictive computer game you'll ever play"
+msgstr ""
 
-#: ../content/Default/apps/content.json.h:147
-#: ../content/Default/links/content.json.h:147
+#: ../content/Default/apps/content.json.h:150
+#: ../content/Default/links/content.json.h:150
 msgctxt "description"
 msgid ""
 "Play by yourself or challenge your friends to an exciting game of frozen "
@@ -1161,20 +1196,20 @@ msgid ""
 " have a good strategy and develop a quick trigger finger in order to win!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:148
-#: ../content/Default/links/content.json.h:148
+#: ../content/Default/apps/content.json.h:151
+#: ../content/Default/links/content.json.h:151
 msgctxt "title"
 msgid "Scorched 3D"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:149
-#: ../content/Default/links/content.json.h:149
+#: ../content/Default/apps/content.json.h:152
+#: ../content/Default/links/content.json.h:152
 msgctxt "subtitle"
 msgid "Turn-based artillery game"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:150
-#: ../content/Default/links/content.json.h:150
+#: ../content/Default/apps/content.json.h:153
+#: ../content/Default/links/content.json.h:153
 msgctxt "description"
 msgid ""
 "Do you love games with jets, naval vessels, and all sorts of weapons? If so,"
@@ -1186,20 +1221,18 @@ msgid ""
 "shake things up!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:151
-#: ../content/Default/links/content.json.h:151
+#: ../content/Default/apps/content.json.h:154
+#: ../content/Default/apps/content.json.h:157
+#: ../content/Default/links/content.json.h:154
+#: ../content/Default/links/content.json.h:157
 msgctxt "title"
 msgid "Mexico"
 msgstr "Mexico"
 
-#: ../content/Default/apps/content.json.h:152
-#: ../content/Default/links/content.json.h:152
-msgctxt "subtitle"
-msgid "Learn all about Mexico right from your desktop!"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:153
-#: ../content/Default/links/content.json.h:153
+#: ../content/Default/apps/content.json.h:156
+#: ../content/Default/apps/content.json.h:159
+#: ../content/Default/links/content.json.h:156
+#: ../content/Default/links/content.json.h:159
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Mexico is a beautiful "
@@ -1210,20 +1243,18 @@ msgid ""
 "friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:154
-#: ../content/Default/links/content.json.h:154
+#: ../content/Default/apps/content.json.h:160
+#: ../content/Default/apps/content.json.h:163
+#: ../content/Default/links/content.json.h:160
+#: ../content/Default/links/content.json.h:163
 msgctxt "title"
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: ../content/Default/apps/content.json.h:155
-#: ../content/Default/links/content.json.h:155
-msgctxt "subtitle"
-msgid "Learn all about Guatemala right from your desktop!"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:156
-#: ../content/Default/links/content.json.h:156
+#: ../content/Default/apps/content.json.h:162
+#: ../content/Default/apps/content.json.h:165
+#: ../content/Default/links/content.json.h:162
+#: ../content/Default/links/content.json.h:165
 msgctxt "description"
 msgid ""
 "Guatemala has an ancient and fascinating history, but it’s also a modern, "
@@ -1233,24 +1264,21 @@ msgid ""
 " and be able to share what you learn with friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:157
-#: ../content/Default/links/content.json.h:157
+#: ../content/Default/apps/content.json.h:166
+#: ../content/Default/links/content.json.h:166
 msgctxt "title"
-msgid "Science - ES"
+msgid "Science"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:158
-#: ../content/Default/apps/content.json.h:185
-#: ../content/Default/links/content.json.h:158
-#: ../content/Default/links/content.json.h:185
+#: ../content/Default/apps/content.json.h:167
+#: ../content/Default/links/content.json.h:167
 msgctxt "subtitle"
-msgid "Learn about everything from dinosaurs to space"
+msgid ""
+"Discover more about the world around you, from dinosaurs to outer space"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:159
-#: ../content/Default/apps/content.json.h:186
-#: ../content/Default/links/content.json.h:159
-#: ../content/Default/links/content.json.h:186
+#: ../content/Default/apps/content.json.h:168
+#: ../content/Default/links/content.json.h:168
 msgctxt "description"
 msgid ""
 "Are you someone who always wants to know how things work? Do you ask “why” "
@@ -1262,28 +1290,22 @@ msgid ""
 "help you on your road to scientific discovery."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:160
-#: ../content/Default/links/content.json.h:160
+#: ../content/Default/apps/content.json.h:169
+#: ../content/Default/links/content.json.h:169
 msgctxt "title"
-msgid "Soccer - GT"
+msgid "Soccer"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:161
-#: ../content/Default/apps/content.json.h:164
-#: ../content/Default/apps/content.json.h:167
-#: ../content/Default/links/content.json.h:161
-#: ../content/Default/links/content.json.h:164
-#: ../content/Default/links/content.json.h:167
+#: ../content/Default/apps/content.json.h:170
+#: ../content/Default/links/content.json.h:170
 msgctxt "subtitle"
-msgid "Learn more about your favorite game - soccer"
+msgid ""
+"Keep up with your favorite soccer teams, read about famous players, and "
+"learn the rules of the game"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:162
-#: ../content/Default/apps/content.json.h:165
-#: ../content/Default/apps/content.json.h:168
-#: ../content/Default/links/content.json.h:162
-#: ../content/Default/links/content.json.h:165
-#: ../content/Default/links/content.json.h:168
+#: ../content/Default/apps/content.json.h:171
+#: ../content/Default/links/content.json.h:171
 msgctxt "description"
 msgid ""
 "Soccer is a major sport with fans all around the world. Are you one of them?"
@@ -1293,64 +1315,20 @@ msgid ""
 "date with articles about your favorite sport!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:163
-#: ../content/Default/links/content.json.h:163
-msgctxt "title"
-msgid "Soccer - BR"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:166
-#: ../content/Default/links/content.json.h:166
-msgctxt "title"
-msgid "Soccer - MX"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:169
-#: ../content/Default/links/content.json.h:169
-msgctxt "title"
-msgid "Travel - ES"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:170
-#: ../content/Default/apps/content.json.h:182
-#: ../content/Default/links/content.json.h:170
-#: ../content/Default/links/content.json.h:182
-msgctxt "subtitle"
-msgid "Explore beautiful places all over the world"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:171
-#: ../content/Default/apps/content.json.h:183
-#: ../content/Default/links/content.json.h:171
-#: ../content/Default/links/content.json.h:183
-msgctxt "description"
-msgid ""
-"The world is an amazing and beautiful place! Start exploring it with this "
-"cool application that lets you see pictures and learn facts about areas from"
-" all over the world. It features information on major sites in places like "
-"the Americas, Europe, Asia and beyond. Learn about natural wonders, explore "
-"new cultures, and discover some of the most important and holy religious "
-"sites in the world!"
-msgstr ""
-
 #: ../content/Default/apps/content.json.h:172
 #: ../content/Default/links/content.json.h:172
 msgctxt "title"
-msgid "Celebrities - PT"
+msgid "Celebrities"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:173
-#: ../content/Default/apps/content.json.h:194
 #: ../content/Default/links/content.json.h:173
-#: ../content/Default/links/content.json.h:194
 msgctxt "subtitle"
-msgid "Learn about celebrities from all around the world"
+msgid "Packed with information and gossip about the most famous celebrities"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:174
-#: ../content/Default/apps/content.json.h:195
 #: ../content/Default/links/content.json.h:174
-#: ../content/Default/links/content.json.h:195
 msgctxt "description"
 msgid ""
 "Whether you’re wondering about the life of your favorite movie or pop star, "
@@ -1363,21 +1341,19 @@ msgstr ""
 #: ../content/Default/apps/content.json.h:175
 #: ../content/Default/links/content.json.h:175
 msgctxt "title"
-msgid "Fitness - PT"
+msgid "Fitness"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:176
-#: ../content/Default/apps/content.json.h:188
 #: ../content/Default/links/content.json.h:176
-#: ../content/Default/links/content.json.h:188
 msgctxt "subtitle"
-msgid "Look and feel your best"
+msgid ""
+"Take care of your body with tips and techniques for excercise and healthy "
+"living"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:177
-#: ../content/Default/apps/content.json.h:189
 #: ../content/Default/links/content.json.h:177
-#: ../content/Default/links/content.json.h:189
 msgctxt "description"
 msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
@@ -1390,21 +1366,17 @@ msgstr ""
 #: ../content/Default/apps/content.json.h:178
 #: ../content/Default/links/content.json.h:178
 msgctxt "title"
-msgid "Cooking - PT"
+msgid "Cooking"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:179
-#: ../content/Default/apps/content.json.h:191
 #: ../content/Default/links/content.json.h:179
-#: ../content/Default/links/content.json.h:191
 msgctxt "subtitle"
-msgid "Learn the basics of cooking"
-msgstr "Aprenda as bases de cozinhar"
+msgid "Tips and tricks for the kitchen to share with family and friends"
+msgstr ""
 
 #: ../content/Default/apps/content.json.h:180
-#: ../content/Default/apps/content.json.h:192
 #: ../content/Default/links/content.json.h:180
-#: ../content/Default/links/content.json.h:192
 msgctxt "description"
 msgid ""
 "Looking to cook something great for your friends and family? This helpful "
@@ -1417,29 +1389,55 @@ msgstr ""
 #: ../content/Default/apps/content.json.h:181
 #: ../content/Default/links/content.json.h:181
 msgctxt "title"
-msgid "Travel - PT"
+msgid "Travel"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:182
+#: ../content/Default/links/content.json.h:182
+msgctxt "subtitle"
+msgid "Explore the sites of the world from your own living room"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:183
+#: ../content/Default/links/content.json.h:183
+msgctxt "description"
+msgid ""
+"The world is an amazing and beautiful place! Start exploring it with this "
+"cool application that lets you see pictures and learn facts about areas from"
+" all over the world. It features information on major sites in places like "
+"the Americas, Europe, Asia and beyond. Learn about natural wonders, explore "
+"new cultures, and discover some of the most important and holy religious "
+"sites in the world!"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:184
 #: ../content/Default/links/content.json.h:184
 msgctxt "title"
-msgid "Science - PT"
+msgid "My Documents"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:185
+#: ../content/Default/links/content.json.h:185
+msgctxt "subtitle"
+msgid "File manager"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:186
+#: ../content/Default/apps/content.json.h:189
+#: ../content/Default/links/content.json.h:186
+#: ../content/Default/links/content.json.h:189
+msgctxt "description"
+msgid "No description necessary -- this is not available via the app store"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:187
 #: ../content/Default/links/content.json.h:187
 msgctxt "title"
-msgid "Fitness - ES"
+msgid "Internet"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:190
-#: ../content/Default/links/content.json.h:190
-msgctxt "title"
-msgid "Cooking - ES"
-msgstr ""
-
-#: ../content/Default/apps/content.json.h:193
-#: ../content/Default/links/content.json.h:193
-msgctxt "title"
-msgid "Celebrities - ES"
+#: ../content/Default/apps/content.json.h:188
+#: ../content/Default/links/content.json.h:188
+msgctxt "subtitle"
+msgid "Browse the Web"
 msgstr ""
