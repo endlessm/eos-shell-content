@@ -76,7 +76,9 @@ for source in os.listdir(source_dir):
 # Copy the screenshot images to the content folder
 # resized to a width of 480 pixels
 # (Note: if the featured image is square, we just use the thumbnail)
-source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots')
+# For now, we only support one set of screenshots,
+# os let's grab the Spanish versions
+source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', 'es-gt')
 target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'screenshots')
 os.makedirs(target_dir)
 for source in os.listdir(source_dir):
