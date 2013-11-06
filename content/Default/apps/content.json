@@ -3,14 +3,32 @@
     "displayShape":"b1",
     "application-id":"sol",
     "desktop-id":"eos-app-sol",
+    "exec":"sol --variation=freecell",
+    "tryexec":"",
+    "folder":"games",
+    "desktop-position":"40",
     "title":"Freecell",
-    "subtitle":"Freecell",
+    "subtitle":"Solitare based single player card game",
     "description":"This application lets you play a new type of solitaire that will keep you busy for hours! Freecell Solitaire is a little different from the traditional Klondike Solitaire, but the rules are easy to get the hang of. Like Klondike Solitaire, the general idea is to put cards of the same suit down in numerical order, but it\u2019s a little more complicated than that. This card game challenges the mind and provides plenty of entertainment for you to enjoy.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"sol-icon.png",
     "square_img":"sol-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "sol-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "sol-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "sol-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "sol-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -19,14 +37,32 @@
     "displayShape":"b1",
     "application-id":"gnome-sudoku",
     "desktop-id":"eos-app-gnome-sudoku",
+    "exec":"gnome-sudoku",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Sudoku",
-    "subtitle":"Puzzle game",
+    "subtitle":"Play one of the most popular puzzle games of all time",
     "description":"If you\u2019re a fan of puzzles and math games, the Sudoku app is perfect for you. These fun brain teasers require you to input numbers in a grid so that you have unique rows, columns, and grid regions containing all the numbers 1 through 9. It may seem complicated at first, but with this app, you\u2019ll learn how to play and can get the hang of the game in no time. You'll soon have hours of fun solving Sudoku puzzles and exercising your mind!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gnome-sudoku-icon.png",
     "square_img":"gnome-sudoku-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "gnome-sudoku-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "gnome-sudoku-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "gnome-sudoku-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "gnome-sudoku-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -35,15 +71,35 @@
     "displayShape":"b2h",
     "application-id":"khanacademy",
     "desktop-id":"eos-app-com.endlessm.khanacademy",
+    "exec":"eos-khanacademy",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"40",
     "title":"Khan Academy",
-    "subtitle":"Learn almost anything for free",
+    "subtitle":"Learn about math, computers, economics, science, medicine, finance, history, and more, for free",
     "description":"A whole world of learning is at your fingertips with the Khan Academy app. One of the greatest educational resources out there, Khan Academy, offers online video courses in a vast variety of content areas, including math, biology, chemistry, and physics. These exciting videos give you access to fascinating content, and help you learn more than just your classroom's education. The videos are free, easy to access, and provide learning opportunities that are sure to expand your mind.",
+    "personalities":[
+      "Default"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"khanacademy-splash.jpg",
+    "icon":"khanacademy-icon.png",
     "square_img":"khanacademy-thumb.jpg",
     "featured_img":"khanacademy-featured.jpg",
-    "screenshots":[
-      "khanacademy-screenshot1.jpg",
-      "khanacademy-screenshot2.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
+      ],
+      "pt-br":[
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
+      ],
+      "es-gt":[
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Education"
@@ -52,14 +108,32 @@
     "displayShape":"b1",
     "application-id":"goldendict",
     "desktop-id":"eos-app-goldendict",
+    "exec":"goldendict",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Dictionary",
-    "subtitle":"GoldenDict",
+    "subtitle":"Feature-rich dictionary lookup software, with lots of bonus tools",
     "description":"In reading and conversation, words often come up with which you\u2019re not familiar. Rather than pretend you know what they mean, it\u2019s best to have a dictionary app so you can learn new vocabulary and understand what you read and hear. This dictionary app is easy to use and navigate, so you\u2019ll never have trouble finding just the word you\u2019re looking for. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"goldendict-icon.png",
     "square_img":"goldendict-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "goldendict-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "goldendict-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "goldendict-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "goldendict-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -68,15 +142,35 @@
     "displayShape":"b2v",
     "application-id":"wikipedia",
     "desktop-id":"eos-app-com.endlessm.wikipedia",
+    "exec":"eos-wikipedia",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"10",
     "title":"Wikipedia",
-    "subtitle":"The free encyclopedia",
+    "subtitle":"The free encyclopedia that anyone can edit",
     "description":"Whether you\u2019re working online or offline, you want access to the world\u2019s treasure trove of information \u2013 Wikipedia. With the Wikipedia app, you\u2019ll have just that. Use the easy search tool to look up any topic you want, and you\u2019ll be able to read the encyclopedia entry on that topic. You\u2019ll learn more than you ever thought possible with access to the Internet's greatest informational resource.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"wikipedia-splash.jpg",
+    "icon":"wikipedia-icon.png",
     "square_img":"wikipedia-thumb.jpg",
     "featured_img":"wikipedia-featured.jpg",
-    "screenshots":[
-      "wikipedia-screenshot1.jpg",
-      "wikipedia-screenshot2.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
+      ],
+      "pt-br":[
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
+      ],
+      "es-gt":[
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Education"
@@ -85,14 +179,32 @@
     "displayShape":"b2v",
     "application-id":"skype",
     "desktop-id":"eos-app-skype",
+    "exec":"skype %U",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"40",
     "title":"Skype",
-    "subtitle":"Internet calls and chat",
+    "subtitle":"Make internet calls for free and cheap online calls to phones and mobiles",
     "description":"Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"None",
+    "custom-splash-screen":"",
+    "icon":"skype-icon.png",
     "square_img":"skype-thumb.jpg",
     "featured_img":"skype-featured.jpg",
-    "screenshots":[
-      "skype-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "skype-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "skype-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "skype-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Utility"
@@ -101,14 +213,32 @@
     "displayShape":"b1",
     "application-id":"armagetron",
     "desktop-id":"eos-app-armagetron",
+    "exec":"armagetronad",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Armagetron",
-    "subtitle":"Multiplayer game",
+    "subtitle":"Multiplayer 3D game inspired by the lightcycle sequence from the movie Tron",
     "description":"This exciting game lets you into the world of Tron. Get behind the wheel of a \u201clight cycle\u201d, a cool and futuristic motorcycle, and battle others on the road. Force your opponents to hit the arena walls to eliminate them from the game and come out victorious. This app is easy to learn and a lot of fun to play!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"armagetron-icon.png",
     "square_img":"armagetron-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "armagetron-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "armagetron-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "armagetron-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "armagetron-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -117,14 +247,32 @@
     "displayShape":"b1",
     "application-id":"audacity",
     "desktop-id":"eos-app-audacity",
+    "exec":"audacity",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Audio Editor",
-    "subtitle":"Record and edit sounds",
+    "subtitle":"Audio editor for recording, slicing, and mixing audio",
     "description":"Have you ever wanted to make your own audio clips or songs? With this app, you'll be able to access all the tools you need to create audio clips that you can play for your friends and family. Create high quality clips and songs that you can even share with the world! ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"audacity-icon.png",
     "square_img":"audacity-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "audacity-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "audacity-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "audacity-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "audacity-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -133,14 +281,32 @@
     "displayShape":"b2v",
     "application-id":"billard-gl",
     "desktop-id":"eos-app-billard-gl",
+    "exec":"billard-gl",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Billiards",
-    "subtitle":"Billiard game",
+    "subtitle":"Fun 3D billiards game",
     "description":"Do you love playing billiards, or have you ever wanted to learn how to play? This game lets you have the experience of playing pool and other similar games right from your home. It\u2019s simple to learn and use, yet highly realistic. Play carom, eightball or nineball games, or just practice for real-life billiards games against your friends. This app is a great tool for both playing for fun and improving your game.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"billard-gl-icon.png",
     "square_img":"billard-gl-thumb.jpg",
     "featured_img":"billard-gl-featured.jpg",
-    "screenshots":[
-      "billard-gl-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "billard-gl-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "billard-gl-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "billard-gl-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -149,14 +315,32 @@
     "displayShape":"b2v",
     "application-id":"blockout2",
     "desktop-id":"eos-app-blockout2",
+    "exec":"blockout2",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"BlockOut 2",
     "subtitle":"3D Tetris-style game",
     "description":"Do you love puzzle games? Then you\u2019ll love BlockOut 2. This 3-D Tetris game is fast-paced and a lot of fun! Figure out how to stack different-shaped blocks together and create whole layers of blocks to get points, all before the blocks stack up too high and you lose! It\u2019s great for the brain, and tons of fun.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"blockout2-icon.png",
     "square_img":"blockout2-thumb.jpg",
     "featured_img":"blockout2-featured.jpg",
-    "screenshots":[
-      "blockout2-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "blockout2-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "blockout2-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "blockout2-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -165,14 +349,32 @@
     "displayShape":"b2v",
     "application-id":"chromium-bsu",
     "desktop-id":"eos-app-chromium-bsu",
+    "exec":"resfix chromium-bsu --fullscreen",
+    "tryexec":"chromium-bsu",
+    "folder":"games",
+    "desktop-position":"60",
     "title":"Chromium BSU",
-    "subtitle":"Space shooting game",
+    "subtitle":"A fast paced, arcade-style, top-scrolling space shooter ",
     "description":"Imagine this: You\u2019re the captain of Chromium B.S.U., a vital cargo ship that must get supplies to the frontline of a great war in space. With the help of your robotic fighting fleet, you just might make it. This thrilling, arcade-style game is sure to get your blood pumping. With a variety of objectives to achieve and the tools to do it, you\u2019re on your way to a galaxy of fun!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"chromium-bsu-icon.png",
     "square_img":"chromium-bsu-thumb.jpg",
     "featured_img":"chromium-bsu-featured.jpg",
-    "screenshots":[
-      "chromium-bsu-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "chromium-bsu-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "chromium-bsu-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "chromium-bsu-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -181,16 +383,38 @@
     "displayShape":"b2v",
     "application-id":"english",
     "desktop-id":"eos-app-com.endlessm.endless-english",
+    "exec":"eos-english",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"30",
     "title":"Learn English",
-    "subtitle":"Have fun learning English!",
+    "subtitle":"Learn or improve your English while having fun",
     "description":"Ready to take your English to a new level? Have fun and learn a new skill by playing games, listening to your favorites songs with lyrics, and watching interesting videos. Sometimes all it takes is a push in the right direction, and with our app, you\u2019ll learn about resources that can help you improve your English and take you to new opportunities.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"english-splash.jpg",
+    "icon":"english-icon.png",
     "square_img":"english-thumb.jpg",
     "featured_img":"english-featured.jpg",
-    "screenshots":[
-      "english-screenshot1.jpg",
-      "english-screenshot2.jpg",
-      "english-screenshot3.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "english-screenshot1.jpg",
+        "english-screenshot2.jpg",
+        "english-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "english-screenshot1.jpg",
+        "english-screenshot2.jpg",
+        "english-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "english-screenshot1.jpg",
+        "english-screenshot2.jpg",
+        "english-screenshot3.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Education"
@@ -199,14 +423,32 @@
     "displayShape":"b1",
     "application-id":"evolution",
     "desktop-id":"eos-app-evolution",
+    "exec":"evolution %U",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"10",
     "title":"E-mail",
-    "subtitle":"E-mail",
+    "subtitle":"Full-featured tool for tool managing e-mail, address book and calendar",
     "description":"Staying in touch is an important part of modern life, and email has become one of the best ways of doing so. You may receive emails from faraway or close-by friends and family, access messages containing daily jokes, vocabulary, or news, and even handle important matters \u2013 all via email. When you need to check your email quickly and simply, this app is there for you.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"evolution-icon.png",
     "square_img":"evolution-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "evolution-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "evolution-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "evolution-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "evolution-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -215,14 +457,32 @@
     "displayShape":"b1",
     "application-id":"frostwire",
     "desktop-id":"eos-app-frostwire",
+    "exec":"frostwire",
+    "tryexec":"",
+    "folder":"media",
+    "desktop-position":"40",
     "title":"Media Download",
-    "subtitle":"File sharing",
+    "subtitle":"BitTorrent dowloader app that supports file sharing",
     "description":"With this useful app, you can access, download and share almost any file you'd like to on the Web. From music, videos, and games to more complex downloads like software, you can share files with millions of users. Special features include a video player built into the app. Share files large and small with a massive online community, and get the media you love right at your fingertips.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"frostwire-icon.png",
     "square_img":"frostwire-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "frostwire-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "frostwire-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "frostwire-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "frostwire-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -231,14 +491,32 @@
     "displayShape":"b1",
     "application-id":"gcalctool",
     "desktop-id":"eos-app-gnome-calculator",
+    "exec":"gnome-calculator",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"50",
     "title":"Calculator",
-    "subtitle":"Calculator",
+    "subtitle":"Full-featured scientific calculator with many bonus tools",
     "description":"Do you ever consider how often you need to do basic or even complex math in daily life? From calculating a budget to converting measurements in a recipe to figuring out taxes, you probably use equations more regularly than you think. That\u2019s why this calculator app comes in handy. Perform simple arithmetic quickly, or allow the calculator to do more advanced work, depending on your needs. You\u2019ll never struggle to perform mathematical tasks again as long as you have this calculator app! ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"None",
+    "custom-splash-screen":"",
+    "icon":"gcalctool-icon.png",
     "square_img":"gcalctool-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "gcalctool-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "gcalctool-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "gcalctool-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "gcalctool-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -247,14 +525,32 @@
     "displayShape":"b1",
     "application-id":"gcompris",
     "desktop-id":"eos-app-gcompris",
+    "exec":"gcompris",
+    "tryexec":"",
+    "folder":"games",
+    "desktop-position":"80",
     "title":"EduGames",
-    "subtitle":"Childrens games",
+    "subtitle":"Activities for kids like telling time, puzzles, memory games, and more",
     "description":"This app makes learning fun for young children with more than 100 games and activities! Educational topics include reading, geography, and math, and the app also features games like chess and Connect Four, which are great for young brains. Your child will have a wonderful time developing valuable skills that will help him or her throughout life.  ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gcompris-icon.png",
     "square_img":"gcompris-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "gcompris-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "gcompris-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "gcompris-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "gcompris-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -263,14 +559,32 @@
     "displayShape":"b1",
     "application-id":"gimp",
     "desktop-id":"eos-app-gimp",
+    "exec":"gimp %U",
+    "tryexec":"",
+    "folder":"media",
+    "desktop-position":"50",
     "title":"GIMP",
-    "subtitle":"Photo Editor",
+    "subtitle":" Image retouching and editing tool",
     "description":"This application is similar to Adobe Photoshop, and it is free. This tool allows you to edit photos in a variety of ways, creating even more beautiful works of art from your original images. This app can also do things like convert formats of files or serve as a basic paint program. There are so many possibilities for how to create cool images once you get the hang of this helpful editing app!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gimp-icon.png",
     "square_img":"gimp-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "gimp-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "gimp-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "gimp-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "gimp-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -279,14 +593,32 @@
     "displayShape":"b1",
     "application-id":"gnome-genius",
     "desktop-id":"eos-app-gnome-genius",
+    "exec":"gnome-genius",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Math",
-    "subtitle":"Mathematics Tool",
+    "subtitle":" Numerical computing environment and programming language",
     "description":"This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as a high-level calculator. Everything you need to figure out numerical mysteries is right here.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gnome-genius-icon.png",
     "square_img":"gnome-genius-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "gnome-genius-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "gnome-genius-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "gnome-genius-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "gnome-genius-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -295,14 +627,32 @@
     "displayShape":"b1",
     "application-id":"kobodeluxe",
     "desktop-id":"eos-app-kobodeluxe",
+    "exec":"resfix \"kobodl -fullscreen\"",
+    "tryexec":"kobodl",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Kobo Deluxe",
     "subtitle":"Destroy enemy bases in space",
     "description":"Fans of arcade-style games will love the Kobo Deluxe app. This third-person shooter allows you to protect yourself from and destroy enemy ships as they pursue you, shooting and launching themselves at you. All this takes place in an exciting outer-space environment, with fun graphics and invigorating tactical challenges. Move up through the 50 levels and come out a champion. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kobodeluxe-icon.png",
     "square_img":"kobodeluxe-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "kobodeluxe-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "kobodeluxe-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "kobodeluxe-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "kobodeluxe-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -311,14 +661,32 @@
     "displayShape":"b1",
     "application-id":"lbreakout2",
     "desktop-id":"eos-app-lbreakout2",
+    "exec":"lbreakout2",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Breakout",
-    "subtitle":"LBreakout2 game",
+    "subtitle":"Classic arcade-style game packed with new features",
     "description":"This classic paddle game is tons of fun! The aim is to destroy bricks with your ball by hitting them with your paddle, which allows you to level up. The original Breakout game came out in 1976, and people have loved this simple yet addictive game ever since. Get your brick-breaking fix with great graphics and animation, intuitive controls, and plenty of levels to beat.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"lbreakout2-icon.png",
     "square_img":"lbreakout2-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "lbreakout2-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "lbreakout2-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "lbreakout2-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "lbreakout2-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -327,14 +695,32 @@
     "displayShape":"b1",
     "application-id":"libreoffice-calc",
     "desktop-id":"eos-app-libreoffice-calc",
+    "exec":"libreoffice --calc %U",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"20",
     "title":"Spreadsheet",
-    "subtitle":"Spreadsheet",
+    "subtitle":"Spreadsheet program with a comprehensive range of advanced functions",
     "description":"Whatever you need to keep track of, the spreadsheet app can help you do it. This advanced yet easy-to-use spreadsheet has something for everyone: a simple layout that\u2019s easy to understand, plus the ability to do complex calculations. Spreadsheets are used in many careers throughout the world, so getting the hang of this app can also help you gain valuable skills for the job market.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"libreoffice-calc-icon.png",
     "square_img":"libreoffice-calc-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "libreoffice-calc-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "libreoffice-calc-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "libreoffice-calc-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "libreoffice-calc-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -343,14 +729,32 @@
     "displayShape":"b1",
     "application-id":"libreoffice-impress",
     "desktop-id":"eos-app-libreoffice-impress",
+    "exec":"libreoffice --impress %U",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"30",
     "title":"Presentation",
-    "subtitle":"Presentation",
+    "subtitle":"Presentation builder enhanced with templates, art, special effects, and high-impact drawing tools",
     "description":"Create clean, attractive, and professional presentations with this presentation app. This app features the ability to use text, drawing tools, transitions, 2-D and 3-D art, and even animations to get your point across in a beautiful and compelling way. And best of all, this app is easy to understand and use, with simplified steps for creating exactly what you need.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"libreoffice-impress-icon.png",
     "square_img":"libreoffice-impress-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "libreoffice-impress-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "libreoffice-impress-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "libreoffice-impress-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "libreoffice-impress-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -359,14 +763,32 @@
     "displayShape":"b1",
     "application-id":"libreoffice-writer",
     "desktop-id":"eos-app-libreoffice-writer",
+    "exec":"libreoffice --writer %U",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"50",
     "title":"Writer",
-    "subtitle":"Writer",
+    "subtitle":"Full-featured word processing and desktop publishing tool",
     "description":"This app gives you all the features of the best word processing applications and is compatible with Microsoft Office. Create and edit documents easily, create short notes and longer pieces of writing with annotations and diagrams. It\u2019s all possible with this app. Your documents will look professional enough to present to employers, teachers, or other important people. Use this app to compose your next masterpiece or to take great notes; either way, you\u2019ll have simple yet powerful tools available.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"libreoffice-writer-icon.png",
     "square_img":"libreoffice-writer-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "libreoffice-writer-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "libreoffice-writer-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "libreoffice-writer-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "libreoffice-writer-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -375,14 +797,32 @@
     "displayShape":"b2v",
     "application-id":"numptyphysics",
     "desktop-id":"eos-app-numptyphysics",
+    "exec":"numptyphysics",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Physics",
-    "subtitle":"Harness gravity with your crayon",
+    "subtitle":"Play games where physics is used to solve puzzles",
     "description":"Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"numptyphysics-icon.png",
     "square_img":"numptyphysics-thumb.jpg",
     "featured_img":"numptyphysics-featured.jpg",
-    "screenshots":[
-      "numptyphysics-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "numptyphysics-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "numptyphysics-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "numptyphysics-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -391,14 +831,32 @@
     "displayShape":"b1",
     "application-id":"openarena",
     "desktop-id":"eos-app-openarena",
+    "exec":"resfix openarena +r_fullscreen 1",
+    "tryexec":"openarena",
+    "folder":"games",
+    "desktop-position":"10",
     "title":"Open Arena",
-    "subtitle":"First person shooter",
+    "subtitle":"First-person shooter game based on the Quake III Arena-style deathmatch",
     "description":"If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"openarena-icon.png",
     "square_img":"openarena-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "openarena-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "openarena-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "openarena-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "openarena-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -407,15 +865,35 @@
     "displayShape":"b2v",
     "application-id":"photos",
     "desktop-id":"eos-app-com.endlessm.endless-photos",
+    "exec":"endless-os-photos %f",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"70",
     "title":"Photo Editor",
-    "subtitle":"Edit, filter and share your images",
+    "subtitle":"Edit your pictures and create beautiful images that you can share with all your friends",
     "description":"Have you ever wanted to edit your own photos like the pros and create beautiful images you can share with those you love? Well, now you can do that in just a few steps! We have a variety of attractive, artful filters so you can customize your photos and create one-of-a-kind works of art from your everyday life. And with this handy app, you can post your creations directly to Facebook, so everyone can see your photography skills!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"photos-splash.jpg",
+    "icon":"photos-icon.png",
     "square_img":"photos-thumb.jpg",
     "featured_img":"photos-featured.jpg",
-    "screenshots":[
-      "photos-screenshot1.jpg",
-      "photos-screenshot2.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "photos-screenshot1.jpg",
+        "photos-screenshot2.jpg"
+      ],
+      "pt-br":[
+        "photos-screenshot1.jpg",
+        "photos-screenshot2.jpg"
+      ],
+      "es-gt":[
+        "photos-screenshot1.jpg",
+        "photos-screenshot2.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -424,14 +902,32 @@
     "displayShape":"b1",
     "application-id":"pingus",
     "desktop-id":"eos-app-pingus",
+    "exec":"pingus",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Pingus",
-    "subtitle":"A journey into the unknown",
+    "subtitle":"Fun multi-level game featuring penguins",
     "description":"Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"pingus-icon.png",
     "square_img":"pingus-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "pingus-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "pingus-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "pingus-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "pingus-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -440,14 +936,32 @@
     "displayShape":"b2h",
     "application-id":"rhythmbox",
     "desktop-id":"eos-app-rhythmbox",
+    "exec":"rhythmbox %U",
+    "tryexec":"",
+    "folder":"media",
+    "desktop-position":"30",
     "title":"Music",
-    "subtitle":"Music player and radio",
+    "subtitle":"Audio player and radio that plays and helps organize digital music",
     "description":"In addition to listening to your favorite music, this app lets you search through your library, create playlists, play and burn CDs, shows you album art and even songs' lyrics. This app also supports Internet radio streaming and audio visualizations. Enjoy all your favorite songs, stored and sorted in one convenient app.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"rhythmbox-icon.png",
     "square_img":"rhythmbox-thumb.jpg",
     "featured_img":"rhythmbox-featured.jpg",
-    "screenshots":[
-      "rhythmbox-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "rhythmbox-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "rhythmbox-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "rhythmbox-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -456,14 +970,32 @@
     "displayShape":"b2v",
     "application-id":"shotwell",
     "desktop-id":"eos-app-shotwell",
+    "exec":"shotwell %U",
+    "tryexec":"",
+    "folder":"media",
+    "desktop-position":"10",
     "title":"Photos",
-    "subtitle":"Photo viewer and organizer",
+    "subtitle":"Makes it easy to edit, organize, and share photos.",
     "description":"We all love to take pictures in our everyday lives \u2013 and we especially love downloading them to our computers so we can edit and share them via social media. This app lets you import photos from a digital camera or phone seamlessly. You can then arrange them into albums, edit them for maximum beauty and effect, and of course, display them on your favorite social networks, like Facebook. This photo app also allows you to create albums that you share on the web, if you\u2019d rather share that way. Whatever you choose, your friends can see all the photos you want them to!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"shotwell-icon.png",
     "square_img":"shotwell-thumb.jpg",
     "featured_img":"shotwell-featured.jpg",
-    "screenshots":[
-      "shotwell-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "shotwell-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "shotwell-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "shotwell-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Utility"
@@ -472,14 +1004,32 @@
     "displayShape":"b1",
     "application-id":"solitaire",
     "desktop-id":"eos-app-solitaire",
+    "exec":"sol --class=solitaire --variation=klondike",
+    "tryexec":"",
+    "folder":"games",
+    "desktop-position":"30",
     "title":"Solitaire",
-    "subtitle":"Card game",
+    "subtitle":"The classic single player card game",
     "description":"Solitaire is a classic card game that is fun for people of all ages. It\u2019s easy to figure out the rules, but it takes time to master the game.  Luckily, you\u2019ll want to put in the time to really learn how to play, because you\u2019ll be having so much fun. This engrossing and mind-enriching game is sure to entertain you, hour after hour.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"solitaire-icon.png",
     "square_img":"solitaire-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "solitaire-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "solitaire-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "solitaire-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "solitaire-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -488,14 +1038,32 @@
     "displayShape":"b1",
     "application-id":"stellarium",
     "desktop-id":"eos-app-stellarium",
+    "exec":"stellarium-wrapper",
+    "tryexec":"stellarium",
+    "folder":"curiosity",
+    "desktop-position":"80",
     "title":"Stellarium",
-    "subtitle":"Look up at the stars!",
+    "subtitle":"Planetarium software that shows what you see when you look at the stars",
     "description":"Discover the night sky with this application. With a catalogue of more than 600,000 stars, constellations from more than a dozen cultures, and many more features, this application lets you see and get to know the stars right from your desktop. This application shows you a night sky that is so realistic, it matches the one you see above you. Set your location coordinates and learn about the stars above you!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"stellarium-icon.png",
     "square_img":"stellarium-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "stellarium-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "stellarium-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "stellarium-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "stellarium-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -504,14 +1072,32 @@
     "displayShape":"b2v",
     "application-id":"supertux2",
     "desktop-id":"eos-app-supertux2",
+    "exec":"resfix supertux2 --fullscreen",
+    "tryexec":"supertux2",
+    "folder":"games",
+    "desktop-position":"50",
     "title":"Super Tux",
-    "subtitle":"Super Tux",
+    "subtitle":"Classic jump-and-run arcade sidescroller game",
     "description":"This game is similar to the original Super Mario Brothers games and allows your avatar to run and jump its way to new levels. The game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"supertux2-icon.png",
     "square_img":"supertux2-thumb.jpg",
     "featured_img":"supertux2-featured.jpg",
-    "screenshots":[
-      "supertux2-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "supertux2-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "supertux2-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "supertux2-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -520,14 +1106,32 @@
     "displayShape":"b2h",
     "application-id":"supertuxkart",
     "desktop-id":"eos-app-supertuxkart",
+    "exec":"resfix supertuxkart --fullscreen",
+    "tryexec":"supertuxkart",
+    "folder":"games",
+    "desktop-position":"70",
     "title":"Tux Kart",
-    "subtitle":"Racing game",
+    "subtitle":"Racing game with colorful characters and imaginative tracks",
     "description":"Tux Kart is a racing game that stars the lovable character, Tux the Penguin. This game features several different tracks of varying difficulty for you to test your driving skills. Whether you\u2019re on Tux\u2019s Tollway or Gown\u2019s Bow, you\u2019re rushing toward the finish, trying to stay ahead of your opponents as you collect Red Herrings (which give you special abilities) and avoid Green Herrings (which trip you up). This game is sure to entertain you and your friends for hours!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"supertuxkart-icon.png",
     "square_img":"supertuxkart-thumb.jpg",
     "featured_img":"supertuxkart-featured.jpg",
-    "screenshots":[
-      "supertuxkart-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "supertuxkart-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "supertuxkart-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "supertuxkart-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Leisure"
@@ -536,14 +1140,32 @@
     "displayShape":"b2h",
     "application-id":"teeworlds",
     "desktop-id":"eos-app-teeworlds",
+    "exec":"resfix teeworlds",
+    "tryexec":"teeworlds",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Teeworlds",
-    "subtitle":"Multiplayer shooting game",
+    "subtitle":"Exciting multi-player shooting game",
     "description":"Teeworlds is a retro-looking game, but don\u2019t let this old-school feel fool you; it\u2019s also an exciting multiplayer shooter. Epic battles of up to 16 players rage, in formats such as Capture the Flag and Team Deathmatch. Try to survive in the deadly arena while dispatching your opponents. One exciting feature of Teeworlds is that the game allows you to design your own maps. Lots of bloody fun awaits you with the Teeworlds app.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"teeworlds-icon.png",
     "square_img":"teeworlds-thumb.jpg",
     "featured_img":"teeworlds-featured.jpg",
-    "screenshots":[
-      "teeworlds-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "teeworlds-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "teeworlds-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "teeworlds-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -552,14 +1174,32 @@
     "displayShape":"b1",
     "application-id":"totem",
     "desktop-id":"eos-app-totem",
+    "exec":"sh -c \"totem --pause `xdg-user-dir VIDEOS`\"",
+    "tryexec":"totem",
+    "folder":"media",
+    "desktop-position":"20",
     "title":"Videos",
-    "subtitle":"Video player",
+    "subtitle":"Full function video and media player",
     "description":"Do you love watching movies? Do it the right way with this video application that allows you to watch movies you have downloaded in full-screen mode. Other basics, like volume control and playlists, make your video-watching experience easy and fun. With this application you'll want to invite all of your family and friends to join you in watching all of your favorite movies!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"totem-icon.png",
     "square_img":"totem-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "totem-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "totem-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "totem-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "totem-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Utility"
@@ -568,14 +1208,32 @@
     "displayShape":"b2h",
     "application-id":"translate",
     "desktop-id":"eos-app-com.endlessm.endless-translation",
+    "exec":"eos-translation",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"20",
     "title":"Translate",
-    "subtitle":"Translate",
+    "subtitle":"Translate text between many languages instantly",
     "description":"Translating from one language to another is a great way to bridge across cultures. It\u2019s also important in many day-to-day activities in our increasingly globalized world. With the Translate app, you can understand and be understood in virtually any language. The app features an easy-to-understand setup so that you can use it without any trouble or hassle. It\u2019s delightfully simple. Make new connections \u2013 and even new friends \u2013 with the world\u2019s languages at your fingertips.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"translate-splash.jpg",
+    "icon":"translate-icon.png",
     "square_img":"translate-thumb.jpg",
     "featured_img":"translate-featured.jpg",
-    "screenshots":[
-      "translate-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "translate-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "translate-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "translate-screenshot1.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Education"
@@ -584,14 +1242,32 @@
     "displayShape":"b1",
     "application-id":"tuxmath",
     "desktop-id":"eos-app-tuxmath",
+    "exec":"tuxmath",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"123 Tux",
-    "subtitle":"Math games",
+    "subtitle":"Arcade-style game that helps kids practice their math facts",
     "description":"Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game application leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math! ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxmath-icon.png",
     "square_img":"tuxmath-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "tuxmath-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "tuxmath-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "tuxmath-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "tuxmath-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -600,14 +1276,32 @@
     "displayShape":"b1",
     "application-id":"tuxtype",
     "desktop-id":"eos-app-tuxtype",
+    "exec":"eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
+    "tryexec":"tuxtype",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Tux Typing",
-    "subtitle":"Learn to type",
+    "subtitle":"Educational typing tutor for kids",
     "description":"This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxtype-icon.png",
     "square_img":"tuxtype-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "tuxtype-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "tuxtype-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "tuxtype-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "tuxtype-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -616,16 +1310,38 @@
     "displayShape":"b2h",
     "application-id":"weather",
     "desktop-id":"eos-app-com.endlessm.endless-weather",
+    "exec":"eos-weather",
+    "tryexec":"",
+    "folder":"news",
+    "desktop-position":"10",
     "title":"Weather",
-    "subtitle":"See the weather forecast",
+    "subtitle":"Get daily local forecasts from trusted sources",
     "description":"\u201cHow\u2019s the weather out there?\u201d Answer this question easily, every day, with the click of a button. This simple weather app allows you to see what\u2019s happening right outside your door. Will it be chilly? Should you plan for rain? Is it a perfect day to spend outdoors? Learn all you need to know about the weather to to take advantage of your day!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"weather-splash.jpg",
+    "icon":"weather-icon.png",
     "square_img":"weather-thumb.jpg",
     "featured_img":"weather-featured.jpg",
-    "screenshots":[
-      "weather-screenshot1.jpg",
-      "weather-screenshot2.jpg",
-      "weather-screenshot3.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "weather-screenshot1.jpg",
+        "weather-screenshot2.jpg",
+        "weather-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "weather-screenshot1.jpg",
+        "weather-screenshot2.jpg",
+        "weather-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "weather-screenshot1.jpg",
+        "weather-screenshot2.jpg",
+        "weather-screenshot3.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Utility"
@@ -634,16 +1350,38 @@
     "displayShape":"b1",
     "application-id":"youtube",
     "desktop-id":"eos-app-com.endlessm.youtube",
+    "exec":"eos-youtube",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"30",
     "title":"YouTube",
-    "subtitle":"Watch videos and series",
+    "subtitle":"Share your videos with friends, family, and the world",
     "description":"YouTube is one of the most entertaining and informative sites on the Web. You can find videos of your favorite musical artists, tutorials that teach you to do virtually anything, funny or cute videos, and so much more! The YouTube app makes finding videos easier in a beautiful new way. This app is the best way to discover exactly the video you\u2019re looking for.",
+    "personalities":[
+      "Default"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"youtube-splash.jpg",
+    "icon":"youtube-icon.png",
     "square_img":"youtube-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "youtube-screenshot1.jpg",
-      "youtube-screenshot2.jpg",
-      "youtube-screenshot3.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "youtube-screenshot1.jpg",
+        "youtube-screenshot2.jpg",
+        "youtube-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "youtube-screenshot1.jpg",
+        "youtube-screenshot2.jpg",
+        "youtube-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "youtube-screenshot1.jpg",
+        "youtube-screenshot2.jpg",
+        "youtube-screenshot3.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":false,
     "category":"Leisure"
@@ -652,16 +1390,80 @@
     "displayShape":"b2h",
     "application-id":"brazil",
     "desktop-id":"eos-app-com.endlessm.brazil",
+    "exec":"eos-brazil",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"15",
     "title":"Brazil",
-    "subtitle":"Learn more about brazilian culture",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Want to learn more about the nation you call home? Brazil is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Brazilian life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
+    "personalities":[
+      "Default",
+      "Brasil"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"brazil-splash.jpg",
+    "icon":"brazil-icon.png",
     "square_img":"brazil-thumb.jpg",
     "featured_img":"brazil-featured.jpg",
-    "screenshots":[
-      "brazil-screenshot1.jpg",
-      "brazil-screenshot2.jpg",
-      "brazil-screenshot3.jpg"
+    "screenshots":{
+      "en-us":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":true,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b2h",
+    "application-id":"brazil",
+    "desktop-id":"eos-app-com.endlessm.brazil",
+    "exec":"eos-brazil",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"15",
+    "title":"Brazil",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
+    "description":"Want to learn more about the nation you call home? Brazil is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Brazilian life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
+    "personalities":[
+      "Default",
+      "Brasil"
     ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"brazil-splash.jpg",
+    "icon":"brazil-icon.png",
+    "square_img":"brazil-thumb.jpg",
+    "featured_img":"brazil-featured.jpg",
+    "screenshots":{
+      "en-us":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "brazil-screenshot1.jpg",
+        "brazil-screenshot2.jpg",
+        "brazil-screenshot3.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Education"
@@ -670,15 +1472,35 @@
     "displayShape":"b2v",
     "application-id":"health",
     "desktop-id":"eos-app-com.endlessm.health",
+    "exec":"eos-health",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"18",
     "title":"Health",
-    "subtitle":"Information about health",
+    "subtitle":"Live a healthy life with this app, packed with tips and resources",
     "description":"Your health is one of the most important aspects of daily life, and you need resources to make sure you understand how to lead a healthy lifestyle and stay well. With this health app, you\u2019ll have access to information about a range of health topics. Learn about how to keep yourself and your family from getting sick, and how to take care of minor ailments when they occur. This app is your indispensable resource to learn how to live a healthy life.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"health-icon.png",
     "square_img":"health-thumb.jpg",
     "featured_img":"health-featured.jpg",
-    "screenshots":[
-      "health-screenshot1.jpg",
-      "health-screenshot2.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "health-screenshot1.jpg",
+        "health-screenshot2.jpg"
+      ],
+      "pt-br":[
+        "health-screenshot1.jpg",
+        "health-screenshot2.jpg"
+      ],
+      "es-gt":[
+        "health-screenshot1.jpg",
+        "health-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Education"
@@ -687,16 +1509,38 @@
     "displayShape":"b2v",
     "application-id":"programming",
     "desktop-id":"eos-app-com.endlessm.programming",
+    "exec":"eos-programming",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"50",
     "title":"Coding Fun",
-    "subtitle":"Learn to code",
+    "subtitle":"Learn to program computers by creating your own video games",
     "description":"Do you like playing video games? Then why not create your own? Learn valuable programming and coding skills with this fun application that lets you change the rules of video games to make them your own! See what happens when you change lines of code and progress through levels to keep learning more and more about how to code. You'll soon find out that learning how to program allows you not only to change the world inside your games, but also your very own! ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"programming-splash.jpg",
+    "icon":"programming-icon.png",
     "square_img":"programming-thumb.jpg",
     "featured_img":"programming-featured.jpg",
-    "screenshots":[
-      "programming-screenshot1.jpg",
-      "programming-screenshot2.jpg",
-      "programming-screenshot3.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "programming-screenshot1.jpg",
+        "programming-screenshot2.jpg",
+        "programming-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "programming-screenshot1.jpg",
+        "programming-screenshot2.jpg",
+        "programming-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "programming-screenshot1.jpg",
+        "programming-screenshot2.jpg",
+        "programming-screenshot3.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Education"
@@ -705,16 +1549,38 @@
     "displayShape":"b2v",
     "application-id":"typing",
     "desktop-id":"eos-app-com.endlessm.typing",
+    "exec":"eos-typing",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"60",
     "title":"Typing",
-    "subtitle":"Learn to type",
+    "subtitle":"Learn to type with games and songs",
     "description":"Typing is a valuable skill in almost any educational or professional environment. But did you know it could be a whole lot of fun, too? With engaging games, this typing application will teach you to use a keyboard effectively, as well as help you develop typing muscle memory. And the best part is, you\u2019ll learn this useful skill by typing the lyrics to your favorite songs! What could be more entertaining than following along with the songs you love, all the while gaining a great new ability?",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"typing-splash.jpg",
+    "icon":"typing-icon.png",
     "square_img":"typing-thumb.jpg",
     "featured_img":"typing-featured.jpg",
-    "screenshots":[
-      "typing-screenshot1.jpg",
-      "typing-screenshot2.jpg",
-      "typing-screenshot3.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "typing-screenshot1.jpg",
+        "typing-screenshot2.jpg",
+        "typing-screenshot3.jpg"
+      ],
+      "pt-br":[
+        "typing-screenshot1.jpg",
+        "typing-screenshot2.jpg",
+        "typing-screenshot3.jpg"
+      ],
+      "es-gt":[
+        "typing-screenshot1.jpg",
+        "typing-screenshot2.jpg",
+        "typing-screenshot3.jpg"
+      ]
+    },
     "is_featured":true,
     "is_offline":true,
     "category":"Education"
@@ -723,14 +1589,32 @@
     "displayShape":"b1",
     "application-id":"resume",
     "desktop-id":"eos-app-com.endlessm.endless-resume-app",
+    "exec":"eos-resume",
+    "tryexec":"",
+    "folder":"work",
+    "desktop-position":"35",
     "title":"R\u00e9sum\u00e9",
-    "subtitle":"Write a r\u00e9sum\u00e9",
+    "subtitle":"Pick a resume template and customize the content to create an impressive resume in minutes",
     "description":"The best way to make a great impression on a potential employer is to have an outstanding resume, and this app is here to help you do just that. With handy, attractive templates, you have plenty of models to use as you build your own stellar resume. Learn exactly what a resume is and what it should contain, get tips on each section, and even receive guidance on how to prepare for job interviews. This app can help you move closer to the job of your choice.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"resume-icon.png",
     "square_img":"resume-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "resume-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "resume-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "resume-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "resume-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Utility"
@@ -739,15 +1623,35 @@
     "displayShape":"b1",
     "application-id":"empathy",
     "desktop-id":"eos-app-empathy",
+    "exec":"empathy",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Chat",
-    "subtitle":"Converse com amigos por chat e v\u00eddeo",
+    "subtitle":"Messaging program that supports text, voice, video chat, and file transfers",
     "description":"This chat app is a truly amazing communication tool. It supports the chat functions from sites like Facebook, Jabber, MSN, AIM, Gadu Gadu, and more, and brings them all together so you can do your messaging, voice, and video chats all in one app, no matter how many contacts you have in all your other programs. All you need to do is set up this one chat with all of your other accounts and you are ready to talk to everyone you know without having to switch from application to application to talk to them all. This app also allows file sharing, in case you have pictures, documents, or media to send to loved ones while you chat. You can keep in touch with all your friends and family with this awesome app!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"empathy-icon.png",
     "square_img":"empathy-thumb.jpg",
     "featured_img":"empathy-featured.jpg",
-    "screenshots":[
-      "empathy-screenshot1.jpg",
-      "empathy-screenshot2.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "empathy-screenshot1.jpg",
+        "empathy-screenshot2.jpg"
+      ],
+      "pt-br":[
+        "empathy-screenshot1.jpg",
+        "empathy-screenshot2.jpg"
+      ],
+      "es-gt":[
+        "empathy-screenshot1.jpg",
+        "empathy-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -756,14 +1660,32 @@
     "displayShape":"b1",
     "application-id":"inkscape",
     "desktop-id":"eos-app-inkscape",
+    "exec":"inkscape %F",
+    "tryexec":"",
+    "folder":"media",
+    "desktop-position":"60",
     "title":"Inkscape",
-    "subtitle":"Editor de gr\u00e1ficos vetoriais",
+    "subtitle":"Vector graphics editor with transparency, gradients, node editing, pattern fills, PNG, and more",
     "description":"This application is for intermediate and advanced graphic designers who need to create and edit their graphics and images. This app gives you advanced features and is comparable to Adobe InDesign. For example, it allows you to create SVGs (Scalable Vector Graphics), which allow your graphics to remain high quality no matter what size they are. Create beautiful ads, brochures, presentations and artwork with this great free graphics app!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"inkscape-icon.png",
     "square_img":"inkscape-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "inkscape-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "inkscape-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "inkscape-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "inkscape-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Utility"
@@ -772,14 +1694,32 @@
     "displayShape":"b1",
     "application-id":"frozen-bubble",
     "desktop-id":"eos-app-frozen-bubble",
+    "exec":"frozen-bubble",
+    "tryexec":"",
+    "folder":"games",
+    "desktop-position":"90",
     "title":"Frozen Bubble",
-    "subtitle":"Destrua as bolhas antes que elas congelem",
+    "subtitle":"The most addictive computer game you'll ever play",
     "description":"Play by yourself or challenge your friends to an exciting game of frozen bubbles! Match the colored bubbles in order to knock them down and get them out of the way before they stack up too high and crash into you. You need to have a good strategy and develop a quick trigger finger in order to win!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"frozen-bubble-icon.png",
     "square_img":"frozen-bubble-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "frozen-bubble-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "frozen-bubble-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "frozen-bubble-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "frozen-bubble-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":true,
     "category":"Leisure"
@@ -788,189 +1728,401 @@
     "displayShape":"b1",
     "application-id":"scorched3d",
     "desktop-id":"eos-app_scorched3d",
+    "exec":"scorched3d",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
     "title":"Scorched 3D",
     "subtitle":"Turn-based artillery game",
     "description":"Do you love games with jets, naval vessels, and all sorts of weapons? If so, then you will love Scorched3D. This game comes with many different lands for you to visit and engage in battles. You will need to develop a good strategy in order to outsmart your opponents and make sure that you end up victorious. You can play by yourself, with friends, or battle other community members online. Hold onto your hats, because this game is sure to shake things up!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"scorched3d-icon.png",
     "square_img":"scorched3d-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "scorched3d-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "scorched3d-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "scorched3d-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "scorched3d-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2v",
     "application-id":"mexico",
     "desktop-id":"eos-app-com.endlessm.mexico",
+    "exec":"eos-mexico",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"17",
     "title":"Mexico",
-    "subtitle":"Learn all about Mexico right from your desktop!",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Want to learn more about the nation you call home? Mexico is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Mexican life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
-    "square_img":"mexico-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "mexico-screenshot1.jpg"
+    "personalities":[
+      "Default",
+      "Mexico"
     ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"mexico-icon.png",
+    "square_img":"mexico-thumb.jpg",
+    "featured_img":"mexico-featured.jpg",
+    "screenshots":{
+      "en-us":[
+        "mexico-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "mexico-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "mexico-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
-    "is_offline":false,
-    "category":null
+    "is_offline":true,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b2v",
+    "application-id":"mexico",
+    "desktop-id":"eos-app-com.endlessm.mexico",
+    "exec":"eos-mexico",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"17",
+    "title":"Mexico",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
+    "description":"Want to learn more about the nation you call home? Mexico is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Mexican life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
+    "personalities":[
+      "Default",
+      "Mexico"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"mexico-icon.png",
+    "square_img":"mexico-thumb.jpg",
+    "featured_img":"mexico-featured.jpg",
+    "screenshots":{
+      "en-us":[
+        "mexico-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "mexico-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "mexico-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":true,
+    "category":"Education"
   },
   {
     "displayShape":"b1",
     "application-id":"guatemala",
     "desktop-id":"eos-app-com.endlessm.guatemala",
+    "exec":"eos-guatemala",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"16",
     "title":"Guatemala",
-    "subtitle":"Learn all about Guatemala right from your desktop!",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing these areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala and be able to share what you learn with friends, family, and visitors.",
+    "personalities":[
+      "Default",
+      "Guatemala"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"guatemala-icon.png",
     "square_img":"guatemala-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      "guatemala-screenshot1.jpg"
-    ],
+    "screenshots":{
+      "en-us":[
+        "guatemala-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "guatemala-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "guatemala-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
-    "is_offline":false,
-    "category":null
+    "is_offline":true,
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"science_es",
-    "desktop-id":"eos-app-com.endlessm.science_es",
-    "title":"Science - ES",
-    "subtitle":"Learn about everything from dinosaurs to space",
+    "application-id":"guatemala",
+    "desktop-id":"eos-app-com.endlessm.guatemala",
+    "exec":"eos-guatemala",
+    "tryexec":"",
+    "folder":"curiosity",
+    "desktop-position":"16",
+    "title":"Guatemala",
+    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
+    "description":"Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing these areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala and be able to share what you learn with friends, family, and visitors.",
+    "personalities":[
+      "Default",
+      "Guatemala"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"guatemala-icon.png",
+    "square_img":"guatemala-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "guatemala-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "guatemala-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "guatemala-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":true,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"science",
+    "desktop-id":"eos-app-com.endlessm.science",
+    "exec":"eos-science",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Science",
+    "subtitle":"Discover more about the world around you, from dinosaurs to outer space",
     "description":"Are you someone who always wants to know how things work? Do you ask \u201cwhy\u201d and \u201chow\u201d often in everyday life? Then this application is for you. This fun and informative app will help you answer many of the questions you have about the universe\u2019s wonders, and covers amazing topics like physics, earth sciences, and life sciences. From the origins of the dinosaurs to the mysteries of outer space, there\u2019s so much to learn and share! This app will help you on your road to scientific discovery.",
-    "square_img":"science_es-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "science_es-screenshot1.jpg"
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"science-splash.jpg",
+    "icon":"science-icon.png",
+    "square_img":"science-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "science-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "science-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "science-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"soccer_gt",
-    "desktop-id":"eos-app-com.endlessm.soccer_gt",
-    "title":"Soccer - GT",
-    "subtitle":"Learn more about your favorite game - soccer",
+    "application-id":"futbol",
+    "desktop-id":"eos-app-com.endlessm.futbol",
+    "exec":"eos-futbol",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Soccer",
+    "subtitle":"Keep up with your favorite soccer teams, read about famous players, and learn the rules of the game",
     "description":"Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover the intricacies of the rules, and keep up to date with articles about your favorite sport!",
-    "square_img":"soccer_gt-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "soccer_gt-screenshot1.jpg"
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"futbol-icon.png",
+    "square_img":"futbol-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "futbol-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "futbol-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "futbol-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
-    "is_offline":false,
-    "category":null
+    "is_offline":true,
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"soccer_br",
-    "desktop-id":"eos-app-com.endlessm.soccer_br",
-    "title":"Soccer - BR",
-    "subtitle":"Learn more about your favorite game - soccer",
-    "description":"Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover the intricacies of the rules, and keep up to date with articles about your favorite sport!",
-    "square_img":"soccer_br-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "soccer_br-screenshot1.jpg"
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"soccer_mx",
-    "desktop-id":"eos-app-com.endlessm.soccer_mx",
-    "title":"Soccer - MX",
-    "subtitle":"Learn more about your favorite game - soccer",
-    "description":"Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover the intricacies of the rules, and keep up to date with articles about your favorite sport!",
-    "square_img":"soccer_mx-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "soccer_mx-screenshot1.jpg"
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"travel_es",
-    "desktop-id":"eos-app-com.endlessm.travel_es",
-    "title":"Travel - ES",
-    "subtitle":"Explore beautiful places all over the world",
-    "description":"The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
-    "square_img":"travel_es-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "travel_es-screenshot1.jpg"
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"celebrities_pt",
-    "desktop-id":"eos-app-com.endlessm.celebrities_pt",
-    "title":"Celebrities - PT",
-    "subtitle":"Learn about celebrities from all around the world",
+    "application-id":"celebrities",
+    "desktop-id":"eos-app-com.endlessm.celebrities",
+    "exec":"eos-celebrities",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Celebrities",
+    "subtitle":"Packed with information and gossip about the most famous celebrities",
     "description":"Whether you\u2019re wondering about the life of your favorite movie or pop star, or want to know more about the background and formative years of an important politician, this application can help be your guide. Have fun, learn interesting and juicy facts, and share your knowledge of famous people with all of your friends!",
-    "square_img":"celebrities_pt-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "celebrities_pt-screenshot1.jpg"
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"celebrities-icon.png",
+    "square_img":"celebrities-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "celebrities-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "celebrities-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "celebrities-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
-    "is_offline":false,
-    "category":null
+    "is_offline":true,
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"fitness_pt",
-    "desktop-id":"eos-app-com.endlessm.fitness_pt",
-    "title":"Fitness - PT",
-    "subtitle":"Look and feel your best",
+    "application-id":"fitness",
+    "desktop-id":"eos-app-com.endlessm.fitness",
+    "exec":"eos-fitness",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Fitness",
+    "subtitle":"Take care of your body with tips and techniques for excercise and healthy living",
     "description":"We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. The app also features guidance on how to live a healthy life of the body and the mind.",
-    "square_img":"fitness_pt-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "fitness_pt-screenshot1.jpg"
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"fitness-icon.png",
+    "square_img":"fitness-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "fitness-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "fitness-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "fitness-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"cooking_pt",
-    "desktop-id":"eos-app-com.endlessm.cooking_pt",
-    "title":"Cooking - PT",
-    "subtitle":"Learn the basics of cooking",
+    "application-id":"cooking",
+    "desktop-id":"eos-app-com.endlessm.cooking",
+    "exec":"eos-cooking",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Cooking",
+    "subtitle":"Tips and tricks for the kitchen to share with family and friends",
     "description":"Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
-    "square_img":"cooking_pt-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "cooking_pt-screenshot1.jpg"
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"cooking-splash.jpg",
+    "icon":"cooking-icon.png",
+    "square_img":"cooking-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "cooking-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "cooking-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "cooking-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
-    "is_offline":false,
-    "category":null
+    "is_offline":true,
+    "category":"Education"
   },
   {
     "displayShape":"b1",
-    "application-id":"travel_pt",
-    "desktop-id":"eos-app-com.endlessm.travel_pt",
-    "title":"Travel - PT",
-    "subtitle":"Explore beautiful places all over the world",
+    "application-id":"travel",
+    "desktop-id":"eos-app-com.endlessm.travel",
+    "exec":"eos-travel",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Travel",
+    "subtitle":"Explore the sites of the world from your own living room",
     "description":"The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
-    "square_img":"travel_pt-thumb.jpg",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"travel-icon.png",
+    "square_img":"travel-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "en-us":[
+        "travel-screenshot1.jpg"
+      ],
+      "pt-br":[
+        "travel-screenshot1.jpg"
+      ],
+      "es-gt":[
+        "travel-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":true,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"eos-file-manager",
+    "desktop-id":"eos-app-eos-file-manager",
+    "exec":"eos-file-manager %U",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"99",
+    "title":"My Documents",
+    "subtitle":"File manager",
+    "description":"No description necessary -- this is not available via the app store",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"eos-file-manager-icon.png",
+    "square_img":"eos-file-manager-thumb.jpg",
     "featured_img":"",
     "screenshots":[
-      "travel_pt-screenshot1.jpg"
+      
     ],
     "is_featured":false,
     "is_offline":false,
@@ -978,63 +2130,25 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"sicence_pt",
-    "desktop-id":"eos-app-com.endlessm.science_pt",
-    "title":"Science - PT",
-    "subtitle":"Learn about everything from dinosaurs to space",
-    "description":"Are you someone who always wants to know how things work? Do you ask \u201cwhy\u201d and \u201chow\u201d often in everyday life? Then this application is for you. This fun and informative app will help you answer many of the questions you have about the universe\u2019s wonders, and covers amazing topics like physics, earth sciences, and life sciences. From the origins of the dinosaurs to the mysteries of outer space, there\u2019s so much to learn and share! This app will help you on your road to scientific discovery.",
-    "square_img":"sicence_pt-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "sicence_pt-screenshot1.jpg"
+    "application-id":"chromium-browser",
+    "desktop-id":"eos-app-chromium-browser",
+    "exec":"chromium-browser %U",
+    "tryexec":"",
+    "folder":"desktop",
+    "desktop-position":"0",
+    "title":"Internet",
+    "subtitle":"Browse the Web",
+    "description":"No description necessary -- this is not available via the app store",
+    "personalities":[
+      "All"
     ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"fitness_es",
-    "desktop-id":"eos-app-com.endlessm.fitness_es",
-    "title":"Fitness - ES",
-    "subtitle":"Look and feel your best",
-    "description":"We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. The app also features guidance on how to live a healthy life of the body and the mind.",
-    "square_img":"fitness_es-thumb.jpg",
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"chromium-browser-icon.png",
+    "square_img":"chromium-browser-thumb.jpg",
     "featured_img":"",
     "screenshots":[
-      "fitness_es-screenshot1.jpg"
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"cooking_es",
-    "desktop-id":"eos-app-com.endlessm.cooking_es",
-    "title":"Cooking - ES",
-    "subtitle":"Learn the basics of cooking",
-    "description":"Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
-    "square_img":"cooking_es-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "cooking_es-screenshot1.jpg"
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":null
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"celebrities_es",
-    "desktop-id":"eos-app-com.endlessm.celebrities_es",
-    "title":"Celebrities - ES",
-    "subtitle":"Learn about celebrities from all around the world",
-    "description":"Whether you\u2019re wondering about the life of your favorite movie or pop star, or want to know more about the background and formative years of an important politician, this application can help be your guide. Have fun, learn interesting and juicy facts, and share your knowledge of famous people with all of your friends!",
-    "square_img":"celebrities_es-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      "celebrities_es-screenshot1.jpg"
+      
     ],
     "is_featured":false,
     "is_offline":false,
