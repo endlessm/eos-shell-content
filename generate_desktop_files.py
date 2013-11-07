@@ -145,7 +145,7 @@ class AppObject(DesktopObject):
 
     json_keys = {
         'Name': 'title',
-        'Id': 'application-id',
+        'Id': 'desktop-id',
         'Comment': 'subtitle',
         'Categories': 'category',
         'Exec': 'exec',
@@ -158,7 +158,8 @@ class AppObject(DesktopObject):
     def __init__(self, data):
         super(AppObject, self).__init__(data)
         self._desktop_dir = APPS_DIR
-        self._prefix = 'eos-app-'
+        # For applications, the desktop-id already has the 'eos-app-' prefix
+        self._prefix = ''
 
 if __name__ == '__main__':
 
@@ -203,7 +204,7 @@ if __name__ == '__main__':
     # For each of the parsed links/apps, output a desktop.in file which will then be translated
     # via autotools
     for id, obj in desktop_objects.items():
-        desktop_id = id
+        desktop_id = obj.get('Id')
         desktop_path = os.path.join(obj._desktop_dir, obj._prefix + desktop_id + obj._suffix)
         desktop_file = open(desktop_path, 'w')
         desktop_file.write('[Desktop Entry]\n')

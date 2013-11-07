@@ -57,7 +57,7 @@ def translate_dir(in_dir):
         in_file_lines = in_file.read().splitlines()
 
         # trim off the '.in' suffix
-        out_filename = '.'.join(desktop_in_file.split('.')[:2])
+        out_filename = desktop_in_file[:-3]
         out_path = os.path.join(in_dir, out_filename)
         out_file = open(out_path, 'w')
 
