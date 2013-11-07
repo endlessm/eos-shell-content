@@ -6,3 +6,5 @@ desktop_DATA = \
     $(links_desktop_files) \
     $(applications_desktop_files) \
     $(NULL)
+
+EXTRA_DIST = $(desktop_DATA)
