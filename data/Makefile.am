@@ -1,10 +1,34 @@
 links_desktop_files = $(wildcard links/*.desktop)
 applications_desktop_files = $(wildcard applications/*.desktop)
 
-desktopdir = $(datadir)/applications
-desktop_DATA = \
+desktopsdir = $(datadir)/applications
+desktops_DATA = \
     $(links_desktop_files) \
     $(applications_desktop_files) \
     $(NULL)
 
-EXTRA_DIST = $(desktop_DATA)
+foldersdir = $(datadir)/desktop-directories
+folders_DATA = $(wildcard folders/*.directory)
+
+settingsdir = $(datadir)/EndlessOS/personality-defaults
+settings_DATA = $(wildcard settings/icon-grid-*.json)
+
+do_subst = sed \
+	-e 's|@DATA_DIR[@]|$(datadir)|g' \
+	-e 's|@SYSCONF_DIR[@]|$(sysconfdir)|g'
+
+eos-select-personality: eos-select-personality.in Makefile
+	$(AM_V_GEN) $(do_subst) $< > $@
+	chmod +x $@
+
+EXTRA_DIST = \
+    $(desktops_DATA) \
+    $(folders_DATA) \
+    $(settings_DATA) \
+    eos-exec-localized \
+    eos-select-personality.in \
+    $(NULL)
+
+bin_SCRIPTS = eos-exec-localized eos-select-personality
+
+CLEANFILES = eos-select-personality
