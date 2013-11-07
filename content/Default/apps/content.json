@@ -69,7 +69,7 @@
   },
   {
     "displayShape":"b2h",
-    "application-id":"khanacademy-app",
+    "application-id":"khanacademy",
     "desktop-id":"eos-app-com.endlessm.khanacademy",
     "exec":"eos-khanacademy",
     "tryexec":"",
@@ -82,22 +82,22 @@
       "Default"
     ],
     "splash-screen-type":"Default",
-    "custom-splash-screen":"khanacademy-app-splash.jpg",
-    "icon":"khanacademy-app-icon.png",
-    "square_img":"khanacademy-app-thumb.jpg",
-    "featured_img":"khanacademy-app-featured.jpg",
+    "custom-splash-screen":"khanacademy-splash.jpg",
+    "icon":"khanacademy-icon.png",
+    "square_img":"khanacademy-thumb.jpg",
+    "featured_img":"khanacademy-featured.jpg",
     "screenshots":{
       "en-us":[
-        "khanacademy-app-screenshot1.jpg",
-        "khanacademy-app-screenshot2.jpg"
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
       ],
       "pt-br":[
-        "khanacademy-app-screenshot1.jpg",
-        "khanacademy-app-screenshot2.jpg"
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
       ],
       "es-gt":[
-        "khanacademy-app-screenshot1.jpg",
-        "khanacademy-app-screenshot2.jpg"
+        "khanacademy-screenshot1.jpg",
+        "khanacademy-screenshot2.jpg"
       ]
     },
     "is_featured":true,
@@ -140,7 +140,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"wikipedia-app",
+    "application-id":"wikipedia",
     "desktop-id":"eos-app-com.endlessm.wikipedia",
     "exec":"eos-wikipedia",
     "tryexec":"",
@@ -153,22 +153,22 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"wikipedia-app-splash.jpg",
-    "icon":"wikipedia-app-icon.png",
-    "square_img":"wikipedia-app-thumb.jpg",
-    "featured_img":"wikipedia-app-featured.jpg",
+    "custom-splash-screen":"wikipedia-splash.jpg",
+    "icon":"wikipedia-icon.png",
+    "square_img":"wikipedia-thumb.jpg",
+    "featured_img":"wikipedia-featured.jpg",
     "screenshots":{
       "en-us":[
-        "wikipedia-app-screenshot1.jpg",
-        "wikipedia-app-screenshot2.jpg"
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
       ],
       "pt-br":[
-        "wikipedia-app-screenshot1.jpg",
-        "wikipedia-app-screenshot2.jpg"
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
       ],
       "es-gt":[
-        "wikipedia-app-screenshot1.jpg",
-        "wikipedia-app-screenshot2.jpg"
+        "wikipedia-screenshot1.jpg",
+        "wikipedia-screenshot2.jpg"
       ]
     },
     "is_featured":true,

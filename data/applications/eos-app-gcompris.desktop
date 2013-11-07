@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=EduGames
+Name[es]=EduJuegos
+Name[pt]=Joguinhos
+Comment=Activities for kids like telling time, puzzles, memory games, and more
+Comment[es]=Actividades, rompecabezas y juegos de memoria para los niños
+Type=Application
+Exec=gcompris
+Icon=eos-app-gcompris
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

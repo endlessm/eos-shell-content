@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Coding Fun
+Name[es]=Código Divertido
+Name[pt]=Código Divertido
+Comment=Learn to program computers by creating your own video games
+Comment[es]=Aprende a programar computadoras mientras creas tus propios videojuegos
+Type=Application
+Exec=eos-programming
+Icon=eos-app-programming
+Categories=Education;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Sportv
+Comment=Site Channel
+Type=Application
+Exec=chromium-browser http://sportv.globo.com/site/
+Icon=eos-link-sportv
+Categories=Sports;
+X-Endless-ShowInAppStore=true

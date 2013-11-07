@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Ministerio de Educación
+Comment=Portal Oficial
+Type=Application
+Exec=chromium-browser http://www.mineduc.gob.gt/
+Icon=eos-link-ministeriodeeducacion
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

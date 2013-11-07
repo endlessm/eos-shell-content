@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=INGUAT
+Comment=Instituto Guatemalteco de Turismo
+Type=Application
+Exec=chromium-browser http://www.visitguatemala.com/
+Icon=eos-link-inguat
+Categories=Local;
+X-Endless-ShowInAppStore=true

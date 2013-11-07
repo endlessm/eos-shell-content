@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Viva Rocinha
+Comment=Community portal
+Type=Application
+Exec=chromium-browser http://vivarocinha.org/portal/
+Icon=eos-link-vivarocinha
+Categories=News;
+X-Endless-ShowInAppStore=true

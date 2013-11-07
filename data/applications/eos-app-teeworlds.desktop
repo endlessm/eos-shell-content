@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Teeworlds
+Name[es]=Teeworlds
+Name[pt]=Teelândia
+Comment=Exciting multi-player shooting game
+Comment[es]=Un juego emocionante de multijugador donde tienes que dispararles a tus enemigos 
+Type=Application
+Exec=resfix teeworlds
+Icon=eos-app-teeworlds
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

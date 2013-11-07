@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Deportivo Marquense
+Comment=Club de Futbol Marquense
+Type=Application
+Exec=chromium-browser http://www.deportivomarquense.com/
+Icon=eos-link-deportivomarquense
+Categories=Sports;
+X-Endless-ShowInAppStore=true

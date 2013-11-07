@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Omelete
+Comment=Movies and TV series
+Type=Application
+Exec=chromium-browser http://omelete.uol.com.br/
+Icon=eos-link-omelete
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

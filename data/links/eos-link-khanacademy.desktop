@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Khan Academy
+Name[es]=Khan Academy
+Name[pt]=Academia Khan
+Comment=Educational videos
+Type=Application
+Exec=chromium-browser http://www.khanacademy.org/intl/pt
+Icon=eos-link-khanacademy
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

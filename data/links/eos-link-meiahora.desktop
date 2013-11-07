@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Meia Hora
+Comment=Portal de Notícias
+Type=Application
+Exec=chromium-browser http://www.meiahora.ig.com.br/
+Icon=eos-link-meiahora
+Categories=News;
+X-Endless-ShowInAppStore=true

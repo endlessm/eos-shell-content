@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Explorando Guatemala
+Comment=destinos turisticos, volcanes, montañismo
+Type=Application
+Exec=chromium-browser http://www.xplorandoguatemala.com/
+Icon=eos-link-explorandoguatemala
+Categories=Local;
+X-Endless-ShowInAppStore=true

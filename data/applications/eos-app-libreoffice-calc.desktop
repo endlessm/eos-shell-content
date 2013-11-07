@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Spreadsheet
+Name[es]=Hoja de Cálculo
+Name[pt]=Planilha
+Comment=Spreadsheet program with a comprehensive range of advanced functions
+Comment[es]=Esta hoja de cálculo tiene funciones avanzadas para ayudarte a lograr lo que necesites
+Type=Application
+Exec=libreoffice --calc %U
+Icon=eos-app-libreoffice-calc
+Categories=Utility;
+X-Endless-ShowInAppStore=true

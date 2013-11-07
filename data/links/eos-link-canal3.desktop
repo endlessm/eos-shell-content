@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Canal 3
+Comment=El Super Canal
+Type=Application
+Exec=chromium-browser http://www.canal3.com.gt/
+Icon=eos-link-canal3
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

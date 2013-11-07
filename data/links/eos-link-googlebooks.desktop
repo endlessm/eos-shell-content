@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Books
+Comment=Preview books from libraries and publishers worldwide
+Type=Application
+Exec=chromium-browser http://books.google.com/
+Icon=eos-link-googlebooks
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Champions League
+Comment=Official Website
+Type=Application
+Exec=chromium-browser http://www.uefa.com/uefachampionsleague/index.html
+Icon=eos-link-championsleague
+Categories=Sports;
+X-Endless-ShowInAppStore=true

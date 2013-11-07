@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Surf
+Comment=Portal de Notícias
+Type=Application
+Exec=chromium-browser http://globoesporte.globo.com/radicais/surfe/
+Icon=eos-link-surf
+Categories=Sports;
+X-Endless-ShowInAppStore=true

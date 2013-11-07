@@ -66,6 +66,7 @@ AC_SUBST(MAINTAINER_CFLAGS)
 AC_CONFIG_FILES([
         Makefile
         content/Makefile
+        data/Makefile
         po/Makefile.in
         ])
 

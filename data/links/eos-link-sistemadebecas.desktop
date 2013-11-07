@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Sistema de Becas
+Comment=SEGEPLAN
+Type=Application
+Exec=chromium-browser http://becas.segeplan.gob.gt/becas/index.php
+Icon=eos-link-sistemadebecas
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

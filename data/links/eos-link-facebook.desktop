@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Facebook
+Comment=Social Network
+Type=Application
+Exec=eos-exec-localized 'chromium-browser http://www.facebook.com/' en:'chromium-browser http://www.facebook.com/' es:'chromium-browser https://www.facebook.com/' pt:'chromium-browser http://www.facebook.com/' 
+Icon=eos-link-facebook
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Open Arena
+Name[es]=Arena Abierta
+Name[pt]=Open Arena
+Comment=First-person shooter game based on the Quake III Arena-style deathmatch
+Comment[es]=Un juego de ación basado en el Quake III al estilo arena deathmatch
+Type=Application
+Exec=resfix openarena +r_fullscreen 1
+Icon=eos-app-openarena
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

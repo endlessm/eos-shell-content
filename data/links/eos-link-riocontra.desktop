@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Contra Dengue
+Comment=Health
+Type=Application
+Exec=chromium-browser http://www.riocontradengue.com.br/Site/Conteudo/Default.aspx
+Icon=eos-link-riocontra
+Categories=Local;
+X-Endless-ShowInAppStore=true

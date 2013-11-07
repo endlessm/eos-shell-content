@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=deGuate
+Comment=Uniendo a los chapines en el mundo
+Type=Application
+Exec=chromium-browser http://www.deguate.com.gt/
+Icon=eos-link-deguate
+Categories=Local;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=el Periódico
+Comment=Portal de Noticias
+Type=Application
+Exec=chromium-browser http://elperiodico.com.gt/
+Icon=eos-link-elperiodico
+Categories=News;
+X-Endless-ShowInAppStore=true

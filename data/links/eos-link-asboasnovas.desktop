@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=As Boas Novas
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://www.asboasnovas.com/
+Icon=eos-link-asboasnovas
+Categories=News;
+X-Endless-ShowInAppStore=true

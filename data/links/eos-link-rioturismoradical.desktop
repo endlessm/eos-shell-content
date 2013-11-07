@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Rio Turismo Radical
+Comment=Tourism
+Type=Application
+Exec=chromium-browser http://www.rioturismoradical.com.br/
+Icon=eos-link-rioturismoradical
+Categories=Local;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Quizlet
+Comment=Adult education
+Type=Application
+Exec=chromium-browser http://quizlet.com/
+Icon=eos-link-quizlet
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

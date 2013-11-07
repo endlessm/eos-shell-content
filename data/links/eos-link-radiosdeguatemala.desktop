@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Radios de Guatemala
+Comment=Radio en Línea
+Type=Application
+Exec=chromium-browser http://www.emisoras.com.gt/
+Icon=eos-link-radiosdeguatemala
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

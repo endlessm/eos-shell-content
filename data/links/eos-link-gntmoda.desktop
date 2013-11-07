@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GNT MODA
+Comment=Desfiles, Looks e ensaios
+Type=Application
+Exec=chromium-browser http://gnt.globo.com/moda/
+Icon=eos-link-gntmoda
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=News Senate
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://www12.senado.gov.br/noticias
+Icon=eos-link-noticiassenado
+Categories=News;
+X-Endless-ShowInAppStore=true

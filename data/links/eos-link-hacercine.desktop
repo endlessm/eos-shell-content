@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Hacer Cine en Guatemala
+Comment=Nuestro cine, nuestras historias
+Type=Application
+Exec=chromium-browser http://www.hacercineenguatemala.net/
+Icon=eos-link-hacercine
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

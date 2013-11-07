@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Diario La Hora
+Comment=Portal de Noticias
+Type=Application
+Exec=chromium-browser http://lahora.com.gt/
+Icon=eos-link-lahora
+Categories=News;
+X-Endless-ShowInAppStore=true

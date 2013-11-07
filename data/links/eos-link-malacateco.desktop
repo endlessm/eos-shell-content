@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Malacateco
+Comment=Página Oficial del Club de Futbol
+Type=Application
+Exec=chromium-browser http://deportivo-malacateco.es.tl/
+Icon=eos-link-malacateco
+Categories=Sports;
+X-Endless-ShowInAppStore=true

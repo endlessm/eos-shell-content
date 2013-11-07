@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Galas de Guatemala
+Comment=Redescubriendo el Esplendor de Guatemala
+Type=Application
+Exec=chromium-browser http://www.galasdeguatemala.com/
+Icon=eos-link-galasdeguatemala
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

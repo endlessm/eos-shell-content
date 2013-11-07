@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Art Project
+Comment=exposição de arte on-line
+Type=Application
+Exec=chromium-browser http://www.googleartproject.com/pt-br/collections/
+Icon=eos-link-googleart
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

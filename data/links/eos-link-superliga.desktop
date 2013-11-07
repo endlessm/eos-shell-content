@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Superliga
+Comment=Official Website
+Type=Application
+Exec=chromium-browser http://www.cbv.com.br/v1/superliga/superliga.asp
+Icon=eos-link-superliga
+Categories=Sports;
+X-Endless-ShowInAppStore=true

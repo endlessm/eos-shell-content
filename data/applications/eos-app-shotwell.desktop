@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Photos
+Name[es]=Fotos
+Name[pt]=Fotos
+Comment=Makes it easy to edit, organize, and share photos.
+Comment[es]=Importa, edita, organiza y comparte tus fotografías
+Type=Application
+Exec=shotwell %U
+Icon=eos-app-shotwell
+Categories=Utility;
+X-Endless-ShowInAppStore=true

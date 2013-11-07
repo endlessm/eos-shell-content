@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Cinema
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://cinema.uol.com.br
+Icon=eos-link-cinema
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

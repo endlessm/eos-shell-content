@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Photo Editor
+Name[es]=Editor de Fotos
+Name[pt]=Editor de Fotos
+Comment=Edit your pictures and create beautiful images that you can share with all your friends
+Comment[es]=Edita tus fotos y crea imágenes bellas que podrás compartir con todos tus amigos
+Type=Application
+Exec=endless-os-photos %f
+Icon=eos-app-photos
+Categories=Utility;
+X-Endless-ShowInAppStore=true

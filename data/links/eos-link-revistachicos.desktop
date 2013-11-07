@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Revista Chicos
+Comment=Revista Interactiva
+Type=Application
+Exec=chromium-browser http://www.chicospl.com/
+Icon=eos-link-revistachicos
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

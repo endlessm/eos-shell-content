@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Telemundo
+Comment=Portal de Entretenimiento y Noticias
+Type=Application
+Exec=chromium-browser http://msnlatino.telemundo.com/
+Icon=eos-link-telemundo
+Categories=News;
+X-Endless-ShowInAppStore=true

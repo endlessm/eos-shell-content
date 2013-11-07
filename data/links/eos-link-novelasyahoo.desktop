@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Novelas Yahoo!
+Comment=Daily blurb
+Type=Application
+Exec=chromium-browser http://br.tv.yahoo.com/novelas/
+Icon=eos-link-novelasyahoo
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

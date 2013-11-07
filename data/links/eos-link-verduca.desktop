@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Verduca
+Comment=The world's best universities
+Type=Application
+Exec=chromium-browser http://www.veduca.com.br/
+Icon=eos-link-verduca
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

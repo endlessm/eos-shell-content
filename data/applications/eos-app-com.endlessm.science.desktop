@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Science
+Name[es]=Ciencia
+Comment=Discover more about the world around you, from dinosaurs to outer space
+Comment[es]=Descubre más sobre el mundo que te rodea, desde los dinosaurios hasta el espacio exterior
+Type=Application
+Exec=eos-science
+Icon=eos-app-science
+Categories=Education;
+X-Endless-ShowInAppStore=true

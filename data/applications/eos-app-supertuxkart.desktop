@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Tux Kart
+Name[es]=Tux Kart
+Name[pt]=Tux Kart
+Comment=Racing game with colorful characters and imaginative tracks
+Comment[es]=Juego de carreras con varias  pistas desafiantes
+Type=Application
+Exec=resfix supertuxkart --fullscreen
+Icon=eos-app-supertuxkart
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kibe Loco
+Comment=Comedy
+Type=Application
+Exec=chromium-browser http://kibeloco.com.br/
+Icon=eos-link-kibeloco
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

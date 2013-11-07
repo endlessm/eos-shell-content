@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Wikipedia
+Name[es]=Wikipedia
+Name[pt]=Wikipédia
+Comment=The free encyclopedia that anyone can edit
+Comment[es]=La enciclopedia libre más grande del mundo
+Type=Application
+Exec=eos-wikipedia
+Icon=eos-app-wikipedia
+Categories=Education;
+X-Endless-ShowInAppStore=true

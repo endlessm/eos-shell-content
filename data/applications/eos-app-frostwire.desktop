@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Media Download
+Name[es]=Descargador
+Name[pt]=Baixar Mídia
+Comment=BitTorrent dowloader app that supports file sharing
+Comment[es]=Intercambia tus archivos con otras personas por BitTorrent
+Type=Application
+Exec=frostwire
+Icon=eos-app-frostwire
+Categories=Utility;
+X-Endless-ShowInAppStore=true

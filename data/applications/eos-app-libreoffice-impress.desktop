@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Presentation
+Name[es]=Presentaciones
+Name[pt]=Apresentação
+Comment=Presentation builder enhanced with templates, art, special effects, and high-impact drawing tools
+Comment[es]=Encuentra plantillas, efectos especiales, animaciones y imágenes que transformarán tus presentaciones 
+Type=Application
+Exec=libreoffice --impress %U
+Icon=eos-app-libreoffice-impress
+Categories=Utility;
+X-Endless-ShowInAppStore=true

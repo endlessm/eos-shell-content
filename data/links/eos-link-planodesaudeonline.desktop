@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Plano de Saúde online
+Comment=Government portal
+Type=Application
+Exec=chromium-browser http://compreplanosdesaudeonline.com/
+Icon=eos-link-planodesaudeonline
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

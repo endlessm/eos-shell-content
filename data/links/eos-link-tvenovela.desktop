@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TV & Novelas IG
+Comment=Programming and backstage
+Type=Application
+Exec=chromium-browser http://gente.ig.com.br/tvenovela/
+Icon=eos-link-tvenovela
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

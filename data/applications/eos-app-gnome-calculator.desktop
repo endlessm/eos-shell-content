@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Calculator
+Name[es]=Calculadora
+Name[pt]=Calculadora
+Comment=Full-featured scientific calculator with many bonus tools
+Comment[es]=Una calculadora científica con todas las funciones que necesitas
+Type=Application
+Exec=gnome-calculator
+Icon=eos-app-gcalctool
+Categories=Utility;
+X-Endless-ShowInAppStore=true
