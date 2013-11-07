@@ -211,7 +211,11 @@ if __name__ == '__main__':
     apps_json = json.load(apps_file)
     apps_file.close()
     for app_data in apps_json:
-        id = app_data['application-id']
+        # Use desktop-id rather than application-id,
+        # to ensure the ID is unique from any link IDs
+        # Otherwise, for instance, we the wikipedia app would
+        # clobber the wikipedia link in the dictionary
+        id = app_data['desktop-id']
         desktop_objects[id] = AppObject(app_data)
 
     # For each of the parsed links/apps, output a desktop.in file which will then be translated
