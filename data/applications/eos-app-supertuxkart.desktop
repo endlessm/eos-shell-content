@@ -7,6 +7,7 @@ Comment=Racing game with colorful characters and imaginative tracks
 Comment[es]=Juego de carreras con varias  pistas desafiantes
 Type=Application
 Exec=resfix supertuxkart --fullscreen
+TryExec=supertuxkart
 Icon=eos-app-supertuxkart
 Categories=Leisure;
 X-Endless-ShowInAppStore=true

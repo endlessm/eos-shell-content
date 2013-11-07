@@ -7,6 +7,7 @@ Comment=Classic jump-and-run arcade sidescroller game
 Comment[es]=Un juego clásico de arcada
 Type=Application
 Exec=resfix supertux2 --fullscreen
+TryExec=supertux2
 Icon=eos-app-supertux2
 Categories=Leisure;
 X-Endless-ShowInAppStore=true

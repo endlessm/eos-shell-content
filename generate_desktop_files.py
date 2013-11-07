@@ -38,6 +38,7 @@ class DesktopObject(object):
         'Comment',
         'Type',
         'Exec',
+        'TryExec',
         'Icon',
         'Categories',
         'X-Endless-ShowInAppStore',
@@ -58,6 +59,11 @@ class DesktopObject(object):
             val = self._data[self.json_keys[key]]
             if key is 'Icon':
                 return self._icon_prefix + val
+            if key is 'TryExec':
+                if not val:
+                    # Convert empty string to None to avoid writing field
+                    return None
+                return val
             if key is 'Categories':
                 if val is None:
                     return ''
@@ -157,8 +163,10 @@ class LinkObject(DesktopObject):
         return exec_str
 
     def get(self, key):
-        if key is 'Exec' or key is 'TryExec':
+        if key is 'Exec':
             return self._get_exec()
+        elif key is 'TryExec':
+            return None
         else:
             return super(LinkObject, self).get(key)
 

@@ -7,6 +7,7 @@ Comment=First-person shooter game based on the Quake III Arena-style deathmatch
 Comment[es]=Un juego de ación basado en el Quake III al estilo arena deathmatch
 Type=Application
 Exec=resfix openarena +r_fullscreen 1
+TryExec=openarena
 Icon=eos-app-openarena
 Categories=Leisure;
 X-Endless-ShowInAppStore=true

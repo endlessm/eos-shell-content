@@ -7,6 +7,7 @@ Comment=Full function video and media player
 Comment[es]=Todas las funciones que necesitas para ver tus videos y multimedia
 Type=Application
 Exec=sh -c "totem --pause `xdg-user-dir VIDEOS`"
+TryExec=totem
 Icon=eos-app-totem
 Categories=Utility;
 X-Endless-ShowInAppStore=true
