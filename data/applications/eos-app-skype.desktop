@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Skype
+Name[es]=Skype
+Name[pt]=Skype
+Comment=Make internet calls for free and cheap online calls to phones and mobiles
+Comment[es]=Haz llamadas gratuitas por internet y llamadas baratas a teléfonos fijos y móviles
+Type=Application
+Exec=skype %U
+Icon=eos-app-skype
+Categories=Utility;
+X-Endless-ShowInAppStore=true

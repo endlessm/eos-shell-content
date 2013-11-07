@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Universidad Mariano Galvez
+Comment=Portal Educativo
+Type=Application
+Exec=chromium-browser http://www.umg.edu.gt/
+Icon=eos-link-universidadmarianogalvez
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Guate360
+Comment=Guatemala en 360 Grados
+Type=Application
+Exec=chromium-browser http://www.guate360.com/
+Icon=eos-link-guate360
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

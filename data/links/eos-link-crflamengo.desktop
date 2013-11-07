@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Flamengo
+Comment=Official Website
+Type=Application
+Exec=chromium-browser http://www.flamengo.com.br/
+Icon=eos-link-crflamengo
+Categories=Sports;
+X-Endless-ShowInAppStore=true

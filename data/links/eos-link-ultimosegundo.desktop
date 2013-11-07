@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Último Segundo
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://www.ultimosegundo.ig.com.br/
+Icon=eos-link-ultimosegundo
+Categories=News;
+X-Endless-ShowInAppStore=true

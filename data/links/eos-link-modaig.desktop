@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Moda IG
+Comment=Fashion Tips
+Type=Application
+Exec=chromium-browser http://moda.ig.com.br/
+Icon=eos-link-modaig
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

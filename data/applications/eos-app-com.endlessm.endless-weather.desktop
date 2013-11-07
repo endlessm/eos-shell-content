@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Weather
+Name[es]=Pronóstico
+Name[pt]=Tempo
+Comment=Get daily local forecasts from trusted sources
+Comment[es]=Pronósticos locales diarios de fuentes confiables
+Type=Application
+Exec=eos-weather
+Icon=eos-app-weather
+Categories=Utility;
+X-Endless-ShowInAppStore=true

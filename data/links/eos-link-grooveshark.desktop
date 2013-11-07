@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Grooveshark
+Comment=Free music, online radio, and so much more
+Type=Application
+Exec=chromium-browser http://grooveshark.com/
+Icon=eos-link-grooveshark
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

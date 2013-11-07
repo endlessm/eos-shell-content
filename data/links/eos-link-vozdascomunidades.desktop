@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Voz das Comunidades
+Comment=Comunidade Online
+Type=Application
+Exec=chromium-browser http://www.vozdascomunidades.com.br/
+Icon=eos-link-vozdascomunidades
+Categories=News;
+X-Endless-ShowInAppStore=true

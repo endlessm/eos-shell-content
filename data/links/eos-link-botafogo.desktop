@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Botafogo
+Comment=Official Website
+Type=Application
+Exec=chromium-browser http://www.botafogo.com.br/
+Icon=eos-link-botafogo
+Categories=Sports;
+X-Endless-ShowInAppStore=true

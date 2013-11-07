@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Portal da Saúde
+Comment=Government portal
+Type=Application
+Exec=chromium-browser http://portalsaude.saude.gov.br/portalsaude/
+Icon=eos-link-portalsaude
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

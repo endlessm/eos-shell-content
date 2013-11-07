@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MSPAS
+Comment=Salud Publica y Asistencia Social
+Type=Application
+Exec=chromium-browser http://www.mspas.gob.gt/
+Icon=eos-link-mspas
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

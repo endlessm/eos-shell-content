@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Canal Antigua
+Comment=Canal Antigua
+Type=Application
+Exec=chromium-browser http://www.canalantigua.com/
+Icon=eos-link-canalantigua
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

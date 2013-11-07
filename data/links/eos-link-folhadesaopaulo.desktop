@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Folha de São Paulo
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://www.folha.uol.com.br/
+Icon=eos-link-folhadesaopaulo
+Categories=News;
+X-Endless-ShowInAppStore=true

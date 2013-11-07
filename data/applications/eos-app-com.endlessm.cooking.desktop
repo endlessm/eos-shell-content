@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Cooking
+Name[es]=La Cocina
+Comment=Tips and tricks for the kitchen to share with family and friends
+Comment[es]=Consejos de cocina y recetas para compartir con tu familia y con tus amigos
+Type=Application
+Exec=eos-cooking
+Icon=eos-app-cooking
+Categories=Education;
+X-Endless-ShowInAppStore=true

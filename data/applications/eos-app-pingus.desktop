@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Pingus
+Name[es]=Pingus
+Name[pt]=Pingus
+Comment=Fun multi-level game featuring penguins
+Comment[es]=Salva a tus amigos pingüinos para que no se caigan al agua helado
+Type=Application
+Exec=pingus
+Icon=eos-app-pingus
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

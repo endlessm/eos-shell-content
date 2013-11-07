@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=OpcionEmpleo
+Comment=Portal de Empleo
+Type=Application
+Exec=chromium-browser http://www.opcionempleo.com.gt/
+Icon=eos-link-opcionempleo
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=UEFA
+Comment=UEFA en Español
+Type=Application
+Exec=chromium-browser http://es.uefa.com/
+Icon=eos-link-uefa
+Categories=Sports;
+X-Endless-ShowInAppStore=true

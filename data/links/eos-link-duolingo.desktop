@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Duolingo
+Comment=Free language education for the world
+Type=Application
+Exec=chromium-browser http://www.duolingo.com/
+Icon=eos-link-duolingo
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

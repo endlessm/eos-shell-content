@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Universidad de San Carlos de Guatemala
+Comment=Portal Educativo
+Type=Application
+Exec=chromium-browser http://usac.edu.gt/
+Icon=eos-link-universidaddesancarlos
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

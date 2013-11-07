@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=YouTube
+Name[es]=YouTube
+Name[pt]=YouTube
+Comment=Share your videos with friends, family, and the world
+Comment[es]=Comparte tus vídeos con amigos, familiares y el mundo o encuentra videos que te encantarán
+Type=Application
+Exec=eos-youtube
+Icon=eos-app-youtube
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

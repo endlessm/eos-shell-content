@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Revista Saúde
+Comment=information
+Type=Application
+Exec=chromium-browser http://saude.abril.com.br/
+Icon=eos-link-revistasuade
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

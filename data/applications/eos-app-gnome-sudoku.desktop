@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Sudoku
+Name[es]=Sudoku
+Name[pt]=Sudoku
+Comment=Play one of the most popular puzzle games of all time
+Comment[es]=Juega uno de las rompecabezas más populares de todo el mundo
+Type=Application
+Exec=gnome-sudoku
+Icon=eos-app-gnome-sudoku
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Futbol de Guatemala
+Comment=El Portal del Futbol
+Type=Application
+Exec=chromium-browser http://www.guatefutbol.com/
+Icon=eos-link-futboldeguatemala
+Categories=Sports;
+X-Endless-ShowInAppStore=true

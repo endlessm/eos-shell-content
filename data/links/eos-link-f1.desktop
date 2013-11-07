@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=F1
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://globoesporte.globo.com/motor/formula-1/
+Icon=eos-link-f1
+Categories=Sports;
+X-Endless-ShowInAppStore=true

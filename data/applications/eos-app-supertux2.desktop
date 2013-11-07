@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Super Tux
+Name[es]=Super Tux
+Name[pt]=Super Tux
+Comment=Classic jump-and-run arcade sidescroller game
+Comment[es]=Un juego clásico de arcada
+Type=Application
+Exec=resfix supertux2 --fullscreen
+Icon=eos-app-supertux2
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Fox Sport
+Comment=Site Channel
+Type=Application
+Exec=chromium-browser http://www.atpworldtour.com/
+Icon=eos-link-foxsport
+Categories=Sports;
+X-Endless-ShowInAppStore=true

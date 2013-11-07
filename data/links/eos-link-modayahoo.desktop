@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MODA Yahoo
+Comment=tendências e desfiles de moda
+Type=Application
+Exec=chromium-browser http://br.noticias.yahoo.com/moda/
+Icon=eos-link-modayahoo
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

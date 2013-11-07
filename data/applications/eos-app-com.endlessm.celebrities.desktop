@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Celebrities
+Name[es]=Celebridades
+Comment=Packed with information and gossip about the most famous celebrities
+Comment[es]=Lleno de información y chisme sobre las celebridades más famosas
+Type=Application
+Exec=eos-celebrities
+Icon=eos-app-celebrities
+Categories=Education;
+X-Endless-ShowInAppStore=true

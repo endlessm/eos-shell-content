@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Universidad Rafael Landivar
+Comment=Portal Educativo
+Type=Application
+Exec=chromium-browser http://www.url.edu.gt/
+Icon=eos-link-universidadrafaellandivar
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

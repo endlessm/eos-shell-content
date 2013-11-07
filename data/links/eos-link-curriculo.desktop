@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Currículo online
+Comment=Jobs guide
+Type=Application
+Exec=chromium-browser http://curriculo.com.br/
+Icon=eos-link-curriculo
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

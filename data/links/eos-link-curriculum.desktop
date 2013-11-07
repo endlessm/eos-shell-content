@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Curriculum
+Comment=Jobs guide
+Type=Application
+Exec=chromium-browser http://www.curriculum.com.br/
+Icon=eos-link-curriculum
+Categories=Local;
+X-Endless-ShowInAppStore=true

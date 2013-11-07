@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GNT
+Comment=News portal
+Type=Application
+Exec=chromium-browser http://gnt.globo.com/receitas/
+Icon=eos-link-gnt
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

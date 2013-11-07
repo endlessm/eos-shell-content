@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Tux Typing
+Name[es]=Tux Typing
+Name[pt]=Tecla Tux
+Comment=Educational typing tutor for kids
+Comment[es]=Ahora niños se divertirán aprendiendo a teclear
+Type=Application
+Exec=eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'
+Icon=eos-app-tuxtype
+Categories=Education;
+X-Endless-ShowInAppStore=true

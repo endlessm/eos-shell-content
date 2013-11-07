@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Kobo Deluxe
+Name[es]=Kobo Deluxe
+Name[pt]=Kobo Deluxe
+Comment=Destroy enemy bases in space
+Comment[es]=Destruye las bases enemigas en el espacio
+Comment[pt]=Destrua as bases inimigas no espaço
+Type=Application
+Exec=resfix "kobodl -fullscreen"
+Icon=eos-app-kobodeluxe
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

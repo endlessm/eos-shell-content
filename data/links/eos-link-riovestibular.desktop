@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Rio Vestibular
+Comment=Vestibular and ENEM
+Type=Application
+Exec=chromium-browser http://www.riovestibular.com.br/
+Icon=eos-link-riovestibular
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

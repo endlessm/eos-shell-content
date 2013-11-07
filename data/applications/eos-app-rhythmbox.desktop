@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Music
+Name[es]=Música
+Name[pt]=Música
+Comment=Audio player and radio that plays and helps organize digital music
+Comment[es]=Reproductor de audio que te ayudará a organizar tu música digital
+Type=Application
+Exec=rhythmbox %U
+Icon=eos-app-rhythmbox
+Categories=Utility;
+X-Endless-ShowInAppStore=true

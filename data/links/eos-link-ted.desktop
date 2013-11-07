@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TED
+Comment=Online lectures
+Type=Application
+Exec=eos-exec-localized 'chromium-browser http://www.ted.com/translate/languages/pt-br' en:'chromium-browser http://www.ted.com/translate/languages/pt-br' es:'chromium-browser http://www.ted.com/translate/languages/es' pt:'chromium-browser http://www.ted.com/translate/languages/pt-br' 
+Icon=eos-link-ted
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

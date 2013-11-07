@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=World Wonders
+Comment=Bring to life the wonders of the modern and ancient world
+Type=Application
+Exec=chromium-browser http://www.google.com/culturalinstitute/project/world-wonders
+Icon=eos-link-worldwonders
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

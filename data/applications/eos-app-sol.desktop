@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Freecell
+Name[es]=Freecell
+Name[pt]=Freecell
+Comment=Solitare based single player card game
+Comment[es]=Una variación del juego de cartas clásico
+Type=Application
+Exec=sol --variation=freecell
+Icon=eos-app-sol
+Categories=Leisure;
+X-Endless-ShowInAppStore=true

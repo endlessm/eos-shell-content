@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Chat
+Name[es]=Chat
+Name[pt]=Chat
+Comment=Messaging program that supports text, voice, video chat, and file transfers
+Comment[es]=Soporta texto, voz, video chat y transferencia de archivos
+Type=Application
+Exec=empathy
+Icon=eos-app-empathy
+Categories=Utility;
+X-Endless-ShowInAppStore=true

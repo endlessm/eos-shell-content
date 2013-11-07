@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Brasileirão
+Comment=Site Oficial
+Type=Application
+Exec=chromium-browser http://globoesporte.globo.com/futebol/brasileirao-serie-a/#/classificacao-e-jogos
+Icon=eos-link-brasileirao
+Categories=Sports;
+X-Endless-ShowInAppStore=true

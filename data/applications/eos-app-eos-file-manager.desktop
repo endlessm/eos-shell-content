@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=My Documents
+Name[es]=Documentos
+Name[pt]=Documentos
+Comment=File manager
+Comment[es]=Administrador de archivos
+Type=Application
+Exec=eos-file-manager %U
+Icon=eos-app-eos-file-manager
+Categories=
+X-Endless-ShowInAppStore=false

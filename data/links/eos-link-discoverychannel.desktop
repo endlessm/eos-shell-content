@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Discovery Channel
+Comment=Science, History, Space...
+Type=Application
+Exec=chromium-browser http://www.tudiscovery.com/
+Icon=eos-link-discoverychannel
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

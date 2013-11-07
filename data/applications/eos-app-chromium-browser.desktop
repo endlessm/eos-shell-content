@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Internet
+Name[es]=Internet
+Name[pt]=Internet
+Comment=Browse the Web
+Comment[es]=Explora la Internet
+Type=Application
+Exec=chromium-browser %U
+Icon=eos-app-chromium-browser
+Categories=
+X-Endless-ShowInAppStore=false

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=KLogo
+Comment=Geometry and basic programming principles
+Type=Application
+Exec=chromium-browser http://klogoturtle.sourceforge.net/index_p.htm
+Icon=eos-link-klogo
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

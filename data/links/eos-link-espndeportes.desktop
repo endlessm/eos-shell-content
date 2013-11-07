@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ESPNDeportes
+Comment=El Lider Mundial en Deportes
+Type=Application
+Exec=chromium-browser http://espndeportes.espn.go.com/
+Icon=eos-link-espndeportes
+Categories=Sports;
+X-Endless-ShowInAppStore=true

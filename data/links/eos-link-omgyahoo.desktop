@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=OMG Yahoo
+Comment=celebridades e famosos
+Type=Application
+Exec=chromium-browser http://br.omg.yahoo.com/
+Icon=eos-link-omgyahoo
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

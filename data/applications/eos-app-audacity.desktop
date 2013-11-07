@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Audio Editor
+Name[es]=Editor de Audio
+Name[pt]=Editor de audio
+Comment=Audio editor for recording, slicing, and mixing audio
+Comment[es]=Editor de sonido para grabar, cortar y mezclar audio
+Type=Application
+Exec=audacity
+Icon=eos-app-audacity
+Categories=Utility;
+X-Endless-ShowInAppStore=true

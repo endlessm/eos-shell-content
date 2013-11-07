@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Codecademy
+Comment=Learn to program
+Type=Application
+Exec=eos-exec-localized 'chromium-browser http://www.codecademy.com/?locale_code=pt#!/exercises/0' en:'chromium-browser http://www.codecademy.com/?locale_code=pt#!/exercises/0' es:'chromium-browser http://www.codecademy.com/es' pt:'chromium-browser http://www.codecademy.com/?locale_code=pt#!/exercises/0' 
+Icon=eos-link-codeacademy
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

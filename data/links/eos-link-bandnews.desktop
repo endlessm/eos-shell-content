@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Band News
+Comment=Online radio
+Type=Application
+Exec=chromium-browser http://bandnewstv.band.uol.com.br/
+Icon=eos-link-bandnews
+Categories=News;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Mercado Livre
+Comment=Purchases and sales online
+Type=Application
+Exec=chromium-browser http://www.mercadolivre.com.br/
+Icon=eos-link-mercadolivre
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Universidad del Valle de Guatemala
+Comment=Sitio Web Oficial
+Type=Application
+Exec=chromium-browser http://www.uvg.edu.gt/
+Icon=eos-link-universidaddelvalle
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

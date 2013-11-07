@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TEDxGuatemala 2012
+Comment=Ideas que valen la pena difundir
+Type=Application
+Exec=chromium-browser http://tedxguatemalacity.com/2012/
+Icon=eos-link-tedxguatemalacity
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Khan Academy
+Name[es]=Khan Academy
+Name[pt]=Academia Khan
+Comment=Learn about math, computers, economics, science, medicine, finance, history, and more, for free
+Comment[es]=Aprende acerca de las matemáticas, el arte, la programación, la economía, la biología, la historia, y mucho más - y todo por gratis
+Type=Application
+Exec=eos-khanacademy
+Icon=eos-app-khanacademy
+Categories=Education;
+X-Endless-ShowInAppStore=true

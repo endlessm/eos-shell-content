@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Teleton Guatemala
+Comment=Teleton Guatemala
+Type=Application
+Exec=chromium-browser https://www.teleton.com.gt/
+Icon=eos-link-teleton
+Categories=Local;
+X-Endless-ShowInAppStore=true

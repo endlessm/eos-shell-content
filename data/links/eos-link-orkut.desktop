@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Orkut
+Comment=Social Network
+Type=Application
+Exec=chromium-browser http://www.orkut.com.br/
+Icon=eos-link-orkut
+Categories=Entertainment;
+X-Endless-ShowInAppStore=true

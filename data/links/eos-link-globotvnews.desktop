@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Globo News
+Comment=Portal de Notícias
+Type=Application
+Exec=chromium-browser http://globotv.globo.com/globo-news/
+Icon=eos-link-globotvnews
+Categories=News;
+X-Endless-ShowInAppStore=true
