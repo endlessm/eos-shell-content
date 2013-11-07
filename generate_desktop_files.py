@@ -117,7 +117,14 @@ class LinkObject(DesktopObject):
         # If there's only one URL for this link, just return an exec which opens that url
         # in chromium. Otherwise, send each url with its respective locale to eos-exec-localized
         [default_locale, default_url] = self._localized_urls.items()[0]
-        if len(self._localized_urls) == 1:
+
+        same_url = True
+        for locale, url in self._localized_urls.items():
+            if url != default_url:
+                same_url = False
+                break
+
+        if same_url:
             return 'chromium-browser ' + default_url
 
         exec_str = 'eos-exec-localized '
@@ -187,8 +194,6 @@ if __name__ == '__main__':
                     url = link_data['linkUrl']
                     desktop_objects[id].append_localized_url(lang, url)
 
-    # Some apps, such as the file manager and the browser, aren't listed in the CMS and so
-    # are specified in a default_apps.json file
     apps_file = os.path.join(UNZIP_DIR, 'apps', 'content.json')
     apps_json = json.load(open(apps_file))
     for app_data in apps_json:
