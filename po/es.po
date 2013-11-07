@@ -8,12 +8,13 @@
 # njendoubi <jendoubi@stanford.edu>, 2013
 # nsanchez <ns@endlessm.com>, 2013
 # rshuler <roddy@endlessm.com>, 2013
+# rshuler <roddy@endlessm.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-06 15:50-0800\n"
-"PO-Revision-Date: 2013-11-06 23:51+0000\n"
+"POT-Creation-Date: 2013-11-06 22:45-0800\n"
+"PO-Revision-Date: 2013-11-07 06:47+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/teams/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -889,7 +890,7 @@ msgstr "Traducir de un idioma a otro sirve para crear puentes entre culturas. Ta
 #: ../content/Default/apps/content.json.h:112
 #: ../content/Default/links/content.json.h:112
 msgctxt "title"
-msgid "123 Tux"
+msgid "Tux Math"
 msgstr "123 Tux"
 
 #: ../content/Default/apps/content.json.h:113
@@ -1416,13 +1417,13 @@ msgstr "¡El mundo es un lugar bello y extraordinario! Comienza a explorarlo con
 #: ../content/Default/links/content.json.h:184
 msgctxt "title"
 msgid "My Documents"
-msgstr ""
+msgstr "Documentos"
 
 #: ../content/Default/apps/content.json.h:185
 #: ../content/Default/links/content.json.h:185
 msgctxt "subtitle"
 msgid "File manager"
-msgstr ""
+msgstr "Administrador de archivos"
 
 #: ../content/Default/apps/content.json.h:186
 #: ../content/Default/apps/content.json.h:189
@@ -1436,10 +1437,10 @@ msgstr ""
 #: ../content/Default/links/content.json.h:187
 msgctxt "title"
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: ../content/Default/apps/content.json.h:188
 #: ../content/Default/links/content.json.h:188
 msgctxt "subtitle"
 msgid "Browse the Web"
-msgstr ""
+msgstr "Explora la Internet"

@@ -6,12 +6,13 @@
 # joelmx <joel@endlessm.com>, 2013
 # nsanchez <ns@endlessm.com>, 2013
 # rshuler <roddy@endlessm.com>, 2013
+# rshuler <roddy@endlessm.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-06 15:50-0800\n"
-"PO-Revision-Date: 2013-11-06 23:51+0000\n"
+"POT-Creation-Date: 2013-11-06 22:45-0800\n"
+"PO-Revision-Date: 2013-11-07 06:47+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/teams/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -887,7 +888,7 @@ msgstr ""
 #: ../content/Default/apps/content.json.h:112
 #: ../content/Default/links/content.json.h:112
 msgctxt "title"
-msgid "123 Tux"
+msgid "Tux Math"
 msgstr "123 Tux"
 
 #: ../content/Default/apps/content.json.h:113
@@ -1414,7 +1415,7 @@ msgstr ""
 #: ../content/Default/links/content.json.h:184
 msgctxt "title"
 msgid "My Documents"
-msgstr ""
+msgstr "Documentos"
 
 #: ../content/Default/apps/content.json.h:185
 #: ../content/Default/links/content.json.h:185
@@ -1434,7 +1435,7 @@ msgstr ""
 #: ../content/Default/links/content.json.h:187
 msgctxt "title"
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: ../content/Default/apps/content.json.h:188
 #: ../content/Default/links/content.json.h:188
