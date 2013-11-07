@@ -55,6 +55,8 @@ class DesktopObject(object):
     def get(self, key):
         if key in self.json_keys:
             val = self._data[self.json_keys[key]]
+            if key is 'Icon':
+                return self._icon_prefix + val
             if key is 'Categories':
                 if val is None:
                     return ''
@@ -108,6 +110,7 @@ class LinkObject(DesktopObject):
             locale: self.get('URL')
         }
         self._prefix = 'eos-link-'
+        self._icon_prefix = 'eos-link-'
 
     def append_localized_url(self, locale, url):
         if url not in self._localized_urls:
@@ -150,7 +153,7 @@ class AppObject(DesktopObject):
         'Categories': 'category',
         'Exec': 'exec',
         'TryExec': 'tryexec',
-        'Icon': 'icon',
+        'Icon': 'application-id',
         'Folder': 'folder',
         'Index': 'desktop-position',
     }
@@ -160,6 +163,7 @@ class AppObject(DesktopObject):
         self._desktop_dir = APPS_DIR
         # For applications, the desktop-id already has the 'eos-app-' prefix
         self._prefix = ''
+        self._icon_prefix = 'eos-app-'
 
 if __name__ == '__main__':
 
