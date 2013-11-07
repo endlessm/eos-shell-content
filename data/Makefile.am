@@ -21,14 +21,26 @@ eos-select-personality: eos-select-personality.in Makefile
 	$(AM_V_GEN) $(do_subst) $< > $@
 	chmod +x $@
 
+eos-save-icon-grid: eos-save-icon-grid.in Makefile
+	$(AM_V_GEN) $(do_subst) $< > $@
+	chmod +x $@
+
 EXTRA_DIST = \
     $(desktops_DATA) \
     $(folders_DATA) \
     $(settings_DATA) \
     eos-exec-localized \
     eos-select-personality.in \
+    eos-save-icon-grid.in \
     $(NULL)
 
-bin_SCRIPTS = eos-exec-localized eos-select-personality
+bin_SCRIPTS = \
+    eos-exec-localized \
+    eos-select-personality \
+    eos-save-icon-grid \
+    $(NULL)
 
-CLEANFILES = eos-select-personality
+CLEANFILES = \
+    eos-select-personality \
+    eos-save-icon-grid \
+    $(NULL)
