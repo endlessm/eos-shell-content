@@ -16,9 +16,6 @@ const GLib = imports.gi.GLib;
 
 const INSTALL_PATH = '@DATA_DIR@';
 const PERSONALITY_PATH ='@SYSCONF_DIR@/EndlessOS';
-const EOS_SHELL_SCHEMA = 'org.gnome.shell';
-const ICON_GRID_LAYOUT_SETTING = 'icon-grid-layout';
-const OVERRIDES_PRIORITY = 90;
 
 const selectPersonality = function() {
     let command = 'zenity --list --title="Desktop configuration" --text="Select an option and hit OK\n(Cancel to keep existing configuration)" --radiolist --hide-header --column=button --column=selection TRUE default';
