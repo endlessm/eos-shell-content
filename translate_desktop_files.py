@@ -11,8 +11,7 @@ PO_DIR = 'po'
 LINGUAS_FILE = os.path.join(PO_DIR, 'LINGUAS')
 KEY_TO_CONTEXT = {
     'Name': 'title',
-    'Comment': 'subtitle',
-    'Icon': '???'
+    'Comment': 'subtitle'
 }
 
 def is_localized_entry(line):

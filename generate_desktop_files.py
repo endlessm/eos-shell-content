@@ -41,10 +41,11 @@ class DesktopObject(object):
         'Icon',
         'Categories',
         'X-Endless-ShowInAppStore',
+        'X-Endless-ShowInPersonalities',
     ]
         
     def __init__(self, data):
-        self._locale_keys = ['Name', 'Comment', 'Icon']
+        self._locale_keys = ['Name', 'Comment']
         self._suffix = '.desktop.in'
         self._data = data
 
@@ -73,6 +74,14 @@ class DesktopObject(object):
                 return 'false'
             else:
                 return 'true'
+        elif key == 'X-Endless-ShowInPersonalities':
+            personalities = self.get('Personalities')
+            if 'All' in personalities:
+                return None
+            elif 'None' in personalities:
+                return ''
+            else:
+                return ';'.join(personalities) + ';'
         elif key == 'Position':
             folder = self.get('Folder')
             index = self.get('Index')
@@ -86,11 +95,13 @@ class DesktopObject(object):
             raise AttributeError
 
     def _write_key(self, handle, key):
-        line = ('%s=%s\n' % (key, self.get(key))).encode('utf-8')
-        if self.key_is_localized(key):
-            line = '_' + line
+        val = self.get(key)
+        if val is not None:
+            line = ('%s=%s\n' % (key, val)).encode('utf-8')
+            if self.key_is_localized(key):
+                line = '_' + line
 
-        handle.write(line)
+            handle.write(line)
     
     def key_is_localized(self, key):
         return key in self._locale_keys
@@ -116,6 +127,8 @@ class LinkObject(DesktopObject):
         }
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
+
+        self.defaults['Personalities'] = ['All'];
 
     def append_localized_url(self, locale, url):
         if url not in self._localized_urls:
@@ -169,6 +182,16 @@ class AppObject(DesktopObject):
         # For applications, the desktop-id already has the 'eos-app-' prefix
         self._prefix = ''
         self._icon_prefix = 'eos-app-'
+
+    def _get_personalities(self):
+        personalities = self._data['personalities']
+        return map(lambda p: 'default' if p == 'Default' else p, personalities)
+
+    def get(self, key):
+        if key is 'Personalities':
+            return self._get_personalities()
+        else:
+            return super(AppObject, self).get(key)
 
 if __name__ == '__main__':
 
