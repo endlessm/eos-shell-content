@@ -67,7 +67,12 @@ class DesktopObject(object):
             return self.defaults[key]
         elif key == 'X-Endless-ShowInAppStore':
             # If the app has no categories, it shouldn't be listed in the app store
-            return self.get('Categories') != ''
+            # Note: the strings must be all lower case,
+            # so we cannot simply return a boolean value
+            if self.get('Categories') == '':
+                return 'false'
+            else:
+                return 'true'
         elif key == 'Position':
             folder = self.get('Folder')
             index = self.get('Index')
