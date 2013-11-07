@@ -193,8 +193,10 @@ if __name__ == '__main__':
     # file should combine all specified URLs, switching on the locale via eos-exec-localized
     for locale in LINKS_LOCALES:
         lang = locale.split('-')[0]
-        localized_link_file = os.path.join(UNZIP_DIR, 'links', locale + '.json')
-        localized_link_json = json.load(open(localized_link_file))
+        localized_link_path = os.path.join(UNZIP_DIR, 'links', locale + '.json')
+        localized_link_file = open(localized_link_path)
+        localized_link_json = json.load(localized_link_file)
+        localized_link_file.close()
         for category in localized_link_json:
             for link_data in category['links']:
                 id = link_data['linkId']
@@ -204,8 +206,10 @@ if __name__ == '__main__':
                     url = link_data['linkUrl']
                     desktop_objects[id].append_localized_url(lang, url)
 
-    apps_file = os.path.join(UNZIP_DIR, 'apps', 'content.json')
-    apps_json = json.load(open(apps_file))
+    apps_path = os.path.join(UNZIP_DIR, 'apps', 'content.json')
+    apps_file = open(apps_path)
+    apps_json = json.load(apps_file)
+    apps_file.close()
     for app_data in apps_json:
         id = app_data['application-id']
         desktop_objects[id] = AppObject(app_data)
@@ -219,7 +223,9 @@ if __name__ == '__main__':
         desktop_file.write('[Desktop Entry]\n')
 
         for key in obj.DESKTOP_KEYS:
-           obj._write_key(desktop_file, key) 
+           obj._write_key(desktop_file, key)
+
+        desktop_file.close()
 
     # translate the desktop.in files we generated
     translate_dir(LINKS_DIR)
