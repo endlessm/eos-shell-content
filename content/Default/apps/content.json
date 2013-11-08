@@ -1428,47 +1428,6 @@
     "category":"Education"
   },
   {
-    "displayShape":"b2h",
-    "application-id":"brazil",
-    "desktop-id":"eos-app-com.endlessm.brazil",
-    "exec":"eos-brazil",
-    "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"15",
-    "title":"Brazil",
-    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
-    "description":"Want to learn more about the nation you call home? Brazil is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Brazilian life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
-    "personalities":[
-      "Default",
-      "Brazil"
-    ],
-    "splash-screen-type":"Custom",
-    "custom-splash-screen":"brazil-splash.jpg",
-    "icon":"brazil-icon.png",
-    "square_img":"brazil-thumb.jpg",
-    "featured_img":"brazil-featured.jpg",
-    "screenshots":{
-      "en-us":[
-        "brazil-screenshot1.jpg",
-        "brazil-screenshot2.jpg",
-        "brazil-screenshot3.jpg"
-      ],
-      "pt-br":[
-        "brazil-screenshot1.jpg",
-        "brazil-screenshot2.jpg",
-        "brazil-screenshot3.jpg"
-      ],
-      "es-gt":[
-        "brazil-screenshot1.jpg",
-        "brazil-screenshot2.jpg",
-        "brazil-screenshot3.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":true,
-    "category":"Education"
-  },
-  {
     "displayShape":"b2v",
     "application-id":"health",
     "desktop-id":"eos-app-com.endlessm.health",
@@ -1787,76 +1746,6 @@
       ],
       "es-gt":[
         "mexico-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":true,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b2v",
-    "application-id":"mexico",
-    "desktop-id":"eos-app-com.endlessm.mexico",
-    "exec":"eos-mexico",
-    "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"17",
-    "title":"Mexico",
-    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
-    "description":"Want to learn more about the nation you call home? Mexico is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Mexican life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
-    "personalities":[
-      "Default",
-      "Mexico"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"mexico-icon.png",
-    "square_img":"mexico-thumb.jpg",
-    "featured_img":"mexico-featured.jpg",
-    "screenshots":{
-      "en-us":[
-        "mexico-screenshot1.jpg"
-      ],
-      "pt-br":[
-        "mexico-screenshot1.jpg"
-      ],
-      "es-gt":[
-        "mexico-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":true,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"guatemala",
-    "desktop-id":"eos-app-com.endlessm.guatemala",
-    "exec":"eos-guatemala",
-    "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"16",
-    "title":"Guatemala",
-    "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
-    "description":"Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing these areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala and be able to share what you learn with friends, family, and visitors.",
-    "personalities":[
-      "Default",
-      "Guatemala"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"guatemala-icon.png",
-    "square_img":"guatemala-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "en-us":[
-        "guatemala-screenshot1.jpg"
-      ],
-      "pt-br":[
-        "guatemala-screenshot1.jpg"
-      ],
-      "es-gt":[
-        "guatemala-screenshot1.jpg"
       ]
     },
     "is_featured":false,
