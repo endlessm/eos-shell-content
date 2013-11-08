@@ -8,6 +8,7 @@ Comment[es]=Destruye las bases enemigas en el espacio
 Comment[pt]=Destrua as bases inimigas no espaço
 Type=Application
 Exec=resfix "kobodl -fullscreen"
+TryExec=kobodl
 Icon=eos-app-kobodeluxe
 Categories=Leisure;
 X-Endless-ShowInAppStore=true
