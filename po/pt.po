@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-06 22:45-0800\n"
-"PO-Revision-Date: 2013-11-07 06:47+0000\n"
+"POT-Creation-Date: 2013-11-08 23:57-0800\n"
+"PO-Revision-Date: 2013-11-09 08:03+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/teams/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -23,19 +23,16 @@ msgstr ""
 
 #. Extracted from Default/apps/content.json
 #: ../content/Default/apps/content.json.h:4
-#: ../content/Default/links/content.json.h:4
 msgctxt "title"
 msgid "Freecell"
 msgstr "Freecell"
 
 #: ../content/Default/apps/content.json.h:5
-#: ../content/Default/links/content.json.h:5
 msgctxt "subtitle"
 msgid "Solitare based single player card game"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:6
-#: ../content/Default/links/content.json.h:6
 msgctxt "description"
 msgid ""
 "This application lets you play a new type of solitaire that will keep you "
@@ -48,19 +45,16 @@ msgid ""
 msgstr "Esta aplicação permite que você jogue um novo tipo de paciência que irá mantê-lo ocupado por horas! Freecell Solitaire é um pouco diferente do tradicional Paciência, mas as regras são fáceis de pegar. Como Paciência, a idéia geral é colocar cartas do mesmo naipe para baixo, em ordem numérica, mas é um pouco mais complicado do que isso. Este jogo de cartas desafia a mente e proporciona muita diversão para você aproveitar."
 
 #: ../content/Default/apps/content.json.h:7
-#: ../content/Default/links/content.json.h:7
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
 
 #: ../content/Default/apps/content.json.h:8
-#: ../content/Default/links/content.json.h:8
 msgctxt "subtitle"
 msgid "Play one of the most popular puzzle games of all time"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:9
-#: ../content/Default/links/content.json.h:9
 msgctxt "description"
 msgid ""
 "If you’re a fan of puzzles and math games, the Sudoku app is perfect for "
@@ -72,13 +66,11 @@ msgid ""
 msgstr "Se você é um fã de quebra-cabeças e jogos de matemática, o app Sudoku é perfeito para você. Estes divertidos quebra-cabeças exigem que você insera números em uma grade para que você tenha linhas, colunas e regiões de grade exclusivas,  contendo todos os números de 1 a 9. Pode parecer complicado no começo, mas com este app, você vai aprender a jogar e pode pegar o jeito do jogo muito rápido. Em breve, você terá horas de diversão resolver enigmas de Sudoku e exercitar sua mente!"
 
 #: ../content/Default/apps/content.json.h:10
-#: ../content/Default/links/content.json.h:10
 msgctxt "title"
 msgid "Khan Academy"
 msgstr "Academia Khan"
 
 #: ../content/Default/apps/content.json.h:11
-#: ../content/Default/links/content.json.h:11
 msgctxt "subtitle"
 msgid ""
 "Learn about math, computers, economics, science, medicine, finance, history,"
@@ -86,7 +78,6 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:12
-#: ../content/Default/links/content.json.h:12
 msgctxt "description"
 msgid ""
 "A whole world of learning is at your fingertips with the Khan Academy app. "
@@ -99,19 +90,16 @@ msgid ""
 msgstr "Um mundo inteiro de aprendizagem está ao seu alcance com o app Khan Academy. Um dos maiores recursos educacionais no mundo, Khan Academy, oferece vídeo aulas on-line em uma grande variedade de áreas de conteúdo, incluindo matemática, biologia, química e física. Estes emocionantes vídeos lhe dará acesso a conteúdo fascinante, e ajudá-lo a aprender mais do que apenas a educação de sua sala de aula. Os vídeos são gratuitos, de fácil acesso, e proporcionarão oportunidades de aprendizagem que com certeza vão expandir sua mente."
 
 #: ../content/Default/apps/content.json.h:13
-#: ../content/Default/links/content.json.h:13
 msgctxt "title"
 msgid "Dictionary"
 msgstr "Dicionário"
 
 #: ../content/Default/apps/content.json.h:14
-#: ../content/Default/links/content.json.h:14
 msgctxt "subtitle"
 msgid "Feature-rich dictionary lookup software, with lots of bonus tools"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:15
-#: ../content/Default/links/content.json.h:15
 msgctxt "description"
 msgid ""
 "In reading and conversation, words often come up with which you’re not "
@@ -122,19 +110,16 @@ msgid ""
 msgstr "Em leitura e conversação, agumas vezes aparecem palavras com as quais você não está familiarizado. Ao invés de fingir que você sabe o que elas querem dizer, é melhor ter um app de dicionário onde você possa aprender novo vocabulário e compreender o que lê e ouve. Este app de dicionário é fácil de usar e navegar, então você nunca terá dificuldade em encontrar a palavra que você está procurando."
 
 #: ../content/Default/apps/content.json.h:16
-#: ../content/Default/links/content.json.h:16
 msgctxt "title"
 msgid "Wikipedia"
 msgstr "Wikipédia"
 
 #: ../content/Default/apps/content.json.h:17
-#: ../content/Default/links/content.json.h:17
 msgctxt "subtitle"
 msgid "The free encyclopedia that anyone can edit"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:18
-#: ../content/Default/links/content.json.h:18
 msgctxt "description"
 msgid ""
 "Whether you’re working online or offline, you want access to the world’s "
@@ -146,20 +131,17 @@ msgid ""
 msgstr "Se você está trabalhando online ou offline, você quer acesso ao tesouro do mundo da informação - Wikipedia. Com o Wikipédia app, você vai ter isso. Use a fácil ferramenta de busca para procurar qualquer assunto que você quer, e você vai ser capaz de ler o verbete de enciclopédia sobre o assunto. Você vai aprender mais do que você jamais imaginou ser possível com o acesso à maior fonte de informação da Internet."
 
 #: ../content/Default/apps/content.json.h:19
-#: ../content/Default/links/content.json.h:19
 msgctxt "title"
 msgid "Skype"
 msgstr "Skype"
 
 #: ../content/Default/apps/content.json.h:20
-#: ../content/Default/links/content.json.h:20
 msgctxt "subtitle"
 msgid ""
 "Make internet calls for free and cheap online calls to phones and mobiles"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:21
-#: ../content/Default/links/content.json.h:21
 msgctxt "description"
 msgid ""
 "Skype makes staying in touch incredibly easy and fun! If you have a webcam "
@@ -169,20 +151,17 @@ msgid ""
 msgstr "Skype faz ficar em contato incrivelmente fácil e divertido! Se você tiver uma webcam e um microfone, você pode facilmente fazer chamadas de vídeo e chamadas de voz para qualquer pessoa no mundo que também tem Skype. As características deste aplicativo são simples de usar e você pode ficar em contato com pessoas em qualquer lugar no mundo!"
 
 #: ../content/Default/apps/content.json.h:22
-#: ../content/Default/links/content.json.h:22
 msgctxt "title"
 msgid "Armagetron"
 msgstr "Armagetron"
 
 #: ../content/Default/apps/content.json.h:23
-#: ../content/Default/links/content.json.h:23
 msgctxt "subtitle"
 msgid ""
 "Multiplayer 3D game inspired by the lightcycle sequence from the movie Tron"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:24
-#: ../content/Default/links/content.json.h:24
 msgctxt "description"
 msgid ""
 "This exciting game lets you into the world of Tron. Get behind the wheel of "
@@ -193,19 +172,16 @@ msgid ""
 msgstr "Este emocionante jogo leva você para o mundo do Tron. Chegar ao volante de um \"ciclo de luz\", uma moto legal e futurista e combatir os outros na estrada. Forçar seus adversários a bater nas paredes de arena para eliminá-los do jogo e sair vitorioso. Este aplicativo é fácil de aprender e muito divertido de jogar!"
 
 #: ../content/Default/apps/content.json.h:25
-#: ../content/Default/links/content.json.h:25
 msgctxt "title"
 msgid "Audio Editor"
 msgstr "Editor de audio"
 
 #: ../content/Default/apps/content.json.h:26
-#: ../content/Default/links/content.json.h:26
 msgctxt "subtitle"
 msgid "Audio editor for recording, slicing, and mixing audio"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:27
-#: ../content/Default/links/content.json.h:27
 msgctxt "description"
 msgid ""
 "Have you ever wanted to make your own audio clips or songs? With this app, "
@@ -215,19 +191,16 @@ msgid ""
 msgstr "Alguma vez você já quis fazer seus próprios clipes de áudio ou músicas? Com este aplicativo, você será capaz de acessar todas as ferramentas que você precisa para criar clipes de áudio que você pode tocar para os seus amigos e familiares. Criar clipes de alta qualidade e músicas que você pode até compartilhar com o mundo!"
 
 #: ../content/Default/apps/content.json.h:28
-#: ../content/Default/links/content.json.h:28
 msgctxt "title"
 msgid "Billiards"
 msgstr "Sinuca"
 
 #: ../content/Default/apps/content.json.h:29
-#: ../content/Default/links/content.json.h:29
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:30
-#: ../content/Default/links/content.json.h:30
 msgctxt "description"
 msgid ""
 "Do you love playing billiards, or have you ever wanted to learn how to play?"
@@ -239,19 +212,16 @@ msgid ""
 msgstr "Você ama jogar bilhar, ou que você sempre quis aprender a jogar? Este jogo permite que você tenha a experiência de jogar bilhar e outros jogos similares direito de sua casa. É simples de aprender e usar, mas altamente realista. Jogar carom, eightball ou nineball, ou apenas para a prática de jogos de bilhar reais contra seus amigos. Este aplicativo é uma grande ferramenta para jogar e para se divertir e melhorar o seu jogo."
 
 #: ../content/Default/apps/content.json.h:31
-#: ../content/Default/links/content.json.h:31
 msgctxt "title"
 msgid "BlockOut 2"
 msgstr "BlockOut 2"
 
 #: ../content/Default/apps/content.json.h:32
-#: ../content/Default/links/content.json.h:32
 msgctxt "subtitle"
 msgid "3D Tetris-style game"
 msgstr "Jogo de Tetris 3D"
 
 #: ../content/Default/apps/content.json.h:33
-#: ../content/Default/links/content.json.h:33
 msgctxt "description"
 msgid ""
 "Do you love puzzle games? Then you’ll love BlockOut 2. This 3-D Tetris game "
@@ -262,19 +232,16 @@ msgid ""
 msgstr "Você gosta de jogos de quebra-cabeça? Então você vai adorar BlockOut 2. Este jogo 3-D Tetris é rápido e muito divertido! Descubra como empilhar blocos diferentes juntos e criar camadas inteiras de blocos para obter pontos, todos antes dos blocos de empilhar muito alto e você perder! É muito bom para o cérebro, e toneladas de diversão."
 
 #: ../content/Default/apps/content.json.h:34
-#: ../content/Default/links/content.json.h:34
 msgctxt "title"
 msgid "Chromium BSU"
 msgstr "Chromium BSU"
 
 #: ../content/Default/apps/content.json.h:35
-#: ../content/Default/links/content.json.h:35
 msgctxt "subtitle"
 msgid "A fast paced, arcade-style, top-scrolling space shooter "
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:36
-#: ../content/Default/links/content.json.h:36
 msgctxt "description"
 msgid ""
 "Imagine this: You’re the captain of Chromium B.S.U., a vital cargo ship that"
@@ -286,19 +253,16 @@ msgid ""
 msgstr "Imagine isto: Você é o capitão do Chromium BSU, um navio de carga vital que deve obter suprimentos para a linha de frente de uma grande guerra no espaço. Com a ajuda de sua frota de combate robótico, você poderia fazê-lo. Este emocionante jogo no estilo arcade tem a certeza de ser emocionante. Com uma variedade de objectivos a atingir e as ferramentas para fazê-lo, você está no seu caminho para uma galáxia de diversão!"
 
 #: ../content/Default/apps/content.json.h:37
-#: ../content/Default/links/content.json.h:37
 msgctxt "title"
 msgid "Learn English"
 msgstr "Aprenda Inglês"
 
 #: ../content/Default/apps/content.json.h:38
-#: ../content/Default/links/content.json.h:38
 msgctxt "subtitle"
 msgid "Learn or improve your English while having fun"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:39
-#: ../content/Default/links/content.json.h:39
 msgctxt "description"
 msgid ""
 "Ready to take your English to a new level? Have fun and learn a new skill by"
@@ -309,19 +273,16 @@ msgid ""
 msgstr "Pronto para levar o seu Inglês a um novo nível? Divirta-se e aprenda uma nova habilidade jogando jogos, ouvindo suas músicas favoritas com letras, e assistindo vídeos interessantes. Às vezes, tudo o que precisamos é de um empurrão na direção certa, e com nossa app, você vai aprender sobre os recursos que podem ajudá-lo a melhorar o seu Inglês e levá-lo a novas oportunidades."
 
 #: ../content/Default/apps/content.json.h:40
-#: ../content/Default/links/content.json.h:40
 msgctxt "title"
 msgid "E-mail"
 msgstr "E-mail"
 
 #: ../content/Default/apps/content.json.h:41
-#: ../content/Default/links/content.json.h:41
 msgctxt "subtitle"
 msgid "Full-featured tool for tool managing e-mail, address book and calendar"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:42
-#: ../content/Default/links/content.json.h:42
 msgctxt "description"
 msgid ""
 "Staying in touch is an important part of modern life, and email has become "
@@ -332,19 +293,16 @@ msgid ""
 msgstr "Ficar em contato é uma parte importante da vida moderna, e-mail tornou-se uma das melhores maneiras de fazê-lo. Você pode receber e-mails de amigos e familiares distantes, mensagens de acesso contendo piadas diárias, vocabulário, ou notícias, e até mesmo lidar com questões importantes - tudo via e-mail. Quando você precisa verificar seu e-mail de forma rápida e simples, este app é para você."
 
 #: ../content/Default/apps/content.json.h:43
-#: ../content/Default/links/content.json.h:43
 msgctxt "title"
 msgid "Media Download"
 msgstr "Baixar Mídia"
 
 #: ../content/Default/apps/content.json.h:44
-#: ../content/Default/links/content.json.h:44
 msgctxt "subtitle"
 msgid "BitTorrent dowloader app that supports file sharing"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:45
-#: ../content/Default/links/content.json.h:45
 msgctxt "description"
 msgid ""
 "With this useful app, you can access, download and share almost any file "
@@ -356,19 +314,16 @@ msgid ""
 msgstr "Com este útil aplicativo, você pode acessar, baixar e compartilhar quase qualquer arquivo na web. Desde música, vídeos e jogos ate downloads mais complexos como software, você pode compartilhar arquivos com milhões de usuários. As características especiais incluem um reprodutor de vídeo embutido no aplicativo. Compartilhe arquivos grandes e pequenos, com uma comunidade on-line gigante, e obtenha a mídia que você ama facilmente."
 
 #: ../content/Default/apps/content.json.h:46
-#: ../content/Default/links/content.json.h:46
 msgctxt "title"
 msgid "Calculator"
 msgstr "Calculadora"
 
 #: ../content/Default/apps/content.json.h:47
-#: ../content/Default/links/content.json.h:47
 msgctxt "subtitle"
 msgid "Full-featured scientific calculator with many bonus tools"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:48
-#: ../content/Default/links/content.json.h:48
 msgctxt "description"
 msgid ""
 "Do you ever consider how often you need to do basic or even complex math in "
@@ -381,19 +336,16 @@ msgid ""
 msgstr "Você já pensou quantas vezes você precisa fazer matemática básica ou mesmo complexa na vida diária? De calcular um orçamento, converter medidas de uma receita, ou para descobrir os impostos, você provavelmente usa equações mais regularmente do que você pensa. É por isso que este app de calculadora é super util. Faça operações aritméticas simples rápidamente, ou use a calculadora para fazer um trabalho mais avançado, dependendo de suas necessidades. Você nunca vai lutar para realizar tarefas matemáticas de novo, enquanto você tem este aplicativo calculadora!"
 
 #: ../content/Default/apps/content.json.h:49
-#: ../content/Default/links/content.json.h:49
 msgctxt "title"
 msgid "EduGames"
 msgstr "Joguinhos"
 
 #: ../content/Default/apps/content.json.h:50
-#: ../content/Default/links/content.json.h:50
 msgctxt "subtitle"
 msgid "Activities for kids like telling time, puzzles, memory games, and more"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:51
-#: ../content/Default/links/content.json.h:51
 msgctxt "description"
 msgid ""
 "This app makes learning fun for young children with more than 100 games and "
@@ -404,19 +356,16 @@ msgid ""
 msgstr "Este aplicativo torna o aprendizado divertido para as crianças com mais de 100 jogos e atividades! Temas educativos incluem leitura, geografia e matemática, a app também possui jogos como xadrez e conecta-cuatro, que são ótimos para cérebros jovens. Seu filho vai ter um tempo maravilhoso desenvolvendo habilidades valiosas que vão ajudá-la ao longo da vida."
 
 #: ../content/Default/apps/content.json.h:52
-#: ../content/Default/links/content.json.h:52
 msgctxt "title"
 msgid "GIMP"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:53
-#: ../content/Default/links/content.json.h:53
 msgctxt "subtitle"
 msgid " Image retouching and editing tool"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:54
-#: ../content/Default/links/content.json.h:54
 msgctxt "description"
 msgid ""
 "This application is similar to Adobe Photoshop, and it is free. This tool "
@@ -428,19 +377,16 @@ msgid ""
 msgstr "Esta aplicação é semelhante ao Adobe Photoshop, e é gratuito. Esta ferramenta permite que você edite fotos em uma variedade de maneiras, criando as mais belas obras de arte a partir de suas imagens originais. Este aplicativo também pode fazer coisas como converter formatos de arquivos ou servir como um programa básico de pintura. Há tantas possibilidades de como criar imagens legais uma vez que você pegar o jeito desse útil app de edição!"
 
 #: ../content/Default/apps/content.json.h:55
-#: ../content/Default/links/content.json.h:55
 msgctxt "title"
 msgid "Math"
 msgstr "Matemáticas"
 
 #: ../content/Default/apps/content.json.h:56
-#: ../content/Default/links/content.json.h:56
 msgctxt "subtitle"
 msgid " Numerical computing environment and programming language"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:57
-#: ../content/Default/links/content.json.h:57
 msgctxt "description"
 msgid ""
 "This math application offers advanced mathematical computing functions that "
@@ -452,19 +398,16 @@ msgid ""
 msgstr "Esta aplicação matemática oferece funções matemáticas avançadas que podem ser utilizados para bem mais do que apenas cálculos básicos. Se você é um gênio da matemática que gosta de experimentar com esta disciplina emocionante, este é o aplicativo para você. E mesmo se você não estiver, o aplicativo funciona maravilhosamente como uma calculadora de alto nível. Tudo o que você precisa descobrir sobre mistérios numéricos esta bem aqui."
 
 #: ../content/Default/apps/content.json.h:58
-#: ../content/Default/links/content.json.h:58
 msgctxt "title"
 msgid "Kobo Deluxe"
 msgstr "Kobo Deluxe"
 
 #: ../content/Default/apps/content.json.h:59
-#: ../content/Default/links/content.json.h:59
 msgctxt "subtitle"
 msgid "Destroy enemy bases in space"
 msgstr "Destrua as bases inimigas no espaço"
 
 #: ../content/Default/apps/content.json.h:60
-#: ../content/Default/links/content.json.h:60
 msgctxt "description"
 msgid ""
 "Fans of arcade-style games will love the Kobo Deluxe app. This third-person "
@@ -475,19 +418,16 @@ msgid ""
 msgstr "Os fãs de jogos estilo arcade vão adorar o app Kobo Deluxe. Este jogo de naves permite que você se proteger e destruir navios inimigos quando eles te perseguir, atirar e lançar-se em você. Tudo isso acontece em no espaço, com gráficos divertidos e estimulantes desafios táticos. Mova-se através dos 50 níveis e saia um campeão."
 
 #: ../content/Default/apps/content.json.h:61
-#: ../content/Default/links/content.json.h:61
 msgctxt "title"
 msgid "Breakout"
 msgstr "Fuga"
 
 #: ../content/Default/apps/content.json.h:62
-#: ../content/Default/links/content.json.h:62
 msgctxt "subtitle"
 msgid "Classic arcade-style game packed with new features"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:63
-#: ../content/Default/links/content.json.h:63
 msgctxt "description"
 msgid ""
 "This classic paddle game is tons of fun! The aim is to destroy bricks with "
@@ -498,19 +438,16 @@ msgid ""
 msgstr "Este jogo pá clássico é toneladas de diversão! O objetivo é destruir os tijolos com a bola batendo neles com a sua raquete, o que lhe permite subir de nível. O jogo Breakout original foi lançado em 1976, e as pessoas amaram este jogo simples, mas viciante, desde então. Obter a sua correção de quebra de tijolos com ótimos gráficos e animações, controles intuitivos e abundância de níveis para bater."
 
 #: ../content/Default/apps/content.json.h:64
-#: ../content/Default/links/content.json.h:64
 msgctxt "title"
 msgid "Spreadsheet"
 msgstr "Planilha"
 
 #: ../content/Default/apps/content.json.h:65
-#: ../content/Default/links/content.json.h:65
 msgctxt "subtitle"
 msgid "Spreadsheet program with a comprehensive range of advanced functions"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:66
-#: ../content/Default/links/content.json.h:66
 msgctxt "description"
 msgid ""
 "Whatever you need to keep track of, the spreadsheet app can help you do it. "
@@ -522,13 +459,11 @@ msgid ""
 msgstr "Tuda informação que você precise manter controle e podee acompanhar, o app de planilha pode ajudá-lo a fazê-lo. Esta planilha é avançada mas fácil-de-usar, ela tem algo para todos: um layout simples que é fácil de entender, além da capacidade de fazer cálculos complexos. Planilhas são usados ​​em muitas carreiras em todo o mundo, assim pegando o jeito desse aplicativo também pode ajudar você a ganhar habilidades valiosas para o mercado de trabalho."
 
 #: ../content/Default/apps/content.json.h:67
-#: ../content/Default/links/content.json.h:67
 msgctxt "title"
 msgid "Presentation"
 msgstr "Apresentação"
 
 #: ../content/Default/apps/content.json.h:68
-#: ../content/Default/links/content.json.h:68
 msgctxt "subtitle"
 msgid ""
 "Presentation builder enhanced with templates, art, special effects, and "
@@ -536,7 +471,6 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:69
-#: ../content/Default/links/content.json.h:69
 msgctxt "description"
 msgid ""
 "Create clean, attractive, and professional presentations with this "
@@ -548,19 +482,16 @@ msgid ""
 msgstr "Crie apresentações limpas, atraentes e profissionais com este app de apresentação. Este aplicativo possui a capacidade de usar o texto, ferramentas, transições, arte 2-D e 3-D, e até mesmo animações para mostrar o seu ponto de vista de uma maneira bonita e atraente. E o melhor de tudo, este aplicativo é fácil de entender e usar, com passos simplificados para criar exatamente o que você precisa."
 
 #: ../content/Default/apps/content.json.h:70
-#: ../content/Default/links/content.json.h:70
 msgctxt "title"
 msgid "Writer"
 msgstr "Redator"
 
 #: ../content/Default/apps/content.json.h:71
-#: ../content/Default/links/content.json.h:71
 msgctxt "subtitle"
 msgid "Full-featured word processing and desktop publishing tool"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:72
-#: ../content/Default/links/content.json.h:72
 msgctxt "description"
 msgid ""
 "This app gives you all the features of the best word processing applications"
@@ -573,19 +504,16 @@ msgid ""
 msgstr "Este app dá-lhe todas as características dos melhores aplicativos de processamento de texto e é compatível com o Microsoft Office. Criar e editar documentos com facilidade, criar notas curtas ou longas peças de escritura com anotações e diagramas. Tudo isso é possível com este aplicativo. Seus documentos vão ficar profissionaos, suficiente para apresentar aos empregadores, professores ou outras pessoas importantes. Use este aplicativo para compor sua próxima obra-prima ou para tirar ótimas notas, de qualquer forma, você terá ferramentas simples, mas poderosas disponíveis."
 
 #: ../content/Default/apps/content.json.h:73
-#: ../content/Default/links/content.json.h:73
 msgctxt "title"
 msgid "Physics"
 msgstr "Fisicando"
 
 #: ../content/Default/apps/content.json.h:74
-#: ../content/Default/links/content.json.h:74
 msgctxt "subtitle"
 msgid "Play games where physics is used to solve puzzles"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:75
-#: ../content/Default/links/content.json.h:75
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -597,20 +525,17 @@ msgid ""
 msgstr "Quem diria que as leis da física podem ser muito divertidas? Com este aplicativo, você pode resolver quebra-cabeças, desenhando objetos como polias, alavancas e rampas. Se suas criações dar certo, você vai realizar tarefa do nível e avançar para o próximo nível. Este jogo desafiador também vai te ensinar algumas física básica, mas você vai estar se divertindo tanto que dificilmente você vai saber que você está aprendendo."
 
 #: ../content/Default/apps/content.json.h:76
-#: ../content/Default/links/content.json.h:76
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Open Arena"
 
 #: ../content/Default/apps/content.json.h:77
-#: ../content/Default/links/content.json.h:77
 msgctxt "subtitle"
 msgid ""
 "First-person shooter game based on the Quake III Arena-style deathmatch"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:78
-#: ../content/Default/links/content.json.h:78
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -621,13 +546,11 @@ msgid ""
 msgstr "Se os jogos de batalhas são a sua idéia de um bom tempo, então você vai adorar este app. Esteja avisado - este é um jogo de habilidade séria, e derramamento de sangue sério. Use diferentes estilos de armas em concursos como Capture the Flag, Deathmatch, Team Deathmatch, Último homem em pé, e Tournament. Cada um destes modos oferece a sua própria forma de emoção mentras você batalha seus inimigos!"
 
 #: ../content/Default/apps/content.json.h:79
-#: ../content/Default/links/content.json.h:79
 msgctxt "title"
 msgid "Photo Editor"
 msgstr "Editor de Fotos"
 
 #: ../content/Default/apps/content.json.h:80
-#: ../content/Default/links/content.json.h:80
 msgctxt "subtitle"
 msgid ""
 "Edit your pictures and create beautiful images that you can share with all "
@@ -635,7 +558,6 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:81
-#: ../content/Default/links/content.json.h:81
 msgctxt "description"
 msgid ""
 "Have you ever wanted to edit your own photos like the pros and create "
@@ -647,19 +569,16 @@ msgid ""
 msgstr "Alguma vez você já quis editar suas próprias fotos como os profissionais e criar belas imagens que você possa compartilhar com aqueles que você ama? Bem, agora você pode fazer isso em poucos passos! Temos uma grande variedade de atrativos, filtros artísticos para que você possa personalizar suas fotos e criar obras de arte únicas de sua vida cotidiana. E com este acessível aplicativo, você pode enviar suas criações diretamente para o Facebook, para que todos possam ver suas habilidades de fotografia!"
 
 #: ../content/Default/apps/content.json.h:82
-#: ../content/Default/links/content.json.h:82
 msgctxt "title"
 msgid "Pingus"
 msgstr "Pingus"
 
 #: ../content/Default/apps/content.json.h:83
-#: ../content/Default/links/content.json.h:83
 msgctxt "subtitle"
 msgid "Fun multi-level game featuring penguins"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:84
-#: ../content/Default/links/content.json.h:84
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -670,19 +589,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:85
-#: ../content/Default/links/content.json.h:85
 msgctxt "title"
 msgid "Music"
 msgstr "Música"
 
 #: ../content/Default/apps/content.json.h:86
-#: ../content/Default/links/content.json.h:86
 msgctxt "subtitle"
 msgid "Audio player and radio that plays and helps organize digital music"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:87
-#: ../content/Default/links/content.json.h:87
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -693,19 +609,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:88
-#: ../content/Default/links/content.json.h:88
 msgctxt "title"
 msgid "Photos"
 msgstr "Fotos"
 
 #: ../content/Default/apps/content.json.h:89
-#: ../content/Default/links/content.json.h:89
 msgctxt "subtitle"
 msgid "Makes it easy to edit, organize, and share photos."
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:90
-#: ../content/Default/links/content.json.h:90
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -719,19 +632,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:91
-#: ../content/Default/links/content.json.h:91
 msgctxt "title"
 msgid "Solitaire"
 msgstr "Paciência"
 
 #: ../content/Default/apps/content.json.h:92
-#: ../content/Default/links/content.json.h:92
 msgctxt "subtitle"
 msgid "The classic single player card game"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:93
-#: ../content/Default/links/content.json.h:93
 msgctxt "description"
 msgid ""
 "Solitaire is a classic card game that is fun for people of all ages. It’s "
@@ -742,20 +652,17 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:94
-#: ../content/Default/links/content.json.h:94
 msgctxt "title"
 msgid "Stellarium"
 msgstr "Constelação"
 
 #: ../content/Default/apps/content.json.h:95
-#: ../content/Default/links/content.json.h:95
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:96
-#: ../content/Default/links/content.json.h:96
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -767,19 +674,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:97
-#: ../content/Default/links/content.json.h:97
 msgctxt "title"
 msgid "Super Tux"
 msgstr "Super Tux"
 
 #: ../content/Default/apps/content.json.h:98
-#: ../content/Default/links/content.json.h:98
 msgctxt "subtitle"
 msgid "Classic jump-and-run arcade sidescroller game"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:99
-#: ../content/Default/links/content.json.h:99
 msgctxt "description"
 msgid ""
 "This game is similar to the original Super Mario Brothers games and allows "
@@ -789,19 +693,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:100
-#: ../content/Default/links/content.json.h:100
 msgctxt "title"
 msgid "Tux Kart"
 msgstr "Tux Kart"
 
 #: ../content/Default/apps/content.json.h:101
-#: ../content/Default/links/content.json.h:101
 msgctxt "subtitle"
 msgid "Racing game with colorful characters and imaginative tracks"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:102
-#: ../content/Default/links/content.json.h:102
 msgctxt "description"
 msgid ""
 "Tux Kart is a racing game that stars the lovable character, Tux the Penguin."
@@ -814,19 +715,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:103
-#: ../content/Default/links/content.json.h:103
 msgctxt "title"
 msgid "Teeworlds"
 msgstr "Teelândia"
 
 #: ../content/Default/apps/content.json.h:104
-#: ../content/Default/links/content.json.h:104
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:105
-#: ../content/Default/links/content.json.h:105
 msgctxt "description"
 msgid ""
 "Teeworlds is a retro-looking game, but don’t let this old-school feel fool "
@@ -838,19 +736,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:106
-#: ../content/Default/links/content.json.h:106
 msgctxt "title"
 msgid "Videos"
 msgstr "Videos"
 
 #: ../content/Default/apps/content.json.h:107
-#: ../content/Default/links/content.json.h:107
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:108
-#: ../content/Default/links/content.json.h:108
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -861,19 +756,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:109
-#: ../content/Default/links/content.json.h:109
 msgctxt "title"
 msgid "Translate"
 msgstr "Tradutor"
 
 #: ../content/Default/apps/content.json.h:110
-#: ../content/Default/links/content.json.h:110
 msgctxt "subtitle"
 msgid "Translate text between many languages instantly"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:111
-#: ../content/Default/links/content.json.h:111
 msgctxt "description"
 msgid ""
 "Translating from one language to another is a great way to bridge across "
@@ -886,19 +778,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:112
-#: ../content/Default/links/content.json.h:112
 msgctxt "title"
 msgid "Tux Math"
 msgstr "123 Tux"
 
 #: ../content/Default/apps/content.json.h:113
-#: ../content/Default/links/content.json.h:113
 msgctxt "subtitle"
 msgid "Arcade-style game that helps kids practice their math facts"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:114
-#: ../content/Default/links/content.json.h:114
 msgctxt "description"
 msgid ""
 "Starring kids’ favorite buddy, Tux the Penguin, this fun math game "
@@ -909,19 +798,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:115
-#: ../content/Default/links/content.json.h:115
 msgctxt "title"
 msgid "Tux Typing"
 msgstr "Tecla Tux"
 
 #: ../content/Default/apps/content.json.h:116
-#: ../content/Default/links/content.json.h:116
 msgctxt "subtitle"
 msgid "Educational typing tutor for kids"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:117
-#: ../content/Default/links/content.json.h:117
 msgctxt "description"
 msgid ""
 "This fun application is a great way for kids, and even adults, to learn how "
@@ -934,19 +820,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:118
-#: ../content/Default/links/content.json.h:118
 msgctxt "title"
 msgid "Weather"
 msgstr "Tempo"
 
 #: ../content/Default/apps/content.json.h:119
-#: ../content/Default/links/content.json.h:119
 msgctxt "subtitle"
 msgid "Get daily local forecasts from trusted sources"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:120
-#: ../content/Default/links/content.json.h:120
 msgctxt "description"
 msgid ""
 "“How’s the weather out there?” Answer this question easily, every day, with "
@@ -957,19 +840,16 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:121
-#: ../content/Default/links/content.json.h:121
 msgctxt "title"
 msgid "YouTube"
 msgstr "YouTube"
 
 #: ../content/Default/apps/content.json.h:122
-#: ../content/Default/links/content.json.h:122
 msgctxt "subtitle"
 msgid "Share your videos with friends, family, and the world"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:123
-#: ../content/Default/links/content.json.h:123
 msgctxt "description"
 msgid ""
 "YouTube is one of the most entertaining and informative sites on the Web. "
@@ -980,25 +860,13 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:124
-#: ../content/Default/apps/content.json.h:127
-#: ../content/Default/links/content.json.h:124
-#: ../content/Default/links/content.json.h:127
 msgctxt "title"
 msgid "Brazil"
 msgstr "Brasil"
 
 #: ../content/Default/apps/content.json.h:125
-#: ../content/Default/apps/content.json.h:128
+#: ../content/Default/apps/content.json.h:152
 #: ../content/Default/apps/content.json.h:155
-#: ../content/Default/apps/content.json.h:158
-#: ../content/Default/apps/content.json.h:161
-#: ../content/Default/apps/content.json.h:164
-#: ../content/Default/links/content.json.h:125
-#: ../content/Default/links/content.json.h:128
-#: ../content/Default/links/content.json.h:155
-#: ../content/Default/links/content.json.h:158
-#: ../content/Default/links/content.json.h:161
-#: ../content/Default/links/content.json.h:164
 msgctxt "subtitle"
 msgid ""
 "Learn about the country you call home and impress family and friends with "
@@ -1006,9 +874,6 @@ msgid ""
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:126
-#: ../content/Default/apps/content.json.h:129
-#: ../content/Default/links/content.json.h:126
-#: ../content/Default/links/content.json.h:129
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Brazil is a beautiful "
@@ -1019,20 +884,17 @@ msgid ""
 "friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:130
-#: ../content/Default/links/content.json.h:130
+#: ../content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "Health"
 msgstr "Saúde"
 
-#: ../content/Default/apps/content.json.h:131
-#: ../content/Default/links/content.json.h:131
+#: ../content/Default/apps/content.json.h:128
 msgctxt "subtitle"
 msgid "Live a healthy life with this app, packed with tips and resources"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:132
-#: ../content/Default/links/content.json.h:132
+#: ../content/Default/apps/content.json.h:129
 msgctxt "description"
 msgid ""
 "Your health is one of the most important aspects of daily life, and you need"
@@ -1043,20 +905,17 @@ msgid ""
 "This app is your indispensable resource to learn how to live a healthy life."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:133
-#: ../content/Default/links/content.json.h:133
+#: ../content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "Coding Fun"
 msgstr "Código Divertido"
 
-#: ../content/Default/apps/content.json.h:134
-#: ../content/Default/links/content.json.h:134
+#: ../content/Default/apps/content.json.h:131
 msgctxt "subtitle"
 msgid "Learn to program computers by creating your own video games"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:135
-#: ../content/Default/links/content.json.h:135
+#: ../content/Default/apps/content.json.h:132
 msgctxt "description"
 msgid ""
 "Do you like playing video games? Then why not create your own? Learn "
@@ -1068,20 +927,17 @@ msgid ""
 "your very own! "
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:136
-#: ../content/Default/links/content.json.h:136
+#: ../content/Default/apps/content.json.h:133
 msgctxt "title"
 msgid "Typing"
 msgstr "Tecla-Okê"
 
-#: ../content/Default/apps/content.json.h:137
-#: ../content/Default/links/content.json.h:137
+#: ../content/Default/apps/content.json.h:134
 msgctxt "subtitle"
 msgid "Learn to type with games and songs"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:138
-#: ../content/Default/links/content.json.h:138
+#: ../content/Default/apps/content.json.h:135
 msgctxt "description"
 msgid ""
 "Typing is a valuable skill in almost any educational or professional "
@@ -1093,22 +949,19 @@ msgid ""
 "the songs you love, all the while gaining a great new ability?"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:139
-#: ../content/Default/links/content.json.h:139
+#: ../content/Default/apps/content.json.h:136
 msgctxt "title"
 msgid "Résumé"
 msgstr "Currículo"
 
-#: ../content/Default/apps/content.json.h:140
-#: ../content/Default/links/content.json.h:140
+#: ../content/Default/apps/content.json.h:137
 msgctxt "subtitle"
 msgid ""
 "Pick a resume template and customize the content to create an impressive "
 "resume in minutes"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:141
-#: ../content/Default/links/content.json.h:141
+#: ../content/Default/apps/content.json.h:138
 msgctxt "description"
 msgid ""
 "The best way to make a great impression on a potential employer is to have "
@@ -1120,21 +973,18 @@ msgid ""
 "your choice."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:142
-#: ../content/Default/links/content.json.h:142
+#: ../content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Chat"
 msgstr "Chat"
 
-#: ../content/Default/apps/content.json.h:143
-#: ../content/Default/links/content.json.h:143
+#: ../content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid ""
 "Messaging program that supports text, voice, video chat, and file transfers"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:144
-#: ../content/Default/links/content.json.h:144
+#: ../content/Default/apps/content.json.h:141
 msgctxt "description"
 msgid ""
 "This chat app is a truly amazing communication tool. It supports the chat "
@@ -1149,22 +999,19 @@ msgid ""
 "and family with this awesome app!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:145
-#: ../content/Default/links/content.json.h:145
+#: ../content/Default/apps/content.json.h:142
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: ../content/Default/apps/content.json.h:146
-#: ../content/Default/links/content.json.h:146
+#: ../content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid ""
 "Vector graphics editor with transparency, gradients, node editing, pattern "
 "fills, PNG, and more"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:147
-#: ../content/Default/links/content.json.h:147
+#: ../content/Default/apps/content.json.h:144
 msgctxt "description"
 msgid ""
 "This application is for intermediate and advanced graphic designers who need"
@@ -1175,20 +1022,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:148
-#: ../content/Default/links/content.json.h:148
+#: ../content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "Frozen Bubble"
 msgstr "Bolhinhas"
 
-#: ../content/Default/apps/content.json.h:149
-#: ../content/Default/links/content.json.h:149
+#: ../content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "The most addictive computer game you'll ever play"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:150
-#: ../content/Default/links/content.json.h:150
+#: ../content/Default/apps/content.json.h:147
 msgctxt "description"
 msgid ""
 "Play by yourself or challenge your friends to an exciting game of frozen "
@@ -1197,20 +1041,17 @@ msgid ""
 " have a good strategy and develop a quick trigger finger in order to win!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:151
-#: ../content/Default/links/content.json.h:151
+#: ../content/Default/apps/content.json.h:148
 msgctxt "title"
 msgid "Scorched 3D"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:152
-#: ../content/Default/links/content.json.h:152
+#: ../content/Default/apps/content.json.h:149
 msgctxt "subtitle"
 msgid "Turn-based artillery game"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:153
-#: ../content/Default/links/content.json.h:153
+#: ../content/Default/apps/content.json.h:150
 msgctxt "description"
 msgid ""
 "Do you love games with jets, naval vessels, and all sorts of weapons? If so,"
@@ -1222,18 +1063,12 @@ msgid ""
 "shake things up!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:154
-#: ../content/Default/apps/content.json.h:157
-#: ../content/Default/links/content.json.h:154
-#: ../content/Default/links/content.json.h:157
+#: ../content/Default/apps/content.json.h:151
 msgctxt "title"
 msgid "Mexico"
 msgstr "Mexico"
 
-#: ../content/Default/apps/content.json.h:156
-#: ../content/Default/apps/content.json.h:159
-#: ../content/Default/links/content.json.h:156
-#: ../content/Default/links/content.json.h:159
+#: ../content/Default/apps/content.json.h:153
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Mexico is a beautiful "
@@ -1244,18 +1079,12 @@ msgid ""
 "friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:160
-#: ../content/Default/apps/content.json.h:163
-#: ../content/Default/links/content.json.h:160
-#: ../content/Default/links/content.json.h:163
+#: ../content/Default/apps/content.json.h:154
 msgctxt "title"
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: ../content/Default/apps/content.json.h:162
-#: ../content/Default/apps/content.json.h:165
-#: ../content/Default/links/content.json.h:162
-#: ../content/Default/links/content.json.h:165
+#: ../content/Default/apps/content.json.h:156
 msgctxt "description"
 msgid ""
 "Guatemala has an ancient and fascinating history, but it’s also a modern, "
@@ -1265,21 +1094,18 @@ msgid ""
 " and be able to share what you learn with friends, family, and visitors."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:166
-#: ../content/Default/links/content.json.h:166
+#: ../content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Science"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:167
-#: ../content/Default/links/content.json.h:167
+#: ../content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid ""
 "Discover more about the world around you, from dinosaurs to outer space"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:168
-#: ../content/Default/links/content.json.h:168
+#: ../content/Default/apps/content.json.h:159
 msgctxt "description"
 msgid ""
 "Are you someone who always wants to know how things work? Do you ask “why” "
@@ -1291,22 +1117,19 @@ msgid ""
 "help you on your road to scientific discovery."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:169
-#: ../content/Default/links/content.json.h:169
+#: ../content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Soccer"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:170
-#: ../content/Default/links/content.json.h:170
+#: ../content/Default/apps/content.json.h:161
 msgctxt "subtitle"
 msgid ""
 "Keep up with your favorite soccer teams, read about famous players, and "
 "learn the rules of the game"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:171
-#: ../content/Default/links/content.json.h:171
+#: ../content/Default/apps/content.json.h:162
 msgctxt "description"
 msgid ""
 "Soccer is a major sport with fans all around the world. Are you one of them?"
@@ -1316,20 +1139,17 @@ msgid ""
 "date with articles about your favorite sport!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:172
-#: ../content/Default/links/content.json.h:172
+#: ../content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Celebrities"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:173
-#: ../content/Default/links/content.json.h:173
+#: ../content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "Packed with information and gossip about the most famous celebrities"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:174
-#: ../content/Default/links/content.json.h:174
+#: ../content/Default/apps/content.json.h:165
 msgctxt "description"
 msgid ""
 "Whether you’re wondering about the life of your favorite movie or pop star, "
@@ -1339,22 +1159,19 @@ msgid ""
 " with all of your friends!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:175
-#: ../content/Default/links/content.json.h:175
+#: ../content/Default/apps/content.json.h:166
 msgctxt "title"
 msgid "Fitness"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:176
-#: ../content/Default/links/content.json.h:176
+#: ../content/Default/apps/content.json.h:167
 msgctxt "subtitle"
 msgid ""
 "Take care of your body with tips and techniques for excercise and healthy "
 "living"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:177
-#: ../content/Default/links/content.json.h:177
+#: ../content/Default/apps/content.json.h:168
 msgctxt "description"
 msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
@@ -1364,20 +1181,17 @@ msgid ""
 " on how to live a healthy life of the body and the mind."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:178
-#: ../content/Default/links/content.json.h:178
+#: ../content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Cooking"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:179
-#: ../content/Default/links/content.json.h:179
+#: ../content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Tips and tricks for the kitchen to share with family and friends"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:180
-#: ../content/Default/links/content.json.h:180
+#: ../content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "Looking to cook something great for your friends and family? This helpful "
@@ -1387,20 +1201,17 @@ msgid ""
 " cooking creations, and will be impressed with your skills."
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:181
-#: ../content/Default/links/content.json.h:181
+#: ../content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Travel"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:182
-#: ../content/Default/links/content.json.h:182
+#: ../content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Explore the sites of the world from your own living room"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:183
-#: ../content/Default/links/content.json.h:183
+#: ../content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "The world is an amazing and beautiful place! Start exploring it with this "
@@ -1411,34 +1222,28 @@ msgid ""
 "sites in the world!"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:184
-#: ../content/Default/links/content.json.h:184
+#: ../content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "My Documents"
 msgstr "Documentos"
 
-#: ../content/Default/apps/content.json.h:185
-#: ../content/Default/links/content.json.h:185
+#: ../content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "File manager"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:186
-#: ../content/Default/apps/content.json.h:189
-#: ../content/Default/links/content.json.h:186
-#: ../content/Default/links/content.json.h:189
+#: ../content/Default/apps/content.json.h:177
+#: ../content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid "No description necessary -- this is not available via the app store"
 msgstr ""
 
-#: ../content/Default/apps/content.json.h:187
-#: ../content/Default/links/content.json.h:187
+#: ../content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Internet"
 msgstr "Internet"
 
-#: ../content/Default/apps/content.json.h:188
-#: ../content/Default/links/content.json.h:188
+#: ../content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Browse the Web"
 msgstr ""
