@@ -60,7 +60,7 @@ DISTCLEANFILES += extract-content-strings$(BUILD_EXEEXT)
 content_files = $(default_app_json) $(default_links_json)
 content_headers = $(content_files:.json=.json.h)
 %.json.h: $(content_files) extract-content-strings$(BUILD_EXEEXT)
-	$(AM_V_GEN) test -f $(addprefix $(srcdir)/,$@) || ./extract-content-strings$(BUILD_EXEEXT) $< > $@
+	$(AM_V_GEN) test -f $(addprefix $(srcdir)/,$@) || ./extract-content-strings$(BUILD_EXEEXT) $(addsuffix .json,$*) > $@
 
 all-local: $(content_headers)
 
