@@ -29,6 +29,7 @@ UNZIP_DIR = 'unzipped'
 DATA_DIR = 'data'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
+SPLASHDIR = None
 
 class DesktopObject(object):
 
@@ -43,6 +44,8 @@ class DesktopObject(object):
         'Categories',
         'X-Endless-ShowInAppStore',
         'X-Endless-ShowInPersonalities',
+        'X-Endless-Splash-Screen',
+        'X-Endless-launch-background'
     ]
         
     def __init__(self, data):
@@ -68,6 +71,19 @@ class DesktopObject(object):
                 if val is None:
                     return ''
                 return ';'.join(val.split(' and ')) + ';'
+            if key == 'X-Endless-Splash-Screen':
+                if val in ['Default', 'Custom']:
+                    return 'true'
+                else:
+                    return 'false'
+            if key == 'X-Endless-launch-background':
+                if val:
+                    if SPLASHDIR:
+                        return os.path.join(SPLASHDIR, val)
+                    else:
+                        return val
+                else:
+                    return None
             else:
                 return val
         elif key in self.defaults:
@@ -182,6 +198,8 @@ class AppObject(DesktopObject):
         'Icon': 'application-id',
         'Folder': 'folder',
         'Index': 'desktop-position',
+        'X-Endless-Splash-Screen': 'splash-screen-type',
+        'X-Endless-launch-background': 'custom-splash-screen'
     }
 
     def __init__(self, data):
@@ -202,6 +220,14 @@ class AppObject(DesktopObject):
             return super(AppObject, self).get(key)
 
 if __name__ == '__main__':
+
+    if len(sys.argv) > 1:
+        if len(sys.argv) == 3 and sys.argv[1] == '--splashdir' :
+            SPLASHDIR = sys.argv[2]
+        else :
+            print('Usage: generate_desktop_files.py [--splashdir SPLASHDIR]')
+            print('where SPLASHDIR is the folder where the splash images are installed')
+            print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
 
     # Remove the existing unzipped and content dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)

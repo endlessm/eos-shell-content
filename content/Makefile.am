@@ -27,6 +27,10 @@ default_app_screenshots = $(shell for file in `find Default/apps/resources/scree
 
 EXTRA_DIST += $(default_app_screenshots)
 
+default_app_splash = $(shell for file in `find Default/apps/resources/splash -name "*.jpg"`; do printf "$$file "; done)
+
+EXTRA_DIST += $(default_app_splash)
+
 default_links_images = $(shell for file in `find Default/links/images -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_images)
@@ -122,6 +126,9 @@ resource_DATA = \
 	eos-app-store-app-content.gresource \
 	eos-app-store-link-content.gresource \
 	$(NULL)
+
+splashdir = $(datadir)/EndlessOS/splash
+splash_DATA = $(default_app_splash)
 
 CLEANFILES += \
 	eos-app-store-app-content.gresource \
