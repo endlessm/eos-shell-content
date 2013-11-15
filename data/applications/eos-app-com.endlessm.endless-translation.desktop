@@ -10,3 +10,5 @@ Exec=eos-translation
 Icon=eos-app-translate
 Categories=Education;
 X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/translate-splash.jpg

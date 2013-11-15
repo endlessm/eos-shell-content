@@ -10,3 +10,5 @@ Exec=eos-wikipedia
 Icon=eos-app-wikipedia
 Categories=Education;
 X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/wikipedia-splash.jpg
