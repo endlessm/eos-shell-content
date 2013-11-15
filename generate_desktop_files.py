@@ -44,8 +44,8 @@ class DesktopObject(object):
         'Categories',
         'X-Endless-ShowInAppStore',
         'X-Endless-ShowInPersonalities',
-        'X-Endless-Splash-Screen',
-        'X-Endless-launch-background'
+        'X-Endless-SplashScreen',
+        'X-Endless-SplashBackground'
     ]
         
     def __init__(self, data):
@@ -60,23 +60,23 @@ class DesktopObject(object):
     def get(self, key):
         if key in self.json_keys:
             val = self._data[self.json_keys[key]]
-            if key is 'Icon':
+            if key == 'Icon':
                 return self._icon_prefix + val
-            if key is 'TryExec':
+            if key == 'TryExec':
                 if not val:
                     # Convert empty string to None to avoid writing field
                     return None
                 return val
-            if key is 'Categories':
+            if key == 'Categories':
                 if val is None:
                     return ''
                 return ';'.join(val.split(' and ')) + ';'
-            if key == 'X-Endless-Splash-Screen':
+            if key == 'X-Endless-SplashScreen':
                 if val in ['Default', 'Custom']:
                     return 'true'
                 else:
                     return 'false'
-            if key == 'X-Endless-launch-background':
+            if key == 'X-Endless-SplashBackground':
                 if val:
                     if SPLASHDIR:
                         return os.path.join(SPLASHDIR, val)
@@ -179,9 +179,13 @@ class LinkObject(DesktopObject):
         return exec_str
 
     def get(self, key):
-        if key is 'Exec':
+        if key == 'Exec':
             return self._get_exec()
-        elif key is 'TryExec':
+        elif key == 'TryExec':
+            return None
+        elif key == 'X-Endless-SplashScreen':
+            return None
+        elif key == 'X-Endless-SplashBackground':
             return None
         else:
             return super(LinkObject, self).get(key)
@@ -198,8 +202,8 @@ class AppObject(DesktopObject):
         'Icon': 'application-id',
         'Folder': 'folder',
         'Index': 'desktop-position',
-        'X-Endless-Splash-Screen': 'splash-screen-type',
-        'X-Endless-launch-background': 'custom-splash-screen'
+        'X-Endless-SplashScreen': 'splash-screen-type',
+        'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
     def __init__(self, data):
@@ -214,7 +218,7 @@ class AppObject(DesktopObject):
         return map(lambda p: 'default' if p == 'Default' else p, personalities)
 
     def get(self, key):
-        if key is 'Personalities':
+        if key == 'Personalities':
             return self._get_personalities()
         else:
             return super(AppObject, self).get(key)
