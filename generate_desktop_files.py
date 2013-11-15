@@ -29,6 +29,7 @@ UNZIP_DIR = 'unzipped'
 DATA_DIR = 'data'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
+SPLASHDIR = None
 
 class DesktopObject(object):
 
@@ -43,6 +44,8 @@ class DesktopObject(object):
         'Categories',
         'X-Endless-ShowInAppStore',
         'X-Endless-ShowInPersonalities',
+        'X-Endless-SplashScreen',
+        'X-Endless-SplashBackground'
     ]
         
     def __init__(self, data):
@@ -57,17 +60,30 @@ class DesktopObject(object):
     def get(self, key):
         if key in self.json_keys:
             val = self._data[self.json_keys[key]]
-            if key is 'Icon':
+            if key == 'Icon':
                 return self._icon_prefix + val
-            if key is 'TryExec':
+            if key == 'TryExec':
                 if not val:
                     # Convert empty string to None to avoid writing field
                     return None
                 return val
-            if key is 'Categories':
+            if key == 'Categories':
                 if val is None:
                     return ''
                 return ';'.join(val.split(' and ')) + ';'
+            if key == 'X-Endless-SplashScreen':
+                if val in ['Default', 'Custom']:
+                    return 'true'
+                else:
+                    return 'false'
+            if key == 'X-Endless-SplashBackground':
+                if val:
+                    if SPLASHDIR:
+                        return os.path.join(SPLASHDIR, val)
+                    else:
+                        return val
+                else:
+                    return None
             else:
                 return val
         elif key in self.defaults:
@@ -163,9 +179,13 @@ class LinkObject(DesktopObject):
         return exec_str
 
     def get(self, key):
-        if key is 'Exec':
+        if key == 'Exec':
             return self._get_exec()
-        elif key is 'TryExec':
+        elif key == 'TryExec':
+            return None
+        elif key == 'X-Endless-SplashScreen':
+            return None
+        elif key == 'X-Endless-SplashBackground':
             return None
         else:
             return super(LinkObject, self).get(key)
@@ -182,6 +202,8 @@ class AppObject(DesktopObject):
         'Icon': 'application-id',
         'Folder': 'folder',
         'Index': 'desktop-position',
+        'X-Endless-SplashScreen': 'splash-screen-type',
+        'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
     def __init__(self, data):
@@ -196,12 +218,20 @@ class AppObject(DesktopObject):
         return map(lambda p: 'default' if p == 'Default' else p, personalities)
 
     def get(self, key):
-        if key is 'Personalities':
+        if key == 'Personalities':
             return self._get_personalities()
         else:
             return super(AppObject, self).get(key)
 
 if __name__ == '__main__':
+
+    if len(sys.argv) > 1:
+        if len(sys.argv) == 3 and sys.argv[1] == '--splashdir' :
+            SPLASHDIR = sys.argv[2]
+        else :
+            print('Usage: generate_desktop_files.py [--splashdir SPLASHDIR]')
+            print('where SPLASHDIR is the folder where the splash images are installed')
+            print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
 
     # Remove the existing unzipped and content dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)

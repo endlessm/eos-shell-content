@@ -10,3 +10,5 @@ Exec=endless-os-photos %f
 Icon=eos-app-photos
 Categories=Utility;
 X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/photos-splash.jpg
