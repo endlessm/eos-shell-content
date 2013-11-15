@@ -89,6 +89,17 @@ for source in os.listdir(source_dir):
     convert(source_file, target_file,
             '-resize 480x480')
 
+# Copy the splash screen images to the content folder
+# with tweaked compression
+source_dir = os.path.join(UNZIP_DIR, 'apps', 'splash')
+target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'splash')
+os.makedirs(target_dir)
+for source in os.listdir(source_dir):
+    target = source
+    source_file = os.path.join(source_dir, source)
+    target_file = os.path.join(target_dir, target)
+    convert(source_file, target_file, '')
+
 # Copy and rename the links json to the content folder
 # We currently support only one version of the content,
 # so we use the es-gt and ignore en-us and pt-br
