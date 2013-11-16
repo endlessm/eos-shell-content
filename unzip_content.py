@@ -43,12 +43,27 @@ shutil.rmtree(CONTENT_DIR, IGNORE_ERRORS)
 zfile = zipfile.ZipFile(ZIP_FILENAME)
 zfile.extractall(UNZIP_DIR)
 
+# For now, we need to convert specific locales to general languages
+# (with 'C' as the fallback for English), until the CMS is reworked
+locales = ['en-us', 'es-gt', 'pt-br']
+languages = ['C', 'es', 'pt']
+
 # Copy the app json to the content folder
+# with tweaks to the json content
 source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
 target_dir = os.path.join(CONTENT_DIR, 'apps')
 target = os.path.join(target_dir, 'content.json')
 os.makedirs(target_dir)
-shutil.copy(source, target)
+infile = open(source, 'r')
+outfile = open(target, 'w')
+for line in infile:
+    for i in range(0, len(locales)):
+        from_string = '"' + locales[i] + '"'
+        to_string = '"' + languages[i] + '"'
+        line = line.replace(from_string, to_string)
+    outfile.write(line)
+infile.close()
+outfile.close()
 
 # Copy the thumbnail images to the content folder
 # with tweaked compression
@@ -76,18 +91,20 @@ for source in os.listdir(source_dir):
 # Copy the screenshot images to the content folder
 # resized to a width of 480 pixels
 # (Note: if the featured image is square, we just use the thumbnail)
-# For now, we only support one set of screenshots,
-# os let's grab the Spanish versions
-source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', 'es-gt')
-target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'screenshots')
-os.makedirs(target_dir)
-for source in os.listdir(source_dir):
-    target = source
-    source_file = os.path.join(source_dir, source)
-    target_file = os.path.join(target_dir, target)
-    # Resize to a width of 480, allowing an arbitrary height
-    convert(source_file, target_file,
-            '-resize 480x480')
+for i in range(0, len(locales)):
+    # For now, we need to replace the CMS locale with generic language
+    # in the folder names
+    source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', locales[i])
+    target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'screenshots',
+                              languages[i])
+    os.makedirs(target_dir)
+    for source in os.listdir(source_dir):
+        target = source
+        source_file = os.path.join(source_dir, source)
+        target_file = os.path.join(target_dir, target)
+        # Resize to a width of 480, allowing an arbitrary height
+        convert(source_file, target_file,
+                '-resize 480x480')
 
 # Copy the splash screen images to the content folder
 # with tweaked compression
