@@ -13,7 +13,6 @@
 # Add and commit any changes to git
 # Proceed with the normal build process
 
-import json
 import os
 import shutil
 import sys
@@ -55,27 +54,16 @@ source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
 target_dir = os.path.join(CONTENT_DIR, 'apps')
 target = os.path.join(target_dir, 'content.json')
 os.makedirs(target_dir)
-
-f = open(source, 'r')
-data = json.load(f)
-f.close()
-
-# For each application, rename its screenshot locales
-# using the generic languages
-for app in data:
-    screenshots = app['screenshots']
-    if screenshots:
-        for i in range(0, len(locales)):
-            locale = locales[i]
-            screenshot = screenshots[locale]
-            if screenshot:
-                del screenshots[locale]
-                language = languages[i]
-                screenshots[language] = screenshot
-
-f = open(target, 'w')
-f.write(json.dumps(data, indent=2))
-f.close()
+infile = open(source, 'r')
+outfile = open(target, 'w')
+for line in infile:
+    for i in range(0, len(locales)):
+        from_string = '"' + locales[i] + '"'
+        to_string = '"' + languages[i] + '"'
+        line = line.replace(from_string, to_string)
+    outfile.write(line)
+infile.close()
+outfile.close()
 
 # Copy the thumbnail images to the content folder
 # with tweaked compression
