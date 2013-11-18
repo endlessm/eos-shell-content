@@ -2,9 +2,10 @@
 Version=1.0
 Name=My Documents
 Name[es]=Documentos
-Name[pt]=Documentos
+Name[pt]=Meus Documentos
 Comment=File manager
 Comment[es]=Administrador de archivos
+Comment[pt]=Gerenciador de Arquivos
 Type=Application
 Exec=eos-file-manager %U
 Icon=eos-app-eos-file-manager

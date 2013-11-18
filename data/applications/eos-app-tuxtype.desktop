@@ -5,6 +5,7 @@ Name[es]=Tux Typing
 Name[pt]=Tecla Tux
 Comment=Educational typing tutor for kids
 Comment[es]=Ahora niños se divertirán aprendiendo a teclear
+Comment[pt]=Ferramenta para crianças aprenderem a digitar
 Type=Application
 Exec=eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'
 TryExec=tuxtype

@@ -2,8 +2,10 @@
 Version=1.0
 Name=Travel
 Name[es]=Tu Mundo
+Name[pt]=Viagem
 Comment=Explore the sites of the world from your own living room
 Comment[es]=Explora varios lugares del mundo desde tu propia sala
+Comment[pt]=Explore sites online de todo o mundo direto da sua sala-de-estar
 Type=Application
 Exec=eos-travel
 Icon=eos-app-travel

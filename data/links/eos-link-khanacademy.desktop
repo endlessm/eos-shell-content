@@ -2,7 +2,7 @@
 Version=1.0
 Name=Khan Academy
 Name[es]=Khan Academy
-Name[pt]=Academia Khan
+Name[pt]=Khan Academy
 Comment=Educational videos
 Type=Application
 Exec=chromium-browser http://www.khanacademy.org/intl/pt

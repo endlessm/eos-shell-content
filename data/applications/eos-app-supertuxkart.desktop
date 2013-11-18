@@ -5,6 +5,7 @@ Name[es]=Tux Kart
 Name[pt]=Tux Kart
 Comment=Racing game with colorful characters and imaginative tracks
 Comment[es]=Juego de carreras con varias  pistas desafiantes
+Comment[pt]=Jogo de corridas com personagens coloridos e pistas originais
 Type=Application
 Exec=resfix supertuxkart --fullscreen
 TryExec=supertuxkart

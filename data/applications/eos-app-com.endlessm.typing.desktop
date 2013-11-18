@@ -2,9 +2,10 @@
 Version=1.0
 Name=Typing
 Name[es]=Teclear
-Name[pt]=Tecla-Okê
+Name[pt]=Digitando
 Comment=Learn to type with games and songs
 Comment[es]=Aprende a teclear con juegos y canciones
+Comment[pt]=Aprenda a digitar com jogos e músicas
 Type=Application
 Exec=eos-typing
 Icon=eos-app-typing

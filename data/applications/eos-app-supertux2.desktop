@@ -5,6 +5,7 @@ Name[es]=Super Tux
 Name[pt]=Super Tux
 Comment=Classic jump-and-run arcade sidescroller game
 Comment[es]=Un juego clásico de arcada
+Comment[pt]=Clássico jogo corre e pula em estilo arcade
 Type=Application
 Exec=resfix supertux2 --fullscreen
 TryExec=supertux2

@@ -2,8 +2,10 @@
 Version=1.0
 Name=Science
 Name[es]=Ciencia
+Name[pt]=Ciência
 Comment=Discover more about the world around you, from dinosaurs to outer space
 Comment[es]=Descubre más sobre el mundo que te rodea, desde los dinosaurios hasta el espacio exterior
+Comment[pt]=Descobre mais sobre o mundo à sua volta, desde dinossauros ao espaço sideral
 Type=Application
 Exec=eos-science
 Icon=eos-app-science

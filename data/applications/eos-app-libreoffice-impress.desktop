@@ -5,6 +5,7 @@ Name[es]=Presentaciones
 Name[pt]=Apresentação
 Comment=Presentation builder enhanced with templates, art, special effects, and high-impact drawing tools
 Comment[es]=Encuentra plantillas, efectos especiales, animaciones y imágenes que transformarán tus presentaciones 
+Comment[pt]=Faz apresentações com modelos pré-definidos, arte, efeitos especiais e ferramentas de desenho especializadas
 Type=Application
 Exec=libreoffice --impress %U
 Icon=eos-app-libreoffice-impress

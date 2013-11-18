@@ -5,6 +5,7 @@ Name[es]=Escritor
 Name[pt]=Redator
 Comment=Full-featured word processing and desktop publishing tool
 Comment[es]=Parecido a y compatible con Microsoft Word, pero gratis
+Comment[pt]=Ferramenta de processamento de texto e editorial
 Type=Application
 Exec=libreoffice --writer %U
 Icon=eos-app-libreoffice-writer
