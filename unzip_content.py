@@ -44,9 +44,11 @@ zfile = zipfile.ZipFile(ZIP_FILENAME)
 zfile.extractall(UNZIP_DIR)
 
 # For now, we need to convert specific locales to general languages
-# (with 'C' as the fallback for English), until the CMS is reworked
+# (with 'C' as the fallback for English) and personalities,
+# until the CMS is reworked
 locales = ['en-us', 'es-gt', 'pt-br']
 languages = ['C', 'es', 'pt']
+personalities = ['default', 'Guatemala', 'Brazil']
 
 # Copy the app json to the content folder
 # with tweaks to the json content
@@ -120,11 +122,18 @@ for source in os.listdir(source_dir):
 # Copy and rename the links json to the content folder
 # We currently support only one version of the content,
 # so we use the es-gt and ignore en-us and pt-br
-source = os.path.join(UNZIP_DIR, 'links', 'es-gt.json')
+source_dir = os.path.join(UNZIP_DIR, 'links')
 target_dir = os.path.join(CONTENT_DIR, 'links')
-target = os.path.join(target_dir, 'content.json')
 os.makedirs(target_dir)
-shutil.copy(source, target)
+for i in range(0, len(locales)):
+    # For now, we need to replace the CMS locale with personality
+    # in the file names
+    # Note: eventually, we will replace this with a single JSON
+    # file that has all the links with a personality field for each link,
+    # but for now let's minimize the changes to the CMS content files
+    source = os.path.join(source_dir, locales[i] + '.json')
+    target = os.path.join(target_dir, personalities[i] + '.json')
+    shutil.copy(source, target)
 
 # Copy the link images to the content folder
 # resized/cropped to 90x90
