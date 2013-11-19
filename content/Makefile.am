@@ -9,9 +9,7 @@ default_app_json = \
 
 EXTRA_DIST += $(default_app_json)
 
-default_links_json = \
-	Default/links/content.json \
-	$(NULL)
+default_links_json = $(shell for file in `find Default/links -name "*.json"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_json)
 
@@ -113,8 +111,10 @@ eos-app-store-link-content.gresource: eos-app-store-link-content.gresource.xml
 eos-app-store-link-content.gresource.xml: Makefile
 	$(AM_V_GEN) ( echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" ; \
 		      echo "<gresources>" ; \
-		      echo "  <gresource prefix=\"/com/endlessm/appstore-content\">" ; \
-		      echo "    <file alias=\"links/$(notdir $(default_links_json))\">$(notdir $(default_links_json))</file>" ) > $@ ; \
+		      echo "  <gresource prefix=\"/com/endlessm/appstore-content\">" ) > $@ ; \
+		    for file in $(notdir $(default_links_json)); do \
+		      echo "    <file alias=\"links/$$file\">$$file</file>" >> $@ ; \
+		    done ; \
 		    for file in $(notdir $(default_links_images)); do \
 		      echo "    <file compressed=\"true\" alias=\"links/$$file\">$$file</file>" >> $@ ; \
 		    done ; \
