@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Duolingo
-Comment=Free language education for the world
+Comment=Aprenda inglês de graça
 Type=Application
-Exec=chromium-browser http://www.duolingo.com/
+Exec=eos-exec-localized 'chromium-browser http://www.duolingo.com/' es:'chromium-browser http://www.duolingo.com/' pt:'chromium-browser https://www.duolingo.com/pt' 
 Icon=eos-link-duolingo
 Categories=Education;Health;
 X-Endless-ShowInAppStore=true

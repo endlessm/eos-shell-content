@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Revista Escola
+Comment=Planos de aula, vídeos, jogos e mais
+Type=Application
+Exec=chromium-browser http://revistaescola.abril.com.br
+Icon=eos-link-revistaescola
+Categories=Education;Health;
+X-Endless-ShowInAppStore=true
