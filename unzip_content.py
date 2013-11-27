@@ -44,9 +44,10 @@ zfile = zipfile.ZipFile(ZIP_FILENAME)
 zfile.extractall(UNZIP_DIR)
 
 # For now, we need to convert specific locales to personalities,
+# including duplication of en-us as both default and Global,
 # until the CMS is reworked
-locales = ['en-us', 'es-gt', 'pt-br']
-personalities = ['default', 'Guatemala', 'Brazil']
+locales = ['en-us', 'en-us', 'es-gt', 'pt-br']
+personalities = ['default', 'Global', 'Guatemala', 'Brazil']
 
 # Copy the app json to the content folder
 source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
