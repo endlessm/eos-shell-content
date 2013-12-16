@@ -866,8 +866,8 @@
   {
     "displayShape":"b2v",
     "application-id":"photos",
-    "desktop-id":"eos-app-com.endlessm.endless-photos",
-    "exec":"endless-os-photos %f",
+    "desktop-id":"eos-app-com.endlessm.photos",
+    "exec":"eos-photos %f",
     "tryexec":"",
     "folder":"desktop",
     "desktop-position":"70",
