@@ -13,6 +13,9 @@ folders_DATA = $(wildcard folders/*.directory)
 settingsdir = $(datadir)/EndlessOS/personality-defaults
 settings_DATA = $(wildcard settings/icon-grid-*.json)
 
+substitutionsdir = $(datadir)/EndlessOS
+substitutions_DATA = eos-desktop-substitutions.ini
+
 do_subst = sed \
 	-e 's|@DATA_DIR[@]|$(datadir)|g' \
 	-e 's|@SYSCONF_DIR[@]|$(sysconfdir)|g'
@@ -29,6 +32,7 @@ EXTRA_DIST = \
     $(desktops_DATA) \
     $(folders_DATA) \
     $(settings_DATA) \
+    $(substitutions_DATA) \
     eos-exec-localized \
     eos-select-personality.in \
     eos-save-icon-grid.in \
