@@ -20,13 +20,17 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "sol-screenshot1.jpg"
+        "sol-screenshot1.png",
+        "sol-screenshot2.png",
+        "sol-screenshot3.png"
       ],
       "pt":[
         "sol-screenshot1.jpg"
       ],
       "es":[
-        "sol-screenshot1.jpg"
+        "sol-screenshot1.jpg",
+        "sol-screenshot2.jpg",
+        "sol-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -54,7 +58,9 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "gnome-sudoku-screenshot1.jpg"
+        "gnome-sudoku-screenshot1.png",
+        "gnome-sudoku-screenshot2.png",
+        "gnome-sudoku-screenshot3.png"
       ],
       "pt":[
         "gnome-sudoku-screenshot1.jpg"
@@ -170,7 +176,8 @@
       ],
       "es":[
         "wikipedia-screenshot1.jpg",
-        "wikipedia-screenshot2.jpg"
+        "wikipedia-screenshot2.jpg",
+        "wikipedia-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -482,7 +489,9 @@
         "frostwire-screenshot1.jpg"
       ],
       "es":[
-        "frostwire-screenshot1.jpg"
+        "frostwire-screenshot1.jpg",
+        "frostwire-screenshot2.jpg",
+        "frostwire-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -550,7 +559,9 @@
         "gcompris-screenshot1.jpg"
       ],
       "es":[
-        "gcompris-screenshot1.jpg"
+        "gcompris-screenshot1.jpg",
+        "gcompris-screenshot2.jpg",
+        "gcompris-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -578,13 +589,16 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "gimp-screenshot1.jpg"
+        "gimp-screenshot1.png",
+        "gimp-screenshot2.png",
+        "gimp-screenshot3.png"
       ],
       "pt":[
         "gimp-screenshot1.jpg"
       ],
       "es":[
-        "gimp-screenshot1.jpg"
+        "gimp-screenshot1.jpg",
+        "gimp-screenshot2.jpg"
       ]
     },
     "is_featured":true,
@@ -720,7 +734,8 @@
         "libreoffice-calc-screenshot1.jpg"
       ],
       "es":[
-        "libreoffice-calc-screenshot1.jpg"
+        "libreoffice-calc-screenshot1.jpg",
+        "libreoffice-calc-screenshot2.jpg"
       ]
     },
     "is_featured":true,
@@ -782,13 +797,17 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "libreoffice-writer-screenshot1.jpg"
+        "libreoffice-writer-screenshot1.png",
+        "libreoffice-writer-screenshot2.png",
+        "libreoffice-writer-screenshot3.png"
       ],
       "pt":[
         "libreoffice-writer-screenshot1.jpg"
       ],
       "es":[
-        "libreoffice-writer-screenshot1.jpg"
+        "libreoffice-writer-screenshot1.jpg",
+        "libreoffice-writer-screenshot2.jpg",
+        "libreoffice-writer-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -927,7 +946,9 @@
         "pingus-screenshot1.jpg"
       ],
       "es":[
-        "pingus-screenshot1.jpg"
+        "pingus-screenshot1.jpg",
+        "pingus-screenshot2.jpg",
+        "pingus-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -961,7 +982,8 @@
         "rhythmbox-screenshot1.jpg"
       ],
       "es":[
-        "rhythmbox-screenshot1.jpg"
+        "rhythmbox-screenshot1.jpg",
+        "rhythmbox-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -995,7 +1017,9 @@
         "shotwell-screenshot1.jpg"
       ],
       "es":[
-        "shotwell-screenshot1.jpg"
+        "shotwell-screenshot1.jpg",
+        "shotwell-screenshot2.jpg",
+        "shotwell-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -1029,7 +1053,9 @@
         "solitaire-screenshot1.jpg"
       ],
       "es":[
-        "solitaire-screenshot1.jpg"
+        "solitaire-screenshot1.jpg",
+        "solitaire-screenshot2.jpg",
+        "solitaire-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1057,7 +1083,9 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "stellarium-screenshot1.jpg"
+        "stellarium-screenshot1.png",
+        "stellarium-screenshot2.png",
+        "stellarium-screenshot3.png"
       ],
       "pt":[
         "stellarium-screenshot1.jpg"
@@ -1199,7 +1227,9 @@
         "totem-screenshot1.jpg"
       ],
       "es":[
-        "totem-screenshot1.jpg"
+        "totem-screenshot1.jpg",
+        "totem-screenshot2.jpg",
+        "totem-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1339,9 +1369,7 @@
         "weather-screenshot3.jpg"
       ],
       "es":[
-        "weather-screenshot1.jpg",
-        "weather-screenshot2.jpg",
-        "weather-screenshot3.jpg"
+        "weather-screenshot1.jpg"
       ]
     },
     "is_featured":true,
@@ -1575,7 +1603,8 @@
         "resume-screenshot1.jpg"
       ],
       "es":[
-        "resume-screenshot1.jpg"
+        "resume-screenshot1.jpg",
+        "resume-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -2058,9 +2087,12 @@
     "icon":"eos-file-manager-icon.png",
     "square_img":"eos-file-manager-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "es":[
+        "eos-file-manager-screenshot1.jpg",
+        "eos-file-manager-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":null
