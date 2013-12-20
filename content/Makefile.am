@@ -79,15 +79,7 @@ nobase_content_DATA = \
 	$(default_links_images) \
 	$(NULL)
 
-eos-app-store-app-content.gresource: eos-app-store-app-content.gresource.xml
-	$(AM_V_GEN) $(GLIB_COMPILE_RESOURCES) \
-		--target=$@ \
-		--sourcedir="$(srcdir)/Default/apps" \
-		--sourcedir="$(srcdir)/Default/apps/resources/images" \
-		--sourcedir="$(srcdir)/Default/apps/resources/thumbnails" \
-		$<
-
-eos-app-store-app-content.gresource.xml: Makefile
+eos-app-store-app-content.gresource.xml: Makefile $(default_app_json) $(default_app_images) $(default_app_thumbnails)
 	$(AM_V_GEN) ( echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" ; \
 		      echo "<gresources>" ; \
 		      echo "  <gresource prefix=\"/com/endlessm/appstore-content\">" ; \
@@ -101,14 +93,22 @@ eos-app-store-app-content.gresource.xml: Makefile
 		    ( echo "  </gresource>" ; \
 		      echo "</gresources>" ) >> $@
 
-eos-app-store-link-content.gresource: eos-app-store-link-content.gresource.xml
+app_content_resource_files = $(shell $(GLIB_COMPILE_RESOURCES) \
+	--sourcedir="$(srcdir)/Default/apps" \
+	--sourcedir="$(srcdir)/Default/apps/resources/images" \
+	--sourcedir="$(srcdir)/Default/apps/resources/thumbnails" \
+	--generate-dependencies \
+	eos-app-store-app-content.gresource.xml)
+
+eos-app-store-app-content.gresource: eos-app-store-app-content.gresource.xml $(app_content_resource_files)
 	$(AM_V_GEN) $(GLIB_COMPILE_RESOURCES) \
 		--target=$@ \
-		--sourcedir="$(srcdir)/Default/links" \
-		--sourcedir="$(srcdir)/Default/links/images" \
+		--sourcedir="$(srcdir)/Default/apps" \
+		--sourcedir="$(srcdir)/Default/apps/resources/images" \
+		--sourcedir="$(srcdir)/Default/apps/resources/thumbnails" \
 		$<
 
-eos-app-store-link-content.gresource.xml: Makefile
+eos-app-store-link-content.gresource.xml: Makefile $(default_links_json) $(default_links_images)
 	$(AM_V_GEN) ( echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" ; \
 		      echo "<gresources>" ; \
 		      echo "  <gresource prefix=\"/com/endlessm/appstore-content\">" ) > $@ ; \
@@ -120,6 +120,19 @@ eos-app-store-link-content.gresource.xml: Makefile
 		    done ; \
 		    ( echo "  </gresource>" ; \
 		      echo "</gresources>" ) >> $@
+
+link_content_resource_files = $(shell $(GLIB_COMPILE_RESOURCES) \
+	--sourcedir="$(srcdir)/Default/links" \
+	--sourcedir="$(srcdir)/Default/links/images" \
+	--generate-dependencies \
+	eos-app-store-link-content.gresource.xml)
+
+eos-app-store-link-content.gresource: eos-app-store-link-content.gresource.xml $(link_content_resource_files)
+	$(AM_V_GEN) $(GLIB_COMPILE_RESOURCES) \
+		--target=$@ \
+		--sourcedir="$(srcdir)/Default/links" \
+		--sourcedir="$(srcdir)/Default/links/images" \
+		$<
 
 resourcedir = $(pkgdatadir)
 resource_DATA = \
