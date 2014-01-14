@@ -49,12 +49,27 @@ zfile.extractall(UNZIP_DIR)
 locales = ['en-us', 'en-us', 'es-gt', 'pt-br']
 personalities = ['default', 'Global', 'Guatemala', 'Brazil']
 
+# For now, we also need to convert specific locales to general languages
+# (with 'C' as the fallback for English) and personalities,
+# until the CMS is reworked
+languages = [None, 'C', 'es', 'pt']
+
 # Copy the app json to the content folder
+# with tweaks to the json content
 source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
 target_dir = os.path.join(CONTENT_DIR, 'apps')
 target = os.path.join(target_dir, 'content.json')
 os.makedirs(target_dir)
-shutil.copy(source, target)
+infile = open(source, 'r')
+outfile = open(target, 'w')
+for line in infile:
+    for i in range(1, len(locales)):
+        from_string = '"' + locales[i] + '"'
+        to_string = '"' + languages[i] + '"'
+        line = line.replace(from_string, to_string)
+    outfile.write(line)
+infile.close()
+outfile.close()
 
 # Copy the thumbnail images to the content folder
 # with tweaked compression
@@ -82,11 +97,12 @@ for source in os.listdir(source_dir):
 # Copy the screenshot images to the content folder
 # resized to a width of 480 pixels
 # (Note: if the featured image is square, we just use the thumbnail)
-screenshots_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots')
-for language in os.listdir(screenshots_dir):
-    source_dir = os.path.join(screenshots_dir, language)
+for i in range(1, len(locales)):
+    # For now, we need to replace the CMS locale with generic language
+    # in the folder names
+    source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', locales[i])
     target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'screenshots',
-                              language)
+                              languages[i])
     os.makedirs(target_dir)
     for source in os.listdir(source_dir):
         target = source
