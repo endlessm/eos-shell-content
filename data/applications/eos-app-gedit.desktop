@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Gedit
+Name[es]=Gedit
+Name[pt]=Gedit
+Comment=A simple text editor for all of your text editing needs
+Comment[es]=Un editor de texto simple para todas tus necesidades de edición de texto
+Type=Application
+Exec=gedit %U
+Icon=eos-app-gedit
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=FreeCol
+Name[es]=FreeCol
+Name[pt]=FreeCol
+Comment=Create your own country and leave mark in the world
+Comment[es]=Crea tu propio país y deja tu huella en el mundo
+Type=Application
+Exec=freecol
+Icon=eos-app-freecol
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
