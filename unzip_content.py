@@ -124,8 +124,6 @@ for source in os.listdir(source_dir):
     convert(source_file, target_file, '')
 
 # Copy and rename the links json to the content folder
-# We currently support only one version of the content,
-# so we use the es-gt and ignore en-us and pt-br
 source_dir = os.path.join(UNZIP_DIR, 'links')
 target_dir = os.path.join(CONTENT_DIR, 'links')
 os.makedirs(target_dir)
