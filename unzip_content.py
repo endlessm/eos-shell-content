@@ -67,6 +67,8 @@ for line in infile:
         from_string = '"' + locales[i] + '"'
         to_string = '"' + languages[i] + '"'
         line = line.replace(from_string, to_string)
+    if (line.find('-screenshot') > 0):
+        line = line.replace('.png', '.jpg')
     outfile.write(line)
 infile.close()
 outfile.close()
@@ -95,7 +97,8 @@ for source in os.listdir(source_dir):
     convert(source_file, target_file, '')
 
 # Copy the screenshot images to the content folder
-# resized to a width of 480 pixels
+# resized to a width of 480 pixels,
+# converting PNG to JPG as necessary
 # (Note: if the featured image is square, we just use the thumbnail)
 for i in range(1, len(locales)):
     # For now, we need to replace the CMS locale with generic language
@@ -105,7 +108,7 @@ for i in range(1, len(locales)):
                               languages[i])
     os.makedirs(target_dir)
     for source in os.listdir(source_dir):
-        target = source
+        target = source.replace('.png', '.jpg')
         source_file = os.path.join(source_dir, source)
         target_file = os.path.join(target_dir, target)
         # Resize to a width of 480, allowing an arbitrary height
