@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Notes
+Name[es]=Notas
+Name[pt]=Notas
+Comment=Jot down your notes and easily access them from your desktop
+Comment[es]=Anota tus pensamientos y mantén tus notas organizadas fácilmente en tu escritorio
+Type=Application
+Exec=gnote %u
+Icon=eos-app-gnote
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
