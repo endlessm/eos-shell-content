@@ -63,10 +63,10 @@
         "gnome-sudoku-screenshot3.jpg"
       ],
       "pt":[
-        "gnome-sudoku-screenshot1.jpg"
+        
       ],
       "es":[
-        "gnome-sudoku-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -239,13 +239,15 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "armagetron-screenshot1.jpg"
+        "armagetron-screenshot1.jpg",
+        "armagetron-screenshot2.jpg",
+        "armagetron-screenshot3.jpg"
       ],
       "pt":[
-        "armagetron-screenshot1.jpg"
+        
       ],
       "es":[
-        "armagetron-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -276,10 +278,10 @@
         "audacity-screenshot1.jpg"
       ],
       "pt":[
-        "audacity-screenshot1.jpg"
+        
       ],
       "es":[
-        "audacity-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -307,13 +309,15 @@
     "featured_img":"billard-gl-featured.jpg",
     "screenshots":{
       "C":[
-        "billard-gl-screenshot1.jpg"
+        "billard-gl-screenshot1.jpg",
+        "billard-gl-screenshot2.jpg",
+        "billard-gl-screenshot3.jpg"
       ],
       "pt":[
-        "billard-gl-screenshot1.jpg"
+        
       ],
       "es":[
-        "billard-gl-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -344,10 +348,10 @@
         "blockout2-screenshot1.jpg"
       ],
       "pt":[
-        "blockout2-screenshot1.jpg"
+        
       ],
       "es":[
-        "blockout2-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -937,7 +941,7 @@
     "displayShape":"b1",
     "application-id":"pingus",
     "desktop-id":"eos-app-pingus",
-    "exec":"sh -c \"resfix pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
+    "exec":"sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
     "tryexec":"pingus",
     "folder":"none",
     "desktop-position":null,
@@ -1106,10 +1110,10 @@
         "stellarium-screenshot3.jpg"
       ],
       "pt":[
-        "stellarium-screenshot1.jpg"
+        
       ],
       "es":[
-        "stellarium-screenshot1.jpg"
+        
       ]
     },
     "is_featured":false,
@@ -1325,7 +1329,7 @@
     },
     "is_featured":false,
     "is_offline":false,
-    "category":"Leisure"
+    "category":"Education"
   },
   {
     "displayShape":"b1",
@@ -2208,9 +2212,14 @@
     "icon":"gnote-icon.png",
     "square_img":"gnote-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "es":[
+        "gnote-screenshot1.jpg",
+        "gnote-screenshot2.jpg",
+        "gnote-screenshot3.jpg",
+        "gnote-screenshot4.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -2274,9 +2283,54 @@
     "icon":"freeciv-icon.png",
     "square_img":"freeciv-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
+    "screenshots":{
+      "es":[
+        "freeciv-screenshot1.jpg",
+        "freeciv-screenshot2.jpg",
+        "freeciv-screenshot3.jpg",
+        "freeciv-screenshot4.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"tuxpaint",
+    "desktop-id":"eos-app-tuxpaint",
+    "exec":"tuxpaint --fullscreen --native",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Tux Paint",
+    "subtitle":"A fun drawing app for kids",
+    "description":"Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
+    "personalities":[
+      "All"
     ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxpaint-icon.png",
+    "square_img":"tuxpaint-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "tuxpaint-screenshot1.jpg",
+        "tuxpaint-screenshot2.jpg",
+        "tuxpaint-screenshot3.jpg"
+      ],
+      "pt":[
+        "tuxpaint-screenshot1.jpg",
+        "tuxpaint-screenshot2.jpg",
+        "tuxpaint-screenshot3.jpg"
+      ],
+      "es":[
+        "tuxpaint-screenshot1.jpg",
+        "tuxpaint-screenshot2.jpg",
+        "tuxpaint-screenshot3.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
