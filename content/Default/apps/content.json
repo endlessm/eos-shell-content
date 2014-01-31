@@ -1387,7 +1387,8 @@
     "personalities":[
       "Default",
       "Global",
-      "Brazil"
+      "Brazil",
+      "Positivo"
     ],
     "splash-screen-type":"Custom",
     "custom-splash-screen":"brazil-splash.jpg",
@@ -2233,6 +2234,147 @@
         "tuxpaint-screenshot3.jpg"
       ]
     },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"four-in-a-row",
+    "desktop-id":"eos-app-gnect",
+    "exec":"four-in-a-row",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Four in a Row",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"four-in-a-row-icon.png",
+    "square_img":"four-in-a-row-thumb.png",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "four-in-a-row-screenshot1.jpg",
+        "four-in-a-row-screenshot2.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"iagno",
+    "desktop-id":"eos-app-iagno",
+    "exec":"iagno",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Iagno",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"iagno-icon.png",
+    "square_img":"iagno-thumb.png",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "iagno-screenshot1.jpg",
+        "iagno-screenshot2.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gnome-mines",
+    "desktop-id":"eos-app-gnomine",
+    "exec":"gnome-mines",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Mines",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gnome-mines-icon.png",
+    "square_img":"gnome-mines-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "gnome-mines-screenshot1.jpg",
+        "gnome-mines-screenshot2.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"quadrapassel",
+    "desktop-id":"eos-app-quadrapassel",
+    "exec":"quadrapassel",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Quadrapassel",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"quadrapassel-icon.png",
+    "square_img":"quadrapassel-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "quadrapassel-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gnome-tetravex",
+    "desktop-id":"eos-app-gnome-tetravex",
+    "exec":"gnome-tetravex",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Tetravex",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gnome-tetravex-icon.png",
+    "square_img":"gnome-tetravex-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
