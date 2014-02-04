@@ -5,6 +5,7 @@ Name[es]=Gedit
 Name[pt]=Gedit
 Comment=A simple text editor for all of your text editing needs
 Comment[es]=Un editor de texto simple para todas tus necesidades de edición de texto
+Comment[pt]=Um simples editor de texto para todas as suas necessidades
 Type=Application
 Exec=gedit %U
 Icon=eos-app-gedit

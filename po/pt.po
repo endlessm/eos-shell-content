@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# joelmx <joel@endlessm.com>, 2014
 # joelmx <joel@endlessm.com>, 2013
 # nsanchez <ns@endlessm.com>, 2013
 # nsanchez <ns@endlessm.com>, 2013
@@ -13,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-22 22:22-0800\n"
-"PO-Revision-Date: 2014-01-23 06:28+0000\n"
+"POT-Creation-Date: 2014-01-31 21:47-0800\n"
+"PO-Revision-Date: 2014-02-04 21:53+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/teams/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -1258,7 +1259,7 @@ msgstr "FreeCol"
 #: ../content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "Create your own country and leave mark in the world"
-msgstr ""
+msgstr "Crie o seu próprio país e deixe sua marca no mundo"
 
 #: ../content/Default/apps/content.json.h:183
 msgctxt "description"
@@ -1268,17 +1269,17 @@ msgid ""
 "create towns, cities, and states that will support your ultimate plan. Will "
 "you try to dominate the world, or will you promote international peace and "
 "prosperity? You decide. "
-msgstr ""
+msgstr "Alguma vez você já quis começar seu próprio país? Bem, agora você pode. Volte para um universo alternativo onde a América ainda não havia sido colonizada e crie vilas, cidades e estados que irão apoiar todos os seus planos. Você vai tentar dominar o mundo ou você irá promover a paz mundial e a prosperidade? Você decide!"
 
 #: ../content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Notes"
-msgstr "Notas"
+msgstr "Anotações"
 
 #: ../content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Jot down your notes and easily access them from your desktop"
-msgstr ""
+msgstr "Faça suas anotações e as encontre facilmente na sua área de trabalho"
 
 #: ../content/Default/apps/content.json.h:186
 msgctxt "description"
@@ -1289,7 +1290,7 @@ msgid ""
 "note app can help you keep them all in one place. This app also has the "
 "ability to link notes together so that you can easily access all related "
 "notes and stay even more organized! "
-msgstr ""
+msgstr "Você costuma fazer anotações em vários pedaços de papel que depois se perdem ou rasgam? Ou, você tem tantas anotações em cima da sua mesa que você já está ficando sem espaço? Não importa que tipo de anotações você precisa fazer, este aplicativo de anotações pode te ajudar a manter todas elas em um só lugar. Ele também tem a capacidade de juntar as anotações que combinam para que você possa acessar facilmente todos os assuntos por categoria e ficar ainda mais organizado!"
 
 #: ../content/Default/apps/content.json.h:187
 msgctxt "title"
@@ -1299,7 +1300,7 @@ msgstr "Gedit"
 #: ../content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
-msgstr ""
+msgstr "Um simples editor de texto para todas as suas necessidades"
 
 #: ../content/Default/apps/content.json.h:189
 msgctxt "description"
@@ -1308,7 +1309,7 @@ msgid ""
 " If you are a programmer or an aspiring programmer, you will need this app. "
 "With robust functionality and an easy-to-use interface, this text editor "
 "should be perfect for all of your text editing needs. "
-msgstr ""
+msgstr "Use esse aplicativo bem simples para criar e editar textos sem formatação. Se você é programador, ou está aprendendo a programar, você vai precisar desse aplicativo. Com uma interface fácil de usar, este editor de texto é perfeito para produzir todos os textos que você precisar criar."
 
 #: ../content/Default/apps/content.json.h:190
 msgctxt "title"
@@ -1320,7 +1321,7 @@ msgctxt "subtitle"
 msgid ""
 "Travel through time to create your own civilization and guide it to "
 "greatness"
-msgstr ""
+msgstr "Viaje através do tempo para criar a sua própria civilização e levá-la à ser nobre"
 
 #: ../content/Default/apps/content.json.h:192
 msgctxt "description"
@@ -1332,7 +1333,7 @@ msgid ""
 " the wheel. You'll continue through the ages until you reach modern times "
 "and need to balance world politics with your agenda to lead your people to "
 "conquering the moon and beyond!"
-msgstr ""
+msgstr "Crie seu próprio mundo com este jogo cheio de ação que lhe permite viajar no tempo e começar sua própria civilização. Você começará em um mundo pré-histórico, onde você vai precisar criar a sua própria tribo. Depois, você vai passar para a Idade Média, sobreviver à praga e inventar a roda. Você vai continuar a viajar através dos tempos até alcançar a modernidade e precisará saber administrar suas obrigações frente a tudo que está acontecendo no mundo, para poder conduzir o seu povo na conquista da lua e muito mais! Não é incrível?"
 
 #: ../content/Default/apps/content.json.h:193
 msgctxt "title"
@@ -1342,7 +1343,7 @@ msgstr "Tux Paint"
 #: ../content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
-msgstr ""
+msgstr "Um aplicativo de desenho divertido para crianças"
 
 #: ../content/Default/apps/content.json.h:195
 msgctxt "description"
@@ -1353,4 +1354,107 @@ msgid ""
 "heart is sure to love it! Use stamps, play with shapes, or draw freehand to "
 "create something special. If your child loves drawing and creating artwork, "
 "then download this app and get them started on their next masterpiece!"
-msgstr ""
+msgstr "\"Pinte o sete\" com este aplicativo fácil e divertido! O pinguim Tux ajuda a orientar as crianças para que elas saibam como usar todas as ferramentas. A idade recomendada para usar este aplicativo é de 3 a 12 anos, mas qualquer pessoa de coração jovem com certeza vai adorar! Use adesivos, brinque com as formas, ou desenhe à mão livre para criar algo especial. Se seu filho gosta de desenhar e criar arte, baixe este aplicativo e faça ele começar sua próxima obra-prima!"
+
+#: ../content/Default/apps/content.json.h:196
+msgctxt "title"
+msgid "Four in a Row"
+msgstr "Quatro na Linha"
+
+#: ../content/Default/apps/content.json.h:197
+msgctxt "subtitle"
+msgid "A fun and simple puzzle game for kids and adults "
+msgstr "Um simples e divertido jogo de quebra-cabeça para crianças e adultos"
+
+#: ../content/Default/apps/content.json.h:198
+msgctxt "description"
+msgid ""
+"This classic game is great for both children and adults alike! The goal is "
+"simple: you need to create a straight line of 4 of your circles before your "
+"opponent does. You can make a line that is horizontal, vertical or diagonal,"
+" like in Tic-tac-toe, but you'll need to be careful and pay attention to "
+"what your opponent is doing if you want to win! You can play against the "
+"computer, or against a friend, and spend hours playing this addictive and "
+"fun game!"
+msgstr "Esse jogo clássico é ótimo tanto para crianças como para adultos! O objetivo é simples: você precisa criar uma linha reta com 4 círculos antes do seu oponente. Você pode fazer linhas horizontais, verticais ou diagonais, como no Jogo da Velha, mas você vai precisar tomar muito cuidado e prestar atenção no que seu oponente está fazendo se você quiser ganhar! Você pode jogar contra o computador ou contra um amigo. Passe horas jogando e se divertindo! "
+
+#: ../content/Default/apps/content.json.h:199
+msgctxt "title"
+msgid "Iagno"
+msgstr "Iagno"
+
+#: ../content/Default/apps/content.json.h:200
+msgctxt "subtitle"
+msgid "Try to flip all the pieces to your color in this fun puzzle game"
+msgstr "Tente virar todas as peças para a sua cor nesse jogo de quebrar a cabeça"
+
+#: ../content/Default/apps/content.json.h:201
+msgctxt "description"
+msgid ""
+"Turn over the pieces in front of you so that they are all the same color. "
+"Simple? Not at all! You can change pieces to your color if you can put one "
+"of your pieces in a place where you can make a row, column or diagonal line "
+"across consecutive pieces of the other color. So, you need to flip over the "
+"pieces carefully to try to make ALL of the pieces your color. Think very "
+"strategically and see if you can figure this puzzle out!"
+msgstr "Vire as peças que estão na sua frente de forma que todas fiquem com a mesma cor. Simples? Nem um pouco! Você pode mudar as peças para a sua cor se você conseguir organizar suas peças de forma que elas criem uma linha, coluna ou diagonal através das peças de outras cores. Então, você precisa virar as peças com cuidado para tentar fazer com que todas fiquem da sua cor. Pense estrategicamente e veja se consegue desvendar esse quebra-cabeça!"
+
+#: ../content/Default/apps/content.json.h:202
+msgctxt "title"
+msgid "Mines"
+msgstr "Campo Minado"
+
+#: ../content/Default/apps/content.json.h:203
+msgctxt "subtitle"
+msgid "Figure out where the mines are in order to win this fun puzzle game"
+msgstr "Descubra onde estão as minas para ser o campeão deste jogo"
+
+#: ../content/Default/apps/content.json.h:204
+msgctxt "description"
+msgid ""
+"Figure out where the dangerous mines are in order to stay alive and win the "
+"game! Each square is either an ocean or a mine, and you'll need to only "
+"click on the oceans or you'll have to start over. Each time you click on a "
+"square, you will discover what it is and see how many mines are around it in"
+" each direction. If you figure out where all the mines are, you'll win!"
+msgstr "Descubra onde estão as perigosas minas para permanecer vivo e ganhar o jogo! Cada quadrado é uma mina ou um número e você precisa clicar apenas nos números ou vai precisar começar de novo. Cada vez que você clicar em um quadrado irá descobrir o que é, vendo quantas minas tem em volta e em que direção elas estão. Se você descobrir onde cada mina está você ganhará o jogo!"
+
+#: ../content/Default/apps/content.json.h:205
+msgctxt "title"
+msgid "Quadrapassel"
+msgstr "Quadrapassel"
+
+#: ../content/Default/apps/content.json.h:206
+msgctxt "subtitle"
+msgid "A tetris-like game that gets harder as you advance"
+msgstr "Um jogo no estilo Tetris que vai ficando mais difícil de acordo com a sua evolução"
+
+#: ../content/Default/apps/content.json.h:207
+msgctxt "description"
+msgid ""
+"You'll need to be quick if you want to win this game! Change the shape of "
+"pieces that fall from the top in order to match colors and make them "
+"disappear. If you don't make enough color blocks disappear, you'll find that"
+" your screen will soon fill up and you'll need to try again. And just when "
+"you think you're quick enough, the game will speed up, so be ready for a "
+"challenge!"
+msgstr "Você vai precisar ser rápido se quiser ganhar esse jogo! Mude o formato das peças que estão caindo para combinar as cores e fazê-las desaparecer. Se você não desaparecer com a quantidade suficiente de blocos da mesma cor, logo sua tela ficará cheia e você vai precisar começar de novo. E quando você pensar que está sendo rápido o bastante o jogo começará a acelerar!  Está pronto pra esse desafio?"
+
+#: ../content/Default/apps/content.json.h:208
+msgctxt "title"
+msgid "Tetravex"
+msgstr "Tetravex"
+
+#: ../content/Default/apps/content.json.h:209
+msgctxt "subtitle"
+msgid "Match all of the same numbers in this timed puzzle game"
+msgstr "Combine os números nesse jogo cronometrado estilo Sudoku"
+
+#: ../content/Default/apps/content.json.h:210
+msgctxt "description"
+msgid ""
+"Try to match up all of the same numbers on the blocks to win this tricky "
+"game. You'll need to think carefully, but quickly, in order to finish the "
+"puzzle. You will be timed, so make sure to keep getting faster in order to "
+"beat your or your friends' best time!"
+msgstr "Tente combinar os números iguais dentro dos blocos para ganhar esse jogo desafiador. Você vai precisar pensar com cuidado e agilidade para terminar esse jogo. Você será cronometrado, então seja rápido para superar o seu tempo ou o do seus amigos."

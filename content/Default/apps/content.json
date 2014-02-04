@@ -2253,15 +2253,15 @@
     "folder":"none",
     "desktop-position":null,
     "title":"Four in a Row",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"A fun and simple puzzle game for kids and adults ",
+    "description":"This classic game is great for both children and adults alike! The goal is simple: you need to create a straight line of 4 of your circles before your opponent does. You can make a line that is horizontal, vertical or diagonal, like in Tic-tac-toe, but you'll need to be careful and pay attention to what your opponent is doing if you want to win! You can play against the computer, or against a friend, and spend hours playing this addictive and fun game!",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
     "icon":"four-in-a-row-icon.png",
-    "square_img":"four-in-a-row-thumb.png",
+    "square_img":"four-in-a-row-thumb.jpg",
     "featured_img":"",
     "screenshots":{
       "C":[
@@ -2282,15 +2282,15 @@
     "folder":"none",
     "desktop-position":null,
     "title":"Iagno",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"Try to flip all the pieces to your color in this fun puzzle game",
+    "description":"Turn over the pieces in front of you so that they are all the same color. Simple? Not at all! You can change pieces to your color if you can put one of your pieces in a place where you can make a row, column or diagonal line across consecutive pieces of the other color. So, you need to flip over the pieces carefully to try to make ALL of the pieces your color. Think very strategically and see if you can figure this puzzle out!",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
     "icon":"iagno-icon.png",
-    "square_img":"iagno-thumb.png",
+    "square_img":"iagno-thumb.jpg",
     "featured_img":"",
     "screenshots":{
       "C":[
@@ -2311,8 +2311,8 @@
     "folder":"none",
     "desktop-position":null,
     "title":"Mines",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"Figure out where the mines are in order to win this fun puzzle game",
+    "description":"Figure out where the dangerous mines are in order to stay alive and win the game! Each square is either an ocean or a mine, and you'll need to only click on the oceans or you'll have to start over. Each time you click on a square, you will discover what it is and see how many mines are around it in each direction. If you figure out where all the mines are, you'll win!",
     "personalities":[
       "All"
     ],
@@ -2340,8 +2340,8 @@
     "folder":"none",
     "desktop-position":null,
     "title":"Quadrapassel",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"A tetris-like game that gets harder as you advance",
+    "description":"You'll need to be quick if you want to win this game! Change the shape of pieces that fall from the top in order to match colors and make them disappear. If you don't make enough color blocks disappear, you'll find that your screen will soon fill up and you'll need to try again. And just when you think you're quick enough, the game will speed up, so be ready for a challenge!",
     "personalities":[
       "All"
     ],
@@ -2352,7 +2352,8 @@
     "featured_img":"",
     "screenshots":{
       "C":[
-        "quadrapassel-screenshot1.jpg"
+        "quadrapassel-screenshot1.jpg",
+        "quadrapassel-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -2368,8 +2369,8 @@
     "folder":"none",
     "desktop-position":null,
     "title":"Tetravex",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"Match all of the same numbers in this timed puzzle game",
+    "description":"Try to match up all of the same numbers on the blocks to win this tricky game. You'll need to think carefully, but quickly, in order to finish the puzzle. You will be timed, so make sure to keep getting faster in order to beat your or your friends' best time!",
     "personalities":[
       "All"
     ],
@@ -2378,9 +2379,12 @@
     "icon":"gnome-tetravex-icon.png",
     "square_img":"gnome-tetravex-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "gnome-tetravex-screenshot1.jpg",
+        "gnome-tetravex-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
