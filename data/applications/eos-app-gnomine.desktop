@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Mines
-Comment=temp subtitle
+Name[pt]=Campo Minado
+Comment=Figure out where the mines are in order to win this fun puzzle game
+Comment[pt]=Descubra onde estão as minas para ser o campeão deste jogo
 Type=Application
 Exec=gnome-mines
 Icon=eos-app-gnome-mines
