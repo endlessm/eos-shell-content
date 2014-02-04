@@ -45,14 +45,15 @@ zfile.extractall(UNZIP_DIR)
 
 # For now, we need to convert specific locales to personalities,
 # including duplication of en-us as both default and Global,
+# and duplication of pt-br as both Brazil and Positivo,
 # until the CMS is reworked
-locales = ['en-us', 'en-us', 'es-gt', 'pt-br']
-personalities = ['default', 'Global', 'Guatemala', 'Brazil']
+locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'pt-br']
+personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'Positivo']
 
 # For now, we also need to convert specific locales to general languages
 # (with 'C' as the fallback for English) and personalities,
 # until the CMS is reworked
-languages = [None, 'C', 'es', 'pt']
+languages = [None, 'C', 'es', 'pt', None]
 
 # Copy the app json to the content folder
 # with tweaks to the json content
@@ -63,10 +64,11 @@ os.makedirs(target_dir)
 infile = open(source, 'r')
 outfile = open(target, 'w')
 for line in infile:
-    for i in range(1, len(locales)):
-        from_string = '"' + locales[i] + '"'
-        to_string = '"' + languages[i] + '"'
-        line = line.replace(from_string, to_string)
+    for i in range(0, len(locales)):
+        if languages[i]:
+            from_string = '"' + locales[i] + '"'
+            to_string = '"' + languages[i] + '"'
+            line = line.replace(from_string, to_string)
     if (line.find('-screenshot') > 0):
         line = line.replace('.png', '.jpg')
     outfile.write(line)
@@ -100,20 +102,21 @@ for source in os.listdir(source_dir):
 # resized to a width of 480 pixels,
 # converting PNG to JPG as necessary
 # (Note: if the featured image is square, we just use the thumbnail)
-for i in range(1, len(locales)):
-    # For now, we need to replace the CMS locale with generic language
-    # in the folder names
-    source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', locales[i])
-    target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'screenshots',
-                              languages[i])
-    os.makedirs(target_dir)
-    for source in os.listdir(source_dir):
-        target = source.replace('.png', '.jpg')
-        source_file = os.path.join(source_dir, source)
-        target_file = os.path.join(target_dir, target)
-        # Resize to a width of 480, allowing an arbitrary height
-        convert(source_file, target_file,
-                '-resize 480x480')
+for i in range(0, len(locales)):
+    if languages[i]:
+        # For now, we need to replace the CMS locale with generic language
+        # in the folder names
+        source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', locales[i])
+        target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources',
+                                  'screenshots', languages[i])
+        os.makedirs(target_dir)
+        for source in os.listdir(source_dir):
+            target = source.replace('.png', '.jpg')
+            source_file = os.path.join(source_dir, source)
+            target_file = os.path.join(target_dir, target)
+            # Resize to a width of 480, allowing an arbitrary height
+            convert(source_file, target_file,
+                    '-resize 480x480')
 
 # Copy the splash screen images to the content folder
 # with tweaked compression
