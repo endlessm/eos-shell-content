@@ -29,7 +29,7 @@ UNZIP_DIR = 'unzipped'
 DATA_DIR = 'data'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
-SPLASHDIR = None
+SPLASHDIR = '/usr/share/EndlessOS/splash'
 
 class DesktopObject(object):
 
