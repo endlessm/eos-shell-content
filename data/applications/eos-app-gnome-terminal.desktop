@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Terminal
+Comment=Use the command line
+Type=Application
+Exec=gnome-terminal
+Icon=eos-app-terminal
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

@@ -2388,5 +2388,61 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"spotify",
+    "desktop-id":"eos-app-spotify",
+    "exec":"spotify %U",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Spotify",
+    "subtitle":"Listen to music using Spotify",
+    "description":"All your music is here.  Spotify gives you millions of songs at your fingertips.  The artists you love, the latest hits, and new discoveries just for you.  Hit play to stream anything you like.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"spotify-icon.png",
+    "square_img":"spotify-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "spotify-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"terminal",
+    "desktop-id":"eos-app-gnome-terminal",
+    "exec":"gnome-terminal",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Terminal",
+    "subtitle":"Use the command line",
+    "description":"Advanced users can use the terminal to type commands, for instance to display system information and launch applications without using the mouse.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"terminal-icon.png",
+    "square_img":"terminal-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "terminal-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
   }
 ]

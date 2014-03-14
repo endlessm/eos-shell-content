@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Spotify
+Comment=Listen to music using Spotify
+Type=Application
+Exec=spotify %U
+Icon=eos-app-spotify
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
