@@ -31,6 +31,11 @@ LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
 SPLASHDIR = '/usr/share/EndlessOS/splash'
 
+MIME_TYPES = {
+    'eos-app-com.endlessm.photos': 'image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;',
+    'eos-app-shotwell': 'x-content/image-dcf;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-3fr;image/x-adobe-dng;image/x-arw;image/x-bay;image/x-bmp;image/x-canon-cr2;image/x-canon-crw;image/x-cap;image/x-cr2;image/x-crw;image/x-dcr;image/x-dcraw;image/x-dcs;image/x-dng;image/x-drf;image/x-eip;image/x-erf;image/x-fff;image/x-fuji-raf;image/x-iiq;image/x-k25;image/x-kdc;image/x-mef;image/x-minolta-mrw;image/x-mos;image/x-mrw;image/x-nef;image/x-nikon-nef;image/x-nrw;image/x-olympus-orf;image/x-orf;image/x-panasonic-raw;image/x-pef;image/x-pentax-pef;image/x-png;image/x-ptx;image/x-pxn;image/x-r3d;image/x-raf;image/x-raw;image/x-raw;image/x-rw2;image/x-rwl;image/x-rwz;image/x-sigma-x3f;image/x-sony-arw;image/x-sony-sr2;image/x-sony-srf;image/x-sr2;image/x-srf;image/x-x3f;'
+}
+
 class DesktopObject(object):
 
     DESKTOP_KEYS = [
@@ -42,6 +47,7 @@ class DesktopObject(object):
         'TryExec',
         'Icon',
         'Categories',
+        'MimeType',
         'X-Endless-ShowInAppStore',
         'X-Endless-ShowInPersonalities',
         'X-Endless-SplashScreen',
@@ -88,6 +94,12 @@ class DesktopObject(object):
                 return val
         elif key in self.defaults:
             return self.defaults[key]
+        elif key == 'MimeType':
+            id = self.get('Id')
+            if id in MIME_TYPES:
+                return MIME_TYPES[id]
+            else:
+                return None
         elif key == 'X-Endless-ShowInAppStore':
             # If the app has no categories, it shouldn't be listed in the app store
             # Note: the strings must be all lower case,
@@ -182,6 +194,8 @@ class LinkObject(DesktopObject):
         if key == 'Exec':
             return self._get_exec()
         elif key == 'TryExec':
+            return None
+        elif key == 'MimeType':
             return None
         elif key == 'X-Endless-SplashScreen':
             return None
