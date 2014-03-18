@@ -127,10 +127,8 @@ class LinkObject(DesktopObject):
     def __init__(self, data, desktop_dir, splash_dir, locale):
         super(LinkObject, self).__init__(data, desktop_dir, splash_dir)
         self._default_url = self.get('URL')
-        self._locales = [locale]
-        self._localized_urls = {
-            locale: self._default_url
-        }
+        self._locales = []
+        self._localized_urls = {}
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
 
@@ -144,22 +142,13 @@ class LinkObject(DesktopObject):
     def _get_exec(self):
         # If there's only one URL for this link,
         # just return an exec which opens that url in chromium.
+        if len(self._locales) == 0:
+            return 'chromium-browser ' + self._default_url
+
         # Otherwise, send each url with its respective locale 
         # to eos-exec-localized.
-        default_locale = self._locales[0]
-        default_url = self._localized_urls[default_locale]
-
-        same_url = True
-        for locale, url in self._localized_urls.items():
-            if url != default_url:
-                same_url = False
-                break
-
-        if same_url:
-            return 'chromium-browser ' + default_url
-
         exec_str = 'eos-exec-localized '
-        exec_str += '\'chromium-browser ' + default_url + '\' '
+        exec_str += '\'chromium-browser ' + self._default_url + '\' '
 
         # Process locales in the same order they were appended
         for locale in self._locales:
