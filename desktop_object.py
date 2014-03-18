@@ -1,35 +1,4 @@
-#!/usr/bin/python
-
-# This script generates desktop.in files for apps and links, which
-# will later be translated via translate_desktop_files into .desktop files.
-# These scripts require polib
-
-# To use this script, first log into eoscms.parafernalia.net.br
-# Under "App Store", click on "Generate Package"
-# There should be no warnings
-# Click on "Click here to download files in zip format"
-# Save the downloaded file in this folder as appstore.zip
-# Run this script
-# Add and commit any changes to git
-# Proceed with the normal build process
-
 import os
-import shutil
-import sys
-import zipfile
-import collections
-import json
-
-from translate_desktop_files import translate_dir
-
-IGNORE_ERRORS = True
-LINKS_LOCALES = ['en-us', 'pt-br', 'es-gt']
-ZIP_FILENAME = 'appstore.zip'
-UNZIP_DIR = 'unzipped'
-DATA_DIR = 'data'
-LINKS_DIR = os.path.join(DATA_DIR, 'links')
-APPS_DIR = os.path.join(DATA_DIR, 'applications')
-SPLASHDIR = '/usr/share/EndlessOS/splash'
 
 MIME_TYPES = {
     'eos-app-com.endlessm.photos': 'image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;',
@@ -54,10 +23,12 @@ class DesktopObject(object):
         'X-Endless-SplashBackground'
     ]
         
-    def __init__(self, data):
+    def __init__(self, data, desktop_dir, splash_dir):
         self._locale_keys = ['Name', 'Comment']
         self._suffix = '.desktop.in'
         self._data = data
+        self._desktop_dir = desktop_dir
+        self._splash_dir = splash_dir
 
         self.defaults = {}
         self.defaults['Version'] = '1.0'
@@ -84,8 +55,8 @@ class DesktopObject(object):
                     return 'false'
             if key == 'X-Endless-SplashBackground':
                 if val:
-                    if SPLASHDIR:
-                        return os.path.join(SPLASHDIR, val)
+                    if self._splash_dir:
+                        return os.path.join(self._splash_dir, val)
                     else:
                         return val
                 else:
@@ -153,39 +124,35 @@ class LinkObject(DesktopObject):
         'Folder': 'linkFolder',
     }
 
-    def __init__(self, data, locale):
-        super(LinkObject, self).__init__(data)
-        self._desktop_dir = LINKS_DIR
-        self._localized_urls = {
-            locale: self.get('URL')
-        }
+    def __init__(self, data, desktop_dir, splash_dir, locale):
+        super(LinkObject, self).__init__(data, desktop_dir, splash_dir)
+        self._default_url = self.get('URL')
+        self._locales = []
+        self._localized_urls = {}
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
 
         self.defaults['Personalities'] = ['All'];
 
     def append_localized_url(self, locale, url):
-        if url not in self._localized_urls:
+        if url != self._default_url:
+            self._locales.append(locale)
             self._localized_urls[locale] = url
 
     def _get_exec(self):
-        # If there's only one URL for this link, just return an exec which opens that url
-        # in chromium. Otherwise, send each url with its respective locale to eos-exec-localized
-        [default_locale, default_url] = self._localized_urls.items()[0]
+        # If there's only one URL for this link,
+        # just return an exec which opens that url in chromium.
+        if len(self._locales) == 0:
+            return 'chromium-browser ' + self._default_url
 
-        same_url = True
-        for locale, url in self._localized_urls.items():
-            if url != default_url:
-                same_url = False
-                break
-
-        if same_url:
-            return 'chromium-browser ' + default_url
-
+        # Otherwise, send each url with its respective locale 
+        # to eos-exec-localized.
         exec_str = 'eos-exec-localized '
-        exec_str += '\'chromium-browser ' + default_url + '\' '
+        exec_str += '\'chromium-browser ' + self._default_url + '\' '
 
-        for locale, url in self._localized_urls.items():
+        # Process locales in the same order they were appended
+        for locale in self._locales:
+            url = self._localized_urls[locale]
             exec_str += locale + ':\'chromium-browser ' + url + '\' '
 
         return exec_str
@@ -220,9 +187,8 @@ class AppObject(DesktopObject):
         'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
-    def __init__(self, data):
-        super(AppObject, self).__init__(data)
-        self._desktop_dir = APPS_DIR
+    def __init__(self, data, desktop_dir, splash_dir):
+        super(AppObject, self).__init__(data, desktop_dir, splash_dir)
         # For applications, the desktop-id already has the 'eos-app-' prefix
         self._prefix = ''
         self._icon_prefix = 'eos-app-'
@@ -236,76 +202,3 @@ class AppObject(DesktopObject):
             return self._get_personalities()
         else:
             return super(AppObject, self).get(key)
-
-if __name__ == '__main__':
-
-    if len(sys.argv) > 1:
-        if len(sys.argv) == 3 and sys.argv[1] == '--splashdir' :
-            SPLASHDIR = sys.argv[2]
-        else :
-            print('Usage: generate_desktop_files.py [--splashdir SPLASHDIR]')
-            print('where SPLASHDIR is the folder where the splash images are installed')
-            print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
-
-    # Remove the existing unzipped and content dirs, if they exist
-    shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)
-    shutil.rmtree(LINKS_DIR, IGNORE_ERRORS)
-    shutil.rmtree(APPS_DIR, IGNORE_ERRORS)
-
-    # Unzip the file
-    zfile = zipfile.ZipFile(ZIP_FILENAME)
-    zfile.extractall(UNZIP_DIR)
-
-    # Make the content dirs
-    os.mkdir(LINKS_DIR)
-    os.mkdir(APPS_DIR)
-
-    # Each app/link will be indexed by its id, so that duplicates (resulting from
-    # different locales) will be merged for i18n
-    desktop_objects = {}
-
-    # For now, links are stored on a per-locale basis in JSON files. The output desktop
-    # file should combine all specified URLs, switching on the locale via eos-exec-localized
-    for locale in LINKS_LOCALES:
-        lang = locale.split('-')[0]
-        localized_link_path = os.path.join(UNZIP_DIR, 'links', locale + '.json')
-        localized_link_file = open(localized_link_path)
-        localized_link_json = json.load(localized_link_file)
-        localized_link_file.close()
-        for category in localized_link_json:
-            for link_data in category['links']:
-                id = link_data['linkId']
-                if id not in desktop_objects.keys():
-                    desktop_objects[id] = LinkObject(link_data, lang)
-                else:
-                    url = link_data['linkUrl']
-                    desktop_objects[id].append_localized_url(lang, url)
-
-    apps_path = os.path.join(UNZIP_DIR, 'apps', 'content.json')
-    apps_file = open(apps_path)
-    apps_json = json.load(apps_file)
-    apps_file.close()
-    for app_data in apps_json:
-        # Use desktop-id rather than application-id,
-        # to ensure the ID is unique from any link IDs
-        # Otherwise, for instance, we the wikipedia app would
-        # clobber the wikipedia link in the dictionary
-        id = app_data['desktop-id']
-        desktop_objects[id] = AppObject(app_data)
-
-    # For each of the parsed links/apps, output a desktop.in file which will then be translated
-    # via autotools
-    for id, obj in desktop_objects.items():
-        desktop_id = obj.get('Id')
-        desktop_path = os.path.join(obj._desktop_dir, obj._prefix + desktop_id + obj._suffix)
-        desktop_file = open(desktop_path, 'w')
-        desktop_file.write('[Desktop Entry]\n')
-
-        for key in obj.DESKTOP_KEYS:
-           obj._write_key(desktop_file, key)
-
-        desktop_file.close()
-
-    # translate the desktop.in files we generated
-    translate_dir(LINKS_DIR)
-    translate_dir(APPS_DIR)
