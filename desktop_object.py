@@ -126,9 +126,10 @@ class LinkObject(DesktopObject):
 
     def __init__(self, data, desktop_dir, splash_dir, locale):
         super(LinkObject, self).__init__(data, desktop_dir, splash_dir)
+        self._default_url = self.get('URL')
         self._locales = [locale]
         self._localized_urls = {
-            locale: self.get('URL')
+            locale: self._default_url
         }
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
@@ -136,7 +137,7 @@ class LinkObject(DesktopObject):
         self.defaults['Personalities'] = ['All'];
 
     def append_localized_url(self, locale, url):
-        if url not in self._localized_urls:
+        if url != self._default_url:
             self._locales.append(locale)
             self._localized_urls[locale] = url
 
