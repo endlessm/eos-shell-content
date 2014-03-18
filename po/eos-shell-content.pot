@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-04 14:17-0800\n"
+"POT-Creation-Date: 2014-03-18 15:15-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -289,7 +289,7 @@ msgstr ""
 
 #: ../content/Default/apps/content.json.h:43
 msgctxt "title"
-msgid "Media Download"
+msgid "BitTorrent"
 msgstr ""
 
 #: ../content/Default/apps/content.json.h:44
@@ -1444,4 +1444,51 @@ msgid ""
 "game. You'll need to think carefully, but quickly, in order to finish the "
 "puzzle. You will be timed, so make sure to keep getting faster in order to "
 "beat your or your friends' best time!"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:211
+msgctxt "title"
+msgid "Spotify"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:212
+msgctxt "subtitle"
+msgid "Listen to music using Spotify"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:213
+msgctxt "description"
+msgid ""
+"Spotify lets you access all of your favorite music, helps you discover new "
+"songs you'll love, and lets you share music with your friends - all in one "
+"place. You can listen to all of your local files and create playlists just "
+"like you would in any other music player, but now you can also share your "
+"playlists with friends and see what they are listening to! Follow friends, "
+"your favorite artists, and other Spotify members whose music taste you "
+"share. Spotify has all of the great discovering capability that other apps "
+"like Pandora have, but the difference is that you can save your favorite "
+"songs to a playlist and listen to them whenever you want. You can also make "
+"collaborative playlists, so that you and all of your friends can add songs "
+"that you all love. Have access millions of songs, and all the latest hits - "
+"for free. "
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:214
+msgctxt "title"
+msgid "Terminal"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:215
+msgctxt "subtitle"
+msgid "Use the command line"
+msgstr ""
+
+#: ../content/Default/apps/content.json.h:216
+msgctxt "description"
+msgid ""
+"If you're an advanced user and want to display system information and launch "
+"applications without using the mouse, now you can do just that with this "
+"basic terminal app. With this modern terminal, you can see all of your "
+"commands written in different colors to help make sure you are typing them "
+"in correctly and to help you easily identify any mistakes you have made. "
 msgstr ""

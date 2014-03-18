@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-04 14:17-0800\n"
-"PO-Revision-Date: 2014-02-01 05:50+0000\n"
+"POT-Creation-Date: 2014-03-18 13:52-0700\n"
+"PO-Revision-Date: 2014-03-18 21:10+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/teams/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -298,8 +298,8 @@ msgstr "Mantenerte en contacto es una parte importante de la vida moderna, y el 
 
 #: ../content/Default/apps/content.json.h:43
 msgctxt "title"
-msgid "Media Download"
-msgstr "Descargador"
+msgid "BitTorrent"
+msgstr "BitTorrent"
 
 #: ../content/Default/apps/content.json.h:44
 msgctxt "subtitle"
@@ -1459,3 +1459,50 @@ msgid ""
 "puzzle. You will be timed, so make sure to keep getting faster in order to "
 "beat your or your friends' best time!"
 msgstr ""
+
+#: ../content/Default/apps/content.json.h:211
+msgctxt "title"
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../content/Default/apps/content.json.h:212
+msgctxt "subtitle"
+msgid "Listen to music using Spotify"
+msgstr "Escucha música con Spotify"
+
+#: ../content/Default/apps/content.json.h:213
+msgctxt "description"
+msgid ""
+"Spotify lets you access all of your favorite music, helps you discover new "
+"songs you'll love, and lets you share music with your friends - all in one "
+"place. You can listen to all of your local files and create playlists just "
+"like you would in any other music player, but now you can also share your "
+"playlists with friends and see what they are listening to! Follow friends, "
+"your favorite artists, and other Spotify members whose music taste you "
+"share. Spotify has all of the great discovering capability that other apps "
+"like Pandora have, but the difference is that you can save your favorite "
+"songs to a playlist and listen to them whenever you want. You can also make "
+"collaborative playlists, so that you and all of your friends can add songs "
+"that you all love. Have access millions of songs, and all the latest hits - "
+"for free. "
+msgstr "Con Spotify puedes acceder a toda tu música favorita, descubrir nuevas canciones y compartir música fácilmente con tus amigos. Escucha canciones de tus archivos locales, o si tienes internet, accede a las millones de canciones que se encuentran en Spofity. Podrás compartir las canciones que escuchas con tus amigos que también usan Spotify, y ver lo que ellos están escuchando. ¡Sigue a tus artistas favoritos, y a otros miembros de Spotify cuyos gustos musicales compartes! Spotify crea estaciones de radio personalizadas para ti, que puedes guardar en una lista para escucharlas cuando quieras. Para más integración social, puedes crear una lista colaborativa, para que tus amigos puedan agregar canciones que a ellos también les encantan. Agrega Spotify ahora para tener acceso a todos los últimos éxitos, de forma gratuita, y de una forma muy social."
+
+#: ../content/Default/apps/content.json.h:214
+msgctxt "title"
+msgid "Terminal"
+msgstr "Terminal"
+
+#: ../content/Default/apps/content.json.h:215
+msgctxt "subtitle"
+msgid "Use the command line"
+msgstr "Utiliza la línea de comandos"
+
+#: ../content/Default/apps/content.json.h:216
+msgctxt "description"
+msgid ""
+"If you're an advanced user and want to display system information and launch"
+" applications without using the mouse, now you can do just that with this "
+"basic terminal app. With this modern terminal, you can see all of your "
+"commands written in different colors to help make sure you are typing them "
+"in correctly and to help you easily identify any mistakes you have made. "
+msgstr "Si eres un usuario de computadoras avanzado y deseas acceder a la información del sistema y ejecutar apps sin usar el ratón, ahora puedes hacer precisamente eso con esta app básica del terminal. Con esta terminal moderna puedes ver todos los comandos que escribes en diferentes colores para asegurarte de que estás escribiendo todo correctamente y para ayudarte a identificar fácilmente cualquier error que hayas cometido."
