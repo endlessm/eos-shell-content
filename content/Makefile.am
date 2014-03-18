@@ -45,28 +45,15 @@ extract-content-strings$(BUILD_EXEEXT): $(extract_content_strings_sources)
 EXTRA_DIST += $(extract_content_strings_sources)
 DISTCLEANFILES += extract-content-strings$(BUILD_EXEEXT)
 
-# this is a weird rule, but it's needed to deal with both autotools and
-# intltool brain damage, so let's explain it before it gets removed at
-# a later date, and distcheck breaks.
-#
 # we need to generate the json.h header because gettext does not know how
-# to extract strings from custom JSON; we do that during build and put
-# the generated files into EXTRA_DIST, so that they get copied inside the
-# tarball during 'make dist'. intltool only checks inside $(srcdir) because
-# of reasons, so we cannot put the generated files inside $(builddir); we
-# cannot put the generated files in $(srcdir) because automake will not
-# allow that to happen during distcheck. thus, we check if a generated file
-# exists in $(srcdir) first, and build the json.h file only if it doesn't.
-# this means that you need to clean the content directory if the content
-# changes, in order for the strings to be extracted.
+# to extract strings from custom JSON.
 content_files = $(default_app_json) $(default_links_json)
 content_headers = $(content_files:.json=.json.h)
 %.json.h: $(content_files) extract-content-strings$(BUILD_EXEEXT)
-	$(AM_V_GEN) test -f $(addprefix $(srcdir)/,$@) || ./extract-content-strings$(BUILD_EXEEXT) $(addsuffix .json,$*) > $@
+	$(AM_V_GEN) ./extract-content-strings$(BUILD_EXEEXT) $(addsuffix .json,$*) > $@
 
 all-local: $(content_headers)
 
-EXTRA_DIST += $(content_headers)
 CLEANFILES += $(content_headers)
 
 contentdir = $(datadir)/application-store
