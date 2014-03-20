@@ -5,6 +5,8 @@
 # for the 'convert' command
 
 # This script also requires polib
+# (sudo apt-get install pip)
+# (sudo pip install polib)
 
 # To use this script, first log into eoscms.parafernalia.net.br
 # Under "App Store", click on "Generate Package"
