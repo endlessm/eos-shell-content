@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Spotify
+Name[es]=Spotify
+Name[pt]=Spotify
 Comment=Listen to music using Spotify
+Comment[es]=Escucha música con Spotify
+Comment[pt]=Escute música usando Spotify
 Type=Application
 Exec=spotify %U
 Icon=eos-app-spotify

@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Terminal
+Name[es]=Terminal
+Name[pt]=Terminal
 Comment=Use the command line
+Comment[es]=Utiliza la línea de comandos
+Comment[pt]=Use a linha de comando
 Type=Application
 Exec=gnome-terminal
 Icon=eos-app-terminal
