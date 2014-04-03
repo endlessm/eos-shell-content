@@ -9,27 +9,27 @@ default_app_json = \
 
 EXTRA_DIST += $(default_app_json)
 
-default_links_json = $(shell cd $(srcdir); for file in `find Default/links -name "*.json"`; do printf "$$file "; done)
+default_links_json := $(shell cd $(srcdir); for file in `find Default/links -name "*.json"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_json)
 
-default_app_images = $(shell cd $(srcdir); for file in `find Default/apps/resources/images -name "*.jpg"`; do printf "$$file "; done)
+default_app_images := $(shell cd $(srcdir); for file in `find Default/apps/resources/images -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_app_images)
 
-default_app_thumbnails = $(shell cd $(srcdir); for file in `find Default/apps/resources/thumbnails -name "*.jpg"`; do printf "$$file "; done)
+default_app_thumbnails := $(shell cd $(srcdir); for file in `find Default/apps/resources/thumbnails -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_app_thumbnails)
 
-default_app_screenshots = $(shell cd $(srcdir); for file in `find Default/apps/resources/screenshots -name "*.jpg"`; do printf "$$file "; done)
+default_app_screenshots := $(shell cd $(srcdir); for file in `find Default/apps/resources/screenshots -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_app_screenshots)
 
-default_app_splash = $(shell cd $(srcdir); for file in `find Default/apps/resources/splash -name "*.jpg"`; do printf "$$file "; done)
+default_app_splash := $(shell cd $(srcdir); for file in `find Default/apps/resources/splash -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_app_splash)
 
-default_links_images = $(shell cd $(srcdir); for file in `find Default/links/images -name "*.jpg"`; do printf "$$file "; done)
+default_links_images := $(shell cd $(srcdir); for file in `find Default/links/images -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_images)
 
