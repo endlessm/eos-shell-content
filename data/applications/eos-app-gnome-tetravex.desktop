@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
 Name=Tetravex
+Name[es]=Tetravex
 Name[pt]=Tetravex
 Comment=Match all of the same numbers in this timed puzzle game
+Comment[es]=Combina todos los números iguales en este rompecabezas con tiempo medido.
 Comment[pt]=Combine os números nesse jogo cronometrado estilo Sudoku
 Type=Application
 Exec=gnome-tetravex
