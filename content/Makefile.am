@@ -51,7 +51,7 @@ content_files = $(default_app_json) $(default_links_json)
 content_headers = $(content_files:.json=.json.h)
 %.json.h: %.json extract-content-strings$(BUILD_EXEEXT)
 	$(AM_V_GEN) $(MKDIR_P) $(@D) && \
-	./extract-content-strings$(BUILD_EXEEXT) $< >$@
+	./extract-content-strings$(BUILD_EXEEXT) $< $@
 
 all-local: $(content_headers)
 

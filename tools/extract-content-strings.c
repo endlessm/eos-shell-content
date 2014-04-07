@@ -54,17 +54,18 @@ main (int   argc,
 {
   setlocale (LC_ALL, "");
 
-  if (argc < 2)
+  if (argc < 3)
     {
-      g_printerr ("Usage: extract-content-strings <content file>\n");
+      g_printerr ("Usage: extract-content-strings <content file> <output file>\n");
       return EXIT_FAILURE;
     }
 
   JsonParser *parser = json_parser_new ();
-  const char *path = argv[1];
+  const char *content_path = argv[1];
+  const char *output_path = argv[2];
 
   GError *error = NULL;
-  json_parser_load_from_file (parser, path, &error);
+  json_parser_load_from_file (parser, content_path, &error);
   if (error != NULL)
     {
       fprintf (stderr, "Unable to load content: %s\n", error->message);
@@ -90,11 +91,27 @@ main (int   argc,
 
   GString *buffer = g_string_new ("");
 
-  parse_content_array (json_node_get_array (root), path, buffer);
+  parse_content_array (json_node_get_array (root), content_path, buffer);
 
   g_object_unref (parser);
 
-  g_print ("%s", buffer->str);
+  GFile *file = g_file_new_for_path (output_path);
+  g_file_replace_contents (file,
+                           buffer->str,
+                           buffer->len,
+                           NULL,
+                           FALSE,
+                           G_FILE_CREATE_NONE,
+                           NULL,
+                           NULL,
+                           &error);
+  if (error != NULL)
+    {
+      fprintf (stderr, "Unable to write extracted file: %s\n", error->message);
+      g_error_free (error);
+      g_string_free (buffer, TRUE);
+      return EXIT_FAILURE;
+    }
 
   g_string_free (buffer, TRUE);
 
