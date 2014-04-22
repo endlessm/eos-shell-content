@@ -2447,5 +2447,48 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"cheese",
+    "desktop-id":"eos-app-cheese",
+    "exec":"cheese",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Cheese",
+    "subtitle":"Take pictures of yourself and your friends with this fun photobooth app",
+    "description":"Say cheese! Use a webcam and this awesome photobooth app to take pictures, apply filters, and share your creations with your friends and family. Try turning yourself green, or making yourself have two faces - you'll have hours of fun playing around and creating funny, cool and beautiful pictures!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"cheese-icon.png",
+    "square_img":"cheese-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "cheese-screenshot1.jpg",
+        "cheese-screenshot2.jpg",
+        "cheese-screenshot3.jpg",
+        "cheese-screenshot4.jpg"
+      ],
+      "pt":[
+        "cheese-screenshot1.jpg",
+        "cheese-screenshot2.jpg",
+        "cheese-screenshot3.jpg",
+        "cheese-screenshot4.jpg"
+      ],
+      "es":[
+        "cheese-screenshot1.jpg",
+        "cheese-screenshot2.jpg",
+        "cheese-screenshot3.jpg",
+        "cheese-screenshot4.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
   }
 ]
