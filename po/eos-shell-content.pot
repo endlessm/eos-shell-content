@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-04-04 15:20-0700\n"
+"POT-Creation-Date: 2014-04-22 18:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1491,4 +1491,23 @@ msgid ""
 "basic terminal app. With this modern terminal, you can see all of your "
 "commands written in different colors to help make sure you are typing them "
 "in correctly and to help you easily identify any mistakes you have made. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:217
+msgctxt "title"
+msgid "Cheese"
+msgstr ""
+
+#: content/Default/apps/content.json.h:218
+msgctxt "subtitle"
+msgid "Take pictures of yourself and your friends with this fun photobooth app"
+msgstr ""
+
+#: content/Default/apps/content.json.h:219
+msgctxt "description"
+msgid ""
+"Say cheese! Use a webcam and this awesome photobooth app to take pictures, "
+"apply filters, and share your creations with your friends and family. Try "
+"turning yourself green, or making yourself have two faces - you'll have "
+"hours of fun playing around and creating funny, cool and beautiful pictures!"
 msgstr ""
