@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KSnakeDuel
+Comment=Tron-like snakerace game
+Type=Application
+Exec=ktron -caption %c %i
+Icon=eos-app-ksnakeduel
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

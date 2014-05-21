@@ -2490,5 +2490,811 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"screenshot",
+    "desktop-id":"eos-app-gnome-screenshot",
+    "exec":"gnome-screenshot --interactive",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Screenshot",
+    "subtitle":"Take a picture of your screen to save",
+    "description":"Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"screenshot-icon.png",
+    "square_img":"screenshot-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kgeography",
+    "desktop-id":"eos-app-kgeography",
+    "exec":"kgeography",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KGeography",
+    "subtitle":"Geography learning aid for KDE",
+    "description":"KGeography is an aid for learning about world geography. You can use it to explore a map, show information about regions and features, and play quiz games to test your geography knowledge.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kgeography-icon.png",
+    "square_img":"kgeography-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kalzium",
+    "desktop-id":"eos-app-kalzium",
+    "exec":"kalzium -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Kalzium",
+    "subtitle":"Periodic table and chemistry tools",
+    "description":"Kalzium is a full-featured chemistry application, including a Periodic Table of Elements, chemical reference, chemical equation solver, and 3D molecule viewer.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kalzium-icon.png",
+    "square_img":"kalzium-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kbruch",
+    "desktop-id":"eos-app-kbruch",
+    "exec":"kbruch -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KBruch",
+    "subtitle":"Fraction learning aid for KDE",
+    "description":"KBruch is an aid for learning how to calculate with fractions.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kbruch-icon.png",
+    "square_img":"kbruch-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kwordquiz",
+    "desktop-id":"eos-app-kwordquiz",
+    "exec":"kwordquiz -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KWordQuiz",
+    "subtitle":"Flashcard learning program",
+    "description":"KWordQuiz is a general purpose flashcard program, typically used for vocabulary training.\r\n\r\nKWordQuiz can open vocabulary data in various formats, including the kvtml format used by KDE programs such as Parley, the WQL format used by WordQuiz for Windows, the xml.gz format used by Pauker, and CSV text.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kwordquiz-icon.png",
+    "square_img":"kwordquiz-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"katomic",
+    "desktop-id":"eos-app-katomic",
+    "exec":"katomic -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KAtomic",
+    "subtitle":"Atomix puzzle game",
+    "description":"KAtomic is a puzzle game in which the player slides atoms around the board to assemble a molecule.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"katomic-icon.png",
+    "square_img":"katomic-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"knetwalk",
+    "desktop-id":"eos-app-knetwalk",
+    "exec":"knetwalk -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KNetwalk",
+    "subtitle":"Wire puzzle game",
+    "description":"KNetwalk is a puzzle game where the player arranges sections of wire to connect all the computers on the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"knetwalk-icon.png",
+    "square_img":"knetwalk-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"killbots",
+    "desktop-id":"eos-app-killbots",
+    "exec":"killbots -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Killbots",
+    "subtitle":"Port of the classic BSD console game robots",
+    "description":"Killbots is a simple game of evading killer robots. The robots are numerous and their sole objective is to destroy you. Fortunately for you, their creator has focused on quantity rather than quality and as a result the robots are severely lacking in intelligence. Your superior wit and a fancy teleportation device are your only weapons against the never-ending stream of mindless automatons.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"killbots-icon.png",
+    "square_img":"killbots-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksquares",
+    "desktop-id":"eos-app-ksquares",
+    "exec":"ksquares %i -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KSquares",
+    "subtitle":"Dots and boxes game",
+    "description":"KSquares is a game where two players take turns connecting dots on a grid to complete the most squares.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksquares-icon.png",
+    "square_img":"ksquares-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kapman",
+    "desktop-id":"eos-app-kapman",
+    "exec":"kapman",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Kapman",
+    "subtitle":"Pac-Man clone",
+    "description":"Kapman is a clone of the well known game Pac-Man. You must go through the levels escaping ghosts in a maze. You lose a life when a ghost eats you, but you can eat the ghosts for a few seconds when eating an energizer. You win points when eating pills, energizers, and bonus, and you win one life for each 10,000 points. When you have eaten all the pills and energizers of a level, you go to the next level, and the player and ghost speeds increase.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kapman-icon.png",
+    "square_img":"kapman-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ktuberling",
+    "desktop-id":"eos-app-ktuberling",
+    "exec":"ktuberling -caption %c %u",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Potato Guy",
+    "subtitle":"Stamp drawing toy",
+    "description":"Potato Guy is a drawing toy for small children with several activities.\r\n\r\n * Give the potato a funny face, clothes, and other goodies\r\n * Build a small town, complete with school, zoo, and fire department\r\n * Create a fantastic moonscape with spaceships and aliens\r\n\r\nPotato Guy can speak the name of each the object in several languages, to assist in learning basic vocabulary.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ktuberling-icon.png",
+    "square_img":"ktuberling-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"klines",
+    "desktop-id":"eos-app-klines",
+    "exec":"klines -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Kolor Lines",
+    "subtitle":"Color lines game",
+    "description":"Kolor Lines is a single-player game where the player removes colored balls from the board by arranging them into lines of five or more. However, every time the player moves a ball, three more balls are added to the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"klines-icon.png",
+    "square_img":"klines-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kjumpingcube",
+    "desktop-id":"eos-app-kjumpingcube",
+    "exec":"kjumpingcube -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KJumpingCube",
+    "subtitle":"Simple tactical game",
+    "description":"KJumpingCube is a simple tactical game for one or two players, played on a grid of numbered squares. Each turn, players compete for control of the board by capturing or adding to one square.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kjumpingcube-icon.png",
+    "square_img":"kjumpingcube-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kgoldrunner",
+    "desktop-id":"eos-app-KGoldrunner",
+    "exec":"kgoldrunner",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KGoldrunner",
+    "subtitle":"Lode Runner arcade game",
+    "description":"KGoldrunner is a fast-paced platform game where the player must navigate a maze while collecting gold nuggets and avoiding enemies. A variety of level packs are included, as well as an editor to create new levels.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kgoldrunner-icon.png",
+    "square_img":"kgoldrunner-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kdiamond",
+    "desktop-id":"eos-app-kdiamond",
+    "exec":"kdiamond -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KDiamond",
+    "subtitle":"Three-in-a-row game",
+    "description":"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun with randomly generated games and five difficulty levels with varying number of diamond colors and board sizes.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kdiamond-icon.png",
+    "square_img":"kdiamond-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kblackbox",
+    "desktop-id":"eos-app-kblackbox",
+    "exec":"kblackbox -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KBlackBox",
+    "subtitle":"Black Box puzzle game",
+    "description":"KBlackBox is a game of hide and seek played on an grid of boxes, where the player shoots rays into the grid to deduce the positions of hidden objects.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kblackbox-icon.png",
+    "square_img":"kblackbox-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kubrick",
+    "desktop-id":"eos-app-kubrick",
+    "exec":"kubrick",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Kubrick",
+    "subtitle":"Game based on Rubik's Cube",
+    "description":"Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics libraries.\r\n\r\nKubrick handles cubes, \"bricks\" and \"mats\" from 2x2x1 up to 6x6x6. It has several built-in puzzles of graded difficulty, as well as demos of solving moves and pretty patterns. The game has unlimited undo, redo, save and reload capabilities.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kubrick-icon.png",
+    "square_img":"kubrick-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"palapeli",
+    "desktop-id":"eos-app-palapeli",
+    "exec":"palapeli",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Palapeli",
+    "subtitle":"Jigsaw puzzle game",
+    "description":"Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely movable.\r\n\r\nPalapeli is the Finnish word for jigsaw puzzle.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"palapeli-icon.png",
+    "square_img":"palapeli-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kigo",
+    "desktop-id":"eos-app-kigo",
+    "exec":"kigo %i -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Kigo",
+    "subtitle":"Go game",
+    "description":"Kigo is an open-source implementation of the popular Go game. Go is a strategic board game for two players. It is also known as igo (Japanese), weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in strategic complexity despite its simple rules. The game is played by two players who alternately place black and white stones (playing pieces, now usually made of glass or plastic) on the vacant intersections of a grid of 19x19 lines (9x9 or 13x13 for easier games).",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kigo-icon.png",
+    "square_img":"kigo-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kbounce",
+    "desktop-id":"eos-app-kbounce",
+    "exec":"kbounce -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KBounce",
+    "subtitle":"Jezzball arcade game",
+    "description":"KBounce is a game where the player builds walls to confine a number of bouncing balls.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kbounce-icon.png",
+    "square_img":"kbounce-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksnake",
+    "desktop-id":"eos-app-kdesnake",
+    "exec":"ktron --geometry 1920x1080+0+0 -snake -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KSnake",
+    "subtitle":"Classical snake action game",
+    "description":"In KSnake you steer a snake which has to eat food. While eating, the snake grows. But once a player collides with the other snake or the wall, the game is lost. This becomes, of course, more and more difficult the longer the snakes grow.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksnake-icon.png",
+    "square_img":"ksnake-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksnakeduel",
+    "desktop-id":"eos-app-ktron",
+    "exec":"ktron -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KSnakeDuel",
+    "subtitle":"Tron-like snakerace game",
+    "description":"The object of the game is to avoid running into walls, your own tail, and that of your opponent, while at the same time you have to try to get your opponent to run into them.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksnakeduel-icon.png",
+    "square_img":"ksnakeduel-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksame",
+    "desktop-id":"eos-app-ksame",
+    "exec":"klickety --geometry 1920x1080+0+0 --KSameMode -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KSame",
+    "subtitle":"SameGame puzzle game",
+    "description":"Klickety is a puzzle game where the player removes groups of colored marbles to clear the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksame-icon.png",
+    "square_img":"ksame-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"klickety",
+    "desktop-id":"eos-app-klickety",
+    "exec":"klickety -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Klickety",
+    "subtitle":"Adaptation of Clickomania",
+    "description":"Klickety is an adaptation of the Clickomania game. The rules are similar to those of the KSame game: your goal is to clear the board by clicking on groups to destroy them. The overall aim is to get the lowest score possible. It will provide entertainment for all abilities, but a challenge in logical thought if you want to get a really low score.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"klickety-icon.png",
+    "square_img":"klickety-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kstars",
+    "desktop-id":"eos-app-kstars",
+    "exec":"kstars -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KStars",
+    "subtitle":"Desktop planetarium for KDE",
+    "description":"KStars is a desktop planetarium for KDE, depicting an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 planets, the Sun and Moon, and thousands of comets and asteroids. It includes tools for astronomical calculations and can control telescopes and cameras.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kstars-icon.png",
+    "square_img":"kstars-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"bovo",
+    "desktop-id":"eos-app-bovo",
+    "exec":"bovo -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Bovo",
+    "subtitle":"Gomoku (five in line) board game",
+    "description":"Bovo is a game where two players take turns placing markers on the board, the winner being the first to complete a line of five markers.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"bovo-icon.png",
+    "square_img":"bovo-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kmines",
+    "desktop-id":"eos-app-kmines",
+    "exec":"kmines -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KMines",
+    "subtitle":"Minesweeper game",
+    "description":"KMines is a game where the player finds hidden mines without setting them off.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kmines-icon.png",
+    "square_img":"kmines-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksudoku",
+    "desktop-id":"eos-app-ksudoku",
+    "exec":"ksudoku %i -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KSudoku",
+    "subtitle":"Sudoku puzzle game and solver",
+    "description":"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets and find the solution to any Sudoku puzzle.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksudoku-icon.png",
+    "square_img":"ksudoku-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gcompris-admin",
+    "desktop-id":"eos-app-gcompris-admin",
+    "exec":"gcompris --administration",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"GCompris Admin",
+    "subtitle":"Teacher admin console for GCompris",
+    "description":"Run GCompris (EduGames) in administration and user-management mode.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gcompris-admin-icon.png",
+    "square_img":"gcompris-admin-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kblocks",
+    "desktop-id":"eos-app-kblocks",
+    "exec":"kblocks -caption %c",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KBlocks",
+    "subtitle":"Falling blocks game",
+    "description":"KBlocks is a single player Tetris-like falling blocks puzzle game.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kblocks-icon.png",
+    "square_img":"kblocks-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"brasero",
+    "desktop-id":"eos-app-brasero",
+    "exec":"brasero %U",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Brasero",
+    "subtitle":"CD\/DVD burning application",
+    "description":"Brasero is a simple application to burn, copy, and erase CD and DVD media: audio, video, or data.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"brasero-icon.png",
+    "square_img":"brasero-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
   }
 ]

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KSudoku
+Name[es]=Sudoku
+Name[pt]=Sudoku
+Comment=Sudoku puzzle game and solver
+Type=Application
+Exec=ksudoku %i -caption %c
+Icon=eos-app-ksudoku
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

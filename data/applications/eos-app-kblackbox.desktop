@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KBlackBox
+Comment=Black Box puzzle game
+Type=Application
+Exec=kblackbox -caption %c
+Icon=eos-app-kblackbox
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

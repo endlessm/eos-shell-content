@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Bovo
+Comment=Gomoku (five in line) board game
+Type=Application
+Exec=bovo -caption %c
+Icon=eos-app-bovo
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

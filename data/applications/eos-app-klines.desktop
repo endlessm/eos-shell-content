@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Kolor Lines
+Comment=Color lines game
+Type=Application
+Exec=klines -caption %c
+Icon=eos-app-klines
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

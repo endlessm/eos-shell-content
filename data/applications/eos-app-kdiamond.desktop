@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KDiamond
+Comment=Three-in-a-row game
+Type=Application
+Exec=kdiamond -caption %c
+Icon=eos-app-kdiamond
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

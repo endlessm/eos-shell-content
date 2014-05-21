@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-04-22 18:43+0000\n"
+"POT-Creation-Date: 2014-05-20 14:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1510,4 +1510,556 @@ msgid ""
 "apply filters, and share your creations with your friends and family. Try "
 "turning yourself green, or making yourself have two faces - you'll have "
 "hours of fun playing around and creating funny, cool and beautiful pictures!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:220
+msgctxt "title"
+msgid "Screenshot"
+msgstr ""
+
+#: content/Default/apps/content.json.h:221
+msgctxt "subtitle"
+msgid "Take a picture of your screen to save"
+msgstr ""
+
+#: content/Default/apps/content.json.h:222
+msgctxt "description"
+msgid ""
+"Do you ever wish you could take a picture of your screen to save? Well now "
+"you can, with this easy-to-use screenshot app. You can choose to take a shot "
+"of your entire screen, or of just one of your windows. That way, you can "
+"make sure to save just what you need and nothing more. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:223
+msgctxt "title"
+msgid "KGeography"
+msgstr ""
+
+#: content/Default/apps/content.json.h:224
+msgctxt "subtitle"
+msgid "Geography learning aid for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:225
+msgctxt "description"
+msgid ""
+"KGeography is an aid for learning about world geography. You can use it to "
+"explore a map, show information about regions and features, and play quiz "
+"games to test your geography knowledge."
+msgstr ""
+
+#: content/Default/apps/content.json.h:226
+msgctxt "title"
+msgid "Kalzium"
+msgstr ""
+
+#: content/Default/apps/content.json.h:227
+msgctxt "subtitle"
+msgid "Periodic table and chemistry tools"
+msgstr ""
+
+#: content/Default/apps/content.json.h:228
+msgctxt "description"
+msgid ""
+"Kalzium is a full-featured chemistry application, including a Periodic Table "
+"of Elements, chemical reference, chemical equation solver, and 3D molecule "
+"viewer."
+msgstr ""
+
+#: content/Default/apps/content.json.h:229
+msgctxt "title"
+msgid "KBruch"
+msgstr ""
+
+#: content/Default/apps/content.json.h:230
+msgctxt "subtitle"
+msgid "Fraction learning aid for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:231
+msgctxt "description"
+msgid "KBruch is an aid for learning how to calculate with fractions."
+msgstr ""
+
+#: content/Default/apps/content.json.h:232
+msgctxt "title"
+msgid "KWordQuiz"
+msgstr ""
+
+#: content/Default/apps/content.json.h:233
+msgctxt "subtitle"
+msgid "Flashcard learning program"
+msgstr ""
+
+#: content/Default/apps/content.json.h:237
+msgctxt "title"
+msgid "KAtomic"
+msgstr ""
+
+#: content/Default/apps/content.json.h:238
+msgctxt "subtitle"
+msgid "Atomix puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:239
+msgctxt "description"
+msgid ""
+"KAtomic is a puzzle game in which the player slides atoms around the board "
+"to assemble a molecule."
+msgstr ""
+
+#: content/Default/apps/content.json.h:240
+msgctxt "title"
+msgid "KNetwalk"
+msgstr ""
+
+#: content/Default/apps/content.json.h:241
+msgctxt "subtitle"
+msgid "Wire puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:242
+msgctxt "description"
+msgid ""
+"KNetwalk is a puzzle game where the player arranges sections of wire to "
+"connect all the computers on the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:243
+msgctxt "title"
+msgid "Killbots"
+msgstr ""
+
+#: content/Default/apps/content.json.h:244
+msgctxt "subtitle"
+msgid "Port of the classic BSD console game robots"
+msgstr ""
+
+#: content/Default/apps/content.json.h:245
+msgctxt "description"
+msgid ""
+"Killbots is a simple game of evading killer robots. The robots are numerous "
+"and their sole objective is to destroy you. Fortunately for you, their "
+"creator has focused on quantity rather than quality and as a result the "
+"robots are severely lacking in intelligence. Your superior wit and a fancy "
+"teleportation device are your only weapons against the never-ending stream "
+"of mindless automatons."
+msgstr ""
+
+#: content/Default/apps/content.json.h:246
+msgctxt "title"
+msgid "KSquares"
+msgstr ""
+
+#: content/Default/apps/content.json.h:247
+msgctxt "subtitle"
+msgid "Dots and boxes game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:248
+msgctxt "description"
+msgid ""
+"KSquares is a game where two players take turns connecting dots on a grid to "
+"complete the most squares."
+msgstr ""
+
+#: content/Default/apps/content.json.h:249
+msgctxt "title"
+msgid "Kapman"
+msgstr ""
+
+#: content/Default/apps/content.json.h:250
+msgctxt "subtitle"
+msgid "Pac-Man clone"
+msgstr ""
+
+#: content/Default/apps/content.json.h:251
+msgctxt "description"
+msgid ""
+"Kapman is a clone of the well known game Pac-Man. You must go through the "
+"levels escaping ghosts in a maze. You lose a life when a ghost eats you, but "
+"you can eat the ghosts for a few seconds when eating an energizer. You win "
+"points when eating pills, energizers, and bonus, and you win one life for "
+"each 10,000 points. When you have eaten all the pills and energizers of a "
+"level, you go to the next level, and the player and ghost speeds increase."
+msgstr ""
+
+#: content/Default/apps/content.json.h:252
+msgctxt "title"
+msgid "Potato Guy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:253
+msgctxt "subtitle"
+msgid "Stamp drawing toy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:261
+msgctxt "title"
+msgid "Kolor Lines"
+msgstr ""
+
+#: content/Default/apps/content.json.h:262
+msgctxt "subtitle"
+msgid "Color lines game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:263
+msgctxt "description"
+msgid ""
+"Kolor Lines is a single-player game where the player removes colored balls "
+"from the board by arranging them into lines of five or more. However, every "
+"time the player moves a ball, three more balls are added to the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:264
+msgctxt "title"
+msgid "KJumpingCube"
+msgstr ""
+
+#: content/Default/apps/content.json.h:265
+msgctxt "subtitle"
+msgid "Simple tactical game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:266
+msgctxt "description"
+msgid ""
+"KJumpingCube is a simple tactical game for one or two players, played on a "
+"grid of numbered squares. Each turn, players compete for control of the "
+"board by capturing or adding to one square."
+msgstr ""
+
+#: content/Default/apps/content.json.h:267
+msgctxt "title"
+msgid "KGoldrunner"
+msgstr ""
+
+#: content/Default/apps/content.json.h:268
+msgctxt "subtitle"
+msgid "Lode Runner arcade game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:269
+msgctxt "description"
+msgid ""
+"KGoldrunner is a fast-paced platform game where the player must navigate a "
+"maze while collecting gold nuggets and avoiding enemies. A variety of level "
+"packs are included, as well as an editor to create new levels."
+msgstr ""
+
+#: content/Default/apps/content.json.h:270
+msgctxt "title"
+msgid "KDiamond"
+msgstr ""
+
+#: content/Default/apps/content.json.h:271
+msgctxt "subtitle"
+msgid "Three-in-a-row game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:272
+msgctxt "description"
+msgid ""
+"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun "
+"with randomly generated games and five difficulty levels with varying number "
+"of diamond colors and board sizes."
+msgstr ""
+
+#: content/Default/apps/content.json.h:273
+msgctxt "title"
+msgid "KBlackBox"
+msgstr ""
+
+#: content/Default/apps/content.json.h:274
+msgctxt "subtitle"
+msgid "Black Box puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:275
+msgctxt "description"
+msgid ""
+"KBlackBox is a game of hide and seek played on an grid of boxes, where the "
+"player shoots rays into the grid to deduce the positions of hidden objects."
+msgstr ""
+
+#: content/Default/apps/content.json.h:276
+msgctxt "title"
+msgid "Kubrick"
+msgstr ""
+
+#: content/Default/apps/content.json.h:277
+msgctxt "subtitle"
+msgid "Game based on Rubik's Cube"
+msgstr ""
+
+#: content/Default/apps/content.json.h:281
+msgctxt "title"
+msgid "Palapeli"
+msgstr ""
+
+#: content/Default/apps/content.json.h:282
+msgctxt "subtitle"
+msgid "Jigsaw puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:286
+msgctxt "title"
+msgid "Kigo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:287
+msgctxt "subtitle"
+msgid "Go game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:288
+msgctxt "description"
+msgid ""
+"Kigo is an open-source implementation of the popular Go game. Go is a "
+"strategic board game for two players. It is also known as igo (Japanese), "
+"weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in "
+"strategic complexity despite its simple rules. The game is played by two "
+"players who alternately place black and white stones (playing pieces, now "
+"usually made of glass or plastic) on the vacant intersections of a grid of "
+"19x19 lines (9x9 or 13x13 for easier games)."
+msgstr ""
+
+#: content/Default/apps/content.json.h:289
+msgctxt "title"
+msgid "KBounce"
+msgstr ""
+
+#: content/Default/apps/content.json.h:290
+msgctxt "subtitle"
+msgid "Jezzball arcade game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:291
+msgctxt "description"
+msgid ""
+"KBounce is a game where the player builds walls to confine a number of "
+"bouncing balls."
+msgstr ""
+
+#: content/Default/apps/content.json.h:292
+msgctxt "title"
+msgid "KSnake"
+msgstr ""
+
+#: content/Default/apps/content.json.h:293
+msgctxt "subtitle"
+msgid "Classical snake action game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:294
+msgctxt "description"
+msgid ""
+"In KSnake you steer a snake which has to eat food. While eating, the snake "
+"grows. But once a player collides with the other snake or the wall, the game "
+"is lost. This becomes, of course, more and more difficult the longer the "
+"snakes grow."
+msgstr ""
+
+#: content/Default/apps/content.json.h:295
+msgctxt "title"
+msgid "KSnakeDuel"
+msgstr ""
+
+#: content/Default/apps/content.json.h:296
+msgctxt "subtitle"
+msgid "Tron-like snakerace game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:297
+msgctxt "description"
+msgid ""
+"The object of the game is to avoid running into walls, your own tail, and "
+"that of your opponent, while at the same time you have to try to get your "
+"opponent to run into them."
+msgstr ""
+
+#: content/Default/apps/content.json.h:298
+msgctxt "title"
+msgid "KSame"
+msgstr ""
+
+#: content/Default/apps/content.json.h:299
+msgctxt "subtitle"
+msgid "SameGame puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:300
+msgctxt "description"
+msgid ""
+"Klickety is a puzzle game where the player removes groups of colored marbles "
+"to clear the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:301
+msgctxt "title"
+msgid "Klickety"
+msgstr ""
+
+#: content/Default/apps/content.json.h:302
+msgctxt "subtitle"
+msgid "Adaptation of Clickomania"
+msgstr ""
+
+#: content/Default/apps/content.json.h:303
+msgctxt "description"
+msgid ""
+"Klickety is an adaptation of the Clickomania game. The rules are similar to "
+"those of the KSame game: your goal is to clear the board by clicking on "
+"groups to destroy them. The overall aim is to get the lowest score possible. "
+"It will provide entertainment for all abilities, but a challenge in logical "
+"thought if you want to get a really low score."
+msgstr ""
+
+#: content/Default/apps/content.json.h:304
+msgctxt "title"
+msgid "KStars"
+msgstr ""
+
+#: content/Default/apps/content.json.h:305
+msgctxt "subtitle"
+msgid "Desktop planetarium for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:306
+msgctxt "description"
+msgid ""
+"KStars is a desktop planetarium for KDE, depicting an accurate graphical "
+"simulation of the night sky, from any location on Earth, at any date and "
+"time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 "
+"planets, the Sun and Moon, and thousands of comets and asteroids. It "
+"includes tools for astronomical calculations and can control telescopes and "
+"cameras."
+msgstr ""
+
+#: content/Default/apps/content.json.h:307
+msgctxt "title"
+msgid "Bovo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:308
+msgctxt "subtitle"
+msgid "Gomoku (five in line) board game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:309
+msgctxt "description"
+msgid ""
+"Bovo is a game where two players take turns placing markers on the board, "
+"the winner being the first to complete a line of five markers."
+msgstr ""
+
+#: content/Default/apps/content.json.h:310
+msgctxt "title"
+msgid "KMines"
+msgstr ""
+
+#: content/Default/apps/content.json.h:311
+msgctxt "subtitle"
+msgid "Minesweeper game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:312
+msgctxt "description"
+msgid ""
+"KMines is a game where the player finds hidden mines without setting them "
+"off."
+msgstr ""
+
+#: content/Default/apps/content.json.h:313
+msgctxt "title"
+msgid "KSudoku"
+msgstr ""
+
+#: content/Default/apps/content.json.h:314
+msgctxt "subtitle"
+msgid "Sudoku puzzle game and solver"
+msgstr ""
+
+#: content/Default/apps/content.json.h:315
+msgctxt "description"
+msgid ""
+"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
+"variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets "
+"and find the solution to any Sudoku puzzle."
+msgstr ""
+
+#: content/Default/apps/content.json.h:316
+msgctxt "title"
+msgid "GCompris Admin"
+msgstr ""
+
+#: content/Default/apps/content.json.h:317
+msgctxt "subtitle"
+msgid "Teacher admin console for GCompris"
+msgstr ""
+
+#: content/Default/apps/content.json.h:318
+msgctxt "description"
+msgid "Run GCompris (EduGames) in administration and user-management mode."
+msgstr ""
+
+#: content/Default/apps/content.json.h:319
+msgctxt "title"
+msgid "KBlocks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:320
+msgctxt "subtitle"
+msgid "Falling blocks game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:321
+msgctxt "description"
+msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
+msgstr ""
+
+#: content/Default/apps/content.json.h:322
+msgctxt "title"
+msgid "Brasero"
+msgstr ""
+
+#: content/Default/apps/content.json.h:323
+msgctxt "subtitle"
+msgid "CD/DVD burning application"
+msgstr ""
+
+#: content/Default/apps/content.json.h:324
+msgctxt "description"
+msgid ""
+"Brasero is a simple application to burn, copy, and erase CD and DVD media: "
+"audio, video, or data."
+msgstr ""
+
+#: content/Default/apps/content.json.h:283
+msgctxt "description"
+msgid ""
+"Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are "
+"not limited to aligning pieces on imaginary grids. The pieces are freely "
+"movable."
+msgstr ""
+
+#: content/Default/apps/content.json.h:278
+msgctxt "description"
+msgid ""
+"Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics "
+"libraries."
+msgstr ""
+
+#: content/Default/apps/content.json.h:254
+msgctxt "description"
+msgid "Potato Guy is a drawing toy for small children with several activities."
+msgstr ""
+
+#: content/Default/apps/content.json.h:234
+msgctxt "description"
+msgid ""
+"KWordQuiz is a general purpose flashcard program, typically used for "
+"vocabulary training."
 msgstr ""

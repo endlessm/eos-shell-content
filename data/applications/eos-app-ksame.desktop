@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KSame
+Comment=SameGame puzzle game
+Type=Application
+Exec=klickety --geometry 1920x1080+0+0 --KSameMode -caption %c
+Icon=eos-app-ksame
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

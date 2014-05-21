@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KStars
+Comment=Desktop planetarium for KDE
+Type=Application
+Exec=kstars -caption %c %i
+Icon=eos-app-kstars
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

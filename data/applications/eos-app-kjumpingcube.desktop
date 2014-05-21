@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KJumpingCube
+Comment=Simple tactical game
+Type=Application
+Exec=kjumpingcube -caption %c
+Icon=eos-app-kjumpingcube
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

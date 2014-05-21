@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KMines
+Name[es]=Minas
+Name[pt]=Campo Minado
+Comment=Minesweeper game
+Type=Application
+Exec=kmines -caption %c
+Icon=eos-app-kmines
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

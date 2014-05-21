@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Killbots
+Comment=Port of the classic BSD console game robots
+Type=Application
+Exec=killbots -caption %c
+Icon=eos-app-killbots
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

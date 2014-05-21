@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KSquares
+Comment=Dots and boxes game
+Type=Application
+Exec=ksquares %i -caption %c
+Icon=eos-app-ksquares
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

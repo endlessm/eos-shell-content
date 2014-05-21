@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KBruch
+Comment=Fraction learning aid for KDE
+Type=Application
+Exec=kbruch -caption %c %i
+Icon=eos-app-kbruch
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

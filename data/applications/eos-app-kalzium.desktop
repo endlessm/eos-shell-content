@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Kalzium
+Comment=Periodic table and chemistry tools
+Type=Application
+Exec=kalzium -caption %c %i
+Icon=eos-app-kalzium
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

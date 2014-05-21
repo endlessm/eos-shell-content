@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Brasero
+Comment=CD/DVD burning application
+Type=Application
+Exec=brasero %U
+Icon=eos-app-brasero
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

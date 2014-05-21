@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Screenshot
+Comment=Take a picture of your screen to save
+Type=Application
+Exec=gnome-screenshot --interactive
+Icon=eos-app-screenshot
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

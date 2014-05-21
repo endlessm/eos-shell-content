@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Potato Guy
+Comment=Stamp drawing toy
+Type=Application
+Exec=ktuberling -caption %c %u
+Icon=eos-app-ktuberling
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

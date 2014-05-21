@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Klickety
+Comment=Adaptation of Clickomania
+Type=Application
+Exec=klickety -caption %c
+Icon=eos-app-klickety
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

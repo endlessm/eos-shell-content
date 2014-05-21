@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KWordQuiz
+Comment=Flashcard learning program
+Type=Application
+Exec=kwordquiz -caption %c %i
+Icon=eos-app-kwordquiz
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true
