@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KHangMan
+Comment=Hangman word puzzle
+Type=Application
+Exec=khangman -caption %c %i
+Icon=eos-app-khangman
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

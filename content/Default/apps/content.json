@@ -2505,14 +2505,22 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
+    "splash-screen-type":"None",
     "custom-splash-screen":"",
     "icon":"screenshot-icon.png",
     "square_img":"screenshot-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "screenshot-screenshot1.jpg"
+      ],
+      "pt":[
+        "screenshot-screenshot1.jpg"
+      ],
+      "es":[
+        "screenshot-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
@@ -2536,9 +2544,23 @@
     "icon":"kgeography-icon.png",
     "square_img":"kgeography-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ],
+      "pt":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ],
+      "es":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -2562,9 +2584,20 @@
     "icon":"kalzium-icon.png",
     "square_img":"kalzium-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ],
+      "pt":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ],
+      "es":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -2588,9 +2621,17 @@
     "icon":"kbruch-icon.png",
     "square_img":"kbruch-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kbruch-screenshot1.jpg"
+      ],
+      "pt":[
+        "kbruch-screenshot1.jpg"
+      ],
+      "es":[
+        "kbruch-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -2614,9 +2655,17 @@
     "icon":"kwordquiz-icon.png",
     "square_img":"kwordquiz-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kwordquiz-screenshot1.jpg"
+      ],
+      "pt":[
+        "kwordquiz-screenshot1.jpg"
+      ],
+      "es":[
+        "kwordquiz-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -2640,9 +2689,17 @@
     "icon":"katomic-icon.png",
     "square_img":"katomic-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "katomic-screenshot1.jpg"
+      ],
+      "pt":[
+        "katomic-screenshot1.jpg"
+      ],
+      "es":[
+        "katomic-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2666,9 +2723,17 @@
     "icon":"knetwalk-icon.png",
     "square_img":"knetwalk-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "knetwalk-screenshot1.jpg"
+      ],
+      "pt":[
+        "knetwalk-screenshot1.jpg"
+      ],
+      "es":[
+        "knetwalk-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2692,9 +2757,17 @@
     "icon":"killbots-icon.png",
     "square_img":"killbots-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "killbots-screenshot1.jpg"
+      ],
+      "pt":[
+        "killbots-screenshot1.jpg"
+      ],
+      "es":[
+        "killbots-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2718,9 +2791,17 @@
     "icon":"ksquares-icon.png",
     "square_img":"ksquares-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ksquares-screenshot1.jpg"
+      ],
+      "pt":[
+        "ksquares-screenshot1.jpg"
+      ],
+      "es":[
+        "ksquares-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2744,9 +2825,20 @@
     "icon":"kapman-icon.png",
     "square_img":"kapman-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
+      ],
+      "pt":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
+      ],
+      "es":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2770,9 +2862,20 @@
     "icon":"ktuberling-icon.png",
     "square_img":"ktuberling-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ktuberling-screenshot1.jpg",
+        "ktuberling-screenshot2.jpg"
+      ],
+      "pt":[
+        "ktuberling-screenshot1.jpg",
+        "ktuberling-screenshot2.jpg"
+      ],
+      "es":[
+        "ktuberling-screenshot1.jpg",
+        "ktuberling-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2796,9 +2899,17 @@
     "icon":"klines-icon.png",
     "square_img":"klines-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "klines-screenshot1.jpg"
+      ],
+      "pt":[
+        "klines-screenshot1.jpg"
+      ],
+      "es":[
+        "klines-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2822,9 +2933,17 @@
     "icon":"kjumpingcube-icon.png",
     "square_img":"kjumpingcube-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kjumpingcube-screenshot1.jpg"
+      ],
+      "pt":[
+        "kjumpingcube-screenshot1.jpg"
+      ],
+      "es":[
+        "kjumpingcube-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2848,9 +2967,17 @@
     "icon":"kgoldrunner-icon.png",
     "square_img":"kgoldrunner-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kgoldrunner-screenshot1.jpg"
+      ],
+      "pt":[
+        "kgoldrunner-screenshot1.jpg"
+      ],
+      "es":[
+        "kgoldrunner-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2874,9 +3001,17 @@
     "icon":"kdiamond-icon.png",
     "square_img":"kdiamond-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kdiamond-screenshot1.jpg"
+      ],
+      "pt":[
+        "kdiamond-screenshot1.jpg"
+      ],
+      "es":[
+        "kdiamond-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2900,9 +3035,17 @@
     "icon":"kblackbox-icon.png",
     "square_img":"kblackbox-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kblackbox-screenshot1.jpg"
+      ],
+      "pt":[
+        "kblackbox-screenshot1.jpg"
+      ],
+      "es":[
+        "kblackbox-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2911,7 +3054,7 @@
     "displayShape":"b1",
     "application-id":"kubrick",
     "desktop-id":"eos-app-kubrick",
-    "exec":"kubrick",
+    "exec":"kubrick --geometry 1920x1080+0+0",
     "tryexec":"",
     "folder":"none",
     "desktop-position":null,
@@ -2926,9 +3069,17 @@
     "icon":"kubrick-icon.png",
     "square_img":"kubrick-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kubrick-screenshot1.jpg"
+      ],
+      "pt":[
+        "kubrick-screenshot1.jpg"
+      ],
+      "es":[
+        "kubrick-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2952,9 +3103,17 @@
     "icon":"palapeli-icon.png",
     "square_img":"palapeli-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "palapeli-screenshot1.jpg"
+      ],
+      "pt":[
+        "palapeli-screenshot1.jpg"
+      ],
+      "es":[
+        "palapeli-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -2978,9 +3137,17 @@
     "icon":"kigo-icon.png",
     "square_img":"kigo-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kigo-screenshot1.jpg"
+      ],
+      "pt":[
+        "kigo-screenshot1.jpg"
+      ],
+      "es":[
+        "kigo-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3004,9 +3171,17 @@
     "icon":"kbounce-icon.png",
     "square_img":"kbounce-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kbounce-screenshot1.jpg"
+      ],
+      "pt":[
+        "kbounce-screenshot1.jpg"
+      ],
+      "es":[
+        "kbounce-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3030,9 +3205,17 @@
     "icon":"ksnake-icon.png",
     "square_img":"ksnake-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ksnake-screenshot1.jpg"
+      ],
+      "pt":[
+        "ksnake-screenshot1.jpg"
+      ],
+      "es":[
+        "ksnake-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3056,9 +3239,17 @@
     "icon":"ksnakeduel-icon.png",
     "square_img":"ksnakeduel-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ksnakeduel-screenshot1.jpg"
+      ],
+      "pt":[
+        "ksnakeduel-screenshot1.jpg"
+      ],
+      "es":[
+        "ksnakeduel-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3082,9 +3273,14 @@
     "icon":"ksame-icon.png",
     "square_img":"ksame-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ksame-screenshot1.jpg"
+      ],
+      "es":[
+        "ksame-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3108,9 +3304,17 @@
     "icon":"klickety-icon.png",
     "square_img":"klickety-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "klickety-screenshot1.jpg"
+      ],
+      "pt":[
+        "klickety-screenshot1.jpg"
+      ],
+      "es":[
+        "klickety-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3134,9 +3338,17 @@
     "icon":"kstars-icon.png",
     "square_img":"kstars-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kstars-screenshot1.jpg"
+      ],
+      "pt":[
+        "kstars-screenshot1.jpg"
+      ],
+      "es":[
+        "kstars-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -3160,9 +3372,17 @@
     "icon":"bovo-icon.png",
     "square_img":"bovo-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "bovo-screenshot1.jpg"
+      ],
+      "pt":[
+        "bovo-screenshot1.jpg"
+      ],
+      "es":[
+        "bovo-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3186,9 +3406,17 @@
     "icon":"kmines-icon.png",
     "square_img":"kmines-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kmines-screenshot1.jpg"
+      ],
+      "pt":[
+        "kmines-screenshot1.jpg"
+      ],
+      "es":[
+        "kmines-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3212,9 +3440,20 @@
     "icon":"ksudoku-icon.png",
     "square_img":"ksudoku-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "ksudoku-screenshot1.jpg",
+        "ksudoku-screenshot2.jpg"
+      ],
+      "pt":[
+        "ksudoku-screenshot1.jpg",
+        "ksudoku-screenshot2.jpg"
+      ],
+      "es":[
+        "ksudoku-screenshot1.jpg",
+        "ksudoku-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3238,9 +3477,17 @@
     "icon":"gcompris-admin-icon.png",
     "square_img":"gcompris-admin-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "gcompris-admin-screenshot1.jpg"
+      ],
+      "pt":[
+        "gcompris-admin-screenshot1.jpg"
+      ],
+      "es":[
+        "gcompris-admin-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
@@ -3264,9 +3511,20 @@
     "icon":"kblocks-icon.png",
     "square_img":"kblocks-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
+      ],
+      "pt":[
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
+      ],
+      "es":[
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
@@ -3290,11 +3548,53 @@
     "icon":"brasero-icon.png",
     "square_img":"brasero-thumb.jpg",
     "featured_img":"",
-    "screenshots":[
-      
-    ],
+    "screenshots":{
+      "C":[
+        "brasero-screenshot1.jpg"
+      ],
+      "pt":[
+        "brasero-screenshot1.jpg"
+      ],
+      "es":[
+        "brasero-screenshot1.jpg"
+      ]
+    },
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"khangman",
+    "desktop-id":"eos-app-khangman",
+    "exec":"khangman -caption %c %i",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"KHangMan",
+    "subtitle":"Hangman word puzzle",
+    "description":"KHangMan is the well-known Hangman game, aimed towards children aged 6 and above.\r\n\r\nIt picks a random word which the player must reveal by guessing if it contains certain letters. As the player guesses letters, the word is gradually revealed, but 10 wrong guesses will end the game.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"khangman-icon.png",
+    "square_img":"khangman-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "khangman-screenshot1.jpg"
+      ],
+      "pt":[
+        "khangman-screenshot1.jpg"
+      ],
+      "es":[
+        "khangman-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
   }
 ]

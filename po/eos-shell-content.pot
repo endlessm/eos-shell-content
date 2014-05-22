@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-05-20 14:42-0700\n"
+"POT-Creation-Date: 2014-05-21 23:43-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2035,6 +2035,23 @@ msgctxt "description"
 msgid ""
 "Brasero is a simple application to burn, copy, and erase CD and DVD media: "
 "audio, video, or data."
+msgstr ""
+
+#: content/Default/apps/content.json.h:325
+msgctxt "title"
+msgid "KHangMan"
+msgstr ""
+
+#: content/Default/apps/content.json.h:326
+msgctxt "subtitle"
+msgid "Hangman word puzzle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:327
+msgctxt "description"
+msgid ""
+"KHangMan is the well-known Hangman game, aimed towards children aged 6 and "
+"above."
 msgstr ""
 
 #: content/Default/apps/content.json.h:283
