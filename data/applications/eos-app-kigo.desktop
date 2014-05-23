@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Kigo
+Name[es]=Un juego de estrategia espectacular
 Comment=Go game
+Comment[es]=Un juego vigorizante
 Type=Application
 Exec=kigo %i -caption %c
 Icon=eos-app-kigo

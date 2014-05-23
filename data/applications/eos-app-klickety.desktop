@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Klickety
+Name[es]=Clic Clic
 Comment=Adaptation of Clickomania
+Comment[es]=Destruye grupos y mantén tus puntos bajos para ganar
 Type=Application
 Exec=klickety -caption %c
 Icon=eos-app-klickety

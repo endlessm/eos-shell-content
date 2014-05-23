@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KBruch
+Name[es]=Fracciones
 Comment=Fraction learning aid for KDE
+Comment[es]=Ayuda para aprender sobre las fracciones
 Type=Application
 Exec=kbruch -caption %c %i
 Icon=eos-app-kbruch

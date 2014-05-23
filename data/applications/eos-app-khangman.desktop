@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KHangMan
+Name[es]=Vocabulario
 Comment=Hangman word puzzle
+Comment[es]=Un juego educativo para niños 6+
 Type=Application
 Exec=khangman -caption %c %i
 Icon=eos-app-khangman

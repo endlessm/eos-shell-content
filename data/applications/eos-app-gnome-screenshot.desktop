@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Screenshot
+Name[es]=Captura de pantalla
 Comment=Take a picture of your screen to save
+Comment[es]=Toma una foto de tu pantalla y guárdala
 Type=Application
 Exec=gnome-screenshot --interactive
 Icon=eos-app-screenshot

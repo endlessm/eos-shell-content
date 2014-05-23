@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KSudoku
-Name[es]=Sudoku
-Name[pt]=Sudoku
+Name[es]=Soduko
 Comment=Sudoku puzzle game and solver
+Comment[es]=Juego de Sudoku
 Type=Application
 Exec=ksudoku %i -caption %c
 Icon=eos-app-ksudoku

@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KSnakeDuel
+Name[es]=DueloSSS
 Comment=Tron-like snakerace game
+Comment[es]=Un juego de arcade tipo Tron 
 Type=Application
 Exec=ktron -caption %c %i
 Icon=eos-app-ksnakeduel

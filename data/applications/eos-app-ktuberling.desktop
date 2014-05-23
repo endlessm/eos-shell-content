@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Potato Guy
+Name[es]=Sr. Patata
 Comment=Stamp drawing toy
+Comment[es]=Juego para dibujar y usar estampillas
 Type=Application
 Exec=ktuberling -caption %c %u
 Icon=eos-app-ktuberling
