@@ -16,8 +16,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-05-21 23:43-0700\n"
-"PO-Revision-Date: 2014-05-23 05:40+0000\n"
+"POT-Creation-Date: 2014-05-23 10:58-0700\n"
+"PO-Revision-Date: 2014-05-23 18:01+0000\n"
 "Last-Translator: rshuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -1605,53 +1605,63 @@ msgstr "VocaTarjetas"
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Flashcard learning program"
-msgstr "Programa para aprender usando tarjetas educativas"
+msgstr "Programa para aprender usando tarjetas virtuales"
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:234
+msgctxt "description"
+msgid ""
+"KWordQuiz is a general purpose flashcard program, typically used for "
+"vocabulary training. KWordQuiz can open vocabulary data in various formats, "
+"including the kvtml format used by KDE programs such as Parley, the WQL "
+"format used by WordQuiz for Windows, the xml.gz format used by Pauker, and "
+"CSV text."
+msgstr "Crea tarjetas virtuales de vocabulario para ayudarte a aprender nuevas palabras or tarjetas de datos que necesitas memorizar. Esta app les será demasiado útil a estudiantes, y es muy fácil de usar."
+
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "KAtomic"
 msgstr "Átomos"
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Atomix puzzle game"
 msgstr "Aprende sobre átomos y moléculas con este juego increíble "
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "KAtomic is a puzzle game in which the player slides atoms around the board "
 "to assemble a molecule."
 msgstr "En este juego debes mover los átomos para poder formar diferentes moléculas. "
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "Cables"
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "Wire puzzle game"
 msgstr "Cables y rompecabezas"
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "KNetwalk is a puzzle game where the player arranges sections of wire to "
 "connect all the computers on the board."
 msgstr "En este juego debes conectar diferentes cables para poder formar una conexión entre las computadoras que aparecen en tu pantalla."
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Killbots"
 msgstr "BotsAsesinos"
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Port of the classic BSD console game robots"
 msgstr "Un juego de robots asesinos"
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "Killbots is a simple game of evading killer robots. The robots are numerous "
@@ -1662,34 +1672,34 @@ msgid ""
 "of mindless automatons."
 msgstr "En este juego simple tienes que escaparte de robots. Son asesinos que tienen un solo objetivo: destruirte. Afortunadamente, su creador se enfocó en crear muchos en vez de crearlos de buena calidad. Tu inteligencia superior y un aparato de teletransporte te ayudarán a combatir estos robots."
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "KSquares"
 msgstr "Cuadrados"
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "Dots and boxes game"
 msgstr "Juego de puntos y cuadrados"
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "KSquares is a game where two players take turns connecting dots on a grid to"
 " complete the most squares."
 msgstr "En este juego dos personas se toman turnos en conectar puntos de una cuadrícula para completar cuadrados. "
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "Kapman"
 msgstr "PacMan II"
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Pac-Man clone"
 msgstr "Clon de Pac-Man"
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Kapman is a clone of the well known game Pac-Man. You must go through the "
@@ -1700,27 +1710,37 @@ msgid ""
 "level, you go to the next level, and the player and ghost speeds increase."
 msgstr "Esta app es un clon del famoso Pac-Man. Tienes que avanzar por los diferentes niveles mientras que te escapes de los fantasmas en cada laberinto. Puedes ganar puntos, recuperar vida o tener más energía si pasas sobre las pastillas que aparecen en tu pantalla. "
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "Sr. Patata"
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Stamp drawing toy"
 msgstr "Juego para dibujar y usar estampillas"
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:252
+msgctxt "description"
+msgid ""
+"Potato Guy is a drawing toy for small children with several activities. Give"
+" the potato a funny face, clothes, and other goodies. Build a small town, "
+"complete with school, zoo, and fire department. Create a fantastic moonscape"
+" with spaceships and aliens. Potato Guy can speak the name of each the "
+"object in several languages, to assist in learning basic vocabulary."
+msgstr "Este juego esta diseñado para niños pequeños. Dibuja, usa estampillas, y colorea en este mundo para crear una obra de arte inolvidable."
+
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "LíneasBonitas"
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "Color lines game"
 msgstr "Colorea y dibuja lo que más se te ocurra "
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Kolor Lines is a single-player game where the player removes colored balls "
@@ -1728,17 +1748,17 @@ msgid ""
 "time the player moves a ball, three more balls are added to the board."
 msgstr "En esta app un jugador tiene que organizar pelotas de un color en líneas de cinco o más. Cada vez que se mueve una pelota, aparecen tres más."
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "CuboSaltador"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Simple tactical game"
 msgstr "Juego táctico y simple"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "KJumpingCube is a simple tactical game for one or two players, played on a "
@@ -1746,17 +1766,17 @@ msgid ""
 "board by capturing or adding to one square."
 msgstr "Esta app es un juego táctico y simple para un o para dos jugadores. Cada persona se turna para tomar control completo del juego."
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "Minero de Oro"
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "Lode Runner arcade game"
 msgstr "Un juego de arcade demasiado divertido"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "KGoldrunner is a fast-paced platform game where the player must navigate a "
@@ -1764,17 +1784,17 @@ msgid ""
 "packs are included, as well as an editor to create new levels."
 msgstr "¡Navega por varios laberintos para encontrar oro y hacerte el más poderoso del terreno!"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "KDiamond"
 msgstr "Diamantes"
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Three-in-a-row game"
 msgstr "Juego de tres en fila"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun "
@@ -1782,54 +1802,54 @@ msgid ""
 " of diamond colors and board sizes."
 msgstr "Este juego es realmente adictivo. ¡Trata de alinear a tres joyas para ganar puntos y seguir en el juego!"
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "KBlackBox"
 msgstr "CajaNegra"
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Black Box puzzle game"
 msgstr "Un rompecabezas divertidísimo "
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "KBlackBox is a game of hide and seek played on an grid of boxes, where the "
 "player shoots rays into the grid to deduce the positions of hidden objects."
 msgstr "En esta app el jugador tiene que disparar rayos a la cuadrícula para poder deducir las posiciones de los objetos escondidos. "
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Kubrick"
 msgstr "CuboRubik"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "Game based on Rubik's Cube"
 msgstr "Juego basado en el Cubo de Rubik"
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:273
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Rompecabezas"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:274
 msgctxt "subtitle"
 msgid "Jigsaw puzzle game"
 msgstr "Un rompecabezas como nunca haz jugado"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:278
 msgctxt "title"
 msgid "Kigo"
 msgstr "Go"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:279
 msgctxt "subtitle"
 msgid "Go game"
 msgstr "Un juego vigorizante"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:280
 msgctxt "description"
 msgid ""
 "Kigo is an open-source implementation of the popular Go game. Go is a "
@@ -1841,34 +1861,34 @@ msgid ""
 "19x19 lines (9x9 or 13x13 for easier games)."
 msgstr "¿Te gusta la estrategia? Encuentra a un adversario formidable y prepárate para horas de entretenimiento. "
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:281
 msgctxt "title"
 msgid "KBounce"
 msgstr "Rebote"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:282
 msgctxt "subtitle"
 msgid "Jezzball arcade game"
 msgstr "Juego de paredes y rebotes"
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:283
 msgctxt "description"
 msgid ""
 "KBounce is a game where the player builds walls to confine a number of "
 "bouncing balls."
 msgstr "Esta es una app donde el jugador tiene que construir paredes para contener las pelotas que rebotan."
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:284
 msgctxt "title"
 msgid "KSnake"
 msgstr "Serpientes"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:285
 msgctxt "subtitle"
 msgid "Classical snake action game"
 msgstr "Juego clásico de acción con una serpiente"
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:286
 msgctxt "description"
 msgid ""
 "In KSnake you steer a snake which has to eat food. While eating, the snake "
@@ -1877,17 +1897,17 @@ msgid ""
 "snakes grow."
 msgstr "En este juego tienes que guiar una serpiente hacia su comida. Al comer, la serpiente crece. Si el jugador choca contra otra serpiente o contra la pared, el juego se acaba. "
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:287
 msgctxt "title"
 msgid "KSnakeDuel"
 msgstr "DueloSSS"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:288
 msgctxt "subtitle"
 msgid "Tron-like snakerace game"
 msgstr "Un juego de arcade tipo Tron "
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:289
 msgctxt "description"
 msgid ""
 "The object of the game is to avoid running into walls, your own tail, and "
@@ -1895,34 +1915,34 @@ msgid ""
 "opponent to run into them."
 msgstr "El objetivo de este juego es evitar chocar contra paredes, tu cola o la cola de tu oponente. A la misma vez, tienes que hacer que tu oponente se choque."
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:290
 msgctxt "title"
 msgid "KSame"
 msgstr "Mismos"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:291
 msgctxt "subtitle"
 msgid "SameGame puzzle game"
 msgstr "Un juego de rompecabezas y estrategia "
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:292
 msgctxt "description"
 msgid ""
 "Klickety is a puzzle game where the player removes groups of colored marbles"
 " to clear the board."
 msgstr "En esta app de rompecabezas el jugador quita grupos de canicas de diferentes colores para poder despejar la pantalla."
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:293
 msgctxt "title"
 msgid "Klickety"
 msgstr "Clic Clic"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:294
 msgctxt "subtitle"
 msgid "Adaptation of Clickomania"
 msgstr "Destruye grupos y mantén tus puntos bajos para ganar"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:295
 msgctxt "description"
 msgid ""
 "Klickety is an adaptation of the Clickomania game. The rules are similar to "
@@ -1932,17 +1952,17 @@ msgid ""
 " thought if you want to get a really low score."
 msgstr "En éste juego, en lugar de tratar de ganar más puntos, tienes que tratar de perder puntos. O más bien, de no ganar ningunos puntos. Haz clic en grupos para destruirlos y mantener tus puntos lo más bajo posible. "
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:296
 msgctxt "title"
 msgid "KStars"
 msgstr "Estrellitas"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:297
 msgctxt "subtitle"
 msgid "Desktop planetarium for KDE"
 msgstr "Planetario en tu propia computadora."
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:298
 msgctxt "description"
 msgid ""
 "KStars is a desktop planetarium for KDE, depicting an accurate graphical "
@@ -1953,51 +1973,51 @@ msgid ""
 "cameras."
 msgstr "¿Te gustan los planetas y el espacio exterior? Ahora puedes tener tu propio planetario y enseñarles las estrellas, planetas y entidades espaciales a toda tu familia y a tus amigos - ¡sin tener que ser una astronauta con to propia nave espacial!"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:299
 msgctxt "title"
 msgid "Bovo"
 msgstr "Cinco"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:300
 msgctxt "subtitle"
 msgid "Gomoku (five in line) board game"
 msgstr "Un juego de mesa virtual"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:301
 msgctxt "description"
 msgid ""
 "Bovo is a game where two players take turns placing markers on the board, "
 "the winner being the first to complete a line of five markers."
 msgstr "En esta app dos personas se turnan para poner marcadores en el juego, y la primera persona que pone una fila de cinco marcadores seguidos gana. "
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:302
 msgctxt "title"
 msgid "KMines"
 msgstr "Minas"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:303
 msgctxt "subtitle"
 msgid "Minesweeper game"
 msgstr "Evita las minas para ganar en este juego adictivo"
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:304
 msgctxt "description"
 msgid ""
 "KMines is a game where the player finds hidden mines without setting them "
 "off."
 msgstr "Esta es una app donde el jugador tiene que encontrar las minas escondidas sin detonarlas. "
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:305
 msgctxt "title"
 msgid "KSudoku"
 msgstr "Soduko"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:306
 msgctxt "subtitle"
 msgid "Sudoku puzzle game and solver"
 msgstr "Juego de Sudoku"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:307
 msgctxt "description"
 msgid ""
 "KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
@@ -2005,71 +2025,73 @@ msgid ""
 "and find the solution to any Sudoku puzzle."
 msgstr "¡Si te gusta divertirte mientras mejores tus facultades mentales, este juego de Soduko es para ti! "
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:308
 msgctxt "title"
 msgid "GCompris Admin"
 msgstr "EduJuegos"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:309
 msgctxt "subtitle"
 msgid "Teacher admin console for GCompris"
 msgstr "Consola administrativa para maestros usando GCompris. "
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:310
 msgctxt "description"
 msgid "Run GCompris (EduGames) in administration and user-management mode."
 msgstr "Juegos educativos para niños de todos edades"
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:311
 msgctxt "title"
 msgid "KBlocks"
 msgstr "Bloques"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:312
 msgctxt "subtitle"
 msgid "Falling blocks game"
 msgstr "Juego de bloques que caen."
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:313
 msgctxt "description"
 msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
 msgstr "Un juego como Tetris donde bloques que caen para formar un rompecabezas."
 
-#: content/Default/apps/content.json.h:322
+#: content/Default/apps/content.json.h:314
 msgctxt "title"
 msgid "Brasero"
 msgstr "Graba Discos"
 
-#: content/Default/apps/content.json.h:323
+#: content/Default/apps/content.json.h:315
 msgctxt "subtitle"
 msgid "CD/DVD burning application"
 msgstr "App para grabar CD y DVD"
 
-#: content/Default/apps/content.json.h:324
+#: content/Default/apps/content.json.h:316
 msgctxt "description"
 msgid ""
 "Brasero is a simple application to burn, copy, and erase CD and DVD media: "
 "audio, video, or data."
 msgstr "Brasero es una app simple para grabar, copear, y borrar medios digitales en CD y DVD: de auto, video o información."
 
-#: content/Default/apps/content.json.h:325
+#: content/Default/apps/content.json.h:317
 msgctxt "title"
 msgid "KHangMan"
 msgstr "Vocabulario"
 
-#: content/Default/apps/content.json.h:326
+#: content/Default/apps/content.json.h:318
 msgctxt "subtitle"
 msgid "Hangman word puzzle"
 msgstr "Un juego educativo para niños 6+"
 
-#: content/Default/apps/content.json.h:327
+#: content/Default/apps/content.json.h:319
 msgctxt "description"
 msgid ""
 "KHangMan is the well-known Hangman game, aimed towards children aged 6 and "
-"above."
-msgstr "Este juego es perfecto para niños de 6+, y aunque es educativo, ¡es demasiado divertido y adictivo! Trata de adivinar la palabra, letra por letra, para ganar."
+"above. It picks a random word which the player must reveal by guessing if it"
+" contains certain letters. As the player guesses letters, the word is "
+"gradually revealed, but 10 wrong guesses will end the game."
+msgstr "Adivina la palabra para ganar en este juego divertido hecho para niños de 6+ años. Empieza por adivinar letras hasta que puedas adivinar la palabra - ¿que tan rápido las puedes adivinar? Si fallas 10 veces, perderás y necesitarás tratar de nuevo. ¡Mejora tu vocabulario mientras te diviertes por horas!"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:275
 msgctxt "description"
 msgid ""
 "Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are "
@@ -2077,22 +2099,9 @@ msgid ""
 "movable."
 msgstr "Este es un rompecabezas donde puedes mover las piezas por toda la pantalla para crear la imagen."
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics "
 "libraries."
 msgstr "Este es un juego basado en el Cubo de Rubik."
-
-#: content/Default/apps/content.json.h:254
-msgctxt "description"
-msgid ""
-"Potato Guy is a drawing toy for small children with several activities."
-msgstr "Esta app es un juego para que niños pequeños dibujen y hagan diferentes actividades. "
-
-#: content/Default/apps/content.json.h:234
-msgctxt "description"
-msgid ""
-"KWordQuiz is a general purpose flashcard program, typically used for "
-"vocabulary training."
-msgstr "Esta es una app para crear tarjetas educativas que típicamente son usadas para practicar vocabulario. "
