@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Marble
+Comment=Globe and map widget
+Type=Application
+Exec=marble %F
+Icon=eos-app-marble
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

@@ -3596,5 +3596,399 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"marsshooter",
+    "desktop-id":"eos-app-mars",
+    "exec":"mars",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"M.A.R.S.",
+    "subtitle":"Ridiculous space shooter governed by the laws of gravity",
+    "description":"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, a stunning amount of particles and shader support. It offers single- and multiplayer gameplay, many impressive weapons and specials and customizable ships. In the year 3547 civilizations across the galaxy have settled their own planets, living in peace and harmony with its environment. But outside the placid habitats, the GREAT WAR is raging. As a famous fighter on your way to never ending honor and prosperity, you have to protect your planet from the imminent doom of your jealous neighbors!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"marsshooter-icon.png",
+    "square_img":"marsshooter-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "marsshooter-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"extremetuxracer",
+    "desktop-id":"eos-app-extremetuxracer",
+    "exec":"etracer",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Tux Racer",
+    "subtitle":"3D racing game featuring Tux, the Linux penguin",
+    "description":"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL racing game featuring Tux, the Linux mascot. The goal of the game is to slide down a snow- and ice-covered mountain as quickly as possible, avoiding the trees and rocks that will slow you down. Collect herrings and other goodies while sliding down the hill, but avoid fish bones. This game is based on the GPL version of the famous game TuxRacer.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"extremetuxracer-icon.png",
+    "square_img":"extremetuxracer-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "extremetuxracer-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"xmoto",
+    "desktop-id":"eos-app-xmoto",
+    "exec":"xmoto",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"X-Moto",
+    "subtitle":"2D motocross platform game",
+    "description":"X-Moto is a challenging 2D motocross platform game, where physics play an all important role in the gameplay. You need to control your bike to its limit, if you want to have a chance finishing the more difficult of the challenges.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"xmoto-icon.png",
+    "square_img":"xmoto-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "xmoto-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ri-li",
+    "desktop-id":"eos-app-ri-li",
+    "exec":"ri-li",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Ri-Li",
+    "subtitle":"Toy train simulation game",
+    "description":"Ri-li is a game in which you drive a wooden toy steam locomotive across many levels and collect all the coaches to win.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ri-li-icon.png",
+    "square_img":"ri-li-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "ri-li-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"tuxfootball",
+    "desktop-id":"eos-app-tuxfootball",
+    "exec":"tuxfootball",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Tux Football",
+    "subtitle":"Great 2D soccer (sometimes called football) game",
+    "description":"It's bringing old style gameplay from DOS times back to the desktop with up to date graphics! Its gameplay is similar to old classics such as Amco's Kick Off and Sensible Software's Sensible Soccer. The gameplay is designed to be quick, responsive and fun. You are always in control of the player closest to the ball. The ball is controlled via two different kick buttons - one for pass, and one for shoot. Aftertouch can be applied to shots by quickly pressing and holding the direction you want the ball to bend towards. Pushing in the opposite direction to what you kicked the ball makes it raise into the air, pushing in the same direction as the ball makes it dip towards the ground.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxfootball-icon.png",
+    "square_img":"tuxfootball-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "tuxfootball-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"tuxpuck",
+    "desktop-id":"eos-app-tuxpuck",
+    "exec":"tuxpuck",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Tux Puck",
+    "subtitle":"Air hockey game for single players",
+    "description":"TuxPuck is an air hockey game and clone of the Amiga\/Atari ST game Shufflepuck Caf\u00e9. The player moves a bat around a table and tries to knock the puck past the opponent's defense. After either party has reached 15 points, the match is over.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxpuck-icon.png",
+    "square_img":"tuxpuck-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "tuxpuck-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"torcs",
+    "desktop-id":"eos-app-torcs",
+    "exec":"torcs",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"TORCS",
+    "subtitle":"3D racing cars simulator game using OpenGL",
+    "description":"TORCS, The Open Racing Car Simulator is a car racing simulation game which allows you to drive in races against opponents simulated by the computer. You can also develop your own computer-controlled driver (also called a robot) in C or C++. TORCS is GPL (version 2 or later).",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"torcs-icon.png",
+    "square_img":"torcs-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "torcs-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"marble",
+    "desktop-id":"eos-app-marble",
+    "exec":"marble %F",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Marble",
+    "subtitle":"Globe and map widget",
+    "description":"Marble is a generic geographical map widget and framework for KDE applications. The Marble widget shows the earth as a sphere but does not require hardware acceleration. A minimal set of geographical data is included, so it can be used without an internet connection.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"marble-icon.png",
+    "square_img":"marble-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "marble-screenshot1.jpg",
+        "marble-screenshot2.jpg",
+        "marble-screenshot3.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"atanks",
+    "desktop-id":"eos-app-atanks",
+    "exec":"atanks",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Atomic Tanks",
+    "subtitle":"Tank-battling game",
+    "description":"Atomic tanks is a multi-player game in which you attempt to destroy other tanks while trying to protect your own. You earn money for destroying other tanks; with this money you can buy upgrades and better weapons for your tank. This game is similar Scorched Earth or the Worms series of games.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"atanks-icon.png",
+    "square_img":"atanks-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "atanks-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"warzone2100",
+    "desktop-id":"eos-app-warzone2100",
+    "exec":"warzone2100",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Warzone 2100",
+    "subtitle":"3D real time strategy game",
+    "description":"In Warzone 2100 you command the forces of \u201cThe Project\u201d in a battle to rebuild the world after mankind has almost been destroyed by nuclear missiles. The game offers campaign, tutorial, multi-player and single-player skirmish modes. An extensive tech tree with over 400 different technologies, combined with the unit design system, allows for a wide variety of possible units and tactics. Warzone 2100 was created by Pumpkin Studios, published by Eidos Interactive and is currently developed by the Warzone 2100 Project.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"warzone2100-icon.png",
+    "square_img":"warzone2100-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "warzone2100-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"minetest",
+    "desktop-id":"eos-app-minetest",
+    "exec":"minetest",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Minetest",
+    "subtitle":"Multiplayer infinite-world block sandbox",
+    "description":"Minetest is a minecraft-inspired game written from scratch and licensed under the LGPL (version 2.1 or later). It supports both survival and creative modes along with multiplayer support, dynamic lighting, and an \"infinite\" map generator.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"minetest-icon.png",
+    "square_img":"minetest-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "minetest-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"wesnoth",
+    "desktop-id":"eos-app-wesnoth-1.11",
+    "exec":"wesnoth-1.11-nolog",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Wesnoth",
+    "subtitle":"Fantasy turn-based strategy game",
+    "description":"Battle for control of villages, using variety of units which have advantages and disadvantages in different types of terrains and against different types of attacks. Units gain experience and advance levels, and are carried over from one scenario to the next in a campaign.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"wesnoth-icon.png",
+    "square_img":"wesnoth-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "wesnoth-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"slingshot",
+    "desktop-id":"eos-app-slingshot",
+    "exec":"slingshot",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Slingshot",
+    "subtitle":"Simple 2D shooting strategy game set in space, with gravity",
+    "description":"Slingshot is a two dimensional, turn based simulation-strategy game set in the gravity fields of several planets. It is a highly addictive game, and never the same from round to round due to its randomly generated playing fields. It is a deceptively simple game, the goal is to shoot the other spacecraft through the field of planets, but their gravity makes it tricky. The effects of the gravity mean that although it is easy to learn how to play, and to enjoy playing, it could take a lifetime to thoroughly master.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"slingshot-icon.png",
+    "square_img":"slingshot-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "slingshot-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"warmux",
+    "desktop-id":"eos-app-warmux",
+    "exec":"warmux",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Warmux",
+    "subtitle":"Turn-based artillery game on 2D maps",
+    "description":"WarMUX is a free game in the genre of turn-based artillery games like Scorched Earth or Worms. Several players can play together, either locally or over the network. It is also possible to compete against computer-driven teams. The teams are styled after the mascots of various free software projects.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"warmux-icon.png",
+    "square_img":"warmux-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "warmux-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
   }
 ]
