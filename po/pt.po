@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# joelmx <joel@endlessm.com>, 2014
-# joelmx <joel@endlessm.com>, 2013
-# nsanchez <ns@endlessm.com>, 2013
-# nsanchez <ns@endlessm.com>, 2013
-# RenatoP <renato@endlessm.com>, 2013
-# rshuler <roddy@endlessm.com>, 2013-2014
-# rshuler <roddy@endlessm.com>, 2013
+# Joel Gil Leon <joel@endlessm.com>, 2014
+# Joel Gil Leon <joel@endlessm.com>, 2013
+# Nuritzi Sanchez <ns@endlessm.com>, 2013
+# Nuritzi Sanchez <ns@endlessm.com>, 2013
+# Renato Peixoto Pinto <renato@endlessm.com>, 2013
+# Roddy Shuler <roddy@endlessm.com>, 2013-2014
+# Roddy Shuler <roddy@endlessm.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-05-23 10:58-0700\n"
-"PO-Revision-Date: 2014-05-23 17:58+0000\n"
-"Last-Translator: rshuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2014-06-05 08:56-0700\n"
+"PO-Revision-Date: 2014-06-05 16:18+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/eos-shell-content/language/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2087,6 +2087,329 @@ msgid ""
 "above. It picks a random word which the player must reveal by guessing if it"
 " contains certain letters. As the player guesses letters, the word is "
 "gradually revealed, but 10 wrong guesses will end the game."
+msgstr ""
+
+#: content/Default/apps/content.json.h:320
+msgctxt "title"
+msgid "M.A.R.S."
+msgstr ""
+
+#: content/Default/apps/content.json.h:321
+msgctxt "subtitle"
+msgid "Ridiculous space shooter governed by the laws of gravity"
+msgstr ""
+
+#: content/Default/apps/content.json.h:322
+msgctxt "description"
+msgid ""
+"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, "
+"a stunning amount of particles and shader support. It offers single- and "
+"multiplayer gameplay, many impressive weapons and specials and customizable "
+"ships. In the year 3547 civilizations across the galaxy have settled their "
+"own planets, living in peace and harmony with its environment. But outside "
+"the placid habitats, the GREAT WAR is raging. As a famous fighter on your "
+"way to never ending honor and prosperity, you have to protect your planet "
+"from the imminent doom of your jealous neighbors!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:323
+msgctxt "title"
+msgid "Tux Racer"
+msgstr ""
+
+#: content/Default/apps/content.json.h:324
+msgctxt "subtitle"
+msgid "3D racing game featuring Tux, the Linux penguin"
+msgstr ""
+
+#: content/Default/apps/content.json.h:325
+msgctxt "description"
+msgid ""
+"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL "
+"racing game featuring Tux, the Linux mascot. The goal of the game is to "
+"slide down a snow- and ice-covered mountain as quickly as possible, avoiding"
+" the trees and rocks that will slow you down. Collect herrings and other "
+"goodies while sliding down the hill, but avoid fish bones. This game is "
+"based on the GPL version of the famous game TuxRacer."
+msgstr ""
+
+#: content/Default/apps/content.json.h:326
+msgctxt "title"
+msgid "X-Moto"
+msgstr ""
+
+#: content/Default/apps/content.json.h:327
+msgctxt "subtitle"
+msgid "2D motocross platform game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:328
+msgctxt "description"
+msgid ""
+"X-Moto is a challenging 2D motocross platform game, where physics play an "
+"all important role in the gameplay. You need to control your bike to its "
+"limit, if you want to have a chance finishing the more difficult of the "
+"challenges."
+msgstr ""
+
+#: content/Default/apps/content.json.h:329
+msgctxt "title"
+msgid "Ri-Li"
+msgstr ""
+
+#: content/Default/apps/content.json.h:330
+msgctxt "subtitle"
+msgid "Toy train simulation game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:331
+msgctxt "description"
+msgid ""
+"Ri-li is a game in which you drive a wooden toy steam locomotive across many"
+" levels and collect all the coaches to win."
+msgstr ""
+
+#: content/Default/apps/content.json.h:332
+msgctxt "title"
+msgid "Tux Football"
+msgstr ""
+
+#: content/Default/apps/content.json.h:333
+msgctxt "subtitle"
+msgid "Great 2D soccer (sometimes called football) game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:334
+msgctxt "description"
+msgid ""
+"It's bringing old style gameplay from DOS times back to the desktop with up "
+"to date graphics! Its gameplay is similar to old classics such as Amco's "
+"Kick Off and Sensible Software's Sensible Soccer. The gameplay is designed "
+"to be quick, responsive and fun. You are always in control of the player "
+"closest to the ball. The ball is controlled via two different kick buttons -"
+" one for pass, and one for shoot. Aftertouch can be applied to shots by "
+"quickly pressing and holding the direction you want the ball to bend "
+"towards. Pushing in the opposite direction to what you kicked the ball makes"
+" it raise into the air, pushing in the same direction as the ball makes it "
+"dip towards the ground."
+msgstr ""
+
+#: content/Default/apps/content.json.h:335
+msgctxt "title"
+msgid "Tux Puck"
+msgstr ""
+
+#: content/Default/apps/content.json.h:336
+msgctxt "subtitle"
+msgid "Air hockey game for single players"
+msgstr ""
+
+#: content/Default/apps/content.json.h:337
+msgctxt "description"
+msgid ""
+"TuxPuck is an air hockey game and clone of the Amiga/Atari ST game "
+"Shufflepuck Café. The player moves a bat around a table and tries to knock "
+"the puck past the opponent's defense. After either party has reached 15 "
+"points, the match is over."
+msgstr ""
+
+#: content/Default/apps/content.json.h:338
+msgctxt "title"
+msgid "TORCS"
+msgstr ""
+
+#: content/Default/apps/content.json.h:339
+msgctxt "subtitle"
+msgid "3D racing cars simulator game using OpenGL"
+msgstr ""
+
+#: content/Default/apps/content.json.h:340
+msgctxt "description"
+msgid ""
+"TORCS, The Open Racing Car Simulator is a car racing simulation game which "
+"allows you to drive in races against opponents simulated by the computer. "
+"You can also develop your own computer-controlled driver (also called a "
+"robot) in C or C++. TORCS is GPL (version 2 or later)."
+msgstr ""
+
+#: content/Default/apps/content.json.h:341
+msgctxt "title"
+msgid "Marble"
+msgstr ""
+
+#: content/Default/apps/content.json.h:342
+msgctxt "subtitle"
+msgid "Globe and map widget"
+msgstr ""
+
+#: content/Default/apps/content.json.h:343
+msgctxt "description"
+msgid ""
+"Marble is a generic geographical map widget and framework for KDE "
+"applications. The Marble widget shows the earth as a sphere but does not "
+"require hardware acceleration. A minimal set of geographical data is "
+"included, so it can be used without an internet connection."
+msgstr ""
+
+#: content/Default/apps/content.json.h:344
+msgctxt "title"
+msgid "Atomic Tanks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:345
+msgctxt "subtitle"
+msgid "Tank-battling game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:346
+msgctxt "description"
+msgid ""
+"Atomic tanks is a multi-player game in which you attempt to destroy other "
+"tanks while trying to protect your own. You earn money for destroying other "
+"tanks; with this money you can buy upgrades and better weapons for your "
+"tank. This game is similar Scorched Earth or the Worms series of games."
+msgstr ""
+
+#: content/Default/apps/content.json.h:347
+msgctxt "title"
+msgid "Warzone 2100"
+msgstr ""
+
+#: content/Default/apps/content.json.h:348
+msgctxt "subtitle"
+msgid "3D real time strategy game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:349
+msgctxt "description"
+msgid ""
+"In Warzone 2100 you command the forces of “The Project” in a battle to "
+"rebuild the world after mankind has almost been destroyed by nuclear "
+"missiles. The game offers campaign, tutorial, multi-player and single-player"
+" skirmish modes. An extensive tech tree with over 400 different "
+"technologies, combined with the unit design system, allows for a wide "
+"variety of possible units and tactics. Warzone 2100 was created by Pumpkin "
+"Studios, published by Eidos Interactive and is currently developed by the "
+"Warzone 2100 Project."
+msgstr ""
+
+#: content/Default/apps/content.json.h:350
+msgctxt "title"
+msgid "Minetest"
+msgstr ""
+
+#: content/Default/apps/content.json.h:351
+msgctxt "subtitle"
+msgid "Multiplayer infinite-world block sandbox"
+msgstr ""
+
+#: content/Default/apps/content.json.h:352
+msgctxt "description"
+msgid ""
+"Minetest is a minecraft-inspired game written from scratch and licensed "
+"under the LGPL (version 2.1 or later). It supports both survival and "
+"creative modes along with multiplayer support, dynamic lighting, and an "
+msgstr ""
+
+#: content/Default/apps/content.json.h:353
+msgctxt "title"
+msgid "Wesnoth"
+msgstr ""
+
+#: content/Default/apps/content.json.h:354
+msgctxt "subtitle"
+msgid "Fantasy turn-based strategy game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:355
+msgctxt "description"
+msgid ""
+"Battle for control of villages, using variety of units which have advantages"
+" and disadvantages in different types of terrains and against different "
+"types of attacks. Units gain experience and advance levels, and are carried "
+"over from one scenario to the next in a campaign."
+msgstr ""
+
+#: content/Default/apps/content.json.h:356
+msgctxt "title"
+msgid "Slingshot"
+msgstr ""
+
+#: content/Default/apps/content.json.h:357
+msgctxt "subtitle"
+msgid "Simple 2D shooting strategy game set in space, with gravity"
+msgstr ""
+
+#: content/Default/apps/content.json.h:358
+msgctxt "description"
+msgid ""
+"Slingshot is a two dimensional, turn based simulation-strategy game set in "
+"the gravity fields of several planets. It is a highly addictive game, and "
+"never the same from round to round due to its randomly generated playing "
+"fields. It is a deceptively simple game, the goal is to shoot the other "
+"spacecraft through the field of planets, but their gravity makes it tricky. "
+"The effects of the gravity mean that although it is easy to learn how to "
+"play, and to enjoy playing, it could take a lifetime to thoroughly master."
+msgstr ""
+
+#: content/Default/apps/content.json.h:359
+msgctxt "title"
+msgid "Warmux"
+msgstr ""
+
+#: content/Default/apps/content.json.h:360
+msgctxt "subtitle"
+msgid "Turn-based artillery game on 2D maps"
+msgstr ""
+
+#: content/Default/apps/content.json.h:361
+msgctxt "description"
+msgid ""
+"WarMUX is a free game in the genre of turn-based artillery games like "
+"Scorched Earth or Worms. Several players can play together, either locally "
+"or over the network. It is also possible to compete against computer-driven "
+"teams. The teams are styled after the mascots of various free software "
+"projects."
+msgstr ""
+
+#: content/Default/apps/content.json.h:362
+msgctxt "title"
+msgid "Battle Tanks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:363
+msgctxt "subtitle"
+msgid "Fast 2D tank arcade game with multiplayer and split-screen modes"
+msgstr ""
+
+#: content/Default/apps/content.json.h:364
+msgctxt "description"
+msgid ""
+"Battle Tanks is a funny battle on your desk, where you can choose one of "
+"three vehicles and eliminate your enemy using the whole arsenal of weapons."
+"  It has original cartoon-like graphics and cool music, it is fun and "
+"dynamic, and it has several network modes for death match and cooperative."
+msgstr ""
+
+#: content/Default/apps/content.json.h:365
+msgctxt "title"
+msgid "MegaGlest"
+msgstr ""
+
+#: content/Default/apps/content.json.h:366
+msgctxt "subtitle"
+msgid "3D multi-player real time strategy game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:367
+msgctxt "description"
+msgid ""
+"MegaGlest is a free 3D real-time customizable strategy game which takes "
+"place in a context which could be compared to that of the pre-renaissance "
+"Europe, with the licence that magic forces exist in the environment and can "
+"be controlled. The current version is fully playable and supports both "
+"single player games against CPU controlled players and multiplayer matches "
+"over the Internet or a LAN."
 msgstr ""
 
 #: content/Default/apps/content.json.h:275

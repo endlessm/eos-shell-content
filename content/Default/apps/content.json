@@ -3990,5 +3990,59 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"btanks",
+    "desktop-id":"eos-app-btanks",
+    "exec":"btanks",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"Battle Tanks",
+    "subtitle":"Fast 2D tank arcade game with multiplayer and split-screen modes",
+    "description":"Battle Tanks is a funny battle on your desk, where you can choose one of three vehicles and eliminate your enemy using the whole arsenal of weapons.  It has original cartoon-like graphics and cool music, it is fun and dynamic, and it has several network modes for death match and cooperative.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"btanks-icon.png",
+    "square_img":"btanks-thumb.jpg",
+    "featured_img":"",
+    "screenshots":{
+      "C":[
+        "btanks-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"megaglest",
+    "desktop-id":"eos-app-megaglest",
+    "exec":"megaglest",
+    "tryexec":"",
+    "folder":"none",
+    "desktop-position":null,
+    "title":"MegaGlest",
+    "subtitle":"3D multi-player real time strategy game",
+    "description":"MegaGlest is a free 3D real-time customizable strategy game which takes place in a context which could be compared to that of the pre-renaissance Europe, with the licence that magic forces exist in the environment and can be controlled. The current version is fully playable and supports both single player games against CPU controlled players and multiplayer matches over the Internet or a LAN.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"megaglest-icon.png",
+    "square_img":"megaglest-thumb.jpg",
+    "featured_img":"",
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
   }
 ]
