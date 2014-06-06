@@ -28,19 +28,16 @@ LANGS = {'en': 'GLOBAL',
 if __name__ == '__main__':
 
     # Load the content json data from file
-    json_path = CONTENT_JSON
-    json_file = open(json_path)
+    json_file = open(CONTENT_JSON)
     json_data = json.load(json_file)
     json_file.close()
 
     # Open the input csv reader
-    in_path = INPUT_CSV
-    in_file = open(in_path, newline='')
+    in_file = open(INPUT_CSV, newline='')
     csv_reader = csv.reader(in_file)
 
     # Open the output csv writer
-    out_path = OUTPUT_CSV
-    out_file = open(out_path, 'w', newline='')
+    out_file = open(OUTPUT_CSV, 'w', newline='')
     csv_writer = csv.writer(out_file)
 
     # Read and parse the two-row header
