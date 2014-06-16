@@ -5,8 +5,6 @@
     "desktop-id":"eos-app-sol",
     "exec":"sol --variation=freecell",
     "tryexec":"",
-    "folder":"games",
-    "desktop-position":"40",
     "title":"Freecell",
     "subtitle":"Solitare based single player card game",
     "description":"This application lets you play a new type of solitaire that will keep you busy for hours! Freecell Solitaire is a little different from the traditional Klondike Solitaire, but the rules are easy to get the hang of. Like Klondike Solitaire, the general idea is to put cards of the same suit down in numerical order, but it\u2019s a little more complicated than that. This card game challenges the mind and provides plenty of entertainment for you to enjoy.",
@@ -18,6 +16,7 @@
     "icon":"sol-icon.png",
     "square_img":"sol-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "sol-screenshot1.jpg",
@@ -43,8 +42,6 @@
     "desktop-id":"eos-app-gnome-sudoku",
     "exec":"gnome-sudoku",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Sudoku",
     "subtitle":"Play one of the most popular puzzle games of all time",
     "description":"If you\u2019re a fan of puzzles and math games, the Sudoku app is perfect for you. These fun brain teasers require you to input numbers in a grid so that you have unique rows, columns, and grid regions containing all the numbers 1 through 9. It may seem complicated at first, but with this app, you\u2019ll learn how to play and can get the hang of the game in no time. You'll soon have hours of fun solving Sudoku puzzles and exercising your mind!",
@@ -56,6 +53,7 @@
     "icon":"gnome-sudoku-icon.png",
     "square_img":"gnome-sudoku-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gnome-sudoku-screenshot1.jpg",
@@ -73,8 +71,6 @@
     "desktop-id":"eos-app-com.endlessm.khanacademy",
     "exec":"eos-khanacademy",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"40",
     "title":"Khan Academy",
     "subtitle":"Learn about math, computers, economics, science, medicine, finance, history, and more, for free",
     "description":"A whole world of learning is at your fingertips with the Khan Academy app. One of the greatest educational resources out there, Khan Academy, offers online video courses in a vast variety of content areas, including math, biology, chemistry, and physics. These exciting videos give you access to fascinating content, and help you learn more than just your classroom's education. The videos are free, easy to access, and provide learning opportunities that are sure to expand your mind.",
@@ -89,6 +85,7 @@
     "icon":"khanacademy-icon.png",
     "square_img":"khanacademy-thumb.jpg",
     "featured_img":"khanacademy-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "khanacademy-screenshot1.jpg",
@@ -113,8 +110,6 @@
     "desktop-id":"eos-app-goldendict",
     "exec":"goldendict",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Dictionary",
     "subtitle":"Feature-rich dictionary lookup software, with lots of bonus tools",
     "description":"In reading and conversation, words often come up with which you\u2019re not familiar. Rather than pretend you know what they mean, it\u2019s best to have a dictionary app so you can learn new vocabulary and understand what you read and hear. This dictionary app is easy to use and navigate, so you\u2019ll never have trouble finding just the word you\u2019re looking for. ",
@@ -126,6 +121,7 @@
     "icon":"goldendict-icon.png",
     "square_img":"goldendict-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "goldendict-screenshot1.jpg"
@@ -147,8 +143,6 @@
     "desktop-id":"eos-app-com.endlessm.wikipedia",
     "exec":"eos-wikipedia",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"10",
     "title":"Wikipedia",
     "subtitle":"The free encyclopedia that anyone can edit",
     "description":"Whether you\u2019re working online or offline, you want access to the world\u2019s treasure trove of information \u2013 Wikipedia. With the Wikipedia app, you\u2019ll have just that. Use the easy search tool to look up any topic you want, and you\u2019ll be able to read the encyclopedia entry on that topic. You\u2019ll learn more than you ever thought possible with access to the Internet's greatest informational resource.",
@@ -160,6 +154,7 @@
     "icon":"wikipedia-icon.png",
     "square_img":"wikipedia-thumb.jpg",
     "featured_img":"wikipedia-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "wikipedia-screenshot1.jpg",
@@ -187,8 +182,6 @@
     "desktop-id":"eos-app-skype",
     "exec":"skype %U",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"40",
     "title":"Skype",
     "subtitle":"Make internet calls for free and cheap online calls to phones and mobiles",
     "description":"Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!",
@@ -200,6 +193,7 @@
     "icon":"skype-icon.png",
     "square_img":"skype-thumb.jpg",
     "featured_img":"skype-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "skype-screenshot1.jpg",
@@ -216,8 +210,6 @@
     "desktop-id":"eos-app-armagetron",
     "exec":"armagetronad",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Armagetron",
     "subtitle":"Multiplayer 3D game inspired by the lightcycle sequence from the movie Tron",
     "description":"This exciting game lets you into the world of Tron. Get behind the wheel of a \u201clight cycle\u201d, a cool and futuristic motorcycle, and battle others on the road. Force your opponents to hit the arena walls to eliminate them from the game and come out victorious. This app is easy to learn and a lot of fun to play!",
@@ -229,6 +221,7 @@
     "icon":"armagetron-icon.png",
     "square_img":"armagetron-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "armagetron-screenshot1.jpg",
@@ -246,8 +239,6 @@
     "desktop-id":"eos-app-audacity",
     "exec":"audacity",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Audio Editor",
     "subtitle":"Audio editor for recording, slicing, and mixing audio",
     "description":"Have you ever wanted to make your own audio clips or songs? With this app, you'll be able to access all the tools you need to create audio clips that you can play for your friends and family. Create high quality clips and songs that you can even share with the world! ",
@@ -259,6 +250,7 @@
     "icon":"audacity-icon.png",
     "square_img":"audacity-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "audacity-screenshot1.jpg"
@@ -274,8 +266,6 @@
     "desktop-id":"eos-app-billard-gl",
     "exec":"billard-gl",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Billiards",
     "subtitle":"Fun 3D billiards game",
     "description":"Do you love playing billiards, or have you ever wanted to learn how to play? This game lets you have the experience of playing pool and other similar games right from your home. It\u2019s simple to learn and use, yet highly realistic. Play carom, eightball or nineball games, or just practice for real-life billiards games against your friends. This app is a great tool for both playing for fun and improving your game.",
@@ -287,6 +277,7 @@
     "icon":"billard-gl-icon.png",
     "square_img":"billard-gl-thumb.jpg",
     "featured_img":"billard-gl-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "billard-gl-screenshot1.jpg",
@@ -304,8 +295,6 @@
     "desktop-id":"eos-app-blockout2",
     "exec":"blockout2",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"BlockOut 2",
     "subtitle":"3D Tetris-style game",
     "description":"Do you love puzzle games? Then you\u2019ll love BlockOut 2. This 3-D Tetris game is fast-paced and a lot of fun! Figure out how to stack different-shaped blocks together and create whole layers of blocks to get points, all before the blocks stack up too high and you lose! It\u2019s great for the brain, and tons of fun.",
@@ -317,6 +306,7 @@
     "icon":"blockout2-icon.png",
     "square_img":"blockout2-thumb.jpg",
     "featured_img":"blockout2-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "blockout2-screenshot1.jpg"
@@ -332,8 +322,6 @@
     "desktop-id":"eos-app-chromium-bsu",
     "exec":"resfix chromium-bsu --fullscreen",
     "tryexec":"chromium-bsu",
-    "folder":"games",
-    "desktop-position":"60",
     "title":"Chromium BSU",
     "subtitle":"A fast paced, arcade-style, top-scrolling space shooter ",
     "description":"Imagine this: You\u2019re the captain of Chromium B.S.U., a vital cargo ship that must get supplies to the frontline of a great war in space. With the help of your robotic fighting fleet, you just might make it. This thrilling, arcade-style game is sure to get your blood pumping. With a variety of objectives to achieve and the tools to do it, you\u2019re on your way to a galaxy of fun!",
@@ -345,6 +333,7 @@
     "icon":"chromium-bsu-icon.png",
     "square_img":"chromium-bsu-thumb.jpg",
     "featured_img":"chromium-bsu-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "chromium-bsu-screenshot1.jpg",
@@ -358,11 +347,9 @@
   {
     "displayShape":"b2v",
     "application-id":"english",
-    "desktop-id":"eos-app-com.endlessm.endless-english",
+    "desktop-id":"eos-app-com.endlessm.english",
     "exec":"eos-english",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"30",
     "title":"Learn English",
     "subtitle":"Learn or improve your English while having fun",
     "description":"Ready to take your English to a new level? Have fun and learn a new skill by playing games, listening to your favorites songs with lyrics, and watching interesting videos. Sometimes all it takes is a push in the right direction, and with our app, you\u2019ll learn about resources that can help you improve your English and take you to new opportunities.",
@@ -374,6 +361,7 @@
     "icon":"english-icon.png",
     "square_img":"english-thumb.jpg",
     "featured_img":"english-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "english-screenshot1.jpg",
@@ -401,8 +389,6 @@
     "desktop-id":"eos-app-evolution",
     "exec":"evolution %U",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"10",
     "title":"E-mail",
     "subtitle":"Full-featured tool for tool managing e-mail, address book and calendar",
     "description":"Staying in touch is an important part of modern life, and email has become one of the best ways of doing so. You may receive emails from faraway or close-by friends and family, access messages containing daily jokes, vocabulary, or news, and even handle important matters \u2013 all via email. When you need to check your email quickly and simply, this app is there for you.",
@@ -414,6 +400,7 @@
     "icon":"evolution-icon.png",
     "square_img":"evolution-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "evolution-screenshot1.jpg",
@@ -436,8 +423,6 @@
     "desktop-id":"eos-app-frostwire",
     "exec":"frostwire",
     "tryexec":"",
-    "folder":"media",
-    "desktop-position":"40",
     "title":"BitTorrent",
     "subtitle":"BitTorrent dowloader app that supports file sharing",
     "description":"With this useful app, you can access, download and share almost any file you'd like to on the Web. From music, videos, and games to more complex downloads like software, you can share files with millions of users. Special features include a video player built into the app. Share files large and small with a massive online community, and get the media you love right at your fingertips.",
@@ -449,6 +434,7 @@
     "icon":"frostwire-icon.png",
     "square_img":"frostwire-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "frostwire-screenshot1.jpg",
@@ -477,8 +463,6 @@
     "desktop-id":"eos-app-gnome-calculator",
     "exec":"gnome-calculator",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"50",
     "title":"Calculator",
     "subtitle":"Full-featured scientific calculator with many bonus tools",
     "description":"Do you ever consider how often you need to do basic or even complex math in daily life? From calculating a budget to converting measurements in a recipe to figuring out taxes, you probably use equations more regularly than you think. That\u2019s why this calculator app comes in handy. Perform simple arithmetic quickly, or allow the calculator to do more advanced work, depending on your needs. You\u2019ll never struggle to perform mathematical tasks again as long as you have this calculator app! ",
@@ -490,6 +474,7 @@
     "icon":"gcalctool-icon.png",
     "square_img":"gcalctool-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gcalctool-screenshot1.jpg"
@@ -511,8 +496,6 @@
     "desktop-id":"eos-app-gcompris",
     "exec":"gcompris",
     "tryexec":"",
-    "folder":"games",
-    "desktop-position":"80",
     "title":"EduGames",
     "subtitle":"Activities for kids like telling time, puzzles, memory games, and more",
     "description":"This app makes learning fun for young children with more than 100 games and activities! Educational topics include reading, geography, and math, and the app also features games like chess and Connect Four, which are great for young brains. Your child will have a wonderful time developing valuable skills that will help him or her throughout life.  ",
@@ -524,6 +507,7 @@
     "icon":"gcompris-icon.png",
     "square_img":"gcompris-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gcompris-screenshot1.jpg",
@@ -552,8 +536,6 @@
     "desktop-id":"eos-app-gimp",
     "exec":"gimp %U",
     "tryexec":"",
-    "folder":"media",
-    "desktop-position":"50",
     "title":"GIMP",
     "subtitle":" Image retouching and editing tool",
     "description":"This application is similar to Adobe Photoshop, and it is free. This tool allows you to edit photos in a variety of ways, creating even more beautiful works of art from your original images. This app can also do things like convert formats of files or serve as a basic paint program. There are so many possibilities for how to create cool images once you get the hang of this helpful editing app!",
@@ -565,6 +547,7 @@
     "icon":"gimp-icon.png",
     "square_img":"gimp-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gimp-screenshot1.jpg",
@@ -590,8 +573,6 @@
     "desktop-id":"eos-app-gnome-genius",
     "exec":"gnome-genius",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Math",
     "subtitle":" Numerical computing environment and programming language",
     "description":"This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as a high-level calculator. Everything you need to figure out numerical mysteries is right here.",
@@ -603,6 +584,7 @@
     "icon":"gnome-genius-icon.png",
     "square_img":"gnome-genius-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gnome-genius-screenshot1.jpg",
@@ -620,8 +602,6 @@
     "desktop-id":"eos-app-kobodeluxe",
     "exec":"resfix \"kobodl -fullscreen\"",
     "tryexec":"kobodl",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Kobo Deluxe",
     "subtitle":"Destroy enemy bases in space",
     "description":"Fans of arcade-style games will love the Kobo Deluxe app. This third-person shooter allows you to protect yourself from and destroy enemy ships as they pursue you, shooting and launching themselves at you. All this takes place in an exciting outer-space environment, with fun graphics and invigorating tactical challenges. Move up through the 50 levels and come out a champion. ",
@@ -633,6 +613,7 @@
     "icon":"kobodeluxe-icon.png",
     "square_img":"kobodeluxe-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "kobodeluxe-screenshot1.jpg",
@@ -650,8 +631,6 @@
     "desktop-id":"eos-app-lbreakout2",
     "exec":"lbreakout2",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Breakout",
     "subtitle":"Classic arcade-style game packed with new features",
     "description":"This classic paddle game is tons of fun! The aim is to destroy bricks with your ball by hitting them with your paddle, which allows you to level up. The original Breakout game came out in 1976, and people have loved this simple yet addictive game ever since. Get your brick-breaking fix with great graphics and animation, intuitive controls, and plenty of levels to beat.",
@@ -663,6 +642,7 @@
     "icon":"lbreakout2-icon.png",
     "square_img":"lbreakout2-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "lbreakout2-screenshot1.jpg"
@@ -678,8 +658,6 @@
     "desktop-id":"eos-app-libreoffice-calc",
     "exec":"libreoffice --calc %U",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"20",
     "title":"Spreadsheet",
     "subtitle":"Spreadsheet program with a comprehensive range of advanced functions",
     "description":"Whatever you need to keep track of, the spreadsheet app can help you do it. This advanced yet easy-to-use spreadsheet has something for everyone: a simple layout that\u2019s easy to understand, plus the ability to do complex calculations. Spreadsheets are used in many careers throughout the world, so getting the hang of this app can also help you gain valuable skills for the job market.",
@@ -691,6 +669,7 @@
     "icon":"libreoffice-calc-icon.png",
     "square_img":"libreoffice-calc-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "libreoffice-calc-screenshot1.jpg"
@@ -712,8 +691,6 @@
     "desktop-id":"eos-app-libreoffice-impress",
     "exec":"libreoffice --impress %U",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"30",
     "title":"Presentation",
     "subtitle":"Presentation builder enhanced with templates, art, special effects, and high-impact drawing tools",
     "description":"Create clean, attractive, and professional presentations with this presentation app. This app features the ability to use text, drawing tools, transitions, 2-D and 3-D art, and even animations to get your point across in a beautiful and compelling way. And best of all, this app is easy to understand and use, with simplified steps for creating exactly what you need.",
@@ -725,6 +702,7 @@
     "icon":"libreoffice-impress-icon.png",
     "square_img":"libreoffice-impress-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "libreoffice-impress-screenshot1.jpg"
@@ -748,8 +726,6 @@
     "desktop-id":"eos-app-libreoffice-writer",
     "exec":"libreoffice --writer %U",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"50",
     "title":"Writer",
     "subtitle":"Full-featured word processing and desktop publishing tool",
     "description":"This app gives you all the features of the best word processing applications and is compatible with Microsoft Office. Create and edit documents easily, create short notes and longer pieces of writing with annotations and diagrams. It\u2019s all possible with this app. Your documents will look professional enough to present to employers, teachers, or other important people. Use this app to compose your next masterpiece or to take great notes; either way, you\u2019ll have simple yet powerful tools available.",
@@ -761,6 +737,7 @@
     "icon":"libreoffice-writer-icon.png",
     "square_img":"libreoffice-writer-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "libreoffice-writer-screenshot1.jpg",
@@ -787,8 +764,6 @@
     "desktop-id":"eos-app-numptyphysics",
     "exec":"numptyphysics",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Physics",
     "subtitle":"Play games where physics is used to solve puzzles",
     "description":"Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
@@ -800,6 +775,7 @@
     "icon":"numptyphysics-icon.png",
     "square_img":"numptyphysics-thumb.jpg",
     "featured_img":"numptyphysics-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "numptyphysics-screenshot1.jpg",
@@ -817,8 +793,6 @@
     "desktop-id":"eos-app-openarena",
     "exec":"resfix openarena +r_fullscreen 1",
     "tryexec":"openarena",
-    "folder":"games",
-    "desktop-position":"10",
     "title":"Open Arena",
     "subtitle":"First-person shooter game based on the Quake III Arena-style deathmatch",
     "description":"If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!",
@@ -830,6 +804,7 @@
     "icon":"openarena-icon.png",
     "square_img":"openarena-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "openarena-screenshot1.jpg"
@@ -845,8 +820,6 @@
     "desktop-id":"eos-app-com.endlessm.photos",
     "exec":"eos-photos %f",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"70",
     "title":"Photo Editor",
     "subtitle":"Edit your pictures and create beautiful images that you can share with all your friends",
     "description":"Have you ever wanted to edit your own photos like the pros and create beautiful images you can share with those you love? Well, now you can do that in just a few steps! We have a variety of attractive, artful filters so you can customize your photos and create one-of-a-kind works of art from your everyday life. And with this handy app, you can post your creations directly to Facebook, so everyone can see your photography skills!",
@@ -858,6 +831,7 @@
     "icon":"photos-icon.png",
     "square_img":"photos-thumb.jpg",
     "featured_img":"photos-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "photos-screenshot1.jpg",
@@ -882,8 +856,6 @@
     "desktop-id":"eos-app-pingus",
     "exec":"sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
     "tryexec":"pingus",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Pingus",
     "subtitle":"Fun multi-level game featuring penguins",
     "description":"Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
@@ -895,6 +867,7 @@
     "icon":"pingus-icon.png",
     "square_img":"pingus-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "pingus-screenshot1.jpg",
@@ -917,8 +890,6 @@
     "desktop-id":"eos-app-rhythmbox",
     "exec":"rhythmbox %U",
     "tryexec":"",
-    "folder":"media",
-    "desktop-position":"30",
     "title":"Music",
     "subtitle":"Audio player and radio that plays and helps organize digital music",
     "description":"In addition to listening to your favorite music, this app lets you search through your library, create playlists, play and burn CDs, shows you album art and even songs' lyrics. This app also supports Internet radio streaming and audio visualizations. Enjoy all your favorite songs, stored and sorted in one convenient app.",
@@ -930,6 +901,7 @@
     "icon":"rhythmbox-icon.png",
     "square_img":"rhythmbox-thumb.jpg",
     "featured_img":"rhythmbox-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "rhythmbox-screenshot1.jpg",
@@ -954,8 +926,6 @@
     "desktop-id":"eos-app-shotwell",
     "exec":"shotwell %U",
     "tryexec":"",
-    "folder":"media",
-    "desktop-position":"10",
     "title":"Photos",
     "subtitle":"Makes it easy to edit, organize, and share photos.",
     "description":"We all love to take pictures in our everyday lives \u2013 and we especially love downloading them to our computers so we can edit and share them via social media. This app lets you import photos from a digital camera or phone seamlessly. You can then arrange them into albums, edit them for maximum beauty and effect, and of course, display them on your favorite social networks, like Facebook. This photo app also allows you to create albums that you share on the web, if you\u2019d rather share that way. Whatever you choose, your friends can see all the photos you want them to!",
@@ -967,6 +937,7 @@
     "icon":"shotwell-icon.png",
     "square_img":"shotwell-thumb.jpg",
     "featured_img":"shotwell-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "shotwell-screenshot1.jpg",
@@ -991,8 +962,6 @@
     "desktop-id":"eos-app-solitaire",
     "exec":"sol --class=solitaire --variation=klondike",
     "tryexec":"",
-    "folder":"games",
-    "desktop-position":"30",
     "title":"Solitaire",
     "subtitle":"The classic single player card game",
     "description":"Solitaire is a classic card game that is fun for people of all ages. It\u2019s easy to figure out the rules, but it takes time to master the game.  Luckily, you\u2019ll want to put in the time to really learn how to play, because you\u2019ll be having so much fun. This engrossing and mind-enriching game is sure to entertain you, hour after hour.",
@@ -1004,6 +973,7 @@
     "icon":"solitaire-icon.png",
     "square_img":"solitaire-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "solitaire-screenshot1.jpg",
@@ -1032,8 +1002,6 @@
     "desktop-id":"eos-app-stellarium",
     "exec":"stellarium-wrapper",
     "tryexec":"stellarium",
-    "folder":"curiosity",
-    "desktop-position":"80",
     "title":"Stellarium",
     "subtitle":"Planetarium software that shows what you see when you look at the stars",
     "description":"Discover the night sky with this application. With a catalogue of more than 600,000 stars, constellations from more than a dozen cultures, and many more features, this application lets you see and get to know the stars right from your desktop. This application shows you a night sky that is so realistic, it matches the one you see above you. Set your location coordinates and learn about the stars above you!",
@@ -1045,6 +1013,7 @@
     "icon":"stellarium-icon.png",
     "square_img":"stellarium-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "stellarium-screenshot1.jpg",
@@ -1062,8 +1031,6 @@
     "desktop-id":"eos-app-supertux2",
     "exec":"resfix supertux2 --fullscreen",
     "tryexec":"supertux2",
-    "folder":"games",
-    "desktop-position":"50",
     "title":"Super Tux",
     "subtitle":"Classic jump-and-run arcade sidescroller game",
     "description":"This game is similar to the original Super Mario Brothers games and allows your avatar to run and jump its way to new levels. The game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play. ",
@@ -1075,6 +1042,7 @@
     "icon":"supertux2-icon.png",
     "square_img":"supertux2-thumb.jpg",
     "featured_img":"supertux2-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "supertux2-screenshot1.jpg",
@@ -1092,8 +1060,6 @@
     "desktop-id":"eos-app-supertuxkart",
     "exec":"resfix supertuxkart --fullscreen",
     "tryexec":"supertuxkart",
-    "folder":"games",
-    "desktop-position":"70",
     "title":"Tux Kart",
     "subtitle":"Racing game with colorful characters and imaginative tracks",
     "description":"Tux Kart is a racing game that stars the lovable character, Tux the Penguin. This game features several different tracks of varying difficulty for you to test your driving skills. Whether you\u2019re on Tux\u2019s Tollway or Gown\u2019s Bow, you\u2019re rushing toward the finish, trying to stay ahead of your opponents as you collect Red Herrings (which give you special abilities) and avoid Green Herrings (which trip you up). This game is sure to entertain you and your friends for hours!",
@@ -1105,6 +1071,7 @@
     "icon":"supertuxkart-icon.png",
     "square_img":"supertuxkart-thumb.jpg",
     "featured_img":"supertuxkart-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "supertuxkart-screenshot1.jpg",
@@ -1122,8 +1089,6 @@
     "desktop-id":"eos-app-teeworlds",
     "exec":"resfix teeworlds",
     "tryexec":"teeworlds",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Teeworlds",
     "subtitle":"Exciting multi-player shooting game",
     "description":"Teeworlds is a retro-looking game, but don\u2019t let this old-school feel fool you; it\u2019s also an exciting multiplayer shooter. Epic battles of up to 16 players rage, in formats such as Capture the Flag and Team Deathmatch. Try to survive in the deadly arena while dispatching your opponents. One exciting feature of Teeworlds is that the game allows you to design your own maps. Lots of bloody fun awaits you with the Teeworlds app.",
@@ -1135,6 +1100,7 @@
     "icon":"teeworlds-icon.png",
     "square_img":"teeworlds-thumb.jpg",
     "featured_img":"teeworlds-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "teeworlds-screenshot1.jpg",
@@ -1152,8 +1118,6 @@
     "desktop-id":"eos-app-totem",
     "exec":"sh -c \"totem --pause `xdg-user-dir VIDEOS`\"",
     "tryexec":"totem",
-    "folder":"media",
-    "desktop-position":"20",
     "title":"Videos",
     "subtitle":"Full function video and media player",
     "description":"Do you love watching movies? Do it the right way with this video application that allows you to watch movies you have downloaded in full-screen mode. Other basics, like volume control and playlists, make your video-watching experience easy and fun. With this application you'll want to invite all of your family and friends to join you in watching all of your favorite movies!",
@@ -1165,6 +1129,7 @@
     "icon":"totem-icon.png",
     "square_img":"totem-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "totem-screenshot1.jpg",
@@ -1187,11 +1152,9 @@
   {
     "displayShape":"b2h",
     "application-id":"translate",
-    "desktop-id":"eos-app-com.endlessm.endless-translation",
+    "desktop-id":"eos-app-com.endlessm.translation",
     "exec":"eos-translation",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"20",
     "title":"Translate",
     "subtitle":"Translate text between many languages instantly",
     "description":"Translating from one language to another is a great way to bridge across cultures. It\u2019s also important in many day-to-day activities in our increasingly globalized world. With the Translate app, you can understand and be understood in virtually any language. The app features an easy-to-understand setup so that you can use it without any trouble or hassle. It\u2019s delightfully simple. Make new connections \u2013 and even new friends \u2013 with the world\u2019s languages at your fingertips.",
@@ -1203,6 +1166,7 @@
     "icon":"translate-icon.png",
     "square_img":"translate-thumb.jpg",
     "featured_img":"translate-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "translate-screenshot1.jpg"
@@ -1224,8 +1188,6 @@
     "desktop-id":"eos-app-tuxmath",
     "exec":"tuxmath",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Tux Math",
     "subtitle":"Arcade-style game that helps kids practice their math facts",
     "description":"Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game application leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math! ",
@@ -1237,6 +1199,7 @@
     "icon":"tuxmath-icon.png",
     "square_img":"tuxmath-thumb.jpg",
     "featured_img":"tuxmath-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "tuxmath-screenshot1.jpg",
@@ -1264,8 +1227,6 @@
     "desktop-id":"eos-app-tuxtype",
     "exec":"eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
     "tryexec":"tuxtype",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Tux Typing",
     "subtitle":"Educational typing tutor for kids",
     "description":"This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
@@ -1277,6 +1238,7 @@
     "icon":"tuxtype-icon.png",
     "square_img":"tuxtype-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "tuxtype-screenshot1.jpg",
@@ -1301,11 +1263,9 @@
   {
     "displayShape":"b2h",
     "application-id":"weather",
-    "desktop-id":"eos-app-com.endlessm.endless-weather",
+    "desktop-id":"eos-app-com.endlessm.weather",
     "exec":"eos-weather",
     "tryexec":"",
-    "folder":"news",
-    "desktop-position":"10",
     "title":"Weather",
     "subtitle":"Get daily local forecasts from trusted sources",
     "description":"\u201cHow\u2019s the weather out there?\u201d Answer this question easily, every day, with the click of a button. This simple weather app allows you to see what\u2019s happening right outside your door. Will it be chilly? Should you plan for rain? Is it a perfect day to spend outdoors? Learn all you need to know about the weather to to take advantage of your day!",
@@ -1317,6 +1277,7 @@
     "icon":"weather-icon.png",
     "square_img":"weather-thumb.jpg",
     "featured_img":"weather-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "weather-screenshot1.jpg",
@@ -1342,8 +1303,6 @@
     "desktop-id":"eos-app-com.endlessm.youtube",
     "exec":"eos-youtube",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"30",
     "title":"YouTube",
     "subtitle":"Share your videos with friends, family, and the world",
     "description":"YouTube is one of the most entertaining and informative sites on the Web. You can find videos of your favorite musical artists, tutorials that teach you to do virtually anything, funny or cute videos, and so much more! The YouTube app makes finding videos easier in a beautiful new way. This app is the best way to discover exactly the video you\u2019re looking for.",
@@ -1355,6 +1314,7 @@
     "icon":"youtube-icon.png",
     "square_img":"youtube-thumb.jpg",
     "featured_img":"",
+    "core":true,
     "screenshots":{
       "C":[
         "youtube-screenshot1.jpg",
@@ -1382,8 +1342,6 @@
     "desktop-id":"eos-app-com.endlessm.brazil",
     "exec":"eos-brazil",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"15",
     "title":"Brazil",
     "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Want to learn more about the nation you call home? Brazil is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Brazilian life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
@@ -1398,6 +1356,7 @@
     "icon":"brazil-icon.png",
     "square_img":"brazil-thumb.jpg",
     "featured_img":"brazil-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "brazil-screenshot1.jpg",
@@ -1420,8 +1379,6 @@
     "desktop-id":"eos-app-com.endlessm.health",
     "exec":"eos-health",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"18",
     "title":"Health",
     "subtitle":"Live a healthy life with this app, packed with tips and resources",
     "description":"Your health is one of the most important aspects of daily life, and you need resources to make sure you understand how to lead a healthy lifestyle and stay well. With this health app, you\u2019ll have access to information about a range of health topics. Learn about how to keep yourself and your family from getting sick, and how to take care of minor ailments when they occur. This app is your indispensable resource to learn how to live a healthy life.",
@@ -1433,6 +1390,7 @@
     "icon":"health-icon.png",
     "square_img":"health-thumb.jpg",
     "featured_img":"health-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "health-screenshot1.jpg",
@@ -1455,8 +1413,6 @@
     "desktop-id":"eos-app-com.endlessm.programming",
     "exec":"eos-programming",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"50",
     "title":"Coding Fun",
     "subtitle":"Learn to program computers by creating your own video games",
     "description":"Do you like playing video games? Then why not create your own? Learn valuable programming and coding skills with this fun application that lets you change the rules of video games to make them your own! See what happens when you change lines of code and progress through levels to keep learning more and more about how to code. You'll soon find out that learning how to program allows you not only to change the world inside your games, but also your very own! ",
@@ -1468,6 +1424,7 @@
     "icon":"programming-icon.png",
     "square_img":"programming-thumb.jpg",
     "featured_img":"programming-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "programming-screenshot1.jpg",
@@ -1495,8 +1452,6 @@
     "desktop-id":"eos-app-com.endlessm.typing",
     "exec":"eos-typing",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"60",
     "title":"Typing",
     "subtitle":"Learn to type with games and songs",
     "description":"Typing is a valuable skill in almost any educational or professional environment. But did you know it could be a whole lot of fun, too? With engaging games, this typing application will teach you to use a keyboard effectively, as well as help you develop typing muscle memory. And the best part is, you\u2019ll learn this useful skill by typing the lyrics to your favorite songs! What could be more entertaining than following along with the songs you love, all the while gaining a great new ability?",
@@ -1508,6 +1463,7 @@
     "icon":"typing-icon.png",
     "square_img":"typing-thumb.jpg",
     "featured_img":"typing-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "typing-screenshot1.jpg",
@@ -1532,11 +1488,9 @@
   {
     "displayShape":"b1",
     "application-id":"resume",
-    "desktop-id":"eos-app-com.endlessm.endless-resume-app",
+    "desktop-id":"eos-app-com.endlessm.resume",
     "exec":"eos-resume",
     "tryexec":"",
-    "folder":"work",
-    "desktop-position":"35",
     "title":"R\u00e9sum\u00e9",
     "subtitle":"Pick a resume template and customize the content to create an impressive resume in minutes",
     "description":"The best way to make a great impression on a potential employer is to have an outstanding resume, and this app is here to help you do just that. With handy, attractive templates, you have plenty of models to use as you build your own stellar resume. Learn exactly what a resume is and what it should contain, get tips on each section, and even receive guidance on how to prepare for job interviews. This app can help you move closer to the job of your choice.",
@@ -1548,6 +1502,7 @@
     "icon":"resume-icon.png",
     "square_img":"resume-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "resume-screenshot1.jpg"
@@ -1570,8 +1525,6 @@
     "desktop-id":"eos-app-empathy",
     "exec":"empathy",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Chat",
     "subtitle":"Messaging program that supports text, voice, video chat, and file transfers",
     "description":"This chat app is a truly amazing communication tool. It supports the chat functions from sites like Facebook, Jabber, MSN, AIM, Gadu Gadu, and more, and brings them all together so you can do your messaging, voice, and video chats all in one app, no matter how many contacts you have in all your other programs. All you need to do is set up this one chat with all of your other accounts and you are ready to talk to everyone you know without having to switch from application to application to talk to them all. This app also allows file sharing, in case you have pictures, documents, or media to send to loved ones while you chat. You can keep in touch with all your friends and family with this awesome app!",
@@ -1583,6 +1536,7 @@
     "icon":"empathy-icon.png",
     "square_img":"empathy-thumb.jpg",
     "featured_img":"empathy-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "empathy-screenshot1.jpg",
@@ -1607,8 +1561,6 @@
     "desktop-id":"eos-app-inkscape",
     "exec":"inkscape %F",
     "tryexec":"",
-    "folder":"media",
-    "desktop-position":"60",
     "title":"Inkscape",
     "subtitle":"Vector graphics editor with transparency, gradients, node editing, pattern fills, PNG, and more",
     "description":"This application is for intermediate and advanced graphic designers who need to create and edit their graphics and images. This app gives you advanced features and is comparable to Adobe InDesign. For example, it allows you to create SVGs (Scalable Vector Graphics), which allow your graphics to remain high quality no matter what size they are. Create beautiful ads, brochures, presentations and artwork with this great free graphics app!",
@@ -1620,6 +1572,7 @@
     "icon":"inkscape-icon.png",
     "square_img":"inkscape-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "inkscape-screenshot1.jpg",
@@ -1643,8 +1596,6 @@
     "desktop-id":"eos-app-frozen-bubble",
     "exec":"frozen-bubble",
     "tryexec":"",
-    "folder":"games",
-    "desktop-position":"90",
     "title":"Frozen Bubble",
     "subtitle":"The most addictive computer game you'll ever play",
     "description":"Play by yourself or challenge your friends to an exciting game of frozen bubbles! Match the colored bubbles in order to knock them down and get them out of the way before they stack up too high and crash into you. You need to have a good strategy and develop a quick trigger finger in order to win!",
@@ -1656,6 +1607,7 @@
     "icon":"frozen-bubble-icon.png",
     "square_img":"frozen-bubble-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "frozen-bubble-screenshot1.jpg",
@@ -1673,8 +1625,6 @@
     "desktop-id":"eos-app-scorched3d",
     "exec":"scorched3d",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Scorched 3D",
     "subtitle":"Turn-based artillery game",
     "description":"Do you love games with jets, naval vessels, and all sorts of weapons? If so, then you will love Scorched3D. This game comes with many different lands for you to visit and engage in battles. You will need to develop a good strategy in order to outsmart your opponents and make sure that you end up victorious. You can play by yourself, with friends, or battle other community members online. Hold onto your hats, because this game is sure to shake things up!",
@@ -1686,6 +1636,7 @@
     "icon":"scorched3d-icon.png",
     "square_img":"scorched3d-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "scorched3d-screenshot1.jpg",
@@ -1703,8 +1654,6 @@
     "desktop-id":"eos-app-com.endlessm.mexico",
     "exec":"eos-mexico",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"17",
     "title":"Mexico",
     "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Want to learn more about the nation you call home? Mexico is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Mexican life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
@@ -1718,6 +1667,7 @@
     "icon":"mexico-icon.png",
     "square_img":"mexico-thumb.jpg",
     "featured_img":"mexico-featured.jpg",
+    "core":false,
     "screenshots":{
       "C":[
         "mexico-screenshot1.jpg",
@@ -1735,8 +1685,6 @@
     "desktop-id":"eos-app-com.endlessm.guatemala",
     "exec":"eos-guatemala",
     "tryexec":"",
-    "folder":"curiosity",
-    "desktop-position":"16",
     "title":"Guatemala",
     "subtitle":"Learn about the country you call home and impress family and friends with the facts you know",
     "description":"Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing these areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala and be able to share what you learn with friends, family, and visitors.",
@@ -1751,6 +1699,7 @@
     "icon":"guatemala-icon.png",
     "square_img":"guatemala-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "guatemala-screenshot1.jpg",
@@ -1778,8 +1727,6 @@
     "desktop-id":"eos-app-com.endlessm.science",
     "exec":"eos-science",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Science",
     "subtitle":"Discover more about the world around you, from dinosaurs to outer space",
     "description":"Are you someone who always wants to know how things work? Do you ask \u201cwhy\u201d and \u201chow\u201d often in everyday life? Then this application is for you. This fun and informative app will help you answer many of the questions you have about the universe\u2019s wonders, and covers amazing topics like physics, earth sciences, and life sciences. From the origins of the dinosaurs to the mysteries of outer space, there\u2019s so much to learn and share! This app will help you on your road to scientific discovery.",
@@ -1791,6 +1738,7 @@
     "icon":"science-icon.png",
     "square_img":"science-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "science-screenshot1.jpg",
@@ -1818,8 +1766,6 @@
     "desktop-id":"eos-app-com.endlessm.futbol",
     "exec":"eos-futbol",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Soccer",
     "subtitle":"Keep up with your favorite soccer teams, read about famous players, and learn the rules of the game",
     "description":"Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover the intricacies of the rules, and keep up to date with articles about your favorite sport!",
@@ -1831,6 +1777,7 @@
     "icon":"futbol-icon.png",
     "square_img":"futbol-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "futbol-screenshot1.jpg",
@@ -1858,8 +1805,6 @@
     "desktop-id":"eos-app-com.endlessm.celebrities",
     "exec":"eos-celebrities",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Celebrities",
     "subtitle":"Packed with information and gossip about the most famous celebrities",
     "description":"Whether you\u2019re wondering about the life of your favorite movie or pop star, or want to know more about the background and formative years of an important politician, this application can help be your guide. Have fun, learn interesting and juicy facts, and share your knowledge of famous people with all of your friends!",
@@ -1871,6 +1816,7 @@
     "icon":"celebrities-icon.png",
     "square_img":"celebrities-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "celebrities-screenshot1.jpg",
@@ -1898,8 +1844,6 @@
     "desktop-id":"eos-app-com.endlessm.fitness",
     "exec":"eos-fitness",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Fitness",
     "subtitle":"Take care of your body with tips and techniques for excercise and healthy living",
     "description":"We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. The app also features guidance on how to live a healthy life of the body and the mind.",
@@ -1911,6 +1855,7 @@
     "icon":"fitness-icon.png",
     "square_img":"fitness-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "fitness-screenshot1.jpg",
@@ -1938,8 +1883,6 @@
     "desktop-id":"eos-app-com.endlessm.cooking",
     "exec":"eos-cooking",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Cooking",
     "subtitle":"Tips and tricks for the kitchen to share with family and friends",
     "description":"Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
@@ -1951,6 +1894,7 @@
     "icon":"cooking-icon.png",
     "square_img":"cooking-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "cooking-screenshot1.jpg",
@@ -1978,8 +1922,6 @@
     "desktop-id":"eos-app-com.endlessm.travel",
     "exec":"eos-travel",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Travel",
     "subtitle":"Explore the sites of the world from your own living room",
     "description":"The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
@@ -1991,6 +1933,7 @@
     "icon":"travel-icon.png",
     "square_img":"travel-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "travel-screenshot1.jpg",
@@ -2018,8 +1961,6 @@
     "desktop-id":"eos-app-eos-file-manager",
     "exec":"eos-file-manager %U",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"99",
     "title":"Documents",
     "subtitle":"File manager",
     "description":"No description necessary -- this is not available via the app store",
@@ -2031,6 +1972,7 @@
     "icon":"eos-file-manager-icon.png",
     "square_img":"eos-file-manager-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":[
       
     ],
@@ -2044,8 +1986,6 @@
     "desktop-id":"eos-app-chromium-browser",
     "exec":"chromium-browser %U",
     "tryexec":"",
-    "folder":"desktop",
-    "desktop-position":"0",
     "title":"Internet",
     "subtitle":"Browse the Web",
     "description":"No description necessary -- this is not available via the app store",
@@ -2057,6 +1997,7 @@
     "icon":"chromium-browser-icon.png",
     "square_img":"chromium-browser-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":[
       
     ],
@@ -2070,8 +2011,6 @@
     "desktop-id":"eos-app-freecol",
     "exec":"freecol",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"FreeCol",
     "subtitle":"Create your own country and leave mark in the world",
     "description":"Have you ever wanted to start your own country? Well, now you can. Go back into an alternative universe where America has still not been colonized and create towns, cities, and states that will support your ultimate plan. Will you try to dominate the world, or will you promote international peace and prosperity? You decide. ",
@@ -2083,6 +2022,7 @@
     "icon":"freecol-icon.png",
     "square_img":"freecol-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "freecol-screenshot1.jpg",
@@ -2101,8 +2041,6 @@
     "desktop-id":"eos-app-gnote",
     "exec":"gnote %u",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Notes",
     "subtitle":"Jot down your notes and easily access them from your desktop",
     "description":"Do you find yourself writing down lots of notes on pieces of paper that later get lost or torn? Or, are there so many notes on your desk that you're running out of space? No matter what kind of notes you need to take, this note app can help you keep them all in one place. This app also has the ability to link notes together so that you can easily access all related notes and stay even more organized! ",
@@ -2114,6 +2052,7 @@
     "icon":"gnote-icon.png",
     "square_img":"gnote-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gnote-screenshot1.jpg",
@@ -2136,8 +2075,6 @@
     "desktop-id":"eos-app-gedit",
     "exec":"gedit %U",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Gedit",
     "subtitle":"A simple text editor for all of your text editing needs",
     "description":"Use this simple app to create and edit files that require plain text inputs. If you are a programmer or an aspiring programmer, you will need this app. With robust functionality and an easy-to-use interface, this text editor should be perfect for all of your text editing needs. ",
@@ -2149,6 +2086,7 @@
     "icon":"gedit-icon.png",
     "square_img":"gedit-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gedit-screenshot1.jpg",
@@ -2176,8 +2114,6 @@
     "desktop-id":"eos-app-freeciv",
     "exec":"freeciv",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"FreeCiv",
     "subtitle":"Travel through time to create your own civilization and guide it to greatness",
     "description":"Create your own world with this action-packed game that lets you travel through time and start a civilization of your very own. You'll start at the begging, in a pre-historic world, where you'll need to create your own tribe. Then, you'll move onto the middle ages, survive the plague and invent the wheel. You'll continue through the ages until you reach modern times and need to balance world politics with your agenda to lead your people to conquering the moon and beyond!",
@@ -2189,6 +2125,7 @@
     "icon":"freeciv-icon.png",
     "square_img":"freeciv-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "freeciv-screenshot1.jpg",
@@ -2213,8 +2150,6 @@
     "desktop-id":"eos-app-tuxpaint",
     "exec":"tuxpaint --fullscreen --native",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Tux Paint",
     "subtitle":"A fun drawing app for kids",
     "description":"Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
@@ -2226,6 +2161,7 @@
     "icon":"tuxpaint-icon.png",
     "square_img":"tuxpaint-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "tuxpaint-screenshot1.jpg",
@@ -2253,8 +2189,6 @@
     "desktop-id":"eos-app-gnect",
     "exec":"four-in-a-row",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Four in a Row",
     "subtitle":"A fun and simple puzzle game for kids and adults ",
     "description":"This classic game is great for both children and adults alike! The goal is simple: you need to create a straight line of 4 of your circles before your opponent does. You can make a line that is horizontal, vertical or diagonal, like in Tic-tac-toe, but you'll need to be careful and pay attention to what your opponent is doing if you want to win! You can play against the computer, or against a friend, and spend hours playing this addictive and fun game!",
@@ -2266,6 +2200,7 @@
     "icon":"four-in-a-row-icon.png",
     "square_img":"four-in-a-row-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "four-in-a-row-screenshot1.jpg",
@@ -2282,8 +2217,6 @@
     "desktop-id":"eos-app-iagno",
     "exec":"iagno",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Iagno",
     "subtitle":"Try to flip all the pieces to your color in this fun puzzle game",
     "description":"Turn over the pieces in front of you so that they are all the same color. Simple? Not at all! You can change pieces to your color if you can put one of your pieces in a place where you can make a row, column or diagonal line across consecutive pieces of the other color. So, you need to flip over the pieces carefully to try to make ALL of the pieces your color. Think very strategically and see if you can figure this puzzle out!",
@@ -2295,6 +2228,7 @@
     "icon":"iagno-icon.png",
     "square_img":"iagno-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "iagno-screenshot1.jpg",
@@ -2311,8 +2245,6 @@
     "desktop-id":"eos-app-gnomine",
     "exec":"gnome-mines",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Mines",
     "subtitle":"Figure out where the mines are in order to win this fun puzzle game",
     "description":"Figure out where the dangerous mines are in order to stay alive and win the game! Each square is either an ocean or a mine, and you'll need to only click on the oceans or you'll have to start over. Each time you click on a square, you will discover what it is and see how many mines are around it in each direction. If you figure out where all the mines are, you'll win!",
@@ -2324,6 +2256,7 @@
     "icon":"gnome-mines-icon.png",
     "square_img":"gnome-mines-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gnome-mines-screenshot1.jpg",
@@ -2340,8 +2273,6 @@
     "desktop-id":"eos-app-quadrapassel",
     "exec":"quadrapassel",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Quadrapassel",
     "subtitle":"A tetris-like game that gets harder as you advance",
     "description":"You'll need to be quick if you want to win this game! Change the shape of pieces that fall from the top in order to match colors and make them disappear. If you don't make enough color blocks disappear, you'll find that your screen will soon fill up and you'll need to try again. And just when you think you're quick enough, the game will speed up, so be ready for a challenge!",
@@ -2353,6 +2284,7 @@
     "icon":"quadrapassel-icon.png",
     "square_img":"quadrapassel-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "quadrapassel-screenshot1.jpg",
@@ -2369,8 +2301,6 @@
     "desktop-id":"eos-app-gnome-tetravex",
     "exec":"gnome-tetravex",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Tetravex",
     "subtitle":"Match all of the same numbers in this timed puzzle game",
     "description":"Try to match up all of the same numbers on the blocks to win this tricky game. You'll need to think carefully, but quickly, in order to finish the puzzle. You will be timed, so make sure to keep getting faster in order to beat your or your friends' best time!",
@@ -2382,6 +2312,7 @@
     "icon":"gnome-tetravex-icon.png",
     "square_img":"gnome-tetravex-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "gnome-tetravex-screenshot1.jpg",
@@ -2398,8 +2329,6 @@
     "desktop-id":"eos-app-spotify",
     "exec":"spotify %U",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Spotify",
     "subtitle":"Listen to music using Spotify",
     "description":"Spotify lets you access all of your favorite music, helps you discover new songs you'll love, and lets you share music with your friends - all in one place. You can listen to all of your local files and create playlists just like you would in any other music player, but now you can also share your playlists with friends and see what they are listening to! Follow friends, your favorite artists, and other Spotify members whose music taste you share. Spotify has all of the great discovering capability that other apps like Pandora have, but the difference is that you can save your favorite songs to a playlist and listen to them whenever you want. You can also make collaborative playlists, so that you and all of your friends can add songs that you all love. Have access millions of songs, and all the latest hits - for free. ",
@@ -2411,6 +2340,7 @@
     "icon":"spotify-icon.png",
     "square_img":"spotify-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "spotify-screenshot1.jpg"
@@ -2426,8 +2356,6 @@
     "desktop-id":"eos-app-gnome-terminal",
     "exec":"gnome-terminal",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Terminal",
     "subtitle":"Use the command line",
     "description":"If you're an advanced user and want to display system information and launch applications without using the mouse, now you can do just that with this basic terminal app. With this modern terminal, you can see all of your commands written in different colors to help make sure you are typing them in correctly and to help you easily identify any mistakes you have made. ",
@@ -2439,6 +2367,7 @@
     "icon":"terminal-icon.png",
     "square_img":"terminal-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "terminal-screenshot1.jpg"
@@ -2454,8 +2383,6 @@
     "desktop-id":"eos-app-cheese",
     "exec":"cheese",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Cheese",
     "subtitle":"Take pictures of yourself and your friends with this fun photobooth app",
     "description":"Say cheese! Use a webcam and this awesome photobooth app to take pictures, apply filters, and share your creations with your friends and family. Try turning yourself green, or making yourself have two faces - you'll have hours of fun playing around and creating funny, cool and beautiful pictures!",
@@ -2467,6 +2394,7 @@
     "icon":"cheese-icon.png",
     "square_img":"cheese-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "cheese-screenshot1.jpg",
@@ -2493,211 +2421,50 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"screenshot",
-    "desktop-id":"eos-app-gnome-screenshot",
-    "exec":"gnome-screenshot --interactive",
+    "application-id":"megaglest",
+    "desktop-id":"eos-app-megaglest",
+    "exec":"megaglest",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Screenshot",
-    "subtitle":"Take a picture of your screen to save",
-    "description":"Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more. ",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"None",
-    "custom-splash-screen":"",
-    "icon":"screenshot-icon.png",
-    "square_img":"screenshot-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "screenshot-screenshot1.jpg"
-      ],
-      "pt":[
-        "screenshot-screenshot1.jpg"
-      ],
-      "es":[
-        "screenshot-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Utility"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kgeography",
-    "desktop-id":"eos-app-kgeography",
-    "exec":"kgeography",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KGeography",
-    "subtitle":"Geography learning aid for KDE",
-    "description":"KGeography is an aid for learning about world geography. You can use it to explore a map, show information about regions and features, and play quiz games to test your geography knowledge.",
+    "title":"MegaGlest",
+    "subtitle":"3D multi-player real time strategy game",
+    "description":"MegaGlest is a free 3D real-time customizable strategy game which takes place in a context which could be compared to that of the pre-renaissance Europe, with the licence that magic forces exist in the environment and can be controlled. The current version is fully playable and supports both single player games against CPU controlled players and multiplayer matches over the Internet or a LAN.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kgeography-icon.png",
-    "square_img":"kgeography-thumb.jpg",
+    "icon":"megaglest-icon.png",
+    "square_img":"megaglest-thumb.jpg",
     "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ],
-      "pt":[
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ],
-      "es":[
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ]
-    },
+    "core":false,
+    "screenshots":[
+      
+    ],
     "is_featured":false,
     "is_offline":false,
-    "category":"Education"
+    "category":"Leisure"
   },
   {
     "displayShape":"b1",
-    "application-id":"kalzium",
-    "desktop-id":"eos-app-kalzium",
-    "exec":"kalzium -caption %c %i",
+    "application-id":"btanks",
+    "desktop-id":"eos-app-btanks",
+    "exec":"btanks",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Kalzium",
-    "subtitle":"Periodic table and chemistry tools",
-    "description":"Kalzium is a full-featured chemistry application, including a Periodic Table of Elements, chemical reference, chemical equation solver, and 3D molecule viewer.",
+    "title":"Battle Tanks",
+    "subtitle":"Fast 2D tank arcade game with multiplayer and split-screen modes",
+    "description":"Battle Tanks is a funny battle on your desk, where you can choose one of three vehicles and eliminate your enemy using the whole arsenal of weapons.  It has original cartoon-like graphics and cool music, it is fun and dynamic, and it has several network modes for death match and cooperative.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kalzium-icon.png",
-    "square_img":"kalzium-thumb.jpg",
+    "icon":"btanks-icon.png",
+    "square_img":"btanks-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ],
-      "pt":[
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ],
-      "es":[
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kbruch",
-    "desktop-id":"eos-app-kbruch",
-    "exec":"kbruch -caption %c %i",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KBruch",
-    "subtitle":"Fraction learning aid for KDE",
-    "description":"KBruch is an aid for learning how to calculate with fractions.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kbruch-icon.png",
-    "square_img":"kbruch-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kbruch-screenshot1.jpg"
-      ],
-      "pt":[
-        "kbruch-screenshot1.jpg"
-      ],
-      "es":[
-        "kbruch-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kwordquiz",
-    "desktop-id":"eos-app-kwordquiz",
-    "exec":"kwordquiz -caption %c %i",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KWordQuiz",
-    "subtitle":"Flashcard learning program",
-    "description":"KWordQuiz is a general purpose flashcard program, typically used for vocabulary training. KWordQuiz can open vocabulary data in various formats, including the kvtml format used by KDE programs such as Parley, the WQL format used by WordQuiz for Windows, the xml.gz format used by Pauker, and CSV text.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kwordquiz-icon.png",
-    "square_img":"kwordquiz-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kwordquiz-screenshot1.jpg"
-      ],
-      "pt":[
-        "kwordquiz-screenshot1.jpg"
-      ],
-      "es":[
-        "kwordquiz-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"katomic",
-    "desktop-id":"eos-app-katomic",
-    "exec":"katomic -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KAtomic",
-    "subtitle":"Atomix puzzle game",
-    "description":"KAtomic is a puzzle game in which the player slides atoms around the board to assemble a molecule.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"katomic-icon.png",
-    "square_img":"katomic-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "katomic-screenshot1.jpg"
-      ],
-      "pt":[
-        "katomic-screenshot1.jpg"
-      ],
-      "es":[
-        "katomic-screenshot1.jpg"
+        "btanks-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2706,32 +2473,25 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"knetwalk",
-    "desktop-id":"eos-app-knetwalk",
-    "exec":"knetwalk -caption %c",
+    "application-id":"atanks",
+    "desktop-id":"eos-app-atanks",
+    "exec":"atanks",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KNetwalk",
-    "subtitle":"Wire puzzle game",
-    "description":"KNetwalk is a puzzle game where the player arranges sections of wire to connect all the computers on the board.",
+    "title":"Atomic Tanks",
+    "subtitle":"Tank-battling game",
+    "description":"Atomic tanks is a multi-player game in which you attempt to destroy other tanks while trying to protect your own. You earn money for destroying other tanks; with this money you can buy upgrades and better weapons for your tank. This game is similar Scorched Earth or the Worms series of games.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"knetwalk-icon.png",
-    "square_img":"knetwalk-thumb.jpg",
+    "icon":"atanks-icon.png",
+    "square_img":"atanks-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "knetwalk-screenshot1.jpg"
-      ],
-      "pt":[
-        "knetwalk-screenshot1.jpg"
-      ],
-      "es":[
-        "knetwalk-screenshot1.jpg"
+        "atanks-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2740,32 +2500,25 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"killbots",
-    "desktop-id":"eos-app-killbots",
-    "exec":"killbots -caption %c",
+    "application-id":"wesnoth",
+    "desktop-id":"eos-app-wesnoth-1.11",
+    "exec":"wesnoth -f",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Killbots",
-    "subtitle":"Port of the classic BSD console game robots",
-    "description":"Killbots is a simple game of evading killer robots. The robots are numerous and their sole objective is to destroy you. Fortunately for you, their creator has focused on quantity rather than quality and as a result the robots are severely lacking in intelligence. Your superior wit and a fancy teleportation device are your only weapons against the never-ending stream of mindless automatons.",
+    "title":"Wesnoth",
+    "subtitle":"Fantasy turn-based strategy game",
+    "description":"Battle for control of villages, using variety of units which have advantages and disadvantages in different types of terrains and against different types of attacks. Units gain experience and advance levels, and are carried over from one scenario to the next in a campaign.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"killbots-icon.png",
-    "square_img":"killbots-thumb.jpg",
+    "icon":"wesnoth-icon.png",
+    "square_img":"wesnoth-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "killbots-screenshot1.jpg"
-      ],
-      "pt":[
-        "killbots-screenshot1.jpg"
-      ],
-      "es":[
-        "killbots-screenshot1.jpg"
+        "wesnoth-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2774,32 +2527,25 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"ksquares",
-    "desktop-id":"eos-app-ksquares",
-    "exec":"ksquares %i -caption %c",
+    "application-id":"warzone2100",
+    "desktop-id":"eos-app-warzone2100",
+    "exec":"warzone2100 --fullscreen",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KSquares",
-    "subtitle":"Dots and boxes game",
-    "description":"KSquares is a game where two players take turns connecting dots on a grid to complete the most squares.",
+    "title":"Warzone 2100",
+    "subtitle":"3D real time strategy game",
+    "description":"In Warzone 2100 you command the forces of \u201cThe Project\u201d in a battle to rebuild the world after mankind has almost been destroyed by nuclear missiles. The game offers campaign, tutorial, multi-player and single-player skirmish modes. An extensive tech tree with over 400 different technologies, combined with the unit design system, allows for a wide variety of possible units and tactics. Warzone 2100 was created by Pumpkin Studios, published by Eidos Interactive and is currently developed by the Warzone 2100 Project.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"ksquares-icon.png",
-    "square_img":"ksquares-thumb.jpg",
+    "icon":"warzone2100-icon.png",
+    "square_img":"warzone2100-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "ksquares-screenshot1.jpg"
-      ],
-      "pt":[
-        "ksquares-screenshot1.jpg"
-      ],
-      "es":[
-        "ksquares-screenshot1.jpg"
+        "warzone2100-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2808,35 +2554,297 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"kapman",
-    "desktop-id":"eos-app-kapman",
-    "exec":"kapman",
+    "application-id":"tuxfootball",
+    "desktop-id":"eos-app-tuxfootball",
+    "exec":"tuxfootball -fs",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Kapman",
-    "subtitle":"Pac-Man clone",
-    "description":"Kapman is a clone of the well known game Pac-Man. You must go through the levels escaping ghosts in a maze. You lose a life when a ghost eats you, but you can eat the ghosts for a few seconds when eating an energizer. You win points when eating pills, energizers, and bonus, and you win one life for each 10,000 points. When you have eaten all the pills and energizers of a level, you go to the next level, and the player and ghost speeds increase.",
+    "title":"Tux Football",
+    "subtitle":"Great 2D soccer (sometimes called football) game",
+    "description":"It's bringing old style gameplay from DOS times back to the desktop with up to date graphics! Its gameplay is similar to old classics such as Amco's Kick Off and Sensible Software's Sensible Soccer. The gameplay is designed to be quick, responsive and fun. You are always in control of the player closest to the ball. The ball is controlled via two different kick buttons - one for pass, and one for shoot. Aftertouch can be applied to shots by quickly pressing and holding the direction you want the ball to bend towards. Pushing in the opposite direction to what you kicked the ball makes it raise into the air, pushing in the same direction as the ball makes it dip towards the ground.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kapman-icon.png",
-    "square_img":"kapman-thumb.jpg",
+    "icon":"tuxfootball-icon.png",
+    "square_img":"tuxfootball-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
-      ],
-      "pt":[
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
-      ],
-      "es":[
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
+        "tuxfootball-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"xmoto",
+    "desktop-id":"eos-app-xmoto",
+    "exec":"xmoto -fs",
+    "tryexec":"",
+    "title":"X-Moto",
+    "subtitle":"2D motocross platform game",
+    "description":"X-Moto is a challenging 2D motocross platform game, where physics play an all important role in the gameplay. You need to control your bike to its limit, if you want to have a chance finishing the more difficult of the challenges.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"xmoto-icon.png",
+    "square_img":"xmoto-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "xmoto-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"marble",
+    "desktop-id":"eos-app-marble",
+    "exec":"marble --geometry 1920x1080+0+0",
+    "tryexec":"",
+    "title":"Marble",
+    "subtitle":"Globe and map widget",
+    "description":"Marble is a generic geographical map widget and framework for KDE applications. The Marble widget shows the earth as a sphere but does not require hardware acceleration. A minimal set of geographical data is included, so it can be used without an internet connection.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"marble-icon.png",
+    "square_img":"marble-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "marble-screenshot1.jpg",
+        "marble-screenshot2.jpg",
+        "marble-screenshot3.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"warmux",
+    "desktop-id":"eos-app-warmux",
+    "exec":"warmux",
+    "tryexec":"",
+    "title":"Warmux",
+    "subtitle":"Turn-based artillery game on 2D maps",
+    "description":"WarMUX is a free game in the genre of turn-based artillery games like Scorched Earth or Worms. Several players can play together, either locally or over the network. It is also possible to compete against computer-driven teams. The teams are styled after the mascots of various free software projects.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"warmux-icon.png",
+    "square_img":"warmux-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "warmux-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"extremetuxracer",
+    "desktop-id":"eos-app-extremetuxracer",
+    "exec":"etracer",
+    "tryexec":"",
+    "title":"Tux Racer",
+    "subtitle":"3D racing game featuring Tux, the Linux penguin",
+    "description":"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL racing game featuring Tux, the Linux mascot. The goal of the game is to slide down a snow- and ice-covered mountain as quickly as possible, avoiding the trees and rocks that will slow you down. Collect herrings and other goodies while sliding down the hill, but avoid fish bones. This game is based on the GPL version of the famous game TuxRacer.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"extremetuxracer-icon.png",
+    "square_img":"extremetuxracer-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "extremetuxracer-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"tuxpuck",
+    "desktop-id":"eos-app-tuxpuck",
+    "exec":"tuxpuck",
+    "tryexec":"",
+    "title":"Tux Puck",
+    "subtitle":"Air hockey game for single players",
+    "description":"TuxPuck is an air hockey game and clone of the Amiga\/Atari ST game Shufflepuck Caf\u00e9. The player moves a bat around a table and tries to knock the puck past the opponent's defense. After either party has reached 15 points, the match is over.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"tuxpuck-icon.png",
+    "square_img":"tuxpuck-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "tuxpuck-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"torcs",
+    "desktop-id":"eos-app-torcs",
+    "exec":"torcs",
+    "tryexec":"",
+    "title":"TORCS",
+    "subtitle":"3D racing cars simulator game using OpenGL",
+    "description":"TORCS, The Open Racing Car Simulator is a car racing simulation game which allows you to drive in races against opponents simulated by the computer. You can also develop your own computer-controlled driver (also called a robot) in C or C++. TORCS is GPL (version 2 or later).",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"torcs-icon.png",
+    "square_img":"torcs-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "torcs-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"slingshot",
+    "desktop-id":"eos-app-slingshot",
+    "exec":"slingshot",
+    "tryexec":"",
+    "title":"Slingshot",
+    "subtitle":"Simple 2D shooting strategy game set in space, with gravity",
+    "description":"Slingshot is a two dimensional, turn based simulation-strategy game set in the gravity fields of several planets. It is a highly addictive game, and never the same from round to round due to its randomly generated playing fields. It is a deceptively simple game, the goal is to shoot the other spacecraft through the field of planets, but their gravity makes it tricky. The effects of the gravity mean that although it is easy to learn how to play, and to enjoy playing, it could take a lifetime to thoroughly master.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"slingshot-icon.png",
+    "square_img":"slingshot-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "slingshot-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ri-li",
+    "desktop-id":"eos-app-ri-li",
+    "exec":"ri-li",
+    "tryexec":"",
+    "title":"Ri-Li",
+    "subtitle":"Toy train simulation game",
+    "description":"Ri-li is a game in which you drive a wooden toy steam locomotive across many levels and collect all the coaches to win.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ri-li-icon.png",
+    "square_img":"ri-li-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "ri-li-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"minetest",
+    "desktop-id":"eos-app-minetest",
+    "exec":"minetest",
+    "tryexec":"",
+    "title":"Minetest",
+    "subtitle":"Multiplayer infinite-world block sandbox",
+    "description":"Minetest is a minecraft-inspired game written from scratch and licensed under the LGPL (version 2.1 or later). It supports both survival and creative modes along with multiplayer support, dynamic lighting, and an \"infinite\" map generator.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"minetest-icon.png",
+    "square_img":"minetest-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "minetest-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"marsshooter",
+    "desktop-id":"eos-app-mars",
+    "exec":"mars",
+    "tryexec":"",
+    "title":"M.A.R.S.",
+    "subtitle":"Ridiculous space shooter governed by the laws of gravity",
+    "description":"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, a stunning amount of particles and shader support. It offers single- and multiplayer gameplay, many impressive weapons and specials and customizable ships. In the year 3547 civilizations across the galaxy have settled their own planets, living in peace and harmony with its environment. But outside the placid habitats, the GREAT WAR is raging. As a famous fighter on your way to never ending honor and prosperity, you have to protect your planet from the imminent doom of your jealous neighbors!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"marsshooter-icon.png",
+    "square_img":"marsshooter-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "marsshooter-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2849,8 +2857,6 @@
     "desktop-id":"eos-app-ktuberling",
     "exec":"ktuberling -caption %c %u",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Potato Guy",
     "subtitle":"Stamp drawing toy",
     "description":"Potato Guy is a drawing toy for small children with several activities. Give the potato a funny face, clothes, and other goodies. Build a small town, complete with school, zoo, and fire department. Create a fantastic moonscape with spaceships and aliens. Potato Guy can speak the name of each the object in several languages, to assist in learning basic vocabulary.",
@@ -2862,6 +2868,7 @@
     "icon":"ktuberling-icon.png",
     "square_img":"ktuberling-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "ktuberling-screenshot1.jpg",
@@ -2882,32 +2889,97 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"klines",
-    "desktop-id":"eos-app-klines",
-    "exec":"klines -caption %c",
+    "application-id":"kwordquiz",
+    "desktop-id":"eos-app-kwordquiz",
+    "exec":"kwordquiz -caption %c %i",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Kolor Lines",
-    "subtitle":"Color lines game",
-    "description":"Kolor Lines is a single-player game where the player removes colored balls from the board by arranging them into lines of five or more. However, every time the player moves a ball, three more balls are added to the board.",
+    "title":"KWordQuiz",
+    "subtitle":"Flashcard learning program",
+    "description":"KWordQuiz is a general purpose flashcard program, typically used for vocabulary training. KWordQuiz can open vocabulary data in various formats, including the kvtml format used by KDE programs such as Parley, the WQL format used by WordQuiz for Windows, the xml.gz format used by Pauker, and CSV text.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"klines-icon.png",
-    "square_img":"klines-thumb.jpg",
+    "icon":"kwordquiz-icon.png",
+    "square_img":"kwordquiz-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "klines-screenshot1.jpg"
+        "kwordquiz-screenshot1.jpg"
       ],
       "pt":[
-        "klines-screenshot1.jpg"
+        "kwordquiz-screenshot1.jpg"
       ],
       "es":[
-        "klines-screenshot1.jpg"
+        "kwordquiz-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"khangman",
+    "desktop-id":"eos-app-khangman",
+    "exec":"khangman -caption %c %i",
+    "tryexec":"",
+    "title":"KHangMan",
+    "subtitle":"Hangman word puzzle",
+    "description":"KHangMan is the well-known Hangman game, aimed towards children aged 6 and above. It picks a random word which the player must reveal by guessing if it contains certain letters. As the player guesses letters, the word is gradually revealed, but 10 wrong guesses will end the game.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"khangman-icon.png",
+    "square_img":"khangman-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "khangman-screenshot1.jpg"
+      ],
+      "pt":[
+        "khangman-screenshot1.jpg"
+      ],
+      "es":[
+        "khangman-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"bovo",
+    "desktop-id":"eos-app-bovo",
+    "exec":"bovo -caption %c",
+    "tryexec":"",
+    "title":"Bovo",
+    "subtitle":"Gomoku (five in line) board game",
+    "description":"Bovo is a game where two players take turns placing markers on the board, the winner being the first to complete a line of five markers.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"bovo-icon.png",
+    "square_img":"bovo-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "bovo-screenshot1.jpg"
+      ],
+      "pt":[
+        "bovo-screenshot1.jpg"
+      ],
+      "es":[
+        "bovo-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2916,32 +2988,103 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"kjumpingcube",
-    "desktop-id":"eos-app-kjumpingcube",
-    "exec":"kjumpingcube -caption %c",
+    "application-id":"gcompris-admin",
+    "desktop-id":"eos-app-gcompris-admin",
+    "exec":"gcompris --administration",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KJumpingCube",
-    "subtitle":"Simple tactical game",
-    "description":"KJumpingCube is a simple tactical game for one or two players, played on a grid of numbered squares. Each turn, players compete for control of the board by capturing or adding to one square.",
+    "title":"GCompris Admin",
+    "subtitle":"Teacher admin console for GCompris",
+    "description":"Run GCompris (EduGames) in administration and user-management mode.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kjumpingcube-icon.png",
-    "square_img":"kjumpingcube-thumb.jpg",
+    "icon":"gcompris-admin-icon.png",
+    "square_img":"gcompris-admin-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "kjumpingcube-screenshot1.jpg"
+        "gcompris-admin-screenshot1.jpg"
       ],
       "pt":[
-        "kjumpingcube-screenshot1.jpg"
+        "gcompris-admin-screenshot1.jpg"
       ],
       "es":[
-        "kjumpingcube-screenshot1.jpg"
+        "gcompris-admin-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kalzium",
+    "desktop-id":"eos-app-kalzium",
+    "exec":"kalzium -caption %c %i",
+    "tryexec":"",
+    "title":"Kalzium",
+    "subtitle":"Periodic table and chemistry tools",
+    "description":"Kalzium is a full-featured chemistry application, including a Periodic Table of Elements, chemical reference, chemical equation solver, and 3D molecule viewer.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kalzium-icon.png",
+    "square_img":"kalzium-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ],
+      "pt":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ],
+      "es":[
+        "kalzium-screenshot1.jpg",
+        "kalzium-screenshot2.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kapman",
+    "desktop-id":"eos-app-kapman",
+    "exec":"kapman",
+    "tryexec":"",
+    "title":"Kapman",
+    "subtitle":"Pac-Man clone",
+    "description":"Kapman is a clone of the well known game Pac-Man. You must go through the levels escaping ghosts in a maze. You lose a life when a ghost eats you, but you can eat the ghosts for a few seconds when eating an energizer. You win points when eating pills, energizers, and bonus, and you win one life for each 10,000 points. When you have eaten all the pills and energizers of a level, you go to the next level, and the player and ghost speeds increase.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kapman-icon.png",
+    "square_img":"kapman-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
+      ],
+      "pt":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
+      ],
+      "es":[
+        "kapman-screenshot1.jpg",
+        "kapman-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -2950,66 +3093,31 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"kgoldrunner",
-    "desktop-id":"eos-app-KGoldrunner",
-    "exec":"kgoldrunner",
+    "application-id":"katomic",
+    "desktop-id":"eos-app-katomic",
+    "exec":"katomic -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KGoldrunner",
-    "subtitle":"Lode Runner arcade game",
-    "description":"KGoldrunner is a fast-paced platform game where the player must navigate a maze while collecting gold nuggets and avoiding enemies. A variety of level packs are included, as well as an editor to create new levels.",
+    "title":"KAtomic",
+    "subtitle":"Atomix puzzle game",
+    "description":"KAtomic is a puzzle game in which the player slides atoms around the board to assemble a molecule.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kgoldrunner-icon.png",
-    "square_img":"kgoldrunner-thumb.jpg",
+    "icon":"katomic-icon.png",
+    "square_img":"katomic-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "kgoldrunner-screenshot1.jpg"
+        "katomic-screenshot1.jpg"
       ],
       "pt":[
-        "kgoldrunner-screenshot1.jpg"
+        "katomic-screenshot1.jpg"
       ],
       "es":[
-        "kgoldrunner-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kdiamond",
-    "desktop-id":"eos-app-kdiamond",
-    "exec":"kdiamond -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KDiamond",
-    "subtitle":"Three-in-a-row game",
-    "description":"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun with randomly generated games and five difficulty levels with varying number of diamond colors and board sizes.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kdiamond-icon.png",
-    "square_img":"kdiamond-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kdiamond-screenshot1.jpg"
-      ],
-      "pt":[
-        "kdiamond-screenshot1.jpg"
-      ],
-      "es":[
-        "kdiamond-screenshot1.jpg"
+        "katomic-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -3022,8 +3130,6 @@
     "desktop-id":"eos-app-kblackbox",
     "exec":"kblackbox -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KBlackBox",
     "subtitle":"Black Box puzzle game",
     "description":"KBlackBox is a game of hide and seek played on an grid of boxes, where the player shoots rays into the grid to deduce the positions of hidden objects.",
@@ -3035,6 +3141,7 @@
     "icon":"kblackbox-icon.png",
     "square_img":"kblackbox-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "kblackbox-screenshot1.jpg"
@@ -3052,100 +3159,34 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"kubrick",
-    "desktop-id":"eos-app-kubrick",
-    "exec":"kubrick --geometry 1920x1080+0+0",
+    "application-id":"kblocks",
+    "desktop-id":"eos-app-kblocks",
+    "exec":"kblocks -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Kubrick",
-    "subtitle":"Game based on Rubik's Cube",
-    "description":"Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics libraries.\r\n\r\nKubrick handles cubes, \"bricks\" and \"mats\" from 2x2x1 up to 6x6x6. It has several built-in puzzles of graded difficulty, as well as demos of solving moves and pretty patterns. The game has unlimited undo, redo, save and reload capabilities.",
+    "title":"KBlocks",
+    "subtitle":"Falling blocks game",
+    "description":"KBlocks is a single player Tetris-like falling blocks puzzle game.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"kubrick-icon.png",
-    "square_img":"kubrick-thumb.jpg",
+    "icon":"kblocks-icon.png",
+    "square_img":"kblocks-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "kubrick-screenshot1.jpg"
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
       ],
       "pt":[
-        "kubrick-screenshot1.jpg"
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
       ],
       "es":[
-        "kubrick-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"palapeli",
-    "desktop-id":"eos-app-palapeli",
-    "exec":"palapeli",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Palapeli",
-    "subtitle":"Jigsaw puzzle game",
-    "description":"Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely movable.\r\n\r\nPalapeli is the Finnish word for jigsaw puzzle.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"palapeli-icon.png",
-    "square_img":"palapeli-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "palapeli-screenshot1.jpg"
-      ],
-      "pt":[
-        "palapeli-screenshot1.jpg"
-      ],
-      "es":[
-        "palapeli-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kigo",
-    "desktop-id":"eos-app-kigo",
-    "exec":"kigo %i -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Kigo",
-    "subtitle":"Go game",
-    "description":"Kigo is an open-source implementation of the popular Go game. Go is a strategic board game for two players. It is also known as igo (Japanese), weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in strategic complexity despite its simple rules. The game is played by two players who alternately place black and white stones (playing pieces, now usually made of glass or plastic) on the vacant intersections of a grid of 19x19 lines (9x9 or 13x13 for easier games).",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kigo-icon.png",
-    "square_img":"kigo-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kigo-screenshot1.jpg"
-      ],
-      "pt":[
-        "kigo-screenshot1.jpg"
-      ],
-      "es":[
-        "kigo-screenshot1.jpg"
+        "kblocks-screenshot1.jpg",
+        "kblocks-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -3158,8 +3199,6 @@
     "desktop-id":"eos-app-kbounce",
     "exec":"kbounce -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KBounce",
     "subtitle":"Jezzball arcade game",
     "description":"KBounce is a game where the player builds walls to confine a number of bouncing balls.",
@@ -3171,6 +3210,7 @@
     "icon":"kbounce-icon.png",
     "square_img":"kbounce-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "kbounce-screenshot1.jpg"
@@ -3188,12 +3228,412 @@
   },
   {
     "displayShape":"b1",
+    "application-id":"kbruch",
+    "desktop-id":"eos-app-kbruch",
+    "exec":"kbruch -caption %c %i",
+    "tryexec":"",
+    "title":"KBruch",
+    "subtitle":"Fraction learning aid for KDE",
+    "description":"KBruch is an aid for learning how to calculate with fractions.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kbruch-icon.png",
+    "square_img":"kbruch-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kbruch-screenshot1.jpg"
+      ],
+      "pt":[
+        "kbruch-screenshot1.jpg"
+      ],
+      "es":[
+        "kbruch-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kdiamond",
+    "desktop-id":"eos-app-kdiamond",
+    "exec":"kdiamond -caption %c",
+    "tryexec":"",
+    "title":"KDiamond",
+    "subtitle":"Three-in-a-row game",
+    "description":"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun with randomly generated games and five difficulty levels with varying number of diamond colors and board sizes.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kdiamond-icon.png",
+    "square_img":"kdiamond-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kdiamond-screenshot1.jpg"
+      ],
+      "pt":[
+        "kdiamond-screenshot1.jpg"
+      ],
+      "es":[
+        "kdiamond-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kgeography",
+    "desktop-id":"eos-app-kgeography",
+    "exec":"kgeography",
+    "tryexec":"",
+    "title":"KGeography",
+    "subtitle":"Geography learning aid for KDE",
+    "description":"KGeography is an aid for learning about world geography. You can use it to explore a map, show information about regions and features, and play quiz games to test your geography knowledge.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kgeography-icon.png",
+    "square_img":"kgeography-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ],
+      "pt":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ],
+      "es":[
+        "kgeography-screenshot1.jpg",
+        "kgeography-screenshot2.jpg",
+        "kgeography-screenshot3.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kgoldrunner",
+    "desktop-id":"eos-app-KGoldrunner",
+    "exec":"kgoldrunner",
+    "tryexec":"",
+    "title":"KGoldrunner",
+    "subtitle":"Lode Runner arcade game",
+    "description":"KGoldrunner is a fast-paced platform game where the player must navigate a maze while collecting gold nuggets and avoiding enemies. A variety of level packs are included, as well as an editor to create new levels.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kgoldrunner-icon.png",
+    "square_img":"kgoldrunner-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kgoldrunner-screenshot1.jpg"
+      ],
+      "pt":[
+        "kgoldrunner-screenshot1.jpg"
+      ],
+      "es":[
+        "kgoldrunner-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kigo",
+    "desktop-id":"eos-app-kigo",
+    "exec":"kigo %i -caption %c",
+    "tryexec":"",
+    "title":"Kigo",
+    "subtitle":"Go game",
+    "description":"Kigo is an open-source implementation of the popular Go game. Go is a strategic board game for two players. It is also known as igo (Japanese), weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in strategic complexity despite its simple rules. The game is played by two players who alternately place black and white stones (playing pieces, now usually made of glass or plastic) on the vacant intersections of a grid of 19x19 lines (9x9 or 13x13 for easier games).",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kigo-icon.png",
+    "square_img":"kigo-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kigo-screenshot1.jpg"
+      ],
+      "pt":[
+        "kigo-screenshot1.jpg"
+      ],
+      "es":[
+        "kigo-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"killbots",
+    "desktop-id":"eos-app-killbots",
+    "exec":"killbots -caption %c",
+    "tryexec":"",
+    "title":"Killbots",
+    "subtitle":"Port of the classic BSD console game robots",
+    "description":"Killbots is a simple game of evading killer robots. The robots are numerous and their sole objective is to destroy you. Fortunately for you, their creator has focused on quantity rather than quality and as a result the robots are severely lacking in intelligence. Your superior wit and a fancy teleportation device are your only weapons against the never-ending stream of mindless automatons.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"killbots-icon.png",
+    "square_img":"killbots-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "killbots-screenshot1.jpg"
+      ],
+      "pt":[
+        "killbots-screenshot1.jpg"
+      ],
+      "es":[
+        "killbots-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kjumpingcube",
+    "desktop-id":"eos-app-kjumpingcube",
+    "exec":"kjumpingcube -caption %c",
+    "tryexec":"",
+    "title":"KJumpingCube",
+    "subtitle":"Simple tactical game",
+    "description":"KJumpingCube is a simple tactical game for one or two players, played on a grid of numbered squares. Each turn, players compete for control of the board by capturing or adding to one square.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kjumpingcube-icon.png",
+    "square_img":"kjumpingcube-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kjumpingcube-screenshot1.jpg"
+      ],
+      "pt":[
+        "kjumpingcube-screenshot1.jpg"
+      ],
+      "es":[
+        "kjumpingcube-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"klickety",
+    "desktop-id":"eos-app-klickety",
+    "exec":"klickety -caption %c",
+    "tryexec":"",
+    "title":"Klickety",
+    "subtitle":"Adaptation of Clickomania",
+    "description":"Klickety is an adaptation of the Clickomania game. The rules are similar to those of the KSame game: your goal is to clear the board by clicking on groups to destroy them. The overall aim is to get the lowest score possible. It will provide entertainment for all abilities, but a challenge in logical thought if you want to get a really low score.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"klickety-icon.png",
+    "square_img":"klickety-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "klickety-screenshot1.jpg"
+      ],
+      "pt":[
+        "klickety-screenshot1.jpg"
+      ],
+      "es":[
+        "klickety-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"kmines",
+    "desktop-id":"eos-app-kmines",
+    "exec":"kmines -caption %c",
+    "tryexec":"",
+    "title":"KMines",
+    "subtitle":"Minesweeper game",
+    "description":"KMines is a game where the player finds hidden mines without setting them off.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"kmines-icon.png",
+    "square_img":"kmines-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "kmines-screenshot1.jpg"
+      ],
+      "pt":[
+        "kmines-screenshot1.jpg"
+      ],
+      "es":[
+        "kmines-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"knetwalk",
+    "desktop-id":"eos-app-knetwalk",
+    "exec":"knetwalk -caption %c",
+    "tryexec":"",
+    "title":"KNetwalk",
+    "subtitle":"Wire puzzle game",
+    "description":"KNetwalk is a puzzle game where the player arranges sections of wire to connect all the computers on the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"knetwalk-icon.png",
+    "square_img":"knetwalk-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "knetwalk-screenshot1.jpg"
+      ],
+      "pt":[
+        "knetwalk-screenshot1.jpg"
+      ],
+      "es":[
+        "knetwalk-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"klines",
+    "desktop-id":"eos-app-klines",
+    "exec":"klines -caption %c",
+    "tryexec":"",
+    "title":"Kolor Lines",
+    "subtitle":"Color lines game",
+    "description":"Kolor Lines is a single-player game where the player removes colored balls from the board by arranging them into lines of five or more. However, every time the player moves a ball, three more balls are added to the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"klines-icon.png",
+    "square_img":"klines-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "klines-screenshot1.jpg"
+      ],
+      "pt":[
+        "klines-screenshot1.jpg"
+      ],
+      "es":[
+        "klines-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"ksame",
+    "desktop-id":"eos-app-ksame",
+    "exec":"klickety --geometry 1920x1080+0+0 --KSameMode -caption %c",
+    "tryexec":"",
+    "title":"KSame",
+    "subtitle":"SameGame puzzle game",
+    "description":"Klickety is a puzzle game where the player removes groups of colored marbles to clear the board.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"ksame-icon.png",
+    "square_img":"ksame-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "ksame-screenshot1.jpg"
+      ],
+      "pt":[
+        "ksame-screenshot1.jpg"
+      ],
+      "es":[
+        "ksame-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
     "application-id":"ksnake",
     "desktop-id":"eos-app-kdesnake",
     "exec":"ktron --geometry 1920x1080+0+0 -snake -caption %c %i",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KSnake",
     "subtitle":"Classical snake action game",
     "description":"In KSnake you steer a snake which has to eat food. While eating, the snake grows. But once a player collides with the other snake or the wall, the game is lost. This becomes, of course, more and more difficult the longer the snakes grow.",
@@ -3205,6 +3645,7 @@
     "icon":"ksnake-icon.png",
     "square_img":"ksnake-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "ksnake-screenshot1.jpg"
@@ -3226,8 +3667,6 @@
     "desktop-id":"eos-app-ktron",
     "exec":"ktron -caption %c %i",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KSnakeDuel",
     "subtitle":"Tron-like snakerace game",
     "description":"The object of the game is to avoid running into walls, your own tail, and that of your opponent, while at the same time you have to try to get your opponent to run into them.",
@@ -3239,6 +3678,7 @@
     "icon":"ksnakeduel-icon.png",
     "square_img":"ksnakeduel-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "ksnakeduel-screenshot1.jpg"
@@ -3256,63 +3696,31 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"ksame",
-    "desktop-id":"eos-app-ksame",
-    "exec":"klickety --geometry 1920x1080+0+0 --KSameMode -caption %c",
+    "application-id":"ksquares",
+    "desktop-id":"eos-app-ksquares",
+    "exec":"ksquares %i -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KSame",
-    "subtitle":"SameGame puzzle game",
-    "description":"Klickety is a puzzle game where the player removes groups of colored marbles to clear the board.",
+    "title":"KSquares",
+    "subtitle":"Dots and boxes game",
+    "description":"KSquares is a game where two players take turns connecting dots on a grid to complete the most squares.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"ksame-icon.png",
-    "square_img":"ksame-thumb.jpg",
+    "icon":"ksquares-icon.png",
+    "square_img":"ksquares-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "ksame-screenshot1.jpg"
-      ],
-      "es":[
-        "ksame-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"klickety",
-    "desktop-id":"eos-app-klickety",
-    "exec":"klickety -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Klickety",
-    "subtitle":"Adaptation of Clickomania",
-    "description":"Klickety is an adaptation of the Clickomania game. The rules are similar to those of the KSame game: your goal is to clear the board by clicking on groups to destroy them. The overall aim is to get the lowest score possible. It will provide entertainment for all abilities, but a challenge in logical thought if you want to get a really low score.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"klickety-icon.png",
-    "square_img":"klickety-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "klickety-screenshot1.jpg"
+        "ksquares-screenshot1.jpg"
       ],
       "pt":[
-        "klickety-screenshot1.jpg"
+        "ksquares-screenshot1.jpg"
       ],
       "es":[
-        "klickety-screenshot1.jpg"
+        "ksquares-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -3325,8 +3733,6 @@
     "desktop-id":"eos-app-kstars",
     "exec":"kstars -caption %c %i",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KStars",
     "subtitle":"Desktop planetarium for KDE",
     "description":"KStars is a desktop planetarium for KDE, depicting an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 planets, the Sun and Moon, and thousands of comets and asteroids. It includes tools for astronomical calculations and can control telescopes and cameras.",
@@ -3338,6 +3744,7 @@
     "icon":"kstars-icon.png",
     "square_img":"kstars-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "kstars-screenshot1.jpg"
@@ -3355,80 +3762,10 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"bovo",
-    "desktop-id":"eos-app-bovo",
-    "exec":"bovo -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Bovo",
-    "subtitle":"Gomoku (five in line) board game",
-    "description":"Bovo is a game where two players take turns placing markers on the board, the winner being the first to complete a line of five markers.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"bovo-icon.png",
-    "square_img":"bovo-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "bovo-screenshot1.jpg"
-      ],
-      "pt":[
-        "bovo-screenshot1.jpg"
-      ],
-      "es":[
-        "bovo-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kmines",
-    "desktop-id":"eos-app-kmines",
-    "exec":"kmines -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KMines",
-    "subtitle":"Minesweeper game",
-    "description":"KMines is a game where the player finds hidden mines without setting them off.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kmines-icon.png",
-    "square_img":"kmines-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kmines-screenshot1.jpg"
-      ],
-      "pt":[
-        "kmines-screenshot1.jpg"
-      ],
-      "es":[
-        "kmines-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
     "application-id":"ksudoku",
     "desktop-id":"eos-app-ksudoku",
     "exec":"ksudoku %i -caption %c",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"KSudoku",
     "subtitle":"Sudoku puzzle game and solver",
     "description":"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets and find the solution to any Sudoku puzzle.",
@@ -3440,6 +3777,7 @@
     "icon":"ksudoku-icon.png",
     "square_img":"ksudoku-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "ksudoku-screenshot1.jpg",
@@ -3460,74 +3798,102 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gcompris-admin",
-    "desktop-id":"eos-app-gcompris-admin",
-    "exec":"gcompris --administration",
+    "application-id":"kubrick",
+    "desktop-id":"eos-app-kubrick",
+    "exec":"kubrick --geometry 1920x1080+0+0",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"GCompris Admin",
-    "subtitle":"Teacher admin console for GCompris",
-    "description":"Run GCompris (EduGames) in administration and user-management mode.",
+    "title":"Kubrick",
+    "subtitle":"Game based on Rubik's Cube",
+    "description":"Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics libraries.\r\n\r\nKubrick handles cubes, \"bricks\" and \"mats\" from 2x2x1 up to 6x6x6. It has several built-in puzzles of graded difficulty, as well as demos of solving moves and pretty patterns. The game has unlimited undo, redo, save and reload capabilities.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"gcompris-admin-icon.png",
-    "square_img":"gcompris-admin-thumb.jpg",
+    "icon":"kubrick-icon.png",
+    "square_img":"kubrick-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
-        "gcompris-admin-screenshot1.jpg"
+        "kubrick-screenshot1.jpg"
       ],
       "pt":[
-        "gcompris-admin-screenshot1.jpg"
+        "kubrick-screenshot1.jpg"
       ],
       "es":[
-        "gcompris-admin-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kblocks",
-    "desktop-id":"eos-app-kblocks",
-    "exec":"kblocks -caption %c",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KBlocks",
-    "subtitle":"Falling blocks game",
-    "description":"KBlocks is a single player Tetris-like falling blocks puzzle game.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kblocks-icon.png",
-    "square_img":"kblocks-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
-      ],
-      "pt":[
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
-      ],
-      "es":[
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
+        "kubrick-screenshot1.jpg"
       ]
     },
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"palapeli",
+    "desktop-id":"eos-app-palapeli",
+    "exec":"palapeli",
+    "tryexec":"",
+    "title":"Palapeli",
+    "subtitle":"Jigsaw puzzle game",
+    "description":"Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely movable.\r\n\r\nPalapeli is the Finnish word for jigsaw puzzle.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"palapeli-icon.png",
+    "square_img":"palapeli-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "palapeli-screenshot1.jpg"
+      ],
+      "pt":[
+        "palapeli-screenshot1.jpg"
+      ],
+      "es":[
+        "palapeli-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"screenshot",
+    "desktop-id":"eos-app-gnome-screenshot",
+    "exec":"gnome-screenshot --interactive",
+    "tryexec":"",
+    "title":"Screenshot",
+    "subtitle":"Take a picture of your screen to save",
+    "description":"Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"None",
+    "custom-splash-screen":"",
+    "icon":"screenshot-icon.png",
+    "square_img":"screenshot-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "screenshot-screenshot1.jpg"
+      ],
+      "pt":[
+        "screenshot-screenshot1.jpg"
+      ],
+      "es":[
+        "screenshot-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
   },
   {
     "displayShape":"b1",
@@ -3535,8 +3901,6 @@
     "desktop-id":"eos-app-brasero",
     "exec":"brasero %U",
     "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
     "title":"Brasero",
     "subtitle":"CD\/DVD burning application",
     "description":"Brasero is a simple application to burn, copy, and erase CD and DVD media: audio, video, or data.",
@@ -3548,6 +3912,7 @@
     "icon":"brasero-icon.png",
     "square_img":"brasero-thumb.jpg",
     "featured_img":"",
+    "core":false,
     "screenshots":{
       "C":[
         "brasero-screenshot1.jpg"
@@ -3562,487 +3927,5 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"khangman",
-    "desktop-id":"eos-app-khangman",
-    "exec":"khangman -caption %c %i",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"KHangMan",
-    "subtitle":"Hangman word puzzle",
-    "description":"KHangMan is the well-known Hangman game, aimed towards children aged 6 and above. It picks a random word which the player must reveal by guessing if it contains certain letters. As the player guesses letters, the word is gradually revealed, but 10 wrong guesses will end the game.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"khangman-icon.png",
-    "square_img":"khangman-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "khangman-screenshot1.jpg"
-      ],
-      "pt":[
-        "khangman-screenshot1.jpg"
-      ],
-      "es":[
-        "khangman-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"marsshooter",
-    "desktop-id":"eos-app-mars",
-    "exec":"mars",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"M.A.R.S.",
-    "subtitle":"Ridiculous space shooter governed by the laws of gravity",
-    "description":"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, a stunning amount of particles and shader support. It offers single- and multiplayer gameplay, many impressive weapons and specials and customizable ships. In the year 3547 civilizations across the galaxy have settled their own planets, living in peace and harmony with its environment. But outside the placid habitats, the GREAT WAR is raging. As a famous fighter on your way to never ending honor and prosperity, you have to protect your planet from the imminent doom of your jealous neighbors!",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"marsshooter-icon.png",
-    "square_img":"marsshooter-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "marsshooter-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"extremetuxracer",
-    "desktop-id":"eos-app-extremetuxracer",
-    "exec":"etracer",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Tux Racer",
-    "subtitle":"3D racing game featuring Tux, the Linux penguin",
-    "description":"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL racing game featuring Tux, the Linux mascot. The goal of the game is to slide down a snow- and ice-covered mountain as quickly as possible, avoiding the trees and rocks that will slow you down. Collect herrings and other goodies while sliding down the hill, but avoid fish bones. This game is based on the GPL version of the famous game TuxRacer.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"extremetuxracer-icon.png",
-    "square_img":"extremetuxracer-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "extremetuxracer-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"xmoto",
-    "desktop-id":"eos-app-xmoto",
-    "exec":"xmoto -fs",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"X-Moto",
-    "subtitle":"2D motocross platform game",
-    "description":"X-Moto is a challenging 2D motocross platform game, where physics play an all important role in the gameplay. You need to control your bike to its limit, if you want to have a chance finishing the more difficult of the challenges.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"xmoto-icon.png",
-    "square_img":"xmoto-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "xmoto-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"ri-li",
-    "desktop-id":"eos-app-ri-li",
-    "exec":"ri-li",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Ri-Li",
-    "subtitle":"Toy train simulation game",
-    "description":"Ri-li is a game in which you drive a wooden toy steam locomotive across many levels and collect all the coaches to win.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"ri-li-icon.png",
-    "square_img":"ri-li-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "ri-li-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"tuxfootball",
-    "desktop-id":"eos-app-tuxfootball",
-    "exec":"tuxfootball -fs",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Tux Football",
-    "subtitle":"Great 2D soccer (sometimes called football) game",
-    "description":"It's bringing old style gameplay from DOS times back to the desktop with up to date graphics! Its gameplay is similar to old classics such as Amco's Kick Off and Sensible Software's Sensible Soccer. The gameplay is designed to be quick, responsive and fun. You are always in control of the player closest to the ball. The ball is controlled via two different kick buttons - one for pass, and one for shoot. Aftertouch can be applied to shots by quickly pressing and holding the direction you want the ball to bend towards. Pushing in the opposite direction to what you kicked the ball makes it raise into the air, pushing in the same direction as the ball makes it dip towards the ground.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"tuxfootball-icon.png",
-    "square_img":"tuxfootball-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "tuxfootball-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"tuxpuck",
-    "desktop-id":"eos-app-tuxpuck",
-    "exec":"tuxpuck",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Tux Puck",
-    "subtitle":"Air hockey game for single players",
-    "description":"TuxPuck is an air hockey game and clone of the Amiga\/Atari ST game Shufflepuck Caf\u00e9. The player moves a bat around a table and tries to knock the puck past the opponent's defense. After either party has reached 15 points, the match is over.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"tuxpuck-icon.png",
-    "square_img":"tuxpuck-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "tuxpuck-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"torcs",
-    "desktop-id":"eos-app-torcs",
-    "exec":"torcs",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"TORCS",
-    "subtitle":"3D racing cars simulator game using OpenGL",
-    "description":"TORCS, The Open Racing Car Simulator is a car racing simulation game which allows you to drive in races against opponents simulated by the computer. You can also develop your own computer-controlled driver (also called a robot) in C or C++. TORCS is GPL (version 2 or later).",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"torcs-icon.png",
-    "square_img":"torcs-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "torcs-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"marble",
-    "desktop-id":"eos-app-marble",
-    "exec":"marble --geometry 1920x1080+0+0",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Marble",
-    "subtitle":"Globe and map widget",
-    "description":"Marble is a generic geographical map widget and framework for KDE applications. The Marble widget shows the earth as a sphere but does not require hardware acceleration. A minimal set of geographical data is included, so it can be used without an internet connection.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"marble-icon.png",
-    "square_img":"marble-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "marble-screenshot1.jpg",
-        "marble-screenshot2.jpg",
-        "marble-screenshot3.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"atanks",
-    "desktop-id":"eos-app-atanks",
-    "exec":"atanks",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Atomic Tanks",
-    "subtitle":"Tank-battling game",
-    "description":"Atomic tanks is a multi-player game in which you attempt to destroy other tanks while trying to protect your own. You earn money for destroying other tanks; with this money you can buy upgrades and better weapons for your tank. This game is similar Scorched Earth or the Worms series of games.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"atanks-icon.png",
-    "square_img":"atanks-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "atanks-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"warzone2100",
-    "desktop-id":"eos-app-warzone2100",
-    "exec":"warzone2100 --fullscreen",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Warzone 2100",
-    "subtitle":"3D real time strategy game",
-    "description":"In Warzone 2100 you command the forces of \u201cThe Project\u201d in a battle to rebuild the world after mankind has almost been destroyed by nuclear missiles. The game offers campaign, tutorial, multi-player and single-player skirmish modes. An extensive tech tree with over 400 different technologies, combined with the unit design system, allows for a wide variety of possible units and tactics. Warzone 2100 was created by Pumpkin Studios, published by Eidos Interactive and is currently developed by the Warzone 2100 Project.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"warzone2100-icon.png",
-    "square_img":"warzone2100-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "warzone2100-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"minetest",
-    "desktop-id":"eos-app-minetest",
-    "exec":"minetest",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Minetest",
-    "subtitle":"Multiplayer infinite-world block sandbox",
-    "description":"Minetest is a minecraft-inspired game written from scratch and licensed under the LGPL (version 2.1 or later). It supports both survival and creative modes along with multiplayer support, dynamic lighting, and an \"infinite\" map generator.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"minetest-icon.png",
-    "square_img":"minetest-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "minetest-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"wesnoth",
-    "desktop-id":"eos-app-wesnoth-1.11",
-    "exec":"wesnoth -f",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Wesnoth",
-    "subtitle":"Fantasy turn-based strategy game",
-    "description":"Battle for control of villages, using variety of units which have advantages and disadvantages in different types of terrains and against different types of attacks. Units gain experience and advance levels, and are carried over from one scenario to the next in a campaign.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"wesnoth-icon.png",
-    "square_img":"wesnoth-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "wesnoth-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"slingshot",
-    "desktop-id":"eos-app-slingshot",
-    "exec":"slingshot",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Slingshot",
-    "subtitle":"Simple 2D shooting strategy game set in space, with gravity",
-    "description":"Slingshot is a two dimensional, turn based simulation-strategy game set in the gravity fields of several planets. It is a highly addictive game, and never the same from round to round due to its randomly generated playing fields. It is a deceptively simple game, the goal is to shoot the other spacecraft through the field of planets, but their gravity makes it tricky. The effects of the gravity mean that although it is easy to learn how to play, and to enjoy playing, it could take a lifetime to thoroughly master.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"slingshot-icon.png",
-    "square_img":"slingshot-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "slingshot-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"warmux",
-    "desktop-id":"eos-app-warmux",
-    "exec":"warmux",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Warmux",
-    "subtitle":"Turn-based artillery game on 2D maps",
-    "description":"WarMUX is a free game in the genre of turn-based artillery games like Scorched Earth or Worms. Several players can play together, either locally or over the network. It is also possible to compete against computer-driven teams. The teams are styled after the mascots of various free software projects.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"warmux-icon.png",
-    "square_img":"warmux-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "warmux-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"btanks",
-    "desktop-id":"eos-app-btanks",
-    "exec":"btanks",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"Battle Tanks",
-    "subtitle":"Fast 2D tank arcade game with multiplayer and split-screen modes",
-    "description":"Battle Tanks is a funny battle on your desk, where you can choose one of three vehicles and eliminate your enemy using the whole arsenal of weapons.  It has original cartoon-like graphics and cool music, it is fun and dynamic, and it has several network modes for death match and cooperative.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"btanks-icon.png",
-    "square_img":"btanks-thumb.jpg",
-    "featured_img":"",
-    "screenshots":{
-      "C":[
-        "btanks-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"megaglest",
-    "desktop-id":"eos-app-megaglest",
-    "exec":"megaglest",
-    "tryexec":"",
-    "folder":"none",
-    "desktop-position":null,
-    "title":"MegaGlest",
-    "subtitle":"3D multi-player real time strategy game",
-    "description":"MegaGlest is a free 3D real-time customizable strategy game which takes place in a context which could be compared to that of the pre-renaissance Europe, with the licence that magic forces exist in the environment and can be controlled. The current version is fully playable and supports both single player games against CPU controlled players and multiplayer matches over the Internet or a LAN.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"megaglest-icon.png",
-    "square_img":"megaglest-thumb.jpg",
-    "featured_img":"",
-    "screenshots":[
-      
-    ],
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
   }
 ]
