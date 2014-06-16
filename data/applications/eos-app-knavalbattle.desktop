@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=KNavalbattle
+Comment=Battleship board game
+Type=Application
+Exec=knavalbattle -caption %c %U
+Icon=eos-app-knavalbattle
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-SplashScreen=true

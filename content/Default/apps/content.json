@@ -139,37 +139,37 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"wikipedia",
-    "desktop-id":"eos-app-com.endlessm.wikipedia",
-    "exec":"eos-wikipedia",
+    "application-id":"encyclopedia",
+    "desktop-id":"eos-app-com.endlessm.encyclopedia",
+    "exec":"eos-encyclopedia",
     "tryexec":"",
-    "title":"Wikipedia",
+    "title":"Encyclopedia",
     "subtitle":"The free encyclopedia that anyone can edit",
-    "description":"Whether you\u2019re working online or offline, you want access to the world\u2019s treasure trove of information \u2013 Wikipedia. With the Wikipedia app, you\u2019ll have just that. Use the easy search tool to look up any topic you want, and you\u2019ll be able to read the encyclopedia entry on that topic. You\u2019ll learn more than you ever thought possible with access to the Internet's greatest informational resource.",
+    "description":"Whether you\u2019re working online or offline, you want access to the world\u2019s treasure trove of information \u2013 Wikipedia. With the Encyclopedia app, you\u2019ll have just that. Use the easy search tool to look up any topic you want, and you\u2019ll be able to read the encyclopedia entry on that topic. You\u2019ll learn more than you ever thought possible with access to the Internet's greatest informational resource.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"wikipedia-splash.jpg",
-    "icon":"wikipedia-icon.png",
-    "square_img":"wikipedia-thumb.jpg",
-    "featured_img":"wikipedia-featured.jpg",
+    "custom-splash-screen":"encyclopedia-splash.jpg",
+    "icon":"encyclopedia-icon.png",
+    "square_img":"encyclopedia-thumb.jpg",
+    "featured_img":"encyclopedia-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "wikipedia-screenshot1.jpg",
-        "wikipedia-screenshot2.jpg",
-        "wikipedia-screenshot3.jpg"
+        "encyclopedia-screenshot1.jpg",
+        "encyclopedia-screenshot2.jpg",
+        "encyclopedia-screenshot3.jpg"
       ],
       "pt":[
-        "wikipedia-screenshot1.jpg",
-        "wikipedia-screenshot2.jpg",
-        "wikipedia-screenshot3.jpg"
+        "encyclopedia-screenshot1.jpg",
+        "encyclopedia-screenshot2.jpg",
+        "encyclopedia-screenshot3.jpg"
       ],
       "es":[
-        "wikipedia-screenshot1.jpg",
-        "wikipedia-screenshot2.jpg",
-        "wikipedia-screenshot3.jpg"
+        "encyclopedia-screenshot1.jpg",
+        "encyclopedia-screenshot2.jpg",
+        "encyclopedia-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -3927,5 +3927,38 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"knavalbattle",
+    "desktop-id":"eos-app-knavalbattle",
+    "exec":"knavalbattle -caption %c %U",
+    "tryexec":"",
+    "title":"KNavalbattle",
+    "subtitle":"Battleship board game",
+    "description":"KNavalbattle is an implementation of the Battleship game, where two players take turns firing at the opponent's ships by guessing their coordinates.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"knavalbattle-icon.png",
+    "square_img":"knavalbattle-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "C":[
+        "knavalbattle-screenshot1.jpg"
+      ],
+      "pt":[
+        "knavalbattle-screenshot1.jpg"
+      ],
+      "es":[
+        "knavalbattle-screenshot1.jpg"
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Leisure"
   }
 ]
