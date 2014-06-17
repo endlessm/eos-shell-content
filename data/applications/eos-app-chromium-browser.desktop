@@ -11,4 +11,4 @@ Exec=chromium-browser %U
 Icon=eos-app-chromium-browser
 Categories=
 X-Endless-ShowInAppStore=false
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true

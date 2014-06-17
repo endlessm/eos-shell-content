@@ -9,4 +9,4 @@ Exec=kwordquiz -caption %c %i
 Icon=eos-app-kwordquiz
 Categories=Education;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true

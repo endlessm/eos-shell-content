@@ -19,7 +19,7 @@ class DesktopObject(object):
         'MimeType',
         'X-Endless-ShowInAppStore',
         'X-Endless-ShowInPersonalities',
-        'X-Endless-SplashScreen',
+        'X-Endless-LaunchMaximized',
         'X-Endless-SplashBackground'
     ]
         
@@ -48,7 +48,9 @@ class DesktopObject(object):
                 if val is None:
                     return ''
                 return ';'.join(val.split(' and ')) + ';'
-            if key == 'X-Endless-SplashScreen':
+            if key == 'X-Endless-LaunchMaximized':
+                # In the CMS, the splash screen type serves a double duty:
+                # if the type is 'None', we don't launch maximized
                 if val in ['Default', 'Custom']:
                     return 'true'
                 else:
@@ -164,7 +166,7 @@ class LinkObject(DesktopObject):
             return None
         elif key == 'MimeType':
             return None
-        elif key == 'X-Endless-SplashScreen':
+        elif key == 'X-Endless-LaunchMaximized':
             return None
         elif key == 'X-Endless-SplashBackground':
             return None
@@ -183,7 +185,7 @@ class AppObject(DesktopObject):
         'Icon': 'application-id',
         'Folder': 'folder',
         'Index': 'desktop-position',
-        'X-Endless-SplashScreen': 'splash-screen-type',
+        'X-Endless-LaunchMaximized': 'splash-screen-type',
         'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 

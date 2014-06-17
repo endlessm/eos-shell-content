@@ -10,4 +10,4 @@ Exec=gnome-screenshot --interactive
 Icon=eos-app-screenshot
 Categories=Utility;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=false
+X-Endless-LaunchMaximized=false
