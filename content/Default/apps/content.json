@@ -1299,37 +1299,37 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"youtube",
-    "desktop-id":"eos-app-com.endlessm.youtube",
-    "exec":"eos-youtube",
+    "application-id":"youvideos",
+    "desktop-id":"eos-app-com.endlessm.youvideos",
+    "exec":"eos-youvideos",
     "tryexec":"",
-    "title":"YouTube",
+    "title":"YouVideos",
     "subtitle":"Share your videos with friends, family, and the world",
     "description":"YouTube is one of the most entertaining and informative sites on the Web. You can find videos of your favorite musical artists, tutorials that teach you to do virtually anything, funny or cute videos, and so much more! The YouTube app makes finding videos easier in a beautiful new way. This app is the best way to discover exactly the video you\u2019re looking for.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"youtube-splash.jpg",
-    "icon":"youtube-icon.png",
-    "square_img":"youtube-thumb.jpg",
+    "custom-splash-screen":"youvideos-splash.jpg",
+    "icon":"youvideos-icon.png",
+    "square_img":"youvideos-thumb.jpg",
     "featured_img":"",
     "core":true,
     "screenshots":{
       "C":[
-        "youtube-screenshot1.jpg",
-        "youtube-screenshot2.jpg",
-        "youtube-screenshot3.jpg"
+        "youvideos-screenshot1.jpg",
+        "youvideos-screenshot2.jpg",
+        "youvideos-screenshot3.jpg"
       ],
       "pt":[
-        "youtube-screenshot1.jpg",
-        "youtube-screenshot2.jpg",
-        "youtube-screenshot3.jpg"
+        "youvideos-screenshot1.jpg",
+        "youvideos-screenshot2.jpg",
+        "youvideos-screenshot3.jpg"
       ],
       "es":[
-        "youtube-screenshot1.jpg",
-        "youtube-screenshot2.jpg",
-        "youtube-screenshot3.jpg"
+        "youvideos-screenshot1.jpg",
+        "youvideos-screenshot2.jpg",
+        "youvideos-screenshot3.jpg"
       ]
     },
     "is_featured":true,
