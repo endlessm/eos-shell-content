@@ -1,13 +1,13 @@
 {
   "desktop" : [
     "eos-app-chromium-browser.desktop",
-    "eos-app-com.endlessm.youtube.desktop",
+    "eos-app-com.endlessm.youvideos.desktop",
     "eos-app-skype.desktop",
     "eos-app-eos-file-manager.desktop",
     "eos-app-libreoffice-writer.desktop",
     "eos-app-rhythmbox.desktop",
     "eos-app-com.endlessm.photos.desktop",
-    "eos-app-com.endlessm.wikipedia.desktop",
+    "eos-app-com.endlessm.encyclopedia.desktop",
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
@@ -46,12 +46,12 @@
     "eos-app-evolution.desktop",
     "eos-app-libreoffice-calc.desktop",
     "eos-app-libreoffice-impress.desktop",
-    "eos-app-com.endlessm.endless-resume-app.desktop",
+    "eos-app-com.endlessm.resume.desktop",
     "eos-link-gmail.desktop",
     "eos-app-gnome-calculator.desktop"
   ],
   "eos-folder-news.directory" : [
-    "eos-app-com.endlessm.endless-weather.desktop",
+    "eos-app-com.endlessm.weather.desktop",
     "eos-link-prensalibre.desktop",
     "eos-link-sigloveintiuno.desktop",
     "eos-link-elperiodico.desktop", 
@@ -66,10 +66,10 @@
     "eos-app-com.endlessm.fitness.desktop",
     "eos-app-com.endlessm.celebrities.desktop",
     "eos-app-com.endlessm.science.desktop",
-    "eos-app-com.endlessm.endless-english.desktop",
+    "eos-app-com.endlessm.english.desktop",
     "eos-app-com.endlessm.khanacademy.desktop",
     "eos-link-ted.desktop",
-    "eos-app-com.endlessm.endless-translation.desktop",
+    "eos-app-com.endlessm.translation.desktop",
     "eos-app-com.endlessm.typing.desktop"
   ],
   "eos-folder-social.directory" : [
