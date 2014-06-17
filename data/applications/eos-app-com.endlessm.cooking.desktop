@@ -11,5 +11,5 @@ Exec=eos-cooking
 Icon=eos-app-cooking
 Categories=Education;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true
 X-Endless-SplashBackground=/usr/share/EndlessOS/splash/cooking-splash.jpg

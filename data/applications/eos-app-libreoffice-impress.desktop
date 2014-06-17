@@ -11,4 +11,4 @@ Exec=libreoffice --impress %U
 Icon=eos-app-libreoffice-impress
 Categories=Utility;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true

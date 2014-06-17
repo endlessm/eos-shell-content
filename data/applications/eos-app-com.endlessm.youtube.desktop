@@ -11,5 +11,5 @@ Exec=eos-youtube
 Icon=eos-app-youtube
 Categories=Leisure;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true
 X-Endless-SplashBackground=/usr/share/EndlessOS/splash/youtube-splash.jpg

@@ -11,4 +11,4 @@ Exec=sol --class=solitaire --variation=klondike
 Icon=eos-app-solitaire
 Categories=Leisure;
 X-Endless-ShowInAppStore=true
-X-Endless-SplashScreen=true
+X-Endless-LaunchMaximized=true
