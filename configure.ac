@@ -64,10 +64,16 @@ AS_IF([test "x$enable_maintainer_cflags" = "xyes"],
       ])
 AC_SUBST(MAINTAINER_CFLAGS)
 
+AC_PATH_PROG(GTK_UPDATE_ICON_CACHE, gtk-update-icon-cache)
+if test -z "$GTK_UPDATE_ICON_CACHE"; then
+    AC_MSG_ERROR([Could not find gtk-update-icon-cache])
+fi
+
 AC_CONFIG_FILES([
         Makefile
         content/Makefile
         data/Makefile
+	icons/Makefile
         po/Makefile.in
         ])
 
