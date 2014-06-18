@@ -9,11 +9,13 @@ Build-Depends: cdbs (>= 0.4.90~),
                gnome-pkg-tools,
                pkg-config,
                libjson-glib-dev,
-               libglib2.0-dev
+               libglib2.0-dev,
+               libgtk2.0-bin
 Standards-Version: 3.9.2
 Homepage: http://www.endlessm.com
 
 Package: eos-shell-content
 Architecture: all
+Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
