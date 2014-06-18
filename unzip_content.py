@@ -17,7 +17,6 @@
 # Add and commit any changes to git
 # Proceed with the normal build process
 
-import glob
 import json
 import os
 import shutil
@@ -65,18 +64,9 @@ if __name__ == '__main__':
             print('where SPLASHDIR is the folder where the splash images are installed')
             print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
 
-    # Remove the existing unzipped and content dirs, if they exist
+    # Remove the existing unzipped, content, and icon dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)
     shutil.rmtree(CONTENT_DIR, IGNORE_ERRORS)
-
-    # Remove any existing app or link icons
-    # We cannot blindly remove the directory,
-    # as there are other icons that should not be touched
-    # by this script (e.g., generic-app.png and generic-link.png)
-    for f in glob.glob(os.path.join(ICON_DIR, APP_PREFIX + '*.png')):
-        os.remove(f)
-    for f in glob.glob(os.path.join(ICON_DIR, LINK_PREFIX + '*.png')):
-        os.remove(f)
 
     # Note: the unzipped directory does not currently match
     # the requirements of the app store, so we first unzip
@@ -271,6 +261,12 @@ if __name__ == '__main__':
     translate_dir(LINKS_DIR)
     translate_dir(APPS_DIR)
 
+    # Remove the existing icon dir, if it exists
+    shutil.rmtree(ICON_DIR, IGNORE_ERRORS)
+
+    # Make the icon dir
+    os.makedirs(ICON_DIR)
+
     # Copy and rename the app icons to the icon folder
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'icons')
     target_dir = ICON_DIR
@@ -305,9 +301,9 @@ if __name__ == '__main__':
                             # Generate a new icon based on existing link image
                             source_file = os.path.join(source_dir, 'images', link['linkId'] + '.jpg')
 
-                            # Path to the mask png which will set the margin/corners of the generated icon.
-                            # Currently requires that 'generic-link.png' stays put indefinitely
-                            mask_file = os.path.join(target_dir, 'generic-link.png')
+                            # Path to the mask png which will set the
+                            # margin/corners of the generated icon.
+                            mask_file = 'icon_mask.png'
 
                             convert(source_file, target_file,
                                     '-resize 64x64^ -gravity center -crop 64x64+0+0 -alpha set ' + mask_file + ' -compose DstIn -composite')
