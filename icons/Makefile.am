@@ -24,4 +24,7 @@ uninstall-local:
 	done
 
 install-data-hook:
-	$(GTK_UPDATE_ICON_CACHE) -q $(DESTDIR)$(icondir)
+	$(GTK_UPDATE_ICON_CACHE) -q -t $(DESTDIR)$(icondir)
+
+uninstall-hook:
+	@rm -f  $(DESTDIR)$(icondir)/icon-theme.cache
