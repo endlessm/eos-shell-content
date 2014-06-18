@@ -5,8 +5,8 @@
 # for the 'convert' command
 
 # This script also requires polib
-# (sudo apt-get install pip)
-# (sudo pip install polib)
+# (sudo apt-get install python-polib)
+# for the imported translate_desktop_files
 
 # To use this script, first log into eoscms.parafernalia.net.br
 # Under "App Store", click on "Generate Package"
@@ -64,7 +64,7 @@ if __name__ == '__main__':
             print('where SPLASHDIR is the folder where the splash images are installed')
             print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
 
-    # Remove the existing unzipped, content, and icon dirs, if they exist
+    # Remove the existing unzipped and content dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)
     shutil.rmtree(CONTENT_DIR, IGNORE_ERRORS)
 
