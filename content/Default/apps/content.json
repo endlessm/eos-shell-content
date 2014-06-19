@@ -154,7 +154,7 @@
     "icon":"encyclopedia-icon.png",
     "square_img":"encyclopedia-thumb.jpg",
     "featured_img":"encyclopedia-featured.jpg",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "encyclopedia-screenshot1.jpg",
@@ -400,7 +400,7 @@
     "icon":"evolution-icon.png",
     "square_img":"evolution-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "evolution-screenshot1.jpg",
@@ -474,7 +474,7 @@
     "icon":"gcalctool-icon.png",
     "square_img":"gcalctool-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "gcalctool-screenshot1.jpg"
@@ -669,7 +669,7 @@
     "icon":"libreoffice-calc-icon.png",
     "square_img":"libreoffice-calc-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "libreoffice-calc-screenshot1.jpg"
@@ -702,7 +702,7 @@
     "icon":"libreoffice-impress-icon.png",
     "square_img":"libreoffice-impress-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "libreoffice-impress-screenshot1.jpg"
@@ -737,7 +737,7 @@
     "icon":"libreoffice-writer-icon.png",
     "square_img":"libreoffice-writer-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "libreoffice-writer-screenshot1.jpg",
@@ -901,7 +901,7 @@
     "icon":"rhythmbox-icon.png",
     "square_img":"rhythmbox-thumb.jpg",
     "featured_img":"rhythmbox-featured.jpg",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "rhythmbox-screenshot1.jpg",
@@ -937,7 +937,7 @@
     "icon":"shotwell-icon.png",
     "square_img":"shotwell-thumb.jpg",
     "featured_img":"shotwell-featured.jpg",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "shotwell-screenshot1.jpg",
@@ -1129,7 +1129,7 @@
     "icon":"totem-icon.png",
     "square_img":"totem-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "totem-screenshot1.jpg",
@@ -1314,7 +1314,7 @@
     "icon":"youvideos-icon.png",
     "square_img":"youvideos-thumb.jpg",
     "featured_img":"",
-    "core":true,
+    "core":false,
     "screenshots":{
       "C":[
         "youvideos-screenshot1.jpg",
@@ -1536,7 +1536,7 @@
     "icon":"empathy-icon.png",
     "square_img":"empathy-thumb.jpg",
     "featured_img":"empathy-featured.jpg",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "empathy-screenshot1.jpg",
@@ -1972,7 +1972,7 @@
     "icon":"eos-file-manager-icon.png",
     "square_img":"eos-file-manager-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":[
       
     ],
@@ -1997,7 +1997,7 @@
     "icon":"chromium-browser-icon.png",
     "square_img":"chromium-browser-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":[
       
     ],
@@ -2086,7 +2086,7 @@
     "icon":"gedit-icon.png",
     "square_img":"gedit-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "gedit-screenshot1.jpg",
@@ -2367,7 +2367,7 @@
     "icon":"terminal-icon.png",
     "square_img":"terminal-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "terminal-screenshot1.jpg"
@@ -3879,7 +3879,7 @@
     "icon":"screenshot-icon.png",
     "square_img":"screenshot-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "screenshot-screenshot1.jpg"
@@ -3912,7 +3912,7 @@
     "icon":"brasero-icon.png",
     "square_img":"brasero-thumb.jpg",
     "featured_img":"",
-    "core":false,
+    "core":true,
     "screenshots":{
       "C":[
         "brasero-screenshot1.jpg"
