@@ -23,11 +23,10 @@ class DesktopObject(object):
         'X-Endless-SplashBackground'
     ]
         
-    def __init__(self, data, desktop_dir, splash_dir):
+    def __init__(self, data, splash_dir):
         self._locale_keys = ['Name', 'Comment']
         self._suffix = '.desktop.in'
         self._data = data
-        self._desktop_dir = desktop_dir
         self._splash_dir = splash_dir
 
         self.defaults = {}
@@ -101,7 +100,7 @@ class DesktopObject(object):
         else:
             raise AttributeError
 
-    def _write_key(self, handle, key):
+    def write_key(self, handle, key):
         val = self.get(key)
         if val is not None:
             line = ('%s=%s\n' % (key, val)).encode('utf-8')
@@ -112,6 +111,10 @@ class DesktopObject(object):
     
     def key_is_localized(self, key):
         return key in self._locale_keys
+
+    def get_desktop_path(self):
+        return os.path.join(self.get_desktop_dir(),
+                            self._prefix + self.get('Id') + self._suffix)
 
 class LinkObject(DesktopObject):
 
@@ -127,7 +130,8 @@ class LinkObject(DesktopObject):
     }
 
     def __init__(self, data, desktop_dir, splash_dir, locale):
-        super(LinkObject, self).__init__(data, desktop_dir, splash_dir)
+        super(LinkObject, self).__init__(data, splash_dir)
+        self._desktop_dir = desktop_dir
         self._default_url = self.get('URL')
         self._locales = []
         self._localized_urls = {}
@@ -173,11 +177,15 @@ class LinkObject(DesktopObject):
         else:
             return super(LinkObject, self).get(key)
 
+    def get_desktop_dir(self):
+        return self._desktop_dir
+
 class AppObject(DesktopObject):
 
     json_keys = {
         'Name': 'title',
         'Id': 'desktop-id',
+        'Core': 'core',
         'Comment': 'subtitle',
         'Categories': 'category',
         'Exec': 'exec',
@@ -189,8 +197,10 @@ class AppObject(DesktopObject):
         'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
-    def __init__(self, data, desktop_dir, splash_dir):
-        super(AppObject, self).__init__(data, desktop_dir, splash_dir)
+    def __init__(self, data, desktop_dir, bundle_desktop_dir, splash_dir):
+        super(AppObject, self).__init__(data, splash_dir)
+        self._desktop_dir = desktop_dir
+        self._bundle_desktop_dir = bundle_desktop_dir
         # For applications, the desktop-id already has the 'eos-app-' prefix
         self._prefix = ''
         self._icon_prefix = 'eos-app-'
@@ -204,3 +214,9 @@ class AppObject(DesktopObject):
             return self._get_personalities()
         else:
             return super(AppObject, self).get(key)
+
+    def get_desktop_dir(self):
+        if self.get('Core'):
+            return self._desktop_dir
+        else:
+            return self._bundle_desktop_dir
