@@ -105,9 +105,18 @@ if __name__ == '__main__':
                 from_string = '"' + locales[i] + '"'
                 to_string = '"' + languages[i] + '"'
                 line = line.replace(from_string, to_string)
-        if (line.find('-screenshot') > 0):
+        if (line.find('-screenshot') >= 0):
             line = line.replace('.png', '.jpg')
-        outfile.write(line)
+        # Remove the original desktop ID
+        # TODO: remove this once the dekstop-id field is removed from CMS
+        if (line.find('desktop-id') < 0):
+            outfile.write(line)
+        # Generate a desktop ID from the app ID
+        # TODO: remove this if the app store is adjusted to calculate
+        #       the desktop ID from the app ID
+        if (line.find('application-id') >= 0):
+            line = line.replace('application-id":"', 'desktop-id":"eos-app-')
+            outfile.write(line)
     infile.close()
     outfile.close()
 

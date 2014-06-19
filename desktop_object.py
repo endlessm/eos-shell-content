@@ -37,7 +37,7 @@ class DesktopObject(object):
         if key in self.json_keys:
             val = self._data[self.json_keys[key]]
             if key == 'Icon':
-                return self._icon_prefix + val
+                return self._prefix + val
             if key == 'TryExec':
                 if not val:
                     # Convert empty string to None to avoid writing field
@@ -136,7 +136,6 @@ class LinkObject(DesktopObject):
         self._locales = []
         self._localized_urls = {}
         self._prefix = 'eos-link-'
-        self._icon_prefix = 'eos-link-'
 
         self.defaults['Personalities'] = ['All'];
 
@@ -184,7 +183,7 @@ class AppObject(DesktopObject):
 
     json_keys = {
         'Name': 'title',
-        'Id': 'desktop-id',
+        'Id': 'application-id',
         'Core': 'core',
         'Comment': 'subtitle',
         'Categories': 'category',
@@ -201,9 +200,7 @@ class AppObject(DesktopObject):
         super(AppObject, self).__init__(data, splash_dir)
         self._desktop_dir = desktop_dir
         self._bundle_desktop_dir = bundle_desktop_dir
-        # For applications, the desktop-id already has the 'eos-app-' prefix
-        self._prefix = ''
-        self._icon_prefix = 'eos-app-'
+        self._prefix = 'eos-app-'
 
     def _get_personalities(self):
         personalities = self._data['personalities']
