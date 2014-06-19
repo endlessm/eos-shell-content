@@ -73,7 +73,7 @@ AC_CONFIG_FILES([
         Makefile
         content/Makefile
         data/Makefile
-	icons/Makefile
+        icons/Makefile
         po/Makefile.in
         ])
 
