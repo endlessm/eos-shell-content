@@ -101,7 +101,7 @@ class DesktopObject(object):
         else:
             raise AttributeError
 
-    def _write_key(self, handle, key):
+    def write_key(self, handle, key):
         val = self.get(key)
         if val is not None:
             line = ('%s=%s\n' % (key, val)).encode('utf-8')
@@ -112,6 +112,10 @@ class DesktopObject(object):
     
     def key_is_localized(self, key):
         return key in self._locale_keys
+
+    def get_desktop_path(self):
+        return os.path.join(self._desktop_dir,
+                            self._prefix + self.get('Id') + self._suffix)
 
 class LinkObject(DesktopObject):
 

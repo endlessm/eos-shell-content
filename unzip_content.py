@@ -247,13 +247,12 @@ if __name__ == '__main__':
     # For each of the parsed links/apps, output a desktop.in file
     # which will then be translated via autotools
     for id, obj in desktop_objects.items():
-        desktop_id = obj.get('Id')
-        desktop_path = os.path.join(obj._desktop_dir, obj._prefix + desktop_id + obj._suffix)
+        desktop_path = obj.get_desktop_path()
         desktop_file = open(desktop_path, 'w')
         desktop_file.write('[Desktop Entry]\n')
 
         for key in obj.DESKTOP_KEYS:
-           obj._write_key(desktop_file, key)
+           obj.write_key(desktop_file, key)
 
         desktop_file.close()
 
