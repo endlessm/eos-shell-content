@@ -30,8 +30,10 @@ ZIP_FILENAME = 'appstore.zip'
 UNZIP_DIR = 'unzipped'
 CONTENT_DIR = 'content/Default'
 DATA_DIR = 'data'
+BUNDLE_DIR = 'bundle'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
+BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 SPLASH_DIR = '/usr/share/EndlessOS/splash'
 ICON_DIR = os.path.join('icons', '64x64', 'apps')
 IGNORE_ERRORS = True
@@ -202,10 +204,12 @@ if __name__ == '__main__':
     # Remove the existing desktop dirs, if they exist
     shutil.rmtree(LINKS_DIR, IGNORE_ERRORS)
     shutil.rmtree(APPS_DIR, IGNORE_ERRORS)
+    shutil.rmtree(BUNDLE_APPS_DIR, IGNORE_ERRORS)
 
     # Make the desktop dirs
     os.makedirs(LINKS_DIR)
     os.makedirs(APPS_DIR)
+    os.makedirs(BUNDLE_APPS_DIR)
 
     # Each app/link will be indexed by its id, so that duplicates
     # (resulting from different locales) will be merged for i18n
@@ -242,7 +246,8 @@ if __name__ == '__main__':
         # Otherwise, for instance, we the wikipedia app would
         # clobber the wikipedia link in the dictionary
         id = app_data['desktop-id']
-        desktop_objects[id] = AppObject(app_data, APPS_DIR, splash_dir)
+        desktop_objects[id] = AppObject(app_data, APPS_DIR, BUNDLE_APPS_DIR,
+                                        splash_dir)
 
     # For each of the parsed links/apps, output a desktop.in file
     # which will then be translated via autotools
@@ -259,6 +264,7 @@ if __name__ == '__main__':
     # Translate the desktop.in files we generated
     translate_dir(LINKS_DIR)
     translate_dir(APPS_DIR)
+    translate_dir(BUNDLE_APPS_DIR)
 
     # Remove the existing icon dir, if it exists
     shutil.rmtree(ICON_DIR, IGNORE_ERRORS)
