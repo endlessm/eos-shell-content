@@ -36,7 +36,6 @@ APPS_DIR = os.path.join(DATA_DIR, 'applications')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 SPLASH_DIR = '/usr/share/EndlessOS/splash'
 ICON_DIR = os.path.join('icons', '64x64', 'apps')
-BUNDLE_ICON_DIR = os.path.join(BUNDLE_DIR, 'icons')
 IGNORE_ERRORS = True
 JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
@@ -267,31 +266,21 @@ if __name__ == '__main__':
     translate_dir(APPS_DIR)
     translate_dir(BUNDLE_APPS_DIR)
 
-    # Remove the existing icon dirs, if they exist
+    # Remove the existing icon dir, if it exists
     shutil.rmtree(ICON_DIR, IGNORE_ERRORS)
-    shutil.rmtree(BUNDLE_ICON_DIR, IGNORE_ERRORS)
 
-    # Make the icon dirs
+    # Make the icon dir
     os.makedirs(ICON_DIR)
-    os.makedirs(BUNDLE_ICON_DIR)
 
     # Copy and rename the app icons to the icon folder
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'icons')
-    for id, obj in desktop_objects.items():
-        if isinstance(obj, AppObject):
-            # Note: icon_name alrady has the APP_PREFIX
-            icon_name = obj.get('Icon')
-            # Source file omits the APP_PREFIX and appends '-icon.png'
-            source = icon_name[len(APP_PREFIX):] + '-icon.png'
-            if obj.get('Core'):
-                target_dir = ICON_DIR
-            else:
-                target_dir = BUNDLE_ICON_DIR
-            # Rename the icons from name-icon.png to eos-app-name.png
-            target = icon_name + '.png'
-            source_file = os.path.join(source_dir, source)
-            target_file = os.path.join(target_dir, target)
-            shutil.copy(source_file, target_file)
+    target_dir = ICON_DIR
+    for source in os.listdir(source_dir):
+        # Rename the icons from name-icon.png to eos-app-name.png
+        target = APP_PREFIX + source.replace('-icon.png', '.png')
+        source_file = os.path.join(source_dir, source)
+        target_file = os.path.join(target_dir, target)
+        shutil.copy(source_file, target_file)
 
     # Copy and rename the link icons to the icon folder
     # If no link icon available, resize/crop the thumbnail image
