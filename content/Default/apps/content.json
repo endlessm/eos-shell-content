@@ -67,7 +67,7 @@
   },
   {
     "displayShape":"b2h",
-    "application-id":"khanacademy",
+    "application-id":"com.endlessm.khanacademy",
     "desktop-id":"eos-app-com.endlessm.khanacademy",
     "exec":"eos-khanacademy",
     "tryexec":"",
@@ -81,23 +81,23 @@
       "Positivo"
     ],
     "splash-screen-type":"Default",
-    "custom-splash-screen":"khanacademy-splash.jpg",
-    "icon":"khanacademy-icon.png",
-    "square_img":"khanacademy-thumb.jpg",
-    "featured_img":"khanacademy-featured.jpg",
+    "custom-splash-screen":"com.endlessm.khanacademy-splash.jpg",
+    "icon":"com.endlessm.khanacademy-icon.png",
+    "square_img":"com.endlessm.khanacademy-thumb.jpg",
+    "featured_img":"com.endlessm.khanacademy-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "khanacademy-screenshot1.jpg",
-        "khanacademy-screenshot2.jpg"
+        "com.endlessm.khanacademy-screenshot1.jpg",
+        "com.endlessm.khanacademy-screenshot2.jpg"
       ],
       "pt":[
-        "khanacademy-screenshot1.jpg",
-        "khanacademy-screenshot2.jpg"
+        "com.endlessm.khanacademy-screenshot1.jpg",
+        "com.endlessm.khanacademy-screenshot2.jpg"
       ],
       "es":[
-        "khanacademy-screenshot1.jpg",
-        "khanacademy-screenshot2.jpg"
+        "com.endlessm.khanacademy-screenshot1.jpg",
+        "com.endlessm.khanacademy-screenshot2.jpg"
       ]
     },
     "is_featured":true,
@@ -139,7 +139,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"encyclopedia",
+    "application-id":"com.endlessm.encyclopedia",
     "desktop-id":"eos-app-com.endlessm.encyclopedia",
     "exec":"eos-encyclopedia",
     "tryexec":"",
@@ -150,26 +150,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"encyclopedia-splash.jpg",
-    "icon":"encyclopedia-icon.png",
-    "square_img":"encyclopedia-thumb.jpg",
-    "featured_img":"encyclopedia-featured.jpg",
+    "custom-splash-screen":"com.endlessm.encyclopedia-splash.jpg",
+    "icon":"com.endlessm.encyclopedia-icon.png",
+    "square_img":"com.endlessm.encyclopedia-thumb.jpg",
+    "featured_img":"com.endlessm.encyclopedia-featured.jpg",
     "core":true,
     "screenshots":{
       "C":[
-        "encyclopedia-screenshot1.jpg",
-        "encyclopedia-screenshot2.jpg",
-        "encyclopedia-screenshot3.jpg"
+        "com.endlessm.encyclopedia-screenshot1.jpg",
+        "com.endlessm.encyclopedia-screenshot2.jpg",
+        "com.endlessm.encyclopedia-screenshot3.jpg"
       ],
       "pt":[
-        "encyclopedia-screenshot1.jpg",
-        "encyclopedia-screenshot2.jpg",
-        "encyclopedia-screenshot3.jpg"
+        "com.endlessm.encyclopedia-screenshot1.jpg",
+        "com.endlessm.encyclopedia-screenshot2.jpg",
+        "com.endlessm.encyclopedia-screenshot3.jpg"
       ],
       "es":[
-        "encyclopedia-screenshot1.jpg",
-        "encyclopedia-screenshot2.jpg",
-        "encyclopedia-screenshot3.jpg"
+        "com.endlessm.encyclopedia-screenshot1.jpg",
+        "com.endlessm.encyclopedia-screenshot2.jpg",
+        "com.endlessm.encyclopedia-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -206,8 +206,8 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"armagetron",
-    "desktop-id":"eos-app-armagetron",
+    "application-id":"armagetronad",
+    "desktop-id":"eos-app-armagetronad",
     "exec":"armagetronad",
     "tryexec":"",
     "title":"Armagetron",
@@ -218,15 +218,15 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"armagetron-icon.png",
-    "square_img":"armagetron-thumb.jpg",
+    "icon":"armagetronad-icon.png",
+    "square_img":"armagetronad-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "armagetron-screenshot1.jpg",
-        "armagetron-screenshot2.jpg",
-        "armagetron-screenshot3.jpg"
+        "armagetronad-screenshot1.jpg",
+        "armagetronad-screenshot2.jpg",
+        "armagetronad-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -346,7 +346,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"english",
+    "application-id":"com.endlessm.english",
     "desktop-id":"eos-app-com.endlessm.english",
     "exec":"eos-english",
     "tryexec":"",
@@ -357,26 +357,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"english-splash.jpg",
-    "icon":"english-icon.png",
-    "square_img":"english-thumb.jpg",
-    "featured_img":"english-featured.jpg",
+    "custom-splash-screen":"com.endlessm.english-splash.jpg",
+    "icon":"com.endlessm.english-icon.png",
+    "square_img":"com.endlessm.english-thumb.jpg",
+    "featured_img":"com.endlessm.english-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "english-screenshot1.jpg",
-        "english-screenshot2.jpg",
-        "english-screenshot3.jpg"
+        "com.endlessm.english-screenshot1.jpg",
+        "com.endlessm.english-screenshot2.jpg",
+        "com.endlessm.english-screenshot3.jpg"
       ],
       "pt":[
-        "english-screenshot1.jpg",
-        "english-screenshot2.jpg",
-        "english-screenshot3.jpg"
+        "com.endlessm.english-screenshot1.jpg",
+        "com.endlessm.english-screenshot2.jpg",
+        "com.endlessm.english-screenshot3.jpg"
       ],
       "es":[
-        "english-screenshot1.jpg",
-        "english-screenshot2.jpg",
-        "english-screenshot3.jpg"
+        "com.endlessm.english-screenshot1.jpg",
+        "com.endlessm.english-screenshot2.jpg",
+        "com.endlessm.english-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -459,7 +459,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gcalctool",
+    "application-id":"gnome-calculator",
     "desktop-id":"eos-app-gnome-calculator",
     "exec":"gnome-calculator",
     "tryexec":"",
@@ -471,19 +471,19 @@
     ],
     "splash-screen-type":"None",
     "custom-splash-screen":"",
-    "icon":"gcalctool-icon.png",
-    "square_img":"gcalctool-thumb.jpg",
+    "icon":"gnome-calculator-icon.png",
+    "square_img":"gnome-calculator-thumb.jpg",
     "featured_img":"",
     "core":true,
     "screenshots":{
       "C":[
-        "gcalctool-screenshot1.jpg"
+        "gnome-calculator-screenshot1.jpg"
       ],
       "pt":[
-        "gcalctool-screenshot1.jpg"
+        "gnome-calculator-screenshot1.jpg"
       ],
       "es":[
-        "gcalctool-screenshot1.jpg"
+        "gnome-calculator-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -816,7 +816,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"photos",
+    "application-id":"com.endlessm.photos",
     "desktop-id":"eos-app-com.endlessm.photos",
     "exec":"eos-photos %f",
     "tryexec":"",
@@ -827,23 +827,23 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"photos-splash.jpg",
-    "icon":"photos-icon.png",
-    "square_img":"photos-thumb.jpg",
-    "featured_img":"photos-featured.jpg",
+    "custom-splash-screen":"com.endlessm.photos-splash.jpg",
+    "icon":"com.endlessm.photos-icon.png",
+    "square_img":"com.endlessm.photos-thumb.jpg",
+    "featured_img":"com.endlessm.photos-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "photos-screenshot1.jpg",
-        "photos-screenshot2.jpg"
+        "com.endlessm.photos-screenshot1.jpg",
+        "com.endlessm.photos-screenshot2.jpg"
       ],
       "pt":[
-        "photos-screenshot1.jpg",
-        "photos-screenshot2.jpg"
+        "com.endlessm.photos-screenshot1.jpg",
+        "com.endlessm.photos-screenshot2.jpg"
       ],
       "es":[
-        "photos-screenshot1.jpg",
-        "photos-screenshot2.jpg"
+        "com.endlessm.photos-screenshot1.jpg",
+        "com.endlessm.photos-screenshot2.jpg"
       ]
     },
     "is_featured":true,
@@ -1027,8 +1027,8 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"supertux2",
-    "desktop-id":"eos-app-supertux2",
+    "application-id":"supertux",
+    "desktop-id":"eos-app-supertux",
     "exec":"resfix supertux2 --fullscreen",
     "tryexec":"supertux2",
     "title":"Super Tux",
@@ -1039,15 +1039,15 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"supertux2-icon.png",
-    "square_img":"supertux2-thumb.jpg",
-    "featured_img":"supertux2-featured.jpg",
+    "icon":"supertux-icon.png",
+    "square_img":"supertux-thumb.jpg",
+    "featured_img":"supertux-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "supertux2-screenshot1.jpg",
-        "supertux2-screenshot2.jpg",
-        "supertux2-screenshot3.jpg"
+        "supertux-screenshot1.jpg",
+        "supertux-screenshot2.jpg",
+        "supertux-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1151,7 +1151,7 @@
   },
   {
     "displayShape":"b2h",
-    "application-id":"translate",
+    "application-id":"com.endlessm.translation",
     "desktop-id":"eos-app-com.endlessm.translation",
     "exec":"eos-translation",
     "tryexec":"",
@@ -1162,20 +1162,20 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"translate-splash.jpg",
-    "icon":"translate-icon.png",
-    "square_img":"translate-thumb.jpg",
-    "featured_img":"translate-featured.jpg",
+    "custom-splash-screen":"com.endlessm.translation-splash.jpg",
+    "icon":"com.endlessm.translation-icon.png",
+    "square_img":"com.endlessm.translation-thumb.jpg",
+    "featured_img":"com.endlessm.translation-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "translate-screenshot1.jpg"
+        "com.endlessm.translation-screenshot1.jpg"
       ],
       "pt":[
-        "translate-screenshot1.jpg"
+        "com.endlessm.translation-screenshot1.jpg"
       ],
       "es":[
-        "translate-screenshot1.jpg"
+        "com.endlessm.translation-screenshot1.jpg"
       ]
     },
     "is_featured":true,
@@ -1262,7 +1262,7 @@
   },
   {
     "displayShape":"b2h",
-    "application-id":"weather",
+    "application-id":"com.endlessm.weather",
     "desktop-id":"eos-app-com.endlessm.weather",
     "exec":"eos-weather",
     "tryexec":"",
@@ -1273,24 +1273,24 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"weather-splash.jpg",
-    "icon":"weather-icon.png",
-    "square_img":"weather-thumb.jpg",
-    "featured_img":"weather-featured.jpg",
+    "custom-splash-screen":"com.endlessm.weather-splash.jpg",
+    "icon":"com.endlessm.weather-icon.png",
+    "square_img":"com.endlessm.weather-thumb.jpg",
+    "featured_img":"com.endlessm.weather-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "weather-screenshot1.jpg",
-        "weather-screenshot2.jpg",
-        "weather-screenshot3.jpg"
+        "com.endlessm.weather-screenshot1.jpg",
+        "com.endlessm.weather-screenshot2.jpg",
+        "com.endlessm.weather-screenshot3.jpg"
       ],
       "pt":[
-        "weather-screenshot1.jpg",
-        "weather-screenshot2.jpg",
-        "weather-screenshot3.jpg"
+        "com.endlessm.weather-screenshot1.jpg",
+        "com.endlessm.weather-screenshot2.jpg",
+        "com.endlessm.weather-screenshot3.jpg"
       ],
       "es":[
-        "weather-screenshot1.jpg"
+        "com.endlessm.weather-screenshot1.jpg"
       ]
     },
     "is_featured":true,
@@ -1299,7 +1299,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"youvideos",
+    "application-id":"com.endlessm.youvideos",
     "desktop-id":"eos-app-com.endlessm.youvideos",
     "exec":"eos-youvideos",
     "tryexec":"",
@@ -1310,26 +1310,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"youvideos-splash.jpg",
-    "icon":"youvideos-icon.png",
-    "square_img":"youvideos-thumb.jpg",
+    "custom-splash-screen":"com.endlessm.youvideos-splash.jpg",
+    "icon":"com.endlessm.youvideos-icon.png",
+    "square_img":"com.endlessm.youvideos-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "youvideos-screenshot1.jpg",
-        "youvideos-screenshot2.jpg",
-        "youvideos-screenshot3.jpg"
+        "com.endlessm.youvideos-screenshot1.jpg",
+        "com.endlessm.youvideos-screenshot2.jpg",
+        "com.endlessm.youvideos-screenshot3.jpg"
       ],
       "pt":[
-        "youvideos-screenshot1.jpg",
-        "youvideos-screenshot2.jpg",
-        "youvideos-screenshot3.jpg"
+        "com.endlessm.youvideos-screenshot1.jpg",
+        "com.endlessm.youvideos-screenshot2.jpg",
+        "com.endlessm.youvideos-screenshot3.jpg"
       ],
       "es":[
-        "youvideos-screenshot1.jpg",
-        "youvideos-screenshot2.jpg",
-        "youvideos-screenshot3.jpg"
+        "com.endlessm.youvideos-screenshot1.jpg",
+        "com.endlessm.youvideos-screenshot2.jpg",
+        "com.endlessm.youvideos-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -1338,7 +1338,7 @@
   },
   {
     "displayShape":"b2h",
-    "application-id":"brazil",
+    "application-id":"com.endlessm.brazil",
     "desktop-id":"eos-app-com.endlessm.brazil",
     "exec":"eos-brazil",
     "tryexec":"",
@@ -1352,21 +1352,21 @@
       "Positivo"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"brazil-splash.jpg",
-    "icon":"brazil-icon.png",
-    "square_img":"brazil-thumb.jpg",
-    "featured_img":"brazil-featured.jpg",
+    "custom-splash-screen":"com.endlessm.brazil-splash.jpg",
+    "icon":"com.endlessm.brazil-icon.png",
+    "square_img":"com.endlessm.brazil-thumb.jpg",
+    "featured_img":"com.endlessm.brazil-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "brazil-screenshot1.jpg",
-        "brazil-screenshot2.jpg",
-        "brazil-screenshot3.jpg"
+        "com.endlessm.brazil-screenshot1.jpg",
+        "com.endlessm.brazil-screenshot2.jpg",
+        "com.endlessm.brazil-screenshot3.jpg"
       ],
       "pt":[
-        "brazil-screenshot1.jpg",
-        "brazil-screenshot2.jpg",
-        "brazil-screenshot3.jpg"
+        "com.endlessm.brazil-screenshot1.jpg",
+        "com.endlessm.brazil-screenshot2.jpg",
+        "com.endlessm.brazil-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1375,7 +1375,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"health",
+    "application-id":"com.endlessm.health",
     "desktop-id":"eos-app-com.endlessm.health",
     "exec":"eos-health",
     "tryexec":"",
@@ -1387,20 +1387,20 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"health-icon.png",
-    "square_img":"health-thumb.jpg",
-    "featured_img":"health-featured.jpg",
+    "icon":"com.endlessm.health-icon.png",
+    "square_img":"com.endlessm.health-thumb.jpg",
+    "featured_img":"com.endlessm.health-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "health-screenshot1.jpg",
-        "health-screenshot2.jpg",
-        "health-screenshot3.jpg"
+        "com.endlessm.health-screenshot1.jpg",
+        "com.endlessm.health-screenshot2.jpg",
+        "com.endlessm.health-screenshot3.jpg"
       ],
       "pt":[
-        "health-screenshot1.jpg",
-        "health-screenshot2.jpg",
-        "health-screenshot3.jpg"
+        "com.endlessm.health-screenshot1.jpg",
+        "com.endlessm.health-screenshot2.jpg",
+        "com.endlessm.health-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1409,7 +1409,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"programming",
+    "application-id":"com.endlessm.programming",
     "desktop-id":"eos-app-com.endlessm.programming",
     "exec":"eos-programming",
     "tryexec":"",
@@ -1420,26 +1420,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"programming-splash.jpg",
-    "icon":"programming-icon.png",
-    "square_img":"programming-thumb.jpg",
-    "featured_img":"programming-featured.jpg",
+    "custom-splash-screen":"com.endlessm.programming-splash.jpg",
+    "icon":"com.endlessm.programming-icon.png",
+    "square_img":"com.endlessm.programming-thumb.jpg",
+    "featured_img":"com.endlessm.programming-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "programming-screenshot1.jpg",
-        "programming-screenshot2.jpg",
-        "programming-screenshot3.jpg"
+        "com.endlessm.programming-screenshot1.jpg",
+        "com.endlessm.programming-screenshot2.jpg",
+        "com.endlessm.programming-screenshot3.jpg"
       ],
       "pt":[
-        "programming-screenshot1.jpg",
-        "programming-screenshot2.jpg",
-        "programming-screenshot3.jpg"
+        "com.endlessm.programming-screenshot1.jpg",
+        "com.endlessm.programming-screenshot2.jpg",
+        "com.endlessm.programming-screenshot3.jpg"
       ],
       "es":[
-        "programming-screenshot1.jpg",
-        "programming-screenshot2.jpg",
-        "programming-screenshot3.jpg"
+        "com.endlessm.programming-screenshot1.jpg",
+        "com.endlessm.programming-screenshot2.jpg",
+        "com.endlessm.programming-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -1448,7 +1448,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"typing",
+    "application-id":"com.endlessm.typing",
     "desktop-id":"eos-app-com.endlessm.typing",
     "exec":"eos-typing",
     "tryexec":"",
@@ -1459,26 +1459,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"typing-splash.jpg",
-    "icon":"typing-icon.png",
-    "square_img":"typing-thumb.jpg",
-    "featured_img":"typing-featured.jpg",
+    "custom-splash-screen":"com.endlessm.typing-splash.jpg",
+    "icon":"com.endlessm.typing-icon.png",
+    "square_img":"com.endlessm.typing-thumb.jpg",
+    "featured_img":"com.endlessm.typing-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "typing-screenshot1.jpg",
-        "typing-screenshot2.jpg",
-        "typing-screenshot3.jpg"
+        "com.endlessm.typing-screenshot1.jpg",
+        "com.endlessm.typing-screenshot2.jpg",
+        "com.endlessm.typing-screenshot3.jpg"
       ],
       "pt":[
-        "typing-screenshot1.jpg",
-        "typing-screenshot2.jpg",
-        "typing-screenshot3.jpg"
+        "com.endlessm.typing-screenshot1.jpg",
+        "com.endlessm.typing-screenshot2.jpg",
+        "com.endlessm.typing-screenshot3.jpg"
       ],
       "es":[
-        "typing-screenshot1.jpg",
-        "typing-screenshot2.jpg",
-        "typing-screenshot3.jpg"
+        "com.endlessm.typing-screenshot1.jpg",
+        "com.endlessm.typing-screenshot2.jpg",
+        "com.endlessm.typing-screenshot3.jpg"
       ]
     },
     "is_featured":true,
@@ -1487,7 +1487,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"resume",
+    "application-id":"com.endlessm.resume",
     "desktop-id":"eos-app-com.endlessm.resume",
     "exec":"eos-resume",
     "tryexec":"",
@@ -1499,20 +1499,20 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"resume-icon.png",
-    "square_img":"resume-thumb.jpg",
+    "icon":"com.endlessm.resume-icon.png",
+    "square_img":"com.endlessm.resume-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "resume-screenshot1.jpg"
+        "com.endlessm.resume-screenshot1.jpg"
       ],
       "pt":[
-        "resume-screenshot1.jpg"
+        "com.endlessm.resume-screenshot1.jpg"
       ],
       "es":[
-        "resume-screenshot1.jpg",
-        "resume-screenshot2.jpg"
+        "com.endlessm.resume-screenshot1.jpg",
+        "com.endlessm.resume-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -1650,7 +1650,7 @@
   },
   {
     "displayShape":"b2v",
-    "application-id":"mexico",
+    "application-id":"com.endlessm.mexico",
     "desktop-id":"eos-app-com.endlessm.mexico",
     "exec":"eos-mexico",
     "tryexec":"",
@@ -1664,15 +1664,15 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"mexico-icon.png",
-    "square_img":"mexico-thumb.jpg",
-    "featured_img":"mexico-featured.jpg",
+    "icon":"com.endlessm.mexico-icon.png",
+    "square_img":"com.endlessm.mexico-thumb.jpg",
+    "featured_img":"com.endlessm.mexico-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
-        "mexico-screenshot1.jpg",
-        "mexico-screenshot2.jpg",
-        "mexico-screenshot3.jpg"
+        "com.endlessm.mexico-screenshot1.jpg",
+        "com.endlessm.mexico-screenshot2.jpg",
+        "com.endlessm.mexico-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1681,7 +1681,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"guatemala",
+    "application-id":"com.endlessm.guatemala",
     "desktop-id":"eos-app-com.endlessm.guatemala",
     "exec":"eos-guatemala",
     "tryexec":"",
@@ -1696,25 +1696,25 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"guatemala-icon.png",
-    "square_img":"guatemala-thumb.jpg",
+    "icon":"com.endlessm.guatemala-icon.png",
+    "square_img":"com.endlessm.guatemala-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "guatemala-screenshot1.jpg",
-        "guatemala-screenshot2.jpg",
-        "guatemala-screenshot3.jpg"
+        "com.endlessm.guatemala-screenshot1.jpg",
+        "com.endlessm.guatemala-screenshot2.jpg",
+        "com.endlessm.guatemala-screenshot3.jpg"
       ],
       "pt":[
-        "guatemala-screenshot1.jpg",
-        "guatemala-screenshot2.jpg",
-        "guatemala-screenshot3.jpg"
+        "com.endlessm.guatemala-screenshot1.jpg",
+        "com.endlessm.guatemala-screenshot2.jpg",
+        "com.endlessm.guatemala-screenshot3.jpg"
       ],
       "es":[
-        "guatemala-screenshot1.jpg",
-        "guatemala-screenshot2.jpg",
-        "guatemala-screenshot3.jpg"
+        "com.endlessm.guatemala-screenshot1.jpg",
+        "com.endlessm.guatemala-screenshot2.jpg",
+        "com.endlessm.guatemala-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1723,7 +1723,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"science",
+    "application-id":"com.endlessm.science",
     "desktop-id":"eos-app-com.endlessm.science",
     "exec":"eos-science",
     "tryexec":"",
@@ -1734,26 +1734,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"science-splash.jpg",
-    "icon":"science-icon.png",
-    "square_img":"science-thumb.jpg",
+    "custom-splash-screen":"com.endlessm.science-splash.jpg",
+    "icon":"com.endlessm.science-icon.png",
+    "square_img":"com.endlessm.science-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "science-screenshot1.jpg",
-        "science-screenshot2.jpg",
-        "science-screenshot3.jpg"
+        "com.endlessm.science-screenshot1.jpg",
+        "com.endlessm.science-screenshot2.jpg",
+        "com.endlessm.science-screenshot3.jpg"
       ],
       "pt":[
-        "science-screenshot1.jpg",
-        "science-screenshot2.jpg",
-        "science-screenshot3.jpg"
+        "com.endlessm.science-screenshot1.jpg",
+        "com.endlessm.science-screenshot2.jpg",
+        "com.endlessm.science-screenshot3.jpg"
       ],
       "es":[
-        "science-screenshot1.jpg",
-        "science-screenshot2.jpg",
-        "science-screenshot3.jpg"
+        "com.endlessm.science-screenshot1.jpg",
+        "com.endlessm.science-screenshot2.jpg",
+        "com.endlessm.science-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1762,7 +1762,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"futbol",
+    "application-id":"com.endlessm.futbol",
     "desktop-id":"eos-app-com.endlessm.futbol",
     "exec":"eos-futbol",
     "tryexec":"",
@@ -1774,25 +1774,25 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"futbol-icon.png",
-    "square_img":"futbol-thumb.jpg",
+    "icon":"com.endlessm.futbol-icon.png",
+    "square_img":"com.endlessm.futbol-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "futbol-screenshot1.jpg",
-        "futbol-screenshot2.jpg",
-        "futbol-screenshot3.jpg"
+        "com.endlessm.futbol-screenshot1.jpg",
+        "com.endlessm.futbol-screenshot2.jpg",
+        "com.endlessm.futbol-screenshot3.jpg"
       ],
       "pt":[
-        "futbol-screenshot1.jpg",
-        "futbol-screenshot2.jpg",
-        "futbol-screenshot3.jpg"
+        "com.endlessm.futbol-screenshot1.jpg",
+        "com.endlessm.futbol-screenshot2.jpg",
+        "com.endlessm.futbol-screenshot3.jpg"
       ],
       "es":[
-        "futbol-screenshot1.jpg",
-        "futbol-screenshot2.jpg",
-        "futbol-screenshot3.jpg"
+        "com.endlessm.futbol-screenshot1.jpg",
+        "com.endlessm.futbol-screenshot2.jpg",
+        "com.endlessm.futbol-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1801,7 +1801,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"celebrities",
+    "application-id":"com.endlessm.celebrities",
     "desktop-id":"eos-app-com.endlessm.celebrities",
     "exec":"eos-celebrities",
     "tryexec":"",
@@ -1813,25 +1813,25 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"celebrities-icon.png",
-    "square_img":"celebrities-thumb.jpg",
+    "icon":"com.endlessm.celebrities-icon.png",
+    "square_img":"com.endlessm.celebrities-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "celebrities-screenshot1.jpg",
-        "celebrities-screenshot2.jpg",
-        "celebrities-screenshot3.jpg"
+        "com.endlessm.celebrities-screenshot1.jpg",
+        "com.endlessm.celebrities-screenshot2.jpg",
+        "com.endlessm.celebrities-screenshot3.jpg"
       ],
       "pt":[
-        "celebrities-screenshot1.jpg",
-        "celebrities-screenshot2.jpg",
-        "celebrities-screenshot3.jpg"
+        "com.endlessm.celebrities-screenshot1.jpg",
+        "com.endlessm.celebrities-screenshot2.jpg",
+        "com.endlessm.celebrities-screenshot3.jpg"
       ],
       "es":[
-        "celebrities-screenshot1.jpg",
-        "celebrities-screenshot2.jpg",
-        "celebrities-screenshot3.jpg"
+        "com.endlessm.celebrities-screenshot1.jpg",
+        "com.endlessm.celebrities-screenshot2.jpg",
+        "com.endlessm.celebrities-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1840,7 +1840,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"fitness",
+    "application-id":"com.endlessm.fitness",
     "desktop-id":"eos-app-com.endlessm.fitness",
     "exec":"eos-fitness",
     "tryexec":"",
@@ -1852,25 +1852,25 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"fitness-icon.png",
-    "square_img":"fitness-thumb.jpg",
+    "icon":"com.endlessm.fitness-icon.png",
+    "square_img":"com.endlessm.fitness-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "fitness-screenshot1.jpg",
-        "fitness-screenshot2.jpg",
-        "fitness-screenshot3.jpg"
+        "com.endlessm.fitness-screenshot1.jpg",
+        "com.endlessm.fitness-screenshot2.jpg",
+        "com.endlessm.fitness-screenshot3.jpg"
       ],
       "pt":[
-        "fitness-screenshot1.jpg",
-        "fitness-screenshot2.jpg",
-        "fitness-screenshot3.jpg"
+        "com.endlessm.fitness-screenshot1.jpg",
+        "com.endlessm.fitness-screenshot2.jpg",
+        "com.endlessm.fitness-screenshot3.jpg"
       ],
       "es":[
-        "fitness-screenshot1.jpg",
-        "fitness-screenshot2.jpg",
-        "fitness-screenshot3.jpg"
+        "com.endlessm.fitness-screenshot1.jpg",
+        "com.endlessm.fitness-screenshot2.jpg",
+        "com.endlessm.fitness-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1879,7 +1879,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"cooking",
+    "application-id":"com.endlessm.cooking",
     "desktop-id":"eos-app-com.endlessm.cooking",
     "exec":"eos-cooking",
     "tryexec":"",
@@ -1890,26 +1890,26 @@
       "All"
     ],
     "splash-screen-type":"Custom",
-    "custom-splash-screen":"cooking-splash.jpg",
-    "icon":"cooking-icon.png",
-    "square_img":"cooking-thumb.jpg",
+    "custom-splash-screen":"com.endlessm.cooking-splash.jpg",
+    "icon":"com.endlessm.cooking-icon.png",
+    "square_img":"com.endlessm.cooking-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "cooking-screenshot1.jpg",
-        "cooking-screenshot2.jpg",
-        "cooking-screenshot3.jpg"
+        "com.endlessm.cooking-screenshot1.jpg",
+        "com.endlessm.cooking-screenshot2.jpg",
+        "com.endlessm.cooking-screenshot3.jpg"
       ],
       "pt":[
-        "cooking-screenshot1.jpg",
-        "cooking-screenshot2.jpg",
-        "cooking-screenshot3.jpg"
+        "com.endlessm.cooking-screenshot1.jpg",
+        "com.endlessm.cooking-screenshot2.jpg",
+        "com.endlessm.cooking-screenshot3.jpg"
       ],
       "es":[
-        "cooking-screenshot1.jpg",
-        "cooking-screenshot2.jpg",
-        "cooking-screenshot3.jpg"
+        "com.endlessm.cooking-screenshot1.jpg",
+        "com.endlessm.cooking-screenshot2.jpg",
+        "com.endlessm.cooking-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -1918,7 +1918,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"travel",
+    "application-id":"com.endlessm.travel",
     "desktop-id":"eos-app-com.endlessm.travel",
     "exec":"eos-travel",
     "tryexec":"",
@@ -1930,25 +1930,25 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"travel-icon.png",
-    "square_img":"travel-thumb.jpg",
+    "icon":"com.endlessm.travel-icon.png",
+    "square_img":"com.endlessm.travel-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "travel-screenshot1.jpg",
-        "travel-screenshot2.jpg",
-        "travel-screenshot3.jpg"
+        "com.endlessm.travel-screenshot1.jpg",
+        "com.endlessm.travel-screenshot2.jpg",
+        "com.endlessm.travel-screenshot3.jpg"
       ],
       "pt":[
-        "travel-screenshot1.jpg",
-        "travel-screenshot2.jpg",
-        "travel-screenshot3.jpg"
+        "com.endlessm.travel-screenshot1.jpg",
+        "com.endlessm.travel-screenshot2.jpg",
+        "com.endlessm.travel-screenshot3.jpg"
       ],
       "es":[
-        "travel-screenshot1.jpg",
-        "travel-screenshot2.jpg",
-        "travel-screenshot3.jpg"
+        "com.endlessm.travel-screenshot1.jpg",
+        "com.endlessm.travel-screenshot2.jpg",
+        "com.endlessm.travel-screenshot3.jpg"
       ]
     },
     "is_featured":false,
@@ -2185,7 +2185,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"four-in-a-row",
+    "application-id":"gnect",
     "desktop-id":"eos-app-gnect",
     "exec":"four-in-a-row",
     "tryexec":"",
@@ -2197,14 +2197,14 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"four-in-a-row-icon.png",
-    "square_img":"four-in-a-row-thumb.jpg",
+    "icon":"gnect-icon.png",
+    "square_img":"gnect-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "four-in-a-row-screenshot1.jpg",
-        "four-in-a-row-screenshot2.jpg"
+        "gnect-screenshot1.jpg",
+        "gnect-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -2241,7 +2241,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gnome-mines",
+    "application-id":"gnomine",
     "desktop-id":"eos-app-gnomine",
     "exec":"gnome-mines",
     "tryexec":"",
@@ -2253,14 +2253,14 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"gnome-mines-icon.png",
-    "square_img":"gnome-mines-thumb.jpg",
+    "icon":"gnomine-icon.png",
+    "square_img":"gnomine-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "gnome-mines-screenshot1.jpg",
-        "gnome-mines-screenshot2.jpg"
+        "gnomine-screenshot1.jpg",
+        "gnomine-screenshot2.jpg"
       ]
     },
     "is_featured":false,
@@ -2353,7 +2353,7 @@
   {
     "displayShape":"b1",
     "application-id":"terminal",
-    "desktop-id":"eos-app-gnome-terminal",
+    "desktop-id":"eos-app-terminal",
     "exec":"gnome-terminal",
     "tryexec":"",
     "title":"Terminal",
@@ -2418,6 +2418,81 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.math",
+    "desktop-id":"eos-app-com.endlessm.math",
+    "exec":"eos-math",
+    "tryexec":"",
+    "title":"Math App",
+    "subtitle":"temp subtitle",
+    "description":"temp_description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.math-icon.png",
+    "square_img":"com.endlessm.math-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":null
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.farming",
+    "desktop-id":"eos-app-com.endlessm.farming",
+    "exec":"eos-farming",
+    "tryexec":"",
+    "title":"Farming App",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.farming-icon.png",
+    "square_img":"com.endlessm.farming-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":null
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.geography",
+    "desktop-id":"eos-app-com.endlessm.geography",
+    "exec":"eos-geography",
+    "tryexec":"",
+    "title":"Geography App",
+    "subtitle":"temp subtitle",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.geography-icon.png",
+    "square_img":"com.endlessm.geography-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":null
   },
   {
     "displayShape":"b1",
@@ -2500,7 +2575,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"wesnoth",
+    "application-id":"wesnoth-1.11",
     "desktop-id":"eos-app-wesnoth-1.11",
     "exec":"wesnoth -f",
     "tryexec":"",
@@ -2512,13 +2587,13 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"wesnoth-icon.png",
-    "square_img":"wesnoth-thumb.jpg",
+    "icon":"wesnoth-1.11-icon.png",
+    "square_img":"wesnoth-1.11-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "wesnoth-screenshot1.jpg"
+        "wesnoth-1.11-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -2827,7 +2902,7 @@
   {
     "displayShape":"b1",
     "application-id":"marsshooter",
-    "desktop-id":"eos-app-mars",
+    "desktop-id":"eos-app-marsshooter",
     "exec":"mars",
     "tryexec":"",
     "title":"M.A.R.S.",
@@ -3334,7 +3409,7 @@
   {
     "displayShape":"b1",
     "application-id":"kgoldrunner",
-    "desktop-id":"eos-app-KGoldrunner",
+    "desktop-id":"eos-app-kgoldrunner",
     "exec":"kgoldrunner",
     "tryexec":"",
     "title":"KGoldrunner",
@@ -3630,7 +3705,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"ksnake",
+    "application-id":"kdesnake",
     "desktop-id":"eos-app-kdesnake",
     "exec":"ktron --geometry 1920x1080+0+0 -snake -caption %c %i",
     "tryexec":"",
@@ -3642,19 +3717,19 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"ksnake-icon.png",
-    "square_img":"ksnake-thumb.jpg",
+    "icon":"kdesnake-icon.png",
+    "square_img":"kdesnake-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "ksnake-screenshot1.jpg"
+        "kdesnake-screenshot1.jpg"
       ],
       "pt":[
-        "ksnake-screenshot1.jpg"
+        "kdesnake-screenshot1.jpg"
       ],
       "es":[
-        "ksnake-screenshot1.jpg"
+        "kdesnake-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -3663,7 +3738,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"ksnakeduel",
+    "application-id":"ktron",
     "desktop-id":"eos-app-ktron",
     "exec":"ktron -caption %c %i",
     "tryexec":"",
@@ -3675,19 +3750,19 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"ksnakeduel-icon.png",
-    "square_img":"ksnakeduel-thumb.jpg",
+    "icon":"ktron-icon.png",
+    "square_img":"ktron-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "ksnakeduel-screenshot1.jpg"
+        "ktron-screenshot1.jpg"
       ],
       "pt":[
-        "ksnakeduel-screenshot1.jpg"
+        "ktron-screenshot1.jpg"
       ],
       "es":[
-        "ksnakeduel-screenshot1.jpg"
+        "ktron-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -3864,7 +3939,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"screenshot",
+    "application-id":"gnome-screenshot",
     "desktop-id":"eos-app-gnome-screenshot",
     "exec":"gnome-screenshot --interactive",
     "tryexec":"",
@@ -3876,19 +3951,19 @@
     ],
     "splash-screen-type":"None",
     "custom-splash-screen":"",
-    "icon":"screenshot-icon.png",
-    "square_img":"screenshot-thumb.jpg",
+    "icon":"gnome-screenshot-icon.jpg",
+    "square_img":"gnome-screenshot-thumb.jpg",
     "featured_img":"",
     "core":true,
     "screenshots":{
       "C":[
-        "screenshot-screenshot1.jpg"
+        "gnome-screenshot-screenshot1.jpg"
       ],
       "pt":[
-        "screenshot-screenshot1.jpg"
+        "gnome-screenshot-screenshot1.jpg"
       ],
       "es":[
-        "screenshot-screenshot1.jpg"
+        "gnome-screenshot-screenshot1.jpg"
       ]
     },
     "is_featured":false,
