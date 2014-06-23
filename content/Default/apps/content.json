@@ -2325,33 +2325,6 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"spotify",
-    "desktop-id":"eos-app-spotify",
-    "exec":"spotify %U",
-    "tryexec":"",
-    "title":"Spotify",
-    "subtitle":"Listen to music using Spotify",
-    "description":"Spotify lets you access all of your favorite music, helps you discover new songs you'll love, and lets you share music with your friends - all in one place. You can listen to all of your local files and create playlists just like you would in any other music player, but now you can also share your playlists with friends and see what they are listening to! Follow friends, your favorite artists, and other Spotify members whose music taste you share. Spotify has all of the great discovering capability that other apps like Pandora have, but the difference is that you can save your favorite songs to a playlist and listen to them whenever you want. You can also make collaborative playlists, so that you and all of your friends can add songs that you all love. Have access millions of songs, and all the latest hits - for free. ",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"spotify-icon.png",
-    "square_img":"spotify-thumb.jpg",
-    "featured_img":"",
-    "core":false,
-    "screenshots":{
-      "C":[
-        "spotify-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Leisure"
-  },
-  {
-    "displayShape":"b1",
     "application-id":"terminal",
     "desktop-id":"eos-app-terminal",
     "exec":"gnome-terminal",
