@@ -154,7 +154,7 @@
     "icon":"com.endlessm.encyclopedia-icon.png",
     "square_img":"com.endlessm.encyclopedia-thumb.jpg",
     "featured_img":"com.endlessm.encyclopedia-featured.jpg",
-    "core":true,
+    "core":false,
     "screenshots":{
       "C":[
         "com.endlessm.encyclopedia-screenshot1.jpg",
@@ -2335,7 +2335,7 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
+    "splash-screen-type":"None",
     "custom-splash-screen":"",
     "icon":"terminal-icon.png",
     "square_img":"terminal-thumb.jpg",
