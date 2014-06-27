@@ -20,6 +20,10 @@ do_subst = sed \
 	-e 's|@DATA_DIR[@]|$(datadir)|g' \
 	-e 's|@SYSCONF_DIR[@]|$(sysconfdir)|g'
 
+eos-select-app-server: eos-select-app-server.in Makefile
+	$(AM_V_GEN) $(do_subst) $< > $@
+	chmod +x $@
+
 eos-select-personality: eos-select-personality.in Makefile
 	$(AM_V_GEN) $(do_subst) $< > $@
 	chmod +x $@
@@ -34,17 +38,20 @@ EXTRA_DIST = \
     $(settings_DATA) \
     $(substitutions_DATA) \
     eos-exec-localized \
+    eos-select-app-server.in \
     eos-select-personality.in \
     eos-save-icon-grid.in \
     $(NULL)
 
 bin_SCRIPTS = \
     eos-exec-localized \
+    eos-select-app-server \
     eos-select-personality \
     eos-save-icon-grid \
     $(NULL)
 
 CLEANFILES = \
+    eos-select-app-server \
     eos-select-personality \
     eos-save-icon-grid \
     $(NULL)
