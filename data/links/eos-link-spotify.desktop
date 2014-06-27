@@ -9,5 +9,5 @@ Comment[pt]=Escute música usando Spotify
 Type=Application
 Exec=chromium-browser https://play.spotify.com/
 Icon=eos-link-spotify
-Categories=Local;
+Categories=Entertainment;
 X-Endless-ShowInAppStore=true

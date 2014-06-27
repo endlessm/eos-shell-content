@@ -1108,6 +1108,20 @@
         "linkIcon":"icons\/google.png",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/google.jpg"
+      },
+      {
+        "linkId":"spotify",
+        "linkName":"Spotify",
+        "linkSubtitle":"Listen to music using Spotify",
+        "linkUrl":"https:\/\/play.spotify.com\/",
+        "linkFolder":"none",
+        "linkDesktopPosition":null,
+        "linkRegion":"Global",
+        "linkCategory":"Entertainment",
+        "linkThumbSize":"Square",
+        "linkIcon":"icons\/spotify.png",
+        "linkThumb":"thumbs\/",
+        "linkSmall":"images\/spotify.jpg"
       }
     ]
   },
@@ -1253,20 +1267,6 @@
         "linkIcon":"icons\/",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/rioturismoradical.jpg"
-      },
-      {
-        "linkId":"spotify",
-        "linkName":"Spotify",
-        "linkSubtitle":"Listen to music using Spotify",
-        "linkUrl":"https:\/\/play.spotify.com\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Global",
-        "linkCategory":"Local",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/spotify.png",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/spotify.jpg"
       }
     ]
   }
