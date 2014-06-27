@@ -81,10 +81,9 @@ if __name__ == '__main__':
 
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
-    # and duplication of pt-br as both Brazil and Positivo,
     # until the CMS is reworked
-    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'pt-br']
-    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'Positivo']
+    locales = ['en-us', 'en-us', 'es-gt', 'pt-br']
+    personalities = ['default', 'Global', 'Guatemala', 'Brazil']
 
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
