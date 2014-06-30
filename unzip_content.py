@@ -230,7 +230,7 @@ if __name__ == '__main__':
             localized_link_file.close()
             for category in localized_link_json:
                 for link_data in category['links']:
-                    id = link_data['linkId']
+                    id = 'eos-link-' + link_data['linkId']
                     if id not in desktop_objects.keys():
                         desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
                                                          splash_dir, lang)
@@ -243,11 +243,7 @@ if __name__ == '__main__':
     apps_json = json.load(apps_file)
     apps_file.close()
     for app_data in apps_json:
-        # Use desktop-id rather than application-id,
-        # to ensure the ID is unique from any link IDs
-        # Otherwise, for instance, we the wikipedia app would
-        # clobber the wikipedia link in the dictionary
-        id = app_data['desktop-id']
+        id = app_data['application-id']
         desktop_objects[id] = AppObject(app_data, APPS_DIR, BUNDLE_APPS_DIR,
                                         splash_dir)
 

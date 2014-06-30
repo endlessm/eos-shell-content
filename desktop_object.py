@@ -200,7 +200,10 @@ class AppObject(DesktopObject):
         super(AppObject, self).__init__(data, splash_dir)
         self._desktop_dir = desktop_dir
         self._bundle_desktop_dir = bundle_desktop_dir
-        self._prefix = 'eos-app-'
+        if self.get('Core'):
+            self._prefix = 'eos-app-'
+        else:
+            self._prefix = ''
 
     def _get_personalities(self):
         personalities = self._data['personalities']
