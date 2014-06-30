@@ -8,7 +8,7 @@ Comment[es]=Una variación del juego de cartas clásico
 Comment[pt]=Jogo de cartas de um jogador, estilo Paciência
 Type=Application
 Exec=sol --variation=freecell
-Icon=sol
+Icon=eos-app-sol
 Categories=Leisure;
 X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true
