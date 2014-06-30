@@ -18,7 +18,6 @@ class DesktopObject(object):
         'Categories',
         'MimeType',
         'X-Endless-ShowInAppStore',
-        'X-Endless-ShowInPersonalities',
         'X-Endless-LaunchMaximized',
         'X-Endless-SplashBackground'
     ]
@@ -80,14 +79,6 @@ class DesktopObject(object):
                 return 'false'
             else:
                 return 'true'
-        elif key == 'X-Endless-ShowInPersonalities':
-            personalities = self.get('Personalities')
-            if 'All' in personalities:
-                return None
-            elif 'None' in personalities:
-                return ''
-            else:
-                return ';'.join(personalities) + ';'
         elif key == 'Position':
             folder = self.get('Folder')
             index = self.get('Index')
@@ -136,8 +127,6 @@ class LinkObject(DesktopObject):
         self._locales = []
         self._localized_urls = {}
         self._prefix = 'eos-link-'
-
-        self.defaults['Personalities'] = ['All'];
 
     def append_localized_url(self, locale, url):
         if url != self._default_url:
@@ -204,16 +193,6 @@ class AppObject(DesktopObject):
             self._prefix = 'eos-app-'
         else:
             self._prefix = ''
-
-    def _get_personalities(self):
-        personalities = self._data['personalities']
-        return map(lambda p: 'default' if p == 'Default' else p, personalities)
-
-    def get(self, key):
-        if key == 'Personalities':
-            return self._get_personalities()
-        else:
-            return super(AppObject, self).get(key)
 
     def get_desktop_dir(self):
         if self.get('Core'):
