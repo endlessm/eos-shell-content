@@ -110,12 +110,6 @@ if __name__ == '__main__':
         # TODO: remove this once the dekstop-id field is removed from CMS
         if (line.find('desktop-id') < 0):
             outfile.write(line)
-        # Generate a desktop ID from the app ID
-        # TODO: remove this if the app store is adjusted to calculate
-        #       the desktop ID from the app ID
-        if (line.find('application-id') >= 0):
-            line = line.replace('application-id":"', 'desktop-id":"eos-app-')
-            outfile.write(line)
     infile.close()
     outfile.close()
 
