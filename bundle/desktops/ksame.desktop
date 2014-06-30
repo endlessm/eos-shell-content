@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KSame
+Name[es]=Mismos
+Comment=SameGame puzzle game
+Comment[es]=Un juego de rompecabezas y estrategia 
+Type=Application
+Exec=klickety --geometry 1920x1080+0+0 --KSameMode -caption %c
+Icon=ksame
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

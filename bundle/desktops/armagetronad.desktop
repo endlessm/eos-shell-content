@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Armagetron
+Name[es]=Armagetron
+Name[pt]=Armagetron
+Comment=Multiplayer 3D game inspired by the lightcycle sequence from the movie Tron
+Comment[es]=Un juego en 3D inspirado por la película Tron
+Comment[pt]=Jogo multiplayer em 3D inspirado pelas motos futuristas lightcycle do filme Tron.
+Type=Application
+Exec=armagetronad
+Icon=armagetronad
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

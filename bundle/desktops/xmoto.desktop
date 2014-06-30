@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=X-Moto
+Comment=2D motocross platform game
+Type=Application
+Exec=xmoto -fs
+Icon=xmoto
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

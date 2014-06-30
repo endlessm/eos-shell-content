@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Résumé
+Comment=Pick a resume template and customize the content to create an impressive resume in minutes
+Comment[es]=Elije una plantilla del curriculum y personaliza el contenido para crear un currículum impresionante en minutos
+Comment[pt]=Selecione um modelo de currículo e modifique o conteúdo para criar em minutos um currículo impressionante com a sua cara.
+Type=Application
+Exec=eos-resume
+Icon=com.endlessm.resume
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

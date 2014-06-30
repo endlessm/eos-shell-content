@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Mines
+Name[es]=Minas
+Name[pt]=Campo Minado
+Comment=Figure out where the mines are in order to win this fun puzzle game
+Comment[es]=Averigua en donde están las minas para poder resolver y ganar este rompecabezas muy divertido
+Comment[pt]=Descubra onde estão as minas para ser o campeão deste jogo
+Type=Application
+Exec=gnome-mines
+Icon=gnomine
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

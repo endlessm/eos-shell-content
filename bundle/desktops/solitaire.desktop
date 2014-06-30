@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Solitaire
+Name[es]=Solitaire
+Name[pt]=Paciência
+Comment=The classic single player card game
+Comment[es]=El juego de cartas clásico que todos aman
+Comment[pt]=O clássico jogo de cartas para um jogador
+Type=Application
+Exec=sol --class=solitaire --variation=klondike
+Icon=solitaire
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

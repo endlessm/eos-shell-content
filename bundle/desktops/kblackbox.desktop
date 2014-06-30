@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KBlackBox
+Name[es]=CajaNegra
+Comment=Black Box puzzle game
+Comment[es]=Un rompecabezas divertidísimo 
+Type=Application
+Exec=kblackbox -caption %c
+Icon=kblackbox
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

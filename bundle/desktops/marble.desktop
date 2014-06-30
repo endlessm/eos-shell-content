@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Marble
+Comment=Globe and map widget
+Type=Application
+Exec=marble --geometry 1920x1080+0+0
+Icon=marble
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Kubrick
+Name[es]=CuboRubik
+Comment=Game based on Rubik's Cube
+Comment[es]=Juego basado en el Cubo de Rubik
+Type=Application
+Exec=kubrick --geometry 1920x1080+0+0
+Icon=kubrick
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

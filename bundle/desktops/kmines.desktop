@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KMines
+Name[es]=Minas
+Comment=Minesweeper game
+Comment[es]=Evita las minas para ganar en este juego adictivo
+Type=Application
+Exec=kmines -caption %c
+Icon=kmines
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

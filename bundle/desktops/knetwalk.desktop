@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KNetwalk
+Name[es]=Cables
+Comment=Wire puzzle game
+Comment[es]=Cables y rompecabezas
+Type=Application
+Exec=knetwalk -caption %c
+Icon=knetwalk
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

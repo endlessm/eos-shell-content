@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Kalzium
+Name[es]=Qímica
+Comment=Periodic table and chemistry tools
+Comment[es]=Tabla periodica y herramientas químicas
+Type=Application
+Exec=kalzium -caption %c %i
+Icon=kalzium
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

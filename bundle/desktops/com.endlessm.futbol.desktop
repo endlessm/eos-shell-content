@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Soccer
+Name[es]=Fútbol 
+Name[pt]=Futebol
+Comment=Keep up with your favorite soccer teams, read about famous players, and learn the rules of the game
+Comment[es]=Mantente al tanto de tus equipos favoritos, lee acerca de jugadores famosos y aprende más acerca de las reglas de tu deporte favorito
+Comment[pt]=Mantenha-se atualizado sobre os seus times de futebol, leia sobre jogadores famosos e  conheça as regras do jogo
+Type=Application
+Exec=eos-futbol
+Icon=com.endlessm.futbol
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

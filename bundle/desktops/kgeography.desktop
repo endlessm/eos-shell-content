@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KGeography
+Name[es]=Mapas
+Comment=Geography learning aid for KDE
+Comment[es]=Ayuda para aprender sobre la geografía
+Type=Application
+Exec=kgeography
+Icon=kgeography
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

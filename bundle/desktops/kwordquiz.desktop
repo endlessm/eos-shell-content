@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KWordQuiz
+Name[es]=VocaTarjetas
+Comment=Flashcard learning program
+Comment[es]=Programa para aprender usando tarjetas virtuales
+Type=Application
+Exec=kwordquiz -caption %c %i
+Icon=kwordquiz
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

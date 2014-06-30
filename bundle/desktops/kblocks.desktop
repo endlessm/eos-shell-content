@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KBlocks
+Name[es]=Bloques
+Comment=Falling blocks game
+Comment[es]=Juego de bloques que caen.
+Type=Application
+Exec=kblocks -caption %c
+Icon=kblocks
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

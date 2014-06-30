@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KDiamond
+Name[es]=Diamantes
+Comment=Three-in-a-row game
+Comment[es]=Juego de tres en fila
+Type=Application
+Exec=kdiamond -caption %c
+Icon=kdiamond
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

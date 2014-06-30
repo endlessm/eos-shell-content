@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Health
+Name[es]=Salud
+Name[pt]=Saúde
+Comment=Live a healthy life with this app, packed with tips and resources
+Comment[es]=Aprende a vivir una vida saludable con estos consejos y recursos
+Comment[pt]=Tenha uma vida saudável com este aplicativo, com dicas e recursos
+Type=Application
+Exec=eos-health
+Icon=com.endlessm.health
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-ShowInPersonalities=default;
+X-Endless-LaunchMaximized=true

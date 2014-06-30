@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KSquares
+Name[es]=Cuadrados
+Comment=Dots and boxes game
+Comment[es]=Juego de puntos y cuadrados
+Type=Application
+Exec=ksquares %i -caption %c
+Icon=ksquares
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

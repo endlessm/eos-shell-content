@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bovo
+Name[es]=Cinco
+Comment=Gomoku (five in line) board game
+Comment[es]=Un juego de mesa virtual
+Type=Application
+Exec=bovo -caption %c
+Icon=bovo
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

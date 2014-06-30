@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Pingus
+Name[es]=Pingus
+Name[pt]=Pingus
+Comment=Fun multi-level game featuring penguins
+Comment[es]=Salva a tus amigos pingüinos para que no se caigan al agua helado
+Comment[pt]=Jogo divertido em vários níveis protagonizado por pinguins
+Type=Application
+Exec=sh -c "pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`"
+TryExec=pingus
+Icon=pingus
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

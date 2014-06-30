@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Fitness
+Name[es]=Ejercicios 
+Name[pt]=Boa Forma
+Comment=Take care of your body with tips and techniques for excercise and healthy living
+Comment[es]=Encuentra consejos y técnicas para ejercitarte y vivir una vida sana
+Comment[pt]=Cuide do seu corpo com dicas e técnicas para se exercitar e manter um estilo de vida saudável
+Type=Application
+Exec=eos-fitness
+Icon=com.endlessm.fitness
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

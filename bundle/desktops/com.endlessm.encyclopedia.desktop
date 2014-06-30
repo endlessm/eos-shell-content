@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Encyclopedia
+Comment=The free encyclopedia that anyone can edit
+Comment[es]=La enciclopedia libre más grande del mundo
+Comment[pt]=A enciclopédia livre que todos podem editar
+Type=Application
+Exec=eos-encyclopedia
+Icon=com.endlessm.encyclopedia
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.encyclopedia-splash.jpg

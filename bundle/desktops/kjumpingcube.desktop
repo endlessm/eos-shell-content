@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KJumpingCube
+Name[es]=CuboSaltador
+Comment=Simple tactical game
+Comment[es]=Juego táctico y simple
+Type=Application
+Exec=kjumpingcube -caption %c
+Icon=kjumpingcube
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

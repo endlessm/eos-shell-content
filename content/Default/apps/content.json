@@ -2,7 +2,6 @@
   {
     "displayShape":"b1",
     "application-id":"sol",
-    "desktop-id":"eos-app-sol",
     "exec":"sol --variation=freecell",
     "tryexec":"",
     "title":"Freecell",
@@ -39,7 +38,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnome-sudoku",
-    "desktop-id":"eos-app-gnome-sudoku",
     "exec":"gnome-sudoku",
     "tryexec":"",
     "title":"Sudoku",
@@ -68,7 +66,6 @@
   {
     "displayShape":"b2h",
     "application-id":"com.endlessm.khanacademy",
-    "desktop-id":"eos-app-com.endlessm.khanacademy",
     "exec":"eos-khanacademy",
     "tryexec":"",
     "title":"Khan Academy",
@@ -104,7 +101,6 @@
   {
     "displayShape":"b1",
     "application-id":"goldendict",
-    "desktop-id":"eos-app-goldendict",
     "exec":"goldendict",
     "tryexec":"",
     "title":"Dictionary",
@@ -137,7 +133,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.encyclopedia",
-    "desktop-id":"eos-app-com.endlessm.encyclopedia",
     "exec":"eos-encyclopedia",
     "tryexec":"",
     "title":"Encyclopedia",
@@ -176,7 +171,6 @@
   {
     "displayShape":"b2v",
     "application-id":"skype",
-    "desktop-id":"eos-app-skype",
     "exec":"skype %U",
     "tryexec":"",
     "title":"Skype",
@@ -204,7 +198,6 @@
   {
     "displayShape":"b1",
     "application-id":"armagetronad",
-    "desktop-id":"eos-app-armagetronad",
     "exec":"armagetronad",
     "tryexec":"",
     "title":"Armagetron",
@@ -233,7 +226,6 @@
   {
     "displayShape":"b1",
     "application-id":"audacity",
-    "desktop-id":"eos-app-audacity",
     "exec":"audacity",
     "tryexec":"",
     "title":"Audio Editor",
@@ -260,7 +252,6 @@
   {
     "displayShape":"b2v",
     "application-id":"billard-gl",
-    "desktop-id":"eos-app-billard-gl",
     "exec":"billard-gl",
     "tryexec":"",
     "title":"Billiards",
@@ -289,7 +280,6 @@
   {
     "displayShape":"b2v",
     "application-id":"blockout2",
-    "desktop-id":"eos-app-blockout2",
     "exec":"blockout2",
     "tryexec":"",
     "title":"BlockOut 2",
@@ -316,7 +306,6 @@
   {
     "displayShape":"b2v",
     "application-id":"chromium-bsu",
-    "desktop-id":"eos-app-chromium-bsu",
     "exec":"resfix chromium-bsu --fullscreen",
     "tryexec":"chromium-bsu",
     "title":"Chromium BSU",
@@ -344,7 +333,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.english",
-    "desktop-id":"eos-app-com.endlessm.english",
     "exec":"eos-english",
     "tryexec":"",
     "title":"Learn English",
@@ -383,7 +371,6 @@
   {
     "displayShape":"b1",
     "application-id":"evolution",
-    "desktop-id":"eos-app-evolution",
     "exec":"evolution %U",
     "tryexec":"",
     "title":"E-mail",
@@ -417,7 +404,6 @@
   {
     "displayShape":"b1",
     "application-id":"frostwire",
-    "desktop-id":"eos-app-frostwire",
     "exec":"frostwire",
     "tryexec":"",
     "title":"BitTorrent",
@@ -457,7 +443,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnome-calculator",
-    "desktop-id":"eos-app-gnome-calculator",
     "exec":"gnome-calculator",
     "tryexec":"",
     "title":"Calculator",
@@ -490,7 +475,6 @@
   {
     "displayShape":"b1",
     "application-id":"gcompris",
-    "desktop-id":"eos-app-gcompris",
     "exec":"gcompris",
     "tryexec":"",
     "title":"EduGames",
@@ -530,7 +514,6 @@
   {
     "displayShape":"b1",
     "application-id":"gimp",
-    "desktop-id":"eos-app-gimp",
     "exec":"gimp %U",
     "tryexec":"",
     "title":"GIMP",
@@ -567,7 +550,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnome-genius",
-    "desktop-id":"eos-app-gnome-genius",
     "exec":"gnome-genius",
     "tryexec":"",
     "title":"Math",
@@ -596,7 +578,6 @@
   {
     "displayShape":"b1",
     "application-id":"kobodeluxe",
-    "desktop-id":"eos-app-kobodeluxe",
     "exec":"resfix \"kobodl -fullscreen\"",
     "tryexec":"kobodl",
     "title":"Kobo Deluxe",
@@ -625,7 +606,6 @@
   {
     "displayShape":"b1",
     "application-id":"lbreakout2",
-    "desktop-id":"eos-app-lbreakout2",
     "exec":"lbreakout2",
     "tryexec":"",
     "title":"Breakout",
@@ -652,7 +632,6 @@
   {
     "displayShape":"b1",
     "application-id":"libreoffice-calc",
-    "desktop-id":"eos-app-libreoffice-calc",
     "exec":"libreoffice --calc %U",
     "tryexec":"",
     "title":"Spreadsheet",
@@ -685,7 +664,6 @@
   {
     "displayShape":"b1",
     "application-id":"libreoffice-impress",
-    "desktop-id":"eos-app-libreoffice-impress",
     "exec":"libreoffice --impress %U",
     "tryexec":"",
     "title":"Presentation",
@@ -720,7 +698,6 @@
   {
     "displayShape":"b1",
     "application-id":"libreoffice-writer",
-    "desktop-id":"eos-app-libreoffice-writer",
     "exec":"libreoffice --writer %U",
     "tryexec":"",
     "title":"Writer",
@@ -758,7 +735,6 @@
   {
     "displayShape":"b2v",
     "application-id":"numptyphysics",
-    "desktop-id":"eos-app-numptyphysics",
     "exec":"numptyphysics",
     "tryexec":"",
     "title":"Physics",
@@ -787,7 +763,6 @@
   {
     "displayShape":"b1",
     "application-id":"openarena",
-    "desktop-id":"eos-app-openarena",
     "exec":"resfix openarena +r_fullscreen 1",
     "tryexec":"openarena",
     "title":"Open Arena",
@@ -814,7 +789,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.photos",
-    "desktop-id":"eos-app-com.endlessm.photos",
     "exec":"eos-photos %f",
     "tryexec":"",
     "title":"Photo Editor",
@@ -850,7 +824,6 @@
   {
     "displayShape":"b1",
     "application-id":"pingus",
-    "desktop-id":"eos-app-pingus",
     "exec":"sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
     "tryexec":"pingus",
     "title":"Pingus",
@@ -884,7 +857,6 @@
   {
     "displayShape":"b2h",
     "application-id":"rhythmbox",
-    "desktop-id":"eos-app-rhythmbox",
     "exec":"rhythmbox %U",
     "tryexec":"",
     "title":"Music",
@@ -920,7 +892,6 @@
   {
     "displayShape":"b2v",
     "application-id":"shotwell",
-    "desktop-id":"eos-app-shotwell",
     "exec":"shotwell %U",
     "tryexec":"",
     "title":"Photos",
@@ -956,7 +927,6 @@
   {
     "displayShape":"b1",
     "application-id":"solitaire",
-    "desktop-id":"eos-app-solitaire",
     "exec":"sol --class=solitaire --variation=klondike",
     "tryexec":"",
     "title":"Solitaire",
@@ -996,7 +966,6 @@
   {
     "displayShape":"b1",
     "application-id":"stellarium",
-    "desktop-id":"eos-app-stellarium",
     "exec":"stellarium-wrapper",
     "tryexec":"stellarium",
     "title":"Stellarium",
@@ -1025,7 +994,6 @@
   {
     "displayShape":"b2v",
     "application-id":"supertux",
-    "desktop-id":"eos-app-supertux",
     "exec":"resfix supertux2 --fullscreen",
     "tryexec":"supertux2",
     "title":"Super Tux",
@@ -1054,7 +1022,6 @@
   {
     "displayShape":"b2h",
     "application-id":"supertuxkart",
-    "desktop-id":"eos-app-supertuxkart",
     "exec":"resfix supertuxkart --fullscreen",
     "tryexec":"supertuxkart",
     "title":"Tux Kart",
@@ -1083,7 +1050,6 @@
   {
     "displayShape":"b2h",
     "application-id":"teeworlds",
-    "desktop-id":"eos-app-teeworlds",
     "exec":"resfix teeworlds",
     "tryexec":"teeworlds",
     "title":"Teeworlds",
@@ -1112,7 +1078,6 @@
   {
     "displayShape":"b1",
     "application-id":"totem",
-    "desktop-id":"eos-app-totem",
     "exec":"sh -c \"totem --pause `xdg-user-dir VIDEOS`\"",
     "tryexec":"totem",
     "title":"Videos",
@@ -1149,7 +1114,6 @@
   {
     "displayShape":"b2h",
     "application-id":"com.endlessm.translation",
-    "desktop-id":"eos-app-com.endlessm.translation",
     "exec":"eos-translation",
     "tryexec":"",
     "title":"Translate",
@@ -1182,7 +1146,6 @@
   {
     "displayShape":"b2h",
     "application-id":"tuxmath",
-    "desktop-id":"eos-app-tuxmath",
     "exec":"tuxmath",
     "tryexec":"",
     "title":"Tux Math",
@@ -1221,7 +1184,6 @@
   {
     "displayShape":"b1",
     "application-id":"tuxtype",
-    "desktop-id":"eos-app-tuxtype",
     "exec":"eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
     "tryexec":"tuxtype",
     "title":"Tux Typing",
@@ -1260,7 +1222,6 @@
   {
     "displayShape":"b2h",
     "application-id":"com.endlessm.weather",
-    "desktop-id":"eos-app-com.endlessm.weather",
     "exec":"eos-weather",
     "tryexec":"",
     "title":"Weather",
@@ -1297,7 +1258,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.youvideos",
-    "desktop-id":"eos-app-com.endlessm.youvideos",
     "exec":"eos-youvideos",
     "tryexec":"",
     "title":"YouVideos",
@@ -1336,7 +1296,6 @@
   {
     "displayShape":"b2h",
     "application-id":"com.endlessm.brazil",
-    "desktop-id":"eos-app-com.endlessm.brazil",
     "exec":"eos-brazil",
     "tryexec":"",
     "title":"Brazil",
@@ -1372,7 +1331,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.health",
-    "desktop-id":"eos-app-com.endlessm.health",
     "exec":"eos-health",
     "tryexec":"",
     "title":"Health",
@@ -1406,7 +1364,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.programming",
-    "desktop-id":"eos-app-com.endlessm.programming",
     "exec":"eos-programming",
     "tryexec":"",
     "title":"Coding Fun",
@@ -1445,7 +1402,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.typing",
-    "desktop-id":"eos-app-com.endlessm.typing",
     "exec":"eos-typing",
     "tryexec":"",
     "title":"Typing",
@@ -1484,7 +1440,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.resume",
-    "desktop-id":"eos-app-com.endlessm.resume",
     "exec":"eos-resume",
     "tryexec":"",
     "title":"R\u00e9sum\u00e9",
@@ -1518,7 +1473,6 @@
   {
     "displayShape":"b1",
     "application-id":"empathy",
-    "desktop-id":"eos-app-empathy",
     "exec":"empathy",
     "tryexec":"",
     "title":"Chat",
@@ -1554,7 +1508,6 @@
   {
     "displayShape":"b1",
     "application-id":"inkscape",
-    "desktop-id":"eos-app-inkscape",
     "exec":"inkscape %F",
     "tryexec":"",
     "title":"Inkscape",
@@ -1589,7 +1542,6 @@
   {
     "displayShape":"b1",
     "application-id":"frozen-bubble",
-    "desktop-id":"eos-app-frozen-bubble",
     "exec":"frozen-bubble",
     "tryexec":"",
     "title":"Frozen Bubble",
@@ -1618,7 +1570,6 @@
   {
     "displayShape":"b1",
     "application-id":"scorched3d",
-    "desktop-id":"eos-app-scorched3d",
     "exec":"scorched3d",
     "tryexec":"",
     "title":"Scorched 3D",
@@ -1647,7 +1598,6 @@
   {
     "displayShape":"b2v",
     "application-id":"com.endlessm.mexico",
-    "desktop-id":"eos-app-com.endlessm.mexico",
     "exec":"eos-mexico",
     "tryexec":"",
     "title":"Mexico",
@@ -1678,7 +1628,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.guatemala",
-    "desktop-id":"eos-app-com.endlessm.guatemala",
     "exec":"eos-guatemala",
     "tryexec":"",
     "title":"Guatemala",
@@ -1719,7 +1668,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.science",
-    "desktop-id":"eos-app-com.endlessm.science",
     "exec":"eos-science",
     "tryexec":"",
     "title":"Science",
@@ -1758,7 +1706,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.futbol",
-    "desktop-id":"eos-app-com.endlessm.futbol",
     "exec":"eos-futbol",
     "tryexec":"",
     "title":"Soccer",
@@ -1797,7 +1744,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.celebrities",
-    "desktop-id":"eos-app-com.endlessm.celebrities",
     "exec":"eos-celebrities",
     "tryexec":"",
     "title":"Celebrities",
@@ -1836,7 +1782,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.fitness",
-    "desktop-id":"eos-app-com.endlessm.fitness",
     "exec":"eos-fitness",
     "tryexec":"",
     "title":"Fitness",
@@ -1875,7 +1820,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.cooking",
-    "desktop-id":"eos-app-com.endlessm.cooking",
     "exec":"eos-cooking",
     "tryexec":"",
     "title":"Cooking",
@@ -1914,7 +1858,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.travel",
-    "desktop-id":"eos-app-com.endlessm.travel",
     "exec":"eos-travel",
     "tryexec":"",
     "title":"Travel",
@@ -1953,7 +1896,6 @@
   {
     "displayShape":"b1",
     "application-id":"eos-file-manager",
-    "desktop-id":"eos-app-eos-file-manager",
     "exec":"eos-file-manager %U",
     "tryexec":"",
     "title":"Documents",
@@ -1978,7 +1920,6 @@
   {
     "displayShape":"b1",
     "application-id":"chromium-browser",
-    "desktop-id":"eos-app-chromium-browser",
     "exec":"chromium-browser %U",
     "tryexec":"",
     "title":"Internet",
@@ -2003,7 +1944,6 @@
   {
     "displayShape":"b1",
     "application-id":"freecol",
-    "desktop-id":"eos-app-freecol",
     "exec":"freecol",
     "tryexec":"",
     "title":"FreeCol",
@@ -2033,7 +1973,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnote",
-    "desktop-id":"eos-app-gnote",
     "exec":"gnote %u",
     "tryexec":"",
     "title":"Notes",
@@ -2067,7 +2006,6 @@
   {
     "displayShape":"b1",
     "application-id":"gedit",
-    "desktop-id":"eos-app-gedit",
     "exec":"gedit %U",
     "tryexec":"",
     "title":"Gedit",
@@ -2106,7 +2044,6 @@
   {
     "displayShape":"b1",
     "application-id":"freeciv",
-    "desktop-id":"eos-app-freeciv",
     "exec":"freeciv",
     "tryexec":"",
     "title":"FreeCiv",
@@ -2142,7 +2079,6 @@
   {
     "displayShape":"b1",
     "application-id":"tuxpaint",
-    "desktop-id":"eos-app-tuxpaint",
     "exec":"tuxpaint --fullscreen --native",
     "tryexec":"",
     "title":"Tux Paint",
@@ -2181,7 +2117,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnect",
-    "desktop-id":"eos-app-gnect",
     "exec":"four-in-a-row",
     "tryexec":"",
     "title":"Four in a Row",
@@ -2209,7 +2144,6 @@
   {
     "displayShape":"b1",
     "application-id":"iagno",
-    "desktop-id":"eos-app-iagno",
     "exec":"iagno",
     "tryexec":"",
     "title":"Iagno",
@@ -2237,7 +2171,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnomine",
-    "desktop-id":"eos-app-gnomine",
     "exec":"gnome-mines",
     "tryexec":"",
     "title":"Mines",
@@ -2265,7 +2198,6 @@
   {
     "displayShape":"b1",
     "application-id":"quadrapassel",
-    "desktop-id":"eos-app-quadrapassel",
     "exec":"quadrapassel",
     "tryexec":"",
     "title":"Quadrapassel",
@@ -2293,7 +2225,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnome-tetravex",
-    "desktop-id":"eos-app-gnome-tetravex",
     "exec":"gnome-tetravex",
     "tryexec":"",
     "title":"Tetravex",
@@ -2321,7 +2252,6 @@
   {
     "displayShape":"b1",
     "application-id":"terminal",
-    "desktop-id":"eos-app-terminal",
     "exec":"gnome-terminal",
     "tryexec":"",
     "title":"Terminal",
@@ -2348,7 +2278,6 @@
   {
     "displayShape":"b1",
     "application-id":"cheese",
-    "desktop-id":"eos-app-cheese",
     "exec":"cheese",
     "tryexec":"",
     "title":"Cheese",
@@ -2390,7 +2319,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.math",
-    "desktop-id":"eos-app-com.endlessm.math",
     "exec":"eos-math",
     "tryexec":"",
     "title":"Math App",
@@ -2415,7 +2343,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.farming",
-    "desktop-id":"eos-app-com.endlessm.farming",
     "exec":"eos-farming",
     "tryexec":"",
     "title":"Farming App",
@@ -2440,7 +2367,6 @@
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.geography",
-    "desktop-id":"eos-app-com.endlessm.geography",
     "exec":"eos-geography",
     "tryexec":"",
     "title":"Geography App",
@@ -2465,7 +2391,6 @@
   {
     "displayShape":"b1",
     "application-id":"megaglest",
-    "desktop-id":"eos-app-megaglest",
     "exec":"megaglest",
     "tryexec":"",
     "title":"MegaGlest",
@@ -2490,7 +2415,6 @@
   {
     "displayShape":"b1",
     "application-id":"btanks",
-    "desktop-id":"eos-app-btanks",
     "exec":"btanks",
     "tryexec":"",
     "title":"Battle Tanks",
@@ -2517,7 +2441,6 @@
   {
     "displayShape":"b1",
     "application-id":"atanks",
-    "desktop-id":"eos-app-atanks",
     "exec":"atanks",
     "tryexec":"",
     "title":"Atomic Tanks",
@@ -2544,7 +2467,6 @@
   {
     "displayShape":"b1",
     "application-id":"wesnoth-1.11",
-    "desktop-id":"eos-app-wesnoth-1.11",
     "exec":"wesnoth -f",
     "tryexec":"",
     "title":"Wesnoth",
@@ -2571,7 +2493,6 @@
   {
     "displayShape":"b1",
     "application-id":"warzone2100",
-    "desktop-id":"eos-app-warzone2100",
     "exec":"warzone2100 --fullscreen",
     "tryexec":"",
     "title":"Warzone 2100",
@@ -2598,7 +2519,6 @@
   {
     "displayShape":"b1",
     "application-id":"tuxfootball",
-    "desktop-id":"eos-app-tuxfootball",
     "exec":"tuxfootball -fs",
     "tryexec":"",
     "title":"Tux Football",
@@ -2625,7 +2545,6 @@
   {
     "displayShape":"b1",
     "application-id":"xmoto",
-    "desktop-id":"eos-app-xmoto",
     "exec":"xmoto -fs",
     "tryexec":"",
     "title":"X-Moto",
@@ -2652,7 +2571,6 @@
   {
     "displayShape":"b1",
     "application-id":"marble",
-    "desktop-id":"eos-app-marble",
     "exec":"marble --geometry 1920x1080+0+0",
     "tryexec":"",
     "title":"Marble",
@@ -2681,7 +2599,6 @@
   {
     "displayShape":"b1",
     "application-id":"warmux",
-    "desktop-id":"eos-app-warmux",
     "exec":"warmux",
     "tryexec":"",
     "title":"Warmux",
@@ -2708,7 +2625,6 @@
   {
     "displayShape":"b1",
     "application-id":"extremetuxracer",
-    "desktop-id":"eos-app-extremetuxracer",
     "exec":"etracer",
     "tryexec":"",
     "title":"Tux Racer",
@@ -2735,7 +2651,6 @@
   {
     "displayShape":"b1",
     "application-id":"tuxpuck",
-    "desktop-id":"eos-app-tuxpuck",
     "exec":"tuxpuck",
     "tryexec":"",
     "title":"Tux Puck",
@@ -2762,7 +2677,6 @@
   {
     "displayShape":"b1",
     "application-id":"torcs",
-    "desktop-id":"eos-app-torcs",
     "exec":"torcs",
     "tryexec":"",
     "title":"TORCS",
@@ -2789,7 +2703,6 @@
   {
     "displayShape":"b1",
     "application-id":"slingshot",
-    "desktop-id":"eos-app-slingshot",
     "exec":"slingshot",
     "tryexec":"",
     "title":"Slingshot",
@@ -2816,7 +2729,6 @@
   {
     "displayShape":"b1",
     "application-id":"ri-li",
-    "desktop-id":"eos-app-ri-li",
     "exec":"ri-li",
     "tryexec":"",
     "title":"Ri-Li",
@@ -2843,7 +2755,6 @@
   {
     "displayShape":"b1",
     "application-id":"minetest",
-    "desktop-id":"eos-app-minetest",
     "exec":"minetest",
     "tryexec":"",
     "title":"Minetest",
@@ -2870,7 +2781,6 @@
   {
     "displayShape":"b1",
     "application-id":"marsshooter",
-    "desktop-id":"eos-app-marsshooter",
     "exec":"mars",
     "tryexec":"",
     "title":"M.A.R.S.",
@@ -2897,7 +2807,6 @@
   {
     "displayShape":"b1",
     "application-id":"ktuberling",
-    "desktop-id":"eos-app-ktuberling",
     "exec":"ktuberling -caption %c %u",
     "tryexec":"",
     "title":"Potato Guy",
@@ -2933,7 +2842,6 @@
   {
     "displayShape":"b1",
     "application-id":"kwordquiz",
-    "desktop-id":"eos-app-kwordquiz",
     "exec":"kwordquiz -caption %c %i",
     "tryexec":"",
     "title":"KWordQuiz",
@@ -2966,7 +2874,6 @@
   {
     "displayShape":"b1",
     "application-id":"khangman",
-    "desktop-id":"eos-app-khangman",
     "exec":"khangman -caption %c %i",
     "tryexec":"",
     "title":"KHangMan",
@@ -2999,7 +2906,6 @@
   {
     "displayShape":"b1",
     "application-id":"bovo",
-    "desktop-id":"eos-app-bovo",
     "exec":"bovo -caption %c",
     "tryexec":"",
     "title":"Bovo",
@@ -3032,7 +2938,6 @@
   {
     "displayShape":"b1",
     "application-id":"gcompris-admin",
-    "desktop-id":"eos-app-gcompris-admin",
     "exec":"gcompris --administration",
     "tryexec":"",
     "title":"GCompris Admin",
@@ -3065,7 +2970,6 @@
   {
     "displayShape":"b1",
     "application-id":"kalzium",
-    "desktop-id":"eos-app-kalzium",
     "exec":"kalzium -caption %c %i",
     "tryexec":"",
     "title":"Kalzium",
@@ -3101,7 +3005,6 @@
   {
     "displayShape":"b1",
     "application-id":"kapman",
-    "desktop-id":"eos-app-kapman",
     "exec":"kapman",
     "tryexec":"",
     "title":"Kapman",
@@ -3137,7 +3040,6 @@
   {
     "displayShape":"b1",
     "application-id":"katomic",
-    "desktop-id":"eos-app-katomic",
     "exec":"katomic -caption %c",
     "tryexec":"",
     "title":"KAtomic",
@@ -3170,7 +3072,6 @@
   {
     "displayShape":"b1",
     "application-id":"kblackbox",
-    "desktop-id":"eos-app-kblackbox",
     "exec":"kblackbox -caption %c",
     "tryexec":"",
     "title":"KBlackBox",
@@ -3203,7 +3104,6 @@
   {
     "displayShape":"b1",
     "application-id":"kblocks",
-    "desktop-id":"eos-app-kblocks",
     "exec":"kblocks -caption %c",
     "tryexec":"",
     "title":"KBlocks",
@@ -3239,7 +3139,6 @@
   {
     "displayShape":"b1",
     "application-id":"kbounce",
-    "desktop-id":"eos-app-kbounce",
     "exec":"kbounce -caption %c",
     "tryexec":"",
     "title":"KBounce",
@@ -3272,7 +3171,6 @@
   {
     "displayShape":"b1",
     "application-id":"kbruch",
-    "desktop-id":"eos-app-kbruch",
     "exec":"kbruch -caption %c %i",
     "tryexec":"",
     "title":"KBruch",
@@ -3305,7 +3203,6 @@
   {
     "displayShape":"b1",
     "application-id":"kdiamond",
-    "desktop-id":"eos-app-kdiamond",
     "exec":"kdiamond -caption %c",
     "tryexec":"",
     "title":"KDiamond",
@@ -3338,7 +3235,6 @@
   {
     "displayShape":"b1",
     "application-id":"kgeography",
-    "desktop-id":"eos-app-kgeography",
     "exec":"kgeography",
     "tryexec":"",
     "title":"KGeography",
@@ -3377,7 +3273,6 @@
   {
     "displayShape":"b1",
     "application-id":"kgoldrunner",
-    "desktop-id":"eos-app-kgoldrunner",
     "exec":"kgoldrunner",
     "tryexec":"",
     "title":"KGoldrunner",
@@ -3410,7 +3305,6 @@
   {
     "displayShape":"b1",
     "application-id":"kigo",
-    "desktop-id":"eos-app-kigo",
     "exec":"kigo %i -caption %c",
     "tryexec":"",
     "title":"Kigo",
@@ -3443,7 +3337,6 @@
   {
     "displayShape":"b1",
     "application-id":"killbots",
-    "desktop-id":"eos-app-killbots",
     "exec":"killbots -caption %c",
     "tryexec":"",
     "title":"Killbots",
@@ -3476,7 +3369,6 @@
   {
     "displayShape":"b1",
     "application-id":"kjumpingcube",
-    "desktop-id":"eos-app-kjumpingcube",
     "exec":"kjumpingcube -caption %c",
     "tryexec":"",
     "title":"KJumpingCube",
@@ -3509,7 +3401,6 @@
   {
     "displayShape":"b1",
     "application-id":"klickety",
-    "desktop-id":"eos-app-klickety",
     "exec":"klickety -caption %c",
     "tryexec":"",
     "title":"Klickety",
@@ -3542,7 +3433,6 @@
   {
     "displayShape":"b1",
     "application-id":"kmines",
-    "desktop-id":"eos-app-kmines",
     "exec":"kmines -caption %c",
     "tryexec":"",
     "title":"KMines",
@@ -3575,7 +3465,6 @@
   {
     "displayShape":"b1",
     "application-id":"knetwalk",
-    "desktop-id":"eos-app-knetwalk",
     "exec":"knetwalk -caption %c",
     "tryexec":"",
     "title":"KNetwalk",
@@ -3608,7 +3497,6 @@
   {
     "displayShape":"b1",
     "application-id":"klines",
-    "desktop-id":"eos-app-klines",
     "exec":"klines -caption %c",
     "tryexec":"",
     "title":"Kolor Lines",
@@ -3641,7 +3529,6 @@
   {
     "displayShape":"b1",
     "application-id":"ksame",
-    "desktop-id":"eos-app-ksame",
     "exec":"klickety --geometry 1920x1080+0+0 --KSameMode -caption %c",
     "tryexec":"",
     "title":"KSame",
@@ -3674,7 +3561,6 @@
   {
     "displayShape":"b1",
     "application-id":"kdesnake",
-    "desktop-id":"eos-app-kdesnake",
     "exec":"ktron --geometry 1920x1080+0+0 -snake -caption %c %i",
     "tryexec":"",
     "title":"KSnake",
@@ -3707,7 +3593,6 @@
   {
     "displayShape":"b1",
     "application-id":"ktron",
-    "desktop-id":"eos-app-ktron",
     "exec":"ktron -caption %c %i",
     "tryexec":"",
     "title":"KSnakeDuel",
@@ -3740,7 +3625,6 @@
   {
     "displayShape":"b1",
     "application-id":"ksquares",
-    "desktop-id":"eos-app-ksquares",
     "exec":"ksquares %i -caption %c",
     "tryexec":"",
     "title":"KSquares",
@@ -3773,7 +3657,6 @@
   {
     "displayShape":"b1",
     "application-id":"kstars",
-    "desktop-id":"eos-app-kstars",
     "exec":"kstars -caption %c %i",
     "tryexec":"",
     "title":"KStars",
@@ -3806,7 +3689,6 @@
   {
     "displayShape":"b1",
     "application-id":"ksudoku",
-    "desktop-id":"eos-app-ksudoku",
     "exec":"ksudoku %i -caption %c",
     "tryexec":"",
     "title":"KSudoku",
@@ -3842,7 +3724,6 @@
   {
     "displayShape":"b1",
     "application-id":"kubrick",
-    "desktop-id":"eos-app-kubrick",
     "exec":"kubrick --geometry 1920x1080+0+0",
     "tryexec":"",
     "title":"Kubrick",
@@ -3875,7 +3756,6 @@
   {
     "displayShape":"b1",
     "application-id":"palapeli",
-    "desktop-id":"eos-app-palapeli",
     "exec":"palapeli",
     "tryexec":"",
     "title":"Palapeli",
@@ -3908,7 +3788,6 @@
   {
     "displayShape":"b1",
     "application-id":"gnome-screenshot",
-    "desktop-id":"eos-app-gnome-screenshot",
     "exec":"gnome-screenshot --interactive",
     "tryexec":"",
     "title":"Screenshot",
@@ -3941,7 +3820,6 @@
   {
     "displayShape":"b1",
     "application-id":"brasero",
-    "desktop-id":"eos-app-brasero",
     "exec":"brasero %U",
     "tryexec":"",
     "title":"Brasero",
@@ -3974,7 +3852,6 @@
   {
     "displayShape":"b1",
     "application-id":"knavalbattle",
-    "desktop-id":"eos-app-knavalbattle",
     "exec":"knavalbattle -caption %c %U",
     "tryexec":"",
     "title":"KNavalbattle",

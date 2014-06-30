@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Khan Academy
+Name[es]=Khan Academy
+Name[pt]=Khan Academy
+Comment=Learn about math, computers, economics, science, medicine, finance, history, and more, for free
+Comment[es]=Aprende acerca de las matemáticas, el arte, la programación, la economía, la biología, la historia, y mucho más - y todo por gratis
+Comment[pt]=Saiba mais sobre matemática, computadores, economia, ciência, medicina, finanças, história e muito mais, gratuitamente.
+Type=Application
+Exec=eos-khanacademy
+Icon=com.endlessm.khanacademy
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.khanacademy-splash.jpg

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KSnake
+Name[es]=Serpientes
+Comment=Classical snake action game
+Comment[es]=Juego clásico de acción con una serpiente
+Type=Application
+Exec=ktron --geometry 1920x1080+0+0 -snake -caption %c %i
+Icon=kdesnake
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

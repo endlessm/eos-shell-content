@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Inkscape
+Name[es]=Inkscape
+Name[pt]=Inkscape
+Comment=Vector graphics editor with transparency, gradients, node editing, pattern fills, PNG, and more
+Comment[es]=Un editor de gráficos con funciones avanzadas para diseñadores intermedios y avanzados 
+Comment[pt]=Edição de gráficos vetorizados com transparências, gradientes, edição de nódulos, padrões de preenchimento, PNG e muito mais
+Type=Application
+Exec=inkscape %F
+Icon=inkscape
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

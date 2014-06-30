@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Brazil
+Name[es]=Brasil
+Name[pt]=Brasil
+Comment=Learn about the country you call home and impress family and friends with the facts you know
+Comment[es]=¡Aprende más sobre tu bello país e impresiona a tu familia y a tus amigos con todo lo que aprenderás!
+Comment[pt]=Conheça melhor o seu país e impressione sua família e amigos com o que irá aprender
+Type=Application
+Exec=eos-brazil
+Icon=com.endlessm.brazil
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-ShowInPersonalities=default;Global;Brazil;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.brazil-splash.jpg

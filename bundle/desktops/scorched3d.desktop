@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Scorched 3D
+Name[es]=Scorched3D
+Name[pt]=Scorched 3D
+Comment=Turn-based artillery game
+Comment[es]=Un juego de artillería que puedes jugar con otros
+Comment[pt]=Jogo de artilharia
+Type=Application
+Exec=scorched3d
+Icon=scorched3d
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

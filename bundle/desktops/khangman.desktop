@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KHangMan
+Name[es]=Ahorcado
+Comment=Hangman word puzzle
+Comment[es]=Un juego educativo para niños 6+
+Type=Application
+Exec=khangman -caption %c %i
+Icon=khangman
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

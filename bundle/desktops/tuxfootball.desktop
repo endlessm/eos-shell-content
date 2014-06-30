@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Tux Football
+Comment=Great 2D soccer (sometimes called football) game
+Type=Application
+Exec=tuxfootball -fs
+Icon=tuxfootball
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

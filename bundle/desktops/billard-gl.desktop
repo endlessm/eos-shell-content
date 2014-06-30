@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Billiards
+Name[es]=Billar
+Name[pt]=Sinuca
+Comment=Fun 3D billiards game
+Comment[es]=Practica tus habilidades con este juego de billar en 3D
+Comment[pt]=Divertido jogo de sinuca em 3D
+Type=Application
+Exec=billard-gl
+Icon=billard-gl
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=false

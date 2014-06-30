@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=KBounce
+Name[es]=Rebote
+Comment=Jezzball arcade game
+Comment[es]=Juego de paredes y rebotes
+Type=Application
+Exec=kbounce -caption %c
+Icon=kbounce
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

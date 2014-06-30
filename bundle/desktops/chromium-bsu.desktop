@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Chromium BSU
+Name[es]=Chromium BSU
+Name[pt]=Chromium BSU
+Comment=A fast paced, arcade-style, top-scrolling space shooter 
+Comment[es]=¡Reacciona rápidamente para ganar!
+Comment[pt]=Um jogo de tiros no espaço em alta velocidade, com perspectiva superior
+Type=Application
+Exec=resfix chromium-bsu --fullscreen
+TryExec=chromium-bsu
+Icon=chromium-bsu
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

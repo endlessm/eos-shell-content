@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Warzone 2100
+Comment=3D real time strategy game
+Type=Application
+Exec=warzone2100 --fullscreen
+Icon=warzone2100
+Categories=Leisure;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

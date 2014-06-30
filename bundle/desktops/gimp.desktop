@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=GIMP
+Name[es]=GIMP
+Name[pt]=GIMP
+Comment= Image retouching and editing tool
+Comment[es]=Edita tus fotos como un profesional 
+Comment[pt]=Ferramenta de edição e retoque de imagens
+Type=Application
+Exec=gimp %U
+Icon=gimp
+Categories=Utility;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true
