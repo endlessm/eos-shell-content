@@ -36,7 +36,7 @@ class DesktopObject(object):
         if key in self.json_keys:
             val = self._data[self.json_keys[key]]
             if key == 'Icon':
-                return self._prefix + val
+                return self._icon_prefix + val
             if key == 'TryExec':
                 if not val:
                     # Convert empty string to None to avoid writing field
@@ -127,6 +127,7 @@ class LinkObject(DesktopObject):
         self._locales = []
         self._localized_urls = {}
         self._prefix = 'eos-link-'
+        self._icon_prefix = 'eos-link-'
 
     def append_localized_url(self, locale, url):
         if url != self._default_url:
@@ -193,6 +194,7 @@ class AppObject(DesktopObject):
             self._prefix = 'eos-app-'
         else:
             self._prefix = ''
+        self._icon_prefix = 'eos-app-'
 
     def get_desktop_dir(self):
         if self.get('Core'):
