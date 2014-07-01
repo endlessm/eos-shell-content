@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Physics
+Name[es]=Física
+Name[pt]=Fisicando
+Comment=Access to the great mysteries of the physical world, and the knowledge to solve them
+Type=Application
+Exec=eos-physics
+Icon=eos-app-com.endlessm.physics
+Categories=Education;
+X-Endless-ShowInAppStore=true
+X-Endless-LaunchMaximized=true

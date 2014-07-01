@@ -1,10 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Name=Geography App
-Comment=temp subtitle
+Name=Geography
+Comment=Opening up the whole wide world for your exploration and understanding  
 Type=Application
 Exec=eos-geography
 Icon=eos-app-com.endlessm.geography
-Categories=
-X-Endless-ShowInAppStore=false
+Categories=Education;
+X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

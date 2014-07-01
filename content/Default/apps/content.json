@@ -64,7 +64,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2h",
+    "displayShape":"b1",
     "application-id":"com.endlessm.khanacademy",
     "exec":"eos-khanacademy",
     "tryexec":"",
@@ -78,7 +78,7 @@
     "custom-splash-screen":"com.endlessm.khanacademy-splash.jpg",
     "icon":"com.endlessm.khanacademy-icon.png",
     "square_img":"com.endlessm.khanacademy-thumb.jpg",
-    "featured_img":"com.endlessm.khanacademy-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -278,7 +278,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"blockout2",
     "exec":"blockout2",
     "tryexec":"",
@@ -331,7 +331,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"com.endlessm.english",
     "exec":"eos-english",
     "tryexec":"",
@@ -345,7 +345,7 @@
     "custom-splash-screen":"com.endlessm.english-splash.jpg",
     "icon":"com.endlessm.english-icon.png",
     "square_img":"com.endlessm.english-thumb.jpg",
-    "featured_img":"com.endlessm.english-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -552,7 +552,7 @@
     "application-id":"gnome-genius",
     "exec":"gnome-genius",
     "tryexec":"",
-    "title":"Math",
+    "title":"Math Plotting",
     "subtitle":" Numerical computing environment and programming language",
     "description":"This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as a high-level calculator. Everything you need to figure out numerical mysteries is right here.",
     "personalities":[
@@ -733,11 +733,11 @@
     "category":"Utility"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"numptyphysics",
     "exec":"numptyphysics",
     "tryexec":"",
-    "title":"Physics",
+    "title":"Numpty Physics",
     "subtitle":"Play games where physics is used to solve puzzles",
     "description":"Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
     "personalities":[
@@ -747,7 +747,7 @@
     "custom-splash-screen":"",
     "icon":"numptyphysics-icon.png",
     "square_img":"numptyphysics-thumb.jpg",
-    "featured_img":"numptyphysics-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -787,7 +787,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"com.endlessm.photos",
     "exec":"eos-photos %f",
     "tryexec":"",
@@ -801,7 +801,7 @@
     "custom-splash-screen":"com.endlessm.photos-splash.jpg",
     "icon":"com.endlessm.photos-icon.png",
     "square_img":"com.endlessm.photos-thumb.jpg",
-    "featured_img":"com.endlessm.photos-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -890,7 +890,7 @@
     "category":"Utility"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"shotwell",
     "exec":"shotwell %U",
     "tryexec":"",
@@ -904,7 +904,7 @@
     "custom-splash-screen":"",
     "icon":"shotwell-icon.png",
     "square_img":"shotwell-thumb.jpg",
-    "featured_img":"shotwell-featured.jpg",
+    "featured_img":"",
     "core":true,
     "screenshots":{
       "C":[
@@ -992,7 +992,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"supertux",
     "exec":"resfix supertux2 --fullscreen",
     "tryexec":"supertux2",
@@ -1006,7 +1006,7 @@
     "custom-splash-screen":"",
     "icon":"supertux-icon.png",
     "square_img":"supertux-thumb.jpg",
-    "featured_img":"supertux-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -1020,7 +1020,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2h",
+    "displayShape":"b1",
     "application-id":"supertuxkart",
     "exec":"resfix supertuxkart --fullscreen",
     "tryexec":"supertuxkart",
@@ -1034,7 +1034,7 @@
     "custom-splash-screen":"",
     "icon":"supertuxkart-icon.png",
     "square_img":"supertuxkart-thumb.jpg",
-    "featured_img":"supertuxkart-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -1048,7 +1048,7 @@
     "category":"Leisure"
   },
   {
-    "displayShape":"b2h",
+    "displayShape":"b1",
     "application-id":"teeworlds",
     "exec":"resfix teeworlds",
     "tryexec":"teeworlds",
@@ -1062,7 +1062,7 @@
     "custom-splash-screen":"",
     "icon":"teeworlds-icon.png",
     "square_img":"teeworlds-thumb.jpg",
-    "featured_img":"teeworlds-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -1112,7 +1112,7 @@
     "category":"Utility"
   },
   {
-    "displayShape":"b2h",
+    "displayShape":"b1",
     "application-id":"com.endlessm.translation",
     "exec":"eos-translation",
     "tryexec":"",
@@ -1126,7 +1126,7 @@
     "custom-splash-screen":"com.endlessm.translation-splash.jpg",
     "icon":"com.endlessm.translation-icon.png",
     "square_img":"com.endlessm.translation-thumb.jpg",
-    "featured_img":"com.endlessm.translation-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -1400,7 +1400,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"com.endlessm.typing",
     "exec":"eos-typing",
     "tryexec":"",
@@ -1414,7 +1414,7 @@
     "custom-splash-screen":"com.endlessm.typing-splash.jpg",
     "icon":"com.endlessm.typing-icon.png",
     "square_img":"com.endlessm.typing-thumb.jpg",
-    "featured_img":"com.endlessm.typing-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
@@ -1900,7 +1900,7 @@
     "tryexec":"",
     "title":"Documents",
     "subtitle":"File manager",
-    "description":"No description necessary -- this is not available via the app store",
+    "description":"Need a description for the app store now!",
     "personalities":[
       "All"
     ],
@@ -1915,7 +1915,7 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Utility"
   },
   {
     "displayShape":"b1",
@@ -1924,7 +1924,7 @@
     "tryexec":"",
     "title":"Internet",
     "subtitle":"Browse the Web",
-    "description":"No description necessary -- this is not available via the app store",
+    "description":"Need an app store description now!",
     "personalities":[
       "All"
     ],
@@ -1939,7 +1939,7 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Utility"
   },
   {
     "displayShape":"b1",
@@ -2321,7 +2321,7 @@
     "application-id":"com.endlessm.math",
     "exec":"eos-math",
     "tryexec":"",
-    "title":"Math App",
+    "title":"Math",
     "subtitle":"temp subtitle",
     "description":"temp_description",
     "personalities":[
@@ -2338,7 +2338,7 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Education"
   },
   {
     "displayShape":"b1",
@@ -2346,8 +2346,8 @@
     "exec":"eos-farming",
     "tryexec":"",
     "title":"Farming App",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "subtitle":"The world is an amazing place, and with this app, you\u2019ll learn all about it. Featuring information o",
+    "description":"Farming is both an ancient tradition and a modern, bustling industry. Our world\u2019s food supply comes from hardworking farmers around the globe. Learning about this sector of the economy can be fascinating and useful, especially if you\u2019re interested in providing food for yourself and your community. This app includes information on farming techniques and equipment, different types of agriculture, and the careers that exist in this industry. You\u2019ll soon be an expert in crops, livestock, and more.",
     "personalities":[
       "All"
     ],
@@ -2362,16 +2362,16 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Utility"
   },
   {
     "displayShape":"b1",
     "application-id":"com.endlessm.geography",
     "exec":"eos-geography",
     "tryexec":"",
-    "title":"Geography App",
-    "subtitle":"temp subtitle",
-    "description":"temp description",
+    "title":"Geography",
+    "subtitle":"Opening up the whole wide world for your exploration and understanding  ",
+    "description":"The world is an amazing place, and with this app, you\u2019ll learn all about it. Featuring information on every country in the world, this comprehensive resource covers major cities, regions, natural features, and more. Closer to home, you\u2019ll find detailed information about Guatemala, from its towns and cities to its rivers and mountains. Explore the wonders around you with the Geography app.",
     "personalities":[
       "All"
     ],
@@ -2386,7 +2386,7 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":null
+    "category":"Education"
   },
   {
     "displayShape":"b1",
@@ -3880,5 +3880,383 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Leisure"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.howto",
+    "exec":"eos-howto",
+    "tryexec":"",
+    "title":"How To",
+    "subtitle":"How to do just about anything by yourself",
+    "description":"Have you ever wanted to learn how to knit? What about garden? Are you interested in refinishing furniture, cleaning challenging stains, or creating an exercise plan you\u2019ll actually follow? Whatever you\u2019ve dreamt of learning how to do, this is the app you need. From crafts to home improvement, event planning to self-help, you\u2019ll find nearly every topic imaginable. Each how-to article is easy to access and understand. Soon, you won\u2019t know how you managed before!",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.howto-icon.png",
+    "square_img":"com.endlessm.howto-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.astronomy",
+    "exec":"eos-astronomy",
+    "tryexec":"",
+    "title":"Astronomy",
+    "subtitle":"Understand more of the universe and all it contains",
+    "description":"Is there anything more mystifying and incredible than outer space? This app will introduce you to the vast cosmos, teaching you about our own solar system and beyond. Learn about planets, stars, galaxies, and even the mysteries of black holes. Understand our sun and moon, and contemplate the possibility of life elsewhere in the universe. You\u2019ll want to take off in a rocket ship after exploring the app.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.astronomy-icon.png",
+    "square_img":"com.endlessm.astronomy-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.history",
+    "exec":"eos-history",
+    "tryexec":"",
+    "title":"History",
+    "subtitle":"Telling you the tales that brought our contemporary world into being",
+    "description":"How much do you know about the fall of the Roman Empire? What about the Silk Road? Who lived in the Americas long ago, and what happened to them? Why did World War I begin? The World History app can answer every question you have about the events and personalities that have shaped our modern world, and the cultures that came before us and left us their legacies.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.history-icon.png",
+    "square_img":"com.endlessm.history-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.animals",
+    "exec":"eos-animals",
+    "tryexec":"",
+    "title":"Animals",
+    "subtitle":"Helping you understand and appreciate the creatures that share our Earth",
+    "description":"Animals are simply amazing. From the majestic lion to the bizarre and fascinating platypus, there is so much to learn about the creatures that inhabit our world. Unlock the entire animal kingdom with this app. The whole family, from small children to curious adults, will love to learn about animals\u2019 features, habits, and environments. It\u2019s especially important to study the animal kingdom today, when so many species are threatened or endangered. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.animals-icon.png",
+    "square_img":"com.endlessm.animals-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.dinosaurs",
+    "exec":"eos-dinosaurs",
+    "tryexec":"",
+    "title":"Dinosaurs",
+    "subtitle":"Bringing prehistory back to life for you to discover anew",
+    "description":"Dinosaurs first appeared on Earth more than 230 million years ago. They ruled the planet for millions of years, until a catastrophic extinction event wiped out almost all of them. Fossils and other findings have taught us a great deal about these former inhabitants of Earth. This app will introduce you to these incredible prehistoric creatures. Learn about the different types of dinosaurs, from fierce carnivores to massive herbivores. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.dinosaurs-icon.png",
+    "square_img":"com.endlessm.dinosaurs-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.myths",
+    "exec":"eos-myths",
+    "tryexec":"",
+    "title":"Myths & Legends",
+    "subtitle":"Telling the foundational stories of the world\u2019s many cultures, ancient and modern",
+    "description":"The stories of ancient cultures have had a massive impact on our current understanding of the world. While some myths are just that \u2013 stories we find fascinating and that help us understand our ancestors \u2013 others remain the basis for our modern religions and traditions. The app explores stories and beliefs from all over the world. From magic rituals to otherworldly creatures, myths provide us with entertainment, knowledge, and a glimpse into cultures of the past and present.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.myths-icon.png",
+    "square_img":"com.endlessm.myths-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.biology",
+    "exec":"eos-biology",
+    "tryexec":"",
+    "title":"Biology",
+    "subtitle":"Taking you on a journey through the many facets of the living world",
+    "description":"Studying biology is an exciting pursuit, because it gives us an understanding of what it means to be a living creature. This app covers everything from cells and tiny organisms to plants and animals. You can use this textbook app to study many sub-disciplines of biology, or simply to gain a better understanding of the subject as a whole. Whether you want to know what mitochondria are or what types of reproduction exist in nature, let this app be your guide.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.biology-icon.png",
+    "square_img":"com.endlessm.biology-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.socialsciences",
+    "exec":"eos-socialsciences",
+    "tryexec":"",
+    "title":"Social Sciences",
+    "subtitle":"A fascinating look at society that will help you understand yourself and your culture ",
+    "description":"Human beings and the relationships and societies they form are complicated. This app will introduce you to many of the disciplines that examine human history, cultures, and interactions. You\u2019ll have access to the basics of psychology, sociology, anthropology, political science, and more. Understanding the fundamentals of such disciplines will help you navigate the ways we interact and relate to each other. You\u2019ll come away with a rich understanding of human behavior. ",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.socialsciences-icon.png",
+    "square_img":"com.endlessm.socialsciences-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.budget",
+    "exec":"eos-budget",
+    "tryexec":"",
+    "title":"My Budget",
+    "subtitle":"The essential budgeting and financial literacy app for every household",
+    "description":"It can be challenging to keep track of your family\u2019s finances, but it\u2019s also extremely important. This app provides the resources you need to keep a budget and understand how you spend your money. Easy templates make budgeting a breeze, and tips about money management and wise spending will help you make good choices with your funds. Your family will benefit from an organized, clear, and carefully managed financial plan.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"",
+    "square_img":"com.endlessm.budget-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Utility"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"com.endlessm.physics",
+    "exec":"eos-physics",
+    "tryexec":"",
+    "title":"Physics",
+    "subtitle":"Access to the great mysteries of the physical world, and the knowledge to solve them",
+    "description":"The physics textbook app takes one of the most fascinating and challenging scientific disciplines and makes it simple and fun to learn. Whatever your level of understanding, you\u2019ll find useful information presented in a format you can follow. The app includes exciting topics like mechanics, thermodynamics, electricity and magnetism, and even astrophysics. From the atoms to the stars, you\u2019ll learn all about the world around you, and succeed in your physics education.",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"com.endlessm.physics-icon.png",
+    "square_img":"com.endlessm.physics-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":{
+      "es":[
+        
+      ]
+    },
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gt_practical",
+    "exec":"temp_exec",
+    "tryexec":"",
+    "title":"GT Practical",
+    "subtitle":"Materiales Pr\u00e1cticos",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gt_practical-icon.png",
+    "square_img":"gt_practical-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gt_education",
+    "exec":"temp_exec",
+    "tryexec":"",
+    "title":"GT Education",
+    "subtitle":"Colecci\u00f3n Educativa Guatemala",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gt_education-icon.png",
+    "square_img":"gt_education-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gt_textbooks",
+    "exec":"temp_exec",
+    "tryexec":"",
+    "title":"GT Textbooks",
+    "subtitle":"Libros de Texto",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gt_textbooks-icon.png",
+    "square_img":"gt_textbooks-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gt_literature",
+    "exec":"temp_exec",
+    "tryexec":"",
+    "title":"GT Literature",
+    "subtitle":"Grandes Libros del Mundo",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gt_literature-icon.png",
+    "square_img":"gt_literature-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
+  },
+  {
+    "displayShape":"b1",
+    "application-id":"gt_curriculum",
+    "exec":"temp_exec",
+    "tryexec":"",
+    "title":"GT Curriculum",
+    "subtitle":"Guatemala Curr\u00edculo Nacional Base",
+    "description":"temp description",
+    "personalities":[
+      "All"
+    ],
+    "splash-screen-type":"Default",
+    "custom-splash-screen":"",
+    "icon":"gt_curriculum-icon.png",
+    "square_img":"gt_curriculum-thumb.jpg",
+    "featured_img":"",
+    "core":false,
+    "screenshots":[
+      
+    ],
+    "is_featured":false,
+    "is_offline":false,
+    "category":"Education"
   }
 ]
