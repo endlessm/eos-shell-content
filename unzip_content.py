@@ -106,10 +106,7 @@ if __name__ == '__main__':
                 line = line.replace(from_string, to_string)
         if (line.find('-screenshot') >= 0):
             line = line.replace('.png', '.jpg')
-        # Remove the original desktop ID
-        # TODO: remove this once the dekstop-id field is removed from CMS
-        if (line.find('desktop-id') < 0):
-            outfile.write(line)
+        outfile.write(line)
     infile.close()
     outfile.close()
 
