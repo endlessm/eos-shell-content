@@ -2,6 +2,7 @@
 Version=1.0
 Name=Tux Football
 Comment=Great 2D soccer (sometimes called football) game
+Comment[es]=Juego muy bueno de fútbol en dos dimensiones
 Type=Application
 Exec=tuxfootball -fs
 Icon=eos-app-tuxfootball

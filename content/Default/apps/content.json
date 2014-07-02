@@ -2251,7 +2251,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"terminal",
+    "application-id":"gnome-terminal",
     "exec":"gnome-terminal",
     "tryexec":"",
     "title":"Terminal",
@@ -2262,13 +2262,13 @@
     ],
     "splash-screen-type":"None",
     "custom-splash-screen":"",
-    "icon":"terminal-icon.png",
-    "square_img":"terminal-thumb.jpg",
+    "icon":"gnome-terminal-icon.png",
+    "square_img":"gnome-terminal-thumb.jpg",
     "featured_img":"",
     "core":true,
     "screenshots":{
       "C":[
-        "terminal-screenshot1.jpg"
+        "gnome-terminal-screenshot1.jpg"
       ]
     },
     "is_featured":false,
@@ -4089,8 +4089,8 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"com.endlessm.budget",
-    "exec":"eos-budget",
+    "application-id":"com.endlessm.finance",
+    "exec":"eos-finance",
     "tryexec":"",
     "title":"My Budget",
     "subtitle":"The essential budgeting and financial literacy app for every household",
@@ -4101,7 +4101,7 @@
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
     "icon":"",
-    "square_img":"com.endlessm.budget-thumb.jpg",
+    "square_img":"com.endlessm.finance-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{

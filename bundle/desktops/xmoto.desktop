@@ -2,6 +2,7 @@
 Version=1.0
 Name=X-Moto
 Comment=2D motocross platform game
+Comment[es]=Juego de motocross en dos dimensiones
 Type=Application
 Exec=xmoto -fs
 Icon=eos-app-xmoto

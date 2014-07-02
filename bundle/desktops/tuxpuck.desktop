@@ -2,6 +2,7 @@
 Version=1.0
 Name=Tux Puck
 Comment=Air hockey game for single players
+Comment[es]=Hockey de mesa para un jugador contra la computadora
 Type=Application
 Exec=tuxpuck
 Icon=eos-app-tuxpuck
