@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-06-05 08:56-0700\n"
+"POT-Creation-Date: 2014-07-02 01:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:16
 msgctxt "title"
-msgid "Wikipedia"
+msgid "Encyclopedia"
 msgstr ""
 
 #: content/Default/apps/content.json.h:17
@@ -119,7 +119,7 @@ msgstr ""
 msgctxt "description"
 msgid ""
 "Whether you’re working online or offline, you want access to the world’s "
-"treasure trove of information – Wikipedia. With the Wikipedia app, you’ll "
+"treasure trove of information – Wikipedia. With the Encyclopedia app, you’ll "
 "have just that. Use the easy search tool to look up any topic you want, and "
 "you’ll be able to read the encyclopedia entry on that topic. You’ll learn "
 "more than you ever thought possible with access to the Internet's greatest "
@@ -373,7 +373,7 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
-msgid "Math"
+msgid "Math Plotting"
 msgstr ""
 
 #: content/Default/apps/content.json.h:56
@@ -499,7 +499,7 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:73
 msgctxt "title"
-msgid "Physics"
+msgid "Numpty Physics"
 msgstr ""
 
 #: content/Default/apps/content.json.h:74
@@ -833,7 +833,7 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:121
 msgctxt "title"
-msgid "YouTube"
+msgid "YouVideos"
 msgstr ""
 
 #: content/Default/apps/content.json.h:122
@@ -1224,9 +1224,8 @@ msgid "File manager"
 msgstr ""
 
 #: content/Default/apps/content.json.h:177
-#: content/Default/apps/content.json.h:180
 msgctxt "description"
-msgid "No description necessary -- this is not available via the app store"
+msgid "Need a description for the app store now!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:178
@@ -1237,6 +1236,11 @@ msgstr ""
 #: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Browse the Web"
+msgstr ""
+
+#: content/Default/apps/content.json.h:180
+msgctxt "description"
+msgid "Need an app store description now!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:181
@@ -1448,42 +1452,15 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:211
 msgctxt "title"
-msgid "Spotify"
+msgid "Terminal"
 msgstr ""
 
 #: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
-msgid "Listen to music using Spotify"
-msgstr ""
-
-#: content/Default/apps/content.json.h:213
-msgctxt "description"
-msgid ""
-"Spotify lets you access all of your favorite music, helps you discover new "
-"songs you'll love, and lets you share music with your friends - all in one "
-"place. You can listen to all of your local files and create playlists just "
-"like you would in any other music player, but now you can also share your "
-"playlists with friends and see what they are listening to! Follow friends, "
-"your favorite artists, and other Spotify members whose music taste you "
-"share. Spotify has all of the great discovering capability that other apps "
-"like Pandora have, but the difference is that you can save your favorite "
-"songs to a playlist and listen to them whenever you want. You can also make "
-"collaborative playlists, so that you and all of your friends can add songs "
-"that you all love. Have access millions of songs, and all the latest hits - "
-"for free. "
-msgstr ""
-
-#: content/Default/apps/content.json.h:214
-msgctxt "title"
-msgid "Terminal"
-msgstr ""
-
-#: content/Default/apps/content.json.h:215
-msgctxt "subtitle"
 msgid "Use the command line"
 msgstr ""
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch "
@@ -1493,17 +1470,17 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made. "
 msgstr ""
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "Cheese"
 msgstr ""
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Take pictures of yourself and your friends with this fun photobooth app"
 msgstr ""
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "Say cheese! Use a webcam and this awesome photobooth app to take pictures, "
@@ -1512,661 +1489,178 @@ msgid ""
 "hours of fun playing around and creating funny, cool and beautiful pictures!"
 msgstr ""
 
+#: content/Default/apps/content.json.h:217
+msgctxt "title"
+msgid "Math"
+msgstr ""
+
+#: content/Default/apps/content.json.h:218
+msgctxt "subtitle"
+msgid "temp subtitle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:219
+msgctxt "description"
+msgid "temp_description"
+msgstr ""
+
 #: content/Default/apps/content.json.h:220
 msgctxt "title"
-msgid "Screenshot"
+msgid "Farming App"
 msgstr ""
 
 #: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
-msgid "Take a picture of your screen to save"
+msgid ""
+"The world is an amazing place, and with this app, you’ll learn all about it. "
+"Featuring information o"
 msgstr ""
 
 #: content/Default/apps/content.json.h:222
 msgctxt "description"
 msgid ""
-"Do you ever wish you could take a picture of your screen to save? Well now "
-"you can, with this easy-to-use screenshot app. You can choose to take a shot "
-"of your entire screen, or of just one of your windows. That way, you can "
-"make sure to save just what you need and nothing more. "
+"Farming is both an ancient tradition and a modern, bustling industry. Our "
+"world’s food supply comes from hardworking farmers around the globe. "
+"Learning about this sector of the economy can be fascinating and useful, "
+"especially if you’re interested in providing food for yourself and your "
+"community. This app includes information on farming techniques and "
+"equipment, different types of agriculture, and the careers that exist in "
+"this industry. You’ll soon be an expert in crops, livestock, and more."
 msgstr ""
 
 #: content/Default/apps/content.json.h:223
 msgctxt "title"
-msgid "KGeography"
+msgid "Geography"
 msgstr ""
 
 #: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
-msgid "Geography learning aid for KDE"
+msgid ""
+"Opening up the whole wide world for your exploration and understanding  "
 msgstr ""
 
 #: content/Default/apps/content.json.h:225
 msgctxt "description"
 msgid ""
-"KGeography is an aid for learning about world geography. You can use it to "
-"explore a map, show information about regions and features, and play quiz "
-"games to test your geography knowledge."
+"The world is an amazing place, and with this app, you’ll learn all about it. "
+"Featuring information on every country in the world, this comprehensive "
+"resource covers major cities, regions, natural features, and more. Closer to "
+"home, you’ll find detailed information about Guatemala, from its towns and "
+"cities to its rivers and mountains. Explore the wonders around you with the "
+"Geography app."
 msgstr ""
 
 #: content/Default/apps/content.json.h:226
 msgctxt "title"
-msgid "Kalzium"
+msgid "MegaGlest"
 msgstr ""
 
 #: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
-msgid "Periodic table and chemistry tools"
+msgid "3D multi-player real time strategy game"
 msgstr ""
 
 #: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
-"Kalzium is a full-featured chemistry application, including a Periodic Table "
-"of Elements, chemical reference, chemical equation solver, and 3D molecule "
-"viewer."
+"MegaGlest is a free 3D real-time customizable strategy game which takes "
+"place in a context which could be compared to that of the pre-renaissance "
+"Europe, with the licence that magic forces exist in the environment and can "
+"be controlled. The current version is fully playable and supports both "
+"single player games against CPU controlled players and multiplayer matches "
+"over the Internet or a LAN."
 msgstr ""
 
 #: content/Default/apps/content.json.h:229
 msgctxt "title"
-msgid "KBruch"
+msgid "Battle Tanks"
 msgstr ""
 
 #: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
-msgid "Fraction learning aid for KDE"
+msgid "Fast 2D tank arcade game with multiplayer and split-screen modes"
 msgstr ""
 
 #: content/Default/apps/content.json.h:231
 msgctxt "description"
-msgid "KBruch is an aid for learning how to calculate with fractions."
+msgid ""
+"Battle Tanks is a funny battle on your desk, where you can choose one of "
+"three vehicles and eliminate your enemy using the whole arsenal of weapons.  "
+"It has original cartoon-like graphics and cool music, it is fun and dynamic, "
+"and it has several network modes for death match and cooperative."
 msgstr ""
 
 #: content/Default/apps/content.json.h:232
 msgctxt "title"
-msgid "KWordQuiz"
+msgid "Atomic Tanks"
 msgstr ""
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
-msgid "Flashcard learning program"
+msgid "Tank-battling game"
 msgstr ""
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
-"KWordQuiz is a general purpose flashcard program, typically used for "
-"vocabulary training. KWordQuiz can open vocabulary data in various formats, "
-"including the kvtml format used by KDE programs such as Parley, the WQL "
-"format used by WordQuiz for Windows, the xml.gz format used by Pauker, and "
-"CSV text."
+"Atomic tanks is a multi-player game in which you attempt to destroy other "
+"tanks while trying to protect your own. You earn money for destroying other "
+"tanks; with this money you can buy upgrades and better weapons for your "
+"tank. This game is similar Scorched Earth or the Worms series of games."
 msgstr ""
 
 #: content/Default/apps/content.json.h:235
 msgctxt "title"
-msgid "KAtomic"
+msgid "Wesnoth"
 msgstr ""
 
 #: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
-msgid "Atomix puzzle game"
+msgid "Fantasy turn-based strategy game"
 msgstr ""
 
 #: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
-"KAtomic is a puzzle game in which the player slides atoms around the board "
-"to assemble a molecule."
+"Battle for control of villages, using variety of units which have advantages "
+"and disadvantages in different types of terrains and against different types "
+"of attacks. Units gain experience and advance levels, and are carried over "
+"from one scenario to the next in a campaign."
 msgstr ""
 
 #: content/Default/apps/content.json.h:238
 msgctxt "title"
-msgid "KNetwalk"
+msgid "Warzone 2100"
 msgstr ""
 
 #: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
-msgid "Wire puzzle game"
+msgid "3D real time strategy game"
 msgstr ""
 
 #: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
-"KNetwalk is a puzzle game where the player arranges sections of wire to "
-"connect all the computers on the board."
+"In Warzone 2100 you command the forces of “The Project” in a battle to "
+"rebuild the world after mankind has almost been destroyed by nuclear "
+"missiles. The game offers campaign, tutorial, multi-player and single-player "
+"skirmish modes. An extensive tech tree with over 400 different technologies, "
+"combined with the unit design system, allows for a wide variety of possible "
+"units and tactics. Warzone 2100 was created by Pumpkin Studios, published by "
+"Eidos Interactive and is currently developed by the Warzone 2100 Project."
 msgstr ""
 
 #: content/Default/apps/content.json.h:241
 msgctxt "title"
-msgid "Killbots"
+msgid "Tux Football"
 msgstr ""
 
 #: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
-msgid "Port of the classic BSD console game robots"
-msgstr ""
-
-#: content/Default/apps/content.json.h:243
-msgctxt "description"
-msgid ""
-"Killbots is a simple game of evading killer robots. The robots are numerous "
-"and their sole objective is to destroy you. Fortunately for you, their "
-"creator has focused on quantity rather than quality and as a result the "
-"robots are severely lacking in intelligence. Your superior wit and a fancy "
-"teleportation device are your only weapons against the never-ending stream "
-"of mindless automatons."
-msgstr ""
-
-#: content/Default/apps/content.json.h:244
-msgctxt "title"
-msgid "KSquares"
-msgstr ""
-
-#: content/Default/apps/content.json.h:245
-msgctxt "subtitle"
-msgid "Dots and boxes game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:246
-msgctxt "description"
-msgid ""
-"KSquares is a game where two players take turns connecting dots on a grid to "
-"complete the most squares."
-msgstr ""
-
-#: content/Default/apps/content.json.h:247
-msgctxt "title"
-msgid "Kapman"
-msgstr ""
-
-#: content/Default/apps/content.json.h:248
-msgctxt "subtitle"
-msgid "Pac-Man clone"
-msgstr ""
-
-#: content/Default/apps/content.json.h:249
-msgctxt "description"
-msgid ""
-"Kapman is a clone of the well known game Pac-Man. You must go through the "
-"levels escaping ghosts in a maze. You lose a life when a ghost eats you, but "
-"you can eat the ghosts for a few seconds when eating an energizer. You win "
-"points when eating pills, energizers, and bonus, and you win one life for "
-"each 10,000 points. When you have eaten all the pills and energizers of a "
-"level, you go to the next level, and the player and ghost speeds increase."
-msgstr ""
-
-#: content/Default/apps/content.json.h:250
-msgctxt "title"
-msgid "Potato Guy"
-msgstr ""
-
-#: content/Default/apps/content.json.h:251
-msgctxt "subtitle"
-msgid "Stamp drawing toy"
-msgstr ""
-
-#: content/Default/apps/content.json.h:252
-msgctxt "description"
-msgid ""
-"Potato Guy is a drawing toy for small children with several activities. Give "
-"the potato a funny face, clothes, and other goodies. Build a small town, "
-"complete with school, zoo, and fire department. Create a fantastic moonscape "
-"with spaceships and aliens. Potato Guy can speak the name of each the object "
-"in several languages, to assist in learning basic vocabulary."
-msgstr ""
-
-#: content/Default/apps/content.json.h:253
-msgctxt "title"
-msgid "Kolor Lines"
-msgstr ""
-
-#: content/Default/apps/content.json.h:254
-msgctxt "subtitle"
-msgid "Color lines game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:255
-msgctxt "description"
-msgid ""
-"Kolor Lines is a single-player game where the player removes colored balls "
-"from the board by arranging them into lines of five or more. However, every "
-"time the player moves a ball, three more balls are added to the board."
-msgstr ""
-
-#: content/Default/apps/content.json.h:256
-msgctxt "title"
-msgid "KJumpingCube"
-msgstr ""
-
-#: content/Default/apps/content.json.h:257
-msgctxt "subtitle"
-msgid "Simple tactical game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:258
-msgctxt "description"
-msgid ""
-"KJumpingCube is a simple tactical game for one or two players, played on a "
-"grid of numbered squares. Each turn, players compete for control of the "
-"board by capturing or adding to one square."
-msgstr ""
-
-#: content/Default/apps/content.json.h:259
-msgctxt "title"
-msgid "KGoldrunner"
-msgstr ""
-
-#: content/Default/apps/content.json.h:260
-msgctxt "subtitle"
-msgid "Lode Runner arcade game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:261
-msgctxt "description"
-msgid ""
-"KGoldrunner is a fast-paced platform game where the player must navigate a "
-"maze while collecting gold nuggets and avoiding enemies. A variety of level "
-"packs are included, as well as an editor to create new levels."
-msgstr ""
-
-#: content/Default/apps/content.json.h:262
-msgctxt "title"
-msgid "KDiamond"
-msgstr ""
-
-#: content/Default/apps/content.json.h:263
-msgctxt "subtitle"
-msgid "Three-in-a-row game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:264
-msgctxt "description"
-msgid ""
-"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun "
-"with randomly generated games and five difficulty levels with varying number "
-"of diamond colors and board sizes."
-msgstr ""
-
-#: content/Default/apps/content.json.h:265
-msgctxt "title"
-msgid "KBlackBox"
-msgstr ""
-
-#: content/Default/apps/content.json.h:266
-msgctxt "subtitle"
-msgid "Black Box puzzle game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:267
-msgctxt "description"
-msgid ""
-"KBlackBox is a game of hide and seek played on an grid of boxes, where the "
-"player shoots rays into the grid to deduce the positions of hidden objects."
-msgstr ""
-
-#: content/Default/apps/content.json.h:268
-msgctxt "title"
-msgid "Kubrick"
-msgstr ""
-
-#: content/Default/apps/content.json.h:269
-msgctxt "subtitle"
-msgid "Game based on Rubik's Cube"
-msgstr ""
-
-#: content/Default/apps/content.json.h:273
-msgctxt "title"
-msgid "Palapeli"
-msgstr ""
-
-#: content/Default/apps/content.json.h:274
-msgctxt "subtitle"
-msgid "Jigsaw puzzle game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:278
-msgctxt "title"
-msgid "Kigo"
-msgstr ""
-
-#: content/Default/apps/content.json.h:279
-msgctxt "subtitle"
-msgid "Go game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:280
-msgctxt "description"
-msgid ""
-"Kigo is an open-source implementation of the popular Go game. Go is a "
-"strategic board game for two players. It is also known as igo (Japanese), "
-"weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in "
-"strategic complexity despite its simple rules. The game is played by two "
-"players who alternately place black and white stones (playing pieces, now "
-"usually made of glass or plastic) on the vacant intersections of a grid of "
-"19x19 lines (9x9 or 13x13 for easier games)."
-msgstr ""
-
-#: content/Default/apps/content.json.h:281
-msgctxt "title"
-msgid "KBounce"
-msgstr ""
-
-#: content/Default/apps/content.json.h:282
-msgctxt "subtitle"
-msgid "Jezzball arcade game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:283
-msgctxt "description"
-msgid ""
-"KBounce is a game where the player builds walls to confine a number of "
-"bouncing balls."
-msgstr ""
-
-#: content/Default/apps/content.json.h:284
-msgctxt "title"
-msgid "KSnake"
-msgstr ""
-
-#: content/Default/apps/content.json.h:285
-msgctxt "subtitle"
-msgid "Classical snake action game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:286
-msgctxt "description"
-msgid ""
-"In KSnake you steer a snake which has to eat food. While eating, the snake "
-"grows. But once a player collides with the other snake or the wall, the game "
-"is lost. This becomes, of course, more and more difficult the longer the "
-"snakes grow."
-msgstr ""
-
-#: content/Default/apps/content.json.h:287
-msgctxt "title"
-msgid "KSnakeDuel"
-msgstr ""
-
-#: content/Default/apps/content.json.h:288
-msgctxt "subtitle"
-msgid "Tron-like snakerace game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:289
-msgctxt "description"
-msgid ""
-"The object of the game is to avoid running into walls, your own tail, and "
-"that of your opponent, while at the same time you have to try to get your "
-"opponent to run into them."
-msgstr ""
-
-#: content/Default/apps/content.json.h:290
-msgctxt "title"
-msgid "KSame"
-msgstr ""
-
-#: content/Default/apps/content.json.h:291
-msgctxt "subtitle"
-msgid "SameGame puzzle game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:292
-msgctxt "description"
-msgid ""
-"Klickety is a puzzle game where the player removes groups of colored marbles "
-"to clear the board."
-msgstr ""
-
-#: content/Default/apps/content.json.h:293
-msgctxt "title"
-msgid "Klickety"
-msgstr ""
-
-#: content/Default/apps/content.json.h:294
-msgctxt "subtitle"
-msgid "Adaptation of Clickomania"
-msgstr ""
-
-#: content/Default/apps/content.json.h:295
-msgctxt "description"
-msgid ""
-"Klickety is an adaptation of the Clickomania game. The rules are similar to "
-"those of the KSame game: your goal is to clear the board by clicking on "
-"groups to destroy them. The overall aim is to get the lowest score possible. "
-"It will provide entertainment for all abilities, but a challenge in logical "
-"thought if you want to get a really low score."
-msgstr ""
-
-#: content/Default/apps/content.json.h:296
-msgctxt "title"
-msgid "KStars"
-msgstr ""
-
-#: content/Default/apps/content.json.h:297
-msgctxt "subtitle"
-msgid "Desktop planetarium for KDE"
-msgstr ""
-
-#: content/Default/apps/content.json.h:298
-msgctxt "description"
-msgid ""
-"KStars is a desktop planetarium for KDE, depicting an accurate graphical "
-"simulation of the night sky, from any location on Earth, at any date and "
-"time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 "
-"planets, the Sun and Moon, and thousands of comets and asteroids. It "
-"includes tools for astronomical calculations and can control telescopes and "
-"cameras."
-msgstr ""
-
-#: content/Default/apps/content.json.h:299
-msgctxt "title"
-msgid "Bovo"
-msgstr ""
-
-#: content/Default/apps/content.json.h:300
-msgctxt "subtitle"
-msgid "Gomoku (five in line) board game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:301
-msgctxt "description"
-msgid ""
-"Bovo is a game where two players take turns placing markers on the board, "
-"the winner being the first to complete a line of five markers."
-msgstr ""
-
-#: content/Default/apps/content.json.h:302
-msgctxt "title"
-msgid "KMines"
-msgstr ""
-
-#: content/Default/apps/content.json.h:303
-msgctxt "subtitle"
-msgid "Minesweeper game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:304
-msgctxt "description"
-msgid ""
-"KMines is a game where the player finds hidden mines without setting them "
-"off."
-msgstr ""
-
-#: content/Default/apps/content.json.h:305
-msgctxt "title"
-msgid "KSudoku"
-msgstr ""
-
-#: content/Default/apps/content.json.h:306
-msgctxt "subtitle"
-msgid "Sudoku puzzle game and solver"
-msgstr ""
-
-#: content/Default/apps/content.json.h:307
-msgctxt "description"
-msgid ""
-"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
-"variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets "
-"and find the solution to any Sudoku puzzle."
-msgstr ""
-
-#: content/Default/apps/content.json.h:308
-msgctxt "title"
-msgid "GCompris Admin"
-msgstr ""
-
-#: content/Default/apps/content.json.h:309
-msgctxt "subtitle"
-msgid "Teacher admin console for GCompris"
-msgstr ""
-
-#: content/Default/apps/content.json.h:310
-msgctxt "description"
-msgid "Run GCompris (EduGames) in administration and user-management mode."
-msgstr ""
-
-#: content/Default/apps/content.json.h:311
-msgctxt "title"
-msgid "KBlocks"
-msgstr ""
-
-#: content/Default/apps/content.json.h:312
-msgctxt "subtitle"
-msgid "Falling blocks game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:313
-msgctxt "description"
-msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
-msgstr ""
-
-#: content/Default/apps/content.json.h:314
-msgctxt "title"
-msgid "Brasero"
-msgstr ""
-
-#: content/Default/apps/content.json.h:315
-msgctxt "subtitle"
-msgid "CD/DVD burning application"
-msgstr ""
-
-#: content/Default/apps/content.json.h:316
-msgctxt "description"
-msgid ""
-"Brasero is a simple application to burn, copy, and erase CD and DVD media: "
-"audio, video, or data."
-msgstr ""
-
-#: content/Default/apps/content.json.h:317
-msgctxt "title"
-msgid "KHangMan"
-msgstr ""
-
-#: content/Default/apps/content.json.h:318
-msgctxt "subtitle"
-msgid "Hangman word puzzle"
-msgstr ""
-
-#: content/Default/apps/content.json.h:319
-msgctxt "description"
-msgid ""
-"KHangMan is the well-known Hangman game, aimed towards children aged 6 and "
-"above. It picks a random word which the player must reveal by guessing if it "
-"contains certain letters. As the player guesses letters, the word is "
-"gradually revealed, but 10 wrong guesses will end the game."
-msgstr ""
-
-#: content/Default/apps/content.json.h:320
-msgctxt "title"
-msgid "M.A.R.S."
-msgstr ""
-
-#: content/Default/apps/content.json.h:321
-msgctxt "subtitle"
-msgid "Ridiculous space shooter governed by the laws of gravity"
-msgstr ""
-
-#: content/Default/apps/content.json.h:322
-msgctxt "description"
-msgid ""
-"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, "
-"a stunning amount of particles and shader support. It offers single- and "
-"multiplayer gameplay, many impressive weapons and specials and customizable "
-"ships. In the year 3547 civilizations across the galaxy have settled their "
-"own planets, living in peace and harmony with its environment. But outside "
-"the placid habitats, the GREAT WAR is raging. As a famous fighter on your "
-"way to never ending honor and prosperity, you have to protect your planet "
-"from the imminent doom of your jealous neighbors!"
-msgstr ""
-
-#: content/Default/apps/content.json.h:323
-msgctxt "title"
-msgid "Tux Racer"
-msgstr ""
-
-#: content/Default/apps/content.json.h:324
-msgctxt "subtitle"
-msgid "3D racing game featuring Tux, the Linux penguin"
-msgstr ""
-
-#: content/Default/apps/content.json.h:325
-msgctxt "description"
-msgid ""
-"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL "
-"racing game featuring Tux, the Linux mascot. The goal of the game is to "
-"slide down a snow- and ice-covered mountain as quickly as possible, avoiding "
-"the trees and rocks that will slow you down. Collect herrings and other "
-"goodies while sliding down the hill, but avoid fish bones. This game is "
-"based on the GPL version of the famous game TuxRacer."
-msgstr ""
-
-#: content/Default/apps/content.json.h:326
-msgctxt "title"
-msgid "X-Moto"
-msgstr ""
-
-#: content/Default/apps/content.json.h:327
-msgctxt "subtitle"
-msgid "2D motocross platform game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:328
-msgctxt "description"
-msgid ""
-"X-Moto is a challenging 2D motocross platform game, where physics play an "
-"all important role in the gameplay. You need to control your bike to its "
-"limit, if you want to have a chance finishing the more difficult of the "
-"challenges."
-msgstr ""
-
-#: content/Default/apps/content.json.h:329
-msgctxt "title"
-msgid "Ri-Li"
-msgstr ""
-
-#: content/Default/apps/content.json.h:330
-msgctxt "subtitle"
-msgid "Toy train simulation game"
-msgstr ""
-
-#: content/Default/apps/content.json.h:331
-msgctxt "description"
-msgid ""
-"Ri-li is a game in which you drive a wooden toy steam locomotive across many "
-"levels and collect all the coaches to win."
-msgstr ""
-
-#: content/Default/apps/content.json.h:332
-msgctxt "title"
-msgid "Tux Football"
-msgstr ""
-
-#: content/Default/apps/content.json.h:333
-msgctxt "subtitle"
 msgid "Great 2D soccer (sometimes called football) game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:334
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "It's bringing old style gameplay from DOS times back to the desktop with up "
@@ -2181,55 +1675,36 @@ msgid ""
 "dip towards the ground."
 msgstr ""
 
-#: content/Default/apps/content.json.h:335
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
-msgid "Tux Puck"
+msgid "X-Moto"
 msgstr ""
 
-#: content/Default/apps/content.json.h:336
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
-msgid "Air hockey game for single players"
+msgid "2D motocross platform game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:337
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
-"TuxPuck is an air hockey game and clone of the Amiga/Atari ST game "
-"Shufflepuck Café. The player moves a bat around a table and tries to knock "
-"the puck past the opponent's defense. After either party has reached 15 "
-"points, the match is over."
+"X-Moto is a challenging 2D motocross platform game, where physics play an "
+"all important role in the gameplay. You need to control your bike to its "
+"limit, if you want to have a chance finishing the more difficult of the "
+"challenges."
 msgstr ""
 
-#: content/Default/apps/content.json.h:338
-msgctxt "title"
-msgid "TORCS"
-msgstr ""
-
-#: content/Default/apps/content.json.h:339
-msgctxt "subtitle"
-msgid "3D racing cars simulator game using OpenGL"
-msgstr ""
-
-#: content/Default/apps/content.json.h:340
-msgctxt "description"
-msgid ""
-"TORCS, The Open Racing Car Simulator is a car racing simulation game which "
-"allows you to drive in races against opponents simulated by the computer. "
-"You can also develop your own computer-controlled driver (also called a "
-"robot) in C or C++. TORCS is GPL (version 2 or later)."
-msgstr ""
-
-#: content/Default/apps/content.json.h:341
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "Marble"
 msgstr ""
 
-#: content/Default/apps/content.json.h:342
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Globe and map widget"
 msgstr ""
 
-#: content/Default/apps/content.json.h:343
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Marble is a generic geographical map widget and framework for KDE "
@@ -2238,95 +1713,96 @@ msgid ""
 "included, so it can be used without an internet connection."
 msgstr ""
 
-#: content/Default/apps/content.json.h:344
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
-msgid "Atomic Tanks"
+msgid "Warmux"
 msgstr ""
 
-#: content/Default/apps/content.json.h:345
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
-msgid "Tank-battling game"
+msgid "Turn-based artillery game on 2D maps"
 msgstr ""
 
-#: content/Default/apps/content.json.h:346
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
-"Atomic tanks is a multi-player game in which you attempt to destroy other "
-"tanks while trying to protect your own. You earn money for destroying other "
-"tanks; with this money you can buy upgrades and better weapons for your "
-"tank. This game is similar Scorched Earth or the Worms series of games."
+"WarMUX is a free game in the genre of turn-based artillery games like "
+"Scorched Earth or Worms. Several players can play together, either locally "
+"or over the network. It is also possible to compete against computer-driven "
+"teams. The teams are styled after the mascots of various free software "
+"projects."
 msgstr ""
 
-#: content/Default/apps/content.json.h:347
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
-msgid "Warzone 2100"
+msgid "Tux Racer"
 msgstr ""
 
-#: content/Default/apps/content.json.h:348
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
-msgid "3D real time strategy game"
+msgid "3D racing game featuring Tux, the Linux penguin"
 msgstr ""
 
-#: content/Default/apps/content.json.h:349
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
-"In Warzone 2100 you command the forces of “The Project” in a battle to "
-"rebuild the world after mankind has almost been destroyed by nuclear "
-"missiles. The game offers campaign, tutorial, multi-player and single-player "
-"skirmish modes. An extensive tech tree with over 400 different technologies, "
-"combined with the unit design system, allows for a wide variety of possible "
-"units and tactics. Warzone 2100 was created by Pumpkin Studios, published by "
-"Eidos Interactive and is currently developed by the Warzone 2100 Project."
+"Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL "
+"racing game featuring Tux, the Linux mascot. The goal of the game is to "
+"slide down a snow- and ice-covered mountain as quickly as possible, avoiding "
+"the trees and rocks that will slow you down. Collect herrings and other "
+"goodies while sliding down the hill, but avoid fish bones. This game is "
+"based on the GPL version of the famous game TuxRacer."
 msgstr ""
 
-#: content/Default/apps/content.json.h:350
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
-msgid "Minetest"
+msgid "Tux Puck"
 msgstr ""
 
-#: content/Default/apps/content.json.h:351
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
-msgid "Multiplayer infinite-world block sandbox"
+msgid "Air hockey game for single players"
 msgstr ""
 
-#: content/Default/apps/content.json.h:352
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
-"Minetest is a minecraft-inspired game written from scratch and licensed "
-"under the LGPL (version 2.1 or later). It supports both survival and "
-"creative modes along with multiplayer support, dynamic lighting, and an "
+"TuxPuck is an air hockey game and clone of the Amiga/Atari ST game "
+"Shufflepuck Café. The player moves a bat around a table and tries to knock "
+"the puck past the opponent's defense. After either party has reached 15 "
+"points, the match is over."
 msgstr ""
 
-#: content/Default/apps/content.json.h:353
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
-msgid "Wesnoth"
+msgid "TORCS"
 msgstr ""
 
-#: content/Default/apps/content.json.h:354
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
-msgid "Fantasy turn-based strategy game"
+msgid "3D racing cars simulator game using OpenGL"
 msgstr ""
 
-#: content/Default/apps/content.json.h:355
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
-"Battle for control of villages, using variety of units which have advantages "
-"and disadvantages in different types of terrains and against different types "
-"of attacks. Units gain experience and advance levels, and are carried over "
-"from one scenario to the next in a campaign."
+"TORCS, The Open Racing Car Simulator is a car racing simulation game which "
+"allows you to drive in races against opponents simulated by the computer. "
+"You can also develop your own computer-controlled driver (also called a "
+"robot) in C or C++. TORCS is GPL (version 2 or later)."
 msgstr ""
 
-#: content/Default/apps/content.json.h:356
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "Slingshot"
 msgstr ""
 
-#: content/Default/apps/content.json.h:357
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Simple 2D shooting strategy game set in space, with gravity"
 msgstr ""
 
-#: content/Default/apps/content.json.h:358
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "Slingshot is a two dimensional, turn based simulation-strategy game set in "
@@ -2338,67 +1814,927 @@ msgid ""
 "play, and to enjoy playing, it could take a lifetime to thoroughly master."
 msgstr ""
 
-#: content/Default/apps/content.json.h:359
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
-msgid "Warmux"
+msgid "Ri-Li"
 msgstr ""
 
-#: content/Default/apps/content.json.h:360
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
-msgid "Turn-based artillery game on 2D maps"
+msgid "Toy train simulation game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:361
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
-"WarMUX is a free game in the genre of turn-based artillery games like "
-"Scorched Earth or Worms. Several players can play together, either locally "
-"or over the network. It is also possible to compete against computer-driven "
-"teams. The teams are styled after the mascots of various free software "
-"projects."
+"Ri-li is a game in which you drive a wooden toy steam locomotive across many "
+"levels and collect all the coaches to win."
 msgstr ""
 
-#: content/Default/apps/content.json.h:362
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
-msgid "Battle Tanks"
+msgid "Minetest"
 msgstr ""
 
-#: content/Default/apps/content.json.h:363
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
-msgid "Fast 2D tank arcade game with multiplayer and split-screen modes"
+msgid "Multiplayer infinite-world block sandbox"
 msgstr ""
 
-#: content/Default/apps/content.json.h:364
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
-"Battle Tanks is a funny battle on your desk, where you can choose one of "
-"three vehicles and eliminate your enemy using the whole arsenal of weapons.  "
-"It has original cartoon-like graphics and cool music, it is fun and dynamic, "
-"and it has several network modes for death match and cooperative."
+"Minetest is a minecraft-inspired game written from scratch and licensed "
+"under the LGPL (version 2.1 or later). It supports both survival and "
+"creative modes along with multiplayer support, dynamic lighting, and an "
 msgstr ""
 
-#: content/Default/apps/content.json.h:365
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
-msgid "MegaGlest"
+msgid "M.A.R.S."
 msgstr ""
 
-#: content/Default/apps/content.json.h:366
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
-msgid "3D multi-player real time strategy game"
+msgid "Ridiculous space shooter governed by the laws of gravity"
 msgstr ""
 
-#: content/Default/apps/content.json.h:367
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
-"MegaGlest is a free 3D real-time customizable strategy game which takes "
-"place in a context which could be compared to that of the pre-renaissance "
-"Europe, with the licence that magic forces exist in the environment and can "
-"be controlled. The current version is fully playable and supports both "
-"single player games against CPU controlled players and multiplayer matches "
-"over the Internet or a LAN."
+"M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, "
+"a stunning amount of particles and shader support. It offers single- and "
+"multiplayer gameplay, many impressive weapons and specials and customizable "
+"ships. In the year 3547 civilizations across the galaxy have settled their "
+"own planets, living in peace and harmony with its environment. But outside "
+"the placid habitats, the GREAT WAR is raging. As a famous fighter on your "
+"way to never ending honor and prosperity, you have to protect your planet "
+"from the imminent doom of your jealous neighbors!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:274
+msgctxt "title"
+msgid "Potato Guy"
 msgstr ""
 
 #: content/Default/apps/content.json.h:275
+msgctxt "subtitle"
+msgid "Stamp drawing toy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:276
+msgctxt "description"
+msgid ""
+"Potato Guy is a drawing toy for small children with several activities. Give "
+"the potato a funny face, clothes, and other goodies. Build a small town, "
+"complete with school, zoo, and fire department. Create a fantastic moonscape "
+"with spaceships and aliens. Potato Guy can speak the name of each the object "
+"in several languages, to assist in learning basic vocabulary."
+msgstr ""
+
+#: content/Default/apps/content.json.h:277
+msgctxt "title"
+msgid "KWordQuiz"
+msgstr ""
+
+#: content/Default/apps/content.json.h:278
+msgctxt "subtitle"
+msgid "Flashcard learning program"
+msgstr ""
+
+#: content/Default/apps/content.json.h:279
+msgctxt "description"
+msgid ""
+"KWordQuiz is a general purpose flashcard program, typically used for "
+"vocabulary training. KWordQuiz can open vocabulary data in various formats, "
+"including the kvtml format used by KDE programs such as Parley, the WQL "
+"format used by WordQuiz for Windows, the xml.gz format used by Pauker, and "
+"CSV text."
+msgstr ""
+
+#: content/Default/apps/content.json.h:280
+msgctxt "title"
+msgid "KHangMan"
+msgstr ""
+
+#: content/Default/apps/content.json.h:281
+msgctxt "subtitle"
+msgid "Hangman word puzzle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:282
+msgctxt "description"
+msgid ""
+"KHangMan is the well-known Hangman game, aimed towards children aged 6 and "
+"above. It picks a random word which the player must reveal by guessing if it "
+"contains certain letters. As the player guesses letters, the word is "
+"gradually revealed, but 10 wrong guesses will end the game."
+msgstr ""
+
+#: content/Default/apps/content.json.h:283
+msgctxt "title"
+msgid "Bovo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:284
+msgctxt "subtitle"
+msgid "Gomoku (five in line) board game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:285
+msgctxt "description"
+msgid ""
+"Bovo is a game where two players take turns placing markers on the board, "
+"the winner being the first to complete a line of five markers."
+msgstr ""
+
+#: content/Default/apps/content.json.h:286
+msgctxt "title"
+msgid "GCompris Admin"
+msgstr ""
+
+#: content/Default/apps/content.json.h:287
+msgctxt "subtitle"
+msgid "Teacher admin console for GCompris"
+msgstr ""
+
+#: content/Default/apps/content.json.h:288
+msgctxt "description"
+msgid "Run GCompris (EduGames) in administration and user-management mode."
+msgstr ""
+
+#: content/Default/apps/content.json.h:289
+msgctxt "title"
+msgid "Kalzium"
+msgstr ""
+
+#: content/Default/apps/content.json.h:290
+msgctxt "subtitle"
+msgid "Periodic table and chemistry tools"
+msgstr ""
+
+#: content/Default/apps/content.json.h:291
+msgctxt "description"
+msgid ""
+"Kalzium is a full-featured chemistry application, including a Periodic Table "
+"of Elements, chemical reference, chemical equation solver, and 3D molecule "
+"viewer."
+msgstr ""
+
+#: content/Default/apps/content.json.h:292
+msgctxt "title"
+msgid "Kapman"
+msgstr ""
+
+#: content/Default/apps/content.json.h:293
+msgctxt "subtitle"
+msgid "Pac-Man clone"
+msgstr ""
+
+#: content/Default/apps/content.json.h:294
+msgctxt "description"
+msgid ""
+"Kapman is a clone of the well known game Pac-Man. You must go through the "
+"levels escaping ghosts in a maze. You lose a life when a ghost eats you, but "
+"you can eat the ghosts for a few seconds when eating an energizer. You win "
+"points when eating pills, energizers, and bonus, and you win one life for "
+"each 10,000 points. When you have eaten all the pills and energizers of a "
+"level, you go to the next level, and the player and ghost speeds increase."
+msgstr ""
+
+#: content/Default/apps/content.json.h:295
+msgctxt "title"
+msgid "KAtomic"
+msgstr ""
+
+#: content/Default/apps/content.json.h:296
+msgctxt "subtitle"
+msgid "Atomix puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:297
+msgctxt "description"
+msgid ""
+"KAtomic is a puzzle game in which the player slides atoms around the board "
+"to assemble a molecule."
+msgstr ""
+
+#: content/Default/apps/content.json.h:298
+msgctxt "title"
+msgid "KBlackBox"
+msgstr ""
+
+#: content/Default/apps/content.json.h:299
+msgctxt "subtitle"
+msgid "Black Box puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:300
+msgctxt "description"
+msgid ""
+"KBlackBox is a game of hide and seek played on an grid of boxes, where the "
+"player shoots rays into the grid to deduce the positions of hidden objects."
+msgstr ""
+
+#: content/Default/apps/content.json.h:301
+msgctxt "title"
+msgid "KBlocks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:302
+msgctxt "subtitle"
+msgid "Falling blocks game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:303
+msgctxt "description"
+msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
+msgstr ""
+
+#: content/Default/apps/content.json.h:304
+msgctxt "title"
+msgid "KBounce"
+msgstr ""
+
+#: content/Default/apps/content.json.h:305
+msgctxt "subtitle"
+msgid "Jezzball arcade game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:306
+msgctxt "description"
+msgid ""
+"KBounce is a game where the player builds walls to confine a number of "
+"bouncing balls."
+msgstr ""
+
+#: content/Default/apps/content.json.h:307
+msgctxt "title"
+msgid "KBruch"
+msgstr ""
+
+#: content/Default/apps/content.json.h:308
+msgctxt "subtitle"
+msgid "Fraction learning aid for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:309
+msgctxt "description"
+msgid "KBruch is an aid for learning how to calculate with fractions."
+msgstr ""
+
+#: content/Default/apps/content.json.h:310
+msgctxt "title"
+msgid "KDiamond"
+msgstr ""
+
+#: content/Default/apps/content.json.h:311
+msgctxt "subtitle"
+msgid "Three-in-a-row game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:312
+msgctxt "description"
+msgid ""
+"KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun "
+"with randomly generated games and five difficulty levels with varying number "
+"of diamond colors and board sizes."
+msgstr ""
+
+#: content/Default/apps/content.json.h:313
+msgctxt "title"
+msgid "KGeography"
+msgstr ""
+
+#: content/Default/apps/content.json.h:314
+msgctxt "subtitle"
+msgid "Geography learning aid for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:315
+msgctxt "description"
+msgid ""
+"KGeography is an aid for learning about world geography. You can use it to "
+"explore a map, show information about regions and features, and play quiz "
+"games to test your geography knowledge."
+msgstr ""
+
+#: content/Default/apps/content.json.h:316
+msgctxt "title"
+msgid "KGoldrunner"
+msgstr ""
+
+#: content/Default/apps/content.json.h:317
+msgctxt "subtitle"
+msgid "Lode Runner arcade game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:318
+msgctxt "description"
+msgid ""
+"KGoldrunner is a fast-paced platform game where the player must navigate a "
+"maze while collecting gold nuggets and avoiding enemies. A variety of level "
+"packs are included, as well as an editor to create new levels."
+msgstr ""
+
+#: content/Default/apps/content.json.h:319
+msgctxt "title"
+msgid "Kigo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:320
+msgctxt "subtitle"
+msgid "Go game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:321
+msgctxt "description"
+msgid ""
+"Kigo is an open-source implementation of the popular Go game. Go is a "
+"strategic board game for two players. It is also known as igo (Japanese), "
+"weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in "
+"strategic complexity despite its simple rules. The game is played by two "
+"players who alternately place black and white stones (playing pieces, now "
+"usually made of glass or plastic) on the vacant intersections of a grid of "
+"19x19 lines (9x9 or 13x13 for easier games)."
+msgstr ""
+
+#: content/Default/apps/content.json.h:322
+msgctxt "title"
+msgid "Killbots"
+msgstr ""
+
+#: content/Default/apps/content.json.h:323
+msgctxt "subtitle"
+msgid "Port of the classic BSD console game robots"
+msgstr ""
+
+#: content/Default/apps/content.json.h:324
+msgctxt "description"
+msgid ""
+"Killbots is a simple game of evading killer robots. The robots are numerous "
+"and their sole objective is to destroy you. Fortunately for you, their "
+"creator has focused on quantity rather than quality and as a result the "
+"robots are severely lacking in intelligence. Your superior wit and a fancy "
+"teleportation device are your only weapons against the never-ending stream "
+"of mindless automatons."
+msgstr ""
+
+#: content/Default/apps/content.json.h:325
+msgctxt "title"
+msgid "KJumpingCube"
+msgstr ""
+
+#: content/Default/apps/content.json.h:326
+msgctxt "subtitle"
+msgid "Simple tactical game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:327
+msgctxt "description"
+msgid ""
+"KJumpingCube is a simple tactical game for one or two players, played on a "
+"grid of numbered squares. Each turn, players compete for control of the "
+"board by capturing or adding to one square."
+msgstr ""
+
+#: content/Default/apps/content.json.h:328
+msgctxt "title"
+msgid "Klickety"
+msgstr ""
+
+#: content/Default/apps/content.json.h:329
+msgctxt "subtitle"
+msgid "Adaptation of Clickomania"
+msgstr ""
+
+#: content/Default/apps/content.json.h:330
+msgctxt "description"
+msgid ""
+"Klickety is an adaptation of the Clickomania game. The rules are similar to "
+"those of the KSame game: your goal is to clear the board by clicking on "
+"groups to destroy them. The overall aim is to get the lowest score possible. "
+"It will provide entertainment for all abilities, but a challenge in logical "
+"thought if you want to get a really low score."
+msgstr ""
+
+#: content/Default/apps/content.json.h:331
+msgctxt "title"
+msgid "KMines"
+msgstr ""
+
+#: content/Default/apps/content.json.h:332
+msgctxt "subtitle"
+msgid "Minesweeper game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:333
+msgctxt "description"
+msgid ""
+"KMines is a game where the player finds hidden mines without setting them "
+"off."
+msgstr ""
+
+#: content/Default/apps/content.json.h:334
+msgctxt "title"
+msgid "KNetwalk"
+msgstr ""
+
+#: content/Default/apps/content.json.h:335
+msgctxt "subtitle"
+msgid "Wire puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:336
+msgctxt "description"
+msgid ""
+"KNetwalk is a puzzle game where the player arranges sections of wire to "
+"connect all the computers on the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:337
+msgctxt "title"
+msgid "Kolor Lines"
+msgstr ""
+
+#: content/Default/apps/content.json.h:338
+msgctxt "subtitle"
+msgid "Color lines game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:339
+msgctxt "description"
+msgid ""
+"Kolor Lines is a single-player game where the player removes colored balls "
+"from the board by arranging them into lines of five or more. However, every "
+"time the player moves a ball, three more balls are added to the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:340
+msgctxt "title"
+msgid "KSame"
+msgstr ""
+
+#: content/Default/apps/content.json.h:341
+msgctxt "subtitle"
+msgid "SameGame puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:342
+msgctxt "description"
+msgid ""
+"Klickety is a puzzle game where the player removes groups of colored marbles "
+"to clear the board."
+msgstr ""
+
+#: content/Default/apps/content.json.h:343
+msgctxt "title"
+msgid "KSnake"
+msgstr ""
+
+#: content/Default/apps/content.json.h:344
+msgctxt "subtitle"
+msgid "Classical snake action game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:345
+msgctxt "description"
+msgid ""
+"In KSnake you steer a snake which has to eat food. While eating, the snake "
+"grows. But once a player collides with the other snake or the wall, the game "
+"is lost. This becomes, of course, more and more difficult the longer the "
+"snakes grow."
+msgstr ""
+
+#: content/Default/apps/content.json.h:346
+msgctxt "title"
+msgid "KSnakeDuel"
+msgstr ""
+
+#: content/Default/apps/content.json.h:347
+msgctxt "subtitle"
+msgid "Tron-like snakerace game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:348
+msgctxt "description"
+msgid ""
+"The object of the game is to avoid running into walls, your own tail, and "
+"that of your opponent, while at the same time you have to try to get your "
+"opponent to run into them."
+msgstr ""
+
+#: content/Default/apps/content.json.h:349
+msgctxt "title"
+msgid "KSquares"
+msgstr ""
+
+#: content/Default/apps/content.json.h:350
+msgctxt "subtitle"
+msgid "Dots and boxes game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:351
+msgctxt "description"
+msgid ""
+"KSquares is a game where two players take turns connecting dots on a grid to "
+"complete the most squares."
+msgstr ""
+
+#: content/Default/apps/content.json.h:352
+msgctxt "title"
+msgid "KStars"
+msgstr ""
+
+#: content/Default/apps/content.json.h:353
+msgctxt "subtitle"
+msgid "Desktop planetarium for KDE"
+msgstr ""
+
+#: content/Default/apps/content.json.h:354
+msgctxt "description"
+msgid ""
+"KStars is a desktop planetarium for KDE, depicting an accurate graphical "
+"simulation of the night sky, from any location on Earth, at any date and "
+"time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 "
+"planets, the Sun and Moon, and thousands of comets and asteroids. It "
+"includes tools for astronomical calculations and can control telescopes and "
+"cameras."
+msgstr ""
+
+#: content/Default/apps/content.json.h:355
+msgctxt "title"
+msgid "KSudoku"
+msgstr ""
+
+#: content/Default/apps/content.json.h:356
+msgctxt "subtitle"
+msgid "Sudoku puzzle game and solver"
+msgstr ""
+
+#: content/Default/apps/content.json.h:357
+msgctxt "description"
+msgid ""
+"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
+"variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets "
+"and find the solution to any Sudoku puzzle."
+msgstr ""
+
+#: content/Default/apps/content.json.h:358
+msgctxt "title"
+msgid "Kubrick"
+msgstr ""
+
+#: content/Default/apps/content.json.h:359
+msgctxt "subtitle"
+msgid "Game based on Rubik's Cube"
+msgstr ""
+
+#: content/Default/apps/content.json.h:363
+msgctxt "title"
+msgid "Palapeli"
+msgstr ""
+
+#: content/Default/apps/content.json.h:364
+msgctxt "subtitle"
+msgid "Jigsaw puzzle game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:368
+msgctxt "title"
+msgid "Screenshot"
+msgstr ""
+
+#: content/Default/apps/content.json.h:369
+msgctxt "subtitle"
+msgid "Take a picture of your screen to save"
+msgstr ""
+
+#: content/Default/apps/content.json.h:370
+msgctxt "description"
+msgid ""
+"Do you ever wish you could take a picture of your screen to save? Well now "
+"you can, with this easy-to-use screenshot app. You can choose to take a shot "
+"of your entire screen, or of just one of your windows. That way, you can "
+"make sure to save just what you need and nothing more. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:371
+msgctxt "title"
+msgid "Brasero"
+msgstr ""
+
+#: content/Default/apps/content.json.h:372
+msgctxt "subtitle"
+msgid "CD/DVD burning application"
+msgstr ""
+
+#: content/Default/apps/content.json.h:373
+msgctxt "description"
+msgid ""
+"Brasero is a simple application to burn, copy, and erase CD and DVD media: "
+"audio, video, or data."
+msgstr ""
+
+#: content/Default/apps/content.json.h:374
+msgctxt "title"
+msgid "KNavalbattle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:375
+msgctxt "subtitle"
+msgid "Battleship board game"
+msgstr ""
+
+#: content/Default/apps/content.json.h:376
+msgctxt "description"
+msgid ""
+"KNavalbattle is an implementation of the Battleship game, where two players "
+"take turns firing at the opponent's ships by guessing their coordinates."
+msgstr ""
+
+#: content/Default/apps/content.json.h:377
+msgctxt "title"
+msgid "How To"
+msgstr ""
+
+#: content/Default/apps/content.json.h:378
+msgctxt "subtitle"
+msgid "How to do just about anything by yourself"
+msgstr ""
+
+#: content/Default/apps/content.json.h:379
+msgctxt "description"
+msgid ""
+"Have you ever wanted to learn how to knit? What about garden? Are you "
+"interested in refinishing furniture, cleaning challenging stains, or "
+"creating an exercise plan you’ll actually follow? Whatever you’ve dreamt of "
+"learning how to do, this is the app you need. From crafts to home "
+"improvement, event planning to self-help, you’ll find nearly every topic "
+"imaginable. Each how-to article is easy to access and understand. Soon, you "
+"won’t know how you managed before!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:380
+msgctxt "title"
+msgid "Astronomy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:381
+msgctxt "subtitle"
+msgid "Understand more of the universe and all it contains"
+msgstr ""
+
+#: content/Default/apps/content.json.h:382
+msgctxt "description"
+msgid ""
+"Is there anything more mystifying and incredible than outer space? This app "
+"will introduce you to the vast cosmos, teaching you about our own solar "
+"system and beyond. Learn about planets, stars, galaxies, and even the "
+"mysteries of black holes. Understand our sun and moon, and contemplate the "
+"possibility of life elsewhere in the universe. You’ll want to take off in a "
+"rocket ship after exploring the app."
+msgstr ""
+
+#: content/Default/apps/content.json.h:383
+msgctxt "title"
+msgid "History"
+msgstr ""
+
+#: content/Default/apps/content.json.h:384
+msgctxt "subtitle"
+msgid "Telling you the tales that brought our contemporary world into being"
+msgstr ""
+
+#: content/Default/apps/content.json.h:385
+msgctxt "description"
+msgid ""
+"How much do you know about the fall of the Roman Empire? What about the Silk "
+"Road? Who lived in the Americas long ago, and what happened to them? Why did "
+"World War I begin? The World History app can answer every question you have "
+"about the events and personalities that have shaped our modern world, and "
+"the cultures that came before us and left us their legacies."
+msgstr ""
+
+#: content/Default/apps/content.json.h:386
+msgctxt "title"
+msgid "Animals"
+msgstr ""
+
+#: content/Default/apps/content.json.h:387
+msgctxt "subtitle"
+msgid ""
+"Helping you understand and appreciate the creatures that share our Earth"
+msgstr ""
+
+#: content/Default/apps/content.json.h:388
+msgctxt "description"
+msgid ""
+"Animals are simply amazing. From the majestic lion to the bizarre and "
+"fascinating platypus, there is so much to learn about the creatures that "
+"inhabit our world. Unlock the entire animal kingdom with this app. The whole "
+"family, from small children to curious adults, will love to learn about "
+"animals’ features, habits, and environments. It’s especially important to "
+"study the animal kingdom today, when so many species are threatened or "
+"endangered. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:389
+msgctxt "title"
+msgid "Dinosaurs"
+msgstr ""
+
+#: content/Default/apps/content.json.h:390
+msgctxt "subtitle"
+msgid "Bringing prehistory back to life for you to discover anew"
+msgstr ""
+
+#: content/Default/apps/content.json.h:391
+msgctxt "description"
+msgid ""
+"Dinosaurs first appeared on Earth more than 230 million years ago. They "
+"ruled the planet for millions of years, until a catastrophic extinction "
+"event wiped out almost all of them. Fossils and other findings have taught "
+"us a great deal about these former inhabitants of Earth. This app will "
+"introduce you to these incredible prehistoric creatures. Learn about the "
+"different types of dinosaurs, from fierce carnivores to massive herbivores. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:392
+msgctxt "title"
+msgid "Myths & Legends"
+msgstr ""
+
+#: content/Default/apps/content.json.h:393
+msgctxt "subtitle"
+msgid ""
+"Telling the foundational stories of the world’s many cultures, ancient and "
+"modern"
+msgstr ""
+
+#: content/Default/apps/content.json.h:394
+msgctxt "description"
+msgid ""
+"The stories of ancient cultures have had a massive impact on our current "
+"understanding of the world. While some myths are just that – stories we find "
+"fascinating and that help us understand our ancestors – others remain the "
+"basis for our modern religions and traditions. The app explores stories and "
+"beliefs from all over the world. From magic rituals to otherworldly "
+"creatures, myths provide us with entertainment, knowledge, and a glimpse "
+"into cultures of the past and present."
+msgstr ""
+
+#: content/Default/apps/content.json.h:395
+msgctxt "title"
+msgid "Biology"
+msgstr ""
+
+#: content/Default/apps/content.json.h:396
+msgctxt "subtitle"
+msgid "Taking you on a journey through the many facets of the living world"
+msgstr ""
+
+#: content/Default/apps/content.json.h:397
+msgctxt "description"
+msgid ""
+"Studying biology is an exciting pursuit, because it gives us an "
+"understanding of what it means to be a living creature. This app covers "
+"everything from cells and tiny organisms to plants and animals. You can use "
+"this textbook app to study many sub-disciplines of biology, or simply to "
+"gain a better understanding of the subject as a whole. Whether you want to "
+"know what mitochondria are or what types of reproduction exist in nature, "
+"let this app be your guide."
+msgstr ""
+
+#: content/Default/apps/content.json.h:398
+msgctxt "title"
+msgid "Social Sciences"
+msgstr ""
+
+#: content/Default/apps/content.json.h:399
+msgctxt "subtitle"
+msgid ""
+"A fascinating look at society that will help you understand yourself and "
+"your culture "
+msgstr ""
+
+#: content/Default/apps/content.json.h:400
+msgctxt "description"
+msgid ""
+"Human beings and the relationships and societies they form are complicated. "
+"This app will introduce you to many of the disciplines that examine human "
+"history, cultures, and interactions. You’ll have access to the basics of "
+"psychology, sociology, anthropology, political science, and more. "
+"Understanding the fundamentals of such disciplines will help you navigate "
+"the ways we interact and relate to each other. You’ll come away with a rich "
+"understanding of human behavior. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:401
+msgctxt "title"
+msgid "My Budget"
+msgstr ""
+
+#: content/Default/apps/content.json.h:402
+msgctxt "subtitle"
+msgid "The essential budgeting and financial literacy app for every household"
+msgstr ""
+
+#: content/Default/apps/content.json.h:403
+msgctxt "description"
+msgid ""
+"It can be challenging to keep track of your family’s finances, but it’s also "
+"extremely important. This app provides the resources you need to keep a "
+"budget and understand how you spend your money. Easy templates make "
+"budgeting a breeze, and tips about money management and wise spending will "
+"help you make good choices with your funds. Your family will benefit from an "
+"organized, clear, and carefully managed financial plan."
+msgstr ""
+
+#: content/Default/apps/content.json.h:404
+msgctxt "title"
+msgid "Physics"
+msgstr ""
+
+#: content/Default/apps/content.json.h:405
+msgctxt "subtitle"
+msgid ""
+"Access to the great mysteries of the physical world, and the knowledge to "
+"solve them"
+msgstr ""
+
+#: content/Default/apps/content.json.h:406
+msgctxt "description"
+msgid ""
+"The physics textbook app takes one of the most fascinating and challenging "
+"scientific disciplines and makes it simple and fun to learn. Whatever your "
+"level of understanding, you’ll find useful information presented in a format "
+"you can follow. The app includes exciting topics like mechanics, "
+"thermodynamics, electricity and magnetism, and even astrophysics. From the "
+"atoms to the stars, you’ll learn all about the world around you, and succeed "
+"in your physics education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:407
+msgctxt "title"
+msgid "GT Practical"
+msgstr ""
+
+#: content/Default/apps/content.json.h:408
+msgctxt "subtitle"
+msgid "Materiales Prácticos"
+msgstr ""
+
+#: content/Default/apps/content.json.h:409
+#: content/Default/apps/content.json.h:412
+#: content/Default/apps/content.json.h:415
+#: content/Default/apps/content.json.h:418
+#: content/Default/apps/content.json.h:421
+msgctxt "description"
+msgid "temp description"
+msgstr ""
+
+#: content/Default/apps/content.json.h:410
+msgctxt "title"
+msgid "GT Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:411
+msgctxt "subtitle"
+msgid "Colección Educativa Guatemala"
+msgstr ""
+
+#: content/Default/apps/content.json.h:413
+msgctxt "title"
+msgid "GT Textbooks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:414
+msgctxt "subtitle"
+msgid "Libros de Texto"
+msgstr ""
+
+#: content/Default/apps/content.json.h:416
+msgctxt "title"
+msgid "GT Literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:417
+msgctxt "subtitle"
+msgid "Grandes Libros del Mundo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:419
+msgctxt "title"
+msgid "GT Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:420
+msgctxt "subtitle"
+msgid "Guatemala Currículo Nacional Base"
+msgstr ""
+
+#: content/Default/apps/content.json.h:365
 msgctxt "description"
 msgid ""
 "Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are "
@@ -2406,7 +2742,7 @@ msgid ""
 "movable."
 msgstr ""
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:360
 msgctxt "description"
 msgid ""
 "Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics "
