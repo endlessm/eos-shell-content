@@ -131,7 +131,7 @@
     "category":"Utility"
   },
   {
-    "displayShape":"b2v",
+    "displayShape":"b1",
     "application-id":"com.endlessm.encyclopedia",
     "exec":"eos-encyclopedia",
     "tryexec":"",
@@ -145,7 +145,7 @@
     "custom-splash-screen":"com.endlessm.encyclopedia-splash.jpg",
     "icon":"com.endlessm.encyclopedia-icon.png",
     "square_img":"com.endlessm.encyclopedia-thumb.jpg",
-    "featured_img":"com.endlessm.encyclopedia-featured.jpg",
+    "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
