@@ -34,6 +34,7 @@ BUNDLE_DIR = 'bundle'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
+BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
 SPLASH_DIR = '/usr/share/EndlessOS/splash'
 ICON_DIR = os.path.join('icons', '64x64', 'apps')
 IGNORE_ERRORS = True
@@ -311,3 +312,62 @@ if __name__ == '__main__':
                             # Simply copy existing icon asset to destination
                             source_file = os.path.join(source_dir, icon_path)
                             shutil.copy(source_file, target_file)
+
+    # Generate bundle manifests for the image builder by personality
+
+    shutil.rmtree(BUNDLE_MANIFESTS_DIR, IGNORE_ERRORS)
+    os.makedirs(BUNDLE_MANIFESTS_DIR)
+
+    # Read the list of apps that have localized versions
+    # where the app-id is suffixed by the language code
+    with open('localized-apps.txt') as localized_file:
+        localized_apps = localized_file.read().split()
+
+    # Map from personality to two-character language code(s)
+    langs = {}
+    for i in range(0, len(personalities)):
+        lang = locales[i].split('-')[0]
+        langs[personalities[i]] = lang
+    all_langs = list(set(langs.values()))
+
+    # For each personality, write a manifest of all the app bundles
+    # (useful in maintaining the image builder manifests in eos-obs-build)
+    for personality in personalities + ['all']:
+        app_ids = []
+        for id, obj in desktop_objects.items():
+            if isinstance(obj, AppObject) \
+                    and not obj.get('Core'):
+                if personality == 'default':
+                    continue
+                elif personality == 'all':
+                    if id in localized_apps:
+                        for lang in all_langs:
+                            app_ids.append(id + '-' + lang)
+                    else:
+                        app_ids.append(id)
+                else:
+                    app_personalities = obj.get('Personalities')
+                    if 'All' in app_personalities \
+                            or personality in app_personalities:
+                        if id in localized_apps:
+                            app_ids.append(id + '-' + langs[personality])
+                        else:
+                            app_ids.append(id)
+        app_ids.sort()
+        manifest_path = os.path.join(BUNDLE_MANIFESTS_DIR,
+                                     'bundle-manifest-%s.txt' % personality)
+        with open(manifest_path, 'w') as manifest_file:
+            for app in app_ids:
+                manifest_file.write(app + '\n')
+
+    # Generate a manifest of all the core apps
+    # (useful in maintaining the core list in eos-meta)
+    core_apps = []
+    for id, obj in desktop_objects.items():
+        if isinstance(obj, AppObject) and obj.get('Core'):
+            core_apps.append(id)
+    core_apps.sort()
+    manifest_path = os.path.join(BUNDLE_MANIFESTS_DIR, 'core-manifest.txt')
+    with open(manifest_path, 'w') as manifest_file:
+        for app in core_apps:
+            manifest_file.write(app + '\n')

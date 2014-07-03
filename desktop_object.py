@@ -175,6 +175,7 @@ class AppObject(DesktopObject):
         'Name': 'title',
         'Id': 'application-id',
         'Core': 'core',
+        'Personalities': 'personalities',
         'Comment': 'subtitle',
         'Categories': 'category',
         'Exec': 'exec',
