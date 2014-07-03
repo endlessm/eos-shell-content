@@ -17,9 +17,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-06-19 00:16-0700\n"
-"PO-Revision-Date: 2014-06-30 20:11+0000\n"
-"Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
+"POT-Creation-Date: 2014-07-02 01:13+0000\n"
+"PO-Revision-Date: 2014-07-02 01:14+0000\n"
+"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -383,8 +383,8 @@ msgstr "Esta app es parecida a Adobe Photoshop pero es gratuita. Esta herramient
 
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
-msgid "Math"
-msgstr "Matemáticas"
+msgid "Math Plotting"
+msgstr ""
 
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
@@ -510,8 +510,8 @@ msgstr "Esta app te ofrece todas las funciones de las mejores apps de procesador
 
 #: content/Default/apps/content.json.h:73
 msgctxt "title"
-msgid "Physics"
-msgstr "Física"
+msgid "Numpty Physics"
+msgstr ""
 
 #: content/Default/apps/content.json.h:74
 msgctxt "subtitle"
@@ -1238,10 +1238,9 @@ msgid "File manager"
 msgstr "Administrador de archivos"
 
 #: content/Default/apps/content.json.h:177
-#: content/Default/apps/content.json.h:180
 msgctxt "description"
-msgid "No description necessary -- this is not available via the app store"
-msgstr "N/A"
+msgid "Need a description for the app store now!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:178
 msgctxt "title"
@@ -1252,6 +1251,11 @@ msgstr "Internet"
 msgctxt "subtitle"
 msgid "Browse the Web"
 msgstr "Explora la Internet"
+
+#: content/Default/apps/content.json.h:180
+msgctxt "description"
+msgid "Need an app store description now!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:181
 msgctxt "title"
@@ -1463,42 +1467,15 @@ msgstr "Intenta combinar todos los números en los bloques para poder ganar. Ten
 
 #: content/Default/apps/content.json.h:211
 msgctxt "title"
-msgid "Spotify"
-msgstr "Spotify"
-
-#: content/Default/apps/content.json.h:212
-msgctxt "subtitle"
-msgid "Listen to music using Spotify"
-msgstr "Escucha música con Spotify"
-
-#: content/Default/apps/content.json.h:213
-msgctxt "description"
-msgid ""
-"Spotify lets you access all of your favorite music, helps you discover new "
-"songs you'll love, and lets you share music with your friends - all in one "
-"place. You can listen to all of your local files and create playlists just "
-"like you would in any other music player, but now you can also share your "
-"playlists with friends and see what they are listening to! Follow friends, "
-"your favorite artists, and other Spotify members whose music taste you "
-"share. Spotify has all of the great discovering capability that other apps "
-"like Pandora have, but the difference is that you can save your favorite "
-"songs to a playlist and listen to them whenever you want. You can also make "
-"collaborative playlists, so that you and all of your friends can add songs "
-"that you all love. Have access millions of songs, and all the latest hits - "
-"for free. "
-msgstr "Con Spotify puedes acceder a toda tu música favorita, descubrir nuevas canciones y compartir música fácilmente con tus amigos. Escucha canciones de tus archivos locales, o si tienes internet, accede a las millones de canciones que se encuentran en Spofity. Podrás compartir las canciones que escuchas con tus amigos que también usan Spotify, y ver lo que ellos están escuchando. ¡Sigue a tus artistas favoritos, y a otros miembros de Spotify cuyos gustos musicales compartes! Spotify crea estaciones de radio personalizadas para ti, que puedes guardar en una lista para escucharlas cuando quieras. Para más integración social, puedes crear una lista colaborativa, para que tus amigos puedan agregar canciones que a ellos también les encantan. Agrega Spotify ahora para tener acceso a todos los últimos éxitos, de forma gratuita, y de una forma muy social."
-
-#: content/Default/apps/content.json.h:214
-msgctxt "title"
 msgid "Terminal"
 msgstr "Terminal"
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "Use the command line"
 msgstr "Utiliza la línea de comandos"
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch"
@@ -1508,18 +1485,18 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made. "
 msgstr "Si eres un usuario de computadoras avanzado y deseas acceder a la información del sistema y ejecutar apps sin usar el ratón, ahora puedes hacer precisamente eso con esta app básica del terminal. Con esta terminal moderna puedes ver todos los comandos que escribes en diferentes colores para asegurarte de que estás escribiendo todo correctamente y para ayudarte a identificar fácilmente cualquier error que hayas cometido."
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "Cheese"
 msgstr "Sonrisas"
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid ""
 "Take pictures of yourself and your friends with this fun photobooth app"
 msgstr "Toma fotos chistosas y bellas de ti y de tus amigos"
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "Say cheese! Use a webcam and this awesome photobooth app to take pictures, "
@@ -1528,17 +1505,78 @@ msgid ""
 "hours of fun playing around and creating funny, cool and beautiful pictures!"
 msgstr "¡Sonríe! Usa tu webcam y esta app para tomar fotos, ponerles filtros y compartirlas con tus amigos y con tu familia. Escoge entre las diferentes opciones para hacer que parezcas verde o como si tienes dos caras. Podrás entretenerte y divertirte mientras creando fotos chistosas y bellas."
 
+#: content/Default/apps/content.json.h:217
+msgctxt "title"
+msgid "Math"
+msgstr "Matemáticas"
+
+#: content/Default/apps/content.json.h:218
+msgctxt "subtitle"
+msgid "temp subtitle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:219
+msgctxt "description"
+msgid "temp_description"
+msgstr ""
+
 #: content/Default/apps/content.json.h:220
 msgctxt "title"
-msgid "MegaGlest"
+msgid "Farming App"
 msgstr ""
 
 #: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
+msgid ""
+"The world is an amazing place, and with this app, you’ll learn all about it."
+" Featuring information o"
+msgstr ""
+
+#: content/Default/apps/content.json.h:222
+msgctxt "description"
+msgid ""
+"Farming is both an ancient tradition and a modern, bustling industry. Our "
+"world’s food supply comes from hardworking farmers around the globe. "
+"Learning about this sector of the economy can be fascinating and useful, "
+"especially if you’re interested in providing food for yourself and your "
+"community. This app includes information on farming techniques and "
+"equipment, different types of agriculture, and the careers that exist in "
+"this industry. You’ll soon be an expert in crops, livestock, and more."
+msgstr ""
+
+#: content/Default/apps/content.json.h:223
+msgctxt "title"
+msgid "Geography"
+msgstr ""
+
+#: content/Default/apps/content.json.h:224
+msgctxt "subtitle"
+msgid ""
+"Opening up the whole wide world for your exploration and understanding  "
+msgstr ""
+
+#: content/Default/apps/content.json.h:225
+msgctxt "description"
+msgid ""
+"The world is an amazing place, and with this app, you’ll learn all about it."
+" Featuring information on every country in the world, this comprehensive "
+"resource covers major cities, regions, natural features, and more. Closer to"
+" home, you’ll find detailed information about Guatemala, from its towns and "
+"cities to its rivers and mountains. Explore the wonders around you with the "
+"Geography app."
+msgstr ""
+
+#: content/Default/apps/content.json.h:226
+msgctxt "title"
+msgid "MegaGlest"
+msgstr ""
+
+#: content/Default/apps/content.json.h:227
+msgctxt "subtitle"
 msgid "3D multi-player real time strategy game"
 msgstr "Juego de multijugador, de estrategia, en tiempo real y en tres dimensiones"
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
 "MegaGlest is a free 3D real-time customizable strategy game which takes "
@@ -1549,17 +1587,17 @@ msgid ""
 "over the Internet or a LAN."
 msgstr "La historia de este juego se desarrolla en un lugar similar a Europa en el tiempo pre-renacimiento. En este mundo la magia existe y se puede controlar. Una persona puede disfrutar de este juego tanto como pueden varios con la opción de multijugador. "
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "Battle Tanks"
 msgstr ""
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "Fast 2D tank arcade game with multiplayer and split-screen modes"
 msgstr "Juego en dos dimensioness, de paso rápido y con la opción de multijugador y pantalla partida"
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:231
 msgctxt "description"
 msgid ""
 "Battle Tanks is a funny battle on your desk, where you can choose one of "
@@ -1568,17 +1606,17 @@ msgid ""
 "dynamic, and it has several network modes for death match and cooperative."
 msgstr "Te divertirás mucho jugando este juego porque podrás escoger entre tres diferentes vehículos para combatir en la batalla. Elimina tus enemigos usando un arsenal entero de armas diversas. Las imágenes del juego son caricaturas y la música es muy buena. ¡Encontrarás que este juego es verdaderamente dinámico y divertido!"
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Atomic Tanks"
 msgstr ""
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Tank-battling game"
 msgstr "Juego de batalla entre tanques"
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
 "Atomic tanks is a multi-player game in which you attempt to destroy other "
@@ -1587,17 +1625,17 @@ msgid ""
 "tank. This game is similar Scorched Earth or the Worms series of games."
 msgstr "En este juego de multijugador tienes que destruir todos los tanques de tus oponentes mientras que proteges al tuyo. Ganas dinero cada vez que destruyes un tanque y con el dinero que ahorras puedes comprar más armas y mejorar tu tanque. "
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "Wesnoth"
 msgstr ""
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "Juego de estrategia basado en la fantasía"
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "Battle for control of villages, using variety of units which have advantages"
@@ -1606,17 +1644,17 @@ msgid ""
 "over from one scenario to the next in a campaign."
 msgstr "Batalla usando diferentes armas para ganar el control de aldeas. Cada arma tiene sus ventajas y desventajas dependiendo en el tipo de terreno en que suceden los ataques. Al usar cada arma vas acumulando puntos de experiencia, los cuales te ayudan a mejorar los ataques. Avanza de nivel a nivel por medio de diferentes escenarios que ocurren en la campaña de la batalla."
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "Warzone 2100"
 msgstr ""
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "3D real time strategy game"
 msgstr "Juego de estrategia en tiempo real y en tres dimensiones"
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "In Warzone 2100 you command the forces of “The Project” in a battle to "
@@ -1629,17 +1667,17 @@ msgid ""
 "Warzone 2100 Project."
 msgstr "En este juego emocionante tu eres la persona en cargo de un proyecto de reconstruir el mundo. La humanidad se ha destruido con misiles nucleares y se necesita tu ayuda para poder salvar el mundo. Este juego ofrece las opciones de entrenar, de jugar solo, de multijugador y de seguir la historia para jugar en la campaña de salvar el mundo. "
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Tux Football"
 msgstr ""
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Great 2D soccer (sometimes called football) game"
 msgstr "Juego muy bueno de fútbol en dos dimensiones"
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "It's bringing old style gameplay from DOS times back to the desktop with up "
@@ -1654,17 +1692,17 @@ msgid ""
 "dip towards the ground."
 msgstr "¡Este juego es fácil de entender, es de paso rápido y es muy divertido! El balón de fútbol se controla con dos botones- uno para pasarlo y el otro para tirarle a la portería. Hay la opción de mover la pelota hacia la dirección correcta para atinar y meter un gol. Haz que la pelota se mueva a un lado, que vaya más alto o bajo o que gire en el aire."
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "X-Moto"
 msgstr ""
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "2D motocross platform game"
 msgstr "Juego de motocross en dos dimensiones"
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "X-Moto is a challenging 2D motocross platform game, where physics play an "
@@ -1673,17 +1711,17 @@ msgid ""
 "challenges."
 msgstr "En este juego desafiante de motocross, con gráficos de dos dimensiones, la física juega un papel muy importante. Necesitas controlar tu bicicleta lo más posible si quieres tener la oportunidad de terminar los retos más difíciles."
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "Marble"
 msgstr ""
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Globe and map widget"
 msgstr "Mapa y globo terráqueo"
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Marble is a generic geographical map widget and framework for KDE "
@@ -1692,17 +1730,17 @@ msgid ""
 "included, so it can be used without an internet connection."
 msgstr "Esta app es de un mapa geográfico. Te muestra la tierra desde el espacio donde parece ser una esfera pequeña. ¡Usa esta app para explorar el mundo aunque no tengas una conexión al internet!"
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "Warmux"
 msgstr ""
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Turn-based artillery game on 2D maps"
 msgstr "Juego de artillería pesada con mapas en dos dimensiones"
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
 "WarMUX is a free game in the genre of turn-based artillery games like "
@@ -1712,17 +1750,17 @@ msgid ""
 "projects."
 msgstr "Esta app es un juego basado en la artillería. Varios jugadores pueden participar, desde la misma computadora o por medio de la misma conexión al internet. Juega en equipo contra tus amigos o contra la computadora."
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "Tux Racer"
 msgstr ""
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "3D racing game featuring Tux, the Linux penguin"
 msgstr "Juego de carreras en 3 dimensiones, con el personaje Tux el pingüino"
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Extreme Tux Racer, or etracer as it is called for short, is a simple OpenGL "
@@ -1733,17 +1771,17 @@ msgid ""
 "based on the GPL version of the famous game TuxRacer."
 msgstr "Este juego de carreras, con Tux el pingüino, es simple pero muy divertido. La meta es bajar un montaña cubierta de nieve lo más rápido posible mientras que evitas chocar contra los árboles y las piedras, las cuales reducirán tu velocidad. Colecta los pescados al bajar la montaña, pero evita los huesos. Este juego es basado en el juego famoso TuxRacer."
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "Tux Puck"
 msgstr ""
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Air hockey game for single players"
 msgstr "Hockey de mesa para un jugador contra la computadora"
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "TuxPuck is an air hockey game and clone of the Amiga/Atari ST game "
@@ -1752,17 +1790,17 @@ msgid ""
 "points, the match is over."
 msgstr "Este juego es de hockey de mesa. En el juego el jugador tiene que mover su palo de hockey para poder tirar el disco y meter un gol."
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "TORCS"
 msgstr ""
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "3D racing cars simulator game using OpenGL"
 msgstr "Juego en tres dimensiones de simulador de carreras"
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "TORCS, The Open Racing Car Simulator is a car racing simulation game which "
@@ -1771,17 +1809,17 @@ msgid ""
 "robot) in C or C++. TORCS is GPL (version 2 or later)."
 msgstr "En este juego emocionante puedes competir en carreras contra varios oponentes que son simulados por la computadora. Además, puedes crear tu propio robot para conducir los autos que compiten en las carreras. "
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "Slingshot"
 msgstr ""
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Simple 2D shooting strategy game set in space, with gravity"
 msgstr "Juego simple de tiro en el espacio, con los efectos de la gravedad y en dos dimensiones"
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "Slingshot is a two dimensional, turn based simulation-strategy game set in "
@@ -1793,34 +1831,34 @@ msgid ""
 "play, and to enjoy playing, it could take a lifetime to thoroughly master."
 msgstr "Este juego se desarrolla en el espacio cerca de diferentes planetas. ¡Es adictivo por lo que es muy divertido y entretenido! La computadora genera nuevos escenarios y cada nivel es diferente. Parece ser un juego muy simple, la meta es tirarle a las naves espaciales, pero los cambios en la gravedad hace todo más difícil. Aunque es fácil aprender como jugar y nunca para de ser divertido, podrá tomar una vida entera para lograr dominar este juego."
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Ri-Li"
 msgstr ""
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Toy train simulation game"
 msgstr "Juego de simulación de tren"
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "Ri-li is a game in which you drive a wooden toy steam locomotive across many"
 " levels and collect all the coaches to win."
 msgstr "En este juego tienes que conducir un tren hecho de madera para avanzar por los diferentes niveles y para poder ganar. "
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Minetest"
 msgstr ""
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "Multiplayer infinite-world block sandbox"
 msgstr ""
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "Minetest is a minecraft-inspired game written from scratch and licensed "
@@ -1828,17 +1866,17 @@ msgid ""
 "creative modes along with multiplayer support, dynamic lighting, and an "
 msgstr "Esta app fue inspirada por el juego clásico, minecraft. Puedes jugar contra la computadora o con amigos en este juego entretenido y divertido. "
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr ""
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "Ridiculous space shooter governed by the laws of gravity"
 msgstr "Tirador en el espacio regido por la ley de gravedad"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
 "M.A.R.S is a two-dimensional space shooter game with excellent 2D-graphics, "
@@ -1851,17 +1889,17 @@ msgid ""
 "from the imminent doom of your jealous neighbors!"
 msgstr "Este juego de tirador parece en tu pantalla con imágenes muy claras, vibrantes y de dos dimensiones. Ofrece la opción de multijugador, de seleccionar entre muchas armas impresionantes y de personalizar tu propio barco. Es el año 3547 y cada una de las civilizaciones de la galaxia se ha instalado en su propio planeta. La gente de tu planeta está viviendo en paz y en harmonía, ¡pero existe una GRAN GUERA entre los otros planetas! Tienes que proteger a tu planeta de tus vecinos y del peligro que están causando."
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "Sr. Patata"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Stamp drawing toy"
 msgstr "Juego para dibujar y usar estampillas"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:276
 msgctxt "description"
 msgid ""
 "Potato Guy is a drawing toy for small children with several activities. Give"
@@ -1871,17 +1909,17 @@ msgid ""
 "object in several languages, to assist in learning basic vocabulary."
 msgstr "Este juego esta diseñado para niños pequeños. Dibuja, usa estampillas, y colorea en este mundo para crear una obra de arte inolvidable."
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr "VocaTarjetas"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "Flashcard learning program"
 msgstr "Programa para aprender usando tarjetas virtuales"
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:279
 msgctxt "description"
 msgid ""
 "KWordQuiz is a general purpose flashcard program, typically used for "
@@ -1891,17 +1929,17 @@ msgid ""
 "CSV text."
 msgstr "Crea tarjetas virtuales de vocabulario para ayudarte a aprender nuevas palabras or tarjetas de datos que necesitas memorizar. Esta app les será demasiado útil a estudiantes, y es muy fácil de usar."
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "KHangMan"
 msgstr "Ahorcado"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "Hangman word puzzle"
 msgstr "Un juego educativo para niños 6+"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:282
 msgctxt "description"
 msgid ""
 "KHangMan is the well-known Hangman game, aimed towards children aged 6 and "
@@ -1910,49 +1948,49 @@ msgid ""
 "gradually revealed, but 10 wrong guesses will end the game."
 msgstr "Adivina la palabra para ganar en este juego divertido hecho para niños de 6+ años. Empieza por adivinar letras hasta que puedas adivinar la palabra - ¿que tan rápido las puedes adivinar? Si fallas 10 veces, perderás y necesitarás tratar de nuevo. ¡Mejora tu vocabulario mientras te diviertes por horas!"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "Bovo"
 msgstr "Cinco"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "Gomoku (five in line) board game"
 msgstr "Un juego de mesa virtual"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:285
 msgctxt "description"
 msgid ""
 "Bovo is a game where two players take turns placing markers on the board, "
 "the winner being the first to complete a line of five markers."
 msgstr "En esta app dos personas se turnan para poner marcadores en el juego, y la primera persona que pone una fila de cinco marcadores seguidos gana. "
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "GCompris Admin"
 msgstr "EduJuegos Admin"
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "Teacher admin console for GCompris"
 msgstr "Consola administrativa para maestros usando GCompris. "
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid "Run GCompris (EduGames) in administration and user-management mode."
 msgstr "El maestro o maestra puede usar esta app en conjunto con la app EduJuegos para controlar y dar seguimiento a las actividades de los alumnos."
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "Kalzium"
 msgstr "Qímica"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Periodic table and chemistry tools"
 msgstr "Tabla periodica y herramientas químicas"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Kalzium is a full-featured chemistry application, including a Periodic Table"
@@ -1960,17 +1998,17 @@ msgid ""
 "viewer."
 msgstr "Esta app viene con muchas funciones para aprender sobre la química. Incluye la tabla periódica, referencias y ayuda para solucionar ecuaciones químicas."
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Kapman"
 msgstr "PacMan II"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Pac-Man clone"
 msgstr "Clon de Pac-Man"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:294
 msgctxt "description"
 msgid ""
 "Kapman is a clone of the well known game Pac-Man. You must go through the "
@@ -1981,98 +2019,98 @@ msgid ""
 "level, you go to the next level, and the player and ghost speeds increase."
 msgstr "Esta app es un clon del famoso Pac-Man. Tienes que avanzar por los diferentes niveles mientras que te escapes de los fantasmas en cada laberinto. Puedes ganar puntos, recuperar vida o tener más energía si pasas sobre las pastillas que aparecen en tu pantalla. "
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "KAtomic"
 msgstr "Átomos"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid "Atomix puzzle game"
 msgstr "Aprende sobre átomos y moléculas con este juego increíble "
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:297
 msgctxt "description"
 msgid ""
 "KAtomic is a puzzle game in which the player slides atoms around the board "
 "to assemble a molecule."
 msgstr "En este juego debes mover los átomos para poder formar diferentes moléculas. "
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "KBlackBox"
 msgstr "CajaNegra"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "Black Box puzzle game"
 msgstr "Un rompecabezas divertidísimo "
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:300
 msgctxt "description"
 msgid ""
 "KBlackBox is a game of hide and seek played on an grid of boxes, where the "
 "player shoots rays into the grid to deduce the positions of hidden objects."
 msgstr "En esta app el jugador tiene que disparar rayos a la cuadrícula para poder deducir las posiciones de los objetos escondidos. "
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "KBlocks"
 msgstr "Bloques"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "Falling blocks game"
 msgstr "Juego de bloques que caen."
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:303
 msgctxt "description"
 msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
 msgstr "Un juego como Tetris donde bloques que caen para formar un rompecabezas."
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "KBounce"
 msgstr "Rebote"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Jezzball arcade game"
 msgstr "Juego de paredes y rebotes"
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:306
 msgctxt "description"
 msgid ""
 "KBounce is a game where the player builds walls to confine a number of "
 "bouncing balls."
 msgstr "Esta es una app donde el jugador tiene que construir paredes para contener las pelotas que rebotan."
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "KBruch"
 msgstr "Fracciones"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Fraction learning aid for KDE"
 msgstr "Ayuda para aprender sobre las fracciones"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:309
 msgctxt "description"
 msgid "KBruch is an aid for learning how to calculate with fractions."
 msgstr "KBruch contiene materiales para ayudarte a aprender como hacer cálculos con fracciones. "
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "KDiamond"
 msgstr "Diamantes"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid "Three-in-a-row game"
 msgstr "Juego de tres en fila"
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:312
 msgctxt "description"
 msgid ""
 "KDiamond is a three-in-a-row game like Bejeweled. It features unlimited fun "
@@ -2080,17 +2118,17 @@ msgid ""
 " of diamond colors and board sizes."
 msgstr "Este juego es realmente adictivo. ¡Trata de alinear a tres joyas para ganar puntos y seguir en el juego!"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "KGeography"
 msgstr "Mapas"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Geography learning aid for KDE"
 msgstr "Ayuda para aprender sobre la geografía"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
 "KGeography is an aid for learning about world geography. You can use it to "
@@ -2098,17 +2136,17 @@ msgid ""
 "games to test your geography knowledge."
 msgstr "Descubre tu mundo con esta app. Explora diversos mapas para aprender sobre cada región. "
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "Minero de Oro"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "Lode Runner arcade game"
 msgstr "Un juego de arcade demasiado divertido"
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:318
 msgctxt "description"
 msgid ""
 "KGoldrunner is a fast-paced platform game where the player must navigate a "
@@ -2116,17 +2154,17 @@ msgid ""
 "packs are included, as well as an editor to create new levels."
 msgstr "¡Navega por varios laberintos para encontrar oro y hacerte el más poderoso del terreno!"
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:319
 msgctxt "title"
 msgid "Kigo"
 msgstr "Go"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:320
 msgctxt "subtitle"
 msgid "Go game"
 msgstr "Un juego vigorizante"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:321
 msgctxt "description"
 msgid ""
 "Kigo is an open-source implementation of the popular Go game. Go is a "
@@ -2138,17 +2176,17 @@ msgid ""
 "19x19 lines (9x9 or 13x13 for easier games)."
 msgstr "¿Te gusta la estrategia? Encuentra a un adversario formidable y prepárate para horas de entretenimiento. "
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:322
 msgctxt "title"
 msgid "Killbots"
 msgstr "BotsAsesinos"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:323
 msgctxt "subtitle"
 msgid "Port of the classic BSD console game robots"
 msgstr "Un juego de robots asesinos"
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:324
 msgctxt "description"
 msgid ""
 "Killbots is a simple game of evading killer robots. The robots are numerous "
@@ -2159,17 +2197,17 @@ msgid ""
 "of mindless automatons."
 msgstr "En este juego simple tienes que escaparte de robots. Son asesinos que tienen un solo objetivo: destruirte. Afortunadamente, su creador se enfocó en crear muchos en vez de crearlos de buena calidad. Tu inteligencia superior y un aparato de teletransporte te ayudarán a combatir estos robots."
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:325
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "CuboSaltador"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:326
 msgctxt "subtitle"
 msgid "Simple tactical game"
 msgstr "Juego táctico y simple"
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:327
 msgctxt "description"
 msgid ""
 "KJumpingCube is a simple tactical game for one or two players, played on a "
@@ -2177,17 +2215,17 @@ msgid ""
 "board by capturing or adding to one square."
 msgstr "Esta app es un juego táctico y simple para un o para dos jugadores. Cada persona se turna para tomar control completo del juego."
 
-#: content/Default/apps/content.json.h:322
+#: content/Default/apps/content.json.h:328
 msgctxt "title"
 msgid "Klickety"
 msgstr "Clic Clic"
 
-#: content/Default/apps/content.json.h:323
+#: content/Default/apps/content.json.h:329
 msgctxt "subtitle"
 msgid "Adaptation of Clickomania"
 msgstr "Destruye grupos y mantén tus puntos bajos para ganar"
 
-#: content/Default/apps/content.json.h:324
+#: content/Default/apps/content.json.h:330
 msgctxt "description"
 msgid ""
 "Klickety is an adaptation of the Clickomania game. The rules are similar to "
@@ -2197,51 +2235,51 @@ msgid ""
 " thought if you want to get a really low score."
 msgstr "En éste juego, en lugar de tratar de ganar más puntos, tienes que tratar de perder puntos. O más bien, de no ganar ningunos puntos. Haz clic en grupos para destruirlos y mantener tus puntos lo más bajo posible. "
 
-#: content/Default/apps/content.json.h:325
+#: content/Default/apps/content.json.h:331
 msgctxt "title"
 msgid "KMines"
 msgstr "Minas"
 
-#: content/Default/apps/content.json.h:326
+#: content/Default/apps/content.json.h:332
 msgctxt "subtitle"
 msgid "Minesweeper game"
 msgstr "Evita las minas para ganar en este juego adictivo"
 
-#: content/Default/apps/content.json.h:327
+#: content/Default/apps/content.json.h:333
 msgctxt "description"
 msgid ""
 "KMines is a game where the player finds hidden mines without setting them "
 "off."
 msgstr "Esta es una app donde el jugador tiene que encontrar las minas escondidas sin detonarlas. "
 
-#: content/Default/apps/content.json.h:328
+#: content/Default/apps/content.json.h:334
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "Cables"
 
-#: content/Default/apps/content.json.h:329
+#: content/Default/apps/content.json.h:335
 msgctxt "subtitle"
 msgid "Wire puzzle game"
 msgstr "Cables y rompecabezas"
 
-#: content/Default/apps/content.json.h:330
+#: content/Default/apps/content.json.h:336
 msgctxt "description"
 msgid ""
 "KNetwalk is a puzzle game where the player arranges sections of wire to "
 "connect all the computers on the board."
 msgstr "En este juego debes conectar diferentes cables para poder formar una conexión entre las computadoras que aparecen en tu pantalla."
 
-#: content/Default/apps/content.json.h:331
+#: content/Default/apps/content.json.h:337
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "LíneasBonitas"
 
-#: content/Default/apps/content.json.h:332
+#: content/Default/apps/content.json.h:338
 msgctxt "subtitle"
 msgid "Color lines game"
 msgstr "Colorea y dibuja lo que más se te ocurra "
 
-#: content/Default/apps/content.json.h:333
+#: content/Default/apps/content.json.h:339
 msgctxt "description"
 msgid ""
 "Kolor Lines is a single-player game where the player removes colored balls "
@@ -2249,34 +2287,34 @@ msgid ""
 "time the player moves a ball, three more balls are added to the board."
 msgstr "En esta app un jugador tiene que organizar pelotas de un color en líneas de cinco o más. Cada vez que se mueve una pelota, aparecen tres más."
 
-#: content/Default/apps/content.json.h:334
+#: content/Default/apps/content.json.h:340
 msgctxt "title"
 msgid "KSame"
 msgstr "Mismos"
 
-#: content/Default/apps/content.json.h:335
+#: content/Default/apps/content.json.h:341
 msgctxt "subtitle"
 msgid "SameGame puzzle game"
 msgstr "Un juego de rompecabezas y estrategia "
 
-#: content/Default/apps/content.json.h:336
+#: content/Default/apps/content.json.h:342
 msgctxt "description"
 msgid ""
 "Klickety is a puzzle game where the player removes groups of colored marbles"
 " to clear the board."
 msgstr "En esta app de rompecabezas el jugador quita grupos de canicas de diferentes colores para poder despejar la pantalla."
 
-#: content/Default/apps/content.json.h:337
+#: content/Default/apps/content.json.h:343
 msgctxt "title"
 msgid "KSnake"
 msgstr "Serpientes"
 
-#: content/Default/apps/content.json.h:338
+#: content/Default/apps/content.json.h:344
 msgctxt "subtitle"
 msgid "Classical snake action game"
 msgstr "Juego clásico de acción con una serpiente"
 
-#: content/Default/apps/content.json.h:339
+#: content/Default/apps/content.json.h:345
 msgctxt "description"
 msgid ""
 "In KSnake you steer a snake which has to eat food. While eating, the snake "
@@ -2285,17 +2323,17 @@ msgid ""
 "snakes grow."
 msgstr "En este juego tienes que guiar una serpiente hacia su comida. Al comer, la serpiente crece. Si el jugador choca contra otra serpiente o contra la pared, el juego se acaba. "
 
-#: content/Default/apps/content.json.h:340
+#: content/Default/apps/content.json.h:346
 msgctxt "title"
 msgid "KSnakeDuel"
 msgstr "DueloSSS"
 
-#: content/Default/apps/content.json.h:341
+#: content/Default/apps/content.json.h:347
 msgctxt "subtitle"
 msgid "Tron-like snakerace game"
 msgstr "Un juego de arcade tipo Tron "
 
-#: content/Default/apps/content.json.h:342
+#: content/Default/apps/content.json.h:348
 msgctxt "description"
 msgid ""
 "The object of the game is to avoid running into walls, your own tail, and "
@@ -2303,34 +2341,34 @@ msgid ""
 "opponent to run into them."
 msgstr "El objetivo de este juego es evitar chocar contra paredes, tu cola o la cola de tu oponente. A la misma vez, tienes que hacer que tu oponente se choque."
 
-#: content/Default/apps/content.json.h:343
+#: content/Default/apps/content.json.h:349
 msgctxt "title"
 msgid "KSquares"
 msgstr "Cuadrados"
 
-#: content/Default/apps/content.json.h:344
+#: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
 msgid "Dots and boxes game"
 msgstr "Juego de puntos y cuadrados"
 
-#: content/Default/apps/content.json.h:345
+#: content/Default/apps/content.json.h:351
 msgctxt "description"
 msgid ""
 "KSquares is a game where two players take turns connecting dots on a grid to"
 " complete the most squares."
 msgstr "En este juego dos personas se toman turnos en conectar puntos de una cuadrícula para completar cuadrados. "
 
-#: content/Default/apps/content.json.h:346
+#: content/Default/apps/content.json.h:352
 msgctxt "title"
 msgid "KStars"
 msgstr "Estrellitas"
 
-#: content/Default/apps/content.json.h:347
+#: content/Default/apps/content.json.h:353
 msgctxt "subtitle"
 msgid "Desktop planetarium for KDE"
 msgstr "Planetario en tu propia computadora."
 
-#: content/Default/apps/content.json.h:348
+#: content/Default/apps/content.json.h:354
 msgctxt "description"
 msgid ""
 "KStars is a desktop planetarium for KDE, depicting an accurate graphical "
@@ -2341,17 +2379,17 @@ msgid ""
 "cameras."
 msgstr "¿Te gustan los planetas y el espacio exterior? Ahora puedes tener tu propio planetario y enseñarles las estrellas, planetas y entidades espaciales a toda tu familia y a tus amigos - ¡sin tener que ser una astronauta con to propia nave espacial!"
 
-#: content/Default/apps/content.json.h:349
+#: content/Default/apps/content.json.h:355
 msgctxt "title"
 msgid "KSudoku"
 msgstr "Soduko"
 
-#: content/Default/apps/content.json.h:350
+#: content/Default/apps/content.json.h:356
 msgctxt "subtitle"
 msgid "Sudoku puzzle game and solver"
 msgstr "Juego de Sudoku"
 
-#: content/Default/apps/content.json.h:351
+#: content/Default/apps/content.json.h:357
 msgctxt "description"
 msgid ""
 "KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
@@ -2359,37 +2397,37 @@ msgid ""
 "and find the solution to any Sudoku puzzle."
 msgstr "¡Si te gusta divertirte mientras mejores tus facultades mentales, este juego de Soduko es para ti! "
 
-#: content/Default/apps/content.json.h:352
+#: content/Default/apps/content.json.h:358
 msgctxt "title"
 msgid "Kubrick"
 msgstr "CuboRubik"
 
-#: content/Default/apps/content.json.h:353
+#: content/Default/apps/content.json.h:359
 msgctxt "subtitle"
 msgid "Game based on Rubik's Cube"
 msgstr "Juego basado en el Cubo de Rubik"
 
-#: content/Default/apps/content.json.h:357
+#: content/Default/apps/content.json.h:363
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Rompecabezas"
 
-#: content/Default/apps/content.json.h:358
+#: content/Default/apps/content.json.h:364
 msgctxt "subtitle"
 msgid "Jigsaw puzzle game"
 msgstr "Un rompecabezas como nunca haz jugado"
 
-#: content/Default/apps/content.json.h:362
+#: content/Default/apps/content.json.h:368
 msgctxt "title"
 msgid "Screenshot"
 msgstr "Capturalo"
 
-#: content/Default/apps/content.json.h:363
+#: content/Default/apps/content.json.h:369
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
 msgstr "Toma una foto de tu pantalla y guárdala"
 
-#: content/Default/apps/content.json.h:364
+#: content/Default/apps/content.json.h:370
 msgctxt "description"
 msgid ""
 "Do you ever wish you could take a picture of your screen to save? Well now "
@@ -2398,41 +2436,322 @@ msgid ""
 "make sure to save just what you need and nothing more. "
 msgstr "¿Has querido alguna vez tomarle una foto a tu pantalla para poderla guardar? Ahora puedes, con esta app de captura de pantalla que es muy fácil de usar. Puedes escoger entre tomarle una foto a tu pantalla entera, o a solo una de las ventanas abiertas. Así puedes asegurarte que solo estas guardando lo que necesitas y nada más."
 
-#: content/Default/apps/content.json.h:365
+#: content/Default/apps/content.json.h:371
 msgctxt "title"
 msgid "Brasero"
 msgstr "Graba Discos"
 
-#: content/Default/apps/content.json.h:366
+#: content/Default/apps/content.json.h:372
 msgctxt "subtitle"
 msgid "CD/DVD burning application"
 msgstr "App para grabar CD y DVD"
 
-#: content/Default/apps/content.json.h:367
+#: content/Default/apps/content.json.h:373
 msgctxt "description"
 msgid ""
 "Brasero is a simple application to burn, copy, and erase CD and DVD media: "
 "audio, video, or data."
 msgstr "Brasero es una app fácil de usar para grabar, copiar, y editar archivos digitales en CD y DVD: de audio, video o información."
 
-#: content/Default/apps/content.json.h:368
+#: content/Default/apps/content.json.h:374
 msgctxt "title"
 msgid "KNavalbattle"
 msgstr ""
 
-#: content/Default/apps/content.json.h:369
+#: content/Default/apps/content.json.h:375
 msgctxt "subtitle"
 msgid "Battleship board game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:370
+#: content/Default/apps/content.json.h:376
 msgctxt "description"
 msgid ""
 "KNavalbattle is an implementation of the Battleship game, where two players "
 "take turns firing at the opponent's ships by guessing their coordinates."
 msgstr "Este juego es similar al juego clásico, Battleship, donde dos jugadores se turnan para atacar los barcos del oponente con adivinar sus coordinadas."
 
-#: content/Default/apps/content.json.h:359
+#: content/Default/apps/content.json.h:377
+msgctxt "title"
+msgid "How To"
+msgstr ""
+
+#: content/Default/apps/content.json.h:378
+msgctxt "subtitle"
+msgid "How to do just about anything by yourself"
+msgstr ""
+
+#: content/Default/apps/content.json.h:379
+msgctxt "description"
+msgid ""
+"Have you ever wanted to learn how to knit? What about garden? Are you "
+"interested in refinishing furniture, cleaning challenging stains, or "
+"creating an exercise plan you’ll actually follow? Whatever you’ve dreamt of "
+"learning how to do, this is the app you need. From crafts to home "
+"improvement, event planning to self-help, you’ll find nearly every topic "
+"imaginable. Each how-to article is easy to access and understand. Soon, you "
+"won’t know how you managed before!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:380
+msgctxt "title"
+msgid "Astronomy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:381
+msgctxt "subtitle"
+msgid "Understand more of the universe and all it contains"
+msgstr ""
+
+#: content/Default/apps/content.json.h:382
+msgctxt "description"
+msgid ""
+"Is there anything more mystifying and incredible than outer space? This app "
+"will introduce you to the vast cosmos, teaching you about our own solar "
+"system and beyond. Learn about planets, stars, galaxies, and even the "
+"mysteries of black holes. Understand our sun and moon, and contemplate the "
+"possibility of life elsewhere in the universe. You’ll want to take off in a "
+"rocket ship after exploring the app."
+msgstr ""
+
+#: content/Default/apps/content.json.h:383
+msgctxt "title"
+msgid "History"
+msgstr ""
+
+#: content/Default/apps/content.json.h:384
+msgctxt "subtitle"
+msgid "Telling you the tales that brought our contemporary world into being"
+msgstr ""
+
+#: content/Default/apps/content.json.h:385
+msgctxt "description"
+msgid ""
+"How much do you know about the fall of the Roman Empire? What about the Silk"
+" Road? Who lived in the Americas long ago, and what happened to them? Why "
+"did World War I begin? The World History app can answer every question you "
+"have about the events and personalities that have shaped our modern world, "
+"and the cultures that came before us and left us their legacies."
+msgstr ""
+
+#: content/Default/apps/content.json.h:386
+msgctxt "title"
+msgid "Animals"
+msgstr ""
+
+#: content/Default/apps/content.json.h:387
+msgctxt "subtitle"
+msgid ""
+"Helping you understand and appreciate the creatures that share our Earth"
+msgstr ""
+
+#: content/Default/apps/content.json.h:388
+msgctxt "description"
+msgid ""
+"Animals are simply amazing. From the majestic lion to the bizarre and "
+"fascinating platypus, there is so much to learn about the creatures that "
+"inhabit our world. Unlock the entire animal kingdom with this app. The whole"
+" family, from small children to curious adults, will love to learn about "
+"animals’ features, habits, and environments. It’s especially important to "
+"study the animal kingdom today, when so many species are threatened or "
+"endangered. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:389
+msgctxt "title"
+msgid "Dinosaurs"
+msgstr ""
+
+#: content/Default/apps/content.json.h:390
+msgctxt "subtitle"
+msgid "Bringing prehistory back to life for you to discover anew"
+msgstr ""
+
+#: content/Default/apps/content.json.h:391
+msgctxt "description"
+msgid ""
+"Dinosaurs first appeared on Earth more than 230 million years ago. They "
+"ruled the planet for millions of years, until a catastrophic extinction "
+"event wiped out almost all of them. Fossils and other findings have taught "
+"us a great deal about these former inhabitants of Earth. This app will "
+"introduce you to these incredible prehistoric creatures. Learn about the "
+"different types of dinosaurs, from fierce carnivores to massive herbivores. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:392
+msgctxt "title"
+msgid "Myths & Legends"
+msgstr ""
+
+#: content/Default/apps/content.json.h:393
+msgctxt "subtitle"
+msgid ""
+"Telling the foundational stories of the world’s many cultures, ancient and "
+"modern"
+msgstr ""
+
+#: content/Default/apps/content.json.h:394
+msgctxt "description"
+msgid ""
+"The stories of ancient cultures have had a massive impact on our current "
+"understanding of the world. While some myths are just that – stories we find"
+" fascinating and that help us understand our ancestors – others remain the "
+"basis for our modern religions and traditions. The app explores stories and "
+"beliefs from all over the world. From magic rituals to otherworldly "
+"creatures, myths provide us with entertainment, knowledge, and a glimpse "
+"into cultures of the past and present."
+msgstr ""
+
+#: content/Default/apps/content.json.h:395
+msgctxt "title"
+msgid "Biology"
+msgstr ""
+
+#: content/Default/apps/content.json.h:396
+msgctxt "subtitle"
+msgid "Taking you on a journey through the many facets of the living world"
+msgstr ""
+
+#: content/Default/apps/content.json.h:397
+msgctxt "description"
+msgid ""
+"Studying biology is an exciting pursuit, because it gives us an "
+"understanding of what it means to be a living creature. This app covers "
+"everything from cells and tiny organisms to plants and animals. You can use "
+"this textbook app to study many sub-disciplines of biology, or simply to "
+"gain a better understanding of the subject as a whole. Whether you want to "
+"know what mitochondria are or what types of reproduction exist in nature, "
+"let this app be your guide."
+msgstr ""
+
+#: content/Default/apps/content.json.h:398
+msgctxt "title"
+msgid "Social Sciences"
+msgstr ""
+
+#: content/Default/apps/content.json.h:399
+msgctxt "subtitle"
+msgid ""
+"A fascinating look at society that will help you understand yourself and "
+"your culture "
+msgstr ""
+
+#: content/Default/apps/content.json.h:400
+msgctxt "description"
+msgid ""
+"Human beings and the relationships and societies they form are complicated. "
+"This app will introduce you to many of the disciplines that examine human "
+"history, cultures, and interactions. You’ll have access to the basics of "
+"psychology, sociology, anthropology, political science, and more. "
+"Understanding the fundamentals of such disciplines will help you navigate "
+"the ways we interact and relate to each other. You’ll come away with a rich "
+"understanding of human behavior. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:401
+msgctxt "title"
+msgid "My Budget"
+msgstr ""
+
+#: content/Default/apps/content.json.h:402
+msgctxt "subtitle"
+msgid "The essential budgeting and financial literacy app for every household"
+msgstr ""
+
+#: content/Default/apps/content.json.h:403
+msgctxt "description"
+msgid ""
+"It can be challenging to keep track of your family’s finances, but it’s also"
+" extremely important. This app provides the resources you need to keep a "
+"budget and understand how you spend your money. Easy templates make "
+"budgeting a breeze, and tips about money management and wise spending will "
+"help you make good choices with your funds. Your family will benefit from an"
+" organized, clear, and carefully managed financial plan."
+msgstr ""
+
+#: content/Default/apps/content.json.h:404
+msgctxt "title"
+msgid "Physics"
+msgstr "Física"
+
+#: content/Default/apps/content.json.h:405
+msgctxt "subtitle"
+msgid ""
+"Access to the great mysteries of the physical world, and the knowledge to "
+"solve them"
+msgstr ""
+
+#: content/Default/apps/content.json.h:406
+msgctxt "description"
+msgid ""
+"The physics textbook app takes one of the most fascinating and challenging "
+"scientific disciplines and makes it simple and fun to learn. Whatever your "
+"level of understanding, you’ll find useful information presented in a format"
+" you can follow. The app includes exciting topics like mechanics, "
+"thermodynamics, electricity and magnetism, and even astrophysics. From the "
+"atoms to the stars, you’ll learn all about the world around you, and succeed"
+" in your physics education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:407
+msgctxt "title"
+msgid "GT Practical"
+msgstr ""
+
+#: content/Default/apps/content.json.h:408
+msgctxt "subtitle"
+msgid "Materiales Prácticos"
+msgstr ""
+
+#: content/Default/apps/content.json.h:409
+#: content/Default/apps/content.json.h:412
+#: content/Default/apps/content.json.h:415
+#: content/Default/apps/content.json.h:418
+#: content/Default/apps/content.json.h:421
+msgctxt "description"
+msgid "temp description"
+msgstr ""
+
+#: content/Default/apps/content.json.h:410
+msgctxt "title"
+msgid "GT Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:411
+msgctxt "subtitle"
+msgid "Colección Educativa Guatemala"
+msgstr ""
+
+#: content/Default/apps/content.json.h:413
+msgctxt "title"
+msgid "GT Textbooks"
+msgstr ""
+
+#: content/Default/apps/content.json.h:414
+msgctxt "subtitle"
+msgid "Libros de Texto"
+msgstr ""
+
+#: content/Default/apps/content.json.h:416
+msgctxt "title"
+msgid "GT Literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:417
+msgctxt "subtitle"
+msgid "Grandes Libros del Mundo"
+msgstr ""
+
+#: content/Default/apps/content.json.h:419
+msgctxt "title"
+msgid "GT Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:420
+msgctxt "subtitle"
+msgid "Guatemala Currículo Nacional Base"
+msgstr ""
+
+#: content/Default/apps/content.json.h:365
 msgctxt "description"
 msgid ""
 "Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are "
@@ -2440,7 +2759,7 @@ msgid ""
 "movable."
 msgstr "Este es un rompecabezas donde puedes mover las piezas por toda la pantalla para crear la imagen."
 
-#: content/Default/apps/content.json.h:354
+#: content/Default/apps/content.json.h:360
 msgctxt "description"
 msgid ""
 "Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics "
