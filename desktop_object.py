@@ -17,7 +17,6 @@ class DesktopObject(object):
         'Icon',
         'Categories',
         'MimeType',
-        'X-Endless-ShowInAppStore',
         'X-Endless-LaunchMaximized',
         'X-Endless-SplashBackground'
     ]
@@ -71,14 +70,6 @@ class DesktopObject(object):
                 return MIME_TYPES[id]
             else:
                 return None
-        elif key == 'X-Endless-ShowInAppStore':
-            # If the app has no categories, it shouldn't be listed in the app store
-            # Note: the strings must be all lower case,
-            # so we cannot simply return a boolean value
-            if self.get('Categories') == '':
-                return 'false'
-            else:
-                return 'true'
         elif key == 'Position':
             folder = self.get('Folder')
             index = self.get('Index')
