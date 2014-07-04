@@ -2116,7 +2116,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gnect",
+    "application-id":"four-in-a-row",
     "exec":"four-in-a-row",
     "tryexec":"",
     "title":"Four in a Row",
@@ -2127,14 +2127,14 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"gnect-icon.png",
-    "square_img":"gnect-thumb.jpg",
+    "icon":"four-in-a-row-icon.png",
+    "square_img":"four-in-a-row-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "gnect-screenshot1.jpg",
-        "gnect-screenshot2.jpg"
+        "four-in-a-row-screenshot1.jpg",
+        "four-in-a-row-screenshot2.jpg"
       ]
     },
     "is_featured":false,
