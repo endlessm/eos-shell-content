@@ -2170,7 +2170,7 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gnomine",
+    "application-id":"gnome-mines",
     "exec":"gnome-mines",
     "tryexec":"",
     "title":"Mines",
@@ -2181,14 +2181,14 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"gnomine-icon.png",
-    "square_img":"gnomine-thumb.jpg",
+    "icon":"gnome-mines-icon.png",
+    "square_img":"gnome-mines-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "gnomine-screenshot1.jpg",
-        "gnomine-screenshot2.jpg"
+        "gnome-mines-screenshot1.jpg",
+        "gnome-mines-screenshot2.jpg"
       ]
     },
     "is_featured":false,
