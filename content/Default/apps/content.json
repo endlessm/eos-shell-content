@@ -2362,7 +2362,7 @@
     ],
     "is_featured":false,
     "is_offline":false,
-    "category":"Utility"
+    "category":"Education"
   },
   {
     "displayShape":"b1",
@@ -3529,7 +3529,7 @@
   {
     "displayShape":"b1",
     "application-id":"ksame",
-    "exec":"klickety --geometry 1920x1080+0+0 --KSameMode -caption %c",
+    "exec":"ksame --geometry 1920x1080+0+0 --KSameMode -caption %c",
     "tryexec":"",
     "title":"KSame",
     "subtitle":"SameGame puzzle game",
@@ -3905,7 +3905,7 @@
     },
     "is_featured":false,
     "is_offline":false,
-    "category":"Utility"
+    "category":"Education"
   },
   {
     "displayShape":"b1",
