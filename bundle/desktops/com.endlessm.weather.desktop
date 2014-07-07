@@ -10,6 +10,5 @@ Type=Application
 Exec=eos-weather
 Icon=eos-app-com.endlessm.weather
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true
 X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.weather-splash.jpg

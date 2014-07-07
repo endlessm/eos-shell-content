@@ -10,5 +10,4 @@ Type=Application
 Exec=chromium-browser %U
 Icon=eos-app-chromium-browser
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

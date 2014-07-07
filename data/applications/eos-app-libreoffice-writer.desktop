@@ -10,5 +10,4 @@ Type=Application
 Exec=libreoffice --writer %U
 Icon=eos-app-libreoffice-writer
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

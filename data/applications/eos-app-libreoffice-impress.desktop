@@ -10,5 +10,4 @@ Type=Application
 Exec=libreoffice --impress %U
 Icon=eos-app-libreoffice-impress
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

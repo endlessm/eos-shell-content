@@ -8,5 +8,4 @@ Type=Application
 Exec=kstars -caption %c %i
 Icon=eos-app-kstars
 Categories=Education;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

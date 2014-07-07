@@ -6,4 +6,3 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.codecademy.com/en/' es:'chromium-browser http://www.codecademy.com/es/' pt:'chromium-browser http://www.codecademy.com/pt/' 
 Icon=eos-link-codeacademy
 Categories=Education;Health;
-X-Endless-ShowInAppStore=true

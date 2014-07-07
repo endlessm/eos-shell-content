@@ -8,5 +8,4 @@ Type=Application
 Exec=ksudoku %i -caption %c
 Icon=eos-app-ksudoku
 Categories=Leisure;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

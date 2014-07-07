@@ -8,5 +8,4 @@ Type=Application
 Exec=ktron --geometry 1920x1080+0+0 -snake -caption %c %i
 Icon=eos-app-kdesnake
 Categories=Leisure;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

@@ -8,5 +8,4 @@ Type=Application
 Exec=khangman -caption %c %i
 Icon=eos-app-khangman
 Categories=Education;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true
