@@ -9,5 +9,4 @@ Type=Application
 Exec=gnome-screenshot --interactive
 Icon=eos-app-gnome-screenshot
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=false

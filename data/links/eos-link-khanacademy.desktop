@@ -8,4 +8,3 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.khanacademy.org/' pt:'chromium-browser http://pt.khanacademy.org/' 
 Icon=eos-link-khanacademy
 Categories=Education;Health;
-X-Endless-ShowInAppStore=true

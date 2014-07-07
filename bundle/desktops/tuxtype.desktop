@@ -11,5 +11,4 @@ Exec=eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tu
 TryExec=tuxtype
 Icon=eos-app-tuxtype
 Categories=Education;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

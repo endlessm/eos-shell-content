@@ -10,5 +10,4 @@ Type=Application
 Exec=libreoffice --calc %U
 Icon=eos-app-libreoffice-calc
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

@@ -6,4 +6,3 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.cnn.com/' es:'chromium-browser http://cnnespanol.cnn.com/' 
 Icon=eos-link-cnn
 Categories=News;
-X-Endless-ShowInAppStore=true

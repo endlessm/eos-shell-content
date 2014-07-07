@@ -8,5 +8,4 @@ Type=Application
 Exec=ktron -caption %c %i
 Icon=eos-app-ktron
 Categories=Leisure;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true

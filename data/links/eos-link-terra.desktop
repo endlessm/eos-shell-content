@@ -6,4 +6,3 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.terra.com.br/portal/' pt:'chromium-browser http://www.terra.com.br/' 
 Icon=eos-link-terra
 Categories=News;
-X-Endless-ShowInAppStore=true

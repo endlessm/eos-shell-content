@@ -6,4 +6,3 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser https://www.duolingo.com/' es:'chromium-browser https://www.duolingo.com/es/' pt:'chromium-browser https://www.duolingo.com/pt/' 
 Icon=eos-link-duolingo
 Categories=Education;Health;
-X-Endless-ShowInAppStore=true

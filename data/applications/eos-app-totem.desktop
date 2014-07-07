@@ -11,5 +11,4 @@ Exec=sh -c "totem --pause `xdg-user-dir VIDEOS`"
 TryExec=totem
 Icon=eos-app-totem
 Categories=Utility;
-X-Endless-ShowInAppStore=true
 X-Endless-LaunchMaximized=true
