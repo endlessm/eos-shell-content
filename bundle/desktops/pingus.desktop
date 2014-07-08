@@ -10,5 +10,5 @@ Type=Application
 Exec=sh -c "pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`"
 TryExec=pingus
 Icon=eos-app-pingus
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true

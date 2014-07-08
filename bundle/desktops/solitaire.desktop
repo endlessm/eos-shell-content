@@ -9,5 +9,5 @@ Comment[pt]=O clássico jogo de cartas para um jogador
 Type=Application
 Exec=sol --class=solitaire --variation=klondike
 Icon=eos-app-solitaire
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true
