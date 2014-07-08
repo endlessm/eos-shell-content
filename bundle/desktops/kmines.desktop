@@ -7,5 +7,5 @@ Comment[es]=Evita las minas para ganar en este juego adictivo
 Type=Application
 Exec=kmines -caption %c
 Icon=eos-app-kmines
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true

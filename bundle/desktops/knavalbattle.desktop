@@ -5,5 +5,5 @@ Comment=Battleship board game
 Type=Application
 Exec=knavalbattle -caption %c %U
 Icon=eos-app-knavalbattle
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true

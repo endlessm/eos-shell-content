@@ -7,5 +7,5 @@ Comment[es]=Juego clásico de acción con una serpiente
 Type=Application
 Exec=ktron --geometry 1920x1080+0+0 -snake -caption %c %i
 Icon=eos-app-kdesnake
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true

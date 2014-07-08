@@ -7,5 +7,5 @@ Comment[es]=Juego de Sudoku
 Type=Application
 Exec=ksudoku %i -caption %c
 Icon=eos-app-ksudoku
-Categories=Leisure;
+Categories=Games;
 X-Endless-LaunchMaximized=true
