@@ -65,33 +65,33 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"com.endlessm.khanacademy",
-    "exec":"eos-khanacademy",
+    "application-id":"com.endlessm.virtual-school",
+    "exec":"eos-virtual-school",
     "tryexec":"",
-    "title":"Khan Academy",
+    "title":"Virtual School",
     "subtitle":"Learn about math, computers, economics, science, medicine, finance, history, and more, for free",
     "description":"A whole world of learning is at your fingertips with the Khan Academy app. One of the greatest educational resources out there, Khan Academy, offers online video courses in a vast variety of content areas, including math, biology, chemistry, and physics. These exciting videos give you access to fascinating content, and help you learn more than just your classroom's education. The videos are free, easy to access, and provide learning opportunities that are sure to expand your mind.",
     "personalities":[
       "All"
     ],
     "splash-screen-type":"Default",
-    "custom-splash-screen":"com.endlessm.khanacademy-splash.jpg",
-    "icon":"com.endlessm.khanacademy-icon.png",
-    "square_img":"com.endlessm.khanacademy-thumb.jpg",
+    "custom-splash-screen":"com.endlessm.virtual-school-splash.jpg",
+    "icon":"com.endlessm.virtual-school-icon.png",
+    "square_img":"com.endlessm.virtual-school-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":{
       "C":[
-        "com.endlessm.khanacademy-screenshot1.jpg",
-        "com.endlessm.khanacademy-screenshot2.jpg"
+        "com.endlessm.virtual-school-screenshot1.jpg",
+        "com.endlessm.virtual-school-screenshot2.jpg"
       ],
       "pt":[
-        "com.endlessm.khanacademy-screenshot1.jpg",
-        "com.endlessm.khanacademy-screenshot2.jpg"
+        "com.endlessm.virtual-school-screenshot1.jpg",
+        "com.endlessm.virtual-school-screenshot2.jpg"
       ],
       "es":[
-        "com.endlessm.khanacademy-screenshot1.jpg",
-        "com.endlessm.khanacademy-screenshot2.jpg"
+        "com.endlessm.virtual-school-screenshot1.jpg",
+        "com.endlessm.virtual-school-screenshot2.jpg"
       ]
     },
     "is_featured":true,
