@@ -3,6 +3,6 @@ Version=1.0
 Name=Duolingo
 Comment=Learn a new language
 Type=Application
-Exec=eos-exec-localized 'chromium-browser https://www.duolingo.com/' es:'chromium-browser https://www.duolingo.com/es/' pt:'chromium-browser https://www.duolingo.com/pt/' 
+Exec=chromium-browser https://www.duolingo.com/
 Icon=eos-link-duolingo
 Categories=Education;Health;
