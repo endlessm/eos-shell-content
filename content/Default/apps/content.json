@@ -1667,44 +1667,6 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"com.endlessm.science",
-    "exec":"eos-science",
-    "tryexec":"",
-    "title":"Science",
-    "subtitle":"Discover more about the world around you, from dinosaurs to outer space",
-    "description":"Are you someone who always wants to know how things work? Do you ask \u201cwhy\u201d and \u201chow\u201d often in everyday life? Then this application is for you. This fun and informative app will help you answer many of the questions you have about the universe\u2019s wonders, and covers amazing topics like physics, earth sciences, and life sciences. From the origins of the dinosaurs to the mysteries of outer space, there\u2019s so much to learn and share! This app will help you on your road to scientific discovery.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Custom",
-    "custom-splash-screen":"com.endlessm.science-splash.jpg",
-    "icon":"com.endlessm.science-icon.png",
-    "square_img":"com.endlessm.science-thumb.jpg",
-    "featured_img":"",
-    "core":false,
-    "screenshots":{
-      "C":[
-        "com.endlessm.science-screenshot1.jpg",
-        "com.endlessm.science-screenshot2.jpg",
-        "com.endlessm.science-screenshot3.jpg"
-      ],
-      "pt":[
-        "com.endlessm.science-screenshot1.jpg",
-        "com.endlessm.science-screenshot2.jpg",
-        "com.endlessm.science-screenshot3.jpg"
-      ],
-      "es":[
-        "com.endlessm.science-screenshot1.jpg",
-        "com.endlessm.science-screenshot2.jpg",
-        "com.endlessm.science-screenshot3.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
-  },
-  {
-    "displayShape":"b1",
     "application-id":"com.endlessm.futbol",
     "exec":"eos-futbol",
     "tryexec":"",
@@ -3400,38 +3362,6 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"klickety",
-    "exec":"klickety -caption %c",
-    "tryexec":"",
-    "title":"Klickety",
-    "subtitle":"Adaptation of Clickomania",
-    "description":"Klickety is an adaptation of the Clickomania game. The rules are similar to those of the KSame game: your goal is to clear the board by clicking on groups to destroy them. The overall aim is to get the lowest score possible. It will provide entertainment for all abilities, but a challenge in logical thought if you want to get a really low score.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"klickety-icon.png",
-    "square_img":"klickety-thumb.jpg",
-    "featured_img":"",
-    "core":false,
-    "screenshots":{
-      "C":[
-        "klickety-screenshot1.jpg"
-      ],
-      "pt":[
-        "klickety-screenshot1.jpg"
-      ],
-      "es":[
-        "klickety-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Games"
-  },
-  {
-    "displayShape":"b1",
     "application-id":"kmines",
     "exec":"kmines -caption %c",
     "tryexec":"",
@@ -3653,38 +3583,6 @@
     "is_featured":false,
     "is_offline":false,
     "category":"Games"
-  },
-  {
-    "displayShape":"b1",
-    "application-id":"kstars",
-    "exec":"kstars -caption %c %i",
-    "tryexec":"",
-    "title":"KStars",
-    "subtitle":"Desktop planetarium for KDE",
-    "description":"KStars is a desktop planetarium for KDE, depicting an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes 130,000 stars, 13,000 deep-sky objects, all 8 planets, the Sun and Moon, and thousands of comets and asteroids. It includes tools for astronomical calculations and can control telescopes and cameras.",
-    "personalities":[
-      "All"
-    ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
-    "icon":"kstars-icon.png",
-    "square_img":"kstars-thumb.jpg",
-    "featured_img":"",
-    "core":false,
-    "screenshots":{
-      "C":[
-        "kstars-screenshot1.jpg"
-      ],
-      "pt":[
-        "kstars-screenshot1.jpg"
-      ],
-      "es":[
-        "kstars-screenshot1.jpg"
-      ]
-    },
-    "is_featured":false,
-    "is_offline":false,
-    "category":"Education"
   },
   {
     "displayShape":"b1",
@@ -4141,10 +4039,10 @@
   },
   {
     "displayShape":"b1",
-    "application-id":"gt-practical",
-    "exec":"gt-practical",
+    "application-id":"gt-health",
+    "exec":"gt-health",
     "tryexec":"",
-    "title":"GT Practical",
+    "title":"Health Guides",
     "subtitle":"Materiales Pr\u00e1cticos",
     "description":"temp description",
     "personalities":[
@@ -4152,8 +4050,8 @@
     ],
     "splash-screen-type":"Default",
     "custom-splash-screen":"",
-    "icon":"gt-practical-icon.png",
-    "square_img":"gt-practical-thumb.jpg",
+    "icon":"gt-health-icon.png",
+    "square_img":"gt-health-thumb.jpg",
     "featured_img":"",
     "core":false,
     "screenshots":[
