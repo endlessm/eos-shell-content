@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
     # Open the output csv writer
     with open(CONTENT_CSV, 'w', newline='') as out_file:
-        csv_writer = csv.writer(out_file)
+        csv_writer = csv.writer(out_file, lineterminator='\n')
 
         # Read and parse the two-row header
         header1 = csv_reader.__next__()
