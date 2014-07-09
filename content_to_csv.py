@@ -5,9 +5,9 @@
 # (sudo apt-get install python3-polib)
 
 # To use this script, export spreadsheet from master content doc
-# and save in this folder as input.csv
-# Run this script to generate content.csv
-# Note that the original order input.csv is maintained,
+# and save in this folder as content.csv
+# Run this script to process and update content.csv
+# Note that the original row order is maintained,
 # and any new apps added are at the bottom of content.csv
 # Add and commit any changes to git
 # Merge changes into master content doc
@@ -18,8 +18,7 @@ import os
 import polib
 
 CONTENT_JSON = 'content/Default/apps/content.json'
-INPUT_CSV = 'input.csv'
-OUTPUT_CSV = 'content.csv'
+CONTENT_CSV = 'content.csv'
 PO_DIR = 'po'
 LANGS = {'en': 'GLOBAL',
          'es': 'SPANISH',
@@ -31,11 +30,13 @@ if __name__ == '__main__':
     with open(CONTENT_JSON) as json_file:
         json_data = json.load(json_file)
 
-    # Open the input csv reader and output csv writer
-    with open(INPUT_CSV, newline='') as in_file, \
-         open(OUTPUT_CSV, 'w', newline='') as out_file:
+    # Open the input csv reader
+    with open(CONTENT_CSV, newline='') as in_file:
+        in_lines = in_file.readlines()
+    csv_reader = csv.reader(in_lines)
 
-        csv_reader = csv.reader(in_file)
+    # Open the output csv writer
+    with open(CONTENT_CSV, 'w', newline='') as out_file:
         csv_writer = csv.writer(out_file)
 
         # Read and parse the two-row header
