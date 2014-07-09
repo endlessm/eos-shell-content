@@ -45,9 +45,6 @@ if __name__ == '__main__':
         for lang in LANGS:
             lang_idx[lang] = header1.index(LANGS[lang])
         appid_idx = header2.index('App Id')
-        desktopid_idx = header2.index('Desktop Id')
-        exec_idx = header2.index('Exec')
-        tryexec_idx = header2.index('Try Exec')
         origname_idx = header2.index('Original Name')
         num_cols = len(header2)
         empty_row = [''] * num_cols
@@ -61,9 +58,6 @@ if __name__ == '__main__':
 
         def populate_row(csv_row, json_row):
             csv_row[appid_idx] = json_row['application-id']
-            csv_row[desktopid_idx] = json_row['desktop-id']
-            csv_row[exec_idx] = json_row['exec']
-            csv_row[tryexec_idx] = json_row['tryexec']
             en_title = json_row['title']
             en_subtitle = json_row['subtitle']
             en_description = json_row['description']
