@@ -3,6 +3,6 @@ Version=1.0
 Name=Google Books
 Comment=Preview books from libraries and publishers worldwide
 Type=Application
-Exec=chromium-browser http://books.google.com/
+Exec=eos-exec-localized 'chromium-browser http://books.google.com/' es:'chromium-browser http://books.google.es/' 
 Icon=eos-link-googlebooks
 Categories=Entertainment;

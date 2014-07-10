@@ -3,6 +3,6 @@ Version=1.0
 Name=World Wonders
 Comment=Bring to life the wonders of the modern and ancient world
 Type=Application
-Exec=chromium-browser http://www.google.com/culturalinstitute/project/world-wonders
+Exec=eos-exec-localized 'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders' es:'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders?hl=es-419' 
 Icon=eos-link-worldwonders
 Categories=Education;Health;

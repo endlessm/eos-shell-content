@@ -3,6 +3,6 @@ Version=1.0
 Name=TeColoco
 Comment=Bolsa de Empleo
 Type=Application
-Exec=chromium-browser http://www.tecoloco.com.gt/
+Exec=chromium-browser http://www.tecoloco.com.gt
 Icon=eos-link-tecoloco
 Categories=Education;Health;

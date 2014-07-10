@@ -3,6 +3,6 @@ Version=1.0
 Name=Google
 Comment=Search the world's information
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.google.com/' es:'chromium-browser https://www.google.com/' pt:'chromium-browser https://www.google.com/' 
+Exec=eos-exec-localized 'chromium-browser http://www.google.com/' es:'chromium-browser https://www.google.com.gt/?gws_rd=ssl' pt:'chromium-browser https://www.google.com/' 
 Icon=eos-link-google
 Categories=Entertainment;
