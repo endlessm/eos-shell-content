@@ -74,7 +74,7 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
+    "splash-screen-type":"Custom",
     "custom-splash-screen":"com.endlessm.virtual-school-splash.jpg",
     "icon":"com.endlessm.virtual-school-icon.png",
     "square_img":"com.endlessm.virtual-school-thumb.jpg",
@@ -900,8 +900,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"shotwell-splash.jpg",
     "icon":"shotwell-icon.png",
     "square_img":"shotwell-thumb.jpg",
     "featured_img":"",
@@ -1638,8 +1638,8 @@
       "Global",
       "Guatemala"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.guatemala-splash.jpg",
     "icon":"com.endlessm.guatemala-icon.png",
     "square_img":"com.endlessm.guatemala-thumb.jpg",
     "featured_img":"",
@@ -1676,8 +1676,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.futbol-splash.jpg",
     "icon":"com.endlessm.futbol-icon.png",
     "square_img":"com.endlessm.futbol-thumb.jpg",
     "featured_img":"",
@@ -1714,8 +1714,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.celebrities-splash.jpg",
     "icon":"com.endlessm.celebrities-icon.png",
     "square_img":"com.endlessm.celebrities-thumb.jpg",
     "featured_img":"",
@@ -1780,7 +1780,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2h",
     "application-id":"com.endlessm.cooking",
     "exec":"eos-cooking",
     "tryexec":"",
@@ -1794,7 +1794,7 @@
     "custom-splash-screen":"com.endlessm.cooking-splash.jpg",
     "icon":"com.endlessm.cooking-icon.png",
     "square_img":"com.endlessm.cooking-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.cooking-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
@@ -1818,21 +1818,21 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2v",
     "application-id":"com.endlessm.travel",
     "exec":"eos-travel",
     "tryexec":"",
-    "title":"Travel",
+    "title":"Places",
     "subtitle":"Explore the sites of the world from your own living room",
     "description":"The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.travel-splash.jpg",
     "icon":"com.endlessm.travel-icon.png",
     "square_img":"com.endlessm.travel-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.travel-featured.jpg",
     "core":false,
     "screenshots":{
       "C":[
@@ -2289,8 +2289,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.math-splash.jpg",
     "icon":"com.endlessm.math-icon.png",
     "square_img":"com.endlessm.math-thumb.jpg",
     "featured_img":"",
@@ -2313,8 +2313,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.farming-splash.jpg",
     "icon":"com.endlessm.farming-icon.png",
     "square_img":"com.endlessm.farming-thumb.jpg",
     "featured_img":"",
@@ -2337,8 +2337,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.geography-splash.jpg",
     "icon":"com.endlessm.geography-icon.png",
     "square_img":"com.endlessm.geography-thumb.jpg",
     "featured_img":"",
@@ -3790,8 +3790,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.howto-splash.jpg",
     "icon":"com.endlessm.howto-icon.png",
     "square_img":"com.endlessm.howto-thumb.jpg",
     "featured_img":"",
@@ -3806,7 +3806,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2h",
     "application-id":"com.endlessm.astronomy",
     "exec":"eos-astronomy",
     "tryexec":"",
@@ -3816,11 +3816,11 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.astronomy-splash.jpg",
     "icon":"com.endlessm.astronomy-icon.png",
     "square_img":"com.endlessm.astronomy-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.astronomy-featured.jpg",
     "core":false,
     "screenshots":[
       
@@ -3830,7 +3830,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2h",
     "application-id":"com.endlessm.history",
     "exec":"eos-history",
     "tryexec":"",
@@ -3840,11 +3840,11 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.history-splash.jpg",
     "icon":"com.endlessm.history-icon.png",
     "square_img":"com.endlessm.history-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.history-featured.jpg",
     "core":false,
     "screenshots":{
       "es":[
@@ -3856,7 +3856,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2h",
     "application-id":"com.endlessm.animals",
     "exec":"eos-animals",
     "tryexec":"",
@@ -3866,11 +3866,11 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.animals-splash.jpg",
     "icon":"com.endlessm.animals-icon.png",
     "square_img":"com.endlessm.animals-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.animals-featured.jpg",
     "core":false,
     "screenshots":{
       "es":[
@@ -3892,8 +3892,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.dinosaurs-splash.jpg",
     "icon":"com.endlessm.dinosaurs-icon.png",
     "square_img":"com.endlessm.dinosaurs-thumb.jpg",
     "featured_img":"",
@@ -3918,8 +3918,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.myths-splash.jpg",
     "icon":"com.endlessm.myths-icon.png",
     "square_img":"com.endlessm.myths-thumb.jpg",
     "featured_img":"",
@@ -3934,7 +3934,7 @@
     "category":"Education"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2v",
     "application-id":"com.endlessm.biology",
     "exec":"eos-biology",
     "tryexec":"",
@@ -3944,11 +3944,11 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.biology-splash.jpg",
     "icon":"com.endlessm.biology-icon.png",
     "square_img":"com.endlessm.biology-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.biology-featured.jpg",
     "core":false,
     "screenshots":{
       "es":[
@@ -3970,8 +3970,8 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.socialsciences-splash.jpg",
     "icon":"com.endlessm.socialsciences-icon.png",
     "square_img":"com.endlessm.socialsciences-thumb.jpg",
     "featured_img":"",
@@ -4012,7 +4012,7 @@
     "category":"Resources"
   },
   {
-    "displayShape":"b1",
+    "displayShape":"b2v",
     "application-id":"com.endlessm.physics",
     "exec":"eos-physics",
     "tryexec":"",
@@ -4022,11 +4022,11 @@
     "personalities":[
       "All"
     ],
-    "splash-screen-type":"Default",
-    "custom-splash-screen":"",
+    "splash-screen-type":"Custom",
+    "custom-splash-screen":"com.endlessm.physics-splash.jpg",
     "icon":"com.endlessm.physics-icon.png",
     "square_img":"com.endlessm.physics-thumb.jpg",
-    "featured_img":"",
+    "featured_img":"com.endlessm.physics-featured.jpg",
     "core":false,
     "screenshots":{
       "es":[

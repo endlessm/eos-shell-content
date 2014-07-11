@@ -1,8 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Travel
-Name[es]=Tu Mundo
-Name[pt]=Viagem
+Name=Places
 Comment=Explore the sites of the world from your own living room
 Comment[es]=Explora varios lugares del mundo desde tu propia sala
 Comment[pt]=Explore sites online de todo o mundo direto da sua sala-de-estar
@@ -11,3 +9,4 @@ Exec=eos-travel
 Icon=eos-app-com.endlessm.travel
 Categories=Education;
 X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.travel-splash.jpg
