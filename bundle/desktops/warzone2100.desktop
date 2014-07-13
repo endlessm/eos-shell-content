@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Warzone 2100
-Comment=3D real time strategy game
-Comment[es]=Juego de estrategia en tiempo real y en tres dimensiones
+Name[es]=Warzone 2100
+Comment=Lead your troops to rebuild the world
+Comment[es]=Dirige a tus tropas para reconstruir el mundo
 Type=Application
 Exec=warzone2100 --fullscreen
 Icon=eos-app-warzone2100

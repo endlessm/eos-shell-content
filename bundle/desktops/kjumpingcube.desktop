@@ -2,8 +2,8 @@
 Version=1.0
 Name=KJumpingCube
 Name[es]=CuboSaltador
-Comment=Simple tactical game
-Comment[es]=Juego táctico y simple
+Comment=Develop a good strategy to conquer all the squares
+Comment[es]=Conquista todas las plazas
 Type=Application
 Exec=kjumpingcube -caption %c
 Icon=eos-app-kjumpingcube

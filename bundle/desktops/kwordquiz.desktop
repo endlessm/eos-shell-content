@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KWordQuiz
-Name[es]=VocaTarjetas
-Comment=Flashcard learning program
-Comment[es]=Programa para aprender usando tarjetas virtuales
+Name[es]=Vocabulario
+Comment=Grow your vocabulary and test your learning
+Comment[es]=Aprende usando tarjetas virtuales
 Type=Application
 Exec=kwordquiz -caption %c %i
 Icon=eos-app-kwordquiz

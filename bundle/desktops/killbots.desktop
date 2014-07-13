@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Killbots
-Name[es]=BotsAsesinos
-Comment=Port of the classic BSD console game robots
-Comment[es]=Un juego de robots asesinos
+Name[es]=Killbots
+Comment=Outsmart the killer robots to win
+Comment[es]=Escápate de los robots asesinos que te persiguen
 Type=Application
 Exec=killbots -caption %c
 Icon=eos-app-killbots

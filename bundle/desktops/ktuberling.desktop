@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Potato Guy
-Name[es]=Sr. Patata
-Comment=Stamp drawing toy
-Comment[es]=Juego para dibujar y usar estampillas
+Name[es]=Cara de Papa
+Comment=Give your potato a funny face
+Comment[es]=Dale una cara graciosa a tu patata
 Type=Application
 Exec=ktuberling -caption %c %u
 Icon=eos-app-ktuberling

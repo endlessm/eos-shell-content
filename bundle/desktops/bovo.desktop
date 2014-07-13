@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=Bovo
+Name=Five in a Row
 Name[es]=Cinco
-Comment=Gomoku (five in line) board game
-Comment[es]=Un juego de mesa virtual
+Comment=Five in a row wins you the game
+Comment[es]=Poner cinco en una fila te ganará el juego
 Type=Application
 Exec=bovo -caption %c
 Icon=eos-app-bovo

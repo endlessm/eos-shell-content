@@ -2,8 +2,8 @@
 Version=1.0
 Name=KNetwalk
 Name[es]=Cables
-Comment=Wire puzzle game
-Comment[es]=Cables y rompecabezas
+Comment=Make the right cable connections and win
+Comment[es]=Haz las conexiones correctas para ganar
 Type=Application
 Exec=knetwalk -caption %c
 Icon=eos-app-knetwalk

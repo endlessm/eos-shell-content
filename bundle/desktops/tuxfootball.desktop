@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Tux Football
-Comment=Great 2D soccer (sometimes called football) game
-Comment[es]=Juego muy bueno de fútbol en dos dimensiones
+Name[es]=Tux Football
+Comment=A fun soccer game starring Tux the penguin
+Comment[es]=Juega fútbol con Tux el pingüino
 Type=Application
 Exec=tuxfootball -fs
 Icon=eos-app-tuxfootball

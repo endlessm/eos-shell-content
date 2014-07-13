@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
 Name=Virtual School
-Comment=Learn about math, computers, economics, science, medicine, finance, history, and more, for free
-Comment[es]=Aprende acerca de las matemáticas, el arte, la programación, la economía, la biología, la historia, y mucho más - y todo por gratis
+Name[es]=Escuela Virtual
+Name[pt]=Khan Academy
+Comment=Free educational videos on almost any subject
+Comment[es]=Video cursos para ayudarte a entender materias difíciles
 Comment[pt]=Saiba mais sobre matemática, computadores, economia, ciência, medicina, finanças, história e muito mais, gratuitamente.
 Type=Application
 Exec=eos-virtual-school

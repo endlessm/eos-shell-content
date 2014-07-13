@@ -2,7 +2,7 @@
 Version=1.0
 Name=Kigo
 Name[es]=Go
-Comment=Go game
+Comment=The ancient game of skill, updated for modern play
 Comment[es]=Un juego vigorizante
 Type=Application
 Exec=kigo %i -caption %c

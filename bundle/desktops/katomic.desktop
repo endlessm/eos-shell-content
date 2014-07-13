@@ -2,8 +2,8 @@
 Version=1.0
 Name=KAtomic
 Name[es]=Átomos
-Comment=Atomix puzzle game
-Comment[es]=Aprende sobre átomos y moléculas con este juego increíble 
+Comment=A fun way to learn chemistry
+Comment[es]=Una manera divertida de aprender química
 Type=Application
 Exec=katomic -caption %c
 Icon=eos-app-katomic

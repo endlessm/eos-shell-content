@@ -2,8 +2,8 @@
 Version=1.0
 Name=KBlackBox
 Name[es]=CajaNegra
-Comment=Black Box puzzle game
-Comment[es]=Un rompecabezas divertidísimo 
+Comment=Find the pattern and uncover the hidden balls
+Comment[es]=Encuentra a las esferas ocultas
 Type=Application
 Exec=kblackbox -caption %c
 Icon=eos-app-kblackbox

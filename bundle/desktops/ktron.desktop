@@ -2,8 +2,8 @@
 Version=1.0
 Name=KSnakeDuel
 Name[es]=DueloSSS
-Comment=Tron-like snakerace game
-Comment[es]=Un juego de arcade tipo Tron 
+Comment=Survival depends on your reflexes and wits
+Comment[es]=La supervivencia depende de tus reflejos e ingenio
 Type=Application
 Exec=ktron -caption %c %i
 Icon=eos-app-ktron

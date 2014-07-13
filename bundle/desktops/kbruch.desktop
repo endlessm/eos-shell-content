@@ -2,8 +2,8 @@
 Version=1.0
 Name=KBruch
 Name[es]=Fracciones
-Comment=Fraction learning aid for KDE
-Comment[es]=Ayuda para aprender sobre las fracciones
+Comment=Learn about fractions, percentages and more
+Comment[es]=Aprende sobre fracciones, porcentajes y más
 Type=Application
 Exec=kbruch -caption %c %i
 Icon=eos-app-kbruch

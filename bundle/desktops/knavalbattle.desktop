@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=KNavalbattle
-Comment=Battleship board game
+Name=Battleships
+Name[es]=Batalla Naval
+Comment=Blow your opponents out of the water
+Comment[es]=Elimina a tus adversarios con tu barco de guerra
 Type=Application
 Exec=knavalbattle -caption %c %U
 Icon=eos-app-knavalbattle
