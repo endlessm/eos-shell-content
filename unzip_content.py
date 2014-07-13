@@ -18,6 +18,7 @@
 # Proceed with the normal build process
 
 import json
+import operator
 import os
 import shutil
 import sys
@@ -110,6 +111,15 @@ if __name__ == '__main__':
         outfile.write(line)
     infile.close()
     outfile.close()
+
+    # Re-write the JSON file sorted alphabetically by id
+    # and with keys sorted so that application-id is first
+    # (for convenience in manually reviewing the file)
+    with open(target) as infile:
+        json_data = json.load(infile)
+    sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
+    with open(target, 'w') as outfile:
+        json.dump(sorted_json, outfile, indent=2, sort_keys=True)
 
     # Copy the thumbnail images to the content folder
     # with tweaked compression
