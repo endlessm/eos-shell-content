@@ -1,8 +1,6 @@
 [Desktop Entry]
 Version=1.0
 Name=Khan Academy
-Name[es]=Khan Academy
-Name[pt]=Khan Academy
 Comment=Educational videos
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.khanacademy.org/' pt:'chromium-browser http://pt.khanacademy.org/' 

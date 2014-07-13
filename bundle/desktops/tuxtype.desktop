@@ -10,5 +10,5 @@ Type=Application
 Exec=eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'
 TryExec=tuxtype
 Icon=eos-app-tuxtype
-Categories=Education;
+Categories=Games;
 X-Endless-LaunchMaximized=true

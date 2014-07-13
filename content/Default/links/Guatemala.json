@@ -3,6 +3,20 @@
     "category":"News",
     "links":[
       {
+        "linkId":"canalantigua",
+        "linkName":"Canal Antigua",
+        "linkSubtitle":"Noticias sobre Antigua",
+        "linkUrl":"http:\/\/www.canalantigua.com\/",
+        "linkFolder":"none",
+        "linkDesktopPosition":null,
+        "linkRegion":"Guatemala",
+        "linkCategory":"News",
+        "linkThumbSize":"Horizontal rectangle",
+        "linkIcon":"icons\/",
+        "linkThumb":"thumbs\/",
+        "linkSmall":"images\/canalantigua.jpg"
+      },
+      {
         "linkId":"lahora",
         "linkName":"Diario La Hora",
         "linkSubtitle":"Portal de Noticias",
@@ -33,7 +47,7 @@
       {
         "linkId":"emisoraunidas",
         "linkName":"Emisoras Unidas",
-        "linkSubtitle":"Primera en Noticias",
+        "linkSubtitle":"Portal de noticias ",
         "linkUrl":"http:\/\/noticias.emisorasunidas.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -47,7 +61,7 @@
       {
         "linkId":"prensalibre",
         "linkName":"Prensa Libre",
-        "linkSubtitle":"Prensa Libre",
+        "linkSubtitle":"Peri\u00f3dico de Guatemala",
         "linkUrl":"http:\/\/www.prensalibre.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -61,7 +75,7 @@
       {
         "linkId":"sigloveintiuno",
         "linkName":"Siglo Veintiuno",
-        "linkSubtitle":"Portal Noticioso",
+        "linkSubtitle":"Portal de noticias",
         "linkUrl":"http:\/\/s21.com.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -103,7 +117,7 @@
       {
         "linkId":"univision",
         "linkName":"Univision",
-        "linkSubtitle":"Entretenimiento y Noticias",
+        "linkSubtitle":"Entretenimiento y noticias",
         "linkUrl":"http:\/\/noticias.univision.com\/america-latina\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -117,7 +131,7 @@
       {
         "linkId":"cnn",
         "linkName":"CNN",
-        "linkSubtitle":"Portal de Noticias",
+        "linkSubtitle":"Portal de noticias",
         "linkUrl":"http:\/\/cnnespanol.cnn.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -149,8 +163,8 @@
     "links":[
       {
         "linkId":"clubdefutbolcomunicaciones",
-        "linkName":"Club de Futbol Comunicaciones",
-        "linkSubtitle":"FanSite Oficial",
+        "linkName":"Camerino Crema",
+        "linkSubtitle":"Portal oficial de comunicaciones",
         "linkUrl":"http:\/\/camerinocrema.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -164,7 +178,7 @@
       {
         "linkId":"uefa",
         "linkName":"UEFA",
-        "linkSubtitle":"UEFA en Espa\u00f1ol",
+        "linkSubtitle":"Portal oficial",
         "linkUrl":"http:\/\/es.uefa.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -192,9 +206,9 @@
       {
         "linkId":"futboldeguatemala",
         "linkName":"Futbol de Guatemala",
-        "linkSubtitle":"El Portal del Futbol",
+        "linkSubtitle":"Portal de f\u00fatbol gatemalteco",
         "linkUrl":"http:\/\/www.guatefutbol.com\/",
-        "linkFolder":"",
+        "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
         "linkCategory":"Sports",
@@ -206,7 +220,7 @@
       {
         "linkId":"foxsports",
         "linkName":"FOX Sports",
-        "linkSubtitle":"Noticias de Deportes",
+        "linkSubtitle":"Noticias de deportes",
         "linkUrl":"http:\/\/www.foxsportsla.com\/gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -220,7 +234,7 @@
       {
         "linkId":"fifa",
         "linkName":"FIFA",
-        "linkSubtitle":"Portal Oficial",
+        "linkSubtitle":"Portal oficial",
         "linkUrl":"http:\/\/es.fifa.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -262,7 +276,7 @@
       {
         "linkId":"csdmunicipal",
         "linkName":"CSD Municipal",
-        "linkSubtitle":"P\u00e1gina Oficial del Club",
+        "linkSubtitle":"P\u00e1gina oficial del club",
         "linkUrl":"http:\/\/rojos.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -276,7 +290,7 @@
       {
         "linkId":"xelajumc",
         "linkName":"Xelaju MC",
-        "linkSubtitle":"Club de Futbol Xelaju",
+        "linkSubtitle":"P\u00e1gina de Facebook para fan\u00e1ticos",
         "linkUrl":"http:\/\/www.mixelajumc.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -290,9 +304,9 @@
       {
         "linkId":"deportivomarquense",
         "linkName":"Deportivo Marquense",
-        "linkSubtitle":"Club de Futbol Marquense",
-        "linkUrl":"http:\/\/www.deportivomarquense.com\/",
-        "linkFolder":"",
+        "linkSubtitle":"P\u00e1gina de Facebook para fan\u00e1ticos",
+        "linkUrl":"https:\/\/www.facebook.com\/CSDMarquense\/timeline",
+        "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
         "linkCategory":"Sports",
@@ -318,7 +332,7 @@
       {
         "linkId":"deportivocoatepeque",
         "linkName":"Deportivo Coatepeque",
-        "linkSubtitle":"Club de Futbol Coatepeque",
+        "linkSubtitle":"P\u00e1gina de Facebook para fan\u00e1ticos del Club Coatepeque",
         "linkUrl":"https:\/\/www.facebook.com\/pages\/El-Deportivo-Coatepeque\/481757185171839\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -332,7 +346,7 @@
       {
         "linkId":"deportivoiztapa",
         "linkName":"Deportivo Iztapa",
-        "linkSubtitle":"Club de Futbol",
+        "linkSubtitle":"P\u00e1gina de Facebook para fan\u00e1ticos",
         "linkUrl":"https:\/\/www.facebook.com\/pages\/Deportivo-Iztapa\/380974485302705\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -346,7 +360,7 @@
       {
         "linkId":"malacateco",
         "linkName":"Deportivo Malacateco",
-        "linkSubtitle":"Sitio Oficial",
+        "linkSubtitle":"P\u00e1gina oficial",
         "linkUrl":"http:\/\/deportivo-malacateco.es.tl\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -365,7 +379,7 @@
       {
         "linkId":"duolingo",
         "linkName":"Duolingo",
-        "linkSubtitle":"Aprende Lenguajes",
+        "linkSubtitle":"Aprende otros idiomas",
         "linkUrl":"https:\/\/www.duolingo.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -379,7 +393,7 @@
       {
         "linkId":"sistemadebecas",
         "linkName":"Sistema de Becas",
-        "linkSubtitle":"SEGEPLAN",
+        "linkSubtitle":"Informaci\u00f3n sobre becas",
         "linkUrl":"http:\/\/becas.segeplan.gob.gt\/becas\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -393,7 +407,7 @@
       {
         "linkId":"codeacademy",
         "linkName":"Codecademy",
-        "linkSubtitle":"Aprende a codificar",
+        "linkSubtitle":"Aprende a programar",
         "linkUrl":"http:\/\/www.codecademy.com\/es\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -407,7 +421,7 @@
       {
         "linkId":"mspas",
         "linkName":"MSPAS",
-        "linkSubtitle":"Salud Publica",
+        "linkSubtitle":"Salud p\u00fablica",
         "linkUrl":"http:\/\/www.mspas.gob.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -421,7 +435,7 @@
       {
         "linkId":"osar",
         "linkName":"OSAR",
-        "linkSubtitle":"Salud Reproductiva",
+        "linkSubtitle":"Sobre la salud reproductiva",
         "linkUrl":"http:\/\/www.osarguatemala.org\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -435,7 +449,7 @@
       {
         "linkId":"ted",
         "linkName":"TED",
-        "linkSubtitle":"charlas y conferencias",
+        "linkSubtitle":"Charlas y conferencias",
         "linkUrl":"http:\/\/www.ted.com\/translate\/languages\/es\/",
         "linkFolder":"media",
         "linkDesktopPosition":"70",
@@ -463,7 +477,7 @@
       {
         "linkId":"universidaddelvalle",
         "linkName":"Universidad del Valle de Guatemala",
-        "linkSubtitle":"Sitio Web Oficial",
+        "linkSubtitle":"P\u00e1gina oficial",
         "linkUrl":"http:\/\/www.uvg.edu.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -477,7 +491,7 @@
       {
         "linkId":"universidadfranciscomarroquin",
         "linkName":"Universidad Francisco Marroqu\u00edn",
-        "linkSubtitle":"Portal Educativo",
+        "linkSubtitle":"Portal educativo",
         "linkUrl":"http:\/\/www.ufm.edu.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -491,7 +505,7 @@
       {
         "linkId":"universidadmarianogalvez",
         "linkName":"Universidad Mariano Galvez",
-        "linkSubtitle":"Portal Educativo",
+        "linkSubtitle":"Portal educativo",
         "linkUrl":"http:\/\/www.umg.edu.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -519,7 +533,7 @@
       {
         "linkId":"universidadrural",
         "linkName":"Universidad Rural",
-        "linkSubtitle":"Portal Educativo",
+        "linkSubtitle":"Portal educativo",
         "linkUrl":"http:\/\/urural.edu.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -533,7 +547,7 @@
       {
         "linkId":"wikipedia",
         "linkName":"Wikipedia",
-        "linkSubtitle":"La Enciclopedia Libre",
+        "linkSubtitle":"La enciclopedia m\u00e1s conocida del mundo",
         "linkUrl":"http:\/\/es.wikipedia.org\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -543,6 +557,20 @@
         "linkIcon":"icons\/",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/wikipedia.jpg"
+      },
+      {
+        "linkId":"hagaloustedmismo",
+        "linkName":"H\u00e1galo Usted Mismo",
+        "linkSubtitle":"Ideas y soluciones para el hogar",
+        "linkUrl":"http:\/\/www.hagaloustedmismo.cl\/",
+        "linkFolder":"none",
+        "linkDesktopPosition":null,
+        "linkRegion":"Guatemala",
+        "linkCategory":"Education and Health",
+        "linkThumbSize":"Vertical rectangle",
+        "linkIcon":"icons\/",
+        "linkThumb":"thumbs\/",
+        "linkSmall":"images\/hagaloustedmismo.jpg"
       },
       {
         "linkId":"tecoloco",
@@ -575,7 +603,7 @@
       {
         "linkId":"opcionempleo",
         "linkName":"Opcion Empleo",
-        "linkSubtitle":"Portal de Empleo",
+        "linkSubtitle":"Portal de empleo",
         "linkUrl":"http:\/\/www.opcionempleo.com.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -589,7 +617,7 @@
       {
         "linkId":"acciontrabajo",
         "linkName":"AccionTrabajo",
-        "linkSubtitle":"Bolsa de Empleo en Guatemala",
+        "linkSubtitle":"Ofertas de empleo en Guatemala",
         "linkUrl":"http:\/\/acciontrabajo.com.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -603,7 +631,7 @@
       {
         "linkId":"ministeriodeeducacion",
         "linkName":"Ministerio de Educaci\u00f3n",
-        "linkSubtitle":"Portal Oficial",
+        "linkSubtitle":"Portal oficial",
         "linkUrl":"http:\/\/www.mineduc.gob.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -630,8 +658,8 @@
       },
       {
         "linkId":"worldwonders",
-        "linkName":"World Wonders",
-        "linkSubtitle":"Maravillas del mundo",
+        "linkName":"Maravillas del mundo",
+        "linkSubtitle":"Visita las maravillas del mundo virtualmente",
         "linkUrl":"http:\/\/www.google.com\/culturalinstitute\/project\/world-wonders?hl=es-419",
         "linkFolder":"curiosity",
         "linkDesktopPosition":"60",
@@ -650,9 +678,9 @@
       {
         "linkId":"discoverykids",
         "linkName":"Discovery Kids",
-        "linkSubtitle":"Tu Discovery Kids",
+        "linkSubtitle":"V\u00eddeos y juegos para ni\u00f1os",
         "linkUrl":"http:\/\/www.tudiscoverykids.com\/",
-        "linkFolder":"",
+        "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
         "linkCategory":"Entertainment",
@@ -662,25 +690,11 @@
         "linkSmall":"images\/discoverykids.jpg"
       },
       {
-        "linkId":"canalantigua",
-        "linkName":"Canal Antigua",
-        "linkSubtitle":"Canal guatemalteco",
-        "linkUrl":"http:\/\/www.canalantigua.com\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Entertainment",
-        "linkThumbSize":"Horizontal rectangle",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/canalantigua.jpg"
-      },
-      {
         "linkId":"galasdeguatemala",
         "linkName":"Galas de Guatemala",
-        "linkSubtitle":"Redescubriendo el Esplendor de Guatemala",
+        "linkSubtitle":"Stock fotogr\u00e1fico de Guatemala",
         "linkUrl":"http:\/\/www.galasdeguatemala.com\/",
-        "linkFolder":"",
+        "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
         "linkCategory":"Entertainment",
@@ -692,7 +706,7 @@
       {
         "linkId":"guate80s",
         "linkName":"Guate en los 80's",
-        "linkSubtitle":"Anuncios para recordar",
+        "linkSubtitle":"Un videoblog para recordar una \u00e9poca en Guatemala",
         "linkUrl":"http:\/\/guate80s.blogspot.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -706,7 +720,7 @@
       {
         "linkId":"guateescalida",
         "linkName":"Guate es Calid\u00e1",
-        "linkSubtitle":"Guate es Calid\u00e1",
+        "linkSubtitle":"P\u00e1gina de Facebook para chispudos",
         "linkUrl":"https:\/\/www.facebook.com\/GuateEsCalida\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -720,7 +734,7 @@
       {
         "linkId":"guate360",
         "linkName":"Guate360",
-        "linkSubtitle":"Guatemala en 360 Grados",
+        "linkSubtitle":"Todo sobre Guatemala",
         "linkUrl":"http:\/\/www.guate360.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -734,7 +748,7 @@
       {
         "linkId":"guatevision",
         "linkName":"Guatevision",
-        "linkSubtitle":"Noticias y Entretenimiento",
+        "linkSubtitle":"Noticias y entretenimiento",
         "linkUrl":"http:\/\/www.guatevision.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -760,23 +774,9 @@
         "linkSmall":"images\/hacercine.jpg"
       },
       {
-        "linkId":"hagaloustedmismo",
-        "linkName":"H\u00e1galo Usted Mismo",
-        "linkSubtitle":"Ideas y soluciones para el hogar",
-        "linkUrl":"http:\/\/www.hagaloustedmismo.cl\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Entertainment",
-        "linkThumbSize":"Vertical rectangle",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/hagaloustedmismo.jpg"
-      },
-      {
         "linkId":"malacates",
         "linkName":"Malacates",
-        "linkSubtitle":"Sitio Oficial",
+        "linkSubtitle":"P\u00e1gina oficial de la banda",
         "linkUrl":"http:\/\/www.malacates.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -790,7 +790,7 @@
       {
         "linkId":"mundochapin",
         "linkName":"Mundo Chapin",
-        "linkSubtitle":"lo mejor de Guatemala",
+        "linkSubtitle":"Lo mejor de Guatemala",
         "linkUrl":"http:\/\/mundochapin.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -804,9 +804,9 @@
       {
         "linkId":"radiosdeguatemala",
         "linkName":"Radios de Guatemala",
-        "linkSubtitle":"Radio en L\u00ednea",
+        "linkSubtitle":"Radio en l\u00ednea",
         "linkUrl":"http:\/\/www.emisoras.com.gt\/",
-        "linkFolder":"",
+        "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
         "linkCategory":"Entertainment",
@@ -832,7 +832,7 @@
       {
         "linkId":"rockchapin",
         "linkName":"Rock Chapin",
-        "linkSubtitle":"m\u00fasica e innovaci\u00f3n",
+        "linkSubtitle":"P\u00e1gina de Facebook para la m\u00fasica e innovaci\u00f3n",
         "linkUrl":"http:\/\/www.rockchapin.org\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -846,7 +846,7 @@
       {
         "linkId":"somosguatemala",
         "linkName":"Somos Guatemala",
-        "linkSubtitle":"noticas, deportes, videos...",
+        "linkSubtitle":"Noticas, deportes, v\u00eddeos y m\u00e1s",
         "linkUrl":"http:\/\/www.somosguatemala.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -874,7 +874,7 @@
       {
         "linkId":"discoverychannel",
         "linkName":"Discovery Channel",
-        "linkSubtitle":"Ciencia, Historia, Espacio...",
+        "linkSubtitle":"Descubre todo en tu mundo",
         "linkUrl":"http:\/\/www.tudiscovery.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -916,7 +916,7 @@
       {
         "linkId":"facebook",
         "linkName":"Facebook",
-        "linkSubtitle":"Red Social",
+        "linkSubtitle":"La red social m\u00e1s popular del mundo",
         "linkUrl":"https:\/\/www.facebook.com\/",
         "linkFolder":"media",
         "linkDesktopPosition":"5",
@@ -944,7 +944,7 @@
       {
         "linkId":"google",
         "linkName":"Google",
-        "linkSubtitle":"Informaci\u00f3n del mundo",
+        "linkSubtitle":"Acceso a toda la informaci\u00f3n del mundo",
         "linkUrl":"https:\/\/www.google.com.gt\/?gws_rd=ssl",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -972,7 +972,7 @@
       {
         "linkId":"twitter",
         "linkName":"Twitter",
-        "linkSubtitle":"Con\u00e9ctate con tus amigos",
+        "linkSubtitle":"Con\u00e9ctate con el mundo",
         "linkUrl":"https:\/\/twitter.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1000,7 +1000,7 @@
       {
         "linkId":"spotify",
         "linkName":"Spotify",
-        "linkSubtitle":"millones de canciones",
+        "linkSubtitle":"Escucha todos los nuevos \u00e9xitos",
         "linkUrl":"https:\/\/play.spotify.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1028,7 +1028,7 @@
       {
         "linkId":"mysticomaya",
         "linkName":"Mystico Maya",
-        "linkSubtitle":"Calendario y m\u00e1s",
+        "linkSubtitle":"Calendario Maya y m\u00e1s",
         "linkUrl":"http:\/\/mysticomaya.com\/esp_index.htm",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1042,7 +1042,7 @@
       {
         "linkId":"sabiduriamaya",
         "linkName":"Sabidur\u00eda Maya",
-        "linkSubtitle":"Costumbres y espiritualidad",
+        "linkSubtitle":"P\u00e1gina sobre la cultura Maya",
         "linkUrl":"http:\/\/sabiduriamaya.org\/home\/index.php",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1061,7 +1061,7 @@
       {
         "linkId":"deguate",
         "linkName":"deGuate",
-        "linkSubtitle":"Uniendo a los chapines en el mundo",
+        "linkSubtitle":"Directorio electr\u00f3nico de Guatemala",
         "linkUrl":"http:\/\/www.deguate.com.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1089,7 +1089,7 @@
       {
         "linkId":"map",
         "linkName":"MAP",
-        "linkSubtitle":"Mapa de Acciones Positivas",
+        "linkSubtitle":"Red de personas haciendo acciones positivas",
         "linkUrl":"http:\/\/map.org.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1103,7 +1103,7 @@
       {
         "linkId":"teleton",
         "linkName":"Teleton Guatemala",
-        "linkSubtitle":"Teleton Guatemala",
+        "linkSubtitle":"P\u00e1gina oficial",
         "linkUrl":"https:\/\/www.teleton.com.gt\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1117,7 +1117,7 @@
       {
         "linkId":"yoasumo",
         "linkName":"Yo Asumo",
-        "linkSubtitle":"Conciencia Ciudadana",
+        "linkSubtitle":"Unete al movimiento para transformar a Guatemala",
         "linkUrl":"http:\/\/www.yoasumo.org\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -1131,7 +1131,7 @@
       {
         "linkId":"explorandoguatemala",
         "linkName":"Explorando Guatemala",
-        "linkSubtitle":"destinos turisticos, volcanes, monta\u00f1ismo",
+        "linkSubtitle":"Destinos tur\u00edsticos en Guatemala",
         "linkUrl":"http:\/\/www.xplorandoguatemala.com\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
