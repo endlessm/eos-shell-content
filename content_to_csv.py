@@ -4,13 +4,14 @@
 # This script requires python3 polib
 # (sudo apt-get install python3-polib)
 
-# To use this script, export spreadsheet from master content doc
-# and save in this folder as content.csv
-# Run this script to process and update content.csv
-# Note that the original row order is maintained,
-# and any new apps added are at the bottom of content.csv
-# Add and commit any changes to git
-# Merge changes into master content doc
+# To use this script, perform the following procedure:
+# 1. Export spreadsheet from master content doc
+#    and save in this folder as content.csv
+# 2. Run this script to process and update content.csv
+#    (Note that the original row order is maintained,
+#    and any new apps added are at the bottom of content.csv)
+# 3. Add and commit any changes to git
+# 4. Merge changes into master content doc
 
 import csv
 import json
