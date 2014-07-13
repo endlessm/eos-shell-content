@@ -40,9 +40,10 @@ if __name__ == '__main__':
     with open(CONTENT_CSV, 'w', newline='') as out_file:
         csv_writer = csv.writer(out_file, lineterminator='\n')
 
-        # Read and parse the two-row header
+        # Read and parse the three-row header
         header1 = csv_reader.__next__()
         header2 = csv_reader.__next__()
+        header3 = csv_reader.__next__()
         lang_idx = {}
         for lang in LANGS:
             lang_idx[lang] = header1.index(LANGS[lang])
@@ -88,9 +89,10 @@ if __name__ == '__main__':
                 csv_row[subtitle_idx] = subtitle
                 csv_row[description_idx] = description
 
-        # Write the two-row header
+        # Write the three-row header
         csv_writer.writerow(header1)
         csv_writer.writerow(header2)
+        csv_writer.writerow(header3)
 
         # Process each row of the input csv
         for csv_row in csv_reader:
