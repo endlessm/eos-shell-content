@@ -2166,7 +2166,7 @@
     "custom-splash-screen": "", 
     "description": "Similar to the popular arcade game, Snake, this classic game will help you fend off boredom for hours on end! While eating, the snake grows, but collide with another snake and all is lost. The game gets harder as the snakes grow longer, promising a fun challenge to players of all levels.", 
     "displayShape": "b1", 
-    "exec": "ktron --geometry 1920x1080+0+0 -snake -caption %c %i", 
+    "exec": "kdesnake --geometry 1920x1080+0+0 -snake -caption %c %i", 
     "featured_img": "", 
     "icon": "kdesnake-icon.png", 
     "is_featured": false, 
