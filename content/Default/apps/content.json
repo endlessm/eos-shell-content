@@ -3829,7 +3829,7 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "wesnoth-1.11", 
+    "application-id": "wesnoth", 
     "category": "Games", 
     "core": false, 
     "custom-splash-screen": "", 
@@ -3837,7 +3837,7 @@
     "displayShape": "b1", 
     "exec": "wesnoth -f", 
     "featured_img": "", 
-    "icon": "wesnoth-1.11-icon.png", 
+    "icon": "wesnoth-icon.png", 
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
@@ -3845,11 +3845,11 @@
     ], 
     "screenshots": {
       "C": [
-        "wesnoth-1.11-screenshot1.jpg"
+        "wesnoth-screenshot1.jpg"
       ]
     }, 
     "splash-screen-type": "Default", 
-    "square_img": "wesnoth-1.11-thumb.jpg", 
+    "square_img": "wesnoth-thumb.jpg", 
     "subtitle": "Fantasy turn-based strategy game", 
     "title": "Wesnoth", 
     "tryexec": ""
