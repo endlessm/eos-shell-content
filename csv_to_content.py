@@ -22,7 +22,10 @@
 # 8. make
 # 9. make dist
 # 10. tx push -s
-# 11. tx push -t
+# 11. tx push -t -f
+#     Be careful -- the '-f' overwrites all existing translations!
+#     If in doubt, you might want to pull the translation from Transifex
+#     and commit them to git before starting this process.
 # 12. tx pull -f
 #     (Although not strictly necessary, this sets up the formatting
 #     of the .po files to match subsequent pulls from Transifex)
