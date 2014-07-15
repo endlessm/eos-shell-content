@@ -78,8 +78,10 @@ if __name__ == '__main__':
 
     # For now, we don't support any new-lines within the description,
     # so replace any newlines with spaces
+    # Double-quotes are also problematic, so replace them
+    # with single-quotes
     def sanitize(val):
-        return val.strip().replace('\n', ' ')
+        return val.strip().replace('\n', ' ').replace('"', "'")
 
     def update_row(csv_row, json_row):
         en_title = sanitize(csv_row[lang_idx['en']])
