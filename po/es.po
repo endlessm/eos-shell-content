@@ -20,8 +20,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-07-13 00:55-0700\n"
-"PO-Revision-Date: 2014-07-13 07:57+0000\n"
+"POT-Creation-Date: 2014-07-15 12:10-0700\n"
+"PO-Revision-Date: 2014-07-15 19:12+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgid ""
 "shields and weapons to wipe out the opposition. Win this exciting game and "
 "you'll be a true battle-hardened commander, lose and feel the wrath of your "
 "adversary."
-msgstr "En este juego de multijugador tienes que destruir todos los tanques de tus oponentes mientras que proteges al tuyo. Ganas dinero cada vez que destruyes un tanque y con el dinero que ahorras puedes comprar más armas y mejorar tu tanque."
+msgstr "En este juego multijugador tienes que destruir todos los tanques de tus oponentes mientras que proteges el tuyo. Ganas dinero cada vez que destruyes un tanque y con el dinero que ahorras puedes comprar más armas y mejorar tu tanque."
 
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
@@ -144,7 +144,7 @@ msgid ""
 "turns placing your marker on the board, and the winner is the first person "
 "to complete a row of five. This game is sure to be a succes with all of your"
 " friends and family members so download it now to begin to play!"
-msgstr "¡Desafía a un amigo a crear cinco en fila! Tomen turnos colocando sus piezas en la tabla virtual, ¡y el primero en completar una fila de cinco gana! Este juego es seguro de ser un éxito con todos tus amigos y familiares, ¡así que descárgalo ahora para empezar a jugar!"
+msgstr "¡Desafía a un amigo a crear cinco en fila! Tomen turnos colocando sus piezas en la tabla virtual, ¡y el primero en completar una fila de cinco gana! Este juego seguramente será un éxito entre todos tus amigos y familiares, ¡así que descárgalo ahora para empezar a jugar!"
 
 #: content/Default/apps/content.json.h:22
 msgctxt "title"
@@ -153,15 +153,16 @@ msgstr "Graba Discos"
 
 #: content/Default/apps/content.json.h:23
 msgctxt "subtitle"
-msgid "CD/DVD burning application"
-msgstr "App para grabar CD y DVD"
+msgid "Burn your own CDs and DVDs"
+msgstr "Graba tus propios CDs y DVDs"
 
 #: content/Default/apps/content.json.h:24
 msgctxt "description"
 msgid ""
-"Brasero is a simple application to burn, copy, and erase CD and DVD media: "
-"audio, video, or data."
-msgstr "Brasero es una app fácil de usar para grabar, copiar, y editar archivos digitales en CD y DVD: de audio, video o información."
+"Making your own CDs or DVDs has never been easier! This app lets you burn, "
+"copy, and erase CDs and DVDs so you can make your own audio and video "
+"masterpieces, or just transfer the files and data you need!"
+msgstr "¡Grabar tus propios discos de CD o DVD nunca ha sido tan fácil! Esta app te permite grabar, copiar y borrar discos CD y DVD para que puedas hacer tus propias obras maestras de audio y vídeo, o para que simplemente puedas transferir los archivos y datos que necesitas."
 
 #: content/Default/apps/content.json.h:25
 msgctxt "title"
@@ -179,7 +180,7 @@ msgid ""
 "Battle with family and friends with an arsenol of your design. With awesome "
 "graphics and cool music, it's a fun and dynamic game for players of all "
 "ages. Just make sure you can handle the explosions!"
-msgstr "Te divertirás mucho jugando este juego porque podrás escoger entre tres diferentes vehículos para combatir en la batalla. Elimina a tus enemigos usando un arsenal entero de armas diversas. Las imágenes del juego son caricaturas y la música es muy buena. ¡Encontrarás que este juego es verdaderamente dinámico y divertido!"
+msgstr "Te divertirás mucho jugando este juego porque podrás escoger entre tres diferentes vehículos para combatir en la batalla. Elimina a tus enemigos usando un arsenal entero de armas. Las imágenes del juego son caricaturas y la música es muy buena. ¡Encontrarás que este juego es verdaderamente dinámico y divertido!"
 
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
@@ -261,7 +262,7 @@ msgid ""
 "animals’ features, habits, and environments. It’s especially important to "
 "study the animal kingdom today, when so many species are threatened or "
 "endangered."
-msgstr "Los animales son increíbles. Desde el león majestuoso hasta el extraño y fascinante ornitorrinco, hay mucho que aprender sobre las criaturas que habitan nuestro mundo. Abre el reino animal entero con esta app. A toda la familia, desde los niños pequeños hasta los adultos interesados, les encantará aprender sobre las características, hábitos y ambientes de los animales. Es especialmente importante estudiar el reino animal ahora que tantas especies están en peligro de extinción."
+msgstr "Los animales son increíbles. Desde el majestuoso león hasta el extraño y fascinante ornitorrinco, hay mucho que aprender sobre las criaturas que habitan nuestro mundo. Conoce todo el reino animal con esta app. A toda la familia le encantará aprender sobre las características, hábitos y ambientes de los animales, tanto a pequeños como grandes. Es especialmente importante estudiar el reino animal ahora que tantas especies están en peligro de extinción."
 
 #: content/Default/apps/content.json.h:40
 msgctxt "title"
@@ -304,7 +305,7 @@ msgid ""
 "understanding of the subject as a whole. Whether you want to study for a "
 "test or just learn more about this subject, download this app today to get "
 "started!"
-msgstr "El estudio de la biología es emocionante porque te ayuda a entender que es lo que significa ser un ser viviente. Esta app tiene mucha información, desde artículos sobre las células y los organismos minúsculos hasta de las plantas y animales. Puedes utilizar esta app para estudiar muchos sub-disciplinas de la biología, o simplemente para aprender más sobre la materia. ¡Si quieres estudiar para un examen o simplemente aprender más sobre este tema, descarga esta app hoy!"
+msgstr "El estudio de la biología es emocionante porque te ayuda a entender que es lo que significa ser un ser viviente. Esta app tiene mucha información, desde artículos sobre las células y los organismos minúsculos hasta de las plantas y animales. Puedes utilizar esta app para estudiar muchas subdisciplinas de la biología, o simplemente para aprender más sobre la materia. ¡Si quieres estudiar para un examen o simplemente aprender más sobre este tema, descarga esta app hoy!"
 
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
@@ -387,7 +388,7 @@ msgid ""
 "us a great deal about these former inhabitants of Earth. This app will "
 "introduce you to these incredible prehistoric creatures. Learn about the "
 "different types of dinosaurs, from fierce carnivores to massive herbivores."
-msgstr "Los dinosaurios primero aparecieron en la Tierra hace más de 230 millones de años. Reinaban el planeta por millones de años, hasta que una extinción catastrófica los barrió a casi todos. Los fósiles y otros descubrimientos nos han enseñado mucho sobre estos habitantes anteriores de la Tierra. Esta app te dará a conocer estas criaturas prehistóricas increíbles. Aprende sobre los diferentes tipos de dinosaurios, desde los carnívoros feroces hasta los herbívoros gigantescos."
+msgstr "Los dinosaurios aparecieron por primera vez en la Tierra hace más de 230 millones de años. Reinaron el planeta por millones de años, hasta que una extinción catastrófica los barrió a casi todos. Los fósiles y otros descubrimientos nos han enseñado mucho sobre estos primeros habitantes de la Tierra. Esta app te dará a conocer estas criaturas prehistóricas increíbles. Aprende sobre los diferentes tipos de dinosaurios, desde los feroces carnívoros hasta los herbívoros gigantescos."
 
 #: content/Default/apps/content.json.h:58
 msgctxt "title"
@@ -450,7 +451,7 @@ msgid ""
 "community. This app includes information on farming techniques and "
 "equipment, different types of agriculture, and the careers that exist in "
 "this industry. You’ll learn so much about crops, livestock, and more!"
-msgstr "La agricultura es una tradición antigua, tanto como una industria moderna. El suministro de comida del mundo viene de agricultores que trabajan duro alrededor del mundo. Puede ser interesante y útil aprender sobre este sector de la economía, especialmente si tienes interés en producir comida para tu familia y comunidad. Esta app contiene información sobre las técnicas, el equipo necesario, los diferentes tipos de agricultura y los empleos que existen dentro de la industria. ¡Aprenderás mucho sobre los cultivos, la ganadería y mucho más!"
+msgstr "La agricultura es una tradición antigua, y también una industria moderna. El suministro de comida del mundo viene de agricultores que trabajan duro alrededor del mundo. Puede ser interesante y útil aprender sobre este sector de la economía, especialmente si tienes interés en producir comida para tu familia y tu comunidad. Esta app contiene información sobre las técnicas, el equipo necesario, los diferentes tipos de agricultura y los empleos que existen dentro de la industria. ¡Aprenderás mucho sobre los cultivos, la ganadería y mucho más!"
 
 #: content/Default/apps/content.json.h:67
 msgctxt "title"
@@ -589,7 +590,7 @@ msgid ""
 "did World War I begin? Download this app and answer every question you have "
 "about the events and personalities that have shaped our modern world, and "
 "learn about the cultures that came before us."
-msgstr "¿Cuánto sabes sobre la caída del Imperio Romano? ¿Y sobre la Ruta de la seda? ¿Quién vivió en las Américas hace mucho tiempo, y que les pasó? ¿Por qué empezó la Primera Guerra Mundial? Esta app puede contestar cada pregunta que has tenido sobre los eventos y personajes que han cambiado nuestro mundo moderno. También encontrarás información sobre las culturas que vinieron antes de nosotros y que dejaron sus legados."
+msgstr "¿Cuánto sabes sobre la caída del Imperio Romano? ¿Y sobre la Ruta de la seda? ¿Quién vivió en las Américas hace mucho tiempo, y que les pasó? ¿Por qué empezó la Primera Guerra Mundial? Esta app puede contestar cada pregunta que tengas sobre los eventos y personajes que han cambiado nuestro mundo. También encontrarás información sobre las culturas que vinieron antes de nosotros y que dejaron un legado."
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
@@ -612,7 +613,7 @@ msgid ""
 "improvement, event planning to self-help, you’ll find nearly every topic "
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
-msgstr "¿Has querido aprender a tejer? ¿A tener un jardín bello? ¿Tienes interés en restaurar algún mueble, en limpiar una mancha o en crear un plan de ejercicio personalizado para tus metas? Esta es la app que necesitas para lograr cualquier cosa que has soñado de aprender a hacer. Oficios, arte, proyectos para mejorar la casa, desarrollo personal - podrás encontrar casi cualquier tema que te imagines. Cada artículo es fácil para encontrar y fácil de entender. ¡Pronto ni sabrás como lograbas todo antes de tener esta app!"
+msgstr "¿Has querido aprender a tejer o a tener un jardín bello? ¿Tienes interés en restaurar algún mueble, en limpiar una mancha o en crear un plan de acción personalizado para tus metas? Esta es la app que necesitas para lograr cualquier cosa que has soñado con aprender. Oficios, arte, proyectos para mejorar la casa, desarrollo personal... podrás encontrar casi cualquier tema que te imagines. Cada artículo es fácil de encontrar y fácil de entender. ¡Pronto te preguntarás cómo podías vivir sin esta app!"
 
 #: content/Default/apps/content.json.h:91
 msgctxt "title"
@@ -1123,18 +1124,24 @@ msgstr "¡Esta app hace el aprendizaje divertido para los niños con más de 100
 
 #: content/Default/apps/content.json.h:163
 msgctxt "title"
-msgid "GCompris Admin"
+msgid "EduGames Admin"
 msgstr "EduJuegos Admin"
 
 #: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
-msgid "Teacher admin console for GCompris"
-msgstr "Consola administrativa para maestros usando GCompris. "
+msgid "For teachers to help their students learn"
+msgstr "Para maestros: juegos educativos para estudiantes"
 
 #: content/Default/apps/content.json.h:165
 msgctxt "description"
-msgid "Run GCompris (EduGames) in administration and user-management mode."
-msgstr "El maestro o maestra puede usar esta app en conjunto con la app EduJuegos para controlar y dar seguimiento a las actividades de los alumnos."
+msgid ""
+"Use this app to configure the EduGames app and create the exact learning "
+"experience you'd like for your students! You can change the list of "
+"activities, or change the controls of the app so that they stay focused on "
+"just the games that you want them to. To begin, download this app and the "
+"EduGames app from the 'Game' section of the app store. They'll have so much "
+"fun that they'll want to spend hours doing just what you want them to!"
+msgstr "Utiliza esta app para configurar a EduJuegos y crear la experiencia exacta que deseas para tus estudiantes. Podrás cambiar la lista de actividades, o cambiar los controles de la app para que se mantengan enfocados en sólo los juegos que quieras. Para empezar, descarga esta app y la de EduJuegos, que se encuentra en la sección de 'Juegos' en la tienda de apps. ¡Tus estudiantes se divertirán tanto que querrán pasar horas haciendo justo lo que quieres que hagan - aprender!"
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -1267,7 +1274,7 @@ msgstr "Sudoku"
 #: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "One of the most popular puzzle games of all time"
-msgstr "Una rompecabeza popular en todo el mundo"
+msgstr "Una rompecabezas popular en todo el mundo"
 
 #: content/Default/apps/content.json.h:186
 msgctxt "description"
@@ -1402,8 +1409,9 @@ msgid ""
 "worksheets for students who want to supplement their classroom learning, "
 "texts to teach the Mayan language, and many great information. This source "
 "of knowledge is ready at your disposal, and can be a useful tool no matter "
-"your age. To begin using this app, open the folder, click the "
-msgstr ""
+"your age. To begin using this app, open the folder, click the 'Index' file, "
+"and prepare to be amazed by the infinite knowledge that it has to offer!"
+msgstr "Esta app está llena de información recolectada por el gobierno de Guatemala para ayudarte a vivir una vida más sana y más próspera. Encontrarás información sobre el cultivo de diferentes tipos de cultivos, consejos para las madres antes y después del embarazo, herramientas útiles para la preparación de un plan de estudio, hojas de trabajo para los estudiantes, textos que enseñan la lengua maya y mucha más información. Esta fuente de conocimiento está disponible para cuando la necesites. Para empezar a utilizar esta app, abre la carpeta, haz clic en el archivo 'Index' y ¡prepárate para ser sorprendido con tanta información!"
 
 #: content/Default/apps/content.json.h:205
 msgctxt "title"
@@ -1422,7 +1430,7 @@ msgid ""
 "read. Open the Hesperian Health Documents folder to learn things like how to"
 " perform exams and minor procedures. You'll be surprised by how much you can"
 " learn to help your loved ones, those in your community and even yourself!"
-msgstr "Encuentra información que podría algún día salvar tu vida, la de tus seres queridos, o la de alguien en tu comunidad. Para empezar, abre la carpeta llamada \"Materiales de Salud\" para aprender cosas cómo llevar a cabo auto exámenes y procedimientos menores. Te sorprenderás de todo lo que se puede aprender con sólo leer algunos artículos y materias sobre la salud."
+msgstr "Encuentra información que podría salvar tu vida algún día, la de tus seres queridos o la de alguien en tu comunidad. Para empezar, abre la carpeta llamada 'Materiales de Salud' para aprender cosas como llevar a cabo auto exámenes y procedimientos menores. Te sorprenderás de todo lo que se puede aprender con sólo leer algunos artículos sobre salud."
 
 #: content/Default/apps/content.json.h:208
 msgctxt "title"
@@ -1438,8 +1446,13 @@ msgstr "Lee toda la gran literatura del mundo"
 msgctxt "description"
 msgid ""
 "Find some of your favorite books in this app! To begin browsing, open the "
-"folder, click the "
-msgstr ""
+"folder, click the 'Index' file, and select the genre that interests you "
+"most. You'll find some of the most famous books written, including modern "
+"wonders that are sure to peak your interest. This virtual library has an "
+"astouding collection of novels, poems, biographies, stories, and other "
+"texts. Whether you find your favorite book or discover a new one, you'll be "
+"entertained for hours expanding your literary knowledge."
+msgstr "¡Encuentra algunos de tus libros favoritos en esta app! Para comenzar tu búsqueda, abre la carpeta, haz clic en el archivo 'Index', y selecciona el género que más te interese. Encontrarás algunos de los libros más famosos del mundo, incluyendo maravillas modernas que seguramente te interesarán. Esta biblioteca virtual tiene una colección estupenda de novelas, poemas, biografías, cuentos y otros textos. De seguro encontrarás tu libro favorito o descubrirás un nuevo que te gustará. Te entretendrás durante horas y profundamente expandirás tu conocimiento literario."
 
 #: content/Default/apps/content.json.h:211
 msgctxt "title"
@@ -1592,17 +1605,21 @@ msgstr "¡Este juego requiere que uses tu lógica para descubrir en donde están
 #: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "KBlocks"
-msgstr "Bloques"
+msgstr "TetriBloques"
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
-msgid "Falling blocks game"
-msgstr "Juego de bloques que caen."
+msgid "Match blocks to destroy them and win"
+msgstr "Combina bloques de manera que se desaparezcan"
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
-msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
-msgstr "Un juego como Tetris donde bloques que caen para formar un rompecabezas."
+msgid ""
+"This game is similar to Tetris, so if you love that game, you will love this"
+" one! Match up the block shapes in order to make them disappear and keep "
+"them from filling the screen. You will need to be really fast or else you'll"
+" lose, so pay attention and get ready for some very fast-actioned fun!"
+msgstr "¡Este juego es parecido al Tetris, así que si te gusta ese juego, te encantará este! Trata de alinear los bloques de moda de hacerlos desaparecer y evitar que se llene la pantalla. Tendrás que ser muy rápido o perderás, ¡así que presta atención y prepárate para diversión que tendrá emocionado por horas!"
 
 #: content/Default/apps/content.json.h:235
 msgctxt "title"
@@ -1838,19 +1855,20 @@ msgstr "¡Este juego es tan divertido y adictivo que nunca querrás dejar de jug
 #: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "KMines"
-msgstr "Minas"
+msgstr "KMinas"
 
 #: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
-msgid "Minesweeper game"
-msgstr "Evita las minas para ganar en este juego adictivo"
+msgid "Stay away from the exploding mines"
+msgstr "Manténte alejado minas peligrosas"
 
 #: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
-"KMines is a game where the player finds hidden mines without setting them "
-"off."
-msgstr "Esta es una app donde el jugador tiene que encontrar las minas escondidas sin detonarlas. "
+"Don't take a wrong step or you'll explode! You'll need to use logic and "
+"smarts in this game to get around all of the landmines and make your way "
+"safely across the field."
+msgstr "¡No des un paso equivocado o explotarás! Haz buen uso de tu inteligencia y la lógica para encontrar un camino seguro alrededor de todas las minas que están escondidas en el campo."
 
 #: content/Default/apps/content.json.h:271
 msgctxt "title"
@@ -1871,7 +1889,7 @@ msgid ""
 "against your computer. You'll take turns trying to guess where each others' "
 "ships are, and the first person to sink all of their enemies' ships wins. "
 "Arrr you ready for some great naval fun?"
-msgstr "¡Trata de adivinar en dónde están los barcos de tu adversario para eliminarlos antes de que te ataquen! Este es un juego divertido de estrategia que requiere a dos jugadores. Puedes jugar contra un amigo, contra otra persona en Internet, o contra la computadora. Tomarán vueltas tratando de adivinar dónde están los barcos y el primer jugador en hundir a todos los barcos de su enemigo, gana el juego. ¿Estas listo para empezar la batalla?"
+msgstr "¡Trata de adivinar en dónde están los barcos de tu adversario para eliminarlos antes de que te ataquen! Este es un divertido juego de estrategia que requiere de dos jugadores. Puedes jugar contra un amigo, contra otra persona en Internet o contra la computadora. Tomarán turnos tratando de adivinar dónde están los barcos y el primer jugador en hundir a todos los barcos de su enemigo gana el juego. ¿Estas listo para empezar la batalla?"
 
 #: content/Default/apps/content.json.h:274
 msgctxt "title"
@@ -1916,7 +1934,7 @@ msgstr "Si te gustan las máquinas de sala de videojuegos, ¡te encantará este 
 #: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "KSame"
-msgstr "Mismos"
+msgstr "Iguales"
 
 #: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
@@ -1931,7 +1949,7 @@ msgid ""
 "marbles you clear at once, the higher your score will be, so think "
 "strategically about all of your moves! What may look easy at first is a true"
 " challenge. A really fun challenge!"
-msgstr "Demuestra tus habilidades en identificar patrones y pensar rápidamente en este juego adictivo. Identifica a todas las esferas del mismo color que se tocan para quitarlas y despejar al tablero, pero recuerda: si identificas y quitas más canicas a la vez, ganarás más puntos. ¡Así que piensa estratégicamente acerca de todos tus movimientos! Lo que puede parecer fácil al principio es un verdadero desafío. ¡Un reto muy divertido!"
+msgstr "Demuestra tus habilidades al identificar patrones y pensar rápidamente utilizando este juego adictivo. Identifica todas las esferas del mismo color que se tocan para quitarlas y despejar el tablero, pero recuerda: si identificas y quitas más esferas a la vez, ganarás más puntos. ¡Así que piensa estratégicamente todos tus movimientos! Lo que puede parecer fácil al principio es un verdadero desafío. ¡Un reto muy divertido!"
 
 #: content/Default/apps/content.json.h:283
 msgctxt "title"
@@ -1957,20 +1975,24 @@ msgstr "Basado en un juego popular, esta app interactiva te ayudará a ejercitar
 #: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "KSudoku"
-msgstr "Soduko"
+msgstr "KSoduko"
 
 #: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
-msgid "Sudoku puzzle game and solver"
-msgstr "Juego de Sudoku"
+msgid "A challenging numerical puzzle game"
+msgstr "Rompecabezas desafiantes"
 
 #: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
-"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
-"variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets "
-"and find the solution to any Sudoku puzzle."
-msgstr "¡Si te gusta divertirte mientras mejores tus facultades mentales, este juego de Soduko es para ti! "
+"Are you better than your friend is at puzzles? Find out by playing this fun "
+"number puzzle game! You can play alone, have other people help you, or "
+"challenge your friends and family to see who can solve the puzzle first. "
+"This app has special features, like the ability to create games you can "
+"print out, and the ability to help you solve any Sodoku puzzle so that you "
+"can learn how to solve it on your own. Whether you are completely new to "
+"Sodoku, or are an experienced player, you'll love this app!"
+msgstr "¿Eres mejor que tu amigo a las rompecabezas? Desafía a tu amigo a este juego de números rompecabezas y alístate para horas de diversión! Puedes jugar solo, con personas que te ayuden, o puedes desafiar a tus amigos y familiares para ver quién puede resolver el rompecabezas primero. Como extra, esta app te deja crear juegos que se pueden imprimir, y te dan la capacidad de ayudar a resolver cualquier rompecabezas Sudoku para que puedas aprender a resolverlo por tu propia cuenta. Aunque seas completamente nuevo a Sodoku, o eres un jugador experimentado, ¡te encantará esta app!"
 
 #: content/Default/apps/content.json.h:289
 msgctxt "title"
@@ -1991,7 +2013,7 @@ msgid ""
 " all of the apples, then you'll need to exit the maze in order to move onto "
 "the next level. This game may sound easy, but it's not, so get ready for a "
 "fun challenge!"
-msgstr "Guía a tu serpiente a comer las manzanas y a evitar las otras serpientes, a las esferas y a las paredes! Algunas de las serpientes y esferas sólo te harán más lento, mientras que otros te matarán, así que lo mejor es mantenerte alejado de todos! Si te las arreglas para comer todas las manzanas, tendrás que salir del laberinto para poder pasar al siguiente nivel. Este juego puede parecer fácil, pero no lo es, así que prepárate para un reto divertido!"
+msgstr "¡Guía a tu serpiente a comer las manzanas y a evitar las otras serpientes, a las esferas y a las paredes! Algunas de las serpientes y esferas sólo te harán más lento, mientras que otras te matarán, ¡así que lo mejor es mantenerte alejado de todos! Si te las arreglas para comer todas las manzanas, tendrás que salir del laberinto para poder pasar al siguiente nivel. Este juego puede parecer fácil pero no lo es, ¡así que prepárate para un reto divertido!"
 
 #: content/Default/apps/content.json.h:292
 msgctxt "title"
@@ -2142,22 +2164,24 @@ msgstr "Esta app te ofrece todas las funciones de las mejores apps de procesador
 
 #: content/Default/apps/content.json.h:313
 msgctxt "title"
-msgid "Marble"
-msgstr ""
+msgid "Maps"
+msgstr "Mapas"
 
 #: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
-msgid "Globe and map widget"
-msgstr "Mapa y globo terráqueo"
+msgid "Maps of the entire world"
+msgstr "Mapas de todo el mundo"
 
 #: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
-"Marble is a generic geographical map widget and framework for KDE "
-"applications. The Marble widget shows the earth as a sphere but does not "
-"require hardware acceleration. A minimal set of geographical data is "
-"included, so it can be used without an internet connection."
-msgstr "Esta app es de un mapa geográfico. Te muestra la tierra desde el espacio donde parece ser una esfera pequeña. ¡Usa esta app para explorar el mundo aunque no tengas una conexión al internet!"
+"Where do players from FC Barcelona or Real Madrid live? How far away are you"
+" from a country where elephants and lions wander around freely? How close is"
+" the nearest volcano? These are all questions that the right maps can help "
+"us answer. This app will give you access to all sorts of maps from all over "
+"the world and from different ages, so that you can even see how the world "
+"has changed over time!"
+msgstr "¿De dónde son los jugadores de FC Barcelona o el Real Madrid? ¿Qué tan lejos estás de un país donde elefantes y leones viven en estado salvaje? ¿Qué tan cerca se encuentra el volcán más cercano? El mapa adecuado te puede ayudar a encontrar respuestas a todas estas preguntas, y más. Esta app te dará acceso a mapas de todo el mundo y a mapas de diferentes edades, ¡así que podrás hasta ver cómo ha cambiado el mundo con el tiempo!"
 
 #: content/Default/apps/content.json.h:316
 msgctxt "title"
@@ -2180,7 +2204,7 @@ msgid ""
 "has a multiplayer option, allows you to choose from a variety of weapons to "
 "fight, and even allows you to customize your own spaceship. You'll want to "
 "keep playing until you succeed in returning peace to your planet!"
-msgstr "Es el año 3547, y cada una de las civilizaciones en tu galaxia han colonizado a un planeta. La gente de tu planeta está viviendo en paz y en harmonía, ¡pero existe una GRAN GUERA entre los otros planetas! Tienes que proteger a tu planeta de tus vecinos y del peligro que están causando. ¡Este juego de tirador es bastante emocionante y ofrece la opción de multijugador, de seleccionar entre muchas armas impresionantes y de personalizar tu propio barco!"
+msgstr "Es el año 3547 y cada una de las civilizaciones en tu galaxia han colonizado a un planeta. La gente de tu planeta está viviendo en paz y en harmonía, ¡pero existe una gran guerra entre los otros planetas! Tienes que proteger a tu planeta de tus vecinos y del peligro que están causando. ¡Este juego es muy emocionante y ofrece la opción de multijugador, de seleccionar entre muchas armas impresionantes y de personalizar tu propio barco!"
 
 #: content/Default/apps/content.json.h:319
 msgctxt "title"

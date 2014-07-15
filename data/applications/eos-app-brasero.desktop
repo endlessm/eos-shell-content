@@ -2,8 +2,8 @@
 Version=1.0
 Name=Brasero
 Name[es]=Graba Discos
-Comment=CD/DVD burning application
-Comment[es]=App para grabar CD y DVD
+Comment=Burn your own CDs and DVDs
+Comment[es]=Graba tus propios CDs y DVDs
 Type=Application
 Exec=brasero %U
 Icon=eos-app-brasero

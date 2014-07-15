@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KMines
-Name[es]=Minas
-Comment=Minesweeper game
-Comment[es]=Evita las minas para ganar en este juego adictivo
+Name[es]=KMinas
+Comment=Stay away from the exploding mines
+Comment[es]=Manténte alejado minas peligrosas
 Type=Application
 Exec=kmines -caption %c
 Icon=eos-app-kmines

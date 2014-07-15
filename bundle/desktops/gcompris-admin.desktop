@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=GCompris Admin
+Name=EduGames Admin
 Name[es]=EduJuegos Admin
-Comment=Teacher admin console for GCompris
-Comment[es]=Consola administrativa para maestros usando GCompris. 
+Comment=For teachers to help their students learn
+Comment[es]=Para maestros: juegos educativos para estudiantes
 Type=Application
 Exec=gcompris --administration
 Icon=eos-app-gcompris-admin

@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=Marble
-Comment=Globe and map widget
-Comment[es]=Mapa y globo terráqueo
+Name=Maps
+Name[es]=Mapas
+Comment=Maps of the entire world
+Comment[es]=Mapas de todo el mundo
 Type=Application
 Exec=marble --geometry 1920x1080+0+0
 Icon=eos-app-marble

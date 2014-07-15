@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-07-13 00:55-0700\n"
-"PO-Revision-Date: 2014-07-13 07:57+0000\n"
+"POT-Creation-Date: 2014-07-15 12:10-0700\n"
+"PO-Revision-Date: 2014-07-15 19:13+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/eos-shell-content/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgid ""
 "a “light cycle”, a cool and futuristic motorcycle, and battle others on the "
 "road. Force your opponents to hit the arena walls and win. This app is easy "
 "to learn and a lot of fun to play!"
-msgstr "Este emocionante jogo leva você para o mundo do Tron. Dirija um \"ciclo de luz\", uma moto legal e futurista, e combata os outros pela estrada. Force os seus adversários a bater nas paredes da arena para eliminá-los do jogo e sair vitorioso. Este aplicativo é fácil de aprender e muito divertido de jogar!"
+msgstr "Este emocionante jogo leva você para o mundo do Tron. Dirija um 'ciclo de luz', uma moto legal e futurista, e combata os outros pela estrada. Force os seus adversários a bater nas paredes da arena para eliminá-los do jogo e sair vitorioso. Este aplicativo é fácil de aprender e muito divertido de jogar!"
 
 #: content/Default/apps/content.json.h:7
 msgctxt "title"
@@ -147,14 +147,15 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:23
 msgctxt "subtitle"
-msgid "CD/DVD burning application"
+msgid "Burn your own CDs and DVDs"
 msgstr ""
 
 #: content/Default/apps/content.json.h:24
 msgctxt "description"
 msgid ""
-"Brasero is a simple application to burn, copy, and erase CD and DVD media: "
-"audio, video, or data."
+"Making your own CDs or DVDs has never been easier! This app lets you burn, "
+"copy, and erase CDs and DVDs so you can make your own audio and video "
+"masterpieces, or just transfer the files and data you need!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:25
@@ -1117,17 +1118,23 @@ msgstr "Com mais de 100 jogos e atividades este aplicativo torna o aprendizado d
 
 #: content/Default/apps/content.json.h:163
 msgctxt "title"
-msgid "GCompris Admin"
+msgid "EduGames Admin"
 msgstr ""
 
 #: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
-msgid "Teacher admin console for GCompris"
+msgid "For teachers to help their students learn"
 msgstr ""
 
 #: content/Default/apps/content.json.h:165
 msgctxt "description"
-msgid "Run GCompris (EduGames) in administration and user-management mode."
+msgid ""
+"Use this app to configure the EduGames app and create the exact learning "
+"experience you'd like for your students! You can change the list of "
+"activities, or change the controls of the app so that they stay focused on "
+"just the games that you want them to. To begin, download this app and the "
+"EduGames app from the 'Game' section of the app store. They'll have so much "
+"fun that they'll want to spend hours doing just what you want them to!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:166
@@ -1396,7 +1403,8 @@ msgid ""
 "worksheets for students who want to supplement their classroom learning, "
 "texts to teach the Mayan language, and many great information. This source "
 "of knowledge is ready at your disposal, and can be a useful tool no matter "
-"your age. To begin using this app, open the folder, click the "
+"your age. To begin using this app, open the folder, click the 'Index' file, "
+"and prepare to be amazed by the infinite knowledge that it has to offer!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:205
@@ -1432,7 +1440,12 @@ msgstr ""
 msgctxt "description"
 msgid ""
 "Find some of your favorite books in this app! To begin browsing, open the "
-"folder, click the "
+"folder, click the 'Index' file, and select the genre that interests you "
+"most. You'll find some of the most famous books written, including modern "
+"wonders that are sure to peak your interest. This virtual library has an "
+"astouding collection of novels, poems, biographies, stories, and other "
+"texts. Whether you find your favorite book or discover a new one, you'll be "
+"entertained for hours expanding your literary knowledge."
 msgstr ""
 
 #: content/Default/apps/content.json.h:211
@@ -1590,12 +1603,16 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
-msgid "Falling blocks game"
+msgid "Match blocks to destroy them and win"
 msgstr ""
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
-msgid "KBlocks is a single player Tetris-like falling blocks puzzle game."
+msgid ""
+"This game is similar to Tetris, so if you love that game, you will love this"
+" one! Match up the block shapes in order to make them disappear and keep "
+"them from filling the screen. You will need to be really fast or else you'll"
+" lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:235
@@ -1836,14 +1853,15 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
-msgid "Minesweeper game"
+msgid "Stay away from the exploding mines"
 msgstr ""
 
 #: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
-"KMines is a game where the player finds hidden mines without setting them "
-"off."
+"Don't take a wrong step or you'll explode! You'll need to use logic and "
+"smarts in this game to get around all of the landmines and make your way "
+"safely across the field."
 msgstr ""
 
 #: content/Default/apps/content.json.h:271
@@ -1955,15 +1973,19 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
-msgid "Sudoku puzzle game and solver"
+msgid "A challenging numerical puzzle game"
 msgstr ""
 
 #: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
-"KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku "
-"variants. In addition to playing Sudoku, it can print Sudoku puzzle sheets "
-"and find the solution to any Sudoku puzzle."
+"Are you better than your friend is at puzzles? Find out by playing this fun "
+"number puzzle game! You can play alone, have other people help you, or "
+"challenge your friends and family to see who can solve the puzzle first. "
+"This app has special features, like the ability to create games you can "
+"print out, and the ability to help you solve any Sodoku puzzle so that you "
+"can learn how to solve it on your own. Whether you are completely new to "
+"Sodoku, or are an experienced player, you'll love this app!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:289
@@ -2136,21 +2158,23 @@ msgstr "Este app oferece todas as características dos melhores aplicativos de p
 
 #: content/Default/apps/content.json.h:313
 msgctxt "title"
-msgid "Marble"
+msgid "Maps"
 msgstr ""
 
 #: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
-msgid "Globe and map widget"
+msgid "Maps of the entire world"
 msgstr ""
 
 #: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
-"Marble is a generic geographical map widget and framework for KDE "
-"applications. The Marble widget shows the earth as a sphere but does not "
-"require hardware acceleration. A minimal set of geographical data is "
-"included, so it can be used without an internet connection."
+"Where do players from FC Barcelona or Real Madrid live? How far away are you"
+" from a country where elephants and lions wander around freely? How close is"
+" the nearest volcano? These are all questions that the right maps can help "
+"us answer. This app will give you access to all sorts of maps from all over "
+"the world and from different ages, so that you can even see how the world "
+"has changed over time!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:316
@@ -2659,7 +2683,7 @@ msgid ""
 "heart is sure to love it! Use stamps, play with shapes, or draw freehand to "
 "create something special. If your child loves drawing and creating artwork, "
 "then download this app and get them started on their next masterpiece!"
-msgstr "\"Pinte o sete\" com este aplicativo fácil e divertido! O pinguim Tux ajuda a orientar as crianças para que elas saibam como usar todas as ferramentas. A idade recomendada para usar este aplicativo é de 3 a 12 anos, mas qualquer pessoa de coração jovem com certeza vai adorar! Use adesivos, brinque com as formas, ou desenhe à mão livre para criar algo especial. Se seu filho gosta de desenhar e criar arte, baixe este aplicativo e faça ele começar sua próxima obra-prima!"
+msgstr "'Pinte o sete' com este aplicativo fácil e divertido! O pinguim Tux ajuda a orientar as crianças para que elas saibam como usar todas as ferramentas. A idade recomendada para usar este aplicativo é de 3 a 12 anos, mas qualquer pessoa de coração jovem com certeza vai adorar! Use adesivos, brinque com as formas, ou desenhe à mão livre para criar algo especial. Se seu filho gosta de desenhar e criar arte, baixe este aplicativo e faça ele começar sua próxima obra-prima!"
 
 #: content/Default/apps/content.json.h:391
 msgctxt "title"

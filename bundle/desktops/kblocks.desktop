@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=KBlocks
-Name[es]=Bloques
-Comment=Falling blocks game
-Comment[es]=Juego de bloques que caen.
+Name[es]=TetriBloques
+Comment=Match blocks to destroy them and win
+Comment[es]=Combina bloques de manera que se desaparezcan
 Type=Application
 Exec=kblocks -caption %c
 Icon=eos-app-kblocks
