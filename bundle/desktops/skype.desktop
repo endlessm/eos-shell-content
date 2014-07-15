@@ -7,7 +7,7 @@ Comment=Free internet calls with cheap rates to phones
 Comment[es]=Haz llamadas gratuitas por internet
 Comment[pt]=Faça chamadas gratuitas pela internet e ligações baratas para telefones e celulares.
 Type=Application
-Exec=skype %U
+Exec=skype --resources=/endless/skype/share/skype %U
 Icon=eos-app-skype
 Categories=Utility;
 X-Endless-LaunchMaximized=false

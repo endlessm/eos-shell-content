@@ -3315,7 +3315,7 @@
     "custom-splash-screen": "", 
     "description": "Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!  **Requires Internet", 
     "displayShape": "b2v", 
-    "exec": "skype %U", 
+    "exec": "skype --resources=/endless/skype/share/skype %U", 
     "featured_img": "skype-featured.jpg", 
     "icon": "skype-icon.png", 
     "is_featured": true, 
