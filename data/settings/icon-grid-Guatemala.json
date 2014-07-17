@@ -20,12 +20,13 @@
     "audacity.desktop",
     "eos-link-spotify.desktop",
     "eos-link-grooveshark.desktop",
-    "tuxpaint.desktop"
+    "tuxpaint.desktop",
+    "gimp.desktop"
   ],
   "eos-folder-games.directory" : [
     "supertuxkart.desktop",
     "billard-gl.desktop",
-    "kobodeluxe.desktop",
+    "openarena.desktop",
     "pingus.desktop",
     "tuxmath.desktop",
     "gcompris.desktop"
@@ -39,12 +40,13 @@
     "warmux.desktop"
   ],
   "eos-folder-work.directory" : [
-    "evolution.desktop",
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
     "gnome-calculator.desktop",
     "com.endlessm.finance.desktop",
-    "com.endlessm.resume.desktop"
+    "com.endlessm.resume.desktop",
+    "goldendict.desktop",
+    "com.endlessm.translation.desktop"
   ],
   "eos-folder-news.directory" : [
     "com.endlessm.weather.desktop",
@@ -55,21 +57,21 @@
     "eos-link-guatemala.desktop"
   ],
   "eos-folder-curiosity.directory" : [
-    "eos-link-ted.desktop",
+    "com.endlessm.virtual-school-es.desktop",
     "com.endlessm.cooking-es.desktop",
     "com.endlessm.dinosaurs-es.desktop",
     "com.endlessm.guatemala-es.desktop",
-    "com.endlessm.translation.desktop",
     "com.endlessm.typing.desktop",
     "com.endlessm.math-es.desktop",
     "com.endlessm.howto-es.desktop",
     "com.endlessm.travel-es.desktop",
     "gt-health.desktop",
-    "com.endlessm.virtual-school-es.desktop"
+    "marble.desktop"
   ],
   "eos-folder-social.directory" : [
     "eos-link-facebook.desktop",
     "empathy.desktop",
+    "evolution.desktop",
     "eos-link-gmail.desktop"
   ]
 }

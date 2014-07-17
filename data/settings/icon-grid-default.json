@@ -20,7 +20,6 @@
   "eos-folder-games.directory" : [
   ],
   "eos-folder-work.directory" : [
-    "evolution.desktop",
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
     "gnome-calculator.desktop"
@@ -30,11 +29,11 @@
     "eos-link-espn.desktop"
   ],
   "eos-folder-curiosity.directory" : [
-    "eos-link-ted.desktop"
   ],
   "eos-folder-social.directory" : [
     "eos-link-facebook.desktop",
     "empathy.desktop",
+    "evolution.desktop",
     "eos-link-gmail.desktop"
   ]
 }
