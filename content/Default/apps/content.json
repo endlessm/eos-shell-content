@@ -396,7 +396,6 @@
     "is_featured": false, 
     "is_offline": true, 
     "personalities": [
-      "Default", 
       "Global", 
       "Brazil"
     ], 
@@ -644,7 +643,6 @@
     "is_featured": false, 
     "is_offline": true, 
     "personalities": [
-      "Default", 
       "Global", 
       "Guatemala"
     ], 
@@ -667,9 +665,7 @@
     "icon": "com.endlessm.health-icon.png", 
     "is_featured": false, 
     "is_offline": true, 
-    "personalities": [
-      "Default"
-    ], 
+    "personalities": [], 
     "screenshots": [], 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.health-thumb.jpg", 
@@ -760,7 +756,6 @@
     "is_featured": false, 
     "is_offline": true, 
     "personalities": [
-      "Default", 
       "Global", 
       "Mexico"
     ], 
@@ -1768,7 +1763,7 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "All"
+      "Guatemala"
     ], 
     "screenshots": [], 
     "splash-screen-type": "None", 
@@ -1790,7 +1785,7 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "All"
+      "Guatemala"
     ], 
     "screenshots": [], 
     "splash-screen-type": "None", 
@@ -1812,7 +1807,9 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "All"
+      "Global", 
+      "Guatemala", 
+      "Mexico"
     ], 
     "screenshots": [], 
     "splash-screen-type": "None", 
@@ -1834,7 +1831,9 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "All"
+      "Global", 
+      "Guatemala", 
+      "Mexico"
     ], 
     "screenshots": [], 
     "splash-screen-type": "None", 
@@ -1856,7 +1855,8 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "All"
+      "Guatemala", 
+      "Mexico"
     ], 
     "screenshots": [], 
     "splash-screen-type": "None", 
