@@ -1,13 +1,9 @@
 {
   "desktop" : [
     "chromium-browser.desktop",
-    "com.endlessm.youvideos.desktop",
-    "skype.desktop",
     "eos-file-manager.desktop",
     "libreoffice-writer.desktop",
     "rhythmbox.desktop",
-    "com.endlessm.photos.desktop",
-    "com.endlessm.encyclopedia.desktop",
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
@@ -18,62 +14,27 @@
   "eos-folder-media.directory" : [
     "shotwell.desktop",
     "totem.desktop",
-    "gimp.desktop",
-    "inkscape.desktop",
-    "audacity.desktop",
     "eos-link-spotify.desktop",
     "eos-link-grooveshark.desktop"
   ],
   "eos-folder-games.directory" : [
-    "eos-link-angrybirds.desktop",
-    "supertuxkart.desktop",
-    "supertux2.desktop",
-    "frozen-bubble.desktop",
-    "openarena.desktop",
-    "solitaire.desktop",
-    "sol.desktop",
-    "chromium-bsu.desktop",
-    "blockout2.desktop",
-    "armagetron.desktop",
-    "billard-gl.desktop",
-    "kobodeluxe.desktop",
-    "lbreakout2.desktop",
-    "pingus.desktop",
-    "tuxmath.desktop",
-    "tuxtype.desktop",
-    "gcompris.desktop"
   ],
   "eos-folder-work.directory" : [
     "evolution.desktop",
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
-    "com.endlessm.resume.desktop",
-    "eos-link-gmail.desktop",
     "gnome-calculator.desktop"
   ],
   "eos-folder-news.directory" : [
-    "com.endlessm.weather.desktop",
     "eos-link-cnn.desktop",
     "eos-link-espn.desktop"
   ],
   "eos-folder-curiosity.directory" : [
-    "com.endlessm.brazil.desktop",
-    "com.endlessm.guatemala.desktop",
-    "com.endlessm.mexico.desktop",
-    "com.endlessm.futbol.desktop",
-    "com.endlessm.travel.desktop",
-    "com.endlessm.cooking.desktop",
-    "com.endlessm.fitness.desktop",
-    "com.endlessm.celebrities.desktop",
-    "com.endlessm.science.desktop",
-    "com.endlessm.english.desktop",
-    "com.endlessm.khanacademy.desktop",
-    "eos-link-ted.desktop",
-    "com.endlessm.translation.desktop",
-    "com.endlessm.typing.desktop"
+    "eos-link-ted.desktop"
   ],
   "eos-folder-social.directory" : [
     "eos-link-facebook.desktop",
-    "empathy.desktop"
+    "empathy.desktop",
+    "eos-link-gmail.desktop"
   ]
 }

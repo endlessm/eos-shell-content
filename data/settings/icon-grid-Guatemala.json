@@ -1,13 +1,12 @@
 {
   "desktop" : [
     "chromium-browser.desktop",
-    "com.endlessm.youvideos.desktop",
-    "skype.desktop",
     "eos-file-manager.desktop",
     "libreoffice-writer.desktop",
+    "com.endlessm.youvideos.desktop",
     "rhythmbox.desktop",
     "com.endlessm.photos.desktop",
-    "com.endlessm.encyclopedia.desktop",
+    "com.endlessm.encyclopedia-es.desktop",
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
@@ -18,38 +17,34 @@
   "eos-folder-media.directory" : [
     "shotwell.desktop",
     "totem.desktop",
-    "gimp.desktop",
-    "inkscape.desktop",
     "audacity.desktop",
     "eos-link-spotify.desktop",
-    "eos-link-grooveshark.desktop"
+    "eos-link-grooveshark.desktop",
+    "tuxpaint.desktop"
   ],
   "eos-folder-games.directory" : [
-    "eos-link-angrybirds.desktop",
     "supertuxkart.desktop",
-    "supertux2.desktop",
-    "frozen-bubble.desktop",
-    "openarena.desktop",
-    "solitaire.desktop",
-    "sol.desktop",
-    "chromium-bsu.desktop",
-    "blockout2.desktop",
-    "armagetron.desktop",
     "billard-gl.desktop",
     "kobodeluxe.desktop",
-    "lbreakout2.desktop",
     "pingus.desktop",
     "tuxmath.desktop",
-    "tuxtype.desktop",
     "gcompris.desktop"
+    "tuxtype.desktop",
+    "ktuberling.desktop",
+    "numptyphysics.desktop",
+    "tuxpuck.desktop",
+    "ri-li.desktop",
+    "teeworlds.desktop",
+    "extremetuxracer.desktop",
+    "warmux.desktop"
   ],
   "eos-folder-work.directory" : [
     "evolution.desktop",
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
-    "com.endlessm.resume.desktop",
-    "eos-link-gmail.desktop",
-    "gnome-calculator.desktop"
+    "gnome-calculator.desktop",
+    "com.endlessm.finance.desktop",
+    "com.endlessm.resume.desktop"
   ],
   "eos-folder-news.directory" : [
     "com.endlessm.weather.desktop",
@@ -60,21 +55,21 @@
     "eos-link-guatemala.desktop"
   ],
   "eos-folder-curiosity.directory" : [
-    "com.endlessm.guatemala.desktop",
-    "com.endlessm.futbol.desktop",
-    "com.endlessm.travel.desktop",
-    "com.endlessm.cooking.desktop",
-    "com.endlessm.fitness.desktop",
-    "com.endlessm.celebrities.desktop",
-    "com.endlessm.science.desktop",
-    "com.endlessm.english.desktop",
-    "com.endlessm.khanacademy.desktop",
     "eos-link-ted.desktop",
+    "com.endlessm.cooking-es.desktop",
+    "com.endlessm.dinosaurs-es.desktop",
+    "com.endlessm.guatemala-es.desktop",
     "com.endlessm.translation.desktop",
-    "com.endlessm.typing.desktop"
+    "com.endlessm.typing.desktop",
+    "com.endlessm.math-es.desktop",
+    "com.endlessm.howto-es.desktop",
+    "com.endlessm.travel-es.desktop",
+    "gt-health.desktop",
+    "com.endlessm.virtual-school-es.desktop"
   ],
   "eos-folder-social.directory" : [
     "eos-link-facebook.desktop",
-    "empathy.desktop"
+    "empathy.desktop",
+    "eos-link-gmail.desktop"
   ]
 }
