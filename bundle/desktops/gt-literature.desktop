@@ -1,11 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=World Literature
-Name[es]=LiteraturaMundial
+Name[es]=Literatura
 Comment=Read all of the world's great literature
 Comment[es]=Lee toda la gran literatura del mundo
 Type=Application
 Exec=gt-literature
 Icon=eos-app-gt-literature
 Categories=Education;
-X-Endless-LaunchMaximized=true
+X-Endless-LaunchMaximized=false
