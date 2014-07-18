@@ -352,7 +352,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.astronomy-screenshot1.jpg", 
+        "com.endlessm.astronomy-screenshot2.jpg", 
+        "com.endlessm.astronomy-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.astronomy-screenshot1.jpg", 
+        "com.endlessm.astronomy-screenshot2.jpg", 
+        "com.endlessm.astronomy-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.astronomy-thumb.jpg", 
     "subtitle": "Learn about the universe and all it contains", 
@@ -375,7 +386,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.biology-screenshot1.jpg", 
+        "com.endlessm.biology-screenshot2.jpg", 
+        "com.endlessm.biology-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.biology-screenshot1.jpg", 
+        "com.endlessm.biology-screenshot2.jpg", 
+        "com.endlessm.biology-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.biology-thumb.jpg", 
@@ -421,7 +441,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities-screenshot1.jpg", 
+        "com.endlessm.celebrities-screenshot2.jpg", 
+        "com.endlessm.celebrities-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.celebrities-screenshot1.jpg", 
+        "com.endlessm.celebrities-screenshot2.jpg", 
+        "com.endlessm.celebrities-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.celebrities-thumb.jpg", 
     "subtitle": "Learn more about your favorite celebrities", 
@@ -443,7 +474,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.cooking-screenshot1.jpg", 
+        "com.endlessm.cooking-screenshot2.jpg", 
+        "com.endlessm.cooking-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.cooking-screenshot1.jpg", 
+        "com.endlessm.cooking-screenshot2.jpg", 
+        "com.endlessm.cooking-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.cooking-thumb.jpg", 
     "subtitle": "Delicious recipes and tips for cooking", 
@@ -466,7 +508,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.dinosaurs-screenshot1.jpg", 
+        "com.endlessm.dinosaurs-screenshot2.jpg", 
+        "com.endlessm.dinosaurs-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.dinosaurs-screenshot1.jpg", 
+        "com.endlessm.dinosaurs-screenshot2.jpg", 
+        "com.endlessm.dinosaurs-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.dinosaurs-thumb.jpg", 
@@ -489,7 +540,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.encyclopedia-screenshot1.jpg", 
+        "com.endlessm.encyclopedia-screenshot2.jpg", 
+        "com.endlessm.encyclopedia-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.encyclopedia-screenshot1.jpg", 
+        "com.endlessm.encyclopedia-screenshot2.jpg", 
+        "com.endlessm.encyclopedia-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.encyclopedia-thumb.jpg", 
     "subtitle": "The free encyclopedia that anyone can contribute to", 
@@ -556,7 +618,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.finance-screenshot1.jpg", 
+        "com.endlessm.finance-screenshot2.jpg", 
+        "com.endlessm.finance-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.finance-screenshot1.jpg", 
+        "com.endlessm.finance-screenshot2.jpg", 
+        "com.endlessm.finance-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.finance-thumb.jpg", 
@@ -601,7 +672,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.futbol-screenshot1.jpg", 
+        "com.endlessm.futbol-screenshot2.jpg", 
+        "com.endlessm.futbol-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.futbol-screenshot1.jpg", 
+        "com.endlessm.futbol-screenshot2.jpg", 
+        "com.endlessm.futbol-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.futbol-thumb.jpg", 
     "subtitle": "Learn about your favorite team and players", 
@@ -623,7 +705,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.geography-screenshot1.jpg", 
+        "com.endlessm.geography-screenshot2.jpg", 
+        "com.endlessm.geography-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.geography-screenshot1.jpg", 
+        "com.endlessm.geography-screenshot2.jpg", 
+        "com.endlessm.geography-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.geography-thumb.jpg", 
     "subtitle": "Learn about all the countries in the world", 
@@ -689,7 +782,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.history-screenshot1.jpg", 
+        "com.endlessm.history-screenshot2.jpg", 
+        "com.endlessm.history-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.history-screenshot1.jpg", 
+        "com.endlessm.history-screenshot2.jpg", 
+        "com.endlessm.history-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.history-thumb.jpg", 
@@ -736,7 +838,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.math-screenshot1.jpg", 
+        "com.endlessm.math-screenshot2.jpg", 
+        "com.endlessm.math-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.math-screenshot1.jpg", 
+        "com.endlessm.math-screenshot2.jpg", 
+        "com.endlessm.math-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.math-thumb.jpg", 
     "subtitle": "High school math made simple and accessible", 
@@ -782,7 +895,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.myths-screenshot1.jpg", 
+        "com.endlessm.myths-screenshot2.jpg", 
+        "com.endlessm.myths-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.myths-screenshot1.jpg", 
+        "com.endlessm.myths-screenshot2.jpg", 
+        "com.endlessm.myths-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.myths-thumb.jpg", 
@@ -828,7 +950,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.physics-screenshot1.jpg", 
+        "com.endlessm.physics-screenshot2.jpg", 
+        "com.endlessm.physics-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.physics-screenshot1.jpg", 
+        "com.endlessm.physics-screenshot2.jpg", 
+        "com.endlessm.physics-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.physics-thumb.jpg", 
@@ -889,7 +1020,16 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.resume-screenshot1.jpg", 
+        "com.endlessm.resume-screenshot2.jpg"
+      ], 
+      "es": [
+        "com.endlessm.resume-screenshot1.jpg", 
+        "com.endlessm.resume-screenshot2.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.resume-thumb.jpg", 
     "subtitle": "Write a great resume and prepare for interviews", 
@@ -912,7 +1052,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.socialsciences-screenshot1.jpg", 
+        "com.endlessm.socialsciences-screenshot2.jpg", 
+        "com.endlessm.socialsciences-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.socialsciences-screenshot1.jpg", 
+        "com.endlessm.socialsciences-screenshot2.jpg", 
+        "com.endlessm.socialsciences-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.socialsciences-thumb.jpg", 
@@ -1059,7 +1208,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.youvideos-screenshot1.jpg", 
+        "com.endlessm.youvideos-screenshot2.jpg", 
+        "com.endlessm.youvideos-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.youvideos-screenshot1.jpg", 
+        "com.endlessm.youvideos-screenshot2.jpg", 
+        "com.endlessm.youvideos-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.youvideos-thumb.jpg", 
     "subtitle": "Discover and share great videos online", 
