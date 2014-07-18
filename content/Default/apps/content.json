@@ -1386,7 +1386,7 @@
     "custom-splash-screen": "", 
     "description": "Use this app to configure the EduGames app and create the exact learning experience you'd like for your students! You can change the list of activities, or change the controls of the app so that they stay focused on just the games that you want them to. To begin, download this app and the EduGames app from the 'Game' section of the app store. They'll have so much fun that they'll want to spend hours doing just what you want them to!", 
     "displayShape": "b1", 
-    "exec": "gcompris --administration", 
+    "exec": "gcompris-admin --administration", 
     "featured_img": "", 
     "icon": "gcompris-admin-icon.png", 
     "is_featured": false, 
