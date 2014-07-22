@@ -1418,7 +1418,7 @@
     "custom-splash-screen": "", 
     "description": "Create your own world with this action-packed game that lets you travel through time and start a civilization of your very own. You'll start at the begging, in a pre-historic world, where you'll need to create your own tribe. Then, you'll move onto the middle ages, survive the plague and invent the wheel. You'll continue through the ages until you reach modern times and need to balance world politics with your agenda to lead your people to conquering the moon and beyond!", 
     "displayShape": "b1", 
-    "exec": "freeciv", 
+    "exec": "freeciv-gtk2", 
     "featured_img": "", 
     "icon": "freeciv-icon.png", 
     "is_featured": false, 
@@ -1927,7 +1927,7 @@
     "custom-splash-screen": "", 
     "description": "In reading and conversation, words often come up with which you\u2019re not familiar and it\u2019s best to have a dictionary close by so that you can learn new vocabulary and understand what you read and hear. This dictionary app is easy to use and navigate, so you\u2019ll never have trouble finding just the word you\u2019re looking for!", 
     "displayShape": "b1", 
-    "exec": "goldendict", 
+    "exec": "eos-exec-localized 'goldendict' es:'env LANG=es_ES goldendict' pt:'env LANG=pt_BR goldendict'", 
     "featured_img": "", 
     "icon": "goldendict-icon.png", 
     "is_featured": false, 
@@ -1950,7 +1950,7 @@
     "square_img": "goldendict-thumb.jpg", 
     "subtitle": "A cool dictionary with lots of bonus tools", 
     "title": "Dictionary", 
-    "tryexec": ""
+    "tryexec": "goldendict"
   }, 
   {
     "application-id": "gt-curriculum", 
@@ -3719,7 +3719,7 @@
     "square_img": "stellarium-thumb.jpg", 
     "subtitle": "Planetarium software that shows what you see when you look at the stars", 
     "title": "Stellarium", 
-    "tryexec": "stellarium"
+    "tryexec": ""
   }, 
   {
     "application-id": "supertux", 

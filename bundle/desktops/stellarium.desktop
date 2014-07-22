@@ -8,7 +8,6 @@ Comment[es]=Conoce a tu cielo con esta app que te mostrará las estrellas y cons
 Comment[pt]=Software planetário que mostra o que você vê ao olhar para as estrelas
 Type=Application
 Exec=stellarium-wrapper
-TryExec=stellarium
 Icon=eos-app-stellarium
 Categories=Resources;
 X-Endless-LaunchMaximized=true

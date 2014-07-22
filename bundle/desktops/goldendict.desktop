@@ -7,7 +7,8 @@ Comment=A cool dictionary with lots of bonus tools
 Comment[es]=Un diccionario con varias funciones addicionales
 Comment[pt]=Software para pesquisa de termos em dicionários, com muitas ferramentas adicionais
 Type=Application
-Exec=goldendict
+Exec=eos-exec-localized 'goldendict' es:'env LANG=es_ES goldendict' pt:'env LANG=pt_BR goldendict'
+TryExec=goldendict
 Icon=eos-app-goldendict
 Categories=Utility;
 X-Endless-LaunchMaximized=true
