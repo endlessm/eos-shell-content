@@ -279,7 +279,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "chromium-browser-screenshot1.jpg", 
+        "chromium-browser-screenshot2.jpg", 
+        "chromium-browser-screenshot3.jpg"
+      ], 
+      "es": [
+        "chromium-browser-screenshot1.jpg", 
+        "chromium-browser-screenshot2.jpg", 
+        "chromium-browser-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "chromium-browser-thumb.jpg", 
     "subtitle": "Browse the Web", 
@@ -604,7 +615,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.farming-screenshot1.jpg", 
+        "com.endlessm.farming-screenshot2.jpg", 
+        "com.endlessm.farming-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.farming-screenshot1.jpg", 
+        "com.endlessm.farming-screenshot2.jpg", 
+        "com.endlessm.farming-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.farming-thumb.jpg", 
     "subtitle": "Learn about crops and raising animals", 
@@ -835,7 +857,16 @@
       "All"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.howto-screenshot1.jpg", 
+        "com.endlessm.howto-screenshot2.jpg", 
+        "com.endlessm.howto-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.howto-screenshot1.jpg", 
+        "com.endlessm.howto-screenshot2.jpg", 
+        "com.endlessm.howto-screenshot3.jpg"
+      ]
     }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.howto-thumb.jpg", 
@@ -947,7 +978,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.photos-screenshot1.jpg", 
+        "com.endlessm.photos-screenshot2.jpg", 
+        "com.endlessm.photos-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.photos-screenshot1.jpg", 
+        "com.endlessm.photos-screenshot2.jpg", 
+        "com.endlessm.photos-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.photos-thumb.jpg", 
     "subtitle": "Easily edit and share all of your favorite photos", 
@@ -1104,7 +1146,14 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.translation-screenshot1.jpg"
+      ], 
+      "es": [
+        "com.endlessm.translation-screenshot1.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.translation-thumb.jpg", 
     "subtitle": "Translate text between many languages instantly", 
@@ -1159,7 +1208,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.typing-screenshot1.jpg", 
+        "com.endlessm.typing-screenshot2.jpg", 
+        "com.endlessm.typing-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.typing-screenshot1.jpg", 
+        "com.endlessm.typing-screenshot2.jpg", 
+        "com.endlessm.typing-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.typing-thumb.jpg", 
     "subtitle": "Learn to type with games and songs", 
@@ -1318,7 +1378,14 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "eos-file-manager-screenshot1.jpg"
+      ], 
+      "es": [
+        "eos-file-manager-screenshot1.jpg"
+      ]
+    }, 
     "splash-screen-type": "None", 
     "square_img": "eos-file-manager-thumb.jpg", 
     "subtitle": "Access all of your documents and files", 
