@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 
 # This script accepts a directory of desktop.in files, and outputs desktop files
 # with localized strings for every localestring key/value pair. Requires polib
@@ -73,7 +73,7 @@ def translate_dir(in_dir):
                     try:
                         msgctxt = KEY_TO_CONTEXT[key]
                         translation = translate(strings_dict, localestring, lang, msgctxt)
-                        localized_line = ("%s[%s]=%s" % (key, lang, translation)).encode('utf-8')
+                        localized_line = "%s[%s]=%s" % (key, lang, translation)
                         out_file.write(localized_line + '\n')
                     except KeyError:
                         pass
