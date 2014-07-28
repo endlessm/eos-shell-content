@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 
 # This script requires installing ImageMagick
 # (sudo apt-get install imagemagick)

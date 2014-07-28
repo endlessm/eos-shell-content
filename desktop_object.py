@@ -85,7 +85,7 @@ class DesktopObject(object):
     def write_key(self, handle, key):
         val = self.get(key)
         if val is not None:
-            line = ('%s=%s\n' % (key, val)).encode('utf-8')
+            line = '%s=%s\n' % (key, val)
             if self.key_is_localized(key):
                 line = '_' + line
 
