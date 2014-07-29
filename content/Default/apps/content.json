@@ -3601,7 +3601,7 @@
     "application-id": "shotwell", 
     "category": "Utility", 
     "core": true, 
-    "custom-splash-screen": "shotwell-splash.jpg", 
+    "custom-splash-screen": "", 
     "description": "We all love to take pictures in our everyday lives \u2013 and we especially love downloading them to our computers so we can edit and share them via social media. This app lets you import photos from a digital camera or phone seamlessly. You can then arrange them into albums, edit them for maximum beauty and effect, and of course, display them on your favorite social networks, like Facebook.", 
     "displayShape": "b1", 
     "exec": "shotwell %U", 
@@ -3626,7 +3626,7 @@
         "shotwell-screenshot2.jpg"
       ]
     }, 
-    "splash-screen-type": "Custom", 
+    "splash-screen-type": "Default", 
     "square_img": "shotwell-thumb.jpg", 
     "subtitle": "Easily edit, organize, and share photos.", 
     "title": "Photos", 
