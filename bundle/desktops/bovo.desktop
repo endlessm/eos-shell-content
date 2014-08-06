@@ -2,8 +2,10 @@
 Version=1.0
 Name=Five in a Row
 Name[es]=Cinco
+Name[pt]=Cinco na linha
 Comment=Five in a row wins you the game
 Comment[es]=Poner cinco en una fila te ganará el juego
+Comment[pt]=Marque cinco na linha e vença o jogo
 Type=Application
 Exec=bovo -caption %c
 Icon=eos-app-bovo

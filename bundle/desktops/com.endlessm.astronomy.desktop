@@ -2,8 +2,10 @@
 Version=1.0
 Name=Astronomy
 Name[es]=Astronomía
+Name[pt]=Astronomia 
 Comment=Learn about the universe and all it contains
 Comment[es]=Explora el universo y todo lo que contiene
+Comment[pt]=Aprenda sobre o universo e tudo que contém nele
 Type=Application
 Exec=eos-astronomy
 Icon=eos-app-com.endlessm.astronomy

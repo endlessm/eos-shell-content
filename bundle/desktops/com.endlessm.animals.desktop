@@ -2,8 +2,10 @@
 Version=1.0
 Name=Animals
 Name[es]=Animales
+Name[pt]=Animais
 Comment=Learn about all of Earth's creatures
 Comment[es]=Aprende acerca de las criaturas de la Tierra
+Comment[pt]=Aprenda mais sobre todas as criaturas da Terra. 
 Type=Application
 Exec=eos-animals
 Icon=eos-app-com.endlessm.animals
