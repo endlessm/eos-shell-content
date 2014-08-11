@@ -381,3 +381,22 @@ if __name__ == '__main__':
     with open(manifest_path, 'w') as manifest_file:
         for app in core_apps:
             manifest_file.write(app + '\n')
+
+    # Generate a manifest of all the apps by category
+    category_apps = {}
+    for id, obj in desktop_objects.items():
+        if isinstance(obj, AppObject):
+            category = obj.get('Categories')
+            if category not in category_apps:
+                category_apps[category] = []
+            category_apps[category].append(id)
+    categories_path = os.path.join(BUNDLE_MANIFESTS_DIR, 'categories.txt')
+    with open(categories_path, 'w') as categories_file:
+        for category in sorted(category_apps.keys()):
+            # Drop the terminal ';' on the category name
+            categories_file.write(category[:len(category)-1] + ':\n')
+            app_list = category_apps[category]
+            app_list.sort()
+            for app in app_list:
+                categories_file.write(app + '\n')
+            categories_file.write('\n')
