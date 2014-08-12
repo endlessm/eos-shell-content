@@ -2,8 +2,10 @@
 Version=1.0
 Name=Tux Racer
 Name[es]=Carreras Tux
+Name[pt]=Tux Racer
 Comment=Race down icy mountains
 Comment[es]=Compite en carreras en montañas heladas
+Comment[pt]=Corrida pelas montanhas geladas 
 Type=Application
 Exec=etracer
 Icon=eos-app-extremetuxracer

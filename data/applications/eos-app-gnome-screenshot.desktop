@@ -5,6 +5,7 @@ Name[es]=Fotopantalla
 Name[pt]=Captura de tela
 Comment=Take a picture of your screen to save
 Comment[es]=Toma una foto de tu pantalla y guárdala
+Comment[pt]=Tire uma foto da sua tela para salvar
 Type=Application
 Exec=gnome-screenshot --interactive
 Icon=eos-app-gnome-screenshot

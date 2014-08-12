@@ -2,8 +2,10 @@
 Version=1.0
 Name=Dinosaurs
 Name[es]=Dinosaurios
+Name[pt]=Dinossauros
 Comment=Bringing prehistory back to life for you to discover anew
 Comment[es]=Regresando la prehistoria a tu vida para que la puedas descubrir nuevamente
+Comment[pt]=Trazendo a pré-história de volta à vida para você descobrir de novo
 Type=Application
 Exec=eos-dinosaurs
 Icon=eos-app-com.endlessm.dinosaurs

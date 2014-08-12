@@ -2,8 +2,10 @@
 Version=1.0
 Name=How To
 Name[es]=Cómo Se Hace
+Name[pt]=Como Fazer
 Comment=How-to do just about anything by yourself
 Comment[es]=Las guías paso a paso más útiles del mundo
+Comment[pt]=Como fazer praticamente qualquer coisa por conta própria
 Type=Application
 Exec=eos-howto
 Icon=eos-app-com.endlessm.howto

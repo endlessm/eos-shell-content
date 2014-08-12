@@ -2,8 +2,10 @@
 Version=1.0
 Name=Geography
 Name[es]=Geografía
+Name[pt]=Geografia
 Comment=Learn about all the countries in the world
 Comment[es]=Aprende acerca de todos los países del mundo
+Comment[pt]=Saiba mais sobre todos os países do mundo
 Type=Application
 Exec=eos-geography
 Icon=eos-app-com.endlessm.geography
