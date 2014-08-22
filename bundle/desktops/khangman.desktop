@@ -4,6 +4,7 @@ Name=KHangMan
 Name[es]=Ahorcado
 Comment=One of the most fun word games on earth
 Comment[es]=Juego de vocabulario hecho para niños de 6+ años
+Comment[pt]=Um dos jogos de palavra mais divertidos do planeta
 Type=Application
 Exec=khangman -caption %c %i
 Icon=eos-app-khangman

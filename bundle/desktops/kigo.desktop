@@ -4,6 +4,7 @@ Name=Kigo
 Name[es]=Go
 Comment=The ancient game of skill, updated for modern play
 Comment[es]=Un juego vigorizante
+Comment[pt]=O antigo jogo de habilidade, atualizado para um jogo moderno
 Type=Application
 Exec=kigo %i -caption %c
 Icon=eos-app-kigo

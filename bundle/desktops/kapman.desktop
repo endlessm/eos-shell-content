@@ -2,8 +2,10 @@
 Version=1.0
 Name=Kapman
 Name[es]=PacMan II
+Name[pt]=Kapman
 Comment=The classic game of ghosts and mazes
 Comment[es]=El juego clásico de fantasmas y laberintos
+Comment[pt]=O clássico jogo de fantasmas e labirintos
 Type=Application
 Exec=kapman
 Icon=eos-app-kapman

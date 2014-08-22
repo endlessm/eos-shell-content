@@ -4,6 +4,7 @@ Name=Killbots
 Name[es]=Killbots
 Comment=Outsmart the killer robots to win
 Comment[es]=Escápate de los robots asesinos que te persiguen
+Comment[pt]=Seja mais esperto que os robôs assassinos e ganhe o jogo 
 Type=Application
 Exec=killbots -caption %c
 Icon=eos-app-killbots

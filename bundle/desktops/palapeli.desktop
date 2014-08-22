@@ -2,8 +2,10 @@
 Version=1.0
 Name=Palapeli
 Name[es]=Rompecabezas
+Name[pt]=Palapeli
 Comment=A fun jigsaw puzzle game
 Comment[es]=Rompecabezas clásicos y muy divertidos
+Comment[pt]=Um divertido jogo de quebra-cabeça
 Type=Application
 Exec=palapeli
 Icon=eos-app-palapeli

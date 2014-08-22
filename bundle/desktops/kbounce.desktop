@@ -2,8 +2,10 @@
 Version=1.0
 Name=KBounce
 Name[es]=Rebote
+Name[pt]=KBounce
 Comment=The ball-bouncing game sure to hook you
 Comment[es]=Juego de paredes y rebotes
+Comment[pt]=Esse jogo com certeza vai fisgar você. 
 Type=Application
 Exec=kbounce -caption %c
 Icon=eos-app-kbounce

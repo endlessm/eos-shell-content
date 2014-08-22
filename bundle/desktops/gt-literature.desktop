@@ -2,8 +2,10 @@
 Version=1.0
 Name=World Literature
 Name[es]=Literatura
+Name[pt]=Literatura Mundial
 Comment=Read all of the world's great literature
 Comment[es]=Lee toda la gran literatura del mundo
+Comment[pt]=Leia tudo sobre a literatura mundial
 Type=Application
 Exec=gt-literature
 Icon=eos-app-gt-literature

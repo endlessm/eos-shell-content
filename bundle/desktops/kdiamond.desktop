@@ -2,8 +2,10 @@
 Version=1.0
 Name=KDiamond
 Name[es]=Diamantes
+Name[pt]=KDiamante
 Comment=Create lines of three diamonds
 Comment[es]=Crea líneas de tres diamantes
+Comment[pt]=Crie linhas de três diamantes
 Type=Application
 Exec=kdiamond -caption %c
 Icon=eos-app-kdiamond

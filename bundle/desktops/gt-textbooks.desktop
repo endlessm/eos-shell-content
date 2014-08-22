@@ -2,8 +2,10 @@
 Version=1.0
 Name=Textbooks
 Name[es]=Libros de texto
+Name[pt]=Livros Didáticos
 Comment=Textbooks for students, parents and teachers
 Comment[es]=Libros de texto para estudiantes y maestros
+Comment[pt]=Livros didáticos para alunos, pais e professores
 Type=Application
 Exec=gt-textbooks
 Icon=eos-app-gt-textbooks

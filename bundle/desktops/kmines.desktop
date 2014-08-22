@@ -4,6 +4,7 @@ Name=KMines
 Name[es]=KMinas
 Comment=Stay away from the exploding mines
 Comment[es]=Manténte alejado minas peligrosas
+Comment[pt]=Fique longe das minas explosivas
 Type=Application
 Exec=kmines -caption %c
 Icon=eos-app-kmines

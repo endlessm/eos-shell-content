@@ -4,6 +4,7 @@ Name=Kubrick
 Name[es]=CuboRubik
 Comment=Like Rubik's Cube - create solid color sides to win
 Comment[es]=Juego basado en el Cubo de Rubik
+Comment[pt]=Como em um Cubo Mágico - crie lados de uma única cor e vença o jogo 
 Type=Application
 Exec=kubrick --geometry 1920x1080+0+0
 Icon=eos-app-kubrick

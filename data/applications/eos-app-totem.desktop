@@ -10,5 +10,5 @@ Type=Application
 Exec=sh -c "totem --pause `xdg-user-dir VIDEOS`"
 TryExec=totem
 Icon=eos-app-totem
-Categories=Entertainment;
+Categories=Utility;
 X-Endless-LaunchMaximized=true

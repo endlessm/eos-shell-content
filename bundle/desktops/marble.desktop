@@ -2,8 +2,10 @@
 Version=1.0
 Name=Maps
 Name[es]=Mapas
+Name[pt]=Mapas
 Comment=Maps of the entire world
 Comment[es]=Mapas de todo el mundo
+Comment[pt]=Mapas de todo o mundo
 Type=Application
 Exec=marble --geometry 1920x1080+0+0
 Icon=eos-app-marble

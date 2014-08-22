@@ -4,6 +4,7 @@ Name=KWordQuiz
 Name[es]=Vocabulario
 Comment=Grow your vocabulary and test your learning
 Comment[es]=Aprende usando tarjetas virtuales
+Comment[pt]=Aumente seu vocabulário e teste seu aprendizado
 Type=Application
 Exec=kwordquiz -caption %c %i
 Icon=eos-app-kwordquiz

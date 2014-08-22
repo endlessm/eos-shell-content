@@ -4,6 +4,7 @@ Name=KNetwalk
 Name[es]=Cables
 Comment=Make the right cable connections and win
 Comment[es]=Haz las conexiones correctas para ganar
+Comment[pt]=Conecte os cabos corretamente e vença 
 Type=Application
 Exec=knetwalk -caption %c
 Icon=eos-app-knetwalk

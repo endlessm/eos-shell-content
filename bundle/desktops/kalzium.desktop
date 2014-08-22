@@ -2,8 +2,10 @@
 Version=1.0
 Name=Kalzium
 Name[es]=Química
+Name[pt]=Kalzium
 Comment=A fun interactive periodic table of elements
 Comment[es]=Una tabla periódica interactiva y divertida
+Comment[pt]=Uma divertida tabela periódica interativa
 Type=Application
 Exec=kalzium -caption %c %i
 Icon=eos-app-kalzium

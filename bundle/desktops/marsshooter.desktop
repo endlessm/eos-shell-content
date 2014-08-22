@@ -2,8 +2,10 @@
 Version=1.0
 Name=M.A.R.S.
 Name[es]=M.A.R.S.
+Name[pt]=M.A.R.T.E.
 Comment=A shooting game in space
 Comment[es]=Un juego de batalla en el espacio
+Comment[pt]=Um jogo de tiros no espaço
 Type=Application
 Exec=mars
 Icon=eos-app-marsshooter

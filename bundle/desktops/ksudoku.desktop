@@ -4,6 +4,7 @@ Name=KSudoku
 Name[es]=KSoduko
 Comment=A challenging numerical puzzle game
 Comment[es]=Rompecabezas desafiantes
+Comment[pt]=Um desafiador quebra-cabeça numérico
 Type=Application
 Exec=ksudoku %i -caption %c
 Icon=eos-app-ksudoku

@@ -2,8 +2,10 @@
 Version=1.0
 Name=KBlackBox
 Name[es]=CajaNegra
+Name[pt]=KBlackBox
 Comment=Find the pattern and uncover the hidden balls
 Comment[es]=Encuentra a las esferas ocultas
+Comment[pt]=Encontre o padrão e descubra as bolas escondidas
 Type=Application
 Exec=kblackbox -caption %c
 Icon=eos-app-kblackbox

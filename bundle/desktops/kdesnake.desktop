@@ -2,8 +2,10 @@
 Version=1.0
 Name=KSnake
 Name[es]=Serpientes
+Name[pt]=KSnake
 Comment=A fun and very simple game for everyone
 Comment[es]=Un juego divertido y sencillo para todas las edades
+Comment[pt]=Um jogo divertido e muito simples para todo mundo
 Type=Application
 Exec=kdesnake --geometry 1920x1080+0+0 -snake -caption %c %i
 Icon=eos-app-kdesnake

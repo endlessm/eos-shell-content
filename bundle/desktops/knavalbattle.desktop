@@ -2,8 +2,10 @@
 Version=1.0
 Name=Battleships
 Name[es]=Batalla Naval
+Name[pt]=Batalha naval
 Comment=Blow your opponents out of the water
 Comment[es]=Elimina a tus adversarios con tu barco de guerra
+Comment[pt]=Exploda os navios oponentes
 Type=Application
 Exec=knavalbattle -caption %c %U
 Icon=eos-app-knavalbattle

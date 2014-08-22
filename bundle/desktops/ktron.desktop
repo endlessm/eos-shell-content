@@ -4,6 +4,7 @@ Name=KSnakeDuel
 Name[es]=DueloSSS
 Comment=Survival depends on your reflexes and wits
 Comment[es]=La supervivencia depende de tus reflejos e ingenio
+Comment[pt]=Sobreviver depende de seus reflexos e inteligência
 Type=Application
 Exec=ktron -caption %c %i
 Icon=eos-app-ktron

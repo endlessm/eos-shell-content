@@ -2,8 +2,10 @@
 Version=1.0
 Name=Tux Football
 Name[es]=Tux Football
+Name[pt]=Tux Futebol
 Comment=A fun soccer game starring Tux the penguin
 Comment[es]=Juega fútbol con Tux el pingüino
+Comment[pt]=Um divertido jogo de futebol - estrelando Tux, o pinguim
 Type=Application
 Exec=tuxfootball -fs
 Icon=eos-app-tuxfootball

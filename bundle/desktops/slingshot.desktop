@@ -2,8 +2,10 @@
 Version=1.0
 Name=Slingshot
 Name[es]=Slingshot
+Name[pt]=Estilingue
 Comment=A shooting strategy game set in space
 Comment[es]=Un juego de tiro y estrategia en el espacio
+Comment[pt]=Um jogo de estratégia de tiro no espaço
 Type=Application
 Exec=slingshot
 Icon=eos-app-slingshot

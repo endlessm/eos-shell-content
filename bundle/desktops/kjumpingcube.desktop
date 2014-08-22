@@ -4,6 +4,7 @@ Name=KJumpingCube
 Name[es]=CuboSaltador
 Comment=Develop a good strategy to conquer all the squares
 Comment[es]=Conquista todas las plazas
+Comment[pt]=Desenvolva uma boa estratégia para conquistar todas as praças
 Type=Application
 Exec=kjumpingcube -caption %c
 Icon=eos-app-kjumpingcube

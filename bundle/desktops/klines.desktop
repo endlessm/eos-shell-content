@@ -4,6 +4,7 @@ Name=Kolor Lines
 Name[es]=Kolor Líneas
 Comment=Line up balls of the same color to win
 Comment[es]=Alinea los círculos del mismo color para ganar
+Comment[pt]=Alinhe as bolas da mesma cor para ganhar
 Type=Application
 Exec=klines -caption %c
 Icon=eos-app-klines
