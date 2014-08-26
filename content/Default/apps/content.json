@@ -3598,6 +3598,28 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "scratch", 
+    "category": "Education", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "temp description", 
+    "displayShape": "b1", 
+    "exec": "temp_exec", 
+    "featured_img": "", 
+    "icon": "scratch-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "scratch-thumb.jpg", 
+    "subtitle": "temp subtitle", 
+    "title": "Scratch", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "shotwell", 
     "category": "Utility", 
     "core": true, 
@@ -4159,7 +4181,7 @@
     "custom-splash-screen": "", 
     "description": "Battle for control of the land, villages, and resources in this fantasy-themed strategy game. Each player controls an army of their own design and uses it to seek dominance. An exciting blend of history, fantasy, and strategy, this game is sure to reveal a great leader inside you.", 
     "displayShape": "b1", 
-    "exec": "wesnoth-1.11 -f", 
+    "exec": "resfix wesnoth-1.11 -f", 
     "featured_img": "", 
     "icon": "wesnoth-icon.png", 
     "is_featured": false, 
@@ -4176,7 +4198,7 @@
     "square_img": "wesnoth-thumb.jpg", 
     "subtitle": "Fantasy turn-based strategy game", 
     "title": "Wesnoth", 
-    "tryexec": ""
+    "tryexec": "wesnoth-1.11"
   }, 
   {
     "application-id": "xmoto", 
