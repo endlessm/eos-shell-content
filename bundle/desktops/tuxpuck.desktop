@@ -1,12 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Tux Puck
+Name[ar]=تكس باك
 Name[es]=Tux Puck
+Name[pt]=Tux Puck
 Comment=Exciting air hockey game for you and your friends
+Comment[ar]=لعبة هوكي الجوية الممتعة لك و لأصدقائك
 Comment[es]=Juega a hockey de mesa con tus amigos
 Comment[pt]=Emocionante jogo de hóquei aéreo para você e seus amigos
 Type=Application
-Exec=tuxpuck
+Exec=resfix tuxpuck
 Icon=eos-app-tuxpuck
 Categories=Games;
 X-Endless-LaunchMaximized=true

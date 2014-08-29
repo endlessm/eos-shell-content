@@ -1,10 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Name=KJumpingCube
+Name[ar]=كي جمبينج كيوب
 Name[es]=CuboSaltador
+Name[pt]=Cubo Saltador
 Comment=Develop a good strategy to conquer all the squares
+Comment[ar]=قم بتطوير استراتيجية جيدة للإستيلاء على كل المربعات (المساحات).
 Comment[es]=Conquista todas las plazas
-Comment[pt]=Desenvolva uma boa estratégia para conquistar todas as praças
+Comment[pt]=Desenvolva uma boa estratégia para conquistar todos os espaços
 Type=Application
 Exec=kjumpingcube -caption %c
 Icon=eos-app-kjumpingcube
