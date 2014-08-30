@@ -10,6 +10,7 @@ Comment[es]=Juega a hockey de mesa con tus amigos
 Comment[pt]=Emocionante jogo de hóquei aéreo para você e seus amigos
 Type=Application
 Exec=resfix tuxpuck
+TryExec=tuxpuck
 Icon=eos-app-tuxpuck
 Categories=Games;
 X-Endless-LaunchMaximized=true
