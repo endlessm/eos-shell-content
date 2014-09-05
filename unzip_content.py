@@ -209,10 +209,9 @@ if __name__ == '__main__':
         convert(source_file, target_file,
                 '-resize 90x90^ -gravity center -crop 90x90+0+0')
 
-    # Note: we are not yet handling the app and link icons
-
     # Note: we currently ignore the folder icons in the icons folder
     # They are .png files, where we currently need .svg files
+    # Folder icons are currently managed in eos-theme
 
     # Generate .desktop files
 
