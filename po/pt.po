@@ -15,9 +15,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-08-29 16:25-0700\n"
-"PO-Revision-Date: 2014-08-30 02:00+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2014-09-02 14:50-0700\n"
+"PO-Revision-Date: 2014-09-04 02:40+0000\n"
+"Last-Translator: Silva <michele@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/eos-shell-content/language/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -215,7 +215,7 @@ msgid ""
 "yet know about. Get access to a newspaper that automatically updates with "
 "the most relevant articles, and a discovery center that will help you start "
 "exploring the web in a new way!  **Requires internet"
-msgstr "Não é necessária uma descrição - não está disponível na Central de Aplicativos"
+msgstr "Você pode encontrar quase tudo na internet, mas às vezes é difícil saber quais fontes são confiáveis. Este aplicativo irá te levar para onde você quiser dentro da web e te ajudar a descobrir novos sites impressionantes que você talvez não conheça. Tenha acesso a um jornal que se atualiza automaticamente, de acordo com as notícias mais relevantes e um centro de descoberta que irá te ajudar a explorar a internet de uma maneira nova! ** Requer internet"
 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
@@ -850,7 +850,7 @@ msgstr "A digitação é uma habilidade valorizada em praticamente qualquer ambi
 #: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Virtual School"
-msgstr "Khan Academy"
+msgstr "Escola Virtual"
 
 #: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
@@ -892,7 +892,7 @@ msgstr "Como está o clima lá fora? Responda a essa pergunta facilmente, todos 
 #: content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "YouVideos"
-msgstr "YouTube"
+msgstr "YouVídeos"
 
 #: content/Default/apps/content.json.h:131
 msgctxt "subtitle"
@@ -952,7 +952,7 @@ msgid ""
 " stay on top of your pictures, videos, and documents. With this app, you can"
 " store everything in one place and you’ll never lose that important file or "
 "special photo again."
-msgstr "Não é necessária uma descrição - não está disponível na Central de Aplicativos"
+msgstr "Organize-se com esse aplicativo que ajuda a encontrar documentos e arquivos no seu computador, não importa há quanto tempo eles tenham sido salvos. Organize as coisas de uma maneira que faça sentido para você. Crie e renomeie pastas para que você possa encontrar quando quiser.  Com este aplicativo você pode armazenar tudo em um só lugar e nunca vai perder um arquivo importante ou aquela foto especial novamente."
 
 #: content/Default/apps/content.json.h:139
 msgctxt "title"
@@ -2410,13 +2410,20 @@ msgstr "Scratch"
 
 #: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
-msgid "temp subtitle"
-msgstr ""
+msgid "Learn basic computer programming"
+msgstr "Aprenda sobre programação de computadores básica"
 
 #: content/Default/apps/content.json.h:351
 msgctxt "description"
-msgid "temp description"
-msgstr ""
+msgid ""
+"Do you love computer games and applications? Why not learn how to make your "
+"own? This app teaches you the basics of computer programming in a fun and "
+"easy-to-learn way. You can pick characters and objects that you like and "
+"then add instructions so that they do what you want. As you become more "
+"advanced, you'll see that you can make almost anything you want come to life"
+" on the screen by putting in the right instructions. What cool video game "
+"will you someday make? "
+msgstr "Você gosta de jogos e aplicativos? Por que não aprender a fazer o seu próprio? Este aplicativo ensina conceitos básicos de programação de computadores de uma forma divertida e fácil de aprender.  Você pode escolher personagens e objetos que você goste e, em seguida, adicionar as instruções para que façam o que você quer. À medida em que você for avançando vai ver que pode dar vida a praticamente qualquer coisa na tela, desde que dê as instruções corretas. Qual jogo maneiro você vai fazer?"
 
 #: content/Default/apps/content.json.h:352
 msgctxt "title"
@@ -2625,7 +2632,7 @@ msgstr "Ultrapasse os outros pilotos neste emocionante jogo de corrida de carros
 #: content/Default/apps/content.json.h:382
 msgctxt "title"
 msgid "Videos"
-msgstr "Videos"
+msgstr "Vídeos"
 
 #: content/Default/apps/content.json.h:383
 msgctxt "subtitle"

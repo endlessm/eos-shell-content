@@ -2,11 +2,13 @@
 Version=1.0
 Name=Scratch
 Name[ar]=شطب
+Name[es]=Scratch
 Name[pt]=Scratch
-Comment=temp subtitle
-Comment[ar]=التسمية المؤقتة
+Comment=Learn basic computer programming
+Comment[es]=Aprende programación de computadoras a nivel básico
+Comment[pt]=Aprenda sobre programação de computadores básica
 Type=Application
-Exec=temp_exec
+Exec=scratch %f
 Icon=eos-app-scratch
 Categories=Education;
 X-Endless-LaunchMaximized=true

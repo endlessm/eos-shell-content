@@ -2997,7 +2997,7 @@
     "splash-screen-type": "Default", 
     "square_img": "ksudoku-thumb.jpg", 
     "subtitle": "A challenging numerical puzzle game", 
-    "title": "KSudoku", 
+    "title": "Sudoku", 
     "tryexec": ""
   }, 
   {
@@ -3602,9 +3602,9 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "temp description", 
+    "description": "Do you love computer games and applications? Why not learn how to make your own? This app teaches you the basics of computer programming in a fun and easy-to-learn way. You can pick characters and objects that you like and then add instructions so that they do what you want. As you become more advanced, you'll see that you can make almost anything you want come to life on the screen by putting in the right instructions. What cool video game will you someday make? ", 
     "displayShape": "b1", 
-    "exec": "temp_exec", 
+    "exec": "scratch %f", 
     "featured_img": "", 
     "icon": "scratch-icon.png", 
     "is_featured": false, 
@@ -3615,7 +3615,7 @@
     "screenshots": [], 
     "splash-screen-type": "Default", 
     "square_img": "scratch-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "subtitle": "Learn basic computer programming", 
     "title": "Scratch", 
     "tryexec": ""
   }, 

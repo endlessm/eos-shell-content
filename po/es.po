@@ -21,9 +21,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-08-29 16:25-0700\n"
-"PO-Revision-Date: 2014-08-30 02:00+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2014-09-02 14:50-0700\n"
+"PO-Revision-Date: 2014-09-03 08:26+0000\n"
+"Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2412,17 +2412,24 @@ msgstr "¿Te gustan los juegos de aviones, de guerra, y todo tipo de armas? Si e
 #: content/Default/apps/content.json.h:349
 msgctxt "title"
 msgid "Scratch"
-msgstr ""
+msgstr "Scratch"
 
 #: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
-msgid "temp subtitle"
-msgstr ""
+msgid "Learn basic computer programming"
+msgstr "Aprende programación de computadoras a nivel básico"
 
 #: content/Default/apps/content.json.h:351
 msgctxt "description"
-msgid "temp description"
-msgstr "Descripción temporal "
+msgid ""
+"Do you love computer games and applications? Why not learn how to make your "
+"own? This app teaches you the basics of computer programming in a fun and "
+"easy-to-learn way. You can pick characters and objects that you like and "
+"then add instructions so that they do what you want. As you become more "
+"advanced, you'll see that you can make almost anything you want come to life"
+" on the screen by putting in the right instructions. What cool video game "
+"will you someday make? "
+msgstr "¿Te encantan los videojuegos y los programas de la computadora? ¿Por qué no aprender como hacer tu propio juego? Este programa te enseñará lo básico en programación de una manera fácil y entretenida. Puedes seleccionar los personajes y los objetos que te gusten y darles instrucciones para que hagan lo que tu quieras. Como vas avanzando, podrás ver que puedes hacer casi cualquier cosa que quieras con solo poniendo las instrucciones adecuadas. ¿Qué videojuego harás algún día?"
 
 #: content/Default/apps/content.json.h:352
 msgctxt "title"
@@ -2725,7 +2732,7 @@ msgid ""
 "defense. This is a great game for the whole family! Test your skill and "
 "reflexes to win this fast paced match!  (While the game is running, press F5"
 " or F6 to adjust your paddle speed.)"
-msgstr "En este juego de hockey, necesitas golpear el disco tras la defensa de tu oponente. ¡Es un juego que le encantará a toda la familia! ¡Pon a prueba tu habilidad y tus reflejos para ganar este partido de ritmo rápido!"
+msgstr "En este juego de hockey, necesitas golpear el disco tras la defensa de tu oponente. ¡Es un juego que le encantará a toda la familia! ¡Pon a prueba tu habilidad y tus reflejos para ganar este partido de ritmo rápido! (Presiona los botones F5 y F6 para ajustar la velocidad de tu pala mientras que estés jugando)"
 
 #: content/Default/apps/content.json.h:397
 msgctxt "title"
