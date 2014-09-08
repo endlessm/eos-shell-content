@@ -11,6 +11,7 @@ static const char *translatable_keys[] = {
   "title",
   "subtitle",
   "description",
+  "folderName"
 };
 
 static const int n_translatable_keys = G_N_ELEMENTS (translatable_keys);

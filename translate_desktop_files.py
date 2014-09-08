@@ -9,9 +9,12 @@ import polib
 
 PO_DIR = 'po'
 LINGUAS_FILE = os.path.join(PO_DIR, 'LINGUAS')
-KEY_TO_CONTEXT = {
+KEY_TO_CONTEXT_APPS = {
     'Name': 'title',
     'Comment': 'subtitle'
+}
+KEY_TO_CONTEXT_FOLDERS = {
+    'Name': 'folderName'
 }
 
 def is_localized_entry(line):
@@ -46,10 +49,13 @@ def translate_dir(in_dir):
 
     strings_dict = build_strings_dict(langs)
 
-    # iterate through only desktop.in files, and output them verbatim unless a key is prefixed
-    # with an underscore. In that case, see if we have a translation (based on the correct word
-    # context), and if so, output that key with a localized string
-    desktop_in_files = [filename for filename in os.listdir(in_dir) if 'desktop.in' in filename]
+    # Iterate through only desktop.in and directory.in files,
+    # and output them verbatim unless a key is prefixed with an underscore.
+    # In that case, see if we have a translation (based on the correct word
+    # context), and if so, output that key with a localized string.
+    desktop_in_files = [filename for filename in os.listdir(in_dir)
+                        if 'desktop.in' in filename
+                        or 'directory.in' in filename]
     for desktop_in_file in desktop_in_files:
         in_path = os.path.join(in_dir, desktop_in_file)
         in_file = open(in_path, 'r')
@@ -71,7 +77,10 @@ def translate_dir(in_dir):
 
                 for lang in langs:
                     try:
-                        msgctxt = KEY_TO_CONTEXT[key]
+                        if 'directory.in' in desktop_in_file:
+                            msgctxt = KEY_TO_CONTEXT_FOLDERS[key]
+                        else:
+                            msgctxt = KEY_TO_CONTEXT_APPS[key]
                         translation = translate(strings_dict, localestring, lang, msgctxt)
                         localized_line = "%s[%s]=%s" % (key, lang, translation)
                         out_file.write(localized_line + '\n')
@@ -80,6 +89,6 @@ def translate_dir(in_dir):
             else:
                 out_file.write(line + '\n')
 
-        # finally, remove this desktop.in file
+        # finally, remove this .in file
         in_file.close()
         os.remove(in_path)

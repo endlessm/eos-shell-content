@@ -13,6 +13,12 @@ default_links_json := $(shell cd $(srcdir); for file in `find Default/links -nam
 
 EXTRA_DIST += $(default_links_json)
 
+default_folders_json = \
+	folders.json \
+	$(NULL)
+
+EXTRA_DIST += $(default_folders_json)
+
 default_app_images := $(shell cd $(srcdir); for file in `find Default/apps/resources/images -name "*.jpg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_app_images)
@@ -47,7 +53,7 @@ DISTCLEANFILES += extract-content-strings$(BUILD_EXEEXT)
 
 # we need to generate the json.h header because gettext does not know how
 # to extract strings from custom JSON.
-content_files = $(default_app_json) $(default_links_json)
+content_files = $(default_app_json) $(default_links_json) $(default_folders_json)
 content_headers = $(content_files:.json=.json.h)
 %.json.h: %.json extract-content-strings$(BUILD_EXEEXT)
 	$(AM_V_GEN) $(MKDIR_P) $(@D) && \
@@ -65,6 +71,7 @@ nobase_content_DATA = \
 	$(default_app_screenshots) \
 	$(default_links_json) \
 	$(default_links_images) \
+	$(default_folders_json) \
 	$(NULL)
 
 eos-app-store-app-content.gresource.xml: Makefile $(default_app_json) $(default_app_images) $(default_app_thumbnails)
