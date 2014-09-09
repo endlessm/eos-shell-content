@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-09-02 14:50-0700\n"
+"POT-Creation-Date: 2014-09-09 05:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1255,6 +1255,7 @@ msgid ""
 msgstr ""
 
 #: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "Sudoku"
 msgstr ""
@@ -1958,11 +1959,6 @@ msgid ""
 "while trying to block your opponents’ squares. This game requires "
 "geometrical thinking as well as strategy, and is sure to provide hours of "
 "entertainment. Be careful – you just might become addicted!"
-msgstr ""
-
-#: content/Default/apps/content.json.h:286
-msgctxt "title"
-msgid "KSudoku"
 msgstr ""
 
 #: content/Default/apps/content.json.h:287

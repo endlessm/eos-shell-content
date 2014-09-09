@@ -15,9 +15,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-02 14:50-0700\n"
-"PO-Revision-Date: 2014-09-04 02:40+0000\n"
-"Last-Translator: Silva <michele@endlessm.com>\n"
+"POT-Creation-Date: 2014-09-08 22:10-0700\n"
+"PO-Revision-Date: 2014-09-09 05:11+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/eos-shell-content/language/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1262,6 +1262,7 @@ msgid ""
 msgstr "Você já teve vontade de tirar uma foto da tela do computador para salvar? Agora você pode, com esse aplicativo de captura de tela fácil de usar. Você pode optar por fotografar a tela inteira ou apenas uma das janelas abertas. Assim você salva somente o que deseja e nada mais.  "
 
 #: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
@@ -1816,16 +1817,17 @@ msgstr "Desenvolva uma boa estratégia para conquistar todos os espaços"
 #: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
-"Practice your strategic thinking with this challenging dice-based game! The "
-"game board contains boxes with different dice. When you click on an unowned "
-"box, you add one more point to that die and it becomes your color so that "
-"you now own it. Once the number of dots exceeds the number of immediate "
-"horizontal or vertical neighbors (five points for a center box that has four"
-" neighbors, four points on the edge, or three points at the corner), the "
-"dots are redistributed to the neighbors and you now own them, too! You will "
-"need to think carefully to win, and since dice can change hands very "
-"quickly, this game is sure to keep you engaged and on your toes!"
-msgstr "Pratique seu pensamento estratégico com esse jogo baseado em um desafio com cubos. O tabuleiro contém caixas com diferentes cubos sobre ele. Clicando em um cubo vazio, você adiciona mais pontos à ele, que ganha também a sua cor. A cada clique sobre o mesmo cubo, ele ganha mais pontos que saltam para os cubos ao redor e eles passam a ser seus também. Você precisa pensar com cuidado para vencer pois os pontos mudam de mãos muito rapidamente. Isso irá lhe manter ocupado e concentrado!"
+"Practice your strategic thinking with this challenging dice-based game! You "
+"move by clicking on a vacant square or one you already own. If you click on "
+"a vacant square, its color changes to show that you now own it. Each time "
+"you click on a square, its value increases by one. Once a square has more "
+"points than immediate neighbors, its points are distributed among the "
+"neighbors (the points jump around). If a neighboring square is owned by your"
+" opponent, you take control of that square and all of its points. You will "
+"need to think carefully to control all the squares, and since dice can "
+"change hands very quickly, this game is sure to keep you engaged and on your"
+" toes! "
+msgstr ""
 
 #: content/Default/apps/content.json.h:265
 msgctxt "title"
@@ -1967,11 +1969,6 @@ msgid ""
 "geometrical thinking as well as strategy, and is sure to provide hours of "
 "entertainment. Be careful – you just might become addicted!"
 msgstr "Baseado em um jogo popular antigo, esse aplicativo divertido permite que você estique sua mente e resolva quebra-cabeças. O objetivo é completar a maior quantidade de quadrados na grade do seu oponente. Revezando-se, desenhem linhas entre os pontos e tente bloquear os quadrados do seu oponente, ao mesmo tempo que forma seus quadrados. Este jogo requer pensamento geométrico, bem como uma boa estratégia, e com certeza proporcionará várias horas de entretenimento. Tenha cuidado - você pode se viciar!"
-
-#: content/Default/apps/content.json.h:286
-msgctxt "title"
-msgid "KSudoku"
-msgstr "Sudoku"
 
 #: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
@@ -2526,16 +2523,32 @@ msgstr "Paciência é um jogo clássico de cartas que é divertido para pessoas 
 
 #: content/Default/apps/content.json.h:367
 msgctxt "title"
+msgid "Steam"
+msgstr ""
+
+#: content/Default/apps/content.json.h:368
+msgctxt "subtitle"
+msgid "Valve's Steam digital software delivery system"
+msgstr ""
+
+#: content/Default/apps/content.json.h:369
+msgctxt "description"
+msgid ""
+"Purchase and download Linux games from Valve's Steam entertainment platform."
+msgstr ""
+
+#: content/Default/apps/content.json.h:370
+msgctxt "title"
 msgid "Stellarium"
 msgstr "Constelação"
 
-#: content/Default/apps/content.json.h:368
+#: content/Default/apps/content.json.h:371
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr "Software planetário que mostra o que você vê ao olhar para as estrelas"
 
-#: content/Default/apps/content.json.h:369
+#: content/Default/apps/content.json.h:372
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -2546,17 +2559,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr "Descubra o céu noturno com este aplicativo. Com um catálogo de mais de 600 mil estrelas, constelações de mais de uma dúzia de culturas e muitos outros recursos, este aplicativo permite ver e conhecer as estrelas bem aí na sua área de trabalho. Ele mostra o céu noturno tão real quanto o que você vê quando olha para cima. Defina as coordenadas de sua localização e saiba mais sobre as estrelas!"
 
-#: content/Default/apps/content.json.h:370
+#: content/Default/apps/content.json.h:373
 msgctxt "title"
 msgid "Super Tux"
 msgstr "Super Tux"
 
-#: content/Default/apps/content.json.h:371
+#: content/Default/apps/content.json.h:374
 msgctxt "subtitle"
 msgid "Jump your way through different levels to win"
 msgstr "Clássico jogo corre e pula em estilo arcade"
 
-#: content/Default/apps/content.json.h:372
+#: content/Default/apps/content.json.h:375
 msgctxt "description"
 msgid ""
 "This game is similar to the original Super Mario Brothers games where you "
@@ -2565,17 +2578,17 @@ msgid ""
 " can follow along with as you play."
 msgstr "Este jogo é semelhante aos jogos originais do Super Mario Bros. O seu personagem tem que correr e saltar de para passar de nível. Este jogo tem 26 níveis com diferentes adversários para combater, uma divertida trilha sonora e uma história que se desenrola a cada nível que você passa."
 
-#: content/Default/apps/content.json.h:373
+#: content/Default/apps/content.json.h:376
 msgctxt "title"
 msgid "Tux Kart"
 msgstr "Tux Kart"
 
-#: content/Default/apps/content.json.h:374
+#: content/Default/apps/content.json.h:377
 msgctxt "subtitle"
 msgid "Race alone or against your friends and family"
 msgstr "Jogo de corridas com personagens coloridos e pistas originais"
 
-#: content/Default/apps/content.json.h:375
+#: content/Default/apps/content.json.h:378
 msgctxt "description"
 msgid ""
 "Do you love racing games? Then this is the app for you! Race down easy, "
@@ -2586,17 +2599,17 @@ msgid ""
 "is sure to entertain you and your friends for hours!"
 msgstr "Tux Kart é um jogo de corridas protagonizado pelo adorável Pinguim Tux. Este jogo tem vários tipos de pistas de variadas dificuldades para testar as suas habilidades de condução. Não importa a pista em que você corre, o importante é chegar o mais rápido possível ao final, antes dos seus adversários, colecionar os itens vermelhos (que te darão capacidades especiais) e evitar os verdes (que te irão atrasar). Este jogo oferece a você e aos seus amigos horas de entretenimento!"
 
-#: content/Default/apps/content.json.h:376
+#: content/Default/apps/content.json.h:379
 msgctxt "title"
 msgid "Teeworlds"
 msgstr "Teelândia"
 
-#: content/Default/apps/content.json.h:377
+#: content/Default/apps/content.json.h:380
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
 msgstr "Incrível jogo de tiros para vários jogadores"
 
-#: content/Default/apps/content.json.h:378
+#: content/Default/apps/content.json.h:381
 msgctxt "description"
 msgid ""
 "Shoot your way to victory in death matches and more! This game has an old-"
@@ -2608,17 +2621,17 @@ msgid ""
 "and go!"
 msgstr "Teelândia é um jogo de estilo retro, mas não deixe que esta nostalgia o engane. Teelândia é também um incrível jogo multiplayer, com batalhas épicas de 16 jogadores, e vários modos conhecidos, tais como Capture the Flag e Team Deathmatch. Tente sobreviver na mortífera arena enquanto destrói os adversários. O Teelândia possui um interessante modo que lhe permite criar os seus próprios níveis de jogo. Muita diversão espera por você no aplicativo Teelândia."
 
-#: content/Default/apps/content.json.h:379
+#: content/Default/apps/content.json.h:382
 msgctxt "title"
 msgid "TORCS"
 msgstr "TORCS"
 
-#: content/Default/apps/content.json.h:380
+#: content/Default/apps/content.json.h:383
 msgctxt "subtitle"
 msgid "Race cool 3D cars in this realistic game"
 msgstr "Jogo de incríveis corridas 3D"
 
-#: content/Default/apps/content.json.h:381
+#: content/Default/apps/content.json.h:384
 msgctxt "description"
 msgid ""
 "Rip around turns and scream past other drivers in this exciting 3D car "
@@ -2629,17 +2642,17 @@ msgid ""
 "want to play too!"
 msgstr "Ultrapasse os outros pilotos neste emocionante jogo de corrida de carros em 3D. É tão realista que você vai jurar que está sentindo o cheiro de borracha queimada! Os usuários avançados também tem a oportunidade de personalizar seu jogo e ganhar ainda mais vantagem sobre seus adversários. Você vai adorar correr com seus carros velozes e, em breve, vai perceber que todos os seus amigos vão querer jogar também."
 
-#: content/Default/apps/content.json.h:382
+#: content/Default/apps/content.json.h:385
 msgctxt "title"
 msgid "Videos"
 msgstr "Vídeos"
 
-#: content/Default/apps/content.json.h:383
+#: content/Default/apps/content.json.h:386
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr "Leitor de vídeo e outros formatos de mídia."
 
-#: content/Default/apps/content.json.h:384
+#: content/Default/apps/content.json.h:387
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -2649,17 +2662,17 @@ msgid ""
 "your family and friends to join you in watching all of your favorite movies!"
 msgstr "Você gosta de assistir filmes? Faça isso do jeito certo com este aplicativo de vídeo que permite assistir a filmes baixados em modo de tela cheia. Outros recursos básicos, como controle de volume e listas de reprodução tornam a sua experiência de assistir a vídeos fácil e divertida. Com este aplicativo você vai querer convidar toda a sua família e amigos para assistir aos seus filmes preferidos!"
 
-#: content/Default/apps/content.json.h:385
+#: content/Default/apps/content.json.h:388
 msgctxt "title"
 msgid "Tux Football"
 msgstr "Tux Futebol"
 
-#: content/Default/apps/content.json.h:386
+#: content/Default/apps/content.json.h:389
 msgctxt "subtitle"
 msgid "A fun soccer game starring Tux the penguin"
 msgstr "Um divertido jogo de futebol - estrelando Tux, o pinguim"
 
-#: content/Default/apps/content.json.h:387
+#: content/Default/apps/content.json.h:390
 msgctxt "description"
 msgid ""
 "Do you love soccer? Now you can play all day with your favorite penguins! "
@@ -2668,17 +2681,17 @@ msgid ""
 "professionals!"
 msgstr "Você gosta de futebol? Agora você pode jogar o dia todo com seus pinguins favoritos! Mostre suas habilidades e estratégia enquanto controla os jogadores com a bola. Muito em breve, você vai sentir como se estivesse pronto para assumir um time!"
 
-#: content/Default/apps/content.json.h:388
+#: content/Default/apps/content.json.h:391
 msgctxt "title"
 msgid "Tux Math"
 msgstr "123 Tux"
 
-#: content/Default/apps/content.json.h:389
+#: content/Default/apps/content.json.h:392
 msgctxt "subtitle"
 msgid "Math games for kids"
 msgstr "Jogo de estilo Arcade que ajuda as crianças a estudarem matemática"
 
-#: content/Default/apps/content.json.h:390
+#: content/Default/apps/content.json.h:393
 msgctxt "description"
 msgid ""
 "Learn math by playing games! Starring kids’ favorite buddy, Tux the Penguin,"
@@ -2688,17 +2701,17 @@ msgid ""
 "both worlds and will help your child learn to love math!"
 msgstr "Apresentado pelo amiguinho favorito das crianças, Tux o Pinguim, este aplicativo de jogo de matemática conduz as crianças pelos conceitos da matemática de forma divertida e envolvente. Você quer que seus filhos sejam bons em matemática e que brinquem com jogos - portanto encorajá-los a jogar é unir o melhor dos dois mundos e isso irá fazer com que eles aprendam a gostar de matemática!"
 
-#: content/Default/apps/content.json.h:391
+#: content/Default/apps/content.json.h:394
 msgctxt "title"
 msgid "Tux Paint"
 msgstr "Tux Paint"
 
-#: content/Default/apps/content.json.h:392
+#: content/Default/apps/content.json.h:395
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr "Um aplicativo de desenho divertido para crianças"
 
-#: content/Default/apps/content.json.h:393
+#: content/Default/apps/content.json.h:396
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -2709,17 +2722,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr "'Pinte o sete' com este aplicativo fácil e divertido! O pinguim Tux ajuda a orientar as crianças para que elas saibam como usar todas as ferramentas. A idade recomendada para usar este aplicativo é de 3 a 12 anos, mas qualquer pessoa de coração jovem com certeza vai adorar! Use adesivos, brinque com as formas, ou desenhe à mão livre para criar algo especial. Se seu filho gosta de desenhar e criar arte, baixe este aplicativo e faça ele começar sua próxima obra-prima!"
 
-#: content/Default/apps/content.json.h:394
+#: content/Default/apps/content.json.h:397
 msgctxt "title"
 msgid "Tux Puck"
 msgstr "Tux Puck"
 
-#: content/Default/apps/content.json.h:395
+#: content/Default/apps/content.json.h:398
 msgctxt "subtitle"
 msgid "Exciting air hockey game for you and your friends"
 msgstr "Emocionante jogo de hóquei aéreo para você e seus amigos"
 
-#: content/Default/apps/content.json.h:396
+#: content/Default/apps/content.json.h:399
 msgctxt "description"
 msgid ""
 "An air hockey game in which you try to knock the puck past your opponent's "
@@ -2728,17 +2741,17 @@ msgid ""
 " or F6 to adjust your paddle speed.)"
 msgstr "Um jogo de hóquei aéreo em que o objetivo é movimentar o disco, passando pela defesa do seu oponente para marcar ponto. Este é um grande jogo para toda a família! Teste sua habilidade e reflexos para vencer este jogo rápido!"
 
-#: content/Default/apps/content.json.h:397
+#: content/Default/apps/content.json.h:400
 msgctxt "title"
 msgid "Tux Typing"
 msgstr "Tecla Tux"
 
-#: content/Default/apps/content.json.h:398
+#: content/Default/apps/content.json.h:401
 msgctxt "subtitle"
 msgid "Learn to type by playing games"
 msgstr "Ferramenta para crianças aprenderem a digitar"
 
-#: content/Default/apps/content.json.h:399
+#: content/Default/apps/content.json.h:402
 msgctxt "description"
 msgid ""
 "This fun application is a great way for kids, and even adults, to learn how "
@@ -2750,17 +2763,17 @@ msgid ""
 "encouraging them to play!"
 msgstr "Este aplicativo divertido é um ótimo meio para crianças e adultos aprenderem a digitar! Aprenda o básico ou aprimore suas habilidades com jogos que o ensinam como usar um teclado sem nem precisar olhar para ele. As crianças de hoje estão crescendo rodeadas de computadores e dispositivos móveis, e aprender como usar essas tecnologias adequadamente é muito importante para o seu futuro. Ajude-os a começar da forma correta, baixando este app e incentivando-os a jogar!"
 
-#: content/Default/apps/content.json.h:400
+#: content/Default/apps/content.json.h:403
 msgctxt "title"
 msgid "Warmux"
 msgstr "WarMUX"
 
-#: content/Default/apps/content.json.h:401
+#: content/Default/apps/content.json.h:404
 msgctxt "subtitle"
 msgid "Make your computer a battle of wit and war"
 msgstr "Faça do seu computador uma batalha de guerra e inteligência"
 
-#: content/Default/apps/content.json.h:402
+#: content/Default/apps/content.json.h:405
 msgctxt "description"
 msgid ""
 "Exterminate your opponent in a cartoon word using dynamite, grenades, "
@@ -2769,17 +2782,17 @@ msgid ""
 " member of each team attempts to destroy his opponents."
 msgstr "Extermine seu oponente em um mundo de desenho animado usando dinamite, granadas, bazucas e até um taco de beisebol. Cada jogador controla seu próprio time e precisa destruir seu adversário usando seu arsenal e inteligência. "
 
-#: content/Default/apps/content.json.h:403
+#: content/Default/apps/content.json.h:406
 msgctxt "title"
 msgid "Warzone 2100"
 msgstr "Zona de Guerra 2100"
 
-#: content/Default/apps/content.json.h:404
+#: content/Default/apps/content.json.h:407
 msgctxt "subtitle"
 msgid "Lead your troops to rebuild the world"
 msgstr "Lidere suas tropas para reconstruir o mundo"
 
-#: content/Default/apps/content.json.h:405
+#: content/Default/apps/content.json.h:408
 msgctxt "description"
 msgid ""
 "In Warzone 2100 you command forces to rebuild the world after nuclear war "
@@ -2789,17 +2802,17 @@ msgid ""
 "of strategy, tactics, and wit."
 msgstr "No Warzone 2100 você comanda as forças para reconstruir o mundo após uma guerra nuclear. Jogue sozinho ou com amigos. De qualquer forma, você vai mergulhar de cabeça em outro mundo, onde estará vivendo e respirando estratégia militar. Pesquise tecnologias e planeje batalhas neste jogo de estratégia, tática e inteligência."
 
-#: content/Default/apps/content.json.h:406
+#: content/Default/apps/content.json.h:409
 msgctxt "title"
 msgid "Wesnoth"
 msgstr "Wesnoth"
 
-#: content/Default/apps/content.json.h:407
+#: content/Default/apps/content.json.h:410
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "Jogo de estratégia baseado em Fantasia"
 
-#: content/Default/apps/content.json.h:408
+#: content/Default/apps/content.json.h:411
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -2808,17 +2821,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr "Batalhe pelo controle de terras, aldeias e recursos neste jogo de estratégia temático. Cada jogador controla um exército criado por ele mesmo e o usa em busca do domínio. Uma emocionante mistura de história, fantasia e estratégia, este jogo é certo para revelar um grande líder dentro de você."
 
-#: content/Default/apps/content.json.h:409
+#: content/Default/apps/content.json.h:412
 msgctxt "title"
 msgid "X-Moto"
 msgstr "X-Moto"
 
-#: content/Default/apps/content.json.h:410
+#: content/Default/apps/content.json.h:413
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr "Jogo de corrida de motocicletas"
 
-#: content/Default/apps/content.json.h:411
+#: content/Default/apps/content.json.h:414
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
