@@ -3,10 +3,12 @@ Version=1.0
 Name=Solitaire
 Name[ar]=سوليتير
 Name[es]=Solitaire
+Name[fr]=Solitaire
 Name[pt]=Paciência
 Comment=The classic single player card game
 Comment[ar]=لعبة الورق الكلاسيكية للاعب واحد
 Comment[es]=El juego de cartas clásico que todos aman
+Comment[fr]=Le jeu de carte classique à un joueur
 Comment[pt]=O clássico jogo de cartas para um jogador
 Type=Application
 Exec=solitaire --class=solitaire --variation=klondike

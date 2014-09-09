@@ -2718,7 +2718,7 @@
     "category": "Games", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "Practice your strategic thinking with this challenging dice-based game! The game board contains boxes with different dice. When you click on an unowned box, you add one more point to that die and it becomes your color so that you now own it. Once the number of dots exceeds the number of immediate horizontal or vertical neighbors (five points for a center box that has four neighbors, four points on the edge, or three points at the corner), the dots are redistributed to the neighbors and you now own them, too! You will need to think carefully to win, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes!", 
+    "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ", 
     "displayShape": "b1", 
     "exec": "kjumpingcube -caption %c", 
     "featured_img": "", 
@@ -3780,6 +3780,28 @@
     "square_img": "solitaire-thumb.jpg", 
     "subtitle": "The classic single player card game", 
     "title": "Solitaire", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "steam", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "Purchase and download Linux games from Valve's Steam entertainment platform.", 
+    "displayShape": "b1", 
+    "exec": "steam", 
+    "featured_img": "", 
+    "icon": "", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "None"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "steam-thumb.jpg", 
+    "subtitle": "Valve's Steam digital software delivery system", 
+    "title": "Steam", 
     "tryexec": ""
   }, 
   {
