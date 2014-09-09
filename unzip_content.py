@@ -158,6 +158,11 @@ if __name__ == '__main__':
             os.makedirs(target_dir)
             for source in os.listdir(source_dir):
                 target = source.replace('.png', '.jpg')
+                fourth_screenshot_idx = target.find('4.jpg')
+                if fourth_screenshot_idx > 0:
+                    print('Warning: ' + languages[i] + ' ' +
+                          target[0:fourth_screenshot_idx] +
+                          ' has more than 3 screenshots')
                 source_file = os.path.join(source_dir, source)
                 target_file = os.path.join(target_dir, target)
                 # Resize to a width of 480, allowing an arbitrary height
