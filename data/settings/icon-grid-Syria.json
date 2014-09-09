@@ -6,7 +6,7 @@
     "com.endlessm.youvideos.desktop",
     "rhythmbox.desktop",
     "com.endlessm.photos.desktop",
-    "com.endlessm.encyclopedia-pt.desktop",
+    "com.endlessm.encyclopedia-ar.desktop",
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
@@ -46,15 +46,9 @@
     "com.endlessm.translation.desktop"
   ],
   "eos-folder-news.directory" : [
-    "com.endlessm.weather.desktop",
-    "eos-link-globoesporte.desktop",
-    "eos-link-globo.desktop",
-    "eos-link-terra.desktop",
-    "eos-link-odia.desktop",
-    "eos-link-r7.desktop"
+    "com.endlessm.weather.desktop"
   ],
   "eos-folder-curiosity.directory" : [
-    "com.endlessm.typing.desktop",
     "marble.desktop",
     "eos-link-duolingo.desktop"
   ],
