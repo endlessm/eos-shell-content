@@ -24,7 +24,7 @@ import shutil
 import sys
 import zipfile
 
-from desktop_object import LinkObject, AppObject
+from desktop_object import LinkObject, AppObject, FolderObject
 from translate_desktop_files import translate_dir
 
 ZIP_FILENAME = 'appstore.zip'
@@ -35,6 +35,7 @@ BUNDLE_DIR = 'bundle'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
 APPS_DIR = os.path.join(DATA_DIR, 'applications')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
+FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
 SPLASH_DIR = '/usr/share/EndlessOS/splash'
 ICON_DIR = os.path.join('icons', '64x64', 'apps')
@@ -209,10 +210,9 @@ if __name__ == '__main__':
         convert(source_file, target_file,
                 '-resize 90x90^ -gravity center -crop 90x90+0+0')
 
-    # Note: we are not yet handling the app and link icons
-
     # Note: we currently ignore the folder icons in the icons folder
     # They are .png files, where we currently need .svg files
+    # Folder icons are currently managed in eos-theme
 
     # Generate .desktop files
 
@@ -220,11 +220,13 @@ if __name__ == '__main__':
     shutil.rmtree(LINKS_DIR, IGNORE_ERRORS)
     shutil.rmtree(APPS_DIR, IGNORE_ERRORS)
     shutil.rmtree(BUNDLE_APPS_DIR, IGNORE_ERRORS)
+    shutil.rmtree(FOLDERS_DIR, IGNORE_ERRORS)
 
     # Make the desktop dirs
     os.makedirs(LINKS_DIR)
     os.makedirs(APPS_DIR)
     os.makedirs(BUNDLE_APPS_DIR)
+    os.makedirs(FOLDERS_DIR)
 
     # Each app/link will be indexed by its id, so that duplicates
     # (resulting from different locales) will be merged for i18n
@@ -260,8 +262,18 @@ if __name__ == '__main__':
         desktop_objects[id] = AppObject(app_data, APPS_DIR, BUNDLE_APPS_DIR,
                                         splash_dir)
 
-    # For each of the parsed links/apps, output a desktop.in file
-    # which will then be translated via autotools
+    # For now, the folders.json is not in the CMS output,
+    # so we hard-code it in the directory above the processed content
+    folders_path = os.path.join(CONTENT_DIR, '..', 'folders.json')
+    folders_file = open(folders_path)
+    folders_json = json.load(folders_file)
+    folders_file.close()
+    for folders_data in folders_json:
+        id = folders_data['folderId']
+        desktop_objects[id] = FolderObject(folders_data, FOLDERS_DIR)
+
+    # For each of the parsed links/apps/folders, output a .in file
+    # (desktop.in for links/apps, directory.in for folders)
     for id, obj in desktop_objects.items():
         desktop_path = obj.get_desktop_path()
         desktop_file = open(desktop_path, 'w')
@@ -272,10 +284,11 @@ if __name__ == '__main__':
 
         desktop_file.close()
 
-    # Translate the desktop.in files we generated
+    # Translate the .in files we generated
     translate_dir(LINKS_DIR)
     translate_dir(APPS_DIR)
     translate_dir(BUNDLE_APPS_DIR)
+    translate_dir(FOLDERS_DIR)
 
     # Remove the existing icon dir, if it exists
     shutil.rmtree(ICON_DIR, IGNORE_ERRORS)

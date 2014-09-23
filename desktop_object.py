@@ -108,7 +108,7 @@ class LinkObject(DesktopObject):
         'Icon': 'linkId',
         'URL': 'linkUrl',
         'Index': 'linkDesktopPosition',
-        'Folder': 'linkFolder',
+        'Folder': 'linkFolder'
     }
 
     def __init__(self, data, desktop_dir, splash_dir, locale):
@@ -193,3 +193,41 @@ class AppObject(DesktopObject):
             return self._desktop_dir
         else:
             return self._bundle_desktop_dir
+
+class FolderObject(DesktopObject):
+
+    json_keys = {
+        'Id': 'folderId',
+        'Name': 'folderName',
+        'Icon': 'folderIcon'
+    }
+
+    def __init__(self, data, desktop_dir):
+        splash_dir = None
+        super(FolderObject, self).__init__(data, splash_dir)
+        self._desktop_dir = desktop_dir
+        self._prefix = 'eos-folder-'
+        self._icon_prefix = 'eos-folder-'
+        self._suffix = '.directory.in'
+        self.defaults['Type'] = 'Directory'
+
+    def get(self, key):
+        if key == 'Comment':
+            return None
+        elif key == 'Exec':
+            return None
+        elif key == 'TryExec':
+            return None
+        elif key == 'Categories':
+            return None
+        elif key == 'MimeType':
+            return None
+        elif key == 'X-Endless-LaunchMaximized':
+            return None
+        elif key == 'X-Endless-SplashBackground':
+            return None
+        else:
+            return super(FolderObject, self).get(key)
+
+    def get_desktop_dir(self):
+        return self._desktop_dir
