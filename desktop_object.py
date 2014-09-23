@@ -146,13 +146,10 @@ class LinkObject(DesktopObject):
     def get(self, key):
         if key == 'Exec':
             return self._get_exec()
-        elif key == 'TryExec':
-            return None
-        elif key == 'MimeType':
-            return None
-        elif key == 'X-Endless-LaunchMaximized':
-            return None
-        elif key == 'X-Endless-SplashBackground':
+        elif key in ['TryExec',
+                     'MimeType',
+                     'X-Endless-LaunchMaximized',
+                     'X-Endless-SplashBackground']:
             return None
         else:
             return super(LinkObject, self).get(key)
@@ -212,19 +209,13 @@ class FolderObject(DesktopObject):
         self.defaults['Type'] = 'Directory'
 
     def get(self, key):
-        if key == 'Comment':
-            return None
-        elif key == 'Exec':
-            return None
-        elif key == 'TryExec':
-            return None
-        elif key == 'Categories':
-            return None
-        elif key == 'MimeType':
-            return None
-        elif key == 'X-Endless-LaunchMaximized':
-            return None
-        elif key == 'X-Endless-SplashBackground':
+        if key in ['Comment',
+                   'Exec',
+                   'TryExec',
+                   'Categories',
+                   'MimeType',
+                   'X-Endless-LaunchMaximized',
+                   'X-Endless-SplashBackground']:
             return None
         else:
             return super(FolderObject, self).get(key)
