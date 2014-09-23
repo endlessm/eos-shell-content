@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-10 21:57-0700\n"
-"PO-Revision-Date: 2014-09-11 04:58+0000\n"
+"POT-Creation-Date: 2014-09-22 09:21-0700\n"
+"PO-Revision-Date: 2014-09-22 16:23+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/eos-shell-content/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -2219,17 +2219,20 @@ msgstr "لعبة ماين تيست"
 
 #: content/Default/apps/content.json.h:323
 msgctxt "subtitle"
-msgid "Find bombs before they find you"
-msgstr "جد القنابل قبل أن تجدك"
+msgid "Create your dream world"
+msgstr ""
 
 #: content/Default/apps/content.json.h:324
 msgctxt "description"
 msgid ""
-"Make your way through a battlefield full of mines, and make sure you find "
-"the bombs that are there before they explode¡ You will be given clues to "
-"help you, but you will have to rely on logic, intuition, and luck to come "
-"out of this game alive!"
-msgstr "أكمل طريقك بعبور ساحة المعركة المليئة بالألغام، وتأكد من العثور على القنابل الموجودة هناك قبل أن تنفجر، هذا وسيتم إعطاؤك خيوط للمساعدة، ولكن عليك الاعتماد على المنطق والحدس والحظ للخروج من هذه اللعبة على قيد الحياة!"
+"What kind of a world would you build? Start with just land and water, and "
+"from there fill in every detail you can possibly think of! Get creative and "
+"build an incredible castle, a giant skyscraper, a massive mansion, and don't"
+" forget to add city walls for protection. Explore the world and build "
+"whatever you'd like during the day, but make sure you’re prepared for the "
+"night. You may find that spiders, skeletons, and zombies might try to attack"
+" your city!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:325
 msgctxt "title"
@@ -2833,3 +2836,33 @@ msgid ""
 "courses. Learn about science and practice your racing skills at the same "
 "time in this fast-paced, exciting test of speed!"
 msgstr "أتحب الدراجات النارية؟ إن كنت كذلك فستحب لعبة السباق هذه و التي تلعب حركات الجسد دورا مهما في الفوز! يجب عليك السيطرة على الدراجة الخاصة بك إلى أقصى حدودك الجسدية إذا كنت تريد أن يكون لك فرصة الانتهاء من الدورات الصعبة. تعرف على العلوم ومارس مهارات السباق الخاصة بك في نفس الوقت  في هذه اللعبة ذات الوتيرة السريعة، واختبر السرعة مثيرة!"
+
+#: content/folders.json.h:4
+msgctxt "folderName"
+msgid "Curiosity"
+msgstr ""
+
+#: content/folders.json.h:5
+msgctxt "folderName"
+msgid "Games"
+msgstr ""
+
+#: content/folders.json.h:6
+msgctxt "folderName"
+msgid "Media"
+msgstr ""
+
+#: content/folders.json.h:7
+msgctxt "folderName"
+msgid "News"
+msgstr ""
+
+#: content/folders.json.h:8
+msgctxt "folderName"
+msgid "Social"
+msgstr ""
+
+#: content/folders.json.h:9
+msgctxt "folderName"
+msgid "Work"
+msgstr ""

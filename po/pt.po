@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-10 21:57-0700\n"
-"PO-Revision-Date: 2014-09-16 04:17+0000\n"
+"POT-Creation-Date: 2014-09-22 09:21-0700\n"
+"PO-Revision-Date: 2014-09-22 16:27+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/eos-shell-content/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -2226,17 +2226,20 @@ msgstr "Caça às Bombas"
 
 #: content/Default/apps/content.json.h:323
 msgctxt "subtitle"
-msgid "Find bombs before they find you"
-msgstr "Encontre as bombas antes que elas te encontrem "
+msgid "Create your dream world"
+msgstr ""
 
 #: content/Default/apps/content.json.h:324
 msgctxt "description"
 msgid ""
-"Make your way through a battlefield full of mines, and make sure you find "
-"the bombs that are there before they explode¡ You will be given clues to "
-"help you, but you will have to rely on logic, intuition, and luck to come "
-"out of this game alive!"
-msgstr "Faça o seu caminho através de um campo de batalha cheio de minas. Certifique-se de encontrar as bombas que estão lá antes que elas explodam! Você receberá pistas para ajudá-lo mas terá que contar com a lógica, intuição e sorte para sair vivo deste jogo!"
+"What kind of a world would you build? Start with just land and water, and "
+"from there fill in every detail you can possibly think of! Get creative and "
+"build an incredible castle, a giant skyscraper, a massive mansion, and don't"
+" forget to add city walls for protection. Explore the world and build "
+"whatever you'd like during the day, but make sure you’re prepared for the "
+"night. You may find that spiders, skeletons, and zombies might try to attack"
+" your city!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:325
 msgctxt "title"
@@ -2840,3 +2843,33 @@ msgid ""
 "courses. Learn about science and practice your racing skills at the same "
 "time in this fast-paced, exciting test of speed!"
 msgstr "Ama motocicletas?  Então você vai adorar este jogo de corrida, onde a física desempenha um papel importante na conquista! Você deve controlar sua moto ao seu limite físico se quiser ter a chance de terminar os percursos difíceis. Saiba mais sobre ciência e pratique suas habilidades de corrida ao mesmo tempo neste teste de velocidade emocionante!"
+
+#: content/folders.json.h:4
+msgctxt "folderName"
+msgid "Curiosity"
+msgstr "Curiosidade"
+
+#: content/folders.json.h:5
+msgctxt "folderName"
+msgid "Games"
+msgstr "Jogos"
+
+#: content/folders.json.h:6
+msgctxt "folderName"
+msgid "Media"
+msgstr "Mídia"
+
+#: content/folders.json.h:7
+msgctxt "folderName"
+msgid "News"
+msgstr "Notícias"
+
+#: content/folders.json.h:8
+msgctxt "folderName"
+msgid "Social"
+msgstr "Social"
+
+#: content/folders.json.h:9
+msgctxt "folderName"
+msgid "Work"
+msgstr "Trabalho"
