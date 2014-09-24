@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-22 09:21-0700\n"
-"PO-Revision-Date: 2014-09-22 16:23+0000\n"
+"POT-Creation-Date: 2014-09-24 12:38-0700\n"
+"PO-Revision-Date: 2014-09-24 19:42+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/eos-shell-content/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -2863,6 +2863,11 @@ msgid "Social"
 msgstr ""
 
 #: content/folders.json.h:9
+msgctxt "folderName"
+msgid "Utilities"
+msgstr "المرافق"
+
+#: content/folders.json.h:10
 msgctxt "folderName"
 msgid "Work"
 msgstr ""
