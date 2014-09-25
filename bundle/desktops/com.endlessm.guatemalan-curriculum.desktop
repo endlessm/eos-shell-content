@@ -1,17 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Name=Guatemalan Curriculum
-Name[ar]=الصحة
-Name[es]=Salud
-Name[fr]=Santé
-Name[pt]=Saúde
-Comment=Live a healthy life with this app, packed with tips and resources
-Comment[ar]=عش حياةً صحيةً مع هذا التطبيق، المليء بالنصائح والمصادر
-Comment[es]=Aprende a vivir una vida saludable con estos consejos y recursos
-Comment[fr]=Vivez une vie saine avec cette application, qui intègre de nombreuses informations et astuces
-Comment[pt]=Tenha uma vida saudável com este programa, com dicas e recursos
+Name=Curriculum
+Comment=temp subtitle
 Type=Application
 Exec=eos-guatemalan-curriculum
 Icon=eos-app-com.endlessm.guatemalan-curriculum
-Categories=Resources;
+Categories=Education;
 X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.guatemalan-curriculum-splash.jpg
