@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=ESPN
-Comment=Site Channel
+Comment=Sports news site
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://espn.com/' pt:'chromium-browser http://www.espn.com.br/' 
+Exec=eos-exec-localized 'chromium-browser http://espn.go.com/' pt:'chromium-browser http://www.espn.com.br/' 
 Icon=eos-link-espn
 Categories=Sports;

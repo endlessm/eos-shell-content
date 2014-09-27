@@ -3,6 +3,6 @@ Version=1.0
 Name=Discovery Kids
 Comment=Educational games and videos
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://discoverykidsbrasil.uol.com.br/' es:'chromium-browser http://www.tudiscoverykids.com/' 
+Exec=eos-exec-localized 'chromium-browser http://discoverykids.com/' es:'chromium-browser http://www.tudiscoverykids.com/' pt:'chromium-browser http://discoverykidsbrasil.uol.com.br/' 
 Icon=eos-link-discoverykids
 Categories=Education;Health;

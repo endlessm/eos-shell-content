@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=People
+Comment=Celebrity news site
+Type=Application
+Exec=chromium-browser http://www.people.com/people/
+Icon=eos-link-people
+Categories=Entertainment;

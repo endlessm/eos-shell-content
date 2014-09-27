@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=News Senate
-Comment=News portal
+Name=Noticias do Senado
+Comment=Senado Federal
 Type=Application
 Exec=chromium-browser http://www12.senado.gov.br/noticias/
 Icon=eos-link-noticiassenado

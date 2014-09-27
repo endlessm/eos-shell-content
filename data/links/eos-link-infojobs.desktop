@@ -3,6 +3,6 @@ Version=1.0
 Name=Infojobs
 Comment=Jobs guide
 Type=Application
-Exec=chromium-browser http://vagas.infojobs.com.br/
+Exec=eos-exec-localized 'chromium-browser http://www.infojobs.com/' pt:'chromium-browser http://vagas.infojobs.com.br/' 
 Icon=eos-link-infojobs
 Categories=Education;Health;

@@ -547,7 +547,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.disabilities-splash.jpg", 
-    "description": "temp description", 
+    "description": "Learn about the common physical and mental disabilities, and how to take care of the people in your life who have them. From diagnosis and treatments to special devices and special care, you'll learn all about how to make the life of people you know with disabilities easier for them. There will be a lot of challenges, but with the right care and love, you'll all live a much happier and satisfying life. ", 
     "displayShape": "b1", 
     "exec": "eos-disabilities", 
     "featured_img": "", 
@@ -557,10 +557,21 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.disabilities-screenshot1.jpg", 
+        "com.endlessm.disabilities-screenshot2.jpg", 
+        "com.endlessm.disabilities-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.disabilities-screenshot1.jpg", 
+        "com.endlessm.disabilities-screenshot2.jpg", 
+        "com.endlessm.disabilities-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.disabilities-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "subtitle": "Learn how to provide the best care", 
     "title": "Disabilities", 
     "tryexec": ""
   }, 
@@ -822,7 +833,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.guatemalan-curriculum-screenshot1.jpg", 
+        "com.endlessm.guatemalan-curriculum-screenshot2.jpg", 
+        "com.endlessm.guatemalan-curriculum-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.guatemalan-curriculum-screenshot1.jpg", 
+        "com.endlessm.guatemalan-curriculum-screenshot2.jpg", 
+        "com.endlessm.guatemalan-curriculum-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.guatemalan-curriculum-thumb.jpg", 
     "subtitle": "temp subtitle", 
@@ -834,7 +856,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.health-splash.jpg", 
-    "description": "temp description", 
+    "description": "Without your health, you can't have anything else. Learn all about various diseases, medicines, and tips for how to stay healthy by reading some of the articles in this app. You never know - some of the information here may help you save your own life or the life of someone you love!", 
     "displayShape": "b1", 
     "exec": "eos-health", 
     "featured_img": "", 
@@ -844,10 +866,21 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.health-screenshot1.jpg", 
+        "com.endlessm.health-screenshot2.jpg", 
+        "com.endlessm.health-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.health-screenshot1.jpg", 
+        "com.endlessm.health-screenshot2.jpg", 
+        "com.endlessm.health-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.health-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "subtitle": "Keep yourself and loved ones healthy", 
     "title": "Health", 
     "tryexec": ""
   }, 
@@ -856,7 +889,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.healthy-teeth-splash.jpg", 
-    "description": "Learn to take care of your teeth", 
+    "description": "Have you ever had a toothache? Learn how to help make it feel better. Want to keep your teeth nice and white? Well, try out these tips. Whether it's learning about mouth diseases and how to prevent them, or just making sure to keep that beautiful smile, you'll find a lot of useful information in this app. Download it today and learn all about how to keep your mouth and teeth healthy and looking great!", 
     "displayShape": "b1", 
     "exec": "eos-healthy-teeth", 
     "featured_img": "", 
@@ -866,7 +899,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.healthy-teeth-screenshot1.jpg", 
+        "com.endlessm.healthy-teeth-screenshot2.jpg", 
+        "com.endlessm.healthy-teeth-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.healthy-teeth-screenshot1.jpg", 
+        "com.endlessm.healthy-teeth-screenshot2.jpg", 
+        "com.endlessm.healthy-teeth-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.healthy-teeth-thumb.jpg", 
     "subtitle": "Learn to take care of your teeth", 
@@ -944,7 +988,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.maternity-splash.jpg", 
-    "description": "temp description", 
+    "description": "Having a baby is one of the most magical experiences in the world, but it can also be pretty overwhelming if you don't have access to a doctor or if you are a new mother and don't know what to expect. Learn about signs that could be dangerous so you can avoid them, and also about things you should try through your pregnancy to ensure a healthy birth. Whether you are about to have your first child, are about to have your tenth child, or are a midwife that helps other women give birth, you will find relevant information here that can help!", 
     "displayShape": "b1", 
     "exec": "eos-maternity", 
     "featured_img": "", 
@@ -954,10 +998,21 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.maternity-screenshot1.jpg", 
+        "com.endlessm.maternity-screenshot2.jpg", 
+        "com.endlessm.maternity-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.maternity-screenshot1.jpg", 
+        "com.endlessm.maternity-screenshot2.jpg", 
+        "com.endlessm.maternity-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.maternity-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "subtitle": "Valuable information for new mothers", 
     "title": "Maternity", 
     "tryexec": ""
   }, 
@@ -1022,7 +1077,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.microenterprises-splash.jpg", 
-    "description": "temp description", 
+    "description": "Have you dreamed of starting your own company? Learn all about what it will take to do so! As a small business owner, you'll need to learn how to take an idea you have and turn it into something profitable, how to manage a team, how to take care of all of the administrative aspects - and you'll find a little about all of that here in this app. Prepare yourself to enter into a world where you are your own boss!", 
     "displayShape": "b1", 
     "exec": "eos-microenterprises", 
     "featured_img": "", 
@@ -1032,10 +1087,21 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.microenterprises-screenshot1.jpg", 
+        "com.endlessm.microenterprises-screenshot2.jpg", 
+        "com.endlessm.microenterprises-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.microenterprises-screenshot1.jpg", 
+        "com.endlessm.microenterprises-screenshot2.jpg", 
+        "com.endlessm.microenterprises-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.microenterprises-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "subtitle": "Learn to run your own company", 
     "title": "Microenterprises", 
     "tryexec": ""
   }, 
@@ -1208,15 +1274,15 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "com.endlessm.social-enterprise", 
+    "application-id": "com.endlessm.social-enterprises", 
     "category": "Education", 
     "core": false, 
-    "custom-splash-screen": "com.endlessm.social-enterprise-splash.jpg", 
-    "description": "temp description", 
+    "custom-splash-screen": "com.endlessm.social-enterprises-splash.jpg", 
+    "description": "Have you thought of starting your own non-profit organization, or of joining one? Non-profits enjoy special tax benefits, and are generally created to make a real social impact. Read these guides to understand more about the non-profit structure and how to operate them so that you can begin making your impact in the world even larger!", 
     "displayShape": "b1", 
-    "exec": "eos-social-enterprise", 
+    "exec": "eos-social-enterprises", 
     "featured_img": "", 
-    "icon": "com.endlessm.social-enterprise-icon.png", 
+    "icon": "com.endlessm.social-enterprises-icon.png", 
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
@@ -1224,8 +1290,8 @@
     ], 
     "screenshots": [], 
     "splash-screen-type": "Default", 
-    "square_img": "com.endlessm.social-enterprise-thumb.jpg", 
-    "subtitle": "temp subtitle", 
+    "square_img": "com.endlessm.social-enterprises-thumb.jpg", 
+    "subtitle": "All about non-profit organizations", 
     "title": "Social Enterprises", 
     "tryexec": ""
   }, 
@@ -1395,7 +1461,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "com.endlessm.water-and-sanitation-splash.jpg", 
-    "description": "temp description", 
+    "description": "Drinking clean water is essential for survival. There can often be terrible diseases that can infect you through bad water, or by having bad sanitation around you. Learn how to make sure you drink clean water, and how to ensure that you create a sanitary environment around you where you can thrive. ", 
     "displayShape": "b1", 
     "exec": "eos-water-and-sanitation", 
     "featured_img": "", 
@@ -1405,11 +1471,22 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.water-and-sanitation-screenshot1.jpg", 
+        "com.endlessm.water-and-sanitation-screenshot2.jpg", 
+        "com.endlessm.water-and-sanitation-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.water-and-sanitation-screenshot1.jpg", 
+        "com.endlessm.water-and-sanitation-screenshot2.jpg", 
+        "com.endlessm.water-and-sanitation-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.water-and-sanitation-thumb.jpg", 
-    "subtitle": "temp subtitle", 
-    "title": "Water", 
+    "subtitle": "All about clean water and sanitation", 
+    "title": "Sanitation", 
     "tryexec": ""
   }, 
   {

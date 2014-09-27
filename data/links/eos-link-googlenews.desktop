@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Google News
-Comment=News portal
+Comment=News site
 Type=Application
-Exec=chromium-browser http://news.google.com.br/
+Exec=eos-exec-localized 'chromium-browser https://news.google.com/' pt:'chromium-browser http://news.google.com.br/' 
 Icon=eos-link-googlenews
 Categories=News;

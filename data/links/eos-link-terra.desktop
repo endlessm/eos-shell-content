@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Terra
-Comment=News portal
+Comment=Portal de Notícias
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.terra.com.br/portal/' pt:'chromium-browser http://www.terra.com.br/' 
+Exec=chromium-browser http://www.terra.com.br/
 Icon=eos-link-terra
 Categories=News;
