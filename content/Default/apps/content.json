@@ -1208,15 +1208,15 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "com.endlessm.social-enterprise", 
+    "application-id": "com.endlessm.social-enterprises", 
     "category": "Education", 
     "core": false, 
-    "custom-splash-screen": "com.endlessm.social-enterprise-splash.jpg", 
+    "custom-splash-screen": "com.endlessm.social-enterprises-splash.jpg", 
     "description": "temp description", 
     "displayShape": "b1", 
-    "exec": "eos-social-enterprise", 
+    "exec": "eos-social-enterprises", 
     "featured_img": "", 
-    "icon": "com.endlessm.social-enterprise-icon.png", 
+    "icon": "com.endlessm.social-enterprises-icon.png", 
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
@@ -1224,7 +1224,7 @@
     ], 
     "screenshots": [], 
     "splash-screen-type": "Default", 
-    "square_img": "com.endlessm.social-enterprise-thumb.jpg", 
+    "square_img": "com.endlessm.social-enterprises-thumb.jpg", 
     "subtitle": "temp subtitle", 
     "title": "Social Enterprises", 
     "tryexec": ""
