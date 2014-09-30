@@ -7,7 +7,6 @@
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
-    "eos-folder-news.directory",
     "eos-folder-curiosity.directory",
     "eos-folder-social.directory"
   ],
@@ -22,10 +21,6 @@
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
     "gnome-calculator.desktop"
-  ],
-  "eos-folder-news.directory" : [
-    "eos-link-cnn.desktop",
-    "eos-link-espn.desktop"
   ],
   "eos-folder-curiosity.directory" : [
     "eos-link-duolingo.desktop"
