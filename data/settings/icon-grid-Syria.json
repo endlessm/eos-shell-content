@@ -10,7 +10,6 @@
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
-    "eos-folder-utilities.directory",
     "eos-folder-curiosity.directory",
     "eos-folder-social.directory"
   ],
@@ -26,7 +25,6 @@
     "supertuxkart.desktop",
     "billard-gl.desktop",
     "minetest.desktop",
-    "slingshot.desktop",
     "pingus.desktop",
     "tuxmath.desktop",
     "gcompris.desktop"
@@ -41,10 +39,7 @@
   ],
   "eos-folder-work.directory" : [
     "libreoffice-calc.desktop",
-    "libreoffice-impress.desktop"
-  ],
-  "eos-folder-utilities.directory" : [
-    "com.endlessm.weather.desktop",
+    "libreoffice-impress.desktop",
     "gnome-calculator.desktop",
     "com.endlessm.translation.desktop"
   ],
