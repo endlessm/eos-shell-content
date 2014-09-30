@@ -10,7 +10,7 @@
     "eos-folder-media.directory",
     "eos-folder-games.directory",
     "eos-folder-work.directory",
-    "eos-folder-utilities.directory",
+    "eos-folder-news.directory",
     "eos-folder-curiosity.directory",
     "eos-folder-social.directory"
   ],
@@ -41,12 +41,17 @@
   ],
   "eos-folder-work.directory" : [
     "libreoffice-calc.desktop",
-    "libreoffice-impress.desktop"
-  ],
-  "eos-folder-utilities.directory" : [
-    "com.endlessm.weather.desktop",
+    "libreoffice-impress.desktop",
     "gnome-calculator.desktop",
     "com.endlessm.translation.desktop"
+  ],
+  "eos-folder-news.directory" : [
+    "com.endlessm.weather.desktop",
+    "eos-link-globoesporte.desktop",
+    "eos-link-globo.desktop",
+    "eos-link-terra.desktop",
+    "eos-link-odia.desktop",
+    "eos-link-r7.desktop"
   ],
   "eos-folder-curiosity.directory" : [
     "com.endlessm.typing.desktop",
