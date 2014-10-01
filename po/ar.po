@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-27 00:22-0700\n"
-"PO-Revision-Date: 2014-09-30 17:55+0000\n"
+"POT-Creation-Date: 2014-09-30 21:21-0700\n"
+"PO-Revision-Date: 2014-10-01 04:23+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/eos-shell-content/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -566,14 +566,23 @@ msgid "Curriculum"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
+#: content/Default/apps/content.json.h:226
 msgctxt "subtitle"
-msgid "temp subtitle"
-msgstr "التسمية المؤقتة"
+msgid "From the Guatemalan Ministry of Education"
+msgstr "من وزارة التربية والتعليم في غواتيمالا"
 
 #: content/Default/apps/content.json.h:87
 msgctxt "description"
-msgid "temp description"
-msgstr "الصفة المؤقتة"
+msgid ""
+"Here you will find the core curriculum and guidelines for a specific grade, "
+"and find textbooks and worksheets that can guide you in a variety of "
+"subjects. Teachers and parents can read materials to learn how a child's "
+"education should be structured and the important subjects studied in school."
+" Students can find useful textbooks that can help them better understand "
+"what they are learning in class. This app is useful for both students and "
+"teachers, and can make a big difference in your child's life and in your "
+"own!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
@@ -1508,11 +1517,6 @@ msgstr "في القراءة والمحادثة، غالباً ما تأتي ال
 msgctxt "title"
 msgid "GT Curriculum"
 msgstr "مناهج الطلبة المتميزين"
-
-#: content/Default/apps/content.json.h:226
-msgctxt "subtitle"
-msgid "From the Guatemalan Ministry of Education"
-msgstr "من وزارة التربية والتعليم في غواتيمالا"
 
 #: content/Default/apps/content.json.h:227
 msgctxt "description"

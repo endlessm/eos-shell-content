@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-09-27 00:22-0700\n"
-"PO-Revision-Date: 2014-09-30 17:55+0000\n"
+"POT-Creation-Date: 2014-09-30 21:21-0700\n"
+"PO-Revision-Date: 2014-10-01 04:23+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -394,12 +394,12 @@ msgstr "Los dinosaurios aparecieron por primera vez en la Tierra hace más de 23
 #: content/Default/apps/content.json.h:58
 msgctxt "title"
 msgid "Disabilities"
-msgstr ""
+msgstr "Neces. especiales"
 
 #: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Learn how to provide the best care"
-msgstr ""
+msgstr "Aprende todo sobre capacidades especiales"
 
 #: content/Default/apps/content.json.h:60
 msgctxt "description"
@@ -410,7 +410,7 @@ msgid ""
 " life of people you know with disabilities easier for them. There will be a "
 "lot of challenges, but with the right care and love, you'll all live a much "
 "happier and satisfying life. "
-msgstr ""
+msgstr "Aprende sobre las discapacidades físicas y mentales comunes, y de cómo cuidar a las personas en tu vida que las tienen. Desde el diagnóstico y los tratamientos a los dispositivos y cuidados especiales, aprenderás todo acerca de cómo hacer que la vida de las personas que conoces con discapacidades sea más fácil para ellos. Habrá una gran cantidad de desafíos, pero con el cuidado y el amor adecuado, todos van a vivir una vida mucho más feliz y satisfactoria."
 
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
@@ -576,17 +576,26 @@ msgstr "Sabías que el Popol Vuh fue escrito en el siglo XVI y aún se ha preser
 #: content/Default/apps/content.json.h:85
 msgctxt "title"
 msgid "Curriculum"
-msgstr ""
+msgstr "Currículo"
 
 #: content/Default/apps/content.json.h:86
+#: content/Default/apps/content.json.h:226
 msgctxt "subtitle"
-msgid "temp subtitle"
-msgstr ""
+msgid "From the Guatemalan Ministry of Education"
+msgstr "Desde el Ministerio de Educación de Guatemala"
 
 #: content/Default/apps/content.json.h:87
 msgctxt "description"
-msgid "temp description"
-msgstr "Descripción temporal "
+msgid ""
+"Here you will find the core curriculum and guidelines for a specific grade, "
+"and find textbooks and worksheets that can guide you in a variety of "
+"subjects. Teachers and parents can read materials to learn how a child's "
+"education should be structured and the important subjects studied in school."
+" Students can find useful textbooks that can help them better understand "
+"what they are learning in class. This app is useful for both students and "
+"teachers, and can make a big difference in your child's life and in your "
+"own!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
@@ -596,7 +605,7 @@ msgstr "Salud"
 #: content/Default/apps/content.json.h:89
 msgctxt "subtitle"
 msgid "Keep yourself and loved ones healthy"
-msgstr ""
+msgstr "Cómo cuidarte a ti y a tus seres queridos"
 
 #: content/Default/apps/content.json.h:90
 msgctxt "description"
@@ -605,17 +614,17 @@ msgid ""
 "diseases, medicines, and tips for how to stay healthy by reading some of the"
 " articles in this app. You never know - some of the information here may "
 "help you save your own life or the life of someone you love!"
-msgstr ""
+msgstr "Sin tu salud, no puedes tener ninguna otra cosa. Aprenda todo acerca de varias enfermedades, medicamentos y consejos sobre cómo mantenerte saludable mediante la lectura de algunos de los artículos de este programa. Nunca se sabe - ¡parte de la información aquí puede ayudarte a salvar tu propia vida o la vida de alguien a quien amas!"
 
 #: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "Healthy Teeth"
-msgstr ""
+msgstr "Dientes sanos"
 
 #: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
 msgid "Learn to take care of your teeth"
-msgstr ""
+msgstr "Aprende a cuidar tus dientes"
 
 #: content/Default/apps/content.json.h:93
 msgctxt "description"
@@ -626,7 +635,7 @@ msgid ""
 "to keep that beautiful smile, you'll find a lot of useful information in "
 "this app. Download it today and learn all about how to keep your mouth and "
 "teeth healthy and looking great!"
-msgstr ""
+msgstr "¿Alguna vez has tenido un dolor de muelas? Aprende cómo hacer para que te sientas mejor. ¿Quieres mantener tus dientes blancos y radiantes? Bueno, prueba estos consejos. Ya sea para aprender sobre las enfermedades de la boca y cómo prevenirlas, o simplemente para asegurarte de mantener esa hermosa sonrisa, encontrarás una gran cantidad de información útil en este programa. ¡Descárgalo hoy y aprende todo acerca de cómo mantener la boca y los dientes sanos y deslumbrantes! "
 
 #: content/Default/apps/content.json.h:94
 msgctxt "title"
@@ -674,12 +683,12 @@ msgstr "¿Has querido aprender a tejer o a tener un jardín bello? ¿Tienes inte
 #: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Maternity"
-msgstr ""
+msgstr "Maternidad"
 
 #: content/Default/apps/content.json.h:101
 msgctxt "subtitle"
 msgid "Valuable information for new mothers"
-msgstr ""
+msgstr "Información valiosa para todas las madres"
 
 #: content/Default/apps/content.json.h:102
 msgctxt "description"
@@ -692,7 +701,7 @@ msgid ""
 "to have your first child, are about to have your tenth child, or are a "
 "midwife that helps other women give birth, you will find relevant "
 "information here that can help!"
-msgstr ""
+msgstr "Tener un bebé es una de las experiencias más mágicas del mundo, pero también puede ser bastante abrumador si  no tienes acceso a un médico o si eres una madre primeriza y no sabes qué esperar. Aprende acerca de los signos que podrían ser peligrosos para que puedas evitarlos, y también acerca de las cosas que debes tratar a través de tu embarazo para asegurar un parto saludable. Ya sea que estés a punto de tener a tu primer hijo, a punto de tener tu décimo hijo, o eres una partera que ayuda a otras mujeres dar a luz, ¡aquí encontrarás información relevante que te pueda ayudar!"
 
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
@@ -741,12 +750,12 @@ msgstr "¿Quieres conocer más acerca de México? México es un bello país con 
 #: content/Default/apps/content.json.h:109
 msgctxt "title"
 msgid "Microenterprises"
-msgstr ""
+msgstr "Microempresas"
 
 #: content/Default/apps/content.json.h:110
 msgctxt "subtitle"
 msgid "Learn to run your own company"
-msgstr ""
+msgstr "Aprende a ejecutar tu propio negocio"
 
 #: content/Default/apps/content.json.h:111
 msgctxt "description"
@@ -757,7 +766,7 @@ msgid ""
 "team, how to take care of all of the administrative aspects - and you'll "
 "find a little about all of that here in this app. Prepare yourself to enter "
 "into a world where you are your own boss!"
-msgstr ""
+msgstr "¿Has soñado con empezar tu propio negocio? ¡Aprende todo acerca de lo que se necesita para hacerlo! Como dueño de un negocio pequeño, tendrás que aprender a convertir una idea en algo beneficioso, cómo dirigir un equipo, cómo cuidar de todos los aspectos administrativos - y encontrarás un poco de todo sobre eso aquí en este programa. ¡Prepárate para entrar a un mundo en el que tú eres tu propio jefe!"
 
 #: content/Default/apps/content.json.h:112
 msgctxt "title"
@@ -870,12 +879,12 @@ msgstr "La mejor manera de impresionar a un potencial empleador es tener un exce
 #: content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "Social Enterprises"
-msgstr ""
+msgstr "Empresas sociales"
 
 #: content/Default/apps/content.json.h:128
 msgctxt "subtitle"
 msgid "All about non-profit organizations"
-msgstr ""
+msgstr "Todo sobre las empresas sociales"
 
 #: content/Default/apps/content.json.h:129
 msgctxt "description"
@@ -885,7 +894,7 @@ msgid ""
 "make a real social impact. Read these guides to understand more about the "
 "non-profit structure and how to operate them so that you can begin making "
 "your impact in the world even larger!"
-msgstr ""
+msgstr "¿Has pensado en empezar tu propia empresa social, o de unirte a una? Las empresas sociales gozan de beneficios tributarios especiales, y se crean generalmente para hacer un impacto social. ¡Lee estas guías para entender más acerca de la estructura de empresas sociales y de cómo operarlas para que puedas comenzar a hacer que tu impacto en el mundo sea más grande!"
 
 #: content/Default/apps/content.json.h:130
 msgctxt "title"
@@ -997,12 +1006,12 @@ msgstr "¡Accede video cursos que transformarán materias difíciles en algo fá
 #: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "Sanitation"
-msgstr ""
+msgstr "Saneamiento"
 
 #: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "All about clean water and sanitation"
-msgstr ""
+msgstr "Sobre el agua potable y el saneamiento"
 
 #: content/Default/apps/content.json.h:147
 msgctxt "description"
@@ -1011,7 +1020,7 @@ msgid ""
 "diseases that can infect you through bad water, or by having bad sanitation "
 "around you. Learn how to make sure you drink clean water, and how to ensure "
 "that you create a sanitary environment around you where you can thrive. "
-msgstr ""
+msgstr "Beber agua limpia es esencial para la supervivencia. A menudo hay terribles enfermedades que te pueden infectar a través de agua en mal estado, o por tener mal saneamiento a tu alrededor. Aprende cómo asegurarte de beber agua limpia, y cómo asegurarte de que se crea un ambiente limpio a tu alrededor donde se pueda prosperar."
 
 #: content/Default/apps/content.json.h:148
 msgctxt "title"
@@ -1062,7 +1071,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:155
 msgctxt "subtitle"
 msgid "Access your files from any computer"
-msgstr ""
+msgstr "Accede a tus documentos desde cualquier computadora"
 
 #: content/Default/apps/content.json.h:159
 msgctxt "title"
@@ -1521,11 +1530,6 @@ msgstr "En la lectura y en la conversación, a veces encuentras palabras descono
 msgctxt "title"
 msgid "GT Curriculum"
 msgstr "Currículo"
-
-#: content/Default/apps/content.json.h:226
-msgctxt "subtitle"
-msgid "From the Guatemalan Ministry of Education"
-msgstr "Desde el Ministerio de Educación de Guatemala"
 
 #: content/Default/apps/content.json.h:227
 msgctxt "description"
@@ -2686,7 +2690,7 @@ msgstr "Steam"
 #: content/Default/apps/content.json.h:394
 msgctxt "subtitle"
 msgid "Browse hundreds of the most popular games online"
-msgstr ""
+msgstr "Encuentra y explorar los juegos más populares en línea"
 
 #: content/Default/apps/content.json.h:395
 msgctxt "description"
@@ -2697,7 +2701,7 @@ msgid ""
 "sure your Wi-Fi is turned on before opening this app. Get ready to find the "
 "most popular in the world that are sure to keep you entertained for hours at"
 " a time!"
-msgstr ""
+msgstr "¡Si te gusta jugar videojuegos, te vas a divertir explorando todos los juegos en la tienda Steam! Necesitarás una conexión al internet para ver y comprar juegos en la tienda así que asegúrate de que tu conexión esté activada antes de abrir este programa. ¡Prepárate para encontrar los juegos más populares del mundo que seguramente te entretendrán por horas!"
 
 #: content/Default/apps/content.json.h:396
 msgctxt "title"
@@ -3013,7 +3017,7 @@ msgid ""
 "share photos or collaborate on a project by sharing a Dropbox folder with "
 "whomever you’d like. Create a free account and start saving and sharing "
 "today!"
-msgstr ""
+msgstr "¿Necesitas guardar de forma segura todos sus documentos, fotos, canciones y archivos importantes? ¡Fácil! Con este programa se puede utilizar el internet para guardar todo lo que más te importa. Una vez que hayas guardado todo, podrás acceder a tus archivos desde cualquier computadora que tenga conexión al internet. Usa este programa para guardar tus archivos, compartir fotos o colaborar en un proyecto con solo compartir una carpeta con quien deseas. ¡Crea una cuenta gratis y comienza a guardar y compartir hoy!"
 
 #: content/folders.json.h:4
 msgctxt "folderName"
