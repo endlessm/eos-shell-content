@@ -1288,7 +1288,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.social-enterprises-screenshot1.jpg", 
+        "com.endlessm.social-enterprises-screenshot2.jpg", 
+        "com.endlessm.social-enterprises-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.social-enterprises-screenshot1.jpg", 
+        "com.endlessm.social-enterprises-screenshot2.jpg", 
+        "com.endlessm.social-enterprises-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "com.endlessm.social-enterprises-thumb.jpg", 
     "subtitle": "All about non-profit organizations", 
