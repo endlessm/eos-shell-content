@@ -1,10 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Dropbox
+Name[es]=Dropbox
 Comment=Access your files from any computer
 Comment[es]=Accede a tus documentos desde cualquier computadora
 Type=Application
 Exec=dropbox_desktop
 Icon=eos-app-dropbox_desktop
-Categories=
+Categories=Utility;
 X-Endless-LaunchMaximized=true
