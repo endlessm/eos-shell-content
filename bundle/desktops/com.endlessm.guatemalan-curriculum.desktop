@@ -1,11 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Curriculum
+Name[ar]=المنهاج
 Name[es]=Currículo
+Name[fr]=Curriculum
+Name[pt]=Currículo
 Comment=From the Guatemalan Ministry of Education
 Comment[ar]=من وزارة التربية والتعليم في غواتيمالا
 Comment[es]=Del Ministerio de Educación de Guatemala
 Comment[fr]=Du Ministère de l’Éducation guatémaltèque
+Comment[pt]=Do Ministério da Educação da Guatemala
 Type=Application
 Exec=eos-guatemalan-curriculum
 Icon=eos-app-com.endlessm.guatemalan-curriculum

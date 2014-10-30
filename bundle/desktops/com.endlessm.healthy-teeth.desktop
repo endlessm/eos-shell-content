@@ -1,9 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Healthy Teeth
+Name[ar]=أسنان صحية
 Name[es]=Dientes sanos
+Name[fr]=Dents saines
+Name[pt]=Dentes Saudáveis
 Comment=Learn to take care of your teeth
+Comment[ar]=تعلم كيفية العناية بأسنانك
 Comment[es]=Aprende a cuidar tus dientes
+Comment[fr]=Apprenez à prendre soin de vos dents
+Comment[pt]=Aprenda a cuidar de seus dentes
 Type=Application
 Exec=eos-healthy-teeth
 Icon=eos-app-com.endlessm.healthy-teeth

@@ -1,9 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Sanitation
+Name[ar]=الصرف الصحي
 Name[es]=Saneamiento
+Name[fr]=Installations sanitaires
+Name[pt]=Saneamento Básico
 Comment=All about clean water and sanitation
+Comment[ar]=يتعلق الأمر برمته بالمياه النظيفة والصرف الصحي
 Comment[es]=Sobre el agua potable y el saneamiento
+Comment[fr]=Tout à propos de l'eau propre et des installations sanitaires
+Comment[pt]=Tudo sobre água potável e saneamento básico
 Type=Application
 Exec=eos-water-and-sanitation
 Icon=eos-app-com.endlessm.water-and-sanitation

@@ -1,9 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Maternity
+Name[ar]=الأمومة
 Name[es]=Maternidad
+Name[fr]=Maternité
+Name[pt]=Maternidade
 Comment=Valuable information for new mothers
+Comment[ar]=معلومات قيمة للأمهات الجديدة
 Comment[es]=Información valiosa para todas las madres
+Comment[fr]=Des informations précieuses pour les nouvelles mamans
+Comment[pt]=Informações valiosas para mamães 
 Type=Application
 Exec=eos-maternity
 Icon=eos-app-com.endlessm.maternity

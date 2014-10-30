@@ -3742,6 +3742,28 @@
     "tryexec": "pingus"
   }, 
   {
+    "application-id": "pitivi", 
+    "category": "Utility", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "temp description", 
+    "displayShape": "b1", 
+    "exec": "pitivi", 
+    "featured_img": "", 
+    "icon": "pitivi-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "pitivi-thumb.jpg", 
+    "subtitle": "temp_subtitle", 
+    "title": "Piviti", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "quadrapassel", 
     "category": "Games", 
     "core": false, 
@@ -3912,6 +3934,38 @@
     "square_img": "shotwell-thumb.jpg", 
     "subtitle": "Easily edit, organize, and share photos.", 
     "title": "Photos", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "simple-scan", 
+    "category": "Utility", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "temp description", 
+    "displayShape": "b1", 
+    "exec": "simple-scan", 
+    "featured_img": "", 
+    "icon": "simple-scan-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "simple-scan-screenshot1.jpg"
+      ], 
+      "es": [
+        "simple-scan-screenshot1.jpg"
+      ], 
+      "pt": [
+        "simple-scan-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "simple-scan-thumb.jpg", 
+    "subtitle": "temp_subtitle", 
+    "title": "Simple Scan", 
     "tryexec": ""
   }, 
   {

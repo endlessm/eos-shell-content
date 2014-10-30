@@ -1,9 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Name=Microenterprises
+Name[ar]=الأعمال التجارية متناهية الصغر
 Name[es]=Microempresas
+Name[fr]=Microentreprises
+Name[pt]=Microempresas
 Comment=Learn to run your own company
+Comment[ar]=تعلم كيفية إدارة شركتك الخاصة بك
 Comment[es]=Aprende a ejecutar tu propio negocio
+Comment[fr]=Apprenez à gérer votre propre société
+Comment[pt]=Aprenda a administrar sua própria empresa
 Type=Application
 Exec=eos-microenterprises
 Icon=eos-app-com.endlessm.microenterprises
