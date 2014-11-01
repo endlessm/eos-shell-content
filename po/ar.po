@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-10-30 13:51-0700\n"
-"PO-Revision-Date: 2014-10-30 20:52+0000\n"
+"POT-Creation-Date: 2014-10-31 16:21-0700\n"
+"PO-Revision-Date: 2014-10-31 23:40+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/eos-shell-content/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -2469,20 +2469,23 @@ msgstr "تعتبر طيور البطريق من بين الحيوانات الل
 
 #: content/Default/apps/content.json.h:363
 msgctxt "title"
-msgid "Piviti"
-msgstr ""
+msgid "Video Editor"
+msgstr "محرر الفيديو"
 
 #: content/Default/apps/content.json.h:364
-#: content/Default/apps/content.json.h:385
 msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr ""
+msgid "Hundreds of transitions, effects, and filters to edit your videos"
+msgstr "مئات من التحولات والتأثيرات والمرشحات لتحرير فيديوهاتك"
 
 #: content/Default/apps/content.json.h:365
-#: content/Default/apps/content.json.h:386
 msgctxt "description"
-msgid "temp description"
-msgstr ""
+msgid ""
+"Create videos for projects, friends, family, or just for fun! Look through "
+"hundreds of transitions, video effects, audio effects, and filters to help "
+"make your video just right. Whether you want to tell a story, make a gift "
+"for a friend, create a professional-looking video, or just want to express "
+"yourself, this video editor will help you do it!"
+msgstr "أنشئ فيديوهات لمشروعاتك أولأصدقائك وعائلتك أو فقط للمرح! تنقل بين مئات التحولات ومؤثرات الفيديو والصوت والمرشحات لمساعدتك في الحصول على ما تحتاج، أي شيء تحتاجه لسرد قصة أو لعمل هدية لصديق أو لإنشاء فيديو بشكل احترافي أو فقط للتعبير عن نفسك فمحرر الفيديو هذا سيساعدك للحصول على ما تريد!"
 
 #: content/Default/apps/content.json.h:366
 msgctxt "title"
@@ -2611,7 +2614,17 @@ msgstr "جميعنا يحب التقاط الصور في حياته اليومي
 #: content/Default/apps/content.json.h:384
 msgctxt "title"
 msgid "Simple Scan"
-msgstr ""
+msgstr "فحص بسيط"
+
+#: content/Default/apps/content.json.h:385
+msgctxt "subtitle"
+msgid "temp_subtitle"
+msgstr "عنوان فرعي مؤقت"
+
+#: content/Default/apps/content.json.h:386
+msgctxt "description"
+msgid "temp description"
+msgstr "الصفة المؤقتة"
 
 #: content/Default/apps/content.json.h:387
 msgctxt "title"

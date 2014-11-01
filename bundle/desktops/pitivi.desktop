@@ -1,7 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=Piviti
-Comment=temp_subtitle
+Name=Video Editor
+Name[ar]=محرر الفيديو
+Name[es]=Editor de videos
+Name[fr]=Éditeur de vidéos
+Comment=Hundreds of transitions, effects, and filters to edit your videos
+Comment[ar]=مئات من التحولات والتأثيرات والمرشحات لتحرير فيديوهاتك
+Comment[es]=Efectos, filtros y transiciones para editar tus videos
+Comment[fr]=Des centaines de transitions, d'effets, et de filtres pour éditer vos vidéos
 Type=Application
 Exec=pitivi
 Icon=eos-app-pitivi

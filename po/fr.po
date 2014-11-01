@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-10-30 13:51-0700\n"
-"PO-Revision-Date: 2014-10-30 20:52+0000\n"
+"POT-Creation-Date: 2014-10-31 16:21-0700\n"
+"PO-Revision-Date: 2014-11-01 00:08+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/eos-shell-content/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -2469,20 +2469,23 @@ msgstr "Le pingouin est l’un des animaux les plus mignons, donc pourquoi ne pa
 
 #: content/Default/apps/content.json.h:363
 msgctxt "title"
-msgid "Piviti"
-msgstr ""
+msgid "Video Editor"
+msgstr "Éditeur de vidéos"
 
 #: content/Default/apps/content.json.h:364
-#: content/Default/apps/content.json.h:385
 msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr ""
+msgid "Hundreds of transitions, effects, and filters to edit your videos"
+msgstr "Des centaines de transitions, d'effets, et de filtres pour éditer vos vidéos"
 
 #: content/Default/apps/content.json.h:365
-#: content/Default/apps/content.json.h:386
 msgctxt "description"
-msgid "temp description"
-msgstr ""
+msgid ""
+"Create videos for projects, friends, family, or just for fun! Look through "
+"hundreds of transitions, video effects, audio effects, and filters to help "
+"make your video just right. Whether you want to tell a story, make a gift "
+"for a friend, create a professional-looking video, or just want to express "
+"yourself, this video editor will help you do it!"
+msgstr "Créez des vidéos pour vos projets, vos amis, votre famille, ou juste pour vous amuser ! Explorez des centaines de transitions, d'effets vidéo, d'effets audio, et de filtres et réalisez la vidéo de vos rêves. Que vous vouliez raconter une histoire, offrir un cadeau à un ami, créer une vidéo de qualité professionnelle, ou juste vous exprimer, cet éditeur de vidéo vous aidera à atteindre votre objectif !"
 
 #: content/Default/apps/content.json.h:366
 msgctxt "title"
@@ -2611,7 +2614,17 @@ msgstr "Nous aimons tous photographier notre vie quotidienne — en nous aimons 
 #: content/Default/apps/content.json.h:384
 msgctxt "title"
 msgid "Simple Scan"
-msgstr ""
+msgstr "Un simple balayage"
+
+#: content/Default/apps/content.json.h:385
+msgctxt "subtitle"
+msgid "temp_subtitle"
+msgstr "sous-titre_temporaire"
+
+#: content/Default/apps/content.json.h:386
+msgctxt "description"
+msgid "temp description"
+msgstr "Description temporaire"
 
 #: content/Default/apps/content.json.h:387
 msgctxt "title"

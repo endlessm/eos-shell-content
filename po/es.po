@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-10-30 13:51-0700\n"
-"PO-Revision-Date: 2014-10-30 20:52+0000\n"
+"POT-Creation-Date: 2014-10-31 16:21-0700\n"
+"PO-Revision-Date: 2014-11-01 04:14+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -2482,20 +2482,23 @@ msgstr "Los pingüinos están entre los animales más lindos, así que ¿quién 
 
 #: content/Default/apps/content.json.h:363
 msgctxt "title"
-msgid "Piviti"
-msgstr ""
+msgid "Video Editor"
+msgstr "Editor de videos"
 
 #: content/Default/apps/content.json.h:364
-#: content/Default/apps/content.json.h:385
 msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr ""
+msgid "Hundreds of transitions, effects, and filters to edit your videos"
+msgstr "Efectos, filtros y transiciones para editar tus videos"
 
 #: content/Default/apps/content.json.h:365
-#: content/Default/apps/content.json.h:386
 msgctxt "description"
-msgid "temp description"
-msgstr ""
+msgid ""
+"Create videos for projects, friends, family, or just for fun! Look through "
+"hundreds of transitions, video effects, audio effects, and filters to help "
+"make your video just right. Whether you want to tell a story, make a gift "
+"for a friend, create a professional-looking video, or just want to express "
+"yourself, this video editor will help you do it!"
+msgstr "¡Crea videos para proyectos, amigos, familia o para divertirte mientras haciéndolos! Explora entre muchas opciones para elegir transiciones, efectos de video y audio y filtros para completar tus proyectos. Si quieres contar una historia, crear un video para regalárselo a un amigo, hacer un proyecto profesional o simplemente quieres expresarte, este programa te ayudará a hacerlo!"
 
 #: content/Default/apps/content.json.h:366
 msgctxt "title"
@@ -2625,6 +2628,16 @@ msgstr "A todos nos gusta tomar fotos de nuestra vida cotidiana - y sobre todo n
 msgctxt "title"
 msgid "Simple Scan"
 msgstr ""
+
+#: content/Default/apps/content.json.h:385
+msgctxt "subtitle"
+msgid "temp_subtitle"
+msgstr ""
+
+#: content/Default/apps/content.json.h:386
+msgctxt "description"
+msgid "temp description"
+msgstr "Descripción temporal "
 
 #: content/Default/apps/content.json.h:387
 msgctxt "title"
