@@ -47,7 +47,7 @@ LINK_PREFIX = 'eos-link-'
 # Hack: apps we want to show up at the end of their category in the app store
 # The long term solution involving the CMS will be addressed on #3655
 # https://github.com/endlessm/eos-shell/issues/3674
-APPS_TO_APPEND = []
+APPS_TO_APPEND = [ 'openarena' ]
 
 # Run the ImageMagick 'convert' application from the command line,
 # with specified JPEG quality and all metadata stripped
