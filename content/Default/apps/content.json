@@ -3651,32 +3651,6 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "openarena", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!", 
-    "displayShape": "b1", 
-    "exec": "resfix openarena +r_fullscreen 1", 
-    "featured_img": "", 
-    "icon": "openarena-icon.png", 
-    "is_featured": false, 
-    "is_offline": true, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "openarena-screenshot1.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "openarena-thumb.jpg", 
-    "subtitle": "Shoot your way out of trouble in this fun game", 
-    "title": "Open Arena", 
-    "tryexec": "openarena"
-  }, 
-  {
     "application-id": "palapeli", 
     "category": "Games", 
     "core": false, 
@@ -4560,5 +4534,31 @@
     "subtitle": "A motorcycle racing game", 
     "title": "X-Moto", 
     "tryexec": ""
+  }, 
+  {
+    "application-id": "openarena", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!", 
+    "displayShape": "b1", 
+    "exec": "resfix openarena +r_fullscreen 1", 
+    "featured_img": "", 
+    "icon": "openarena-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "openarena-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "openarena-thumb.jpg", 
+    "subtitle": "Shoot your way out of trouble in this fun game", 
+    "title": "Open Arena", 
+    "tryexec": "openarena"
   }
 ]
