@@ -3589,7 +3589,20 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "megaglest-screenshot1.jpg", 
+        "megaglest-screenshot2.jpg"
+      ], 
+      "es": [
+        "megaglest-screenshot1.jpg", 
+        "megaglest-screenshot2.jpg"
+      ], 
+      "pt": [
+        "megaglest-screenshot1.jpg", 
+        "megaglest-screenshot2.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "megaglest-thumb.jpg", 
     "subtitle": "A fantasy world with kings, queens and magic", 
@@ -3904,7 +3917,17 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "scratch-screenshot1.jpg"
+      ], 
+      "es": [
+        "scratch-screenshot1.jpg"
+      ], 
+      "pt": [
+        "scratch-screenshot1.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "scratch-thumb.jpg", 
     "subtitle": "Learn basic computer programming", 
