@@ -2645,73 +2645,6 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "kblocks", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "This game is similar to Tetris, so if you love that game, you will love this one! Match up the block shapes in order to make them disappear and keep them from filling the screen. You will need to be really fast or else you'll lose, so pay attention and get ready for some very fast-actioned fun!", 
-    "displayShape": "b1", 
-    "exec": "kblocks -caption %c", 
-    "featured_img": "", 
-    "icon": "kblocks-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "kblocks-screenshot1.jpg", 
-        "kblocks-screenshot2.jpg"
-      ], 
-      "es": [
-        "kblocks-screenshot1.jpg", 
-        "kblocks-screenshot2.jpg"
-      ], 
-      "pt": [
-        "kblocks-screenshot1.jpg", 
-        "kblocks-screenshot2.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "kblocks-thumb.jpg", 
-    "subtitle": "Match blocks to destroy them and win", 
-    "title": "KBlocks", 
-    "tryexec": ""
-  }, 
-  {
-    "application-id": "kbounce", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "This is a fun game with a simple goal: you must build walls to decrease the area in which a bouncing ball on the screen can move. Once you fill most of the screen with walls, you\u2019ll be able to move on to the next level. This game has an element of puzzle solving, and is fast-paced and entertaining. It requires quick thinking and fast reflexes!", 
-    "displayShape": "b1", 
-    "exec": "kbounce -caption %c", 
-    "featured_img": "", 
-    "icon": "kbounce-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "kbounce-screenshot1.jpg"
-      ], 
-      "es": [
-        "kbounce-screenshot1.jpg"
-      ], 
-      "pt": [
-        "kbounce-screenshot1.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "kbounce-thumb.jpg", 
-    "subtitle": "The ball-bouncing game sure to hook you", 
-    "title": "KBounce", 
-    "tryexec": ""
-  }, 
-  {
     "application-id": "kbruch", 
     "category": "Education", 
     "core": false, 
@@ -2773,38 +2706,6 @@
     "square_img": "kdesnake-thumb.jpg", 
     "subtitle": "A fun and very simple game for everyone", 
     "title": "KSnake", 
-    "tryexec": ""
-  }, 
-  {
-    "application-id": "kdiamond", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "In this fast-paced game, your job is to build lines of three diamonds of the same type. Simply swap diamonds with their neighbors to make your lines. Better do it quickly, so you can build as many lines as possible before the round is over! This is an easy and highly entertaining game you can play for just a little while, or for hours on end. It\u2019s fun, fast, and great for many age levels.", 
-    "displayShape": "b1", 
-    "exec": "kdiamond -caption %c", 
-    "featured_img": "", 
-    "icon": "kdiamond-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "kdiamond-screenshot1.jpg"
-      ], 
-      "es": [
-        "kdiamond-screenshot1.jpg"
-      ], 
-      "pt": [
-        "kdiamond-screenshot1.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "kdiamond-thumb.jpg", 
-    "subtitle": "Create lines of three diamonds", 
-    "title": "KDiamond", 
     "tryexec": ""
   }, 
   {
@@ -2974,38 +2875,6 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "kjumpingcube", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ", 
-    "displayShape": "b1", 
-    "exec": "kjumpingcube -caption %c", 
-    "featured_img": "", 
-    "icon": "kjumpingcube-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "kjumpingcube-screenshot1.jpg"
-      ], 
-      "es": [
-        "kjumpingcube-screenshot1.jpg"
-      ], 
-      "pt": [
-        "kjumpingcube-screenshot1.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "kjumpingcube-thumb.jpg", 
-    "subtitle": "Develop a good strategy to conquer all the squares", 
-    "title": "KJumpingCube", 
-    "tryexec": ""
-  }, 
-  {
     "application-id": "klines", 
     "category": "Games", 
     "core": false, 
@@ -3160,38 +3029,6 @@
     "subtitle": "Destroy enemy bases in space", 
     "title": "Kobo Deluxe", 
     "tryexec": "kobodl"
-  }, 
-  {
-    "application-id": "ksame", 
-    "category": "Games", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "Show off your pattern-finding skills in this addicting game. Match all of the same colored marbles to clear the board and win, but remember: the more marbles you clear at once, the higher your score will be, so think strategically about all of your moves! What may look easy at first is a true challenge. A really fun challenge!", 
-    "displayShape": "b1", 
-    "exec": "ksame --geometry 1920x1080+0+0 --KSameMode -caption %c", 
-    "featured_img": "", 
-    "icon": "ksame-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "ksame-screenshot1.jpg"
-      ], 
-      "es": [
-        "ksame-screenshot1.jpg"
-      ], 
-      "pt": [
-        "ksame-screenshot1.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Default", 
-    "square_img": "ksame-thumb.jpg", 
-    "subtitle": "Get rid of all the marbles to win", 
-    "title": "KSame", 
-    "tryexec": ""
   }, 
   {
     "application-id": "ksquares", 
@@ -4566,6 +4403,169 @@
     "square_img": "xmoto-thumb.jpg", 
     "subtitle": "A motorcycle racing game", 
     "title": "X-Moto", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "kblocks", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "This game is similar to Tetris, so if you love that game, you will love this one! Match up the block shapes in order to make them disappear and keep them from filling the screen. You will need to be really fast or else you'll lose, so pay attention and get ready for some very fast-actioned fun!", 
+    "displayShape": "b1", 
+    "exec": "kblocks -caption %c", 
+    "featured_img": "", 
+    "icon": "kblocks-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "kblocks-screenshot1.jpg", 
+        "kblocks-screenshot2.jpg"
+      ], 
+      "es": [
+        "kblocks-screenshot1.jpg", 
+        "kblocks-screenshot2.jpg"
+      ], 
+      "pt": [
+        "kblocks-screenshot1.jpg", 
+        "kblocks-screenshot2.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "kblocks-thumb.jpg", 
+    "subtitle": "Match blocks to destroy them and win", 
+    "title": "KBlocks", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "kbounce", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "This is a fun game with a simple goal: you must build walls to decrease the area in which a bouncing ball on the screen can move. Once you fill most of the screen with walls, you\u2019ll be able to move on to the next level. This game has an element of puzzle solving, and is fast-paced and entertaining. It requires quick thinking and fast reflexes!", 
+    "displayShape": "b1", 
+    "exec": "kbounce -caption %c", 
+    "featured_img": "", 
+    "icon": "kbounce-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "kbounce-screenshot1.jpg"
+      ], 
+      "es": [
+        "kbounce-screenshot1.jpg"
+      ], 
+      "pt": [
+        "kbounce-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "kbounce-thumb.jpg", 
+    "subtitle": "The ball-bouncing game sure to hook you", 
+    "title": "KBounce", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "kdiamond", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "In this fast-paced game, your job is to build lines of three diamonds of the same type. Simply swap diamonds with their neighbors to make your lines. Better do it quickly, so you can build as many lines as possible before the round is over! This is an easy and highly entertaining game you can play for just a little while, or for hours on end. It\u2019s fun, fast, and great for many age levels.", 
+    "displayShape": "b1", 
+    "exec": "kdiamond -caption %c", 
+    "featured_img": "", 
+    "icon": "kdiamond-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "kdiamond-screenshot1.jpg"
+      ], 
+      "es": [
+        "kdiamond-screenshot1.jpg"
+      ], 
+      "pt": [
+        "kdiamond-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "kdiamond-thumb.jpg", 
+    "subtitle": "Create lines of three diamonds", 
+    "title": "KDiamond", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "kjumpingcube", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ", 
+    "displayShape": "b1", 
+    "exec": "kjumpingcube -caption %c", 
+    "featured_img": "", 
+    "icon": "kjumpingcube-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "kjumpingcube-screenshot1.jpg"
+      ], 
+      "es": [
+        "kjumpingcube-screenshot1.jpg"
+      ], 
+      "pt": [
+        "kjumpingcube-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "kjumpingcube-thumb.jpg", 
+    "subtitle": "Develop a good strategy to conquer all the squares", 
+    "title": "KJumpingCube", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "ksame", 
+    "category": "Games", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "Show off your pattern-finding skills in this addicting game. Match all of the same colored marbles to clear the board and win, but remember: the more marbles you clear at once, the higher your score will be, so think strategically about all of your moves! What may look easy at first is a true challenge. A really fun challenge!", 
+    "displayShape": "b1", 
+    "exec": "ksame --geometry 1920x1080+0+0 --KSameMode -caption %c", 
+    "featured_img": "", 
+    "icon": "ksame-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "ksame-screenshot1.jpg"
+      ], 
+      "es": [
+        "ksame-screenshot1.jpg"
+      ], 
+      "pt": [
+        "ksame-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "ksame-thumb.jpg", 
+    "subtitle": "Get rid of all the marbles to win", 
+    "title": "KSame", 
     "tryexec": ""
   }, 
   {
