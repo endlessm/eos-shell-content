@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-10-31 16:21-0700\n"
-"PO-Revision-Date: 2014-11-01 00:08+0000\n"
+"POT-Creation-Date: 2014-12-05 14:46-0800\n"
+"PO-Revision-Date: 2014-12-05 23:11+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/eos-shell-content/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -1412,7 +1412,7 @@ msgid ""
 msgstr "Avez vous déjà souhaité pouvoir enregistrer une photographie de votre écran ? Désormais vous le pouvez, avec cette application de capture d'écran simple d'utilisation. Vous pouvez choisir de prendre une capture de l'intégralité de votre écran, ou juste de l'une de vos fenêtres. De cette façon, vous pouvez vous assurer de n'enregistrer que ce dont vous avez besoin, et rien de plus."
 
 #: content/Default/apps/content.json.h:210
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:297
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
@@ -1550,9 +1550,8 @@ msgid ""
 "worksheets for students who want to supplement their classroom learning, "
 "texts to teach the Mayan language, and many great information. This source "
 "of knowledge is ready at your disposal, and can be a useful tool no matter "
-"your age. To begin using this app, open the folder, click the 'Index' file, "
-"and prepare to be amazed by the infinite knowledge that it has to offer!"
-msgstr "Cette application est remplie d’informations fiables transmises directement par le gouvernement guatémaltèque pour vous aider à vivre une vie plus saine et plus prospère. Trouvez des informations pour vous aider à faire pousser différents types de cultures, des astuces pour les mères avant et après la grossesse, des outils pour aider les enseignants à préparer un programme, des feuilles de travail pour les étudiants souhaitant compléter leur apprentissage en classe, des textes pour apprendre la langue maya, et pleins d’informations passionnantes. Cette source de connaissances est prête à utiliser, et peut être un outil utile, quel que soit votre âge. Pour commencer à utiliser cette application, ouvrez le dossier, cliquez sur le fichier « Index », et préparez-vous à être impressionné par le savoir infini qui s’y trouve !"
+"your age."
+msgstr "Cette application est remplie d’informations fiables transmises directement par le gouvernement guatémaltèque pour vous aider à vivre une vie plus saine et plus prospère. Trouvez des informations pour vous aider à faire pousser différents types de cultures, des astuces pour les mères avant et après la grossesse, des outils pour aider les enseignants à préparer un programme, des feuilles de travail pour les étudiants souhaitant compléter leur apprentissage en classe, des textes pour apprendre la langue maya, et pleins d’informations passionnantes. Cette source de connaissances est prête à utiliser, et peut être un outil utile, quel que soit votre âge."
 
 #: content/Default/apps/content.json.h:231
 msgctxt "title"
@@ -1745,54 +1744,15 @@ msgstr "Ce jeu demande une sérieuse logique, mais ne soyez pas effrayé — il 
 
 #: content/Default/apps/content.json.h:258
 msgctxt "title"
-msgid "KBlocks"
-msgstr "KBlocks"
-
-#: content/Default/apps/content.json.h:259
-msgctxt "subtitle"
-msgid "Match blocks to destroy them and win"
-msgstr "Faites correspondre les blocs pour les détruire et gagner"
-
-#: content/Default/apps/content.json.h:260
-msgctxt "description"
-msgid ""
-"This game is similar to Tetris, so if you love that game, you will love this"
-" one! Match up the block shapes in order to make them disappear and keep "
-"them from filling the screen. You will need to be really fast or else you'll"
-" lose, so pay attention and get ready for some very fast-actioned fun!"
-msgstr "Ce jeu est similaire à Tetris, donc si vous adorez ce jeu, vous adorerez celui-là également ! Faites correspondre les formes des blocs afin de les faire disparaître et empêchez-les d'emplir l'écran. Vous aurez besoin d'être vraiment rapide pour ne pas perdre, donc restez aux aguets et soyez prêt à vous amuser intensément !"
-
-#: content/Default/apps/content.json.h:261
-msgctxt "title"
-msgid "KBounce"
-msgstr "KBounce"
-
-#: content/Default/apps/content.json.h:262
-msgctxt "subtitle"
-msgid "The ball-bouncing game sure to hook you"
-msgstr "Le jeu de balle rebondissante sûr de vous rendre accro"
-
-#: content/Default/apps/content.json.h:263
-msgctxt "description"
-msgid ""
-"This is a fun game with a simple goal: you must build walls to decrease the "
-"area in which a bouncing ball on the screen can move. Once you fill most of "
-"the screen with walls, you’ll be able to move on to the next level. This "
-"game has an element of puzzle solving, and is fast-paced and entertaining. "
-"It requires quick thinking and fast reflexes!"
-msgstr "Il s’agit d’un jeu amusant avec un objectif simple : vous devez construire des murs pour réduire la zone dans laquelle la balle rebondissante à l’écran peut bouger. Une fois que vous avez rempli la majeure partie de l’écran avec des murs, vous serez en mesure d’atteindre le niveau suivant. Ce jeu possède des éléments de résolution de puzzle, et est rythmé et divertissant. Il demande une réflexion rapide et de prompts réflexes !"
-
-#: content/Default/apps/content.json.h:264
-msgctxt "title"
 msgid "KBruch"
 msgstr "KBruch"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:259
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr "Apprenez les fractions, les pourcentages et davantages"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:260
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -1804,17 +1764,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr "L’un des aspects les plus piégeux des mathématiques que nous faisons chaque jour est le calcul de fractions et de pourcentages, et maintenant vous n’aurez plus à deviner vos opérations ! Cette application propose des jeux et exercices pour affiner vos compétences, dont l’arithmétique, les comparaisons, les conversions, et la factorisation. Apprenez tout à propos des fractions et pourcentages, et pratiquez autant que vous le souhaitez. Nous sommes confrontés au quotidien à ce type d’opérations mathématiques, donc vos nouvelles compétences vous seront utiles de façon inattendue !"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:261
 msgctxt "title"
 msgid "KSnake"
 msgstr "KSnake"
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:262
 msgctxt "subtitle"
 msgid "A fun and very simple game for everyone"
 msgstr "Un jeu amusant et très simple pour toute la famille"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:263
 msgctxt "description"
 msgid ""
 "Similar to the popular arcade game, Snake, this classic game will help you "
@@ -1823,38 +1783,17 @@ msgid ""
 "snakes grow longer, promising a fun challenge to players of all levels."
 msgstr "Similaire à Snake, le jeu d'arcade bien connu, ce jeu classique vous aidera à tromper l'ennui durant de nombreuses heures ! En mangeant, le serpent grossit, mais une collision avec un autre serpent et tout est perdu. Le jeu devient plus difficile à mesure que le serpent est plus long, promettant un défi amusant pour les joueurs de tous niveaux."
 
-#: content/Default/apps/content.json.h:270
-msgctxt "title"
-msgid "KDiamond"
-msgstr "KDiamond"
-
-#: content/Default/apps/content.json.h:271
-msgctxt "subtitle"
-msgid "Create lines of three diamonds"
-msgstr "Créez des lignes de trois diamants"
-
-#: content/Default/apps/content.json.h:272
-msgctxt "description"
-msgid ""
-"In this fast-paced game, your job is to build lines of three diamonds of the"
-" same type. Simply swap diamonds with their neighbors to make your lines. "
-"Better do it quickly, so you can build as many lines as possible before the "
-"round is over! This is an easy and highly entertaining game you can play for"
-" just a little while, or for hours on end. It’s fun, fast, and great for "
-"many age levels."
-msgstr "Dans ce jeu rythmé, votre job est de construire des lignes de trois diamants du même type. Inversez simplement les diamants avec leurs voisins pour créer vos lignes. Mieux vaut le faire rapidement, afin que vous puissiez construire autant de lignes que possible avant que le tour ne soit fini ! C’est un jeu facile et très distrayant auquel vous pouvez jouer pour juste quelques instants, ou pour des heures entières au final. C’est amusant, rapide, et parfait pour de nombreuses tranches d’âge."
-
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:264
 msgctxt "title"
 msgid "KGeography"
 msgstr "KGeography"
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:265
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr "Devenez un génie de la géographie tout en vous amusant"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:266
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -1865,17 +1804,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr "Vous y connaissez-vous bien à propos de la géographie mondiale et des questions politiques ? Apprenez la géographie du monde entier à travers un jeu stimulant. Tout d’abord, regardez la carte et apprenez à propos des noms, capitales, et drapeaux. Ensuite, il est temps de tester vos connaissances ! Devinez les capitales et drapeaux ou essayez de placer les frontières étatiques sur une carte vierge. Avant que vous ne vous en rendiez compte, vous connaîtrez tous les recoins du monde et vous serez beaucoup amusé à apprendre tout cela !"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:267
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:268
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr "Cherchez le trésor et abritez-vous des ennemis"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:269
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -1885,17 +1824,17 @@ msgid ""
 " through any trapdoors!"
 msgstr "Vos ennemis sont à vos trousses tandis que vous essayez de vous déplacer à travers des labyrinthes pour collecter de l’or dans ce jeu stimulant. Avec des énigmes et un objectif excitant, ce jeu est certain de devenir l’un de vos favoris. Vous y trouverez des centaines de niveaux pour des heures d’expérience ludique, avec de nouveaux labyrinthes à chaque niveau. Essayez juste de ne pas tomber dans un piège !"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:270
 msgctxt "title"
 msgid "KHangMan"
 msgstr "KHangMan"
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:271
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr "Un des jeux de mots les plus amusants du monde"
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:272
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -1907,17 +1846,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr "Pratiquez votre vocabulaire de façon amusante ! Vous apprendrez de nouveaux mots avec ce jeu de puzzle, et toute la famille peut participer ! Comment jouer ? L’ordinateur choisira un mot et les joueurs essayeront de deviner ce mot en devinant ses lettres une par une jusqu’à ce qu’ils puissent deviner le mot en entier. Tandis que les joueurs devinent correctement, le mot est de plus en plus affiché, mais si vous faites trop d’erreurs, vous perdrez et devrez commencer un nouveau mot !"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:273
 msgctxt "title"
 msgid "Kigo"
 msgstr "Kigo"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:274
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr "L'ancestral jeu d'adresse, repensé pour l'amusement moderne"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:275
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -1929,17 +1868,17 @@ msgid ""
 "too!"
 msgstr "Basée sur un jeu de plateau à deux joueurs populaire en Asie, cette application a des règles faciles à apprendre, mais nécessite beaucoup de stratégie. C’est la façon parfaite pour passer le temps tout en entraînant votre esprit. Le but est simple : déplacez vos pièces noires ou blanches sur la grille (la taille de la grille dépend du niveau de difficulté que vous avez choisi), et essayez d’investir davantage le plateau que votre adversaire. Si vous aimez les jeux tels que les échecs, vous adorerez également cet excellent jeu de stratégie !"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:276
 msgctxt "title"
 msgid "Killbots"
 msgstr "Killbots"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:277
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr "Déjouez les robots tueurs pour gagner"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:278
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -1949,17 +1888,1092 @@ msgid ""
 "tell the tale!"
 msgstr "Comment allez vous débarrasser des robots tueurs assoiffés de destruction ? Trouvez une solution avec ce jeu de divertissement simple. Vous pourrez vous trouver envahi par des vagues incessantes de robots, mais grâce à votre intelligente et votre appareil portable de téléportation, vous parviendrez à les vaincre. Déjouez les tentatives de tous ces robots tueurs pour gagner et survivre pour raconter vos exploits !"
 
+#: content/Default/apps/content.json.h:279
+msgctxt "title"
+msgid "Kolor Lines"
+msgstr "Kolor Lines"
+
+#: content/Default/apps/content.json.h:280
+msgctxt "subtitle"
+msgid "Line up balls of the same color to win"
+msgstr "Alignez des balles de la même couleur pour gagner"
+
+#: content/Default/apps/content.json.h:281
+msgctxt "description"
+msgid ""
+"This game is so fun and addicting, you’ll never want to stop playing. The "
+"concept is simple: Gather colored balls from the game board into lines of "
+"five balls of the same color, which will remove them from the board. It’s "
+"more challenging than you’d expect, though, because new balls arrive after "
+"every move. It’s your job to get the game board as clear of balls as "
+"possible; you lose if it fills up completely!"
+msgstr "Ce jeu est tellement amusant et addictif que vous ne voudrez jamais vous arrêter de jouer. Le concept est simple : agencez les billes colorées sur le plateau de jeu pour former des lignes de cinq billes de couleur identique, ce qui les retirera du plateau. C’est un défi plus important que ce à quoi vous vous attendez, cependant, parce que de nouvelles billes arrivent après chaque mouvement. C’est votre travail de vider le plateau de jeu autant que vous le pouvez ; vous perdrez s’il est complètement rempli !"
+
+#: content/Default/apps/content.json.h:282
+msgctxt "title"
+msgid "KMines"
+msgstr "KMines"
+
+#: content/Default/apps/content.json.h:283
+msgctxt "subtitle"
+msgid "Stay away from the exploding mines"
+msgstr "Restez à l'écart des mines explosives"
+
+#: content/Default/apps/content.json.h:284
+msgctxt "description"
+msgid ""
+"Don't take a wrong step or you'll explode! You'll need to use logic and "
+"smarts in this game to get around all of the landmines and make your way "
+"safely across the field."
+msgstr "Ne faites pas un pas de travers sous peine d’exploser ! Vous devrez utiliser votre logique et redoubler d’astuces dans ce jeu pour vous débarrasser de toutes les mines souterraines et tracer votre chemin en toute sécurité à travers le champ de mines."
+
+#: content/Default/apps/content.json.h:285
+msgctxt "title"
+msgid "Battleships"
+msgstr "Vaisseaux de guerre"
+
+#: content/Default/apps/content.json.h:286
+msgctxt "subtitle"
+msgid "Blow your opponents out of the water"
+msgstr "Explosez votre adversaire pour le faire couler"
+
+#: content/Default/apps/content.json.h:287
+msgctxt "description"
+msgid ""
+"Try to guess where your enemies ships are to blow them out of the water "
+"before they get you! This is a fun strategy game that requires two people. "
+"You can play against a friend, against someone else on the internet, or "
+"against your computer. You'll take turns trying to guess where each others' "
+"ships are, and the first person to sink all of their enemies' ships wins. "
+"Arrr you ready for some great naval fun?"
+msgstr "Essayez de deviner où sont les bateaux de vos ennemis pour les faire couler dans l’eau avant qu’ils ne vous aient ! Il s’agit d’un jeu de stratégie amusant pour deux joueurs. Vous pouvez jouer contre un ami, contre quelqu’un d’autre sur internet, ou contre votre ordinateur. À chaque tour, vous essayerez de deviner où est chacun des bateaux de votre ennemi, et la première personne à couler tous les bateaux de son ennemi gagne. Êtes-vous prêt pour un peu d’amusement naval ?"
+
 #: content/Default/apps/content.json.h:288
+msgctxt "title"
+msgid "KNetwalk"
+msgstr "KNetwalk"
+
+#: content/Default/apps/content.json.h:289
+msgctxt "subtitle"
+msgid "Make the right cable connections and win"
+msgstr "Faites la bonne connexion de câbles pour gagner"
+
+#: content/Default/apps/content.json.h:290
+msgctxt "description"
+msgid ""
+"Who knew building computer networks could be fun? You'll need to create the "
+"right connections in as few turns as possible to win - so get ready to move "
+"the wires and figure out the puzzle quickly! Once you’ve succeeded, you’ll "
+"find a high score list, allowing you to find competitors! This app helps you"
+" understand how computer networks work, but more importantly, it’s an "
+"enjoyable and competitive game you’ll love to play."
+msgstr "Qui aurait cru que la construction de réseaux informatiques pouvait être amusante ? Vous devrez créer la bonne connexion en aussi peu de tours que possible pour gagner — soyez donc prêt à déplacer les câbles et résolvez le puzzle rapidement ! Une fois que vous avez réussi, vous trouverez une liste des meilleurs scores, vous permettant de trouver des adversaires ! Cette application aide à comprendre comment les réseaux informatiques fonctionnent, mais surtout, c’est un jeu amusant et compétitif auquel vous adorerez jouer."
+
+#: content/Default/apps/content.json.h:291
+msgctxt "title"
+msgid "Kobo Deluxe"
+msgstr "Kobo Deluxe"
+
+#: content/Default/apps/content.json.h:292
+msgctxt "subtitle"
+msgid "Destroy enemy bases in space"
+msgstr "Détruisez les bases ennemies dans l'espace"
+
+#: content/Default/apps/content.json.h:293
+msgctxt "description"
+msgid ""
+"Fans of arcade-style games will love this fun shooting game. Protect "
+"yourself from and destroy enemy ships as they pursue you through space! This"
+" game has fun graphics and lots of challenges, with over 50 levels for you "
+"to play. You'll have hours and hours of fun blowing up things in space!"
+msgstr "Les fans de jeux d’arcade adoreront ce jeu de tir amusant. Protégez-vous des vaisseaux ennemis et détruisez-les tandis qu’ils vous poursuivent à travers l’espace ! Ce jeu profite de graphismes amusants et de nombreux défis, avec plus de 50 niveaux jouables. Vous aurez des heures et des heures d’amusement à exploser des choses dans l’espace !"
+
+#: content/Default/apps/content.json.h:294
+msgctxt "title"
+msgid "KSquares"
+msgstr "KSquares"
+
+#: content/Default/apps/content.json.h:295
+msgctxt "subtitle"
+msgid "Connect the dots in this challenging strategy game"
+msgstr "Connectez les points dans ce jeu de stratégie stimulant"
+
+#: content/Default/apps/content.json.h:296
+msgctxt "description"
+msgid ""
+"Based on a popular old game, this fun app lets you stretch your mind and "
+"solve puzzles. The objective is to complete more squares on the grid than "
+"your opponent. Taking turns drawing lines between dots, you’ll form squares "
+"while trying to block your opponents’ squares. This game requires "
+"geometrical thinking as well as strategy, and is sure to provide hours of "
+"entertainment. Be careful – you just might become addicted!"
+msgstr "Basé sur un célèbre jeu ancien, cette application amusante vous permet de vous remuer les méninges en résolvant des puzzles. L'objectif est d'avoir plus de carrés sur la grille que votre adversaire. Tracez des lignes entre les points chacun votre tour et formez des carrés tout en essayant de bloquer ceux de votre adversaire. Ce jeu demande de penser géométriquement et stratégiquement, et vous divertira assurément pendant des heures. Attention, vous pourriez ne plus pouvoir vous en passer !"
+
+#: content/Default/apps/content.json.h:298
+msgctxt "subtitle"
+msgid "A challenging numerical puzzle game"
+msgstr "Un jeu stimulant de puzzle numérique"
+
+#: content/Default/apps/content.json.h:299
+msgctxt "description"
+msgid ""
+"Are you better than your friend is at puzzles? Find out by playing this fun "
+"number puzzle game! You can play alone, have other people help you, or "
+"challenge your friends and family to see who can solve the puzzle first. "
+"This app has special features, like the ability to create games you can "
+"print out, and the ability to help you solve any Sudoku puzzle so that you "
+"can learn how to solve it on your own. Whether you are completely new to "
+"Sudoku, or are an experienced player, you'll love this app!"
+msgstr "Êtes-vous meilleur que vos amis aux puzzles ? Découvrez la réponse en jouant à ce jeu amusant de puzzle numérique ! Vous pouvez jouer seul, vous faire aider par d'autres personnes, ou défier vos amis et votre famille pour voir qui peut résoudre le puzzle en premier. Cette application a des fonctionnalités spéciales, comme la possibilité de créer des jeux que vous pouvez imprimer ou de vous aider à résoudre n'importe quel puzzle Sudoku de façon à ce que vous appreniez à les résoudre vous-même. Que vous soyez débutant total ou un joueur expérimenté, vous adorerez cette application !"
+
+#: content/Default/apps/content.json.h:300
+msgctxt "title"
+msgid "KSnakeDuel"
+msgstr "KSnakeDuel"
+
+#: content/Default/apps/content.json.h:301
+msgctxt "subtitle"
+msgid "Survival depends on your reflexes and wits"
+msgstr "La survie dépend de vos réflexes et de votre esprit"
+
+#: content/Default/apps/content.json.h:302
+msgctxt "description"
+msgid ""
+"Guide your snake to eat the apples and to avoid the other snakes, balls and "
+"walls! Some of the snakes and balls will just make you slower, while others "
+"will kill you, so it's best to stay away from them all! If you manage to eat"
+" all of the apples, then you'll need to exit the maze in order to move onto "
+"the next level. This game may sound easy, but it's not, so get ready for a "
+"fun challenge!"
+msgstr "Guidez votre serpent pour le faire manger les pommes et pour éviter les autres serpents, les balles et les murs ! Certains des serpents et des balles vous ralentiront simplement, alors que les autres vous tueront, donc il est préférable de rester éloigner de tout ça ! Si vous réussissez à manger toutes les pommes, vous devrez quitter le labyrinthe pour passer au niveau suivant. Ce jeu peut sembler simple, mais ce n’est pas le cas, donc soyez prêt pour un défi des plus amusants !"
+
+#: content/Default/apps/content.json.h:303
+msgctxt "title"
+msgid "Potato Guy"
+msgstr " Potato Guy"
+
+#: content/Default/apps/content.json.h:304
+msgctxt "subtitle"
+msgid "Give your potato a funny face"
+msgstr "Donnez à votre patate un visage amusant"
+
+#: content/Default/apps/content.json.h:305
+msgctxt "description"
+msgid ""
+"This is a silly game for children and their parents to play together. Based "
+"on the Mr. Potato Head toy, it allows you to drag and drop facial features "
+"onto a potato, making funny faces with such touches as mustaches, elf ears, "
+"blonde ponytails, and bowties. There is no objective to this game except "
+"lots of laughter. Make the goofiest face you can!"
+msgstr "Il s’agit d’un jeu idiot pour permettre aux enfants et à leurs parents de jouer ensemble. Basé sur le jeu Monsieur Patate, il vous permet de faire glisser et déposer des éléments de visage sur une patate, faisant des visages marrants avec l’aide de moustaches, oreilles de lutins, queues de cheval blondes, et autres nœuds papillons. Il n’y a pas d’autre objectif à ce jeu que de faire rire ! Réalisez le visage le plus désopilant que vous pouvez !"
+
+#: content/Default/apps/content.json.h:306
+msgctxt "title"
+msgid "Kubrick"
+msgstr "Kubrick"
+
+#: content/Default/apps/content.json.h:307
+msgctxt "subtitle"
+msgid "Like Rubik's Cube - create solid color sides to win"
+msgstr "Comme le Rubik's Cube - créez des face de couleur homogène pour gagner"
+
+#: content/Default/apps/content.json.h:308
+msgctxt "description"
+msgid ""
+"This puzzling game has lots of options to keep your brain working! Modeled "
+"after the popular Rubik's Cube this game is a 3-D experience that has you "
+"turning small bricks in a large cube to try and make each of the cube's "
+"sides the same solid color. Smaller, larger, and differently shaped objects "
+"offer their own special challenges. The game also includes demonstrations of"
+" cool solution moves, so you can follow along with the experts, and you can "
+"even design your very own challenge!"
+msgstr "Ce jeu de puzzle propose de nombreuses options pour faire travailler votre cerveau ! Conçu d’après le populaire Rubik’s Cube, ce jeu est une expérience 3D qui vous fait tourner les petites briques d’un grand cube pour tenter et réussir à rendre chacune des faces du cube de la même couleur. Des objets plus grands, plus petits, et de formes différentes, proposent leur propre défi. Le jeu comprend également des démonstrations des méthodes de résolutions les plus impressionnantes, afin que vous puissiez devenir un expert, et que vous puissiez même concevoir votre propre défi !"
+
+#: content/Default/apps/content.json.h:309
+msgctxt "title"
+msgid "KWordQuiz"
+msgstr "KWordQuiz"
+
+#: content/Default/apps/content.json.h:310
+msgctxt "subtitle"
+msgid "Grow your vocabulary and test your learning"
+msgstr "Améliorez votre vocabulaire et testez votre apprentissage"
+
+#: content/Default/apps/content.json.h:311
+msgctxt "description"
+msgid ""
+"Learning new words is a great way to speak and write more clearly, but "
+"sometimes it can be hard to do. Using flashcards can be a great help, "
+"whether you’re studying a foreign language or trying to memorize new "
+"vocabulary words. This app make memorization easy and fun with interactive "
+"flashcards and quizzes that will help you test your knowledge and keep "
+"learning all you want."
+msgstr "Apprendre de nouveaux mots est une excellente façon de parler et écrire de façon plus claire, mais parfois cela peut être difficile à faire. Utiliser des fiches de vocabulaire peut être d’une grande aide, que vous étudiiez une langue étrangère ou essayiez de mémoriser de nouveaux mots de vocabulaire. Cette application rend la mémorisation facile et amusante avec des fiches de vocabulaire interactives et des jeux qui vous aideront à tester votre connaissance et à continuer d’apprendre tout ce que vous voulez."
+
+#: content/Default/apps/content.json.h:312
+msgctxt "title"
+msgid "Breakout"
+msgstr "Breakout"
+
+#: content/Default/apps/content.json.h:313
+msgctxt "subtitle"
+msgid "Destroy all the bricks to win this fun game"
+msgstr "Détruisez toutes les briques pour gagner à ce jeu amusant"
+
+#: content/Default/apps/content.json.h:314
+msgctxt "description"
+msgid ""
+"This classic paddle game is tons of fun! The aim is to destroy bricks with "
+"your ball by hitting them with your paddle, which allows you to level up. "
+"The original Breakout game came out in 1976, and people have loved this "
+"simple yet addictive game ever since. Get your brick-breaking fix with great"
+" graphics and animation, intuitive controls, and plenty of levels to beat."
+msgstr "Ce jeu classique de casse-brique apporte des heures de plaisir ! Le but est de détruire les briques avec votre balle en les frappant avec votre raquette, ce qui vous permet de passer au niveau du dessus. Le jeu original, Breakout, est sorti en 1976. Depuis, tout le monde adore toujours ce jeu simple, mais addictif. Prenez votre dose de cassage de briques avec de superbes graphismes et animation, des contrôles intuitifs, et de nombreux niveaux à résoudre."
+
+#: content/Default/apps/content.json.h:315
+msgctxt "title"
+msgid "Spreadsheet"
+msgstr "Tableur"
+
+#: content/Default/apps/content.json.h:316
+msgctxt "subtitle"
+msgid "A spreadsheet program with many functions"
+msgstr "Un programme de tableur avec de nombreuses fonctions"
+
+#: content/Default/apps/content.json.h:317
+msgctxt "description"
+msgid ""
+"Whatever you need to keep track of, the spreadsheet app can help you do it. "
+"This advanced yet easy-to-use spreadsheet has something for everyone: a "
+"simple layout that’s easy to understand, plus the ability to do complex "
+"calculations. Spreadsheets are used in many careers throughout the world, so"
+" getting the hang of this app can also help you gain valuable skills for the"
+" job market."
+msgstr "Quoi que vous ayez besoin de surveiller et enregistrer, l’application tableur vous aide à le faire. Ce tableur avancé, mais facile à utiliser conviendra à tout le monde : une interface simple et facile à comprendre, avec la possibilité de réaliser des opérations complexes. Les tableaux sont utilisés pour de nombreuses applications professionnelles à travers le monde, donc se familiariser avec cette application peut aussi vous fournir des compétences utiles pour le marché du travail."
+
+#: content/Default/apps/content.json.h:318
+msgctxt "title"
+msgid "Presentation"
+msgstr "Présentation"
+
+#: content/Default/apps/content.json.h:319
+msgctxt "subtitle"
+msgid "Create great presentations with this easy-to-use app"
+msgstr "Créez de superbes présentation avec cette application facile à utiliser"
+
+#: content/Default/apps/content.json.h:320
+msgctxt "description"
+msgid ""
+"Create clean, attractive, and professional presentations with this "
+"presentation app. This app features the ability to use text, drawing tools, "
+"transitions, 2-D and 3-D art, and even animations to get your point across "
+"in a beautiful and compelling way. Best of all, this app is easy to "
+"understand and use, with simplified steps for creating exactly what you "
+"need."
+msgstr "Créez des présentations propres, attractives et professionnelles avec cette application de création de présentations. Cette application permet d'utiliser du texte, des outils de dessin, des transitions, des éléments graphiques en 2D et en 3D, et même des animations pour faire votre démonstration d'une façon élégante et persuasive. Cerise sur le gâteau, cette application est facile à comprendre et à utiliser, avec des étapes simplifiées pour créer exactement ce dont vous avez besoin."
+
+#: content/Default/apps/content.json.h:321
+msgctxt "title"
+msgid "Writer"
+msgstr "Écriture"
+
+#: content/Default/apps/content.json.h:322
+msgctxt "subtitle"
+msgid "Free, similar to & compatible with Microsoft Word"
+msgstr "Gratuit, similaire et compatible à Microsoft Word"
+
+#: content/Default/apps/content.json.h:323
+msgctxt "description"
+msgid ""
+"This app gives you all the features of the best word processing applications"
+" and is compatible with Microsoft Office. Create and edit documents easily, "
+"create short notes and longer pieces of writing with annotations and "
+"diagrams. It’s all possible with this app. Your documents will look "
+"professional enough to present to employers, teachers, or other important "
+"people. Use this app to compose your next masterpiece or to take great "
+"notes; either way, you’ll have simple yet powerful tools available."
+msgstr "Cette application vous donne accès à toutes les fonctionnalités des meilleures applications de traitement de texte et est compatible avec Microsoft Office. Créez et éditez facilement des documents, créez de courtes notes et de plus longues rédactions avec annotations et diagrammes. Tout cela est possible avec cette application. Vos documents auront un rendu suffisamment professionnel pour être présentés à des employeurs, des professeurs, ou d’autres personnes importantes. Utilisez cette application pour composer votre prochain chef-d’œuvre ou pour prendre de bonnes notes ; de toute façon, vous aurez des outils simples et puissants à portée de main."
+
+#: content/Default/apps/content.json.h:324
+msgctxt "title"
+msgid "Maps"
+msgstr "Maps"
+
+#: content/Default/apps/content.json.h:325
+msgctxt "subtitle"
+msgid "Maps of the entire world"
+msgstr "Cartes du monde entier"
+
+#: content/Default/apps/content.json.h:326
+msgctxt "description"
+msgid ""
+"Where do players from FC Barcelona or Real Madrid live? How far away are you"
+" from a country where elephants and lions wander around freely? How close is"
+" the nearest volcano? These are all questions that the right maps can help "
+"us answer. This app will give you access to all sorts of maps from all over "
+"the world and from different ages, so that you can even see how the world "
+"has changed over time!"
+msgstr "Où vivent les joueurs du FC Barcelone ou du Real Madrid ? À quelle distance êtes-vous d’un pays où les éléphants et les lions vivent en liberté ? Quel est le volcan le plus proche de vous ? Toutes ces questions peuvent trouver leur réponse avec la carte adéquate. Cette application vous donne accès à toutes sortes de cartes du monde entier et de différentes époques, afin que vous puissiez même voir comment le monde a changé à travers le temps !"
+
+#: content/Default/apps/content.json.h:327
+msgctxt "title"
+msgid "M.A.R.S."
+msgstr "M.A.R.S."
+
+#: content/Default/apps/content.json.h:328
+msgctxt "subtitle"
+msgid "A shooting game in space"
+msgstr "Jeu de tir dans l'espace"
+
+#: content/Default/apps/content.json.h:329
+msgctxt "description"
+msgid ""
+"In the year 3547, civilizations across the galaxy have settled their own "
+"planets. Your own people live in peace and harmony with the environment. But"
+" outside of your peaceful planet, a great war is raging. You are a famous "
+"fighter who is known for your honor and skill, and you will have to protect "
+"your planet from your jealous neighbors who want to destroy it! This game "
+"has a multiplayer option, allows you to choose from a variety of weapons to "
+"fight, and even allows you to customize your own spaceship. You'll want to "
+"keep playing until you succeed in returning peace to your planet!"
+msgstr "Dans l'année 3547, les civilisations à travers la galaxie ont parachevées leurs planètes. Votre peuple vit en paix et harmonie avec son environnement. Mais à l'extérieur de votre paisible planète, une grande guerre fait rage. Vous êtes un célèbre combattant connu pour son honneur et ses compétences, et vous devrez protéger votre planète des voisins jaloux qui veulent la détruire ! Ce jeu possède une option multijoueur, vous permet de choisir parmi de nombreuses armes pour combattre, et même "
+
+#: content/Default/apps/content.json.h:330
+msgctxt "title"
+msgid "MegaGlest"
+msgstr "MegaGlest"
+
+#: content/Default/apps/content.json.h:331
+msgctxt "subtitle"
+msgid "A fantasy world with kings, queens and magic"
+msgstr "Un monde fantastique avec rois, reines et magie"
+
+#: content/Default/apps/content.json.h:332
+msgctxt "description"
+msgid ""
+"Kings, castles, and dragons all unite in this awesome strategy game that "
+"will make you want to rule your own civilization. Play against your friends "
+"to see who has what it takes to rule this wild fantasy world where magic "
+"makes you even more powerful and you can conquer whatever part of the realm "
+"you desire!"
+msgstr "Les rois, les châteaux, et les dragons sont tous réunis dans cet excellent jeu de stratégie qui vous donnera envie de diriger votre propre civilisation. Jouez contre vos amis pour voir qui est en mesure de diriger ce monde sauvage fantastique où la magie vous rend encore plus puissant et où vous pouvez conquérir toutes les parties du royaume que vous désirez !"
+
+#: content/Default/apps/content.json.h:333
+msgctxt "title"
+msgid "Minetest"
+msgstr "Minetest"
+
+#: content/Default/apps/content.json.h:334
+msgctxt "subtitle"
+msgid "Create your dream world"
+msgstr "Créez le monde de vos rêves"
+
+#: content/Default/apps/content.json.h:335
+msgctxt "description"
+msgid ""
+"What kind of a world would you build? Start with just land and water, and "
+"from there fill in every detail you can possibly think of! Get creative and "
+"build an incredible castle, a giant skyscraper, a massive mansion, and don't"
+" forget to add city walls for protection. Explore the world and build "
+"whatever you'd like during the day, but make sure you’re prepared for the "
+"night. You may find that spiders, skeletons, and zombies might try to attack"
+" your city!"
+msgstr "Quel type de monde construiriez-vous ? Commencez avec juste de l'eau et de la terre, et de là ajoutez tous les détails qui vous traversent l'esprit ! Soyez créatif et créez un château incroyable, un gratte-ciel géant, un manoir gigantesque, et n'oubliez pas d'ajouter des murailles pour la protection. Explorez le monde et construisez ce que vous voulez pendant la journée mais assurez-vous de vous préparer pour la nuit. Vous pourriez vous rendre compte que des araignées, des squelettes et des zombies essayent d'attaquer votre ville !"
+
+#: content/Default/apps/content.json.h:336
+msgctxt "title"
+msgid "Numpty Physics"
+msgstr " Numpty Physics"
+
+#: content/Default/apps/content.json.h:337
+msgctxt "subtitle"
+msgid "Fun physics puzzle games"
+msgstr "Jeux de puzzle de physique amusante"
+
+#: content/Default/apps/content.json.h:338
+msgctxt "description"
+msgid ""
+"Who knew the laws of physics could be so much fun? With this app, you can "
+"solve puzzles by drawing objects like pulleys, levers, and ramps. If your "
+"creations turn out right, you’ll accomplish that level’s task and move to "
+"the next level. This challenging game will also teach you some basic "
+"physics, but you’ll be having so much fun that you’ll hardly know you’re "
+"learning."
+msgstr "Qui eut cru que les lois de la physique pouvaient être si amusantes ? Avec cette application, vous pouvez résoudre des puzzles en dessinant des objets tels que des poulies, des leviers et des rampes. Si votre création se révèle concluante, vous accomplirez la tâche du niveau et passerez au niveau suivant. Ce jeu stimulant vous apprendra également quelques bases de physique, mais vous vous amuserez tellement que vous ne réaliserez même pas que vous apprenez."
+
+#: content/Default/apps/content.json.h:339
+msgctxt "title"
+msgid "Palapeli"
+msgstr "Palapeli"
+
+#: content/Default/apps/content.json.h:340
+msgctxt "subtitle"
+msgid "A fun jigsaw puzzle game"
+msgstr "Un jeu de puzzle amusant"
+
+#: content/Default/apps/content.json.h:341
+msgctxt "description"
+msgid ""
+"If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
+"games of its type, it’s not necessary to align pieces on a grid. Instead, "
+"Palapeli has a more real-life feel, with pieces that are freely movable. "
+"Choose your puzzle and start putting together the pieces. This game is fun, "
+"rewarding, and as true to life as can be."
+msgstr "Si vous êtes un grand fan de puzzles, vous adorerez ce jeu. Contrairement aux autres jeux de ce type, il n’est pas nécessaire d’aligner les pièces sur une grille. Au lieu de cela, Palapeli donne une sensation plus réaliste, avec des pièces que l’on peut déplacer librement. Choisissez votre puzzle et commencez à assembler les pièces. Ce jeu est amusant, récompensant, et est aussi vrai que la vie peut l’être."
+
+#: content/Default/apps/content.json.h:342
+msgctxt "title"
+msgid "Pingus"
+msgstr "Pingus"
+
+#: content/Default/apps/content.json.h:343
+msgctxt "subtitle"
+msgid "Save your penguin friends from falling into the water"
+msgstr "Sauvez vos amis pingouins d'une chute dans l'eau"
+
+#: content/Default/apps/content.json.h:344
+msgctxt "description"
+msgid ""
+"Penguins are among the cutest animals, so who wouldn’t want to play a fun "
+"game protecting these beloved creatures from falling off cliffs and into "
+"freezing waters? With lots of levels and adorable characters, this is sure "
+"to become your new favorite game. Watch your penguins use the tools you give"
+" them in order to avoid an untimely end."
+msgstr "Le pingouin est l’un des animaux les plus mignons, donc pourquoi ne pas jouer à un jeu amusant consistant à protéger ces créatures adorées d’une chute depuis les falaises dans des eaux glaciales ? Avec de nombreux niveaux et des personnages adorables, il s’agit sûrement de votre nouveau jeu favori. Regardez vos pingouins utiliser les outils que vous leur donnez pour éviter une fin prématurée."
+
+#: content/Default/apps/content.json.h:345
+msgctxt "title"
+msgid "Video Editor"
+msgstr "Éditeur de vidéos"
+
+#: content/Default/apps/content.json.h:346
+msgctxt "subtitle"
+msgid "Hundreds of transitions, effects, and filters to edit your videos"
+msgstr "Des centaines de transitions, d'effets, et de filtres pour éditer vos vidéos"
+
+#: content/Default/apps/content.json.h:347
+msgctxt "description"
+msgid ""
+"Create videos for projects, friends, family, or just for fun! Look through "
+"hundreds of transitions, video effects, audio effects, and filters to help "
+"make your video just right. Whether you want to tell a story, make a gift "
+"for a friend, create a professional-looking video, or just want to express "
+"yourself, this video editor will help you do it!"
+msgstr "Créez des vidéos pour vos projets, vos amis, votre famille, ou juste pour vous amuser ! Explorez des centaines de transitions, d'effets vidéo, d'effets audio, et de filtres et réalisez la vidéo de vos rêves. Que vous vouliez raconter une histoire, offrir un cadeau à un ami, créer une vidéo de qualité professionnelle, ou juste vous exprimer, cet éditeur de vidéo vous aidera à atteindre votre objectif !"
+
+#: content/Default/apps/content.json.h:348
+msgctxt "title"
+msgid "Quadrapassel"
+msgstr "Quadrapassel"
+
+#: content/Default/apps/content.json.h:349
+msgctxt "subtitle"
+msgid "A tetris-like puzzle game"
+msgstr "Un jeu de puzzle similaire à Tetris"
+
+#: content/Default/apps/content.json.h:350
+msgctxt "description"
+msgid ""
+"You'll need to be quick if you want to win this game! Change the shape of "
+"pieces that fall from the top in order to match colors and make them "
+"disappear. If you don't make enough color blocks disappear, you'll find that"
+" your screen will soon fill up and you'll need to try again. And just when "
+"you think you're quick enough, the game will speed up, so be ready for a "
+"challenge!"
+msgstr "Vous devrez être rapide si vous voulez gagner à ce jeu ! Changez la forme des pièces qui tombent du haut afin de faire correspondre les couleurs et les faire disparaître. Si vous ne faites pas disparaître suffisamment de blocs de couleur, vous verrez rapidement votre écran se remplir, et vous devrez recommencer. Et juste au moment où vous croyez être suffisamment rapide, le jeu s’accélérera, donc soyez prêt à un nouveau défi !"
+
+#: content/Default/apps/content.json.h:351
+msgctxt "title"
+msgid "Music"
+msgstr "Musique"
+
+#: content/Default/apps/content.json.h:352
+msgctxt "subtitle"
+msgid "Listen to all your music, and to the radio"
+msgstr "Écoutez toute votre musique ainsi que la radio"
+
+#: content/Default/apps/content.json.h:353
+msgctxt "description"
+msgid ""
+"In addition to listening to your favorite music, this app lets you search "
+"through your library, create playlists, play and burn CDs, shows you album "
+"art and even songs' lyrics. This app also supports Internet radio streaming "
+"and audio visualizations. Enjoy all your favorite songs, stored and sorted "
+"in one convenient app."
+msgstr "En plus d’écouter votre musique favorite, cette application vous permet de chercher à travers votre bibliothèque, créer des listes de lecture, jouer et graver des CD, montrer vos pochettes d’album et même les paroles des chansons. Cette application supporte également les radios en streaming par internet et les visualisations audio. Profitez de toutes vos chansons favorites, stockées et triées en une application pratique."
+
+#: content/Default/apps/content.json.h:354
+msgctxt "title"
+msgid "Toy Train"
+msgstr "Train jouet"
+
+#: content/Default/apps/content.json.h:355
+msgctxt "subtitle"
+msgid "A fun train game for kids of all ages"
+msgstr "Un jeu de train amusant pour les enfants de tout âges"
+
+#: content/Default/apps/content.json.h:356
+msgctxt "description"
+msgid ""
+"Sure to be an instant hit with the whole family, this is a game featuring a "
+"steam locomotive which you use to drive across many levels collecting "
+"coaches as you go. Collect all the coaches to win the game!"
+msgstr "Sûr de convaincre instantanément toute la famille, il s’agit d’un jeu mettant en scène une locomotive à vapeur que vous utilisez pour parcourir les nombreux niveaux afin de collecter les wagons sur votre chemin. Collectez tous les wagons pour gagner le jeu !"
+
+#: content/Default/apps/content.json.h:357
+msgctxt "title"
+msgid "Scorched 3D"
+msgstr "Scorched 3D"
+
+#: content/Default/apps/content.json.h:358
+msgctxt "subtitle"
+msgid "A battle adventure multi-player game"
+msgstr "Un jeux de combat et d'aventure multijoueur"
+
+#: content/Default/apps/content.json.h:359
+msgctxt "description"
+msgid ""
+"Do you love games with jets, naval vessels, and all sorts of weapons? If so,"
+" then you will love Scorched3D. This game comes with many different lands "
+"for you to visit and engage in battles. You will need to develop a good "
+"strategy in order to outsmart your opponents and make sure that you end up "
+"victorious. You can play by yourself, with friends, or battle other "
+"community members online. Hold onto your hats, because this game is sure to "
+"shake things up!"
+msgstr "Aimez-vous les jeux avec des jets, des navires de guerre, et toutes sortes d’armes ? Si oui, alors vous adorerez Scorched3D. Ce jeu vous propose différents terrains à visiter et sur lesquels combattre. Vous devrez développer une bonne stratégie pour venir à bout de vos ennemis et vous assurer de sortir victorieux. Vous pouvez jouer seul, avec des amis, ou combattre d’autres communautés de membres en ligne. Accrochez-vous à votre casque, car ce jeu est certain de vous remuer !"
+
+#: content/Default/apps/content.json.h:360
+msgctxt "title"
+msgid "Scratch"
+msgstr "Gratter"
+
+#: content/Default/apps/content.json.h:361
+msgctxt "subtitle"
+msgid "Learn basic computer programming"
+msgstr "Apprenez les bases de la programmation"
+
+#: content/Default/apps/content.json.h:362
+msgctxt "description"
+msgid ""
+"Do you love computer games and applications? Why not learn how to make your "
+"own? This app teaches you the basics of computer programming in a fun and "
+"easy-to-learn way. You can pick characters and objects that you like and "
+"then add instructions so that they do what you want. As you become more "
+"advanced, you'll see that you can make almost anything you want come to life"
+" on the screen by putting in the right instructions. What cool video game "
+"will you someday make? "
+msgstr "Aimez-vous les jeux vidéos et les applications ? Pourquoi ne pas apprendre à faire les vôtres ? Cette application vous apprend les bases de la programmation d'une manière amusante et facile. Vous pouvez choisir les caractères et les éléments que vous aimez et ensuite ajouter les instructions pour qu'ils fassent ce que vous souhaitez. A mesure que vous progressez, vous verrez que vous pourrez donner vie à presque tout ce que vous voulez sur l'écran grâce aux bonnes instructions. Quel jeu vidéo créerez-vous un jour ?"
+
+#: content/Default/apps/content.json.h:363
+msgctxt "title"
+msgid "Photos"
+msgstr "Photos"
+
+#: content/Default/apps/content.json.h:364
+msgctxt "subtitle"
+msgid "Easily edit, organize, and share photos."
+msgstr "Éditez, organisez et partagez facilement vos photos."
+
+#: content/Default/apps/content.json.h:365
+msgctxt "description"
+msgid ""
+"We all love to take pictures in our everyday lives – and we especially love "
+"downloading them to our computers so we can edit and share them via social "
+"media. This app lets you import photos from a digital camera or phone "
+"seamlessly. You can then arrange them into albums, edit them for maximum "
+"beauty and effect, and of course, display them on your favorite social "
+"networks, like Facebook."
+msgstr "Nous aimons tous photographier notre vie quotidienne — en nous aimons particulièrement les télécharger sur notre ordinateur pour les éditer et les partager sur les réseaux sociaux. Cette application vous permet d’importer aisément vos photos depuis un appareil photo numérique ou d’un téléphone portable. Vous pouvez les ranger dans des albums, les éditer pour qu’elles soient plus belles et aient de meilleurs effets, et bien sûr, les partager sur vos réseaux sociaux favoris, tels que Facebook."
+
+#: content/Default/apps/content.json.h:366
+msgctxt "title"
+msgid "Simple Scan"
+msgstr "Un simple balayage"
+
+#: content/Default/apps/content.json.h:367
+msgctxt "subtitle"
+msgid "temp_subtitle"
+msgstr "sous-titre_temporaire"
+
+#: content/Default/apps/content.json.h:368
+msgctxt "description"
+msgid "temp description"
+msgstr "Description temporaire"
+
+#: content/Default/apps/content.json.h:369
+msgctxt "title"
+msgid "Skype"
+msgstr "Skype"
+
+#: content/Default/apps/content.json.h:370
+msgctxt "subtitle"
+msgid "Free internet calls with cheap rates to phones"
+msgstr "Appels par internet gratuit avec des tarifs bas pour les téléphones"
+
+#: content/Default/apps/content.json.h:371
+msgctxt "description"
+msgid ""
+"Skype makes staying in touch incredibly easy and fun! If you have a webcam "
+"and a microphone, you can easily make video calls and voice calls to anyone "
+"in the world who also has Skype. This app’s features are simple to use and "
+"you can stay in touch with people anywhere in world!  **Requires Internet"
+msgstr "Skype rend le maintien de contact incroyablement facile et amusant ! Si vous avez une webcam et un microphone, vous pouvez facilement passer des appels vidéos et des appels audio avec n’importe qui dans le monde qui a Skype. Les fonctionnalités de cette application sont simples d’utilisation et vous permettent de rester en contact avec des gens partout dans le monde ! **Nécessite une connexion internet"
+
+#: content/Default/apps/content.json.h:372
+msgctxt "title"
+msgid "Slingshot"
+msgstr "Slingshot"
+
+#: content/Default/apps/content.json.h:373
+msgctxt "subtitle"
+msgid "A shooting strategy game set in space"
+msgstr "Un jeu de tir stratégique situé dans l'espace"
+
+#: content/Default/apps/content.json.h:374
+msgctxt "description"
+msgid ""
+"Gravity is your best friend in this fun shooting game set in outer space. "
+"Use the gravity of different planets to your advantage, and use your trusty "
+"slingshot to destroy the enemy spacecraft. No two rounds are ever the same "
+"in this fun and addictive game!"
+msgstr "La gravité est votre meilleure amie dans ce jeu de tir amusant situé dans l’espace ! Utilisez la gravité des différentes planètes à votre avantage, et utilisez votre fidèle fronde pour détruire le vaisseau spatial ennemi. Jamais deux manches ne se ressemblent dans ce jeu amusant et addictif !"
+
+#: content/Default/apps/content.json.h:375
+msgctxt "title"
+msgid "Freecell"
+msgstr "Freecell"
+
+#: content/Default/apps/content.json.h:376
+msgctxt "subtitle"
+msgid "Solitare based single player card game"
+msgstr "Jeu de carte pour un joueur basé sur le solitaire"
+
+#: content/Default/apps/content.json.h:377
+msgctxt "description"
+msgid ""
+"This application lets you play a new type of solitaire that will keep you "
+"entertained for hours! The general idea is to put cards of the same suit "
+"down in numerical order, but it’s a little more complicated than that. This "
+"card game challenges the mind and provides plenty of entertainment for you "
+"to enjoy."
+msgstr "Cette application vous laisse jouer à un nouveau type de solitaire qui vous divertira durant des heures ! L’idée générale est de placer les cartes de la même suite suivant leur ordre numérique, mais c’est un peu plus compliqué que cela. Ce jeu de cartes défie l’esprit et vous gratifie de nombreuses heures de divertissement."
+
+#: content/Default/apps/content.json.h:378
+msgctxt "title"
+msgid "Solitaire"
+msgstr "Solitaire"
+
+#: content/Default/apps/content.json.h:379
+msgctxt "subtitle"
+msgid "The classic single player card game"
+msgstr "Le jeu de carte classique à un joueur"
+
+#: content/Default/apps/content.json.h:380
+msgctxt "description"
+msgid ""
+"Solitaire is a classic card game that is fun for people of all ages. It’s "
+"easy to figure out the rules, but it takes time to master the game. Luckily,"
+" you’ll want to put in the time to really learn how to play, because you’ll "
+"be having so much fun. This engrossing and mind-enriching game is sure to "
+"entertain you, hour after hour."
+msgstr "Le solitaire est un jeu de cartes classique amusant pour les gens de tout âge. Il est facile d’en comprendre les règles, mais maîtriser le jeu vous prendra davantage de temps. Heureusement, vous voudrez investir ce temps à apprendre comment jouer tellement vous vous amuserez. Ce jeu captivant et enrichissant pour l’esprit est assuré de vous divertir, heure après heure."
+
+#: content/Default/apps/content.json.h:381
+msgctxt "title"
+msgid "Steam"
+msgstr "Steam"
+
+#: content/Default/apps/content.json.h:382
+msgctxt "subtitle"
+msgid "Browse hundreds of the most popular games online"
+msgstr "Naviguez entre des centaines des jeux en ligne les plus populaires"
+
+#: content/Default/apps/content.json.h:383
+msgctxt "description"
+msgid ""
+"If you like playing video games, you're going to have a great time exploring"
+" all of the cool Linux games on Valve's Steam portal! You'll need an "
+"internet connection to view and purchase games on the Steam store, so make "
+"sure your Wi-Fi is turned on before opening this app. Get ready to find the "
+"most popular in the world that are sure to keep you entertained for hours at"
+" a time!"
+msgstr "Si vous aimez jouer aux jeux vidéos, vous allez vraiment vous amuser en explorant tous les jeux Linux sympas sur le portail Steam de Valve ! Vous aurez besoin d'une connexion Internet pour consulter et acheter des jeux sur la boutique de Steam, alors assurez-vous que votre Wi-Fi est allumé avant d'ouvrir cette application. Préparez-vous à trouver les jeux les plus populaires au monde qui vous divertiront assurément pendant des heures à la fois !"
+
+#: content/Default/apps/content.json.h:384
+msgctxt "title"
+msgid "Stellarium"
+msgstr "Stellarium"
+
+#: content/Default/apps/content.json.h:385
+msgctxt "subtitle"
+msgid ""
+"Planetarium software that shows what you see when you look at the stars"
+msgstr "Logiciel de planétarium qui vous affiche ce que vous voyez lorsque vous contemplez les étoiles"
+
+#: content/Default/apps/content.json.h:386
+msgctxt "description"
+msgid ""
+"Discover the night sky with this application. With a catalogue of more than "
+"600,000 stars, constellations from more than a dozen cultures, and many more"
+" features, this application lets you see and get to know the stars right "
+"from your desktop. This application shows you a night sky that is so "
+"realistic, it matches the one you see above you. Set your location "
+"coordinates and learn about the stars above you!"
+msgstr "Découvrez le ciel de la nuit avec cette application. Avec un catalogue de plus de 600 000 étoiles, des constellations de plus d’une douzaine de cultures, et bien d’autres fonctionnalités, cette application vous laisse voir et apprendre à connaître les étoiles depuis votre ordinateur. Cette application vous montre un ciel nocturne tellement réaliste qu’il correspondra à celui que vous voyez au-dessus de vous. Définissez vos coordonnées de localisation afin de vous informer sur les étoiles qui se trouvent au-dessus de vous !"
+
+#: content/Default/apps/content.json.h:387
+msgctxt "title"
+msgid "Super Tux"
+msgstr "Super Tux"
+
+#: content/Default/apps/content.json.h:388
+msgctxt "subtitle"
+msgid "Jump your way through different levels to win"
+msgstr "Sautez à travers les différents niveaux pour gagner"
+
+#: content/Default/apps/content.json.h:389
+msgctxt "description"
+msgid ""
+"This game is similar to the original Super Mario Brothers games where you "
+"must run and jump your way to new levels. This game features 26 levels with "
+"different opponents to fight, and fun music, in addition to a story that you"
+" can follow along with as you play."
+msgstr "Ce jeu est similaire aux jeux originaux Super Mario Brothers dans lesquels vous devez courir et sauter pour parcourir les différents niveaux. Ce jeu comprend 26 niveaux avec différents ennemis à combattre, une musique amusante, en plus d’une histoire que vous pouvez suivre au fur et à mesure que vous jouez."
+
+#: content/Default/apps/content.json.h:390
+msgctxt "title"
+msgid "Tux Kart"
+msgstr "Tux Kart"
+
+#: content/Default/apps/content.json.h:391
+msgctxt "subtitle"
+msgid "Race alone or against your friends and family"
+msgstr "Faites la course, seul ou contre vos amis et votre famille"
+
+#: content/Default/apps/content.json.h:392
+msgctxt "description"
+msgid ""
+"Do you love racing games? Then this is the app for you! Race down easy, "
+"medium and hard race tracks as Tux, the penguin, and try to beat your own "
+"speed or a friend's. If you are able to get the red fish, you'll gain "
+"special powers that will help you win, but make sure to avoid the green fish"
+" or you'll slow down. This game is great for both kids and adults alike and "
+"is sure to entertain you and your friends for hours!"
+msgstr "Aimez-vous les jeux de course ? Alors c’est l’application qu’il vous faut ! Dévalez des pistes de course faciles, moyennes ou difficiles en incarnant Tux, le pingouin, et tentez de battre votre temps ou celui d’un ami. Si vous êtes en mesure d’obtenir le poisson rouge, vous gagnerez des pouvoirs spéciaux qui vous aideront à gagner, mais soyez sûr d’éviter le poisson vert ou vous serez ralenti. Ce jeu est excellent, tant pour les enfants que pour les adultes, et vous divertira durant des heures avec vos amis !"
+
+#: content/Default/apps/content.json.h:393
+msgctxt "title"
+msgid "Teeworlds"
+msgstr "Teeworlds"
+
+#: content/Default/apps/content.json.h:394
+msgctxt "subtitle"
+msgid "Exciting multi-player shooting game"
+msgstr "Jeu de tir multijoueur excitant"
+
+#: content/Default/apps/content.json.h:395
+msgctxt "description"
+msgid ""
+"Shoot your way to victory in death matches and more! This game has an old-"
+"school feel and is an exciting multiplayer shooting game with epic battles "
+"of up to 16 players at a time. Play Capture the Flag or Team Deathmatch "
+"where you must try to survive in the deadly arena while getting rid of your "
+"opponents. This game is packed with cool featuers like the ability to create"
+" your own map! Lots of bloody fun awaits you, so grab your virtual weapons "
+"and go!"
+msgstr "Faites votre chemin vers la victoire à travers des deathmatchs et plus ! Ce jeu a un goût old school et est un jeu de tir multijoueur excitant avec des batailles épiques avec jusqu’à 16 joueurs simultanés. Jouez à la Capture de Drapeau ou aux Deathmatchs en équipe où vous devrez essayer de survivre dans l’arène meurtrière en essayant de vous débarrasser de vos ennemis. Ce jeu comprends des fonctionnalités sympathiques telles que la possibilité de créer votre propre terrain de jeu ! Un divertissement empli d’hémoglobine vous attends, donc emparez vous de vos armes virtuelles et foncez !"
+
+#: content/Default/apps/content.json.h:396
+msgctxt "title"
+msgid "TORCS"
+msgstr "TORCS"
+
+#: content/Default/apps/content.json.h:397
+msgctxt "subtitle"
+msgid "Race cool 3D cars in this realistic game"
+msgstr "Faites la course à bord de voitures en 3D dans ce jeu réaliste"
+
+#: content/Default/apps/content.json.h:398
+msgctxt "description"
+msgid ""
+"Rip around turns and scream past other drivers in this exciting 3D car "
+"racing game. It's so realistic that you'll swear you smell the burning "
+"rubber! Advanced users also have an opportunity to create their own custom "
+"drivers to gain an even bigger advantage over their opponents. You'll love "
+"racing your fast cars, and soon you'll see that all of your friends will "
+"want to play too!"
+msgstr "Dérapez dans les virages et criez aux oreilles des autres chauffeurs dans ce jeu de course en 3D excitant ! Il est tellement réaliste que vous jurerez sentir les pneus brûler ! Les utilisateurs avancés ont aussi l'opportunité de créer leurs propres chauffeurs personnalisés afin d'avoir un avantage encore plus grand sur leurs adversaires. Vous adorerez conduire vos bolides et bientôt vous verrez que vos amis voudront jouer aussi !"
+
+#: content/Default/apps/content.json.h:399
+msgctxt "title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: content/Default/apps/content.json.h:400
+msgctxt "subtitle"
+msgid "Full function video and media player"
+msgstr "Lecteur multimédia multifonctions"
+
+#: content/Default/apps/content.json.h:401
+msgctxt "description"
+msgid ""
+"Do you love watching movies? Do it the right way with this video application"
+" that allows you to watch movies you have downloaded in full-screen mode. "
+"Other basics, like volume control and playlists, make your video-watching "
+"experience easy and fun. With this application you'll want to invite all of "
+"your family and friends to join you in watching all of your favorite movies!"
+msgstr "Aimez-vous regarder des films ? Faites-le de la bonne façon avec cette application vidéo qui vous permet de regarder des films que vous avez téléchargés en mode plein écran. D’autres fonctions indispensables, comme le contrôle du volume et des playlists, rendent votre expérience de visionnage vidéo facile et amusant. Avec cette application vous voudrez inviter toute votre famille et vos amis à vous rejoindre pour visionner tous vos films préférés !"
+
+#: content/Default/apps/content.json.h:402
+msgctxt "title"
+msgid "Tux Football"
+msgstr "Tux Football"
+
+#: content/Default/apps/content.json.h:403
+msgctxt "subtitle"
+msgid "A fun soccer game starring Tux the penguin"
+msgstr "Un jeu de football amusant mettant en scène Tux le pingouin"
+
+#: content/Default/apps/content.json.h:404
+msgctxt "description"
+msgid ""
+"Do you love soccer? Now you can play all day with your favorite penguins! "
+"Show off your skills and strategy while always controling the players with "
+"the ball. Pretty soon, you'll feel like you're ready to take on the "
+"professionals!"
+msgstr "Aimez-vous le football ? Désormais, vous pouvez y jouer toute la journée avec votre pingouin préféré ! Démontrez vos compétences et votre stratégie tout en contrôlant le joueur avec la balle. Bientôt, vous vous sentirez prêt à prendre la relève des professionnels !"
+
+#: content/Default/apps/content.json.h:405
+msgctxt "title"
+msgid "Tux Math"
+msgstr "Tux Math"
+
+#: content/Default/apps/content.json.h:406
+msgctxt "subtitle"
+msgid "Math games for kids"
+msgstr "Jeux mathématiques pour les enfants"
+
+#: content/Default/apps/content.json.h:407
+msgctxt "description"
+msgid ""
+"Learn math by playing games! Starring kids’ favorite buddy, Tux the Penguin,"
+" this fun math game app leads kids through math facts in a way that’s fun "
+"and engaging. You want your children’s math skills to improve, and they want"
+" to play games – so encouraging them to play brings together the best of "
+"both worlds and will help your child learn to love math!"
+msgstr "Apprenez les mathématiques en jouant à des jeux ! Mettant en scène le héros préféré des enfants, Tux le Pingouin, ce jeu amusant de mathématiques initie les enfants à des questions mathématiques amusantes et stimulantes. Vous souhaitez voir s’améliorer les compétences mathématiques de vos enfants, et ils veulent jouer à des jeux — les encourager à jouer permet donc de lier le meilleur des deux mondes et aidera vos enfants à apprendre à aimer les maths !"
+
+#: content/Default/apps/content.json.h:408
+msgctxt "title"
+msgid "Tux Paint"
+msgstr "Tux Paint"
+
+#: content/Default/apps/content.json.h:409
+msgctxt "subtitle"
+msgid "A fun drawing app for kids"
+msgstr "Une application amusante de dessin pour les enfants"
+
+#: content/Default/apps/content.json.h:410
+msgctxt "description"
+msgid ""
+"Create beautiful artwork with this fun and easy to use app! Tux the penguin "
+"helps guide children so that they know how to use all of the tools. "
+"Recommended ages for using this app are 3 - 12, but anyone who is young at "
+"heart is sure to love it! Use stamps, play with shapes, or draw freehand to "
+"create something special. If your child loves drawing and creating artwork, "
+"then download this app and get them started on their next masterpiece!"
+msgstr "Réalisez de magnifiques illustrations avec cette application amusante et facile à utiliser ! Tux le pingouin aide et guide les enfants pour qu'ils puissent utiliser tous les outils. La tranche d'âge recommandée pour utiliser cette application est de 3 à 12 ans, mais quiconque est encore jeune dans son cœur l'adorera ! Utilisez des tampons, jouez avec les formes, ou dessinez à main levée afin de créer quelque chose d'unique. Si votre enfant aime dessiner et réaliser des illustrations, téléchargez cette application et laissez-les débuter leur prochain chef-d’œuvre !"
+
+#: content/Default/apps/content.json.h:411
+msgctxt "title"
+msgid "Tux Puck"
+msgstr "Tux Puck"
+
+#: content/Default/apps/content.json.h:412
+msgctxt "subtitle"
+msgid "Exciting air hockey game for you and your friends"
+msgstr "Jeu de air hockey excitant pour vous et vos amis"
+
+#: content/Default/apps/content.json.h:413
+msgctxt "description"
+msgid ""
+"An air hockey game in which you try to knock the puck past your opponent's "
+"defense. This is a great game for the whole family! Test your skill and "
+"reflexes to win this fast paced match!  (While the game is running, press F5"
+" or F6 to adjust your paddle speed.)"
+msgstr "Un jeu de air hockey dans lequel vous essayez de frapper le palet au travers de la défense adverse. C'est un super jeu pour toute la famille ! Testez votre adresse et vos réflexes pour gagner ce match palpitant ! (Pressez F5 ou F6 quand vous jouez pour ajuster la vitesse du curseur.)"
+
+#: content/Default/apps/content.json.h:414
+msgctxt "title"
+msgid "Tux Typing"
+msgstr "Tux Typing"
+
+#: content/Default/apps/content.json.h:415
+msgctxt "subtitle"
+msgid "Learn to type by playing games"
+msgstr "Apprenez à taper au clavier en jouant à des jeux"
+
+#: content/Default/apps/content.json.h:416
+msgctxt "description"
+msgid ""
+"This fun application is a great way for kids, and even adults, to learn how "
+"to type! Learn the basics, or improve your skills by playing games that "
+"teach you how to use a keyboard without even looking at it. Children today "
+"are growing up surrounded by computers and mobile devices, and learning how "
+"to use these technologies well will only grow more important in the future. "
+"Start them off with a great foundation by downloading this app and "
+"encouraging them to play!"
+msgstr "Cette amusante application est une excellente façon pour les enfants, et même les adultes, d’apprendre comment taper au clavier ! Apprenez les bases, ou améliorez vos compétences en jouant à des jeux qui vous enseignent comment utiliser le clavier sans même le regarder. Les enfants d’aujourd’hui grandissent entourés d’ordinateurs et d’appareils mobiles, et apprendre comment utiliser correctement ces technologies sera de plus en plus important dans le futur. Donnez-leur une base solide en téléchargeant cette application et en les encourageant à jouer !"
+
+#: content/Default/apps/content.json.h:417
+msgctxt "title"
+msgid "Warmux"
+msgstr "Warmux"
+
+#: content/Default/apps/content.json.h:418
+msgctxt "subtitle"
+msgid "Make your computer a battle of wit and war"
+msgstr "Transformez votre ordinateur en champ de bataille de l'esprit"
+
+#: content/Default/apps/content.json.h:419
+msgctxt "description"
+msgid ""
+"Exterminate your opponent in a cartoon word using dynamite, grenades, "
+"bazookas, or even a baseball bat. Each player controls their own team and "
+"must destroy his adversary using his arsenol and wits, as turn by turn, each"
+" member of each team attempts to destroy his opponents."
+msgstr "Exterminez votre adversaire dans un monde cartoon en utilisant de la dynamite, des grenades, des lance-roquettes, ou même une batte de baseball. Chaque joueur contrôle sa propre équipe et doit détruire son adversaire en utilisant son arsenal et sa stratégie, car tour après tour, chaque membre de chaque équipe essaye de détruire ses ennemis."
+
+#: content/Default/apps/content.json.h:420
+msgctxt "title"
+msgid "Warzone 2100"
+msgstr "Warzone 2100"
+
+#: content/Default/apps/content.json.h:421
+msgctxt "subtitle"
+msgid "Lead your troops to rebuild the world"
+msgstr "Dirigez vos troupes pour reconstruire le monde"
+
+#: content/Default/apps/content.json.h:422
+msgctxt "description"
+msgid ""
+"In Warzone 2100 you command forces to rebuild the world after nuclear war "
+"has destroyed it. Play it alone or with friends; either way you'll dive head"
+" first into another world where you'll be living and breathing military "
+"strategy. Research technologies, build units, and plan battles in this game "
+"of strategy, tactics, and wit."
+msgstr "Dans Warzone 2100, vous commandez des forces pour reconstruire le monde après qu’une guerre nucléaire l’ait détruit. Jouez seul ou avec des amis ; de toute façon vous plongerez la tête la première dans un autre monde où vous vivrez et respirerez votre stratégie militaire. Recherchez des technologies, construisez des unités, et planifiez des batailles dans ce jeu de stratégie, de tactique et d’esprit. "
+
+#: content/Default/apps/content.json.h:423
+msgctxt "title"
+msgid "Wesnoth"
+msgstr "Wesnoth"
+
+#: content/Default/apps/content.json.h:424
+msgctxt "subtitle"
+msgid "Fantasy turn-based strategy game"
+msgstr "Jeu de stratégie fantastique au tour par tour"
+
+#: content/Default/apps/content.json.h:425
+msgctxt "description"
+msgid ""
+"Battle for control of the land, villages, and resources in this fantasy-"
+"themed strategy game. Each player controls an army of their own design and "
+"uses it to seek dominance. An exciting blend of history, fantasy, and "
+"strategy, this game is sure to reveal a great leader inside you."
+msgstr "Battez-vous pour contrôler les territoires, villages, et ressources dans ce jeu de stratégie à thème fantastique. Chaque joueur contrôle l’armée qu’il conçoit lui-même et utilise pour chercher à dominer. Avec son excitant mélange d’histoire, de fantastique et de stratégie, ce jeu est certain de révéler le grand dirigeant qui se trouve en vous."
+
+#: content/Default/apps/content.json.h:426
+msgctxt "title"
+msgid "X-Moto"
+msgstr "X-Moto"
+
+#: content/Default/apps/content.json.h:427
+msgctxt "subtitle"
+msgid "A motorcycle racing game"
+msgstr "Un jeu de course de moto"
+
+#: content/Default/apps/content.json.h:428
+msgctxt "description"
+msgid ""
+"Love motorcycles? Then you're going to love this racing game where physics "
+"plays an important role in winning! You must control your bike to its "
+"physical limit if you want to have a chance of finishing the difficult "
+"courses. Learn about science and practice your racing skills at the same "
+"time in this fast-paced, exciting test of speed!"
+msgstr "Vous adorez les motos ? Alors vous allez adorer ce jeu de course dans lequel la physique joue un rôle important pour la victoire ! Vous devez contrôler votre moto dans ses limites physiques si vous voulez avoir une chance de finir les courses difficiles. Apprenez-en davantage sur la science et exercez vos compétences de conduite en même temps dans ce test de vitesse haletant !"
+
+#: content/Default/apps/content.json.h:429
+msgctxt "title"
+msgid "KBlocks"
+msgstr "KBlocks"
+
+#: content/Default/apps/content.json.h:430
+msgctxt "subtitle"
+msgid "Match blocks to destroy them and win"
+msgstr "Faites correspondre les blocs pour les détruire et gagner"
+
+#: content/Default/apps/content.json.h:431
+msgctxt "description"
+msgid ""
+"This game is similar to Tetris, so if you love that game, you will love this"
+" one! Match up the block shapes in order to make them disappear and keep "
+"them from filling the screen. You will need to be really fast or else you'll"
+" lose, so pay attention and get ready for some very fast-actioned fun!"
+msgstr "Ce jeu est similaire à Tetris, donc si vous adorez ce jeu, vous adorerez celui-là également ! Faites correspondre les formes des blocs afin de les faire disparaître et empêchez-les d'emplir l'écran. Vous aurez besoin d'être vraiment rapide pour ne pas perdre, donc restez aux aguets et soyez prêt à vous amuser intensément !"
+
+#: content/Default/apps/content.json.h:432
+msgctxt "title"
+msgid "KBounce"
+msgstr "KBounce"
+
+#: content/Default/apps/content.json.h:433
+msgctxt "subtitle"
+msgid "The ball-bouncing game sure to hook you"
+msgstr "Le jeu de balle rebondissante sûr de vous rendre accro"
+
+#: content/Default/apps/content.json.h:434
+msgctxt "description"
+msgid ""
+"This is a fun game with a simple goal: you must build walls to decrease the "
+"area in which a bouncing ball on the screen can move. Once you fill most of "
+"the screen with walls, you’ll be able to move on to the next level. This "
+"game has an element of puzzle solving, and is fast-paced and entertaining. "
+"It requires quick thinking and fast reflexes!"
+msgstr "Il s’agit d’un jeu amusant avec un objectif simple : vous devez construire des murs pour réduire la zone dans laquelle la balle rebondissante à l’écran peut bouger. Une fois que vous avez rempli la majeure partie de l’écran avec des murs, vous serez en mesure d’atteindre le niveau suivant. Ce jeu possède des éléments de résolution de puzzle, et est rythmé et divertissant. Il demande une réflexion rapide et de prompts réflexes !"
+
+#: content/Default/apps/content.json.h:435
+msgctxt "title"
+msgid "KDiamond"
+msgstr "KDiamond"
+
+#: content/Default/apps/content.json.h:436
+msgctxt "subtitle"
+msgid "Create lines of three diamonds"
+msgstr "Créez des lignes de trois diamants"
+
+#: content/Default/apps/content.json.h:437
+msgctxt "description"
+msgid ""
+"In this fast-paced game, your job is to build lines of three diamonds of the"
+" same type. Simply swap diamonds with their neighbors to make your lines. "
+"Better do it quickly, so you can build as many lines as possible before the "
+"round is over! This is an easy and highly entertaining game you can play for"
+" just a little while, or for hours on end. It’s fun, fast, and great for "
+"many age levels."
+msgstr "Dans ce jeu rythmé, votre job est de construire des lignes de trois diamants du même type. Inversez simplement les diamants avec leurs voisins pour créer vos lignes. Mieux vaut le faire rapidement, afin que vous puissiez construire autant de lignes que possible avant que le tour ne soit fini ! C’est un jeu facile et très distrayant auquel vous pouvez jouer pour juste quelques instants, ou pour des heures entières au final. C’est amusant, rapide, et parfait pour de nombreuses tranches d’âge."
+
+#: content/Default/apps/content.json.h:438
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "KJumpingCube"
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:439
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr "Développez une stratégie efficace pour conquérir tous les carrés"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:440
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -1974,117 +2988,17 @@ msgid ""
 " toes! "
 msgstr "Entraînez-vous à la pensée stratégique avec ce jeu exigeant basé sur des dés ! Vous vous déplacez en cliquant sur un carré libre ou un carré que vous possédez déjà. Si vous cliquez sur un carré libre, sa couleur change et devient la vôtre. Chaque fois que vous cliquez sur un carré, sa valeur augmente de un. Une fois qu'un carré a plus de points que ses voisins immédiats, ses points sont distribués entre ses voisins (les points se déplacent). Si un carré voisin appartient à votre adversaire, vous en prenez le contrôle ainsi que tous ses points. Vous devrez bien réfléchir pour contrôler tous les carrés, et comme les dés peuvent changer de mains très rapidement, ce jeu vous gardera assurément en haleine !"
 
-#: content/Default/apps/content.json.h:291
-msgctxt "title"
-msgid "Kolor Lines"
-msgstr "Kolor Lines"
-
-#: content/Default/apps/content.json.h:292
-msgctxt "subtitle"
-msgid "Line up balls of the same color to win"
-msgstr "Alignez des balles de la même couleur pour gagner"
-
-#: content/Default/apps/content.json.h:293
-msgctxt "description"
-msgid ""
-"This game is so fun and addicting, you’ll never want to stop playing. The "
-"concept is simple: Gather colored balls from the game board into lines of "
-"five balls of the same color, which will remove them from the board. It’s "
-"more challenging than you’d expect, though, because new balls arrive after "
-"every move. It’s your job to get the game board as clear of balls as "
-"possible; you lose if it fills up completely!"
-msgstr "Ce jeu est tellement amusant et addictif que vous ne voudrez jamais vous arrêter de jouer. Le concept est simple : agencez les billes colorées sur le plateau de jeu pour former des lignes de cinq billes de couleur identique, ce qui les retirera du plateau. C’est un défi plus important que ce à quoi vous vous attendez, cependant, parce que de nouvelles billes arrivent après chaque mouvement. C’est votre travail de vider le plateau de jeu autant que vous le pouvez ; vous perdrez s’il est complètement rempli !"
-
-#: content/Default/apps/content.json.h:294
-msgctxt "title"
-msgid "KMines"
-msgstr "KMines"
-
-#: content/Default/apps/content.json.h:295
-msgctxt "subtitle"
-msgid "Stay away from the exploding mines"
-msgstr "Restez à l'écart des mines explosives"
-
-#: content/Default/apps/content.json.h:296
-msgctxt "description"
-msgid ""
-"Don't take a wrong step or you'll explode! You'll need to use logic and "
-"smarts in this game to get around all of the landmines and make your way "
-"safely across the field."
-msgstr "Ne faites pas un pas de travers sous peine d’exploser ! Vous devrez utiliser votre logique et redoubler d’astuces dans ce jeu pour vous débarrasser de toutes les mines souterraines et tracer votre chemin en toute sécurité à travers le champ de mines."
-
-#: content/Default/apps/content.json.h:297
-msgctxt "title"
-msgid "Battleships"
-msgstr "Vaisseaux de guerre"
-
-#: content/Default/apps/content.json.h:298
-msgctxt "subtitle"
-msgid "Blow your opponents out of the water"
-msgstr "Explosez votre adversaire pour le faire couler"
-
-#: content/Default/apps/content.json.h:299
-msgctxt "description"
-msgid ""
-"Try to guess where your enemies ships are to blow them out of the water "
-"before they get you! This is a fun strategy game that requires two people. "
-"You can play against a friend, against someone else on the internet, or "
-"against your computer. You'll take turns trying to guess where each others' "
-"ships are, and the first person to sink all of their enemies' ships wins. "
-"Arrr you ready for some great naval fun?"
-msgstr "Essayez de deviner où sont les bateaux de vos ennemis pour les faire couler dans l’eau avant qu’ils ne vous aient ! Il s’agit d’un jeu de stratégie amusant pour deux joueurs. Vous pouvez jouer contre un ami, contre quelqu’un d’autre sur internet, ou contre votre ordinateur. À chaque tour, vous essayerez de deviner où est chacun des bateaux de votre ennemi, et la première personne à couler tous les bateaux de son ennemi gagne. Êtes-vous prêt pour un peu d’amusement naval ?"
-
-#: content/Default/apps/content.json.h:300
-msgctxt "title"
-msgid "KNetwalk"
-msgstr "KNetwalk"
-
-#: content/Default/apps/content.json.h:301
-msgctxt "subtitle"
-msgid "Make the right cable connections and win"
-msgstr "Faites la bonne connexion de câbles pour gagner"
-
-#: content/Default/apps/content.json.h:302
-msgctxt "description"
-msgid ""
-"Who knew building computer networks could be fun? You'll need to create the "
-"right connections in as few turns as possible to win - so get ready to move "
-"the wires and figure out the puzzle quickly! Once you’ve succeeded, you’ll "
-"find a high score list, allowing you to find competitors! This app helps you"
-" understand how computer networks work, but more importantly, it’s an "
-"enjoyable and competitive game you’ll love to play."
-msgstr "Qui aurait cru que la construction de réseaux informatiques pouvait être amusante ? Vous devrez créer la bonne connexion en aussi peu de tours que possible pour gagner — soyez donc prêt à déplacer les câbles et résolvez le puzzle rapidement ! Une fois que vous avez réussi, vous trouverez une liste des meilleurs scores, vous permettant de trouver des adversaires ! Cette application aide à comprendre comment les réseaux informatiques fonctionnent, mais surtout, c’est un jeu amusant et compétitif auquel vous adorerez jouer."
-
-#: content/Default/apps/content.json.h:303
-msgctxt "title"
-msgid "Kobo Deluxe"
-msgstr "Kobo Deluxe"
-
-#: content/Default/apps/content.json.h:304
-msgctxt "subtitle"
-msgid "Destroy enemy bases in space"
-msgstr "Détruisez les bases ennemies dans l'espace"
-
-#: content/Default/apps/content.json.h:305
-msgctxt "description"
-msgid ""
-"Fans of arcade-style games will love this fun shooting game. Protect "
-"yourself from and destroy enemy ships as they pursue you through space! This"
-" game has fun graphics and lots of challenges, with over 50 levels for you "
-"to play. You'll have hours and hours of fun blowing up things in space!"
-msgstr "Les fans de jeux d’arcade adoreront ce jeu de tir amusant. Protégez-vous des vaisseaux ennemis et détruisez-les tandis qu’ils vous poursuivent à travers l’espace ! Ce jeu profite de graphismes amusants et de nombreux défis, avec plus de 50 niveaux jouables. Vous aurez des heures et des heures d’amusement à exploser des choses dans l’espace !"
-
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:441
 msgctxt "title"
 msgid "KSame"
 msgstr "KSame"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:442
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr "Débarrassez-vous de toutes les billes pour gagner"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:443
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -2094,330 +3008,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr "Prouvez votre aptitude à la recherche de chemin dans ce jeu addictif. Faites correspondre toutes les billes de même couleur pour vider le plateau et gagnez, mais souvenez-vous : plus vous nettoyez de billes d’un coup, et plus votre score sera élevé, donc réfléchissez tous vos coups de façon stratégique ! Ce qui peut sembler simple au premier coup d’œil est en fait un véritable défi. Un défi vraiment amusant !"
 
-#: content/Default/apps/content.json.h:309
-msgctxt "title"
-msgid "KSquares"
-msgstr "KSquares"
-
-#: content/Default/apps/content.json.h:310
-msgctxt "subtitle"
-msgid "Connect the dots in this challenging strategy game"
-msgstr "Connectez les points dans ce jeu de stratégie stimulant"
-
-#: content/Default/apps/content.json.h:311
-msgctxt "description"
-msgid ""
-"Based on a popular old game, this fun app lets you stretch your mind and "
-"solve puzzles. The objective is to complete more squares on the grid than "
-"your opponent. Taking turns drawing lines between dots, you’ll form squares "
-"while trying to block your opponents’ squares. This game requires "
-"geometrical thinking as well as strategy, and is sure to provide hours of "
-"entertainment. Be careful – you just might become addicted!"
-msgstr "Basé sur un célèbre jeu ancien, cette application amusante vous permet de vous remuer les méninges en résolvant des puzzles. L'objectif est d'avoir plus de carrés sur la grille que votre adversaire. Tracez des lignes entre les points chacun votre tour et formez des carrés tout en essayant de bloquer ceux de votre adversaire. Ce jeu demande de penser géométriquement et stratégiquement, et vous divertira assurément pendant des heures. Attention, vous pourriez ne plus pouvoir vous en passer !"
-
-#: content/Default/apps/content.json.h:313
-msgctxt "subtitle"
-msgid "A challenging numerical puzzle game"
-msgstr "Un jeu stimulant de puzzle numérique"
-
-#: content/Default/apps/content.json.h:314
-msgctxt "description"
-msgid ""
-"Are you better than your friend is at puzzles? Find out by playing this fun "
-"number puzzle game! You can play alone, have other people help you, or "
-"challenge your friends and family to see who can solve the puzzle first. "
-"This app has special features, like the ability to create games you can "
-"print out, and the ability to help you solve any Sudoku puzzle so that you "
-"can learn how to solve it on your own. Whether you are completely new to "
-"Sudoku, or are an experienced player, you'll love this app!"
-msgstr "Êtes-vous meilleur que vos amis aux puzzles ? Découvrez la réponse en jouant à ce jeu amusant de puzzle numérique ! Vous pouvez jouer seul, vous faire aider par d'autres personnes, ou défier vos amis et votre famille pour voir qui peut résoudre le puzzle en premier. Cette application a des fonctionnalités spéciales, comme la possibilité de créer des jeux que vous pouvez imprimer ou de vous aider à résoudre n'importe quel puzzle Sudoku de façon à ce que vous appreniez à les résoudre vous-même. Que vous soyez débutant total ou un joueur expérimenté, vous adorerez cette application !"
-
-#: content/Default/apps/content.json.h:315
-msgctxt "title"
-msgid "KSnakeDuel"
-msgstr "KSnakeDuel"
-
-#: content/Default/apps/content.json.h:316
-msgctxt "subtitle"
-msgid "Survival depends on your reflexes and wits"
-msgstr "La survie dépend de vos réflexes et de votre esprit"
-
-#: content/Default/apps/content.json.h:317
-msgctxt "description"
-msgid ""
-"Guide your snake to eat the apples and to avoid the other snakes, balls and "
-"walls! Some of the snakes and balls will just make you slower, while others "
-"will kill you, so it's best to stay away from them all! If you manage to eat"
-" all of the apples, then you'll need to exit the maze in order to move onto "
-"the next level. This game may sound easy, but it's not, so get ready for a "
-"fun challenge!"
-msgstr "Guidez votre serpent pour le faire manger les pommes et pour éviter les autres serpents, les balles et les murs ! Certains des serpents et des balles vous ralentiront simplement, alors que les autres vous tueront, donc il est préférable de rester éloigner de tout ça ! Si vous réussissez à manger toutes les pommes, vous devrez quitter le labyrinthe pour passer au niveau suivant. Ce jeu peut sembler simple, mais ce n’est pas le cas, donc soyez prêt pour un défi des plus amusants !"
-
-#: content/Default/apps/content.json.h:318
-msgctxt "title"
-msgid "Potato Guy"
-msgstr " Potato Guy"
-
-#: content/Default/apps/content.json.h:319
-msgctxt "subtitle"
-msgid "Give your potato a funny face"
-msgstr "Donnez à votre patate un visage amusant"
-
-#: content/Default/apps/content.json.h:320
-msgctxt "description"
-msgid ""
-"This is a silly game for children and their parents to play together. Based "
-"on the Mr. Potato Head toy, it allows you to drag and drop facial features "
-"onto a potato, making funny faces with such touches as mustaches, elf ears, "
-"blonde ponytails, and bowties. There is no objective to this game except "
-"lots of laughter. Make the goofiest face you can!"
-msgstr "Il s’agit d’un jeu idiot pour permettre aux enfants et à leurs parents de jouer ensemble. Basé sur le jeu Monsieur Patate, il vous permet de faire glisser et déposer des éléments de visage sur une patate, faisant des visages marrants avec l’aide de moustaches, oreilles de lutins, queues de cheval blondes, et autres nœuds papillons. Il n’y a pas d’autre objectif à ce jeu que de faire rire ! Réalisez le visage le plus désopilant que vous pouvez !"
-
-#: content/Default/apps/content.json.h:321
-msgctxt "title"
-msgid "Kubrick"
-msgstr "Kubrick"
-
-#: content/Default/apps/content.json.h:322
-msgctxt "subtitle"
-msgid "Like Rubik's Cube - create solid color sides to win"
-msgstr "Comme le Rubik's Cube - créez des face de couleur homogène pour gagner"
-
-#: content/Default/apps/content.json.h:323
-msgctxt "description"
-msgid ""
-"This puzzling game has lots of options to keep your brain working! Modeled "
-"after the popular Rubik's Cube this game is a 3-D experience that has you "
-"turning small bricks in a large cube to try and make each of the cube's "
-"sides the same solid color. Smaller, larger, and differently shaped objects "
-"offer their own special challenges. The game also includes demonstrations of"
-" cool solution moves, so you can follow along with the experts, and you can "
-"even design your very own challenge!"
-msgstr "Ce jeu de puzzle propose de nombreuses options pour faire travailler votre cerveau ! Conçu d’après le populaire Rubik’s Cube, ce jeu est une expérience 3D qui vous fait tourner les petites briques d’un grand cube pour tenter et réussir à rendre chacune des faces du cube de la même couleur. Des objets plus grands, plus petits, et de formes différentes, proposent leur propre défi. Le jeu comprend également des démonstrations des méthodes de résolutions les plus impressionnantes, afin que vous puissiez devenir un expert, et que vous puissiez même concevoir votre propre défi !"
-
-#: content/Default/apps/content.json.h:324
-msgctxt "title"
-msgid "KWordQuiz"
-msgstr "KWordQuiz"
-
-#: content/Default/apps/content.json.h:325
-msgctxt "subtitle"
-msgid "Grow your vocabulary and test your learning"
-msgstr "Améliorez votre vocabulaire et testez votre apprentissage"
-
-#: content/Default/apps/content.json.h:326
-msgctxt "description"
-msgid ""
-"Learning new words is a great way to speak and write more clearly, but "
-"sometimes it can be hard to do. Using flashcards can be a great help, "
-"whether you’re studying a foreign language or trying to memorize new "
-"vocabulary words. This app make memorization easy and fun with interactive "
-"flashcards and quizzes that will help you test your knowledge and keep "
-"learning all you want."
-msgstr "Apprendre de nouveaux mots est une excellente façon de parler et écrire de façon plus claire, mais parfois cela peut être difficile à faire. Utiliser des fiches de vocabulaire peut être d’une grande aide, que vous étudiiez une langue étrangère ou essayiez de mémoriser de nouveaux mots de vocabulaire. Cette application rend la mémorisation facile et amusante avec des fiches de vocabulaire interactives et des jeux qui vous aideront à tester votre connaissance et à continuer d’apprendre tout ce que vous voulez."
-
-#: content/Default/apps/content.json.h:327
-msgctxt "title"
-msgid "Breakout"
-msgstr "Breakout"
-
-#: content/Default/apps/content.json.h:328
-msgctxt "subtitle"
-msgid "Destroy all the bricks to win this fun game"
-msgstr "Détruisez toutes les briques pour gagner à ce jeu amusant"
-
-#: content/Default/apps/content.json.h:329
-msgctxt "description"
-msgid ""
-"This classic paddle game is tons of fun! The aim is to destroy bricks with "
-"your ball by hitting them with your paddle, which allows you to level up. "
-"The original Breakout game came out in 1976, and people have loved this "
-"simple yet addictive game ever since. Get your brick-breaking fix with great"
-" graphics and animation, intuitive controls, and plenty of levels to beat."
-msgstr "Ce jeu classique de casse-brique apporte des heures de plaisir ! Le but est de détruire les briques avec votre balle en les frappant avec votre raquette, ce qui vous permet de passer au niveau du dessus. Le jeu original, Breakout, est sorti en 1976. Depuis, tout le monde adore toujours ce jeu simple, mais addictif. Prenez votre dose de cassage de briques avec de superbes graphismes et animation, des contrôles intuitifs, et de nombreux niveaux à résoudre."
-
-#: content/Default/apps/content.json.h:330
-msgctxt "title"
-msgid "Spreadsheet"
-msgstr "Tableur"
-
-#: content/Default/apps/content.json.h:331
-msgctxt "subtitle"
-msgid "A spreadsheet program with many functions"
-msgstr "Un programme de tableur avec de nombreuses fonctions"
-
-#: content/Default/apps/content.json.h:332
-msgctxt "description"
-msgid ""
-"Whatever you need to keep track of, the spreadsheet app can help you do it. "
-"This advanced yet easy-to-use spreadsheet has something for everyone: a "
-"simple layout that’s easy to understand, plus the ability to do complex "
-"calculations. Spreadsheets are used in many careers throughout the world, so"
-" getting the hang of this app can also help you gain valuable skills for the"
-" job market."
-msgstr "Quoi que vous ayez besoin de surveiller et enregistrer, l’application tableur vous aide à le faire. Ce tableur avancé, mais facile à utiliser conviendra à tout le monde : une interface simple et facile à comprendre, avec la possibilité de réaliser des opérations complexes. Les tableaux sont utilisés pour de nombreuses applications professionnelles à travers le monde, donc se familiariser avec cette application peut aussi vous fournir des compétences utiles pour le marché du travail."
-
-#: content/Default/apps/content.json.h:333
-msgctxt "title"
-msgid "Presentation"
-msgstr "Présentation"
-
-#: content/Default/apps/content.json.h:334
-msgctxt "subtitle"
-msgid "Create great presentations with this easy-to-use app"
-msgstr "Créez de superbes présentation avec cette application facile à utiliser"
-
-#: content/Default/apps/content.json.h:335
-msgctxt "description"
-msgid ""
-"Create clean, attractive, and professional presentations with this "
-"presentation app. This app features the ability to use text, drawing tools, "
-"transitions, 2-D and 3-D art, and even animations to get your point across "
-"in a beautiful and compelling way. Best of all, this app is easy to "
-"understand and use, with simplified steps for creating exactly what you "
-"need."
-msgstr "Créez des présentations propres, attractives et professionnelles avec cette application de création de présentations. Cette application permet d'utiliser du texte, des outils de dessin, des transitions, des éléments graphiques en 2D et en 3D, et même des animations pour faire votre démonstration d'une façon élégante et persuasive. Cerise sur le gâteau, cette application est facile à comprendre et à utiliser, avec des étapes simplifiées pour créer exactement ce dont vous avez besoin."
-
-#: content/Default/apps/content.json.h:336
-msgctxt "title"
-msgid "Writer"
-msgstr "Écriture"
-
-#: content/Default/apps/content.json.h:337
-msgctxt "subtitle"
-msgid "Free, similar to & compatible with Microsoft Word"
-msgstr "Gratuit, similaire et compatible à Microsoft Word"
-
-#: content/Default/apps/content.json.h:338
-msgctxt "description"
-msgid ""
-"This app gives you all the features of the best word processing applications"
-" and is compatible with Microsoft Office. Create and edit documents easily, "
-"create short notes and longer pieces of writing with annotations and "
-"diagrams. It’s all possible with this app. Your documents will look "
-"professional enough to present to employers, teachers, or other important "
-"people. Use this app to compose your next masterpiece or to take great "
-"notes; either way, you’ll have simple yet powerful tools available."
-msgstr "Cette application vous donne accès à toutes les fonctionnalités des meilleures applications de traitement de texte et est compatible avec Microsoft Office. Créez et éditez facilement des documents, créez de courtes notes et de plus longues rédactions avec annotations et diagrammes. Tout cela est possible avec cette application. Vos documents auront un rendu suffisamment professionnel pour être présentés à des employeurs, des professeurs, ou d’autres personnes importantes. Utilisez cette application pour composer votre prochain chef-d’œuvre ou pour prendre de bonnes notes ; de toute façon, vous aurez des outils simples et puissants à portée de main."
-
-#: content/Default/apps/content.json.h:339
-msgctxt "title"
-msgid "Maps"
-msgstr "Maps"
-
-#: content/Default/apps/content.json.h:340
-msgctxt "subtitle"
-msgid "Maps of the entire world"
-msgstr "Cartes du monde entier"
-
-#: content/Default/apps/content.json.h:341
-msgctxt "description"
-msgid ""
-"Where do players from FC Barcelona or Real Madrid live? How far away are you"
-" from a country where elephants and lions wander around freely? How close is"
-" the nearest volcano? These are all questions that the right maps can help "
-"us answer. This app will give you access to all sorts of maps from all over "
-"the world and from different ages, so that you can even see how the world "
-"has changed over time!"
-msgstr "Où vivent les joueurs du FC Barcelone ou du Real Madrid ? À quelle distance êtes-vous d’un pays où les éléphants et les lions vivent en liberté ? Quel est le volcan le plus proche de vous ? Toutes ces questions peuvent trouver leur réponse avec la carte adéquate. Cette application vous donne accès à toutes sortes de cartes du monde entier et de différentes époques, afin que vous puissiez même voir comment le monde a changé à travers le temps !"
-
-#: content/Default/apps/content.json.h:342
-msgctxt "title"
-msgid "M.A.R.S."
-msgstr "M.A.R.S."
-
-#: content/Default/apps/content.json.h:343
-msgctxt "subtitle"
-msgid "A shooting game in space"
-msgstr "Jeu de tir dans l'espace"
-
-#: content/Default/apps/content.json.h:344
-msgctxt "description"
-msgid ""
-"In the year 3547, civilizations across the galaxy have settled their own "
-"planets. Your own people live in peace and harmony with the environment. But"
-" outside of your peaceful planet, a great war is raging. You are a famous "
-"fighter who is known for your honor and skill, and you will have to protect "
-"your planet from your jealous neighbors who want to destroy it! This game "
-"has a multiplayer option, allows you to choose from a variety of weapons to "
-"fight, and even allows you to customize your own spaceship. You'll want to "
-"keep playing until you succeed in returning peace to your planet!"
-msgstr "Dans l'année 3547, les civilisations à travers la galaxie ont parachevées leurs planètes. Votre peuple vit en paix et harmonie avec son environnement. Mais à l'extérieur de votre paisible planète, une grande guerre fait rage. Vous êtes un célèbre combattant connu pour son honneur et ses compétences, et vous devrez protéger votre planète des voisins jaloux qui veulent la détruire ! Ce jeu possède une option multijoueur, vous permet de choisir parmi de nombreuses armes pour combattre, et même "
-
-#: content/Default/apps/content.json.h:345
-msgctxt "title"
-msgid "MegaGlest"
-msgstr "MegaGlest"
-
-#: content/Default/apps/content.json.h:346
-msgctxt "subtitle"
-msgid "A fantasy world with kings, queens and magic"
-msgstr "Un monde fantastique avec rois, reines et magie"
-
-#: content/Default/apps/content.json.h:347
-msgctxt "description"
-msgid ""
-"Kings, castles, and dragons all unite in this awesome strategy game that "
-"will make you want to rule your own civilization. Play against your friends "
-"to see who has what it takes to rule this wild fantasy world where magic "
-"makes you even more powerful and you can conquer whatever part of the realm "
-"you desire!"
-msgstr "Les rois, les châteaux, et les dragons sont tous réunis dans cet excellent jeu de stratégie qui vous donnera envie de diriger votre propre civilisation. Jouez contre vos amis pour voir qui est en mesure de diriger ce monde sauvage fantastique où la magie vous rend encore plus puissant et où vous pouvez conquérir toutes les parties du royaume que vous désirez !"
-
-#: content/Default/apps/content.json.h:348
-msgctxt "title"
-msgid "Minetest"
-msgstr "Minetest"
-
-#: content/Default/apps/content.json.h:349
-msgctxt "subtitle"
-msgid "Create your dream world"
-msgstr "Créez le monde de vos rêves"
-
-#: content/Default/apps/content.json.h:350
-msgctxt "description"
-msgid ""
-"What kind of a world would you build? Start with just land and water, and "
-"from there fill in every detail you can possibly think of! Get creative and "
-"build an incredible castle, a giant skyscraper, a massive mansion, and don't"
-" forget to add city walls for protection. Explore the world and build "
-"whatever you'd like during the day, but make sure you’re prepared for the "
-"night. You may find that spiders, skeletons, and zombies might try to attack"
-" your city!"
-msgstr "Quel type de monde construiriez-vous ? Commencez avec juste de l'eau et de la terre, et de là ajoutez tous les détails qui vous traversent l'esprit ! Soyez créatif et créez un château incroyable, un gratte-ciel géant, un manoir gigantesque, et n'oubliez pas d'ajouter des murailles pour la protection. Explorez le monde et construisez ce que vous voulez pendant la journée mais assurez-vous de vous préparer pour la nuit. Vous pourriez vous rendre compte que des araignées, des squelettes et des zombies essayent d'attaquer votre ville !"
-
-#: content/Default/apps/content.json.h:351
-msgctxt "title"
-msgid "Numpty Physics"
-msgstr " Numpty Physics"
-
-#: content/Default/apps/content.json.h:352
-msgctxt "subtitle"
-msgid "Fun physics puzzle games"
-msgstr "Jeux de puzzle de physique amusante"
-
-#: content/Default/apps/content.json.h:353
-msgctxt "description"
-msgid ""
-"Who knew the laws of physics could be so much fun? With this app, you can "
-"solve puzzles by drawing objects like pulleys, levers, and ramps. If your "
-"creations turn out right, you’ll accomplish that level’s task and move to "
-"the next level. This challenging game will also teach you some basic "
-"physics, but you’ll be having so much fun that you’ll hardly know you’re "
-"learning."
-msgstr "Qui eut cru que les lois de la physique pouvaient être si amusantes ? Avec cette application, vous pouvez résoudre des puzzles en dessinant des objets tels que des poulies, des leviers et des rampes. Si votre création se révèle concluante, vous accomplirez la tâche du niveau et passerez au niveau suivant. Ce jeu stimulant vous apprendra également quelques bases de physique, mais vous vous amuserez tellement que vous ne réaliserez même pas que vous apprenez."
-
-#: content/Default/apps/content.json.h:354
+#: content/Default/apps/content.json.h:444
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Arène Ouverte"
 
-#: content/Default/apps/content.json.h:355
+#: content/Default/apps/content.json.h:445
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr "Tirez dans le tas pour vous en sortir dans ce jeu amusant"
 
-#: content/Default/apps/content.json.h:356
+#: content/Default/apps/content.json.h:446
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -2426,608 +3027,6 @@ msgid ""
 "Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each "
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr "Si vous rêvez de batailler dans des arènes, alors vous adorerez cette application. Mais attention — c’est un jeu de compétences exigeantes, et d’effusions abondantes d’hémoglobine. Utilisez différents types d’armes dans des défis tels que la Capture de Drapeau, les Deathmatchs, les Deathmatchs en équipe, le Dernier Homme Debout, et les Tournois. Chacun de ces modes offre sa propre forme d’excitation tandis que vous combattez vos ennemis !"
-
-#: content/Default/apps/content.json.h:357
-msgctxt "title"
-msgid "Palapeli"
-msgstr "Palapeli"
-
-#: content/Default/apps/content.json.h:358
-msgctxt "subtitle"
-msgid "A fun jigsaw puzzle game"
-msgstr "Un jeu de puzzle amusant"
-
-#: content/Default/apps/content.json.h:359
-msgctxt "description"
-msgid ""
-"If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
-"games of its type, it’s not necessary to align pieces on a grid. Instead, "
-"Palapeli has a more real-life feel, with pieces that are freely movable. "
-"Choose your puzzle and start putting together the pieces. This game is fun, "
-"rewarding, and as true to life as can be."
-msgstr "Si vous êtes un grand fan de puzzles, vous adorerez ce jeu. Contrairement aux autres jeux de ce type, il n’est pas nécessaire d’aligner les pièces sur une grille. Au lieu de cela, Palapeli donne une sensation plus réaliste, avec des pièces que l’on peut déplacer librement. Choisissez votre puzzle et commencez à assembler les pièces. Ce jeu est amusant, récompensant, et est aussi vrai que la vie peut l’être."
-
-#: content/Default/apps/content.json.h:360
-msgctxt "title"
-msgid "Pingus"
-msgstr "Pingus"
-
-#: content/Default/apps/content.json.h:361
-msgctxt "subtitle"
-msgid "Save your penguin friends from falling into the water"
-msgstr "Sauvez vos amis pingouins d'une chute dans l'eau"
-
-#: content/Default/apps/content.json.h:362
-msgctxt "description"
-msgid ""
-"Penguins are among the cutest animals, so who wouldn’t want to play a fun "
-"game protecting these beloved creatures from falling off cliffs and into "
-"freezing waters? With lots of levels and adorable characters, this is sure "
-"to become your new favorite game. Watch your penguins use the tools you give"
-" them in order to avoid an untimely end."
-msgstr "Le pingouin est l’un des animaux les plus mignons, donc pourquoi ne pas jouer à un jeu amusant consistant à protéger ces créatures adorées d’une chute depuis les falaises dans des eaux glaciales ? Avec de nombreux niveaux et des personnages adorables, il s’agit sûrement de votre nouveau jeu favori. Regardez vos pingouins utiliser les outils que vous leur donnez pour éviter une fin prématurée."
-
-#: content/Default/apps/content.json.h:363
-msgctxt "title"
-msgid "Video Editor"
-msgstr "Éditeur de vidéos"
-
-#: content/Default/apps/content.json.h:364
-msgctxt "subtitle"
-msgid "Hundreds of transitions, effects, and filters to edit your videos"
-msgstr "Des centaines de transitions, d'effets, et de filtres pour éditer vos vidéos"
-
-#: content/Default/apps/content.json.h:365
-msgctxt "description"
-msgid ""
-"Create videos for projects, friends, family, or just for fun! Look through "
-"hundreds of transitions, video effects, audio effects, and filters to help "
-"make your video just right. Whether you want to tell a story, make a gift "
-"for a friend, create a professional-looking video, or just want to express "
-"yourself, this video editor will help you do it!"
-msgstr "Créez des vidéos pour vos projets, vos amis, votre famille, ou juste pour vous amuser ! Explorez des centaines de transitions, d'effets vidéo, d'effets audio, et de filtres et réalisez la vidéo de vos rêves. Que vous vouliez raconter une histoire, offrir un cadeau à un ami, créer une vidéo de qualité professionnelle, ou juste vous exprimer, cet éditeur de vidéo vous aidera à atteindre votre objectif !"
-
-#: content/Default/apps/content.json.h:366
-msgctxt "title"
-msgid "Quadrapassel"
-msgstr "Quadrapassel"
-
-#: content/Default/apps/content.json.h:367
-msgctxt "subtitle"
-msgid "A tetris-like puzzle game"
-msgstr "Un jeu de puzzle similaire à Tetris"
-
-#: content/Default/apps/content.json.h:368
-msgctxt "description"
-msgid ""
-"You'll need to be quick if you want to win this game! Change the shape of "
-"pieces that fall from the top in order to match colors and make them "
-"disappear. If you don't make enough color blocks disappear, you'll find that"
-" your screen will soon fill up and you'll need to try again. And just when "
-"you think you're quick enough, the game will speed up, so be ready for a "
-"challenge!"
-msgstr "Vous devrez être rapide si vous voulez gagner à ce jeu ! Changez la forme des pièces qui tombent du haut afin de faire correspondre les couleurs et les faire disparaître. Si vous ne faites pas disparaître suffisamment de blocs de couleur, vous verrez rapidement votre écran se remplir, et vous devrez recommencer. Et juste au moment où vous croyez être suffisamment rapide, le jeu s’accélérera, donc soyez prêt à un nouveau défi !"
-
-#: content/Default/apps/content.json.h:369
-msgctxt "title"
-msgid "Music"
-msgstr "Musique"
-
-#: content/Default/apps/content.json.h:370
-msgctxt "subtitle"
-msgid "Listen to all your music, and to the radio"
-msgstr "Écoutez toute votre musique ainsi que la radio"
-
-#: content/Default/apps/content.json.h:371
-msgctxt "description"
-msgid ""
-"In addition to listening to your favorite music, this app lets you search "
-"through your library, create playlists, play and burn CDs, shows you album "
-"art and even songs' lyrics. This app also supports Internet radio streaming "
-"and audio visualizations. Enjoy all your favorite songs, stored and sorted "
-"in one convenient app."
-msgstr "En plus d’écouter votre musique favorite, cette application vous permet de chercher à travers votre bibliothèque, créer des listes de lecture, jouer et graver des CD, montrer vos pochettes d’album et même les paroles des chansons. Cette application supporte également les radios en streaming par internet et les visualisations audio. Profitez de toutes vos chansons favorites, stockées et triées en une application pratique."
-
-#: content/Default/apps/content.json.h:372
-msgctxt "title"
-msgid "Toy Train"
-msgstr "Train jouet"
-
-#: content/Default/apps/content.json.h:373
-msgctxt "subtitle"
-msgid "A fun train game for kids of all ages"
-msgstr "Un jeu de train amusant pour les enfants de tout âges"
-
-#: content/Default/apps/content.json.h:374
-msgctxt "description"
-msgid ""
-"Sure to be an instant hit with the whole family, this is a game featuring a "
-"steam locomotive which you use to drive across many levels collecting "
-"coaches as you go. Collect all the coaches to win the game!"
-msgstr "Sûr de convaincre instantanément toute la famille, il s’agit d’un jeu mettant en scène une locomotive à vapeur que vous utilisez pour parcourir les nombreux niveaux afin de collecter les wagons sur votre chemin. Collectez tous les wagons pour gagner le jeu !"
-
-#: content/Default/apps/content.json.h:375
-msgctxt "title"
-msgid "Scorched 3D"
-msgstr "Scorched 3D"
-
-#: content/Default/apps/content.json.h:376
-msgctxt "subtitle"
-msgid "A battle adventure multi-player game"
-msgstr "Un jeux de combat et d'aventure multijoueur"
-
-#: content/Default/apps/content.json.h:377
-msgctxt "description"
-msgid ""
-"Do you love games with jets, naval vessels, and all sorts of weapons? If so,"
-" then you will love Scorched3D. This game comes with many different lands "
-"for you to visit and engage in battles. You will need to develop a good "
-"strategy in order to outsmart your opponents and make sure that you end up "
-"victorious. You can play by yourself, with friends, or battle other "
-"community members online. Hold onto your hats, because this game is sure to "
-"shake things up!"
-msgstr "Aimez-vous les jeux avec des jets, des navires de guerre, et toutes sortes d’armes ? Si oui, alors vous adorerez Scorched3D. Ce jeu vous propose différents terrains à visiter et sur lesquels combattre. Vous devrez développer une bonne stratégie pour venir à bout de vos ennemis et vous assurer de sortir victorieux. Vous pouvez jouer seul, avec des amis, ou combattre d’autres communautés de membres en ligne. Accrochez-vous à votre casque, car ce jeu est certain de vous remuer !"
-
-#: content/Default/apps/content.json.h:378
-msgctxt "title"
-msgid "Scratch"
-msgstr "Gratter"
-
-#: content/Default/apps/content.json.h:379
-msgctxt "subtitle"
-msgid "Learn basic computer programming"
-msgstr "Apprenez les bases de la programmation"
-
-#: content/Default/apps/content.json.h:380
-msgctxt "description"
-msgid ""
-"Do you love computer games and applications? Why not learn how to make your "
-"own? This app teaches you the basics of computer programming in a fun and "
-"easy-to-learn way. You can pick characters and objects that you like and "
-"then add instructions so that they do what you want. As you become more "
-"advanced, you'll see that you can make almost anything you want come to life"
-" on the screen by putting in the right instructions. What cool video game "
-"will you someday make? "
-msgstr "Aimez-vous les jeux vidéos et les applications ? Pourquoi ne pas apprendre à faire les vôtres ? Cette application vous apprend les bases de la programmation d'une manière amusante et facile. Vous pouvez choisir les caractères et les éléments que vous aimez et ensuite ajouter les instructions pour qu'ils fassent ce que vous souhaitez. A mesure que vous progressez, vous verrez que vous pourrez donner vie à presque tout ce que vous voulez sur l'écran grâce aux bonnes instructions. Quel jeu vidéo créerez-vous un jour ?"
-
-#: content/Default/apps/content.json.h:381
-msgctxt "title"
-msgid "Photos"
-msgstr "Photos"
-
-#: content/Default/apps/content.json.h:382
-msgctxt "subtitle"
-msgid "Easily edit, organize, and share photos."
-msgstr "Éditez, organisez et partagez facilement vos photos."
-
-#: content/Default/apps/content.json.h:383
-msgctxt "description"
-msgid ""
-"We all love to take pictures in our everyday lives – and we especially love "
-"downloading them to our computers so we can edit and share them via social "
-"media. This app lets you import photos from a digital camera or phone "
-"seamlessly. You can then arrange them into albums, edit them for maximum "
-"beauty and effect, and of course, display them on your favorite social "
-"networks, like Facebook."
-msgstr "Nous aimons tous photographier notre vie quotidienne — en nous aimons particulièrement les télécharger sur notre ordinateur pour les éditer et les partager sur les réseaux sociaux. Cette application vous permet d’importer aisément vos photos depuis un appareil photo numérique ou d’un téléphone portable. Vous pouvez les ranger dans des albums, les éditer pour qu’elles soient plus belles et aient de meilleurs effets, et bien sûr, les partager sur vos réseaux sociaux favoris, tels que Facebook."
-
-#: content/Default/apps/content.json.h:384
-msgctxt "title"
-msgid "Simple Scan"
-msgstr "Un simple balayage"
-
-#: content/Default/apps/content.json.h:385
-msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr "sous-titre_temporaire"
-
-#: content/Default/apps/content.json.h:386
-msgctxt "description"
-msgid "temp description"
-msgstr "Description temporaire"
-
-#: content/Default/apps/content.json.h:387
-msgctxt "title"
-msgid "Skype"
-msgstr "Skype"
-
-#: content/Default/apps/content.json.h:388
-msgctxt "subtitle"
-msgid "Free internet calls with cheap rates to phones"
-msgstr "Appels par internet gratuit avec des tarifs bas pour les téléphones"
-
-#: content/Default/apps/content.json.h:389
-msgctxt "description"
-msgid ""
-"Skype makes staying in touch incredibly easy and fun! If you have a webcam "
-"and a microphone, you can easily make video calls and voice calls to anyone "
-"in the world who also has Skype. This app’s features are simple to use and "
-"you can stay in touch with people anywhere in world!  **Requires Internet"
-msgstr "Skype rend le maintien de contact incroyablement facile et amusant ! Si vous avez une webcam et un microphone, vous pouvez facilement passer des appels vidéos et des appels audio avec n’importe qui dans le monde qui a Skype. Les fonctionnalités de cette application sont simples d’utilisation et vous permettent de rester en contact avec des gens partout dans le monde ! **Nécessite une connexion internet"
-
-#: content/Default/apps/content.json.h:390
-msgctxt "title"
-msgid "Slingshot"
-msgstr "Slingshot"
-
-#: content/Default/apps/content.json.h:391
-msgctxt "subtitle"
-msgid "A shooting strategy game set in space"
-msgstr "Un jeu de tir stratégique situé dans l'espace"
-
-#: content/Default/apps/content.json.h:392
-msgctxt "description"
-msgid ""
-"Gravity is your best friend in this fun shooting game set in outer space. "
-"Use the gravity of different planets to your advantage, and use your trusty "
-"slingshot to destroy the enemy spacecraft. No two rounds are ever the same "
-"in this fun and addictive game!"
-msgstr "La gravité est votre meilleure amie dans ce jeu de tir amusant situé dans l’espace ! Utilisez la gravité des différentes planètes à votre avantage, et utilisez votre fidèle fronde pour détruire le vaisseau spatial ennemi. Jamais deux manches ne se ressemblent dans ce jeu amusant et addictif !"
-
-#: content/Default/apps/content.json.h:393
-msgctxt "title"
-msgid "Freecell"
-msgstr "Freecell"
-
-#: content/Default/apps/content.json.h:394
-msgctxt "subtitle"
-msgid "Solitare based single player card game"
-msgstr "Jeu de carte pour un joueur basé sur le solitaire"
-
-#: content/Default/apps/content.json.h:395
-msgctxt "description"
-msgid ""
-"This application lets you play a new type of solitaire that will keep you "
-"entertained for hours! The general idea is to put cards of the same suit "
-"down in numerical order, but it’s a little more complicated than that. This "
-"card game challenges the mind and provides plenty of entertainment for you "
-"to enjoy."
-msgstr "Cette application vous laisse jouer à un nouveau type de solitaire qui vous divertira durant des heures ! L’idée générale est de placer les cartes de la même suite suivant leur ordre numérique, mais c’est un peu plus compliqué que cela. Ce jeu de cartes défie l’esprit et vous gratifie de nombreuses heures de divertissement."
-
-#: content/Default/apps/content.json.h:396
-msgctxt "title"
-msgid "Solitaire"
-msgstr "Solitaire"
-
-#: content/Default/apps/content.json.h:397
-msgctxt "subtitle"
-msgid "The classic single player card game"
-msgstr "Le jeu de carte classique à un joueur"
-
-#: content/Default/apps/content.json.h:398
-msgctxt "description"
-msgid ""
-"Solitaire is a classic card game that is fun for people of all ages. It’s "
-"easy to figure out the rules, but it takes time to master the game. Luckily,"
-" you’ll want to put in the time to really learn how to play, because you’ll "
-"be having so much fun. This engrossing and mind-enriching game is sure to "
-"entertain you, hour after hour."
-msgstr "Le solitaire est un jeu de cartes classique amusant pour les gens de tout âge. Il est facile d’en comprendre les règles, mais maîtriser le jeu vous prendra davantage de temps. Heureusement, vous voudrez investir ce temps à apprendre comment jouer tellement vous vous amuserez. Ce jeu captivant et enrichissant pour l’esprit est assuré de vous divertir, heure après heure."
-
-#: content/Default/apps/content.json.h:399
-msgctxt "title"
-msgid "Steam"
-msgstr "Steam"
-
-#: content/Default/apps/content.json.h:400
-msgctxt "subtitle"
-msgid "Browse hundreds of the most popular games online"
-msgstr "Naviguez entre des centaines des jeux en ligne les plus populaires"
-
-#: content/Default/apps/content.json.h:401
-msgctxt "description"
-msgid ""
-"If you like playing video games, you're going to have a great time exploring"
-" all of the cool Linux games on Valve's Steam portal! You'll need an "
-"internet connection to view and purchase games on the Steam store, so make "
-"sure your Wi-Fi is turned on before opening this app. Get ready to find the "
-"most popular in the world that are sure to keep you entertained for hours at"
-" a time!"
-msgstr "Si vous aimez jouer aux jeux vidéos, vous allez vraiment vous amuser en explorant tous les jeux Linux sympas sur le portail Steam de Valve ! Vous aurez besoin d'une connexion Internet pour consulter et acheter des jeux sur la boutique de Steam, alors assurez-vous que votre Wi-Fi est allumé avant d'ouvrir cette application. Préparez-vous à trouver les jeux les plus populaires au monde qui vous divertiront assurément pendant des heures à la fois !"
-
-#: content/Default/apps/content.json.h:402
-msgctxt "title"
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#: content/Default/apps/content.json.h:403
-msgctxt "subtitle"
-msgid ""
-"Planetarium software that shows what you see when you look at the stars"
-msgstr "Logiciel de planétarium qui vous affiche ce que vous voyez lorsque vous contemplez les étoiles"
-
-#: content/Default/apps/content.json.h:404
-msgctxt "description"
-msgid ""
-"Discover the night sky with this application. With a catalogue of more than "
-"600,000 stars, constellations from more than a dozen cultures, and many more"
-" features, this application lets you see and get to know the stars right "
-"from your desktop. This application shows you a night sky that is so "
-"realistic, it matches the one you see above you. Set your location "
-"coordinates and learn about the stars above you!"
-msgstr "Découvrez le ciel de la nuit avec cette application. Avec un catalogue de plus de 600 000 étoiles, des constellations de plus d’une douzaine de cultures, et bien d’autres fonctionnalités, cette application vous laisse voir et apprendre à connaître les étoiles depuis votre ordinateur. Cette application vous montre un ciel nocturne tellement réaliste qu’il correspondra à celui que vous voyez au-dessus de vous. Définissez vos coordonnées de localisation afin de vous informer sur les étoiles qui se trouvent au-dessus de vous !"
-
-#: content/Default/apps/content.json.h:405
-msgctxt "title"
-msgid "Super Tux"
-msgstr "Super Tux"
-
-#: content/Default/apps/content.json.h:406
-msgctxt "subtitle"
-msgid "Jump your way through different levels to win"
-msgstr "Sautez à travers les différents niveaux pour gagner"
-
-#: content/Default/apps/content.json.h:407
-msgctxt "description"
-msgid ""
-"This game is similar to the original Super Mario Brothers games where you "
-"must run and jump your way to new levels. This game features 26 levels with "
-"different opponents to fight, and fun music, in addition to a story that you"
-" can follow along with as you play."
-msgstr "Ce jeu est similaire aux jeux originaux Super Mario Brothers dans lesquels vous devez courir et sauter pour parcourir les différents niveaux. Ce jeu comprend 26 niveaux avec différents ennemis à combattre, une musique amusante, en plus d’une histoire que vous pouvez suivre au fur et à mesure que vous jouez."
-
-#: content/Default/apps/content.json.h:408
-msgctxt "title"
-msgid "Tux Kart"
-msgstr "Tux Kart"
-
-#: content/Default/apps/content.json.h:409
-msgctxt "subtitle"
-msgid "Race alone or against your friends and family"
-msgstr "Faites la course, seul ou contre vos amis et votre famille"
-
-#: content/Default/apps/content.json.h:410
-msgctxt "description"
-msgid ""
-"Do you love racing games? Then this is the app for you! Race down easy, "
-"medium and hard race tracks as Tux, the penguin, and try to beat your own "
-"speed or a friend's. If you are able to get the red fish, you'll gain "
-"special powers that will help you win, but make sure to avoid the green fish"
-" or you'll slow down. This game is great for both kids and adults alike and "
-"is sure to entertain you and your friends for hours!"
-msgstr "Aimez-vous les jeux de course ? Alors c’est l’application qu’il vous faut ! Dévalez des pistes de course faciles, moyennes ou difficiles en incarnant Tux, le pingouin, et tentez de battre votre temps ou celui d’un ami. Si vous êtes en mesure d’obtenir le poisson rouge, vous gagnerez des pouvoirs spéciaux qui vous aideront à gagner, mais soyez sûr d’éviter le poisson vert ou vous serez ralenti. Ce jeu est excellent, tant pour les enfants que pour les adultes, et vous divertira durant des heures avec vos amis !"
-
-#: content/Default/apps/content.json.h:411
-msgctxt "title"
-msgid "Teeworlds"
-msgstr "Teeworlds"
-
-#: content/Default/apps/content.json.h:412
-msgctxt "subtitle"
-msgid "Exciting multi-player shooting game"
-msgstr "Jeu de tir multijoueur excitant"
-
-#: content/Default/apps/content.json.h:413
-msgctxt "description"
-msgid ""
-"Shoot your way to victory in death matches and more! This game has an old-"
-"school feel and is an exciting multiplayer shooting game with epic battles "
-"of up to 16 players at a time. Play Capture the Flag or Team Deathmatch "
-"where you must try to survive in the deadly arena while getting rid of your "
-"opponents. This game is packed with cool featuers like the ability to create"
-" your own map! Lots of bloody fun awaits you, so grab your virtual weapons "
-"and go!"
-msgstr "Faites votre chemin vers la victoire à travers des deathmatchs et plus ! Ce jeu a un goût old school et est un jeu de tir multijoueur excitant avec des batailles épiques avec jusqu’à 16 joueurs simultanés. Jouez à la Capture de Drapeau ou aux Deathmatchs en équipe où vous devrez essayer de survivre dans l’arène meurtrière en essayant de vous débarrasser de vos ennemis. Ce jeu comprends des fonctionnalités sympathiques telles que la possibilité de créer votre propre terrain de jeu ! Un divertissement empli d’hémoglobine vous attends, donc emparez vous de vos armes virtuelles et foncez !"
-
-#: content/Default/apps/content.json.h:414
-msgctxt "title"
-msgid "TORCS"
-msgstr "TORCS"
-
-#: content/Default/apps/content.json.h:415
-msgctxt "subtitle"
-msgid "Race cool 3D cars in this realistic game"
-msgstr "Faites la course à bord de voitures en 3D dans ce jeu réaliste"
-
-#: content/Default/apps/content.json.h:416
-msgctxt "description"
-msgid ""
-"Rip around turns and scream past other drivers in this exciting 3D car "
-"racing game. It's so realistic that you'll swear you smell the burning "
-"rubber! Advanced users also have an opportunity to create their own custom "
-"drivers to gain an even bigger advantage over their opponents. You'll love "
-"racing your fast cars, and soon you'll see that all of your friends will "
-"want to play too!"
-msgstr "Dérapez dans les virages et criez aux oreilles des autres chauffeurs dans ce jeu de course en 3D excitant ! Il est tellement réaliste que vous jurerez sentir les pneus brûler ! Les utilisateurs avancés ont aussi l'opportunité de créer leurs propres chauffeurs personnalisés afin d'avoir un avantage encore plus grand sur leurs adversaires. Vous adorerez conduire vos bolides et bientôt vous verrez que vos amis voudront jouer aussi !"
-
-#: content/Default/apps/content.json.h:417
-msgctxt "title"
-msgid "Videos"
-msgstr "Vidéos"
-
-#: content/Default/apps/content.json.h:418
-msgctxt "subtitle"
-msgid "Full function video and media player"
-msgstr "Lecteur multimédia multifonctions"
-
-#: content/Default/apps/content.json.h:419
-msgctxt "description"
-msgid ""
-"Do you love watching movies? Do it the right way with this video application"
-" that allows you to watch movies you have downloaded in full-screen mode. "
-"Other basics, like volume control and playlists, make your video-watching "
-"experience easy and fun. With this application you'll want to invite all of "
-"your family and friends to join you in watching all of your favorite movies!"
-msgstr "Aimez-vous regarder des films ? Faites-le de la bonne façon avec cette application vidéo qui vous permet de regarder des films que vous avez téléchargés en mode plein écran. D’autres fonctions indispensables, comme le contrôle du volume et des playlists, rendent votre expérience de visionnage vidéo facile et amusant. Avec cette application vous voudrez inviter toute votre famille et vos amis à vous rejoindre pour visionner tous vos films préférés !"
-
-#: content/Default/apps/content.json.h:420
-msgctxt "title"
-msgid "Tux Football"
-msgstr "Tux Football"
-
-#: content/Default/apps/content.json.h:421
-msgctxt "subtitle"
-msgid "A fun soccer game starring Tux the penguin"
-msgstr "Un jeu de football amusant mettant en scène Tux le pingouin"
-
-#: content/Default/apps/content.json.h:422
-msgctxt "description"
-msgid ""
-"Do you love soccer? Now you can play all day with your favorite penguins! "
-"Show off your skills and strategy while always controling the players with "
-"the ball. Pretty soon, you'll feel like you're ready to take on the "
-"professionals!"
-msgstr "Aimez-vous le football ? Désormais, vous pouvez y jouer toute la journée avec votre pingouin préféré ! Démontrez vos compétences et votre stratégie tout en contrôlant le joueur avec la balle. Bientôt, vous vous sentirez prêt à prendre la relève des professionnels !"
-
-#: content/Default/apps/content.json.h:423
-msgctxt "title"
-msgid "Tux Math"
-msgstr "Tux Math"
-
-#: content/Default/apps/content.json.h:424
-msgctxt "subtitle"
-msgid "Math games for kids"
-msgstr "Jeux mathématiques pour les enfants"
-
-#: content/Default/apps/content.json.h:425
-msgctxt "description"
-msgid ""
-"Learn math by playing games! Starring kids’ favorite buddy, Tux the Penguin,"
-" this fun math game app leads kids through math facts in a way that’s fun "
-"and engaging. You want your children’s math skills to improve, and they want"
-" to play games – so encouraging them to play brings together the best of "
-"both worlds and will help your child learn to love math!"
-msgstr "Apprenez les mathématiques en jouant à des jeux ! Mettant en scène le héros préféré des enfants, Tux le Pingouin, ce jeu amusant de mathématiques initie les enfants à des questions mathématiques amusantes et stimulantes. Vous souhaitez voir s’améliorer les compétences mathématiques de vos enfants, et ils veulent jouer à des jeux — les encourager à jouer permet donc de lier le meilleur des deux mondes et aidera vos enfants à apprendre à aimer les maths !"
-
-#: content/Default/apps/content.json.h:426
-msgctxt "title"
-msgid "Tux Paint"
-msgstr "Tux Paint"
-
-#: content/Default/apps/content.json.h:427
-msgctxt "subtitle"
-msgid "A fun drawing app for kids"
-msgstr "Une application amusante de dessin pour les enfants"
-
-#: content/Default/apps/content.json.h:428
-msgctxt "description"
-msgid ""
-"Create beautiful artwork with this fun and easy to use app! Tux the penguin "
-"helps guide children so that they know how to use all of the tools. "
-"Recommended ages for using this app are 3 - 12, but anyone who is young at "
-"heart is sure to love it! Use stamps, play with shapes, or draw freehand to "
-"create something special. If your child loves drawing and creating artwork, "
-"then download this app and get them started on their next masterpiece!"
-msgstr "Réalisez de magnifiques illustrations avec cette application amusante et facile à utiliser ! Tux le pingouin aide et guide les enfants pour qu'ils puissent utiliser tous les outils. La tranche d'âge recommandée pour utiliser cette application est de 3 à 12 ans, mais quiconque est encore jeune dans son cœur l'adorera ! Utilisez des tampons, jouez avec les formes, ou dessinez à main levée afin de créer quelque chose d'unique. Si votre enfant aime dessiner et réaliser des illustrations, téléchargez cette application et laissez-les débuter leur prochain chef-d’œuvre !"
-
-#: content/Default/apps/content.json.h:429
-msgctxt "title"
-msgid "Tux Puck"
-msgstr "Tux Puck"
-
-#: content/Default/apps/content.json.h:430
-msgctxt "subtitle"
-msgid "Exciting air hockey game for you and your friends"
-msgstr "Jeu de air hockey excitant pour vous et vos amis"
-
-#: content/Default/apps/content.json.h:431
-msgctxt "description"
-msgid ""
-"An air hockey game in which you try to knock the puck past your opponent's "
-"defense. This is a great game for the whole family! Test your skill and "
-"reflexes to win this fast paced match!  (While the game is running, press F5"
-" or F6 to adjust your paddle speed.)"
-msgstr "Un jeu de air hockey dans lequel vous essayez de frapper le palet au travers de la défense adverse. C'est un super jeu pour toute la famille ! Testez votre adresse et vos réflexes pour gagner ce match palpitant ! (Pressez F5 ou F6 quand vous jouez pour ajuster la vitesse du curseur.)"
-
-#: content/Default/apps/content.json.h:432
-msgctxt "title"
-msgid "Tux Typing"
-msgstr "Tux Typing"
-
-#: content/Default/apps/content.json.h:433
-msgctxt "subtitle"
-msgid "Learn to type by playing games"
-msgstr "Apprenez à taper au clavier en jouant à des jeux"
-
-#: content/Default/apps/content.json.h:434
-msgctxt "description"
-msgid ""
-"This fun application is a great way for kids, and even adults, to learn how "
-"to type! Learn the basics, or improve your skills by playing games that "
-"teach you how to use a keyboard without even looking at it. Children today "
-"are growing up surrounded by computers and mobile devices, and learning how "
-"to use these technologies well will only grow more important in the future. "
-"Start them off with a great foundation by downloading this app and "
-"encouraging them to play!"
-msgstr "Cette amusante application est une excellente façon pour les enfants, et même les adultes, d’apprendre comment taper au clavier ! Apprenez les bases, ou améliorez vos compétences en jouant à des jeux qui vous enseignent comment utiliser le clavier sans même le regarder. Les enfants d’aujourd’hui grandissent entourés d’ordinateurs et d’appareils mobiles, et apprendre comment utiliser correctement ces technologies sera de plus en plus important dans le futur. Donnez-leur une base solide en téléchargeant cette application et en les encourageant à jouer !"
-
-#: content/Default/apps/content.json.h:435
-msgctxt "title"
-msgid "Warmux"
-msgstr "Warmux"
-
-#: content/Default/apps/content.json.h:436
-msgctxt "subtitle"
-msgid "Make your computer a battle of wit and war"
-msgstr "Transformez votre ordinateur en champ de bataille de l'esprit"
-
-#: content/Default/apps/content.json.h:437
-msgctxt "description"
-msgid ""
-"Exterminate your opponent in a cartoon word using dynamite, grenades, "
-"bazookas, or even a baseball bat. Each player controls their own team and "
-"must destroy his adversary using his arsenol and wits, as turn by turn, each"
-" member of each team attempts to destroy his opponents."
-msgstr "Exterminez votre adversaire dans un monde cartoon en utilisant de la dynamite, des grenades, des lance-roquettes, ou même une batte de baseball. Chaque joueur contrôle sa propre équipe et doit détruire son adversaire en utilisant son arsenal et sa stratégie, car tour après tour, chaque membre de chaque équipe essaye de détruire ses ennemis."
-
-#: content/Default/apps/content.json.h:438
-msgctxt "title"
-msgid "Warzone 2100"
-msgstr "Warzone 2100"
-
-#: content/Default/apps/content.json.h:439
-msgctxt "subtitle"
-msgid "Lead your troops to rebuild the world"
-msgstr "Dirigez vos troupes pour reconstruire le monde"
-
-#: content/Default/apps/content.json.h:440
-msgctxt "description"
-msgid ""
-"In Warzone 2100 you command forces to rebuild the world after nuclear war "
-"has destroyed it. Play it alone or with friends; either way you'll dive head"
-" first into another world where you'll be living and breathing military "
-"strategy. Research technologies, build units, and plan battles in this game "
-"of strategy, tactics, and wit."
-msgstr "Dans Warzone 2100, vous commandez des forces pour reconstruire le monde après qu’une guerre nucléaire l’ait détruit. Jouez seul ou avec des amis ; de toute façon vous plongerez la tête la première dans un autre monde où vous vivrez et respirerez votre stratégie militaire. Recherchez des technologies, construisez des unités, et planifiez des batailles dans ce jeu de stratégie, de tactique et d’esprit. "
-
-#: content/Default/apps/content.json.h:441
-msgctxt "title"
-msgid "Wesnoth"
-msgstr "Wesnoth"
-
-#: content/Default/apps/content.json.h:442
-msgctxt "subtitle"
-msgid "Fantasy turn-based strategy game"
-msgstr "Jeu de stratégie fantastique au tour par tour"
-
-#: content/Default/apps/content.json.h:443
-msgctxt "description"
-msgid ""
-"Battle for control of the land, villages, and resources in this fantasy-"
-"themed strategy game. Each player controls an army of their own design and "
-"uses it to seek dominance. An exciting blend of history, fantasy, and "
-"strategy, this game is sure to reveal a great leader inside you."
-msgstr "Battez-vous pour contrôler les territoires, villages, et ressources dans ce jeu de stratégie à thème fantastique. Chaque joueur contrôle l’armée qu’il conçoit lui-même et utilise pour chercher à dominer. Avec son excitant mélange d’histoire, de fantastique et de stratégie, ce jeu est certain de révéler le grand dirigeant qui se trouve en vous."
-
-#: content/Default/apps/content.json.h:444
-msgctxt "title"
-msgid "X-Moto"
-msgstr "X-Moto"
-
-#: content/Default/apps/content.json.h:445
-msgctxt "subtitle"
-msgid "A motorcycle racing game"
-msgstr "Un jeu de course de moto"
-
-#: content/Default/apps/content.json.h:446
-msgctxt "description"
-msgid ""
-"Love motorcycles? Then you're going to love this racing game where physics "
-"plays an important role in winning! You must control your bike to its "
-"physical limit if you want to have a chance of finishing the difficult "
-"courses. Learn about science and practice your racing skills at the same "
-"time in this fast-paced, exciting test of speed!"
-msgstr "Vous adorez les motos ? Alors vous allez adorer ce jeu de course dans lequel la physique joue un rôle important pour la victoire ! Vous devez contrôler votre moto dans ses limites physiques si vous voulez avoir une chance de finir les courses difficiles. Apprenez-en davantage sur la science et exercez vos compétences de conduite en même temps dans ce test de vitesse haletant !"
 
 #: content/Default/apps/content.json.h:156
 msgctxt "description"
