@@ -1809,7 +1809,7 @@
     "category": "Utility", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "Access, download and share almost any file you'd like to with this useful online app. From music, videos, and games, to more complex downloads like software, you will be able to access shared files from millions of users online. This app even includes a built-in video player so that you can easily view all of the media you download.  **Requires Internet", 
+    "description": "Access, download and share almost any file you'd like to with this useful online peer to peer app that enables you to share files with other users who are connected to the BitTorrent network. From music, videos, and games, to more complex downloads like software, you will be able to access shared files from millions of users online. This app even includes a built-in video player so that you can easily view all of the media you download.  **Requires Internet", 
     "displayShape": "b1", 
     "exec": "frostwire", 
     "featured_img": "", 
@@ -1839,7 +1839,7 @@
     "splash-screen-type": "Default", 
     "square_img": "frostwire-thumb.jpg", 
     "subtitle": "Download nearly anything or share your own files", 
-    "title": "BitTorrent", 
+    "title": "FrostTorrent", 
     "tryexec": ""
   }, 
   {
@@ -3785,7 +3785,7 @@
     "category": "Utility", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "temp description", 
+    "description": "Preserving your photos and important documents by making digital copies has never been easier! Simply hook up the scanner to your computer, open this app, and start scanning. Once a document or photo is digitized, sharing them is as easy as sending them via email, uploading them to your favorite social network, or putting them on a USB memory. This app will let you make sure the things you scan are clear, straight, and in any format you need!", 
     "displayShape": "b1", 
     "exec": "simple-scan", 
     "featured_img": "", 
@@ -3808,7 +3808,7 @@
     }, 
     "splash-screen-type": "Default", 
     "square_img": "simple-scan-thumb.jpg", 
-    "subtitle": "temp_subtitle", 
+    "subtitle": "Make a digital copy of your photos and documents", 
     "title": "Simple Scan", 
     "tryexec": ""
   }, 

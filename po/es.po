@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-12-05 14:46-0800\n"
-"PO-Revision-Date: 2014-12-05 23:10+0000\n"
+"POT-Creation-Date: 2014-12-19 15:05-0800\n"
+"PO-Revision-Date: 2014-12-19 23:08+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -1223,8 +1223,8 @@ msgstr "¿Alguna vez has querido crear tu propio país? Bueno, ahora mismo lo pu
 
 #: content/Default/apps/content.json.h:180
 msgctxt "title"
-msgid "BitTorrent"
-msgstr "BitTorrent"
+msgid "FrostTorrent"
+msgstr "FrostTorrent"
 
 #: content/Default/apps/content.json.h:181
 msgctxt "subtitle"
@@ -1235,11 +1235,13 @@ msgstr "Descarga o comparte archivos a través de internet"
 msgctxt "description"
 msgid ""
 "Access, download and share almost any file you'd like to with this useful "
-"online app. From music, videos, and games, to more complex downloads like "
-"software, you will be able to access shared files from millions of users "
-"online. This app even includes a built-in video player so that you can "
-"easily view all of the media you download.  **Requires Internet"
-msgstr "Con este programa puedes ver, descargar y compartir casi cualquier archivo que quieras a través de internet. Desde música, videos y juegos hasta descargas más complejas como software, puedes compartir archivos con millones de usuarios. Las funciones especiales incluyen un reproductor de video integrado en el programa para que puedas ver tus descargar de multimedia más fácilmente. Comparte archivos grandes y pequeños con una enorme comunidad en línea, y ten los medios de comunicación que desees en la palma de tu mano.  **Requiere internet"
+"online peer to peer app that enables you to share files with other users who"
+" are connected to the BitTorrent network. From music, videos, and games, to "
+"more complex downloads like software, you will be able to access shared "
+"files from millions of users online. This app even includes a built-in video"
+" player so that you can easily view all of the media you download.  "
+"**Requires Internet"
+msgstr "¡Ahora puedes buscar y descargar todas tus canciones y videos favoritos del internet muy fácilmente! Solo conéctate a la red de BitTorrent con este programa y podrás compartir archivos con otros usuarios de esta gran comunidad. Todos los archivos en este programa son gratis, y puedes buscar por genero, tipo de archivo y varios otros criterios. ¡Seguramente encontrarás exactamente lo que quieres!  **Requiere Internet"
 
 #: content/Default/apps/content.json.h:183
 msgctxt "title"
@@ -2501,17 +2503,23 @@ msgstr "A todos nos gusta tomar fotos de nuestra vida cotidiana - y sobre todo n
 #: content/Default/apps/content.json.h:366
 msgctxt "title"
 msgid "Simple Scan"
-msgstr ""
+msgstr "Escáner"
 
 #: content/Default/apps/content.json.h:367
 msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr ""
+msgid "Make a digital copy of your photos and documents"
+msgstr "Haz copias digitales de tus fotos y documentos"
 
 #: content/Default/apps/content.json.h:368
 msgctxt "description"
-msgid "temp description"
-msgstr "Descripción temporal "
+msgid ""
+"Preserving your photos and important documents by making digital copies has "
+"never been easier! Simply hook up the scanner to your computer, open this "
+"app, and start scanning. Once a document or photo is digitized, sharing them"
+" is as easy as sending them via email, uploading them to your favorite "
+"social network, or putting them on a USB memory. This app will let you make "
+"sure the things you scan are clear, straight, and in any format you need!"
+msgstr "¡Ahora preservar tus fotos y documentos importantes es más fácil que nunca! Solo conecta el escáner a tu computadora, abre este programa y comienza a escanear. Una vez que un documento o una foto este digitalizado, compartirlos es igual de fácil. Puedes enviarlos por correo electrónico, cargarlos en tu red social favorita o ponerlos en una memoria USB. Este programa te permitirá asegurarte de que todo lo que escanees sea claro, recto y en el formato que necesitas."
 
 #: content/Default/apps/content.json.h:369
 msgctxt "title"

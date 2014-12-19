@@ -1015,7 +1015,7 @@
         "linkId":"mysticomaya",
         "linkName":"Mystico Maya",
         "linkSubtitle":"Aprende acerca del calendario Maya y m\u00e1s",
-        "linkUrl":"http:\/\/mysticomaya.com\/esp_index.htm",
+        "linkUrl":"http:\/\/mysticomaya.com\/espindex.php",
         "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",
@@ -1059,20 +1059,6 @@
         "linkSmall":"images\/guateescalida.jpg"
       },
       {
-        "linkId":"somosguatemala",
-        "linkName":"Somos Guatemala",
-        "linkSubtitle":"Noticas, deportes, v\u00eddeos y m\u00e1s",
-        "linkUrl":"http:\/\/www.somosguatemala.com\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Local",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/somosguatemala.jpg"
-      },
-      {
         "linkId":"deguate",
         "linkName":"deGuate",
         "linkSubtitle":"Directorio electr\u00f3nico de Guatemala",
@@ -1099,20 +1085,6 @@
         "linkIcon":"icons\/",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/inguat.jpg"
-      },
-      {
-        "linkId":"map",
-        "linkName":"MAP",
-        "linkSubtitle":"Red de personas haciendo acciones positivas",
-        "linkUrl":"http:\/\/map.org.gt\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Local",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/map.jpg"
       },
       {
         "linkId":"teleton",
@@ -1169,6 +1141,20 @@
         "linkIcon":"icons\/",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/explorandoguatemala.jpg"
+      },
+      {
+        "linkId":"jovenescontralaviolencia",
+        "linkName":"JCV",
+        "linkSubtitle":"J\u00f3venes contra la violencia",
+        "linkUrl":"http:\/\/www.jovenescontralaviolencia.com\/",
+        "linkFolder":"none",
+        "linkDesktopPosition":null,
+        "linkRegion":"Guatemala",
+        "linkCategory":"Local",
+        "linkThumbSize":"Horizontal rectangle",
+        "linkIcon":"icons\/jovenescontralaviolencia.png",
+        "linkThumb":"thumbs\/",
+        "linkSmall":"images\/jovenescontralaviolencia.jpg"
       }
     ]
   }

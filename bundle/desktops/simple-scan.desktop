@@ -2,10 +2,10 @@
 Version=1.0
 Name=Simple Scan
 Name[ar]=فحص بسيط
+Name[es]=Escáner
 Name[fr]=Un simple balayage
-Comment=temp_subtitle
-Comment[ar]=عنوان فرعي مؤقت
-Comment[fr]=sous-titre_temporaire
+Comment=Make a digital copy of your photos and documents
+Comment[es]=Haz copias digitales de tus fotos y documentos
 Type=Application
 Exec=simple-scan
 Icon=eos-app-simple-scan

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2014-12-05 14:46-0800\n"
-"PO-Revision-Date: 2014-12-05 23:11+0000\n"
+"POT-Creation-Date: 2014-12-19 15:05-0800\n"
+"PO-Revision-Date: 2014-12-19 23:06+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/eos-shell-content/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -1210,8 +1210,8 @@ msgstr "Avez-vous jamais voulu lancer votre propre pays ? Désormais, vous le po
 
 #: content/Default/apps/content.json.h:180
 msgctxt "title"
-msgid "BitTorrent"
-msgstr "BitTorrent"
+msgid "FrostTorrent"
+msgstr "FrostTorrent"
 
 #: content/Default/apps/content.json.h:181
 msgctxt "subtitle"
@@ -1222,11 +1222,13 @@ msgstr "Téléchargez à peu près tout ou téléchargez vos propres fichiers"
 msgctxt "description"
 msgid ""
 "Access, download and share almost any file you'd like to with this useful "
-"online app. From music, videos, and games, to more complex downloads like "
-"software, you will be able to access shared files from millions of users "
-"online. This app even includes a built-in video player so that you can "
-"easily view all of the media you download.  **Requires Internet"
-msgstr "Accédez, téléchargez et partagez à peu près tous les fichiers que vous souhaitez avec cette utile application en ligne. De la musique aux vidéos et jeux, en passant par des téléchargements plus complexes tels que des logiciels, vous serez en mesure d’accéder à des fichiers partagés par des millions d'utilisateurs. Cette application inclut également un lecteur vidéo intégré afin que vous puissiez facilement visionner tous les médias que vous téléchargez. **Nécessite une connexion internet"
+"online peer to peer app that enables you to share files with other users who"
+" are connected to the BitTorrent network. From music, videos, and games, to "
+"more complex downloads like software, you will be able to access shared "
+"files from millions of users online. This app even includes a built-in video"
+" player so that you can easily view all of the media you download.  "
+"**Requires Internet"
+msgstr ""
 
 #: content/Default/apps/content.json.h:183
 msgctxt "title"
@@ -2492,13 +2494,19 @@ msgstr "Un simple balayage"
 
 #: content/Default/apps/content.json.h:367
 msgctxt "subtitle"
-msgid "temp_subtitle"
-msgstr "sous-titre_temporaire"
+msgid "Make a digital copy of your photos and documents"
+msgstr ""
 
 #: content/Default/apps/content.json.h:368
 msgctxt "description"
-msgid "temp description"
-msgstr "Description temporaire"
+msgid ""
+"Preserving your photos and important documents by making digital copies has "
+"never been easier! Simply hook up the scanner to your computer, open this "
+"app, and start scanning. Once a document or photo is digitized, sharing them"
+" is as easy as sending them via email, uploading them to your favorite "
+"social network, or putting them on a USB memory. This app will let you make "
+"sure the things you scan are clear, straight, and in any format you need!"
+msgstr ""
 
 #: content/Default/apps/content.json.h:369
 msgctxt "title"

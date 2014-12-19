@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2014-12-05 14:46-0800\n"
+"POT-Creation-Date: 2014-12-19 15:05-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1209,7 +1209,7 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:180
 msgctxt "title"
-msgid "BitTorrent"
+msgid "FrostTorrent"
 msgstr ""
 
 #: content/Default/apps/content.json.h:181
@@ -1221,10 +1221,12 @@ msgstr ""
 msgctxt "description"
 msgid ""
 "Access, download and share almost any file you'd like to with this useful "
-"online app. From music, videos, and games, to more complex downloads like "
-"software, you will be able to access shared files from millions of users "
-"online. This app even includes a built-in video player so that you can "
-"easily view all of the media you download.  **Requires Internet"
+"online peer to peer app that enables you to share files with other users who "
+"are connected to the BitTorrent network. From music, videos, and games, to "
+"more complex downloads like software, you will be able to access shared "
+"files from millions of users online. This app even includes a built-in video "
+"player so that you can easily view all of the media you download.  "
+"**Requires Internet"
 msgstr ""
 
 #: content/Default/apps/content.json.h:183
@@ -2489,12 +2491,18 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:367
 msgctxt "subtitle"
-msgid "temp_subtitle"
+msgid "Make a digital copy of your photos and documents"
 msgstr ""
 
 #: content/Default/apps/content.json.h:368
 msgctxt "description"
-msgid "temp description"
+msgid ""
+"Preserving your photos and important documents by making digital copies has "
+"never been easier! Simply hook up the scanner to your computer, open this "
+"app, and start scanning. Once a document or photo is digitized, sharing them "
+"is as easy as sending them via email, uploading them to your favorite social "
+"network, or putting them on a USB memory. This app will let you make sure "
+"the things you scan are clear, straight, and in any format you need!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:369
