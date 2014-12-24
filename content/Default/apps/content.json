@@ -3501,6 +3501,28 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "openscad", 
+    "category": "Utility", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "OpenSCAD is software for creating solid 3D CAD models. It reads in a script file that describes the object and renders the 3D model from this script file. The resulting model can be sent to a 3D printer.", 
+    "displayShape": "b1", 
+    "exec": "openscad %f", 
+    "featured_img": "", 
+    "icon": "openscad-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "openscad-thumb.jpg", 
+    "subtitle": "Solid 3D CAD modeller", 
+    "title": "OpenSCAD", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "palapeli", 
     "category": "Games", 
     "core": false, 

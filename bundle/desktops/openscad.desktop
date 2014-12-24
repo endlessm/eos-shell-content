@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=OpenSCAD
+Comment=Solid 3D CAD modeller
+Type=Application
+Exec=openscad %f
+Icon=eos-app-openscad
+Categories=Utility;
+X-Endless-LaunchMaximized=true
