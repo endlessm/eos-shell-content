@@ -377,20 +377,6 @@
     "category":"Education and Health",
     "links":[
       {
-        "linkId":"duolingo",
-        "linkName":"Duolingo",
-        "linkSubtitle":"Divi\u00e9rtete aprendiendo otros idiomas",
-        "linkUrl":"https:\/\/www.duolingo.com\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Education and Health",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/duolingo.jpg"
-      },
-      {
         "linkId":"sistemadebecas",
         "linkName":"Sistema de Becas",
         "linkSubtitle":"Informaci\u00f3n sobre becas",
@@ -643,20 +629,6 @@
         "linkSmall":"images\/ministeriodeeducacion.jpg"
       },
       {
-        "linkId":"googlebooks",
-        "linkName":"Google Books",
-        "linkSubtitle":"Libros vista previa de bibliotecas y editoriales de todo el mundo",
-        "linkUrl":"http:\/\/books.google.es\/",
-        "linkFolder":"media",
-        "linkDesktopPosition":"80",
-        "linkRegion":"Guatemala",
-        "linkCategory":"Education and Health",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/googlebooks.png",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/googlebooks.jpg"
-      },
-      {
         "linkId":"worldwonders",
         "linkName":"Maravillas del mundo",
         "linkSubtitle":"Visita las maravillas del mundo virtualmente",
@@ -683,20 +655,6 @@
         "linkIcon":"icons\/wiktionary.png",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/wiktionary.jpg"
-      },
-      {
-        "linkId":"codestudio",
-        "linkName":"Code studio",
-        "linkSubtitle":"Anybody can learn how to code",
-        "linkUrl":"http:\/\/code.org\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Global",
-        "linkCategory":"Education and Health",
-        "linkThumbSize":"Vertical rectangle",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/codestudio.jpg"
       }
     ]
   },
@@ -970,20 +928,6 @@
         "linkSmall":"images\/twitter.jpg"
       },
       {
-        "linkId":"youtube",
-        "linkName":"YouTube",
-        "linkSubtitle":"Encuentra y comparte videos",
-        "linkUrl":"https:\/\/www.youtube.com\/?gl=MX",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Entertainment",
-        "linkThumbSize":"Square",
-        "linkIcon":"icons\/youtube.png",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/youtube.jpg"
-      },
-      {
         "linkId":"spotify",
         "linkName":"Spotify",
         "linkSubtitle":"Escucha todos los nuevos \u00e9xitos",
@@ -996,20 +940,6 @@
         "linkIcon":"icons\/spotify.png",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/spotify.jpg"
-      },
-      {
-        "linkId":"ehow",
-        "linkName":"eHow",
-        "linkSubtitle":"\u00a1Descubre el experto en ti!",
-        "linkUrl":"http:\/\/www.ehowenespanol.com\/",
-        "linkFolder":"none",
-        "linkDesktopPosition":null,
-        "linkRegion":"Guatemala",
-        "linkCategory":"Entertainment",
-        "linkThumbSize":"Horizontal rectangle",
-        "linkIcon":"icons\/",
-        "linkThumb":"thumbs\/",
-        "linkSmall":"images\/ehow.jpg"
       },
       {
         "linkId":"mysticomaya",
@@ -1076,7 +1006,7 @@
         "linkId":"inguat",
         "linkName":"INGUAT",
         "linkSubtitle":"Turismo",
-        "linkUrl":"http:\/\/www.visitguatemala.com\/",
+        "linkUrl":"http:\/\/www.visitguatemala.com\/es",
         "linkFolder":"none",
         "linkDesktopPosition":null,
         "linkRegion":"Guatemala",

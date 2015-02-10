@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Coursera
-Comment=The world's best universities
+Comment=Take the world's best courses, online, for free
 Type=Application
-Exec=chromium-browser https://www.coursera.org/
+Exec=eos-exec-localized 'chromium-browser https://www.coursera.org/' pt:'chromium-browser http://coursera.r7.com/' 
 Icon=eos-link-coursera
 Categories=Education;Health;

@@ -3,6 +3,6 @@ Version=1.0
 Name=INGUAT
 Comment=Turismo
 Type=Application
-Exec=chromium-browser http://www.visitguatemala.com/
+Exec=chromium-browser http://www.visitguatemala.com/es
 Icon=eos-link-inguat
 Categories=Local;

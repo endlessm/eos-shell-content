@@ -141,7 +141,7 @@
       {
         "linkId":"coursera",
         "linkName":"Coursera",
-        "linkSubtitle":"The world's best universities",
+        "linkSubtitle":"Take the world's best courses, online, for free",
         "linkUrl":"https:\/\/www.coursera.org\/",
         "linkFolder":"none",
         "linkDesktopPosition":null,
@@ -277,6 +277,20 @@
         "linkIcon":"icons\/wiktionary.png",
         "linkThumb":"thumbs\/",
         "linkSmall":"images\/wiktionary.jpg"
+      },
+      {
+        "linkId":"codestudio",
+        "linkName":"Code Studio",
+        "linkSubtitle":"Anybody can learn how to code",
+        "linkUrl":"http:\/\/code.org\/",
+        "linkFolder":"none",
+        "linkDesktopPosition":null,
+        "linkRegion":"Global",
+        "linkCategory":"Education and Health",
+        "linkThumbSize":"Vertical rectangle",
+        "linkIcon":"icons\/",
+        "linkThumb":"thumbs\/",
+        "linkSmall":"images\/codestudio.jpg"
       }
     ]
   },

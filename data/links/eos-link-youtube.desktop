@@ -3,6 +3,6 @@ Version=1.0
 Name=Youtube
 Comment=Video
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.youtube.com/' es:'chromium-browser https://www.youtube.com/?gl=MX' 
+Exec=chromium-browser http://www.youtube.com/
 Icon=eos-link-youtube
 Categories=Entertainment;

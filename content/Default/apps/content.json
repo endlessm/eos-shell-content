@@ -1537,6 +1537,41 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.world-literature", 
+    "category": "Education", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "Find some of your favorite books in this app! To begin browsing, open the folder, click the 'Index' file, and select the genre that interests you most. You'll find some of the most famous books written, including modern wonders that are sure to peak your interest. This virtual library has an astouding collection of novels, poems, biographies, stories, and other texts. Whether you find your favorite book or discover a new one, you'll be entertained for hours expanding your literary knowledge.", 
+    "displayShape": "b1", 
+    "exec": "eos-world-literature", 
+    "featured_img": "", 
+    "icon": "com.endlessm.world-literature-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "Global", 
+      "Guatemala", 
+      "Mexico"
+    ], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.world-literature-screenshot1.jpg", 
+        "com.endlessm.world-literature-screenshot2.jpg", 
+        "com.endlessm.world-literature-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.world-literature-screenshot1.jpg", 
+        "com.endlessm.world-literature-screenshot2.jpg", 
+        "com.endlessm.world-literature-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "None", 
+    "square_img": "com.endlessm.world-literature-thumb.jpg", 
+    "subtitle": "Read all of the world's great literature", 
+    "title": "World Literature", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.youvideos", 
     "category": "Utility", 
     "core": false, 
@@ -2378,41 +2413,6 @@
     "square_img": "gt-health-thumb.jpg", 
     "subtitle": "Health guides that could save your life", 
     "title": "Health Guides", 
-    "tryexec": ""
-  }, 
-  {
-    "application-id": "gt-literature", 
-    "category": "Education", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "Find some of your favorite books in this app! To begin browsing, open the folder, click the 'Index' file, and select the genre that interests you most. You'll find some of the most famous books written, including modern wonders that are sure to peak your interest. This virtual library has an astouding collection of novels, poems, biographies, stories, and other texts. Whether you find your favorite book or discover a new one, you'll be entertained for hours expanding your literary knowledge.", 
-    "displayShape": "b1", 
-    "exec": "gt-literature", 
-    "featured_img": "", 
-    "icon": "gt-literature-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "Global", 
-      "Guatemala", 
-      "Mexico"
-    ], 
-    "screenshots": {
-      "C": [
-        "gt-literature-screenshot1.jpg", 
-        "gt-literature-screenshot2.jpg", 
-        "gt-literature-screenshot3.jpg"
-      ], 
-      "es": [
-        "gt-literature-screenshot1.jpg", 
-        "gt-literature-screenshot2.jpg", 
-        "gt-literature-screenshot3.jpg"
-      ]
-    }, 
-    "splash-screen-type": "None", 
-    "square_img": "gt-literature-thumb.jpg", 
-    "subtitle": "Read all of the world's great literature", 
-    "title": "World Literature", 
     "tryexec": ""
   }, 
   {
