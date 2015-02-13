@@ -3,6 +3,6 @@ Version=1.0
 Name=FOX Sports
 Comment=Sports news
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://www.foxsportsla.com/gt/' 
+Exec=chromium-browser http://www.foxsports.com/
 Icon=eos-link-foxsports
 Categories=Sports;

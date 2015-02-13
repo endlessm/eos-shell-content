@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Family Doctor
+Comment=Health information for the whole family
+Type=Application
+Exec=chromium-browser http://familydoctor.org/
+Icon=eos-link-familydoctor
+Categories=Education;Health;

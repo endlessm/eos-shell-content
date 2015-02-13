@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=New York Times
+Comment=Read news from around the world
+Type=Application
+Exec=chromium-browser http://www.nytimes.com/
+Icon=eos-link-nytimes
+Categories=News;

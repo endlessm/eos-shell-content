@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Super Cook
+Comment=Cook new recipes with ingredients you have
+Type=Application
+Exec=chromium-browser http://www.supercook.com/#/recipes/All%2520recipes
+Icon=eos-link-supercook
+Categories=Entertainment;

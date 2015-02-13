@@ -3,6 +3,6 @@ Version=1.0
 Name=Wikipedia
 Comment=The free encyclopedia
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://en.wikipedia.org/' es:'chromium-browser http://es.wikipedia.org/' pt:'chromium-browser http://pt.wikipedia.org/' 
+Exec=eos-exec-localized 'chromium-browser http://en.wikipedia.org/' pt:'chromium-browser http://pt.wikipedia.org/' 
 Icon=eos-link-wikipedia
 Categories=Education;Health;
