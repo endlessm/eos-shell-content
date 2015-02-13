@@ -1,0 +1,67 @@
+{
+  "desktop" : [
+    "chromium-browser.desktop",
+    "eos-file-manager.desktop",
+    "libreoffice-writer.desktop",
+    "rhythmbox.desktop",
+    "com.endlessm.photos.desktop",
+    "com.endlessm.encyclopedia-es.desktop",
+    "com.endlessm.virtual-school-es.desktop",
+    "com.endlessm.youvideos.desktop",
+    "eos-folder-media.directory",
+    "eos-folder-games.directory",
+    "eos-folder-work.directory",
+    "eos-folder-curiosity.directory",
+    "eos-folder-social.directory"
+  ],
+  "eos-folder-media.directory" : [
+    "shotwell.desktop",
+    "totem.desktop",
+    "audacity.desktop",
+    "eos-link-spotify.desktop",
+    "tuxpaint.desktop",
+    "gimp.desktop"
+  ],
+  "eos-folder-games.directory" : [
+    "supertuxkart.desktop",
+    "billard-gl.desktop",
+    "minetest.desktop",
+    "pingus.desktop",
+    "tuxmath.desktop",
+    "gcompris.desktop"
+    "tuxtype.desktop",
+    "ktuberling.desktop",
+    "numptyphysics.desktop",
+    "tuxpuck.desktop",
+    "ri-li.desktop",
+    "teeworlds.desktop",
+    "extremetuxracer.desktop",
+    "warmux.desktop"
+  ],
+  "eos-folder-work.directory" : [
+    "libreoffice-calc.desktop",
+    "libreoffice-impress.desktop",
+    "gnome-calculator.desktop",
+    "com.endlessm.finance.desktop",
+    "com.endlessm.resume.desktop",
+    "com.endlessm.translation.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.cooking-es.desktop",
+    "com.endlessm.celebrities-es.desktop",
+    "com.endlessm.myths-es.desktop",
+    "com.endlessm.typing.desktop",
+    "com.endlessm.math-es.desktop",
+    "com.endlessm.howto-es.desktop",
+    "com.endlessm.travel-es.desktop",
+    "com.endlessm.health-es.desktop",
+    "marble.desktop",
+    "eos-link-duolingo.desktop"
+  ],
+  "eos-folder-social.directory" : [
+    "eos-link-facebook.desktop",
+    "empathy.desktop",
+    "evolution.desktop",
+    "eos-link-gmail.desktop"
+  ]
+}
