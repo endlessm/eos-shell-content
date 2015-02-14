@@ -3,6 +3,6 @@ Version=1.0
 Name=FIFA
 Comment=Football association
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.fifa.com/' es:'chromium-browser http://es.fifa.com/' 
+Exec=chromium-browser http://www.fifa.com/
 Icon=eos-link-fifa
 Categories=Sports;

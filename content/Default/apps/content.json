@@ -719,39 +719,6 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "com.endlessm.futbol", 
-    "category": "Resources", 
-    "core": false, 
-    "custom-splash-screen": "com.endlessm.futbol-splash.jpg", 
-    "description": "Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover more about the rules, and keep up to date with thousands of articles about your favorite sport!", 
-    "displayShape": "b1", 
-    "exec": "eos-futbol", 
-    "featured_img": "", 
-    "icon": "com.endlessm.futbol-icon.png", 
-    "is_featured": false, 
-    "is_offline": true, 
-    "personalities": [
-      "All"
-    ], 
-    "screenshots": {
-      "C": [
-        "com.endlessm.futbol-screenshot1.jpg", 
-        "com.endlessm.futbol-screenshot2.jpg", 
-        "com.endlessm.futbol-screenshot3.jpg"
-      ], 
-      "es": [
-        "com.endlessm.futbol-screenshot1.jpg", 
-        "com.endlessm.futbol-screenshot2.jpg", 
-        "com.endlessm.futbol-screenshot3.jpg"
-      ]
-    }, 
-    "splash-screen-type": "Custom", 
-    "square_img": "com.endlessm.futbol-thumb.jpg", 
-    "subtitle": "Learn about your favorite team and players", 
-    "title": "Soccer", 
-    "tryexec": ""
-  }, 
-  {
     "application-id": "com.endlessm.geography", 
     "category": "Resources", 
     "core": false, 
@@ -1271,6 +1238,39 @@
     "square_img": "com.endlessm.resume-thumb.jpg", 
     "subtitle": "Write a great resume and prepare for interviews", 
     "title": "R\u00e9sum\u00e9", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "com.endlessm.soccer", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "com.endlessm.soccer-splash.jpg", 
+    "description": "Soccer is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover more about the rules, and keep up to date with thousands of articles about your favorite sport!", 
+    "displayShape": "b1", 
+    "exec": "eos-soccer", 
+    "featured_img": "", 
+    "icon": "com.endlessm.soccer-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.soccer-screenshot1.jpg", 
+        "com.endlessm.soccer-screenshot2.jpg", 
+        "com.endlessm.soccer-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.soccer-screenshot1.jpg", 
+        "com.endlessm.soccer-screenshot2.jpg", 
+        "com.endlessm.soccer-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
+    "square_img": "com.endlessm.soccer-thumb.jpg", 
+    "subtitle": "Learn about your favorite team and players", 
+    "title": "Soccer", 
     "tryexec": ""
   }, 
   {
