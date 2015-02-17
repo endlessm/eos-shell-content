@@ -103,7 +103,7 @@ if __name__ == '__main__':
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
     # until the CMS is reworked
-    languages = [None, 'C', 'es', 'pt', None]
+    languages = [None, 'C', 'es', 'pt']
 
     # Copy the app json to the content folder
     # with tweaks to the json content
