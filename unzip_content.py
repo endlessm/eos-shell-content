@@ -220,7 +220,18 @@ if __name__ == '__main__':
         # but for now let's minimize the changes to the CMS content files
         source = os.path.join(source_dir, locales[i] + '.json')
         target = os.path.join(target_dir, personalities[i] + '.json')
-        shutil.copy(source, target)
+
+        # Re-write the JSON file sorted alphabetically by id
+        # and with keys sorted
+        # (for convenience in manually reviewing the file)
+        with open(source) as infile:
+            json_data = json.load(infile)
+        for category in json_data:
+            sorted_links = sorted(category['links'],
+                                  key=operator.itemgetter('linkId'))
+            category['links'] = sorted_links
+        with open(target, 'w') as outfile:
+            json.dump(json_data, outfile, indent=2, sort_keys='True')
 
     # Copy the link images to the content folder
     # resized/cropped to 90x90
