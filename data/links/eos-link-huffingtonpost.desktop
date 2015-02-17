@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Huffington Post
+Comment=Noticias de interés mundial
+Type=Application
+Exec=chromium-browser http://www.huffingtonpost.es/
+Icon=eos-link-huffingtonpost
+Categories=News;

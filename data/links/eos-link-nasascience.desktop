@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=NASA Science
+Comment=Discover outer space 
+Type=Application
+Exec=chromium-browser http://science.nasa.gov
+Icon=eos-link-nasascience
+Categories=Education;Health;

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=Nat Geo
-Comment=Inspiración para cuidar nuestro planeta
+Name=National Geographic
+Comment=Articles, photos & videos about the world
 Type=Application
-Exec=chromium-browser http://www.ngenespanol.com/
+Exec=eos-exec-localized 'chromium-browser http://www.nationalgeographic.com' es:'chromium-browser http://www.ngenespanol.com/' 
 Icon=eos-link-nationalgeographic
 Categories=Entertainment;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=eHow
+Comment=Discover the expert in you
+Type=Application
+Exec=eos-exec-localized 'chromium-browser http://www.ehow.com' es:'chromium-browser http://www.ehowenespanol.com/' 
+Icon=eos-link-ehow
+Categories=Entertainment;

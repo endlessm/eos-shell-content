@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Yahoo Sports
+Comment=Sports updates
+Type=Application
+Exec=chromium-browser http://sports.yahoo.com
+Icon=eos-link-yahoosports
+Categories=Sports;

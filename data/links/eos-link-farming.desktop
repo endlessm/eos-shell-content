@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Farming
+Name[ar]=الزراعة
+Name[es]=Agricultura
+Name[fr]=Agriculture
+Name[pt]=Agricultura
+Comment=Information for farmers in Africa
+Type=Application
+Exec=chromium-browser http://www.infonet-biovision.org/
+Icon=eos-link-farming
+Categories=Education;Health;

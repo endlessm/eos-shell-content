@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Yahoo
+Comment=Noticias recientes
+Type=Application
+Exec=chromium-browser https://espanol.yahoo.com/
+Icon=eos-link-yahoo
+Categories=News;
