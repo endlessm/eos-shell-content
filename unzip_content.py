@@ -208,28 +208,45 @@ if __name__ == '__main__':
         target_file = os.path.join(target_dir, target)
         convert(source_file, target_file, '')
 
+    # Special handling of link locales for es vs. es_GT
+    link_locales = [['en-us'], ['en-us'], ['es'], ['es', 'es-gt'], ['pt-br']]
+    link_personalities = ['default', 'Global', 'Spanish', 'Guatemala', 'Brazil']
+    link_languages = [None, 'C', 'es', 'es', 'pt']
+
     # Copy and rename the links json to the content folder
     source_dir = os.path.join(UNZIP_DIR, 'links')
     target_dir = os.path.join(CONTENT_DIR, 'links')
     os.makedirs(target_dir)
-    for i in range(0, len(locales)):
+    for i in range(0, len(link_locales)):
         # For now, we need to replace the CMS locale with personality
         # in the file names
         # Note: eventually, we will replace this with a single JSON
         # file that has all the links with a personality field for each link,
         # but for now let's minimize the changes to the CMS content files
-        source = os.path.join(source_dir, locales[i] + '.json')
-        target = os.path.join(target_dir, personalities[i] + '.json')
+        json_data = []
+        for locale in link_locales[i]:
+            source = os.path.join(source_dir, locale + '.json')
 
-        # Re-write the JSON file sorted alphabetically by id
+            with open(source) as infile:
+                locale_data = json.load(infile)
+            for category in locale_data:
+                category_name = category['category']
+                found = False
+                for json_category in json_data:
+                    if json_category['category'] == category_name:
+                        found = True
+                        json_category['links'] += category['links']
+                if not found:
+                    json_data.append(category)
+
+        # Write the JSON file sorted alphabetically by id
         # and with keys sorted
         # (for convenience in manually reviewing the file)
-        with open(source) as infile:
-            json_data = json.load(infile)
         for category in json_data:
             sorted_links = sorted(category['links'],
                                   key=operator.itemgetter('linkId'))
             category['links'] = sorted_links
+        target = os.path.join(target_dir, link_personalities[i] + '.json')
         with open(target, 'w') as outfile:
             json.dump(json_data, outfile, indent=2, sort_keys='True')
 
@@ -273,9 +290,11 @@ if __name__ == '__main__':
     # For now, links are stored on a per-locale basis in JSON files.
     # The output desktop file should combine all specified URLs,
     # switching on the locale via eos-exec-localized
-    for i in range(0, len(locales)):
-        if languages[i]:
-            locale = locales[i]
+    for i in range(0, len(link_locales)):
+        if link_languages[i]:
+            # Note: link locales are ordered so that the one of interest here
+            # (i.e., the most localized) is the last one in the list
+            locale = link_locales[i][-1]
             lang = locale.split('-')[0]
             localized_link_path = os.path.join(UNZIP_DIR, 'links', locale + '.json')
             localized_link_file = open(localized_link_path)
