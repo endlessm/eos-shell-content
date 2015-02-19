@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=Google Books
+Name[es]=Google Libros
 Comment=Preview books from libraries and publishers worldwide
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://books.google.com/' es:'chromium-browser http://books.google.es/' 

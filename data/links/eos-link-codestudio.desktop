@@ -1,6 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Code Studio
+Name[es]=Code studio
+Name[pt]=Hora do Código
 Comment=Anybody can learn how to code
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://code.org/' pt:'chromium-browser http://br.code.org/' 

@@ -117,21 +117,36 @@ class LinkObject(DesktopObject):
     def __init__(self, data, desktop_dir, splash_dir, locale):
         super(LinkObject, self).__init__(data, splash_dir)
         self._desktop_dir = desktop_dir
+        self._default_name = self._data['linkName']
+        self._name_locales = []
+        self._localized_names = {}
         self._default_url = self.get('URL')
-        self._locales = []
+        self._url_locales = []
         self._localized_urls = {}
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
 
+    def append_localized_name(self, locale, name):
+        if name != self._default_name:
+            self._name_locales.append(locale)
+            self._localized_names[locale] = name
+
     def append_localized_url(self, locale, url):
         if url != self._default_url:
-            self._locales.append(locale)
+            self._url_locales.append(locale)
             self._localized_urls[locale] = url
+
+    def _get_names(self):
+        name_string = self._default_name
+        for locale in self._name_locales:
+            name_string += '\nName[%s]=%s' % (locale,
+                                              self._localized_names[locale])
+        return name_string
 
     def _get_exec(self):
         # If there's only one URL for this link,
         # just return an exec which opens that url in chromium.
-        if len(self._locales) == 0:
+        if len(self._url_locales) == 0:
             return 'chromium-browser ' + self._default_url
 
         # Otherwise, send each url with its respective locale 
@@ -140,14 +155,16 @@ class LinkObject(DesktopObject):
         exec_str += '\'chromium-browser ' + self._default_url + '\' '
 
         # Process locales in the same order they were appended
-        for locale in self._locales:
+        for locale in self._url_locales:
             url = self._localized_urls[locale]
             exec_str += locale + ':\'chromium-browser ' + url + '\' '
 
         return exec_str
 
     def get(self, key):
-        if key == 'Exec':
+        if key == 'Name':
+            return self._get_names()
+        elif key == 'Exec':
             return self._get_exec()
         elif key in ['TryExec',
                      'MimeType',

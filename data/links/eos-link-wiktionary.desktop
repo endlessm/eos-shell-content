@@ -1,6 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Wiktionary
+Name[es]=Wikcionario
+Name[pt]=Wikcionário
 Comment=The free dictionary
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.wiktionary.org/' es:'chromium-browser http://es.wiktionary.org/' pt:'chromium-browser http://pt.wiktionary.org/' 

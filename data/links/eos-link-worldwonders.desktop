@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=World Wonders
+Name[es]=Maravillas del mundo
 Comment=Bring to life the wonders of the modern and ancient world
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders' es:'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders?hl=es-419' 

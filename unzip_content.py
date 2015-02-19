@@ -307,6 +307,8 @@ if __name__ == '__main__':
                         desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
                                                          splash_dir, lang)
                     else:
+                        name = link_data['linkName']
+                        desktop_objects[id].append_localized_name(lang, name)
                         url = link_data['linkUrl']
                         desktop_objects[id].append_localized_url(lang, url)
 
