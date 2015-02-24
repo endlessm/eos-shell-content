@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Textbooks
+Name[ar]=الكتب المدرسية
+Name[es]=Libros de texto
+Name[fr]=Manuels
+Name[pt]=Livros Didáticos
+Comment=Math and science textbooks
+Type=Application
+Exec=eos-textbooks
+Icon=eos-app-com.endlessm.textbooks
+Categories=Education;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=/usr/share/EndlessOS/splash/com.endlessm.textbooks-splash.jpg

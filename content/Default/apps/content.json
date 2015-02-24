@@ -1342,6 +1342,39 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.textbooks", 
+    "category": "Education", 
+    "core": false, 
+    "custom-splash-screen": "com.endlessm.textbooks-splash.jpg", 
+    "description": "Find information to help you with your homework, or learn about a subject you've always wanted to know more about! You can scroll through photos, tables, and graphs to learn more about each. Not only are these textbooks very thorough and informative, but they are also easy to read and helpful. Whether you\u2019re a student, parent, teacher, or just someone eager to learn, you'll be sure to find something interesting and useful here!", 
+    "displayShape": "b1", 
+    "exec": "eos-textbooks", 
+    "featured_img": "", 
+    "icon": "com.endlessm.textbooks-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "Global"
+    ], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.textbooks-screenshot1.jpg", 
+        "com.endlessm.textbooks-screenshot2.jpg", 
+        "com.endlessm.textbooks-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.textbooks-screenshot1.jpg", 
+        "com.endlessm.textbooks-screenshot2.jpg", 
+        "com.endlessm.textbooks-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
+    "square_img": "com.endlessm.textbooks-thumb.jpg", 
+    "subtitle": "Math and science textbooks", 
+    "title": "Textbooks", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.translation", 
     "category": "Utility", 
     "core": false, 
@@ -2413,40 +2446,6 @@
     "square_img": "gt-health-thumb.jpg", 
     "subtitle": "Health guides that could save your life", 
     "title": "Health Guides", 
-    "tryexec": ""
-  }, 
-  {
-    "application-id": "gt-textbooks", 
-    "category": "Education", 
-    "core": false, 
-    "custom-splash-screen": "", 
-    "description": "Select a grade level and prepare yourself to learn directly from your computer! This app contains textbooks, worksheets and other learning tools, to teach or supplement your learning. Whether you're a student needing extra homework help, a parent helping to develop a child's education, or someone seeking to learn more in their spare time, you'll find this app to be incredibly useful.", 
-    "displayShape": "b1", 
-    "exec": "gt-textbooks", 
-    "featured_img": "", 
-    "icon": "gt-textbooks-icon.png", 
-    "is_featured": false, 
-    "is_offline": false, 
-    "personalities": [
-      "Guatemala", 
-      "Mexico"
-    ], 
-    "screenshots": {
-      "C": [
-        "gt-textbooks-screenshot1.jpg", 
-        "gt-textbooks-screenshot2.jpg", 
-        "gt-textbooks-screenshot3.jpg"
-      ], 
-      "es": [
-        "gt-textbooks-screenshot1.jpg", 
-        "gt-textbooks-screenshot2.jpg", 
-        "gt-textbooks-screenshot3.jpg"
-      ]
-    }, 
-    "splash-screen-type": "None", 
-    "square_img": "gt-textbooks-thumb.jpg", 
-    "subtitle": "Textbooks for students, parents and teachers", 
-    "title": "Textbooks", 
     "tryexec": ""
   }, 
   {
