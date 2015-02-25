@@ -56,6 +56,15 @@ APPS_TO_APPEND = [
     'openarena'
 ]
 
+# Hack: when we rename an app id, we add a duplicated entry with
+# the old app id and special subtitle and description
+# that identify the app as deprecated
+DEPRECATED_SUBTITLE = 'Deprecated version'
+DEPRECATED_DESCRIPTION = 'If you have internet access, there may be a newer ' \
+    'version of this application available to download and install. In the ' \
+    'meantime, you may continue to use this version that is already installed '\
+    'on your computer.'
+
 # Run the ImageMagick 'convert' application from the command line,
 # with specified JPEG quality and all metadata stripped
 def convert(source, target, command):
@@ -145,6 +154,27 @@ if __name__ == '__main__':
             continue;
         app_index += 1
     sorted_json.extend(apps_to_append)
+
+    # Read the list of apps that have had app ids renamed
+    with open('renamed-apps.txt') as renamed_file:
+        renamed_apps = renamed_file.read().strip().split('\n')
+
+    # Insert a duplicate entry for any renamed app ids
+    # that uses the same name and assets but with a special
+    # subtitle and description to identify it as deprecated
+    app_index = 0
+    while app_index < len(sorted_json):
+        for renamed_app in renamed_apps:
+            app_data = sorted_json[app_index]
+            [old_id, new_id] = renamed_app.split()
+            if app_data['application-id'] == new_id:
+                app_copy = app_data.copy()
+                app_copy['application-id'] = old_id
+                app_copy['subtitle'] = DEPRECATED_SUBTITLE
+                app_copy['description'] = DEPRECATED_DESCRIPTION
+                sorted_json.insert(app_index, app_copy)
+                app_index += 1
+        app_index += 1
 
     with open(target, 'w') as outfile:
         json.dump(sorted_json, outfile, indent=2, sort_keys=True)
