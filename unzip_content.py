@@ -430,6 +430,28 @@ if __name__ == '__main__':
                             source_file = os.path.join(source_dir, icon_path)
                             shutil.copy(source_file, target_file)
 
+    # Make a copy of the icon and splash screen for any renamed app ids
+    # to satisfy the need for these assets while continuing to support
+    # the deprecated versions
+    for renamed_app in renamed_apps:
+        [old_id, new_id] = renamed_app.split()
+
+        # Copy the icon
+        source = APP_PREFIX + new_id + '.png'
+        target = APP_PREFIX + old_id + '.png'
+        source_file = os.path.join(ICON_DIR, source)
+        target_file = os.path.join(ICON_DIR, target)
+        shutil.copy(source_file, target_file)
+
+        # Copy the splash screen, if exists
+        splash_dir = os.path.join(CONTENT_DIR, 'apps', 'resources', 'splash')
+        source = new_id + '-splash.jpg'
+        target = old_id + '-splash.jpg'
+        source_file = os.path.join(splash_dir, source)
+        target_file = os.path.join(splash_dir, target)
+        if os.path.exists(source_file):
+            shutil.copy(source_file, target_file)
+
     # Generate bundle manifests for the image builder by personality
 
     shutil.rmtree(BUNDLE_MANIFESTS_DIR, IGNORE_ERRORS)
