@@ -1827,6 +1827,28 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "etoys", 
+    "category": "Education", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "Etoys is a highly engaging programming environment that allows students to create just about anything from interactive drawings and stories to models and games. With a drag-and-drop interface, it helps prevent syntax errors that can frustrate learners new to programming, while encouraging curiosity and exploration. The possible projects are endless; Etoys can be used for simple drawings as well as for complex models of the physical world. While it was designed for 8-13 year olds, it has been used successfully by teachers at the high school and college level as well as by younger audiences with help from a parent or teacher.", 
+    "displayShape": "b1", 
+    "exec": "etoys", 
+    "featured_img": "", 
+    "icon": "etoys-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "etoys-thumb.jpg", 
+    "subtitle": "Make and animate things with visual programming", 
+    "title": "Etoys", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "evolution", 
     "category": "Utility", 
     "core": true, 
