@@ -1017,6 +1017,30 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.mayan-languages", 
+    "category": "Education", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": " TODO", 
+    "displayShape": "b1", 
+    "exec": "eos-mayan-languages", 
+    "featured_img": "", 
+    "icon": "com.endlessm.mayan-languages-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "Guatemala"
+    ], 
+    "screenshots": {
+      "es": []
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.mayan-languages-thumb.jpg", 
+    "subtitle": "Learn more about Mayan languages", 
+    "title": "Mayan Languages", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.mexico", 
     "category": "Education", 
     "core": false, 
