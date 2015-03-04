@@ -852,6 +852,28 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.healthy-living", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-healthy-living", 
+    "featured_img": "", 
+    "icon": "com.endlessm.healthy-living-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.healthy-living-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "Healthy Living", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.healthy-teeth", 
     "category": "Resources", 
     "core": false, 
@@ -1021,7 +1043,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": " TODO", 
+    "description": "TBD", 
     "displayShape": "b1", 
     "exec": "eos-mayan-languages", 
     "featured_img": "", 
