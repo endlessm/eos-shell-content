@@ -477,6 +477,28 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.childrens-collection", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-childrens-collection", 
+    "featured_img": "", 
+    "icon": "com.endlessm.childrens-collection-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.childrens-collection-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "Children's Collection", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.cooking", 
     "category": "Resources", 
     "core": false, 
@@ -507,6 +529,28 @@
     "square_img": "com.endlessm.cooking-thumb.jpg", 
     "subtitle": "Delicious recipes and tips for cooking", 
     "title": "Cooking", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "com.endlessm.creativity-center", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-creativity-center", 
+    "featured_img": "", 
+    "icon": "com.endlessm.creativity-center-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.creativity-center-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "Creativity Center", 
     "tryexec": ""
   }, 
   {
@@ -573,6 +617,29 @@
     "square_img": "com.endlessm.disabilities-thumb.jpg", 
     "subtitle": "Learn how to provide the best care", 
     "title": "Disabilities", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "com.endlessm.diy", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-diy", 
+    "featured_img": "", 
+    "icon": "com.endlessm.diy-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "Guatemala", 
+      "Mexico"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.diy-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "DIY", 
     "tryexec": ""
   }, 
   {
@@ -816,6 +883,29 @@
     "square_img": "com.endlessm.guatemalan-curriculum-thumb.jpg", 
     "subtitle": "From the Guatemalan Ministry of Education", 
     "title": "Curriculum", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "com.endlessm.handicrafts", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-handicrafts", 
+    "featured_img": "", 
+    "icon": "com.endlessm.handicrafts-icon.png", 
+    "is_featured": false, 
+    "is_offline": true, 
+    "personalities": [
+      "Guatemala", 
+      "Mexico"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.handicrafts-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "Handicrafts", 
     "tryexec": ""
   }, 
   {
