@@ -698,6 +698,29 @@
     "tryexec": ""
   }, 
   {
+    "application-id": "com.endlessm.entrepreneurship", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "TBD", 
+    "displayShape": "b1", 
+    "exec": "eos-entrepreneurship", 
+    "featured_img": "", 
+    "icon": "com.endlessm.entrepreneurship-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "Guatemala", 
+      "Mexico"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.entrepreneurship-thumb.jpg", 
+    "subtitle": "TBD", 
+    "title": "Entrepreneurship", 
+    "tryexec": ""
+  }, 
+  {
     "application-id": "com.endlessm.farming", 
     "category": "Resources", 
     "core": false, 
