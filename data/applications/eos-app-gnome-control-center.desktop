@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Settings
+Comment=Easily change your computer's settings
+Type=Application
+Exec=gnome-control-center --overview
+Icon=eos-app-gnome-control-center
+Categories=Utility;
+X-Endless-LaunchMaximized=false

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Help Center
+Comment=Learn how to use Endless
+Type=Application
+Exec=yelp %u
+Icon=eos-app-yelp
+Categories=Resources;
+X-Endless-LaunchMaximized=true

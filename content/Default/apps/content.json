@@ -1925,7 +1925,7 @@
     "category": "Utility", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "Need to safely store all of your important documents, photos, songs, and files? Easy! With this app you can use the internet to save everything that\u2019s important to you. You can then access those files from any computer that has an internet connection. Use this service to backup your files, share photos or collaborate on a project by sharing a Dropbox folder with whomever you\u2019d like. Create a free account and start saving and sharing today!\r\n\r\n** Requires internet", 
+    "description": "Need to safely store all of your important documents, photos, songs, and files? Easy! With this app you can use the internet to save everything that\u2019s important to you. You can then access those files from any computer that has an internet connection. Use this service to backup your files, share photos or collaborate on a project by sharing a Dropbox folder with whomever you\u2019d like. Create a free account and start saving and sharing today!  ** Requires internet", 
     "displayShape": "b1", 
     "exec": "dropbox_desktop", 
     "featured_img": "", 
@@ -2013,7 +2013,7 @@
     "category": "Education", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "Etoys is a highly engaging programming environment that allows students to create just about anything from interactive drawings and stories to models and games. With a drag-and-drop interface, it helps prevent syntax errors that can frustrate learners new to programming, while encouraging curiosity and exploration. The possible projects are endless; Etoys can be used for simple drawings as well as for complex models of the physical world. While it was designed for 8-13 year olds, it has been used successfully by teachers at the high school and college level as well as by younger audiences with help from a parent or teacher.", 
+    "description": "This app is a great way for kids to learn how to program while learning other disciplines and having a lot of fun! Create interactive drawings, stories, models and games with a drag-and-drop interface that helps to prevent syntax errors that are often frustrating to new learners. This app encourages curiosity and exploration, and can be used to create anything from simple drawings to complex models of the physical world. While originally designed for students who are 8 - 13 years old, teachers have found that this app has helped students of all ages, from young learners to college-aged students alike!", 
     "displayShape": "b1", 
     "exec": "etoys", 
     "featured_img": "", 
@@ -2026,7 +2026,7 @@
     "screenshots": [], 
     "splash-screen-type": "Default", 
     "square_img": "etoys-thumb.jpg", 
-    "subtitle": "Make and animate things with visual programming", 
+    "subtitle": "Learn with visual programming", 
     "title": "Etoys", 
     "tryexec": ""
   }, 
@@ -2417,6 +2417,28 @@
     "square_img": "gnome-calculator-thumb.jpg", 
     "subtitle": "A scientific calculator with many bonus tools", 
     "title": "Calculator", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "gnome-control-center", 
+    "category": "Utility", 
+    "core": true, 
+    "custom-splash-screen": "", 
+    "description": "If you find yourself constantly wanting to change your computer's settings, they are now just a click away! Whether you want to change your desktop's background image, change the brightness of your screen if it's getting late, or if you want to do something like add a new printer, it'll be easier than ever with this cool shortcut!", 
+    "displayShape": "b1", 
+    "exec": "gnome-control-center --overview", 
+    "featured_img": "", 
+    "icon": "gnome-control-center-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "None", 
+    "square_img": "gnome-control-center-thumb.jpg", 
+    "subtitle": "Easily change your computer's settings", 
+    "title": "Settings", 
     "tryexec": ""
   }, 
   {
@@ -3809,7 +3831,7 @@
     "category": "Utility", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "OpenSCAD is software for creating solid 3D CAD models. It reads in a script file that describes the object and renders the 3D model from this script file. The resulting model can be sent to a 3D printer.", 
+    "description": "This app is made for programmers who want to create 3D CAD models. The app does not focus on the artistic aspects of 3D modeling, but rather on the CAD elements, so it is best suited for people who want to create machine parts, for example, instead of something like 3D models for movies. As the programmer, you will have full control over the modeling process so that you can easily change any step and create the configurable designs you desire. You'll need to have a deep understanding of how to create CAD models, and if you do, this app is a great way to build the 3D models you need.", 
     "displayShape": "b1", 
     "exec": "openscad %f", 
     "featured_img": "", 
@@ -3822,8 +3844,8 @@
     "screenshots": [], 
     "splash-screen-type": "Default", 
     "square_img": "openscad-thumb.jpg", 
-    "subtitle": "Solid 3D CAD modeller", 
-    "title": "OpenSCAD", 
+    "subtitle": "Create 3D CAD models", 
+    "title": "3D CAD", 
     "tryexec": ""
   }, 
   {
@@ -4270,7 +4292,7 @@
     "category": "Games", 
     "core": false, 
     "custom-splash-screen": "", 
-    "description": "If you like playing video games, you're going to have a great time exploring all of the cool Linux games on Valve's Steam portal! You'll need an internet connection to view and purchase games on the Steam store, so make sure your Wi-Fi is turned on before opening this app. Get ready to find the most popular in the world that are sure to keep you entertained for hours at a time!", 
+    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet", 
     "displayShape": "b1", 
     "exec": "steam", 
     "featured_img": "", 
@@ -4278,12 +4300,12 @@
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
-      "None"
+      "All"
     ], 
     "screenshots": [], 
     "splash-screen-type": "Default", 
     "square_img": "steam-thumb.jpg", 
-    "subtitle": "Browse hundreds of the most popular games online", 
+    "subtitle": "Online store with popular video games", 
     "title": "Steam", 
     "tryexec": ""
   }, 
@@ -4729,6 +4751,28 @@
     "square_img": "xmoto-thumb.jpg", 
     "subtitle": "A motorcycle racing game", 
     "title": "X-Moto", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "yelp", 
+    "category": "Resources", 
+    "core": true, 
+    "custom-splash-screen": "", 
+    "description": "Do you have questions about how to use Endless? Now you can have the answers to your questions be just a click away! We've created the Help Center for both new and advanced users, so that you can learn how to use Endless at the level you need. If you can't find the answer to your questions - let us know! You help to make Endless better by giving us your feedback, and by asking us questions.", 
+    "displayShape": "b1", 
+    "exec": "yelp %u", 
+    "featured_img": "", 
+    "icon": "yelp-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "All"
+    ], 
+    "screenshots": [], 
+    "splash-screen-type": "Default", 
+    "square_img": "yelp-thumb.jpg", 
+    "subtitle": "Learn how to use Endless", 
+    "title": "Help Center", 
     "tryexec": ""
   }, 
   {

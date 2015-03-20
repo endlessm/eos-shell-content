@@ -443,7 +443,7 @@
         "linkSmall": "images/codeacademy.jpg", 
         "linkSubtitle": "Aprende a programar", 
         "linkThumb": "thumbs/", 
-        "linkThumbSize": "Square", 
+        "linkThumbSize": "Horizontal rectangle", 
         "linkUrl": "http://www.codecademy.com/es/"
       }, 
       {
@@ -1178,6 +1178,20 @@
         "linkThumb": "thumbs/", 
         "linkThumbSize": "Square", 
         "linkUrl": "https://twitter.com/"
+      }, 
+      {
+        "linkCategory": "Entertainment", 
+        "linkDesktopPosition": null, 
+        "linkFolder": "none", 
+        "linkIcon": "icons/whatsapp.png", 
+        "linkId": "whatsapp", 
+        "linkName": "WhatsApp", 
+        "linkRegion": "Global", 
+        "linkSmall": "images/whatsapp.jpg", 
+        "linkSubtitle": "Chatea con todos tus amigos", 
+        "linkThumb": "thumbs/", 
+        "linkThumbSize": "Square", 
+        "linkUrl": "https://web.whatsapp.com/"
       }, 
       {
         "linkCategory": "Entertainment", 
