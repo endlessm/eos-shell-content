@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content 1.0.99\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-"
 "content/\n"
-"POT-Creation-Date: 2015-03-20 15:40-0700\n"
+"POT-Creation-Date: 2015-03-24 16:04-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -342,26 +342,17 @@ msgid "Children's Collection"
 msgstr ""
 
 #: content/Default/apps/content.json.h:53
-#: content/Default/apps/content.json.h:59
-#: content/Default/apps/content.json.h:68
-#: content/Default/apps/content.json.h:77
-#: content/Default/apps/content.json.h:98
-#: content/Default/apps/content.json.h:104
-#: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
-msgid "TBD"
+msgid "Short stories that will delight the whole family"
 msgstr ""
 
 #: content/Default/apps/content.json.h:54
-#: content/Default/apps/content.json.h:60
-#: content/Default/apps/content.json.h:69
-#: content/Default/apps/content.json.h:78
-#: content/Default/apps/content.json.h:99
-#: content/Default/apps/content.json.h:105
-#: content/Default/apps/content.json.h:123
-#: content/Default/apps/content.json.h:126
 msgctxt "description"
-msgid "TBD"
+msgid ""
+"Read away! Uncover mysteries, laugh, and embark on adventures. Spend time "
+"reading with your children, or let them choose some fun stories to read on "
+"their own. Here you will find stories, poems, and folk tales that everyone "
+"in your family will enjoy. Start reading and let the entertainment unfold."
 msgstr ""
 
 #: content/Default/apps/content.json.h:55
@@ -387,6 +378,19 @@ msgstr ""
 #: content/Default/apps/content.json.h:58
 msgctxt "title"
 msgid "Creativity Center"
+msgstr ""
+
+#: content/Default/apps/content.json.h:59
+msgctxt "subtitle"
+msgid "Drawing, painting, music, and so much more"
+msgstr ""
+
+#: content/Default/apps/content.json.h:60
+msgctxt "description"
+msgid ""
+"Get ready to unleash your imagination. Use this app to uncover new skills "
+"and construct innovative objects. Your mind, your hands, and everyday "
+"materials will allow you to create useful tools and even works of art."
 msgstr ""
 
 #: content/Default/apps/content.json.h:61
@@ -436,6 +440,20 @@ msgctxt "title"
 msgid "DIY"
 msgstr ""
 
+#: content/Default/apps/content.json.h:68
+msgctxt "subtitle"
+msgid "Guidelines to create a wide variety of items"
+msgstr ""
+
+#: content/Default/apps/content.json.h:69
+msgctxt "description"
+msgid ""
+"There is nothing you cannot do. With these guidelines your home can become "
+"your very own workshop. From practical tools to decorations and creative "
+"recipes, you can do it yourself! Simply follow these tutorials and create "
+"wonderful items that will surprise your family and friends."
+msgstr ""
+
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Encyclopedia"
@@ -480,6 +498,21 @@ msgstr ""
 #: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "Entrepreneurship"
+msgstr ""
+
+#: content/Default/apps/content.json.h:77
+msgctxt "subtitle"
+msgid "Business advice for your inner entrepreneur"
+msgstr ""
+
+#: content/Default/apps/content.json.h:78
+msgctxt "description"
+msgid ""
+"Interested in new ventures? Want to launch your own business? This app will "
+"help you learn about business plans and financing. You can also discover "
+"emerging entrepreneurial ideas, market trends, and the best practices to "
+"improve operations. Access these materials and transform your business ideas "
+"into reality."
 msgstr ""
 
 #: content/Default/apps/content.json.h:79
@@ -541,8 +574,8 @@ msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
 "exercise safely and effectively. With a range of exercises and routines, as "
 "well as information about keeping yourself safe and preventing injury, "
-"you’ll have your workout on track in no time. The app also features guidance "
-"on how to live a healthy life of the body and the mind."
+"you’ll have your workout on track in no time. This app even features "
+"guidance on how to live a healthy lifestyle."
 msgstr ""
 
 #: content/Default/apps/content.json.h:88
@@ -614,6 +647,21 @@ msgctxt "title"
 msgid "Handicrafts"
 msgstr ""
 
+#: content/Default/apps/content.json.h:98
+msgctxt "subtitle"
+msgid "Learn how to make the most beautiful handicrafts"
+msgstr ""
+
+#: content/Default/apps/content.json.h:99
+msgctxt "description"
+msgid ""
+"With these guides and your creativity you will soon be making the most "
+"beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave "
+"textiles, and more. You can even learn how to recycle materials from around "
+"your home to turn them into new and amazing handicrafts. Use this app to get "
+"started on a new creative project!"
+msgstr ""
+
 #: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Health"
@@ -636,6 +684,20 @@ msgstr ""
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Healthy Living"
+msgstr ""
+
+#: content/Default/apps/content.json.h:104
+msgctxt "subtitle"
+msgid "Discover what it takes to stay healthy"
+msgstr ""
+
+#: content/Default/apps/content.json.h:105
+msgctxt "description"
+msgid ""
+"How can you adopt a healthy lifestlye? There is much you can do for yourself "
+"and your family. This app gives you access to fitness routines, healthy "
+"recipes, nutrition facts, and nearby doctors. Get started today and pursue a "
+"healthier living!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:106
@@ -753,12 +815,36 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
-msgid "Learn more about Mayan languages"
+msgid "Stories and dictionaries in Mayan languages"
+msgstr ""
+
+#: content/Default/apps/content.json.h:123
+msgctxt "description"
+msgid ""
+"Have you ever wanted to study and learn a Mayan language? Whether you're a "
+"beginner or are more advanced, this app contains many great resources. Here "
+"you can find stories, dictionaries, and grammar resources in different Mayan "
+"languages. Get ready to immerse yourself in Mayan culture through all the "
+"history and stories you'll find here!"
 msgstr ""
 
 #: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Mental Health"
+msgstr ""
+
+#: content/Default/apps/content.json.h:125
+msgctxt "subtitle"
+msgid "Tips and tricks for living a healthier, happier life"
+msgstr ""
+
+#: content/Default/apps/content.json.h:126
+msgctxt "description"
+msgid ""
+"Have you ever wanted to be more confident? Feel less stressed? Be more "
+"efficient and productive? Now is your chance! Use this app to learn tips and "
+"tricks for self improvement. Read to discover how your mind works and how "
+"you can better your life."
 msgstr ""
 
 #: content/Default/apps/content.json.h:127

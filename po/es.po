@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2015-03-20 15:40-0700\n"
-"PO-Revision-Date: 2015-03-23 05:26+0000\n"
+"POT-Creation-Date: 2015-03-24 16:04-0700\n"
+"PO-Revision-Date: 2015-03-24 23:14+0000\n"
 "Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -355,27 +355,18 @@ msgid "Children's Collection"
 msgstr "Colección infantil"
 
 #: content/Default/apps/content.json.h:53
-#: content/Default/apps/content.json.h:59
-#: content/Default/apps/content.json.h:68
-#: content/Default/apps/content.json.h:77
-#: content/Default/apps/content.json.h:98
-#: content/Default/apps/content.json.h:104
-#: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
-msgid "TBD"
-msgstr ""
+msgid "Short stories that will delight the whole family"
+msgstr "Cuentos cortos que les encantarán a toda la familia"
 
 #: content/Default/apps/content.json.h:54
-#: content/Default/apps/content.json.h:60
-#: content/Default/apps/content.json.h:69
-#: content/Default/apps/content.json.h:78
-#: content/Default/apps/content.json.h:99
-#: content/Default/apps/content.json.h:105
-#: content/Default/apps/content.json.h:123
-#: content/Default/apps/content.json.h:126
 msgctxt "description"
-msgid "TBD"
-msgstr ""
+msgid ""
+"Read away! Uncover mysteries, laugh, and embark on adventures. Spend time "
+"reading with your children, or let them choose some fun stories to read on "
+"their own. Here you will find stories, poems, and folk tales that everyone "
+"in your family will enjoy. Start reading and let the entertainment unfold."
+msgstr "¡A leer! Resuelve misterios, ríe o embárcate en aventuras. Aprovecha el tiempo leyendo con tus hijos o déjalos leer historias divertidas. Aquí encontrarás historias, poemas y cuentos populares que les gustarán a toda la familia. Comienza a leer, ¡y que comience el entretenimiento!"
 
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
@@ -401,6 +392,19 @@ msgstr "¿Quieres cocinar algo espectacular para tus amigos o tu familia? Deja q
 msgctxt "title"
 msgid "Creativity Center"
 msgstr "Centro de creatividad"
+
+#: content/Default/apps/content.json.h:59
+msgctxt "subtitle"
+msgid "Drawing, painting, music, and so much more"
+msgstr "Dibujos, pintura, música y mucho más"
+
+#: content/Default/apps/content.json.h:60
+msgctxt "description"
+msgid ""
+"Get ready to unleash your imagination. Use this app to uncover new skills "
+"and construct innovative objects. Your mind, your hands, and everyday "
+"materials will allow you to create useful tools and even works of art."
+msgstr "Prepárate para liberar tu imaginación. Utiliza este programa para descubrir nuevas habilidades y crear maravillosos objetos con materiales a tu alrededor. Tu mente, tus manos y las cosas que te rodean te permitirán crear herramientas útiles y obras de arte."
 
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
@@ -449,6 +453,20 @@ msgctxt "title"
 msgid "DIY"
 msgstr "Manualidades"
 
+#: content/Default/apps/content.json.h:68
+msgctxt "subtitle"
+msgid "Guidelines to create a wide variety of items"
+msgstr "Instrucciones para crear gran variedad de objetos"
+
+#: content/Default/apps/content.json.h:69
+msgctxt "description"
+msgid ""
+"There is nothing you cannot do. With these guidelines your home can become "
+"your very own workshop. From practical tools to decorations and creative "
+"recipes, you can do it yourself! Simply follow these tutorials and create "
+"wonderful items that will surprise your family and friends."
+msgstr "No hay nada que no puedas hacer. Con estas guías, tu hogar se convertirá en tu propio taller. Desde herramientas prácticas hasta recetas creativas, todo lo puedes hacer tú mismo. Simplemente sigue las instrucciones para crear magníficas cosas que sorprenderán a tu familia y amigos.  "
+
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Encyclopedia"
@@ -494,6 +512,21 @@ msgstr "¿Listo para llevar tu inglés a otro nivel? Diviértete aprendiendo una
 msgctxt "title"
 msgid "Entrepreneurship"
 msgstr "Emprendedor"
+
+#: content/Default/apps/content.json.h:77
+msgctxt "subtitle"
+msgid "Business advice for your inner entrepreneur"
+msgstr "Consejos de negocios para emprendedores"
+
+#: content/Default/apps/content.json.h:78
+msgctxt "description"
+msgid ""
+"Interested in new ventures? Want to launch your own business? This app will "
+"help you learn about business plans and financing. You can also discover "
+"emerging entrepreneurial ideas, market trends, and the best practices to "
+"improve operations. Access these materials and transform your business ideas"
+" into reality."
+msgstr "¿Te interesan las ideas innovadoras? ¿Deseas comenzar tu propio negocio? Este programa te permitirá aprender acerca de planes de negocios y financiamiento. También te permitirá descubrir ideas emergentes, tendencias del mercado y maneras de mejorar operaciones. Accesa estos artículos y haz que tus ideas empresariales se vuelvan realidad."
 
 #: content/Default/apps/content.json.h:79
 msgctxt "title"
@@ -554,9 +587,9 @@ msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
 "exercise safely and effectively. With a range of exercises and routines, as "
 "well as information about keeping yourself safe and preventing injury, "
-"you’ll have your workout on track in no time. The app also features guidance"
-" on how to live a healthy life of the body and the mind."
-msgstr "Todos queremos vernos y sentirnos de lo mejor. Con este programa, aprenderás a ejercitarte de buena forma. Este programa tiene una variedad de ejercicios y rutinas e información para ayudarte a ser sano sin dañarte. ¡Podrás planificar y comenzar tus ejercicios en muy poco tiempo! Así,  este programa te ayudará a tener un cuerpo y una mente saludables."
+"you’ll have your workout on track in no time. This app even features "
+"guidance on how to live a healthy lifestyle."
+msgstr "Todos queremos vernos y sentirnos de lo mejor. Con este programa, aprenderás a ejercitarte de buena forma. Este programa tiene una variedad de ejercicios y rutinas e información para ayudarte a ser sano sin dañarte. ¡Podrás planificar y comenzar tus ejercicios en muy poco tiempo! Este programa te ayudará a tener un estilo de vida muy saludable."
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
@@ -628,6 +661,21 @@ msgctxt "title"
 msgid "Handicrafts"
 msgstr "Artesanías"
 
+#: content/Default/apps/content.json.h:98
+msgctxt "subtitle"
+msgid "Learn how to make the most beautiful handicrafts"
+msgstr "Aprende como hacer las artesanías más bellas"
+
+#: content/Default/apps/content.json.h:99
+msgctxt "description"
+msgid ""
+"With these guides and your creativity you will soon be making the most "
+"beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave "
+"textiles, and more. You can even learn how to recycle materials from around "
+"your home to turn them into new and amazing handicrafts. Use this app to get"
+" started on a new creative project!"
+msgstr "¡Con estas guías y tu creatividad, pronto estarás haciendo las artesanías más bonitas! Aprende carpintería, cómo hacer joyería, cómo hacer textiles, y mucho más. Incluso podrás aprender a usar materiales reciclados que ya tienes en casa para convertirlos en artesanías increíbles. ¡Usa este programa para empezar un nuevo proyecto creativo!"
+
 #: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Health"
@@ -651,6 +699,20 @@ msgstr "Sin tu salud, no puedes tener ninguna otra cosa. Aprenda todo acerca de 
 msgctxt "title"
 msgid "Healthy Living"
 msgstr "Buen Vivir"
+
+#: content/Default/apps/content.json.h:104
+msgctxt "subtitle"
+msgid "Discover what it takes to stay healthy"
+msgstr "Descubre cómo mantener buena salud"
+
+#: content/Default/apps/content.json.h:105
+msgctxt "description"
+msgid ""
+"How can you adopt a healthy lifestlye? There is much you can do for yourself"
+" and your family. This app gives you access to fitness routines, healthy "
+"recipes, nutrition facts, and nearby doctors. Get started today and pursue a"
+" healthier living!"
+msgstr "¿Cómo se puede mantener un estilo de vida saludable? Hay mucho que puedes hacer por ti y tu familia. Este programa ofrece acceso a rutinas de ejercicio, recetas sanas y doctores cercanos. Empieza hoy y consigue una vida más saludable."
 
 #: content/Default/apps/content.json.h:106
 msgctxt "title"
@@ -767,13 +829,37 @@ msgstr "Idiomas Maya"
 
 #: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
-msgid "Learn more about Mayan languages"
-msgstr "Aprende más sobre los idiomas Mayas"
+msgid "Stories and dictionaries in Mayan languages"
+msgstr "Cuentos y diccionarios en los idiomas Mayas"
+
+#: content/Default/apps/content.json.h:123
+msgctxt "description"
+msgid ""
+"Have you ever wanted to study and learn a Mayan language? Whether you're a "
+"beginner or are more advanced, this app contains many great resources. Here "
+"you can find stories, dictionaries, and grammar resources in different Mayan"
+" languages. Get ready to immerse yourself in Mayan culture through all the "
+"history and stories you'll find here!"
+msgstr "¿Alguna vez has querido estudiar y aprender un idioma Maya? Tanto si eres un principiante o un estudiante más avanzado, este programa contiene muchos recursos útiles. Aquí puedes encontrar cuentos, diccionarios y guías gramaticales en diferentes idiomas Mayas. ¡Prepárate para sumergirte en la cultura Maya a través de toda la historia y los cuentos que encontrarás aquí!"
 
 #: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Mental Health"
 msgstr "Salud Mental"
+
+#: content/Default/apps/content.json.h:125
+msgctxt "subtitle"
+msgid "Tips and tricks for living a healthier, happier life"
+msgstr "Consejos y trucos para vivir una vida más sana y feliz"
+
+#: content/Default/apps/content.json.h:126
+msgctxt "description"
+msgid ""
+"Have you ever wanted to be more confident? Feel less stressed? Be more "
+"efficient and productive? Now is your chance! Use this app to learn tips and"
+" tricks for self improvement. Read to discover how your mind works and how "
+"you can better your life."
+msgstr "¿Alguna vez has querido tener más confianza? ¿Sentirte menos estresado? ¿Ser más eficiente y productivo? ¡Ahora es tu oportunidad! Utiliza este programa para aprender consejos y trucos para una vida más sana y feliz. Lee para descubrir cómo funciona tu mente y cómo puedes mejorar tu vida."
 
 #: content/Default/apps/content.json.h:127
 msgctxt "title"
