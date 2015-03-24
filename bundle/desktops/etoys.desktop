@@ -1,7 +1,14 @@
 [Desktop Entry]
 Version=1.0
 Name=Etoys
+Name[ar]=برنامِج Etoys
+Name[es]=EJuegos
+Name[fr]=Etoys
+Name[pt]=Ebrinquedos
 Comment=Learn with visual programming
+Comment[ar]=تَعلَم بالبرمجة المرئية
+Comment[es]=Aprende con programación visual
+Comment[fr]=Apprenez avec la programmation visuelle
 Type=Application
 Exec=etoys
 Icon=eos-app-etoys
