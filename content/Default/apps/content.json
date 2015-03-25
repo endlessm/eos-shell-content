@@ -1921,7 +1921,7 @@
     "tryexec": ""
   }, 
   {
-    "application-id": "dropbox_desktop", 
+    "application-id": "dropbox", 
     "category": "Utility", 
     "core": false, 
     "custom-splash-screen": "", 
@@ -1929,7 +1929,7 @@
     "displayShape": "b1", 
     "exec": "dropbox_desktop", 
     "featured_img": "", 
-    "icon": "dropbox_desktop-icon.png", 
+    "icon": "dropbox-icon.png", 
     "is_featured": false, 
     "is_offline": false, 
     "personalities": [
@@ -1939,7 +1939,7 @@
       "C": []
     }, 
     "splash-screen-type": "Default", 
-    "square_img": "dropbox_desktop-thumb.jpg", 
+    "square_img": "dropbox-thumb.jpg", 
     "subtitle": "Access your files from any computer", 
     "title": "Dropbox", 
     "tryexec": ""
