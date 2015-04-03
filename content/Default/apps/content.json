@@ -480,7 +480,7 @@
     "application-id": "com.endlessm.childrens-collection", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.childrens-collection-splash.jpeg", 
     "description": "Read away! Uncover mysteries, laugh, and embark on adventures. Spend time reading with your children, or let them choose some fun stories to read on their own. Here you will find stories, poems, and folk tales that everyone in your family will enjoy. Start reading and let the entertainment unfold.", 
     "displayShape": "b1", 
     "exec": "eos-childrens-collection", 
@@ -491,8 +491,19 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.childrens-collection-screenshot1.jpg", 
+        "com.endlessm.childrens-collection-screenshot2.jpg", 
+        "com.endlessm.childrens-collection-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.childrens-collection-screenshot1.jpg", 
+        "com.endlessm.childrens-collection-screenshot2.jpg", 
+        "com.endlessm.childrens-collection-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.childrens-collection-thumb.jpg", 
     "subtitle": "Short stories that will delight the whole family", 
     "title": "Children's Collection", 
@@ -535,7 +546,7 @@
     "application-id": "com.endlessm.creativity-center", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.creativity-center-splash.jpeg", 
     "description": "Get ready to unleash your imagination. Use this app to uncover new skills and construct innovative objects. Your mind, your hands, and everyday materials will allow you to create useful tools and even works of art.", 
     "displayShape": "b1", 
     "exec": "eos-creativity-center", 
@@ -546,8 +557,19 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.creativity-center-screenshot1.jpg", 
+        "com.endlessm.creativity-center-screenshot2.jpg", 
+        "com.endlessm.creativity-center-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.creativity-center-screenshot1.jpg", 
+        "com.endlessm.creativity-center-screenshot2.jpg", 
+        "com.endlessm.creativity-center-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.creativity-center-thumb.jpg", 
     "subtitle": "Drawing, painting, music, and so much more", 
     "title": "Creativity Center", 
@@ -623,7 +645,7 @@
     "application-id": "com.endlessm.diy", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.diy-splash.jpeg", 
     "description": "There is nothing you cannot do. With these guidelines your home can become your very own workshop. From practical tools to decorations and creative recipes, you can do it yourself! Simply follow these tutorials and create wonderful items that will surprise your family and friends.", 
     "displayShape": "b1", 
     "exec": "eos-diy", 
@@ -635,8 +657,19 @@
       "Guatemala", 
       "Mexico"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.diy-screenshot1.jpg", 
+        "com.endlessm.diy-screenshot2.jpg", 
+        "com.endlessm.diy-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.diy-screenshot1.jpg", 
+        "com.endlessm.diy-screenshot2.jpg", 
+        "com.endlessm.diy-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.diy-thumb.jpg", 
     "subtitle": "Guidelines to create a wide variety of items", 
     "title": "DIY", 
@@ -701,7 +734,7 @@
     "application-id": "com.endlessm.entrepreneurship", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.entrepreneurship-splash.jpeg", 
     "description": "Interested in new ventures? Want to launch your own business? This app will help you learn about business plans and financing. You can also discover emerging entrepreneurial ideas, market trends, and the best practices to improve operations. Access these materials and transform your business ideas into reality.", 
     "displayShape": "b1", 
     "exec": "eos-entrepreneurship", 
@@ -713,8 +746,19 @@
       "Guatemala", 
       "Mexico"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.entrepreneurship-screenshot1.jpg", 
+        "com.endlessm.entrepreneurship-screenshot2.jpg", 
+        "com.endlessm.entrepreneurship-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.entrepreneurship-screenshot1.jpg", 
+        "com.endlessm.entrepreneurship-screenshot2.jpg", 
+        "com.endlessm.entrepreneurship-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.entrepreneurship-thumb.jpg", 
     "subtitle": "Business advice for your inner entrepreneur", 
     "title": "Entrepreneurship", 
@@ -790,7 +834,7 @@
     "application-id": "com.endlessm.fitness", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.fitness-splash.jpeg", 
     "description": "We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. This app even features guidance on how to live a healthy lifestyle.", 
     "displayShape": "b1", 
     "exec": "eos-fitness", 
@@ -801,8 +845,19 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.fitness-screenshot1.jpg", 
+        "com.endlessm.fitness-screenshot2.jpg", 
+        "com.endlessm.fitness-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.fitness-screenshot1.jpg", 
+        "com.endlessm.fitness-screenshot2.jpg", 
+        "com.endlessm.fitness-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.fitness-thumb.jpg", 
     "subtitle": "Tips for excercise and healthy living", 
     "title": "Fitness", 
@@ -912,7 +967,7 @@
     "application-id": "com.endlessm.handicrafts", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.handicrafts-splash.jpeg", 
     "description": "With these guides and your creativity you will soon be making the most beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave textiles, and more. You can even learn how to recycle materials from around your home to turn them into new and amazing handicrafts. Use this app to get started on a new creative project!", 
     "displayShape": "b1", 
     "exec": "eos-handicrafts", 
@@ -924,8 +979,19 @@
       "Guatemala", 
       "Mexico"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.handicrafts-screenshot1.jpg", 
+        "com.endlessm.handicrafts-screenshot2.jpg", 
+        "com.endlessm.handicrafts-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.handicrafts-screenshot1.jpg", 
+        "com.endlessm.handicrafts-screenshot2.jpg", 
+        "com.endlessm.handicrafts-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.handicrafts-thumb.jpg", 
     "subtitle": "Learn how to make the most beautiful handicrafts", 
     "title": "Handicrafts", 
@@ -968,7 +1034,7 @@
     "application-id": "com.endlessm.healthy-living", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.healthy-living-splash.jpeg", 
     "description": "How can you adopt a healthy lifestlye? There is much you can do for yourself and your family. This app gives you access to fitness routines, healthy recipes, nutrition facts, and nearby doctors. Get started today and pursue a healthier living!", 
     "displayShape": "b1", 
     "exec": "eos-healthy-living", 
@@ -979,8 +1045,19 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.healthy-living-screenshot1.jpg", 
+        "com.endlessm.healthy-living-screenshot2.jpg", 
+        "com.endlessm.healthy-living-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.healthy-living-screenshot1.jpg", 
+        "com.endlessm.healthy-living-screenshot2.jpg", 
+        "com.endlessm.healthy-living-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.healthy-living-thumb.jpg", 
     "subtitle": "Discover what it takes to stay healthy", 
     "title": "Healthy Living", 
@@ -1155,7 +1232,7 @@
     "application-id": "com.endlessm.mayan-languages", 
     "category": "Education", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.mayan-languages-splash.jpeg", 
     "description": "Have you ever wanted to study and learn a Mayan language? Whether you're a beginner or are more advanced, this app contains many great resources. Here you can find stories, dictionaries, and grammar resources in different Mayan languages. Get ready to immerse yourself in Mayan culture through all the history and stories you'll find here!", 
     "displayShape": "b1", 
     "exec": "eos-mayan-languages", 
@@ -1167,9 +1244,18 @@
       "Guatemala"
     ], 
     "screenshots": {
-      "es": []
+      "C": [
+        "com.endlessm.mayan-languages-screenshot1.jpg", 
+        "com.endlessm.mayan-languages-screenshot2.jpg", 
+        "com.endlessm.mayan-languages-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.mayan-languages-screenshot1.jpg", 
+        "com.endlessm.mayan-languages-screenshot2.jpg", 
+        "com.endlessm.mayan-languages-screenshot3.jpg"
+      ]
     }, 
-    "splash-screen-type": "Default", 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.mayan-languages-thumb.jpg", 
     "subtitle": "Stories and dictionaries in Mayan languages", 
     "title": "Mayan Languages", 
@@ -1179,7 +1265,7 @@
     "application-id": "com.endlessm.mental-health", 
     "category": "Resources", 
     "core": false, 
-    "custom-splash-screen": "", 
+    "custom-splash-screen": "com.endlessm.mental-health-splash.jpeg", 
     "description": "Have you ever wanted to be more confident? Feel less stressed? Be more efficient and productive? Now is your chance! Use this app to learn tips and tricks for self improvement. Read to discover how your mind works and how you can better your life.", 
     "displayShape": "b1", 
     "exec": "eos-mental-health", 
@@ -1191,8 +1277,19 @@
       "Guatemala", 
       "Mexico"
     ], 
-    "screenshots": [], 
-    "splash-screen-type": "Default", 
+    "screenshots": {
+      "C": [
+        "com.endlessm.mental-health-screenshot1.jpg", 
+        "com.endlessm.mental-health-screenshot2.jpg", 
+        "com.endlessm.mental-health-screenshot3.jpg"
+      ], 
+      "es": [
+        "com.endlessm.mental-health-screenshot1.jpg", 
+        "com.endlessm.mental-health-screenshot2.jpg", 
+        "com.endlessm.mental-health-screenshot3.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Custom", 
     "square_img": "com.endlessm.mental-health-thumb.jpg", 
     "subtitle": "Tips and tricks for living a healthier, happier life", 
     "title": "Mental Health", 
@@ -1389,6 +1486,32 @@
     "square_img": "com.endlessm.programming-thumb.jpg", 
     "subtitle": "Learn to create your own video games", 
     "title": "Coding Fun", 
+    "tryexec": ""
+  }, 
+  {
+    "application-id": "com.endlessm.reader-dogfood-en", 
+    "category": "Resources", 
+    "core": false, 
+    "custom-splash-screen": "", 
+    "description": "This is a test application for internal Endless use only.", 
+    "displayShape": "b1", 
+    "exec": "eos-reader-dogfood-en", 
+    "featured_img": "", 
+    "icon": "com.endlessm.reader-dogfood-en-icon.png", 
+    "is_featured": false, 
+    "is_offline": false, 
+    "personalities": [
+      "None"
+    ], 
+    "screenshots": {
+      "C": [
+        "com.endlessm.reader-dogfood-en-screenshot1.jpg"
+      ]
+    }, 
+    "splash-screen-type": "Default", 
+    "square_img": "com.endlessm.reader-dogfood-en-thumb.png", 
+    "subtitle": "Top Blogs from Blogs of the Day at Wordpress", 
+    "title": "Wordpress Blogs", 
     "tryexec": ""
   }, 
   {
@@ -1936,7 +2059,18 @@
       "All"
     ], 
     "screenshots": {
-      "C": []
+      "C": [
+        "dropbox-screenshot1.jpg", 
+        "dropbox-screenshot2.jpg"
+      ], 
+      "es": [
+        "dropbox-screenshot1.jpg", 
+        "dropbox-screenshot2.jpg"
+      ], 
+      "pt": [
+        "dropbox-screenshot1.jpg", 
+        "dropbox-screenshot2.jpg"
+      ]
     }, 
     "splash-screen-type": "None", 
     "square_img": "dropbox-thumb.jpg", 
@@ -2023,7 +2157,23 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "etoys-screenshot1.jpg", 
+        "etoys-screenshot2.jpg", 
+        "etoys-screenshot3.jpg"
+      ], 
+      "es": [
+        "etoys-screenshot1.jpg", 
+        "etoys-screenshot2.jpg", 
+        "etoys-screenshot3.jpg"
+      ], 
+      "pt": [
+        "etoys-screenshot1.jpg", 
+        "etoys-screenshot2.jpg", 
+        "etoys-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "etoys-thumb.jpg", 
     "subtitle": "Learn with visual programming", 
@@ -2434,7 +2584,23 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "gnome-control-center-screenshot1.jpg", 
+        "gnome-control-center-screenshot2.jpg", 
+        "gnome-control-center-screenshot3.jpg"
+      ], 
+      "es": [
+        "gnome-control-center-screenshot1.jpg", 
+        "gnome-control-center-screenshot2.jpg", 
+        "gnome-control-center-screenshot3.jpg"
+      ], 
+      "pt": [
+        "gnome-control-center-screenshot1.jpg", 
+        "gnome-control-center-screenshot2.jpg", 
+        "gnome-control-center-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "None", 
     "square_img": "gnome-control-center-thumb.jpg", 
     "subtitle": "Easily change your computer's settings", 
@@ -3841,7 +4007,12 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "openscad-screenshot1.jpg", 
+        "openscad-screenshot2.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "openscad-thumb.jpg", 
     "subtitle": "Create 3D CAD models", 
@@ -4302,7 +4473,20 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "steam-screenshot1.jpg", 
+        "steam-screenshot2.jpg"
+      ], 
+      "es": [
+        "steam-screenshot1.jpg", 
+        "steam-screenshot2.jpg"
+      ], 
+      "pt": [
+        "steam-screenshot1.jpg", 
+        "steam-screenshot2.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "steam-thumb.jpg", 
     "subtitle": "Online store with popular video games", 
@@ -4768,7 +4952,18 @@
     "personalities": [
       "All"
     ], 
-    "screenshots": [], 
+    "screenshots": {
+      "C": [
+        "yelp-screenshot1.jpg", 
+        "yelp-screenshot2.jpg", 
+        "yelp-screenshot3.jpg"
+      ], 
+      "es": [
+        "yelp-screenshot1.jpg", 
+        "yelp-screenshot2.jpg", 
+        "yelp-screenshot3.jpg"
+      ]
+    }, 
     "splash-screen-type": "Default", 
     "square_img": "yelp-thumb.jpg", 
     "subtitle": "Learn how to use Endless", 
