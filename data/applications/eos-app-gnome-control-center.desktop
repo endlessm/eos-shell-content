@@ -9,6 +9,7 @@ Comment=Easily change your computer's settings
 Comment[ar]=قُم بتغيير إعدادات جهاز الكمبيوتر الخاص بِك بِسهولة
 Comment[es]=Configura tu computadora fácilmente
 Comment[fr]=Changez facilement vos paramètres d'ordinateur
+Comment[pt]=Mude facilmente as configurações do seu computador
 Type=Application
 Exec=gnome-control-center --overview
 Icon=eos-app-gnome-control-center

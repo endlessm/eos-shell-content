@@ -9,6 +9,7 @@ Comment=Create 3D CAD models
 Comment[ar]=قُم بإنشاء نماذِج للتصميم ثُلاثي الأبعاد بمساعدة الكمبيوتر
 Comment[es]=Crea modelos CAD en 3D
 Comment[fr]=Créer des modèles 3D CAD
+Comment[pt]=Crie modelos 3D em CAD
 Type=Application
 Exec=openscad %f
 Icon=eos-app-openscad
