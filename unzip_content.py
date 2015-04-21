@@ -280,6 +280,15 @@ if __name__ == '__main__':
         with open(target, 'w') as outfile:
             json.dump(json_data, outfile, indent=2, sort_keys='True')
 
+    # Hack: Make a copy of the global links for those personalities
+    # that don't yet have customized local links
+    source_personality = 'Global'
+    target_personalities = ['Arabic', 'Haiti']
+    source = os.path.join(target_dir, source_personality + '.json')
+    for target_personality in target_personalities:
+        target = os.path.join(target_dir, target_personality + '.json')
+        shutil.copy(source, target)
+
     # Copy the link images to the content folder
     # resized/cropped to 90x90
     source_dir = os.path.join(UNZIP_DIR, 'links', 'images')
