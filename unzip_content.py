@@ -5,7 +5,7 @@
 # for the 'convert' command
 
 # This script also requires polib
-# (sudo apt-get install python-polib)
+# (sudo apt-get install python3-polib)
 # for the imported translate_desktop_files
 
 # To use this script, first log into eoscms.parafernalia.net.br
