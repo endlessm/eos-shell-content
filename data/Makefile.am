@@ -10,7 +10,7 @@ desktops_DATA = \
 foldersdir = $(datadir)/desktop-directories
 folders_DATA = $(wildcard folders/*.directory)
 
-settingsdir = $(datadir)/EndlessOS/personality-defaults
+settingsdir = $(datadir)/EndlessOS/language-defaults
 settings_DATA = $(wildcard settings/icon-grid-*.json)
 
 do_subst = sed \
