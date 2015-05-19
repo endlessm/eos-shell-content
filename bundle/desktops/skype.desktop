@@ -4,12 +4,12 @@ Name=Skype
 Name[ar]=سكايب
 Name[es]=Skype
 Name[fr]=Skype
-Name[pt]=Skype
+Name[pt_BR]=Skype
 Comment=Free internet calls with cheap rates to phones
 Comment[ar]=مكالمات عبر الإنترنت مجانية و أجور اتصال رخيصة إلى الهواتف
 Comment[es]=Haz llamadas gratuitas por internet
 Comment[fr]=Appels par internet gratuit avec des tarifs bas pour les téléphones
-Comment[pt]=Faça chamadas gratuitas pela internet e ligações baratas para telefones e celulares.
+Comment[pt_BR]=Faça chamadas gratuitas pela internet e ligações baratas para telefones e celulares.
 Type=Application
 Exec=skype --resources=/endless/skype/share/skype %U
 Icon=eos-app-skype
