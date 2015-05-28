@@ -5,12 +5,12 @@
 // in the user's Documents folder
 //
 // Usage:
-//   eos-save-icon-grid [default | <personality>]
+//   eos-save-icon-grid [default | <locale>]
 //
 // For example:
-//   eos-save-icon-grid            -- prompts user to select personality
-//   eos-save-icon-grid default    -- save as icon-grid-default.json
-//   eos-save-icon-grid Brazil     -- save as icon-grid-Brazil.json
+//   eos-save-icon-grid        -- prompts user to select locale
+//   eos-save-icon-grid C      -- save as icon-grid-C.json
+//   eos-save-icon-grid es_GT  -- save as icon-grid-es_GT.json
 
 const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
@@ -24,7 +24,7 @@ const SCHEMA_KEY = 'icon-grid-layout';
 const selectPersonality = function() {
     let command = 'zenity --list --title="Desktop configuration to save" --text="Select an option and hit OK" --radiolist --hide-header --column=button --column=selection TRUE default';
 
-    let path = INSTALL_PATH + '/EndlessOS/personality-defaults';
+    let path = INSTALL_PATH + '/EndlessOS/language-defaults';
     let dir = Gio.File.new_for_path(path);
 
     let files;
@@ -32,7 +32,7 @@ const selectPersonality = function() {
         files = dir.enumerate_children('standard::name,standard::type',
                                        Gio.FileQueryInfoFlags.NONE, null);
     } catch (e) {
-        logError(e, 'Missing personality configuration files in ' + path);
+        logError(e, 'Missing language configuration files in ' + path);
         return null;
     }
 
@@ -40,11 +40,11 @@ const selectPersonality = function() {
 
     while (file) {
         let name = file.get_name();
-        // Example: icon-grid-Brazil.json
+        // Example: icon-grid-es_GT.json
         let tokens = name.match(/^icon-grid-(.*).json$/);
         if (tokens !== null) {
             let option = tokens[1];
-            if (option != 'default') {
+            if (option != 'C') {
                 command += ' FALSE ' + option;
             }
         }
@@ -62,40 +62,40 @@ const selectPersonality = function() {
     const STATUS = 3;
     const SELECTION = 1;
     let status = response[STATUS];
-    let personality;
+    let locale;
     if (status == 0) {
         // User hit OK
         let selection = response[SELECTION];
         // Convert to string and trim the new line
-        personality = String(selection).trim();
+        locale = String(selection).trim();
     } else {
         // User canceled
-        personality = null;
+        locale = null;
     }
-    return personality;
+    return locale;
 }
     
-const getPersonality = function(args) {
-    let personality;
+const getLocale = function(args) {
+    let locale;
     if (args.length == 0) {
-        personality = selectPersonality();
+        locale = selectLocale();
     } else if (args.length == 1) {
-        personality = args[0];
+        locale = args[0];
     } else {
         throw new Error('Invalid command-line: only 0 or 1 argument allowed');
     }
-    return personality;
+    return locale;
 }
 
-let personality = getPersonality(ARGV);
+let locale = getLocale(ARGV);
 
-if (personality) {
+if (locale) {
     let settings = new Gio.Settings({ schema: SHELL_SCHEMA });
     let layout = settings.get_value(SCHEMA_KEY);
     let jsonLayout = Json.gvariant_serialize(layout);
     let jsonGenerator = new Json.Generator({ root: jsonLayout,
                                              pretty: true });
     let file = GLib.build_filenamev([SAVE_PATH,
-                                     'icon-grid-' + personality + '.json']);
+                                     'icon-grid-' + locale + '.json']);
     jsonGenerator.to_file(file);
 }
