@@ -14,38 +14,15 @@
 const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
 
-const INSTALL_PATH = '@DATA_DIR@';
 const PERSONALITY_PATH ='@SYSCONF_DIR@/EndlessOS';
 
 const selectPersonality = function() {
     let command = 'zenity --list --title="Desktop configuration" --text="Select an option and hit OK\n(Cancel to keep existing configuration)" --radiolist --hide-header --column=button --column=selection TRUE default';
+    let names = ['Arabic', 'Global', 'Spanish', 'Guatemala', 'Haiti', 'Brazil'];
 
-    let path = INSTALL_PATH + '/EndlessOS/personality-defaults';
-    let dir = Gio.File.new_for_path(path);
-
-    let files;
-    try {
-        files = dir.enumerate_children('standard::name,standard::type',
-                                       Gio.FileQueryInfoFlags.NONE, null);
-    } catch (e) {
-        logError(e, 'Missing personality configuration files in ' + path);
-        return null;
-    }
-
-    let file = files.next_file(null);
-
-    while (file) {
-        let name = file.get_name();
-        // Example: icon-grid-Brazil.json
-        let tokens = name.match(/^icon-grid-(.*).json$/);
-        if (tokens !== null) {
-            let option = tokens[1];
-            if (option != 'default') {
-                command += ' FALSE ' + option;
-            }
-        }
-        file = files.next_file(null);
-    }
+    names.forEach(function(name) {
+        command += ' FALSE ' + name;
+    });
 
     let response;
     try {
