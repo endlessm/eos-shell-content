@@ -19,3 +19,10 @@ Architecture: all
 Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
+
+Package: eos-shell-content-dev
+Architecture: all
+Priority: optional
+Description: Endless OS Shell Content installation package - dev files
+ This package will install the content to build bundles for the app
+ store.
