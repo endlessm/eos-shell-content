@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+# Get the current appstore.zip. To regenerate the content, go to
+# http://cms.endlessm.com/admin/generator/appstore
+wget http://cms.endlessm.com/sites/default/files/jsons/zip/appstore.zip
