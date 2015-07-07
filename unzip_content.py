@@ -80,15 +80,13 @@ def get_icon_path(linkJSON):
 
 if __name__ == '__main__':
 
-    splash_dir = SPLASH_DIR
-
-    if len(sys.argv) > 1:
-        if len(sys.argv) == 3 and sys.argv[1] == '--splashdir':
-            splash_dir = sys.argv[2]
-        else:
-            print('Usage: generate_desktop_files.py [--splashdir SPLASHDIR]')
-            print('where SPLASHDIR is the folder where the splash images are installed')
-            print('e.g. generate_desktop_files.py --splashdir /usr/share/EndlessOS/splash')
+    from argparse import ArgumentParser
+    parser = ArgumentParser(description='Generate desktop files')
+    parser.add_argument('--splashdir', default=SPLASH_DIR,
+                        help='directory where the splash images are installed')
+    parser.add_argument('zipfile', nargs='?', default=ZIP_FILENAME,
+                        help='zip file to unpack')
+    args = parser.parse_args()
 
     # Remove the existing unzipped and content dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)
@@ -100,7 +98,7 @@ if __name__ == '__main__':
     # to the app store content directory
 
     # Unzip the file
-    zfile = zipfile.ZipFile(ZIP_FILENAME)
+    zfile = zipfile.ZipFile(args.zipfile)
     zfile.extractall(UNZIP_DIR)
 
     # For now, we need to convert specific locales to personalities,
@@ -344,7 +342,7 @@ if __name__ == '__main__':
                     id = 'eos-link-' + link_data['linkId']
                     if id not in desktop_objects.keys():
                         desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
-                                                         splash_dir, lang)
+                                                         args.splashdir, lang)
                     else:
                         name = link_data['linkName']
                         desktop_objects[id].append_localized_name(lang, name)
@@ -358,7 +356,7 @@ if __name__ == '__main__':
     for app_data in apps_json:
         id = app_data['application-id']
         desktop_objects[id] = AppObject(app_data, APPS_DIR, BUNDLE_APPS_DIR,
-                                        splash_dir)
+                                        args.splashdir)
 
     # For now, the folders.json is not in the CMS output,
     # so we hard-code it in the directory above the processed content
