@@ -26,3 +26,7 @@ CLEANFILES += $(man_MANS)
 POD2MAN_ARGS = --utf8 -c "$(PACKAGE_NAME)" -r "$(PACKAGE_VERSION)"
 dh_eoscontent.1: dh_eoscontent
 	$(AM_V_GEN)$(POD2MAN) $(POD2MAN_ARGS) $< $@
+
+# Debhelper sequence file
+debhelperdir = $(datadir)/perl5/Debian/Debhelper/Sequence
+dist_debhelper_DATA = eoscontent.pm
