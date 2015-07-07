@@ -30,3 +30,7 @@ dh_eoscontent.1: dh_eoscontent
 # Debhelper sequence file
 debhelperdir = $(datadir)/perl5/Debian/Debhelper/Sequence
 dist_debhelper_DATA = eoscontent.pm
+
+# CDBS rules file
+cdbsdir = $(datadir)/cdbs/1/rules
+dist_cdbs_DATA = eoscontent.mk
