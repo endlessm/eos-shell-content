@@ -1,0 +1,110 @@
+#!/usr/bin/python3
+# -*- Mode: Python; indent-tabs-mode: nil -*-
+
+from configparser import ConfigParser
+import json
+import os
+import shutil
+import sys
+
+CONTENT_FILE = '/usr/share/application-store/Default/apps/content.json'
+
+class NoAppException(Exception):
+    def __init__(self, appid):
+        self.appid = appid
+    def __str__(self):
+        return 'App ID "{0}" not found in {1}'.format(self.appid, CONTENT_FILE)
+
+class NoDesktopException(Exception):
+    def __init__(self, appid, desktop):
+        self.appid = appid
+        self.desktop = desktop
+    def __str__(self):
+        return 'No desktop file for app {0} found at "{1}"'.format(self.appid,
+                                                                   self.desktop)
+
+class App(object):
+    # Fields that are present in CMS, but preferred from upstream
+    IGNORED_FIELDS = ['Exec', 'TryExec', 'Categories']
+
+    def __init__(self, appid, verbose=False):
+        self.appid = appid
+        self.verbose = verbose
+        self.content = None
+
+        # See if this appid is in content.json
+        self.verbose_print('Checking for app ID', self.appid, 'in',
+                           CONTENT_FILE)
+        with open(CONTENT_FILE) as cf:
+            content = json.load(cf)
+            for app in content:
+                if app['application-id'] == self.appid:
+                    self.content = app
+                    break
+
+        if self.content is None:
+            raise NoAppException(self.appid)
+
+    def verbose_print(self, *args, **kwargs):
+        if self.verbose:
+            print(*args, file=sys.stderr, **kwargs)
+
+    def merge_desktop_file(self, outpath, inplace=False):
+        # Find the content desktop file
+        inpath = '/usr/share/eos-shell-content/bundle/desktops/' + \
+            self.appid + '.desktop'
+        if not os.path.exists(inpath):
+            raise NoDesktopException(self.appid, inpath)
+        self.verbose_print('Using input desktop file', inpath)
+
+        # Read the desktop files. We have to override the optionxform
+        # method so that it doesn't lowercase all the options
+        indesktop = ConfigParser()
+        indesktop.optionxform = str
+        with open(inpath, encoding='utf-8') as df:
+            indesktop.read_file(df)
+        outdesktop = ConfigParser()
+        outdesktop.optionxform = str
+        with open(outpath, encoding='utf-8') as df:
+            outdesktop.read_file(df)
+
+        inentry = indesktop['Desktop Entry']
+        outentry = outdesktop['Desktop Entry']
+
+        # Copy fields from the content file, with some exceptions
+        for field in inentry.keys():
+            if field in self.IGNORED_FIELDS:
+                # Prefer these from the upstream source
+                pass
+            else:
+                # Copy the field
+                outentry[field] = inentry[field]
+
+        # Add the X-Endless-Merged field
+        outentry['X-Endless-Merged'] = 'true'
+
+        # Output the desktop file
+        if inplace:
+            self.verbose_print('Updating', outpath)
+            with open(outpath + '.tmp', 'w', encoding='utf-8') as tmp:
+                outdesktop.write(tmp, space_around_delimiters=False)
+            shutil.copymode(outpath, outpath + '.tmp')
+            os.rename(outpath + '.tmp', outpath)
+        else:
+            self.verbose_print('Updated desktop file follows:')
+            outdesktop.write(sys.stdout, space_around_delimiters=False)
+
+if __name__ == '__main__':
+    from argparse import ArgumentParser
+
+    parser = ArgumentParser(description='Merge Endless content into files')
+    parser.add_argument('-i', '--in-place', action='store_true',
+                        help='Update desktop file in place')
+    parser.add_argument('-v', '--verbose', action='store_true',
+                        help='Output verbose messages')
+    parser.add_argument('appid', help='App ID to merge')
+    parser.add_argument('desktop', help='Desktop file to merge')
+    args = parser.parse_args()
+
+    app = App(args.appid, args.verbose)
+    app.merge_desktop_file(args.desktop, args.in_place)

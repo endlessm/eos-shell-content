@@ -14,3 +14,7 @@ extract_content_strings_CFLAGS = \
 extract_content_strings_LDADD = \
 	$(EOS_SHELL_CONTENT_LIBS) \
 	$(NULL)
+
+dist_bin_SCRIPTS = \
+	eos-content-merge \
+	$(NULL)
