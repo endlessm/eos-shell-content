@@ -10,7 +10,8 @@ Build-Depends: cdbs (>= 0.4.90~),
                pkg-config,
                libjson-glib-dev,
                libglib2.0-dev,
-               libgtk2.0-bin
+               libgtk2.0-bin,
+               perl
 Standards-Version: 3.9.2
 Homepage: http://www.endlessm.com
 

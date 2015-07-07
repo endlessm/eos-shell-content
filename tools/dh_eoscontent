@@ -1,0 +1,93 @@
+#!/usr/bin/perl -w
+# -*- mode: Perl; perl-indent-level: 8; indent-tabs-mode: t -*-
+
+=head1 NAME
+
+dh_eoscontent - merge Endless content into packages
+
+=cut
+
+use strict;
+use Debian::Debhelper::Dh_Lib;
+use JSON;
+
+=head1 SYNOPSIS
+
+B<dh_eoscontent> [S<I<debhelper options>>]
+
+=head1 DESCRIPTION
+
+B<dh_eoscontent> is a debhelper program that merges content from the
+eos-shell-content-dev packages into the package. Currently this applies
+only to desktop files.
+
+=cut
+
+init();
+
+# Parse out content.json
+my $filename = '/usr/share/application-store/Default/apps/content.json';
+my $json_text = do {
+	open(CONTENT, "<:encoding(UTF-8)", $filename) ||
+	    error("cannot read $filename: $!\n");
+	local $/;
+	<CONTENT>;
+};
+my $content = JSON->new->utf8->decode($json_text);
+
+sub app_content {
+	my $app_id=shift;
+	my $package=shift;
+
+	for my $app (@$content) {
+		return $app if $app_id eq $app->{'application-id'};
+	}
+}
+
+sub app_desktop_file {
+	my $app_id=shift;
+	my $prefix=shift;
+	my $tmp=shift;
+
+	# See if this package has the desktop file
+	my $desktop = $tmp . $prefix . '/share/applications/' . $app_id
+	    . '.desktop';
+	return $desktop if (-e $desktop);
+}
+
+foreach my $package (@{$dh{DOPACKAGES}}) {
+	my $tmp=tmpdir($package);
+	my $app_id=package_eos_app_id($package);
+	my $prefix='/usr';
+	my $app_data;
+	my $desktop;
+
+	next if not defined $app_id;
+
+	$app_data = app_content($app_id, $package);
+	next if not $app_data;
+	verbose_print("Found content for app $app_id");
+
+	if (get_buildprofile("eos-app")) {
+		# Get the app prefix.
+		$prefix = "/endless/" . $app_id;
+	}
+
+	$desktop = app_desktop_file($app_id, $prefix, $tmp);
+	next if not $desktop;
+
+	verbose_print("Updating desktop file $desktop");
+	doit("eos-content-merge -i $app_id $desktop");
+}
+
+=head1 SEE ALSO
+
+L<debhelper(7)>
+
+This program is a part of eos-shell-content.
+
+=head1 AUTHOR
+
+Dan Nicholson <nicholson@endlessm.com>
+
+=cut

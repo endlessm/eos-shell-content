@@ -69,6 +69,12 @@ if test -z "$GTK_UPDATE_ICON_CACHE"; then
     AC_MSG_ERROR([Could not find gtk-update-icon-cache])
 fi
 
+dnl For generating dh_eoscontent man page
+AC_PATH_PROG([POD2MAN], [pod2man])
+if test -z "$POD2MAN"; then
+    AC_MSG_ERROR([Could not find pod2man])
+fi
+
 AC_CONFIG_FILES([
         Makefile
         tools/Makefile
