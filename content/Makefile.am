@@ -39,25 +39,13 @@ default_links_images := $(shell cd $(srcdir); for file in `find Default/links/im
 
 EXTRA_DIST += $(default_links_images)
 
-# extract-content-strings is a small utility that runs on the build system
-extract_content_strings_sources = $(top_srcdir)/tools/extract-content-strings.c
-extract_content_strings_cflags = $(EOS_SHELL_CONTENT_CFLAGS) $(MAINTAINER_CFLAGS)
-extract_content_strings_ldadd = $(EOS_SHELL_CONTENT_LIBS)
-
-extract-content-strings$(BUILD_EXEEXT): $(extract_content_strings_sources)
-	@rm -f extract-content-strings$(BUILD_EXEEXT)
-	$(AM_V_CCLD)$(CC) $(AM_CFLAGS) $(extract_content_strings_cflags) $^ $(extract_content_strings_ldadd) -o $@
-
-EXTRA_DIST += $(extract_content_strings_sources)
-DISTCLEANFILES += extract-content-strings$(BUILD_EXEEXT)
-
 # we need to generate the json.h header because gettext does not know how
 # to extract strings from custom JSON.
 content_files = $(default_app_json) $(default_links_json) $(default_folders_json)
 content_headers = $(content_files:.json=.json.h)
-%.json.h: %.json extract-content-strings$(BUILD_EXEEXT)
+%.json.h: %.json $(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT)
 	$(AM_V_GEN) $(MKDIR_P) $(@D) && \
-	./extract-content-strings$(BUILD_EXEEXT) $< $@
+	$(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT) $< $@
 
 all-local: $(content_headers)
 

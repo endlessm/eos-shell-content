@@ -6,6 +6,7 @@ stamp-h1
 *~
 .deps/
 .libs/
+*.o
 *.gir
 *.typelib
 *.pyc

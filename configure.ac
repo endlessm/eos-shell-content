@@ -71,6 +71,7 @@ fi
 
 AC_CONFIG_FILES([
         Makefile
+        tools/Makefile
         content/Makefile
         data/Makefile
         icons/Makefile
