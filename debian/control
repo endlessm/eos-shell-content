@@ -3,10 +3,7 @@ Section: non-free/misc
 Priority: standard
 Maintainer: Endless Mobile <maintainers@endlessm.com>
 Uploaders: Roddy Shuler <roddy@endlessm.com>
-Build-Depends: cdbs (>= 0.4.90~),
-               autotools-dev,
-               debhelper (>= 0.7),
-               gnome-pkg-tools,
+Build-Depends: debhelper (>= 7),
                pkg-config,
                libjson-glib-dev,
                libglib2.0-dev,
