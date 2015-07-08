@@ -12,7 +12,8 @@ MIME_TYPES = {
 # eos-app-*.desktop files. Until we get there, we need to keep a list of
 # apps that are converted so that the desktop files don't get installed
 # in /usr/share/applications.
-CORE_CONVERTED = ['gnome-terminal']
+CORE_CONVERTED = ['gnome-terminal', 'chromium-browser', 'eos-file-manager',
+                  'gnome-control-center']
 
 class DesktopObject(object):
 
