@@ -25,7 +25,7 @@ class NoDesktopException(Exception):
 
 class App(object):
     # Fields that are present in CMS, but preferred from upstream
-    IGNORED_FIELDS = ['Exec', 'TryExec', 'Categories']
+    IGNORED_FIELDS = ['Exec', 'TryExec', 'MimeType', 'Categories']
 
     def __init__(self, appid, verbose=False):
         self.appid = appid
