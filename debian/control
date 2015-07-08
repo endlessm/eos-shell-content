@@ -14,6 +14,7 @@ Homepage: http://www.endlessm.com
 
 Package: eos-shell-content
 Architecture: all
+Depends: ${misc:Depends}
 Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
@@ -21,6 +22,12 @@ Description: Endless OS Shell Content installation package
 Package: eos-shell-content-dev
 Architecture: all
 Priority: optional
+Depends: eos-shell-content (= ${binary:Version}),
+         ${misc:Depends},
+         ${perl:Depends},
+         debhelper,
+         libjson-perl,
+         python3
 Description: Endless OS Shell Content installation package - dev files
  This package will install the content to build bundles for the app
  store.
