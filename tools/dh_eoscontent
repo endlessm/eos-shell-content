@@ -38,9 +38,18 @@ my $content = JSON->new->utf8->decode($json_text);
 sub app_content {
 	my $app_id=shift;
 	my $package=shift;
+	my $alt_id;
+
+	# If this app ID has a language suffix, also try with the suffix
+	# removed.
+	if ($app_id =~ /(.*)-([a-z][a-z](_[A-Z][A-Z])?)$/) {
+		$alt_id = $1;
+		verbose_print("Also trying alternate ID $alt_id");
+	}
 
 	for my $app (@$content) {
 		return $app if $app_id eq $app->{'application-id'};
+		return $app if $alt_id eq $app->{'application-id'};
 	}
 }
 
@@ -58,6 +67,7 @@ sub app_desktop_file {
 foreach my $package (@{$dh{DOPACKAGES}}) {
 	my $tmp=tmpdir($package);
 	my $app_id=package_eos_app_id($package);
+	my $content_id;
 	my $prefix='/usr';
 	my $app_data;
 	my $desktop;
@@ -66,7 +76,8 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 
 	$app_data = app_content($app_id, $package);
 	next if not $app_data;
-	verbose_print("Found content for app $app_id");
+	$content_id = $app->{'application-id'};
+	verbose_print("Found content for app $content_id");
 
 	if (get_buildprofile("eos-app")) {
 		# Get the app prefix.
@@ -77,7 +88,7 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	next if not $desktop;
 
 	verbose_print("Updating desktop file $desktop");
-	doit("eos-content-merge -i $app_id $desktop");
+	doit("eos-content-merge -i $content_id $desktop");
 }
 
 =head1 SEE ALSO

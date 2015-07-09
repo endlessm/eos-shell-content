@@ -4,6 +4,7 @@
 from configparser import ConfigParser
 import json
 import os
+import re
 import shutil
 import sys
 
@@ -37,9 +38,24 @@ class App(object):
                            CONTENT_FILE)
         with open(CONTENT_FILE) as cf:
             content = json.load(cf)
+
+            # If this app ID has a language suffix, also try with the
+            # suffix removed
+            altid = None
+            langmatch = re.search('(.*)-([a-z][a-z](_[A-Z][A-Z])?)$',
+                                  self.appid)
+            if langmatch:
+                altid = langmatch.group(1)
+                self.verbose_print('Also trying alternate ID', altid)
+
             for app in content:
-                if app['application-id'] == self.appid:
+                content_id = app['application-id']
+                if content_id in [self.appid, altid]:
                     self.content = app
+                    if content_id == altid:
+                        self.appid = altid
+                        self.verbose_print('Using alternate app ID',
+                                           self.appid)
                     break
 
         if self.content is None:
