@@ -12,7 +12,7 @@ MIME_TYPES = {
 CORE_CONVERTED = ['gnome-terminal', 'chromium-browser', 'eos-file-manager',
                   'gnome-control-center', 'libreoffice-calc',
                   'libreoffice-impress', 'libreoffice-writer', 'rhythmbox',
-                  'yelp', 'brasero', 'cheese', 'empathy']
+                  'yelp', 'brasero', 'cheese', 'empathy', 'evolution']
 
 class DesktopObject(object):
 
