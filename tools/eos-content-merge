@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- Mode: Python; indent-tabs-mode: nil -*-
 
+from collections import OrderedDict
 from configparser import ConfigParser
 import json
 import os
@@ -99,16 +100,24 @@ class App(object):
         # Add the X-Endless-Merged field
         outentry['X-Endless-Merged'] = 'true'
 
+        # Create a new desktop file with the keys of the desktop entry
+        # sorted
+        newdesktop = ConfigParser(interpolation=None)
+        newdesktop.optionxform = str
+        newdesktop['Desktop Entry'] = OrderedDict(sorted(outentry.items(),
+                                                         key=lambda t: t[0]))
+        newdesktop.read_dict(outdesktop)
+
         # Output the desktop file
         if inplace:
             self.verbose_print('Updating', outpath)
             with open(outpath + '.tmp', 'w', encoding='utf-8') as tmp:
-                outdesktop.write(tmp, space_around_delimiters=False)
+                newdesktop.write(tmp, space_around_delimiters=False)
             shutil.copymode(outpath, outpath + '.tmp')
             os.rename(outpath + '.tmp', outpath)
         else:
             self.verbose_print('Updated desktop file follows:')
-            outdesktop.write(sys.stdout, space_around_delimiters=False)
+            newdesktop.write(sys.stdout, space_around_delimiters=False)
 
 if __name__ == '__main__':
     from argparse import ArgumentParser
