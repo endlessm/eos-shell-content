@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Spreadsheet
+Name[ar]=جدول بيانات
+Name[es]=Hoja de cálculo
+Name[fr]=Tableur
+Name[pt_BR]=Planilha
+Comment=A spreadsheet program with many functions
+Comment[ar]=برنامج جداول البيانات مع العديد من الوظائف
+Comment[es]=Funciones avanzadas para calcular lo que necesites
+Comment[fr]=Un programme de tableur avec de nombreuses fonctions
+Comment[pt_BR]=Programa de planilhas com diversas funções avançadas
+Type=Application
+Exec=libreoffice --calc %U
+Icon=eos-app-libreoffice-calc
+Categories=Utility;
+X-Endless-LaunchMaximized=true
