@@ -11,7 +11,7 @@ MIME_TYPES = {
 # in /usr/share/applications.
 CORE_CONVERTED = ['gnome-terminal', 'chromium-browser', 'eos-file-manager',
                   'gnome-control-center', 'libreoffice-calc',
-                  'libreoffice-impress', 'libreoffice-writer']
+                  'libreoffice-impress', 'libreoffice-writer', 'rhythmbox']
 
 class DesktopObject(object):
 
