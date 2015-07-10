@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Presentation
+Name[ar]=العرض التقديمي
+Name[es]=Presentaciones
+Name[fr]=Présentation
+Name[pt_BR]=Apresentação
+Comment=Create great presentations with this easy-to-use app
+Comment[ar]=جهز عرضاً تقديمياً رائعاً بإستخدام هذا التطبيق السهل
+Comment[es]=Crea presentaciones espectaculares
+Comment[fr]=Créez de superbes présentation avec cette application facile à utiliser
+Comment[pt_BR]=Faz apresentações com modelos pré-definidos, arte, efeitos especiais e ferramentas de desenho especializadas
+Type=Application
+Exec=libreoffice --impress %U
+Icon=eos-app-libreoffice-impress
+Categories=Utility;
+X-Endless-LaunchMaximized=true

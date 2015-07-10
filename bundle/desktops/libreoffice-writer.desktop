@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Writer
+Name[ar]=الكاتب
+Name[es]=Escritor
+Name[fr]=Écriture
+Name[pt_BR]=Redator
+Comment=Free, similar to & compatible with Microsoft Word
+Comment[ar]=مجاني و متشابه و متوافق مع مايكروسوفت وورد
+Comment[es]=Parecido a y compatible con Microsoft Word, pero gratis
+Comment[fr]=Gratuit, similaire et compatible à Microsoft Word
+Comment[pt_BR]=Ferramenta de processamento de texto e editorial
+Type=Application
+Exec=libreoffice --writer %U
+Icon=eos-app-libreoffice-writer
+Categories=Utility;
+X-Endless-LaunchMaximized=true
