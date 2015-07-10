@@ -75,11 +75,11 @@ class App(object):
 
         # Read the desktop files. We have to override the optionxform
         # method so that it doesn't lowercase all the options
-        indesktop = ConfigParser()
+        indesktop = ConfigParser(interpolation=None)
         indesktop.optionxform = str
         with open(inpath, encoding='utf-8') as df:
             indesktop.read_file(df)
-        outdesktop = ConfigParser()
+        outdesktop = ConfigParser(interpolation=None)
         outdesktop.optionxform = str
         with open(outpath, encoding='utf-8') as df:
             outdesktop.read_file(df)
