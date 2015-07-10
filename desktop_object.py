@@ -4,17 +4,6 @@ MIME_TYPES = {
     'com.endlessm.photos': 'image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;',
 }
 
-# Awful hack. Eventually, we want core apps to not use the installed
-# eos-app-*.desktop files. Until we get there, we need to keep a list of
-# apps that are converted so that the desktop files don't get installed
-# in /usr/share/applications.
-CORE_CONVERTED = ['gnome-terminal', 'chromium-browser', 'eos-file-manager',
-                  'gnome-control-center', 'libreoffice-calc',
-                  'libreoffice-impress', 'libreoffice-writer', 'rhythmbox',
-                  'yelp', 'brasero', 'cheese', 'empathy', 'evolution',
-                  'gedit', 'gnome-calculator', 'gnome-screenshot',
-                  'shotwell', 'totem']
-
 class DesktopObject(object):
 
     DESKTOP_KEYS = [
@@ -202,21 +191,14 @@ class AppObject(DesktopObject):
         'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
-    def __init__(self, data, desktop_dir, bundle_desktop_dir, splash_dir):
+    def __init__(self, data, bundle_desktop_dir, splash_dir):
         super(AppObject, self).__init__(data, splash_dir)
-        self._desktop_dir = desktop_dir
         self._bundle_desktop_dir = bundle_desktop_dir
-        if self.get('Core') and self.get('Id') not in CORE_CONVERTED:
-            self._prefix = 'eos-app-'
-        else:
-            self._prefix = ''
+        self._prefix = ''
         self._icon_prefix = 'eos-app-'
 
     def get_desktop_dir(self):
-        if self.get('Core') and self.get('Id') not in CORE_CONVERTED:
-            return self._desktop_dir
-        else:
-            return self._bundle_desktop_dir
+        return self._bundle_desktop_dir
 
 class FolderObject(DesktopObject):
 
