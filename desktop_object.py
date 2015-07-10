@@ -13,7 +13,7 @@ CORE_CONVERTED = ['gnome-terminal', 'chromium-browser', 'eos-file-manager',
                   'libreoffice-impress', 'libreoffice-writer', 'rhythmbox',
                   'yelp', 'brasero', 'cheese', 'empathy', 'evolution',
                   'gedit', 'gnome-calculator', 'gnome-screenshot',
-                  'shotwell']
+                  'shotwell', 'totem']
 
 class DesktopObject(object):
 
