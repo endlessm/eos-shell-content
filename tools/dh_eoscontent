@@ -76,7 +76,7 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 
 	$app_data = app_content($app_id, $package);
 	next if not $app_data;
-	$content_id = $app->{'application-id'};
+	$content_id = $app_data->{'application-id'};
 	verbose_print("Found content for app $content_id");
 
 	if (get_buildprofile("eos-app")) {
