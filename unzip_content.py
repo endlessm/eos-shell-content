@@ -33,7 +33,6 @@ CONTENT_DIR = 'content/Default'
 DATA_DIR = 'data'
 BUNDLE_DIR = 'bundle'
 LINKS_DIR = os.path.join(DATA_DIR, 'links')
-APPS_DIR = os.path.join(DATA_DIR, 'applications')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
@@ -310,13 +309,11 @@ if __name__ == '__main__':
 
     # Remove the existing desktop dirs, if they exist
     shutil.rmtree(LINKS_DIR, IGNORE_ERRORS)
-    shutil.rmtree(APPS_DIR, IGNORE_ERRORS)
     shutil.rmtree(BUNDLE_APPS_DIR, IGNORE_ERRORS)
     shutil.rmtree(FOLDERS_DIR, IGNORE_ERRORS)
 
     # Make the desktop dirs
     os.makedirs(LINKS_DIR)
-    os.makedirs(APPS_DIR)
     os.makedirs(BUNDLE_APPS_DIR)
     os.makedirs(FOLDERS_DIR)
 
@@ -355,7 +352,7 @@ if __name__ == '__main__':
     apps_file.close()
     for app_data in apps_json:
         id = app_data['application-id']
-        desktop_objects[id] = AppObject(app_data, APPS_DIR, BUNDLE_APPS_DIR,
+        desktop_objects[id] = AppObject(app_data, BUNDLE_APPS_DIR,
                                         args.splashdir)
 
     # For now, the folders.json is not in the CMS output,
@@ -382,7 +379,6 @@ if __name__ == '__main__':
 
     # Translate the .in files we generated
     translate_dir(LINKS_DIR)
-    translate_dir(APPS_DIR)
     translate_dir(BUNDLE_APPS_DIR)
     translate_dir(FOLDERS_DIR)
 

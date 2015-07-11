@@ -1,10 +1,8 @@
 links_desktop_files = $(wildcard links/*.desktop)
-applications_desktop_files = $(wildcard applications/*.desktop)
 
 desktopsdir = $(datadir)/applications
 desktops_DATA = \
     $(links_desktop_files) \
-    $(applications_desktop_files) \
     $(NULL)
 
 foldersdir = $(datadir)/desktop-directories
