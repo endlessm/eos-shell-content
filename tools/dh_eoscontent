@@ -49,7 +49,9 @@ sub app_content {
 
 	for my $app (@$content) {
 		return $app if $app_id eq $app->{'application-id'};
-		return $app if $alt_id eq $app->{'application-id'};
+		if (defined($alt_id)) {
+			return $app if $alt_id eq $app->{'application-id'};
+		}
 	}
 }
 
