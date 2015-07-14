@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=FOX Sports
+Name[pt]=Fox Sport
 Comment=Sports news
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://www.foxsportsla.com/gt/' 
+Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://www.foxsportsla.com/gt/' pt:'chromium-browser http://www.atpworldtour.com/' 
 Icon=eos-link-foxsports
 Categories=Sports;
