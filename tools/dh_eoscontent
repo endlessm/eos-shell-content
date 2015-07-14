@@ -8,6 +8,7 @@ dh_eoscontent - merge Endless content into packages
 =cut
 
 use strict;
+use Cwd 'abs_path';
 use Debian::Debhelper::Dh_Lib;
 use JSON;
 
@@ -63,6 +64,19 @@ sub app_desktop_file {
 	# See if this package has the desktop file
 	my $desktop = $tmp . $prefix . '/share/applications/' . $app_id
 	    . '.desktop';
+	verbose_print("Checking for desktop file $desktop");
+	if (-l $desktop) {
+		my $link = readlink($desktop);
+		if ($link =~ /^\//) {
+			# If the symlink is absolute, make it relative
+			# to the tmpdir
+			$desktop = $tmp . $link;
+		} else {
+			# Resolve it to an absolute path
+			$desktop = abs_path($desktop);
+		}
+		verbose_print("Resolved symlink to $desktop");
+	}
 	return $desktop if (-e $desktop);
 }
 
