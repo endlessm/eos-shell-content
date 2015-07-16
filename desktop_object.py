@@ -1,9 +1,5 @@
 import os
 
-MIME_TYPES = {
-    'com.endlessm.photos': 'image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;',
-}
-
 class DesktopObject(object):
 
     DESKTOP_KEYS = [
@@ -15,7 +11,6 @@ class DesktopObject(object):
         'TryExec',
         'Icon',
         'Categories',
-        'MimeType',
         'X-Endless-LaunchMaximized',
         'X-Endless-SplashBackground'
     ]
@@ -63,12 +58,6 @@ class DesktopObject(object):
                 return val
         elif key in self.defaults:
             return self.defaults[key]
-        elif key == 'MimeType':
-            id = self.get('Id')
-            if id in MIME_TYPES:
-                return MIME_TYPES[id]
-            else:
-                return None
         elif key == 'Position':
             folder = self.get('Folder')
             index = self.get('Index')
@@ -163,7 +152,6 @@ class LinkObject(DesktopObject):
         elif key == 'Exec':
             return self._get_exec()
         elif key in ['TryExec',
-                     'MimeType',
                      'X-Endless-LaunchMaximized',
                      'X-Endless-SplashBackground']:
             return None
@@ -222,7 +210,6 @@ class FolderObject(DesktopObject):
                    'Exec',
                    'TryExec',
                    'Categories',
-                   'MimeType',
                    'X-Endless-LaunchMaximized',
                    'X-Endless-SplashBackground']:
             return None
