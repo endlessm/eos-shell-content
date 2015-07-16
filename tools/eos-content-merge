@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- Mode: Python; indent-tabs-mode: nil -*-
 
+from collections import OrderedDict
 from configparser import ConfigParser
 import json
 import os
@@ -98,6 +99,24 @@ class App(object):
 
         # Add the X-Endless-Merged field
         outentry['X-Endless-Merged'] = 'true'
+
+        # Reorder the fields such that all translated "Name[..]" keys
+        # are sorted and immediately follow the original "Name" key,
+        # but maintain the original order for all other keys.
+        names = OrderedDict()
+        others = OrderedDict()
+        for item in outentry.items():
+            if item[0].startswith('Name['):
+                names.update([item])
+            else:
+                others.update([item])
+        names = OrderedDict(sorted(names.items(), key=lambda t: t[0]))
+        outentry = OrderedDict()
+        for item in others.items():
+            outentry.update([item])
+            if item[0] == 'Name':
+                outentry.update(names)
+        outdesktop['Desktop Entry'] = outentry
 
         # Output the desktop file
         if inplace:
