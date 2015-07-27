@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Family Doctor
+Name[es]=Doctor de familia
 Comment=Health information for the whole family
 Type=Application
-Exec=chromium-browser http://familydoctor.org/
+Exec=eos-exec-localized 'chromium-browser http://familydoctor.org/' es:'chromium-browser http://es.familydoctor.org/' 
 Icon=eos-link-familydoctor
 Categories=Education;Health;

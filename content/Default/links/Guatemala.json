@@ -305,11 +305,11 @@
         "linkCategory": "Sports",
         "linkDesktopPosition": null,
         "linkFolder": "news",
-        "linkIcon": "icons/",
-        "linkId": "espndeportes",
+        "linkIcon": "icons/espn.png",
+        "linkId": "espn",
         "linkName": "ESPNDeportes",
         "linkRegion": "Global",
-        "linkSmall": "images/espndeportes.jpg",
+        "linkSmall": "images/espn.jpg",
         "linkSubtitle": "El lider mundial en deportes",
         "linkThumb": "thumbs/",
         "linkThumbSize": "Horizontal rectangle",
@@ -342,6 +342,20 @@
         "linkThumb": "thumbs/",
         "linkThumbSize": "Square",
         "linkUrl": "http://www.foxsportsla.com/gt/"
+      },
+      {
+        "linkCategory": "Sports",
+        "linkDesktopPosition": null,
+        "linkFolder": "none",
+        "linkIcon": "icons/",
+        "linkId": "foxsports",
+        "linkName": "UOL Esporte T\u00eanis",
+        "linkRegion": "Brazil",
+        "linkSmall": "images/foxsports.jpg",
+        "linkSubtitle": "Not\u00edcias sobre o T\u00eanis",
+        "linkThumb": "thumbs/",
+        "linkThumbSize": "Square",
+        "linkUrl": "http://esporte.uol.com.br/tenis"
       },
       {
         "linkCategory": "Sports",
@@ -479,20 +493,6 @@
         "linkDesktopPosition": null,
         "linkFolder": "none",
         "linkIcon": "icons/",
-        "linkId": "doctordefamilia",
-        "linkName": "Doctor de familia",
-        "linkRegion": "Global",
-        "linkSmall": "images/doctordefamilia.jpg",
-        "linkSubtitle": "Informaci\u00f3n de salud para toda la familia",
-        "linkThumb": "thumbs/",
-        "linkThumbSize": "Horizontal rectangle",
-        "linkUrl": "http://es.familydoctor.org/"
-      },
-      {
-        "linkCategory": "Education and Health",
-        "linkDesktopPosition": null,
-        "linkFolder": "none",
-        "linkIcon": "icons/",
         "linkId": "duolingo",
         "linkName": "Duolingo",
         "linkRegion": "Global",
@@ -529,6 +529,20 @@
         "linkThumb": "thumbs/",
         "linkThumbSize": "Horizontal rectangle",
         "linkUrl": "http://preschool.uen.org/es/"
+      },
+      {
+        "linkCategory": "Education and Health",
+        "linkDesktopPosition": null,
+        "linkFolder": "none",
+        "linkIcon": "icons/",
+        "linkId": "familydoctor",
+        "linkName": "Doctor de familia",
+        "linkRegion": "Global",
+        "linkSmall": "images/familydoctor.jpg",
+        "linkSubtitle": "Informaci\u00f3n de salud para toda la familia",
+        "linkThumb": "thumbs/",
+        "linkThumbSize": "Horizontal rectangle",
+        "linkUrl": "http://es.familydoctor.org/"
       },
       {
         "linkCategory": "Education and Health",
@@ -815,20 +829,6 @@
   {
     "category": "Entertainment",
     "links": [
-      {
-        "linkCategory": "Entertainment",
-        "linkDesktopPosition": "20",
-        "linkFolder": "games",
-        "linkIcon": "icons/angrybirds.png",
-        "linkId": "angrybirds",
-        "linkName": "Angry Birds",
-        "linkRegion": "Global",
-        "linkSmall": "images/angrybirds.jpg",
-        "linkSubtitle": "\u00a1Un juego incre\u00edblemente divertido!",
-        "linkThumb": "thumbs/",
-        "linkThumbSize": "Square",
-        "linkUrl": "http://chrome.angrybirds.com/"
-      },
       {
         "linkCategory": "Entertainment",
         "linkDesktopPosition": null,

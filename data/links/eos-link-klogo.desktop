@@ -3,6 +3,6 @@ Version=1.0
 Name=KLogo
 Comment=Geometry and basic programming principles
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://klogoturtle.sourceforge.net/' pt:'chromium-browser http://klogoturtle.sourceforge.net/index_p.htm' 
+Exec=chromium-browser http://klogoturtle.sourceforge.net/
 Icon=eos-link-klogo
 Categories=Education;Health;
