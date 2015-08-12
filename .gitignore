@@ -23,6 +23,12 @@ stamp-h1
 /content/*.gresource.xml
 /data/eos-save-icon-grid
 /data/eos-select-personality
+/debian/eos-shell-content
+/debian/eos-shell-content-dev
+/debian/tmp
+/debian/*.debhelper
+/debian/*.log
+/debian/*.substvars
 /install-sh
 /missing
 /ABOUT-NLS
