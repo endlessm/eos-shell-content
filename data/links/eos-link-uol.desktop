@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://uol.com.br
 Icon=eos-link-uol
 Categories=News;
+X-Endless-LaunchMaximized=true

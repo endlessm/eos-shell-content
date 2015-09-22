@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.about.com/
 Icon=eos-link-aboutcom
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

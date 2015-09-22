@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.climatempo.com.br/
 Icon=eos-link-climatempo
 Categories=Local;
+X-Endless-LaunchMaximized=true

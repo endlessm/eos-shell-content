@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.nossascidades.org/
 Icon=eos-link-nossascidades
 Categories=Local;
+X-Endless-LaunchMaximized=true

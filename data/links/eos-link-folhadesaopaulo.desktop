@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.folha.uol.com.br/
 Icon=eos-link-folhadesaopaulo
 Categories=News;
+X-Endless-LaunchMaximized=true

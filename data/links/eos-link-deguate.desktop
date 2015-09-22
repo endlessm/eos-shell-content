@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.deguate.com.gt/
 Icon=eos-link-deguate
 Categories=Local;
+X-Endless-LaunchMaximized=true

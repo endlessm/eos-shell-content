@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.opcionempleo.com.gt/
 Icon=eos-link-opcionempleo
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

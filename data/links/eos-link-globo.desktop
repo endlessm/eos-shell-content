@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.globo.com/
 Icon=eos-link-globo
 Categories=News;
+X-Endless-LaunchMaximized=true

@@ -7,3 +7,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser https://espanol.yahoo.com/' pt:'chromium-browser https://br.noticias.yahoo.com/' 
 Icon=eos-link-yahoo
 Categories=News;
+X-Endless-LaunchMaximized=true

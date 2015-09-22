@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.nytimes.com/
 Icon=eos-link-nytimes
 Categories=News;
+X-Endless-LaunchMaximized=true

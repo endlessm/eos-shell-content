@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser https://web.whatsapp.com/
 Icon=eos-link-whatsapp
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

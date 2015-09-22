@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.ck12.org/student/
 Icon=eos-link-ck12
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

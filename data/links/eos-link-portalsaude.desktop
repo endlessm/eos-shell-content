@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://portalsaude.saude.gov.br/
 Icon=eos-link-portalsaude
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

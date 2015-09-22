@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.cbv.com.br/v1/superliga/
 Icon=eos-link-superliga
 Categories=Sports;
+X-Endless-LaunchMaximized=true

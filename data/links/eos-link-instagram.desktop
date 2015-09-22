@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://instagram.com
 Icon=eos-link-instagram
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

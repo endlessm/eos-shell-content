@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.nick.com/games/
 Icon=eos-link-nickgames
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

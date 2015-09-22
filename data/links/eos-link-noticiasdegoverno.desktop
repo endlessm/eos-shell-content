@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.brasil.gov.br/
 Icon=eos-link-noticiasdegoverno
 Categories=News;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://noticias.emisorasunidas.com/
 Icon=eos-link-emisoraunidas
 Categories=News;
+X-Endless-LaunchMaximized=true
