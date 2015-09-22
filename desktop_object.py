@@ -151,8 +151,9 @@ class LinkObject(DesktopObject):
             return self._get_names()
         elif key == 'Exec':
             return self._get_exec()
+        elif key == 'X-Endless-LaunchMaximized':
+            return 'true'
         elif key in ['TryExec',
-                     'X-Endless-LaunchMaximized',
                      'X-Endless-SplashBackground']:
             return None
         else:
