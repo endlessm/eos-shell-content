@@ -8,3 +8,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://code.org/' pt:'chromium-browser http://br.code.org/' 
 Icon=eos-link-codestudio
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

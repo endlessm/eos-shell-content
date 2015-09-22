@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.mineduc.gob.gt/
 Icon=eos-link-ministeriodeeducacion
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

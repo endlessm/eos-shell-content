@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.yoasumo.org/
 Icon=eos-link-yoasumo
 Categories=Local;
+X-Endless-LaunchMaximized=true

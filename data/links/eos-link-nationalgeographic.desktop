@@ -6,3 +6,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.nationalgeographic.com' es:'chromium-browser http://www.ngenespanol.com/' 
 Icon=eos-link-nationalgeographic
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser https://news.google.com/' pt:'chromium-browser http://news.google.com.br/' 
 Icon=eos-link-googlenews
 Categories=News;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser https://www.duolingo.com/
 Icon=eos-link-duolingo
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

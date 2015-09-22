@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.forbes.com/
 Icon=eos-link-forbes
 Categories=News;
+X-Endless-LaunchMaximized=true

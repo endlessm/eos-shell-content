@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.cufa.org.br/
 Icon=eos-link-cufa
 Categories=Local;
+X-Endless-LaunchMaximized=true

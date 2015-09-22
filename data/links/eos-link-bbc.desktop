@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.bbc.com/news/
 Icon=eos-link-bbc
 Categories=News;
+X-Endless-LaunchMaximized=true

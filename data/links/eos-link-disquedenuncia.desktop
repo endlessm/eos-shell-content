@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.disquedenuncia.org.br/
 Icon=eos-link-disquedenuncia
 Categories=Local;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser https://www.coursera.org/' pt:'chromium-browser http://coursera.r7.com/' 
 Icon=eos-link-coursera
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

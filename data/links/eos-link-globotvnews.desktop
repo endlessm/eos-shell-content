@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://globotv.globo.com/globo-news/
 Icon=eos-link-globotvnews
 Categories=News;
+X-Endless-LaunchMaximized=true

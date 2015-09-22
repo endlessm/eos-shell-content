@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.pinterest.com/
 Icon=eos-link-pinterest
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

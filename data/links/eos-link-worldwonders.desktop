@@ -8,3 +8,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders' es:'chromium-browser http://www.google.com/culturalinstitute/project/world-wonders?hl=es-419' pt:'chromium-browser https://www.google.com/culturalinstitute/project/world-wonders?hl=pt-BR' 
 Icon=eos-link-worldwonders
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

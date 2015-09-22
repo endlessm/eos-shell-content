@@ -6,3 +6,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.ted.com/' es:'chromium-browser http://www.ted.com/translate/languages/es/' pt:'chromium-browser http://www.ted.com/translate/languages/pt-br/' 
 Icon=eos-link-ted
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

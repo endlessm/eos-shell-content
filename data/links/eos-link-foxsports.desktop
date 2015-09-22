@@ -7,3 +7,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://esporte.uol.com.br/tenis' es:'chromium-browser http://esporte.uol.com.br/tenis' pt:'chromium-browser http://www.foxsports.com.br/' 
 Icon=eos-link-foxsports
 Categories=Sports;
+X-Endless-LaunchMaximized=true

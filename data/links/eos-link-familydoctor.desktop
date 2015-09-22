@@ -7,3 +7,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://familydoctor.org/' es:'chromium-browser http://es.familydoctor.org/' 
 Icon=eos-link-familydoctor
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

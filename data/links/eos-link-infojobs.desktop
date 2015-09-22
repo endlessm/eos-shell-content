@@ -6,3 +6,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.infojobs.com/' pt:'chromium-browser http://vagas.infojobs.com.br/' 
 Icon=eos-link-infojobs
 Categories=Education;Health;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://www.youtube.com/
 Icon=eos-link-youtube
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

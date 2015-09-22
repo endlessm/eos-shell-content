@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser https://play.spotify.com/
 Icon=eos-link-spotify
 Categories=Entertainment;
+X-Endless-LaunchMaximized=true

@@ -6,3 +6,4 @@ Type=Application
 Exec=chromium-browser http://sports.yahoo.com
 Icon=eos-link-yahoosports
 Categories=Sports;
+X-Endless-LaunchMaximized=true

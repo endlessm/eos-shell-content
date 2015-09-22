@@ -7,3 +7,4 @@ Type=Application
 Exec=eos-exec-localized 'chromium-browser http://espn.go.com/' es:'chromium-browser http://espndeportes.espn.go.com/' pt:'chromium-browser http://espn.uol.com.br/' 
 Icon=eos-link-espn
 Categories=Sports;
+X-Endless-LaunchMaximized=true
