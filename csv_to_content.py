@@ -47,7 +47,7 @@ CONTENT_CSV = 'content.csv'
 PO_DIR = 'po'
 LANGS = {'en': 'GLOBAL',
          'es': 'SPANISH',
-         'pt': 'PORTUGUESE'}
+         'pt_BR': 'PORTUGUESE'}
 
 if __name__ == '__main__':
 
