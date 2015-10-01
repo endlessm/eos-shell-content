@@ -1,10 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=FOX Sports
-Name[es]=UOL Esporte Tênis
 Comment=Sports news
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://esporte.uol.com.br/tenis' es:'chromium-browser http://esporte.uol.com.br/tenis' pt:'chromium-browser http://www.foxsports.com.br/' 
+Exec=eos-exec-localized 'chromium-browser http://www.foxsports.com/' es:'chromium-browser http://www.foxsportsla.com/gt/' pt:'chromium-browser http://www.foxsports.com.br/' 
 Icon=eos-link-foxsports
 Categories=Sports;
 X-Endless-LaunchMaximized=true
