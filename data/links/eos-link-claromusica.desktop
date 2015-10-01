@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Claro música
+Comment=Música ilimitada en todas partes
+Type=Application
+Exec=chromium-browser http://www.claromusica.com/
+Icon=eos-link-claromusica
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Claro video
+Comment=El mejor entretenimiento en donde quieras
+Type=Application
+Exec=chromium-browser http://www.clarovideo.com/
+Icon=eos-link-clarovideo
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true
