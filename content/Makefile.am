@@ -53,13 +53,7 @@ CLEANFILES += $(content_headers)
 
 contentdir = $(datadir)/application-store
 nobase_content_DATA = \
-	$(default_app_json) \
-	$(default_app_images) \
-	$(default_app_thumbnails) \
 	$(default_app_screenshots) \
-	$(default_links_json) \
-	$(default_links_images) \
-	$(default_folders_json) \
 	$(NULL)
 
 eos-app-store-app-content.gresource.xml: Makefile $(default_app_json) $(default_app_images) $(default_app_thumbnails)
