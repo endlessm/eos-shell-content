@@ -99,7 +99,7 @@ eos-app-store-link-content.gresource.xml: Makefile $(default_links_json) $(defau
 		      echo "    <file alias=\"links/$$file\">$$file</file>" >> $@ ; \
 		    done ; \
 		    for file in $(notdir $(default_links_images)); do \
-		      echo "    <file compressed=\"true\" alias=\"links/$$file\">$$file</file>" >> $@ ; \
+		      echo "    <file compressed=\"true\" alias=\"links/images/$$file\">$$file</file>" >> $@ ; \
 		    done ; \
 		    ( echo "  </gresource>" ; \
 		      echo "</gresources>" ) >> $@
