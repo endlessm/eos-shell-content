@@ -9,6 +9,9 @@ default_app_json = \
 
 EXTRA_DIST += $(default_app_json)
 
+app_jsondir = $(pkgdatadir)
+app_json_DATA = $(default_app_json)
+
 default_links_json := $(shell cd $(srcdir); for file in `find Default/links -name "*.json"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_json)

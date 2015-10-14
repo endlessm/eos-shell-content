@@ -9,7 +9,7 @@ import re
 import shutil
 import sys
 
-CONTENT_FILE = '/usr/share/application-store/Default/apps/content.json'
+CONTENT_FILE = '/usr/share/eos-shell-content/content.json'
 
 class NoAppException(Exception):
     def __init__(self, appid):

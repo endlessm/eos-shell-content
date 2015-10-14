@@ -27,7 +27,7 @@ only to desktop files.
 init();
 
 # Parse out content.json
-my $filename = '/usr/share/application-store/Default/apps/content.json';
+my $filename = '/usr/share/eos-shell-content/content.json';
 my $json_text = do {
 	open(CONTENT, "<:encoding(UTF-8)", $filename) ||
 	    error("cannot read $filename: $!\n");
