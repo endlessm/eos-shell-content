@@ -2197,41 +2197,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "empathy",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Do you love to chat with friends? And, do you use many different programs to chat with them all? Now you can combine all of those different programs into one so that you don't have to keep switching between them all! Chat with friends from Facebook, Jabber, MSN, AIM, Gadu Gadu, and more - all in one place. This app support messaging, voice, and video chats, so you'll be able to do everything you want. All you need to do is set up this app with your other accounts, and you'll be ready to keep in touch with your friends and family easier than ever before!  **Requires internet",
-    "displayShape": "b1",
-    "exec": "empathy",
-    "featured_img": "empathy-featured.jpg",
-    "icon": "empathy-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "empathy-screenshot1.jpg",
-        "empathy-screenshot2.jpg"
-      ],
-      "es": [
-        "empathy-screenshot1.jpg",
-        "empathy-screenshot2.jpg"
-      ],
-      "pt": [
-        "empathy-screenshot1.jpg",
-        "empathy-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "empathy-thumb.jpg",
-    "subtitle": "Chat with all of your friends in one place",
-    "title": "Chat",
-    "tryexec": ""
-  },
-  {
     "application-id": "eos-file-manager",
     "category": "Utility",
     "core": true,
