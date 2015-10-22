@@ -312,26 +312,25 @@ if __name__ == '__main__':
     # The output desktop file should combine all specified URLs,
     # switching on the locale via eos-exec-localized
     for i in range(0, len(link_locales)):
-        if link_languages[i]:
-            # Note: link locales are ordered so that the one of interest here
-            # (i.e., the most localized) is the last one in the list
-            locale = link_locales[i][-1]
-            lang = locale.split('-')[0]
-            localized_link_path = os.path.join(UNZIP_DIR, 'links', locale + '.json')
-            localized_link_file = open(localized_link_path)
-            localized_link_json = json.load(localized_link_file)
-            localized_link_file.close()
-            for category in localized_link_json:
-                for link_data in category['links']:
-                    id = 'eos-link-' + link_data['linkId']
-                    if id not in desktop_objects.keys():
-                        desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
-                                                         args.splashdir, lang)
-                    else:
-                        name = link_data['linkName']
-                        desktop_objects[id].append_localized_name(lang, name)
-                        url = link_data['linkUrl']
-                        desktop_objects[id].append_localized_url(lang, url)
+        # Note: link locales are ordered so that the one of interest here
+        # (i.e., the most localized) is the last one in the list
+        locale = link_locales[i][-1]
+        lang = locale.split('-')[0]
+        localized_link_path = os.path.join(UNZIP_DIR, 'links', locale + '.json')
+        localized_link_file = open(localized_link_path)
+        localized_link_json = json.load(localized_link_file)
+        localized_link_file.close()
+        for category in localized_link_json:
+            for link_data in category['links']:
+                id = 'eos-link-' + link_data['linkId']
+                if id not in desktop_objects.keys():
+                    desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
+                                                     args.splashdir, lang)
+                else:
+                    name = link_data['linkName']
+                    desktop_objects[id].append_localized_name(lang, name)
+                    url = link_data['linkUrl']
+                    desktop_objects[id].append_localized_url(lang, url)
 
     apps_path = os.path.join(UNZIP_DIR, 'apps', 'content.json')
     apps_file = open(apps_path)
