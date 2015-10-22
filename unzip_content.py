@@ -236,20 +236,16 @@ if __name__ == '__main__':
         convert(source_file, target_file, '')
 
     # Special handling of link locales for es vs. es_GT
-    link_locales = [['en-us'], ['en-us'], ['es'], ['es', 'es-gt'], ['pt-br']]
-    link_personalities = ['default', 'Global', 'Spanish', 'Guatemala', 'Brazil']
-    link_languages = [None, 'C', 'es', 'es', 'pt']
+    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['pt-br']]
+    link_languages = ['C', 'es', 'es_GT', 'pt_BR']
 
     # Copy and rename the links json to the content folder
     source_dir = os.path.join(UNZIP_DIR, 'links')
     target_dir = os.path.join(CONTENT_DIR, 'links')
     os.makedirs(target_dir)
     for i in range(0, len(link_locales)):
-        # For now, we need to replace the CMS locale with personality
+        # For now, we need to replace the CMS locale with language
         # in the file names
-        # Note: eventually, we will replace this with a single JSON
-        # file that has all the links with a personality field for each link,
-        # but for now let's minimize the changes to the CMS content files
         json_data = []
         for locale in link_locales[i]:
             source = os.path.join(source_dir, locale + '.json')
@@ -273,18 +269,9 @@ if __name__ == '__main__':
             sorted_links = sorted(category['links'],
                                   key=operator.itemgetter('linkId'))
             category['links'] = sorted_links
-        target = os.path.join(target_dir, link_personalities[i] + '.json')
+        target = os.path.join(target_dir, link_languages[i] + '.json')
         with open(target, 'w') as outfile:
             json.dump(json_data, outfile, indent=2, sort_keys='True')
-
-    # Hack: Make a copy of the global links for those personalities
-    # that don't yet have customized local links
-    source_personality = 'Global'
-    target_personalities = ['Arabic', 'Haiti']
-    source = os.path.join(target_dir, source_personality + '.json')
-    for target_personality in target_personalities:
-        target = os.path.join(target_dir, target_personality + '.json')
-        shutil.copy(source, target)
 
     # Copy the link images to the content folder
     # resized/cropped to 90x90
