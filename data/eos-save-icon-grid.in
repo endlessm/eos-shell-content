@@ -16,7 +16,7 @@ const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
 const Json = imports.gi.Json;
 
-const INSTALL_PATH = '@DATA_DIR@';
+const INSTALL_PATH = '@PKG_DATA_DIR@/icon-grid-defaults';
 const SAVE_PATH = GLib.get_user_special_dir(GLib.UserDirectory.DIRECTORY_DOCUMENTS);
 const SHELL_SCHEMA = 'org.gnome.shell';
 const SCHEMA_KEY = 'icon-grid-layout';
@@ -24,8 +24,7 @@ const SCHEMA_KEY = 'icon-grid-layout';
 const selectLocale = function() {
     let command = 'zenity --list --title="Desktop configuration to save" --text="Select an option and hit OK" --radiolist --hide-header --column=button --column=selection TRUE default';
 
-    let path = INSTALL_PATH + '/EndlessOS/language-defaults';
-    let dir = Gio.File.new_for_path(path);
+    let dir = Gio.File.new_for_path(INSTALL_PATH);
 
     let files;
     try {
