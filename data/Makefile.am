@@ -8,11 +8,11 @@ desktops_DATA = \
 foldersdir = $(datadir)/desktop-directories
 folders_DATA = $(wildcard folders/*.directory)
 
-settingsdir = $(datadir)/EndlessOS/language-defaults
+settingsdir = $(pkgdatadir)/icon-grid-defaults
 settings_DATA = $(wildcard settings/icon-grid-*.json)
 
 do_subst = sed \
-	-e 's|@DATA_DIR[@]|$(datadir)|g' \
+	-e 's|@PKG_DATA_DIR[@]|$(pkgdatadir)|g' \
 	-e 's|@SYSCONF_DIR[@]|$(sysconfdir)|g'
 
 eos-select-personality: eos-select-personality.in Makefile
