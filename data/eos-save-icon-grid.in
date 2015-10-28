@@ -21,7 +21,7 @@ const SAVE_PATH = GLib.get_user_special_dir(GLib.UserDirectory.DIRECTORY_DOCUMEN
 const SHELL_SCHEMA = 'org.gnome.shell';
 const SCHEMA_KEY = 'icon-grid-layout';
 
-const selectPersonality = function() {
+const selectLocale = function() {
     let command = 'zenity --list --title="Desktop configuration to save" --text="Select an option and hit OK" --radiolist --hide-header --column=button --column=selection TRUE default';
 
     let path = INSTALL_PATH + '/EndlessOS/language-defaults';
