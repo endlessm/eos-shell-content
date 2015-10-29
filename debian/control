@@ -19,6 +19,12 @@ Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
 
+Package: eos-acknowledgements
+Architecture: all
+Depends: ${misc:Depends}
+Description: EndlessOS Acknowledements
+ Image attributions and list of Kickstarter backers.
+
 Package: eos-shell-content-dev
 Architecture: all
 Priority: optional
