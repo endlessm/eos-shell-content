@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Code Combat
+Comment=Learn to code while playing
+Type=Application
+Exec=chromium-browser http://codecombat.com/
+Icon=eos-link-codecombat
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true
