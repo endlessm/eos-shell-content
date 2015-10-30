@@ -1,0 +1,335 @@
+#!/usr/bin/python3
+# Note: use python3 for direct support of utf-8 strings
+
+# This script requires python3 polib
+# (sudo apt-get install python3-polib)
+
+import argparse
+import csv
+import json
+import os
+import polib
+import sys
+import urllib.request
+
+CONTENT_JSON = 'content/Default/apps/content.json'
+PO_DIR = 'po'
+LOCALES = {'ar'    : {'lang': 'ar'    , 'personality': 'Arabic'},
+           'en'    : {'lang': 'C'     , 'personality': 'Global'},
+           'es'    : {'lang': 'es'    , 'personality': 'Spanish'},
+           'es_GT' : {'lang': 'es'    , 'personality': 'Guatemala'},
+           'fr'    : {'lang': 'fr'    , 'personality': 'Haiti'},
+           'pt_BR' : {'lang': 'pt_BR' , 'personality': 'Brazil'}}
+SERVERS = {'production' : 'https://appupdates.endlessm.com',
+           'staging'    : 'https://staging.appupdates.endlessm.com',
+           'master'     : 'https://master.appupdates.endlessm-sf.com'}
+ARCHS = {'i386', 'armhf'}
+
+ALREADY_USED = 'used'
+
+# The image builder uses unusual values for booleans in the apps.txt file
+class ImageBuilder:
+    YES = 1
+    NO = 2
+
+class Color:
+    GREEN = '\033[1;32m'
+    BLUE = '\033[1;34m'
+    YELLOW = '\033[1;33m'
+    RED = '\033[1;31m'
+    END = '\033[0m'
+
+def get_color_str(text, color):
+    return color + str(text) + Color.END
+
+class AttributeDict(dict):
+    def __getattr__(self, attr):
+        return self[attr]
+    def __setattr__(self, attr, value):
+        self[attr] = value
+
+def make_attribute_dicts(dicts):
+    attribute_dicts = []
+    for d in dicts:
+        attribute_dicts.append(AttributeDict(d))
+    return attribute_dicts
+
+def warn(message):
+    print(get_color_str(message, Color.YELLOW), file=sys.stderr)
+    
+def exit_with_error(message):
+    print(get_color_str(message, Color.RED), file=sys.stderr)
+    print('Terminating early', file=sys.stderr)
+    exit(1)
+
+# For Endless apps, try removing the trailing locale ('-xx' or '-xx_YY')
+# from the app id
+def strip_locale(app_id):
+    if not app_id.startswith('com.endlessm.'):
+        return None
+    if app_id[len(app_id) - 3] == '-':
+        return app_id[0 : len(app_id) - 3]
+    if app_id[len(app_id) - 3] == '_' and app_id[len(app_id) - 6] == '-':
+        return app_id[0 : len(app_id) - 6]
+    return None
+
+class Reporter(object):
+    def __init__(self, args):
+        # Keep a copy of the arguments dictionary
+        self._args = args
+
+        # Check the version number format
+        ver = self._args.os_version.split('.')
+        if len(ver) != 3 \
+           or not ver[0].isdigit() \
+           or not ver[1].isdigit() \
+           or not ver[2].isdigit():
+            exit_with_error('Invalid OS version number: %s (should be x.y.z)' %
+                            self._args.os_version)
+
+        # Check the architecture format
+        if self._args.arch not in ARCHS:
+            exit_with_error('Unsupported arch: %s' % self._args.arch)
+
+        try:
+            self._lang = LOCALES[self._args.locale]['lang']
+        except:
+            exit_with_error('Unsupported locale: %s' % self._args.locale)
+        if self._args.debug:
+            print('Language for translations: %s' % self._lang)
+
+        # Open the .po file
+        if self._lang != 'C':
+            po_file = os.path.join(PO_DIR, self._lang + '.po')
+            self._po = polib.pofile(po_file)
+            
+        # Load the content json data from file
+        with open(CONTENT_JSON) as json_file:
+            self._json_data = json.load(json_file)
+
+    def _do_get_json_row(self, app_id):
+        for json_row in self._json_data:
+            if json_row['application-id'] == app_id:
+                if ALREADY_USED in json_row:
+                    return ALREADY_USED
+                json_row[ALREADY_USED] = True
+                return json_row
+        
+    def _get_json_row(self, app_id):
+        json_row = self._do_get_json_row(app_id)
+        if json_row == ALREADY_USED:
+            if self._args.debug:
+                print('Already used data for %s' % app_id)
+            return ALREADY_USED
+        if json_row:
+            if self._args.debug:
+                print('Found data for %s' % app_id)
+            return json_row
+        generic_id = strip_locale(app_id)
+        if generic_id:
+            json_row = self._do_get_json_row(generic_id)
+            if json_row == ALREADY_USED:
+                if self._args.debug:
+                    print('Already used data for %s as %s' %
+                          (app_id, generic_id))
+                return ALREADY_USED
+            if json_row:
+                if self._args.debug:
+                    print('Found data for %s as %s' %
+                          (app_id, generic_id))
+                return json_row
+        if self._args.debug:
+            print('No data found for %s' % app_id)
+        return None
+
+    def _translate(self, val):
+        entry = self._po.find(val)
+        if entry:
+            translation = entry.msgstr
+        else:
+            if self._args._debug:
+                print('Missing translation: %s' % val)
+            translation = ''
+        return translation
+
+    def _open_csv_file(self):
+        csv_filename = 'apps-list-%s-%s-%s-%s.csv' % (
+            self._args.os_version, self._args.server,
+            self._args.arch, self._args.locale)
+        if self._args.debug:
+            print('Starting CSV output file: %s' % csv_filename)
+        self._csv_file = open(csv_filename, 'w', newline='')
+        self._csv_writer = csv.writer(self._csv_file, lineterminator='\n')
+        csv_header = []
+        csv_header.append('App Type')
+        csv_header.append('App ID')
+        csv_header.append('Version')
+        csv_header.append('Title')
+        csv_header.append('Subtitle')
+        csv_header.append('Description')
+        if self._lang != 'C':
+            csv_header.append('Title[%s]' % self._lang)
+            csv_header.append('Subtitle[%s]' % self._lang)
+            csv_header.append('Description[%s]' % self._lang)
+        self._csv_writer.writerow(csv_header)
+
+    def _close_csv_file(self):
+        self._csv_file.close()
+
+    def _write_csv_row(self, app_type, app_id, version, extra, split, json_row):
+        title = json_row['title']
+        subtitle = json_row['subtitle']
+        description = json_row['description']
+        csv_row = []
+        csv_row.append(app_type)
+        csv_row.append(app_id)
+        csv_row.append(version)
+        csv_row.append(title)
+        csv_row.append(subtitle)
+        csv_row.append(description)
+        if self._lang != 'C':
+            csv_row.append(self._translate(title))
+            csv_row.append(self._translate(subtitle))
+            csv_row.append(self._translate(description))
+        self._csv_writer.writerow(csv_row)
+
+    def _list_core_apps(self):
+        # Read in the list of core packages
+        if not self._args.packages_file.endswith('packages.txt'):
+            exit_with_error('Packages file name %s does not end with '
+                            'packages.txt' % self._args.packages_file)
+        try:
+            with open(self._args.packages_file, 'r') as f:
+                for line in f:
+                    data = line.split()
+                    app_id = data[0]
+                    version = data[1]
+                    extra = False
+                    split = False
+                    json_row = self._get_json_row(app_id)
+                    if json_row == ALREADY_USED:
+                        exit_with_error('Unexpected duplicate entry for %s' %
+                                        app_id)
+                    if json_row:
+                        self._write_csv_row('Core', app_id, version,
+                                            extra, split, json_row)
+                    # If no json data found, we can simply assume that
+                    # this is a core package for which we don't expose
+                    # a desktop application
+
+        except IOError as err:
+            exit_with_error('Could not open packages file %s:\n%s'
+                            % (self._args.packages_file, err))
+
+    def _list_installed_bundles(self):
+        # Read in the list of app bundles
+        if not self._args.apps_file.endswith('apps.txt'):
+            exit_with_error('Apps file name %s does not end with apps.txt' %
+                            self._args.apps_file)
+        try:
+            with open(self._args.apps_file, 'r') as f:
+                for line in f:
+                    data = line.split()
+                    app_id = data[0]
+                    version = data[1]
+                    extra = data[2] == ImageBuilder.YES
+                    split = data[3] == ImageBuilder.YES
+                    json_row = self._get_json_row(app_id)
+                    if json_row == ALREADY_USED:
+                        exit_with_error('Unexpected duplicate entry for %s' %
+                                        app_id)
+                    if json_row:
+                        self._write_csv_row('Installed', app_id, version,
+                                            extra, split, json_row)
+                    else:
+                        warn('Missing content json for installed app %s' % app_id)
+
+        except IOError as err:
+            exit_with_error('Could not open apps file %s:\n%s'
+                            % (self._args.apps_file, err))
+
+    def _list_available_bundles(self):
+        # Get the personality name (for filtering by the app server)
+        try:
+            personality = LOCALES[self._args.locale]['personality']
+        except:
+            exit_with_error('Unsupported locale: %s' % self._args.locale)
+        if self._args.debug:
+            print('App server personality: %s' % personality)
+
+        # Get the base URL for the app server
+        try:
+            server_url = SERVERS[self._args.server]
+        except:
+            exit_with_error('Unsupported app server: %s' % self._args.server)
+
+        full_url = '%s/api/v1/updates/%s?arch=%s&personality=%s' % (
+            server_url, self._args.os_version, self._args.arch, personality)
+        if self._args.debug:
+            print('App server request URL: %s' % server_url)
+
+        request = urllib.request.Request(
+            full_url, headers={'Accept': 'application/json'})
+        response = urllib.request.urlopen(request)
+        server_json = json.loads(response.read().decode('utf8'))
+        for server_app in server_json:
+            if server_app['isDiff']:
+                # We can ignore delta updates, as there should be a
+                # non-delta version as well
+                continue
+            app_id = server_app['appId']
+            # TODO we should apply the same logic as the app store
+            # to filter localized apps not available in the specified locale
+            version = server_app['codeVersion']
+            # TODO we should actually use the size (even for installed apps)
+            size = server_app['installedSize']
+            extra = False
+            split = False
+            json_row = self._get_json_row(app_id)
+            if json_row == ALREADY_USED:
+                # The server may list multiple available app versions
+                # For now, we just display the first one found
+                # TODO we should display the latest version available
+                continue
+            if json_row:
+                self._write_csv_row('Available', app_id, version,
+                                    extra, split, json_row)
+            else:
+                warn('Missing content json for available app %s' % app_id)
+
+    def generate(self):
+        self._open_csv_file()
+        self._list_core_apps()
+        self._list_installed_bundles()
+        self._list_available_bundles()
+        self._close_csv_file()
+        
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+        description='Generate apps report for a single product (image variant)')
+
+    parser.add_argument('os_version', \
+            help='OS version for app server queries (e.g., 2.5.0)')
+
+    parser.add_argument('server', \
+            help='App server to query: production, staging, or master') 
+
+    parser.add_argument('arch', \
+            help='Platform architecture for app server queries: i386 or armhf')
+
+    parser.add_argument('locale', \
+            help='Image locale (e.g., es or es_GT')
+
+    parser.add_argument('packages_file', \
+            help='File name of packages.txt file that lists all core packages')
+
+    parser.add_argument('apps_file', \
+            help='File name of apps.txt file that lists all app bundles for the image')
+
+    parser.add_argument('--debug', \
+            help='Enable debugging output', \
+            action='store_true')
+
+    args = AttributeDict(vars(parser.parse_args()))
+
+    Reporter(args).generate()
