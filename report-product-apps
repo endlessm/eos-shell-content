@@ -107,6 +107,38 @@ class Reporter(object):
         with open(CONTENT_JSON) as json_file:
             self._json_data = json.load(json_file)
 
+        # Get the personality name (for filtering by the app server)
+        try:
+            personality = LOCALES[self._args.locale]['personality']
+        except:
+            exit_with_error('Unsupported locale: %s' % self._args.locale)
+        if self._args.debug:
+            print('App server personality: %s' % personality)
+
+        # Get the base URL for the app server
+        try:
+            server_url = SERVERS[self._args.server]
+        except:
+            exit_with_error('Unsupported app server: %s' % self._args.server)
+
+        full_url = '%s/api/v1/updates/%s?arch=%s&personality=%s' % (
+            server_url, self._args.os_version, self._args.arch, personality)
+        if self._args.debug:
+            print('App server request URL: %s' % server_url)
+
+        # Load the server json data
+        request = urllib.request.Request(
+            full_url, headers={'Accept': 'application/json'})
+        response = urllib.request.urlopen(request)
+        self._server_json = json.loads(response.read().decode('utf8'))
+
+    def _get_installed_size(self, app_id, version):
+        for json_row in self._server_json:
+            if json_row['appId'] == app_id and \
+               json_row['codeVersion'] == version:
+                return json_row['installedSize']
+        return 'N/A'
+        
     def _do_get_json_row(self, app_id):
         for json_row in self._json_data:
             if json_row['application-id'] == app_id:
@@ -164,6 +196,7 @@ class Reporter(object):
         csv_header.append('App Type')
         csv_header.append('App ID')
         csv_header.append('Version')
+        csv_header.append('Size (MB)')
         csv_header.append('Title')
         csv_header.append('Subtitle')
         csv_header.append('Description')
@@ -177,6 +210,14 @@ class Reporter(object):
         self._csv_file.close()
 
     def _write_csv_row(self, app_type, app_id, version, extra, split, json_row):
+        size = json_row['size']
+        if isinstance(size, str):
+            size_string = size
+        elif size == 0:
+            size_string = 'Unknown'
+        else:
+            # Convert to MB and round to 1 decimal place
+            size_string = '%.1f' % (size / 1000000)
         title = json_row['title']
         subtitle = json_row['subtitle']
         description = json_row['description']
@@ -184,6 +225,7 @@ class Reporter(object):
         csv_row.append(app_type)
         csv_row.append(app_id)
         csv_row.append(version)
+        csv_row.append(size_string)
         csv_row.append(title)
         csv_row.append(subtitle)
         csv_row.append(description)
@@ -211,6 +253,7 @@ class Reporter(object):
                         exit_with_error('Unexpected duplicate entry for %s' %
                                         app_id)
                     if json_row:
+                        json_row['size'] = 'System App'
                         self._write_csv_row('Core', app_id, version,
                                             extra, split, json_row)
                     # If no json data found, we can simply assume that
@@ -239,6 +282,8 @@ class Reporter(object):
                         exit_with_error('Unexpected duplicate entry for %s' %
                                         app_id)
                     if json_row:
+                        json_row['size'] = self._get_installed_size(app_id,
+                                                                    version)
                         self._write_csv_row('Installed', app_id, version,
                                             extra, split, json_row)
                     else:
@@ -249,30 +294,7 @@ class Reporter(object):
                             % (self._args.apps_file, err))
 
     def _list_available_bundles(self):
-        # Get the personality name (for filtering by the app server)
-        try:
-            personality = LOCALES[self._args.locale]['personality']
-        except:
-            exit_with_error('Unsupported locale: %s' % self._args.locale)
-        if self._args.debug:
-            print('App server personality: %s' % personality)
-
-        # Get the base URL for the app server
-        try:
-            server_url = SERVERS[self._args.server]
-        except:
-            exit_with_error('Unsupported app server: %s' % self._args.server)
-
-        full_url = '%s/api/v1/updates/%s?arch=%s&personality=%s' % (
-            server_url, self._args.os_version, self._args.arch, personality)
-        if self._args.debug:
-            print('App server request URL: %s' % server_url)
-
-        request = urllib.request.Request(
-            full_url, headers={'Accept': 'application/json'})
-        response = urllib.request.urlopen(request)
-        server_json = json.loads(response.read().decode('utf8'))
-        for server_app in server_json:
+        for server_app in self._server_json:
             if server_app['isDiff']:
                 # We can ignore delta updates, as there should be a
                 # non-delta version as well
@@ -281,7 +303,6 @@ class Reporter(object):
             # TODO we should apply the same logic as the app store
             # to filter localized apps not available in the specified locale
             version = server_app['codeVersion']
-            # TODO we should actually use the size (even for installed apps)
             size = server_app['installedSize']
             extra = False
             split = False
@@ -292,6 +313,7 @@ class Reporter(object):
                 # TODO we should display the latest version available
                 continue
             if json_row:
+                json_row['size'] = size
                 self._write_csv_row('Available', app_id, version,
                                     extra, split, json_row)
             else:
