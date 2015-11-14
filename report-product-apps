@@ -14,12 +14,18 @@ import urllib.request
 
 CONTENT_JSON = 'content/Default/apps/content.json'
 PO_DIR = 'po'
-LOCALES = {'ar'    : {'lang': 'ar'    , 'personality': 'Arabic'},
-           'en'    : {'lang': 'C'     , 'personality': 'Global'},
-           'es'    : {'lang': 'es'    , 'personality': 'Spanish'},
-           'es_GT' : {'lang': 'es'    , 'personality': 'Guatemala'},
-           'fr'    : {'lang': 'fr'    , 'personality': 'Haiti'},
-           'pt_BR' : {'lang': 'pt_BR' , 'personality': 'Brazil'}}
+LOCALES = {'ar'    : {'lang': 'ar'    , 'personality': 'Arabic' ,
+                      'app_locales': {'ar', 'en'}},
+           'en'    : {'lang': 'C'     , 'personality': 'Global' ,
+                      'app_locales': {'en'}},
+           'es'    : {'lang': 'es'    , 'personality': 'Spanish' ,
+                      'app_locales': {'es'}},
+           'es_GT' : {'lang': 'es'    , 'personality': 'Guatemala' ,
+                      'app_locales': {'es_GT', 'es'}},
+           'fr'    : {'lang': 'fr'    , 'personality': 'Haiti' ,
+                      'app_locales': {'fr', 'en'}},
+           'pt_BR' : {'lang': 'pt_BR' , 'personality': 'Brazil' ,
+                      'app_locales': {'pt_BR', 'pt'}}}
 SERVERS = {'production' : 'https://appupdates.endlessm.com',
            'staging'    : 'https://staging.appupdates.endlessm.com',
            'master'     : 'https://master.appupdates.endlessm-sf.com'}
@@ -300,8 +306,13 @@ class Reporter(object):
                 # non-delta version as well
                 continue
             app_id = server_app['appId']
-            # TODO we should apply the same logic as the app store
-            # to filter localized apps not available in the specified locale
+            base_id = strip_locale(app_id)
+            if base_id:
+                # App id is localized -- check if our locale matches
+                # Skip past the hyphen separating the base from the locale
+                app_locale = app_id[len(base_id)+1:]
+                if app_locale not in LOCALES[self._args.locale]['app_locales']:
+                    continue
             version = server_app['codeVersion']
             size = server_app['installedSize']
             extra = False
