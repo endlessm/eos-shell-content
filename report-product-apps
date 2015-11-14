@@ -319,11 +319,21 @@ class Reporter(object):
             split = False
             json_row = self._get_json_row(app_id)
             if json_row == ALREADY_USED:
-                # The server may list multiple available app versions
-                # For now, we just display the first one found
-                # TODO we should display the latest version available
                 continue
             if json_row:
+                # The server may list multiple available app versions
+                # We need to check if there is a newer version
+                # later in the list that we have not processed yet
+                # While technically we only need to process
+                # the rest of the list, performance is not critical
+                # and it is simpler to just check the full list
+                for version_app in self._server_json:
+                    if version_app['isDiff']:
+                        continue
+                    if version_app['appId'] == app_id and \
+                       version_app['codeVersion'] > version:
+                        version = version_app['codeVersion']
+                        size = version_app['installedSize']
                 json_row['size'] = size
                 self._write_csv_row('Available', app_id, version,
                                     extra, split, json_row)
