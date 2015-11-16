@@ -14,10 +14,17 @@ Homepage: http://www.endlessm.com
 
 Package: eos-shell-content
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
+         eos-shell-content-icon-grid (= ${binary:Version})
 Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store
+
+Package: eos-shell-content-icon-grid
+Architecture: any
+Depends: ${misc:Depends}
+Description: Endless OS Shell Content installation package - icon grid
+ This package will install the shell icon grid defaults.
 
 Package: eos-shell-content-dev
 Architecture: all
