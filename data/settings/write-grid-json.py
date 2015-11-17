@@ -27,11 +27,12 @@ if args.output is None:
     outfile = sys.stdout
 else:
     outdir = os.path.dirname(args.output)
-    try:
-        os.makedirs(outdir)
-    except OSError as err:
-        if err.errno != errno.EEXIST:
-            raise
+    if len(outdir) > 0:
+        try:
+            os.makedirs(outdir)
+        except OSError as err:
+            if err.errno != errno.EEXIST:
+                raise
     outfile = open(args.output, 'w')
 
 # Strip out blacklisted apps
