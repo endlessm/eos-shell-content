@@ -28,6 +28,8 @@ Description: EndlessOS Acknowledements
 
 Package: eos-shell-content-icon-grid
 Architecture: any
+Replaces: eos-shell-content (<< 1.6.0+dev6.4da79bd)
+Breaks: eos-shell-content (<< 1.6.0+dev6.4da79bd)
 Depends: ${misc:Depends}
 Description: Endless OS Shell Content installation package - icon grid
  This package will install the shell icon grid defaults.
