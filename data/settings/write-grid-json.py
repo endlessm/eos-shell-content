@@ -21,8 +21,8 @@ with open(args.input, 'r') as infile:
 with open(args.blacklist, 'r') as blfile:
     blacklist = json.load(blfile)
 
-# Open the output file if specified, ensuring that leading directories
-# are created first.
+# Open the a temporary version of the output file if specified, ensuring
+# that leading directories are created first.
 if args.output is None:
     outfile = sys.stdout
 else:
@@ -33,7 +33,7 @@ else:
         except OSError as err:
             if err.errno != errno.EEXIST:
                 raise
-    outfile = open(args.output, 'w')
+    outfile = open(args.output + '.tmp', 'w')
 
 # Strip out blacklisted apps
 cpu_blacklist = blacklist.get(args.cpu, [])
@@ -43,6 +43,10 @@ for app in cpu_blacklist:
             grid[sect].remove(app)
 
 # Write out the new json, keeping the indentation, separators and
-# trailing newline from the original.
+# trailing newline from the original. If successful, rename the
+# temporary file to the final name.
 json.dump(grid, outfile, indent=2, separators=(',', ' : '))
 outfile.write('\n')
+if args.output is not None:
+    outfile.close()
+    os.rename(args.output + '.tmp', args.output)
