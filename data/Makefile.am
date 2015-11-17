@@ -9,7 +9,12 @@ foldersdir = $(datadir)/desktop-directories
 folders_DATA = $(wildcard folders/*.directory)
 
 settingsdir = $(pkgdatadir)/icon-grid-defaults
-settings_DATA = $(wildcard settings/icon-grid-*.json)
+settings_in_files = $(wildcard settings/icon-grid-*.json.in)
+settings_DATA = $(settings_in_files:.in=)
+dist_noinst_SCRIPTS = settings/write-grid-json.py
+
+%.json: %.json.in settings/arch-blacklist.json
+	$(AM_V_GEN)$(srcdir)/settings/write-grid-json.py -o $@ $^ $(host_cpu)
 
 do_subst = sed \
 	-e 's|@PKG_DATA_DIR[@]|$(pkgdatadir)|g' \
@@ -26,7 +31,8 @@ eos-save-icon-grid: eos-save-icon-grid.in Makefile
 EXTRA_DIST = \
     $(desktops_DATA) \
     $(folders_DATA) \
-    $(settings_DATA) \
+    $(settings_in_files) \
+    settings/arch-blacklist.json \
     eos-exec-localized \
     eos-select-personality.in \
     eos-save-icon-grid.in \
@@ -39,6 +45,7 @@ bin_SCRIPTS = \
     $(NULL)
 
 CLEANFILES = \
+    $(settings_DATA) \
     eos-select-personality \
     eos-save-icon-grid \
     $(NULL)
