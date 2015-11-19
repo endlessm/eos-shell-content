@@ -101,8 +101,7 @@ class Reporter(object):
             self._lang = LOCALES[self._args.locale]['lang']
         except:
             exit_with_error('Unsupported locale: %s' % self._args.locale)
-        if self._args.debug:
-            print('Language for translations: %s' % self._lang)
+        self._print_debug('Language for translations: %s' % self._lang)
 
         # Open the .po file
         if self._lang != 'C':
@@ -118,8 +117,7 @@ class Reporter(object):
             personality = LOCALES[self._args.locale]['personality']
         except:
             exit_with_error('Unsupported locale: %s' % self._args.locale)
-        if self._args.debug:
-            print('App server personality: %s' % personality)
+        self._print_debug('App server personality: %s' % personality)
 
         # Get the base URL for the app server
         try:
@@ -129,14 +127,17 @@ class Reporter(object):
 
         full_url = '%s/api/v1/updates/%s?arch=%s&personality=%s' % (
             server_url, self._args.os_version, self._args.arch, personality)
-        if self._args.debug:
-            print('App server request URL: %s' % server_url)
+        self._print_debug('App server request URL: %s' % server_url)
 
         # Load the server json data
         request = urllib.request.Request(
             full_url, headers={'Accept': 'application/json'})
         response = urllib.request.urlopen(request)
         self._server_json = json.loads(response.read().decode('utf8'))
+
+    def _print_debug(self, message):
+        if self._args.debug:
+            print(message)
 
     def _get_installed_size(self, app_id, version):
         for json_row in self._server_json:
@@ -156,28 +157,23 @@ class Reporter(object):
     def _get_json_row(self, app_id):
         json_row = self._do_get_json_row(app_id)
         if json_row == ALREADY_USED:
-            if self._args.debug:
-                print('Already used data for %s' % app_id)
+            self._print_debug('Already used data for %s' % app_id)
             return ALREADY_USED
         if json_row:
-            if self._args.debug:
-                print('Found data for %s' % app_id)
+            self._print_debug('Found data for %s' % app_id)
             return json_row
         generic_id = strip_locale(app_id)
         if generic_id:
             json_row = self._do_get_json_row(generic_id)
             if json_row == ALREADY_USED:
-                if self._args.debug:
-                    print('Already used data for %s as %s' %
-                          (app_id, generic_id))
+                self._print_debug('Already used data for %s as %s' %
+                                  (app_id, generic_id))
                 return ALREADY_USED
             if json_row:
-                if self._args.debug:
-                    print('Found data for %s as %s' %
-                          (app_id, generic_id))
+                self._print_debug('Found data for %s as %s' %
+                                  (app_id, generic_id))
                 return json_row
-        if self._args.debug:
-            print('No data found for %s' % app_id)
+        self._print_debug('No data found for %s' % app_id)
         return None
 
     def _translate(self, val):
@@ -185,8 +181,7 @@ class Reporter(object):
         if entry:
             translation = entry.msgstr
         else:
-            if self._args._debug:
-                print('Missing translation: %s' % val)
+            self._print_debug('Missing translation: %s' % val)
             translation = ''
         return translation
 
@@ -194,8 +189,7 @@ class Reporter(object):
         csv_filename = 'apps-list-%s-%s-%s-%s.csv' % (
             self._args.os_version, self._args.server,
             self._args.arch, self._args.locale)
-        if self._args.debug:
-            print('Starting CSV output file: %s' % csv_filename)
+        self._print_debug('Starting CSV output file: %s' % csv_filename)
         self._csv_file = open(csv_filename, 'w', newline='')
         self._csv_writer = csv.writer(self._csv_file, lineterminator='\n')
         csv_header = []
