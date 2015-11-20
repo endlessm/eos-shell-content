@@ -15,11 +15,10 @@ class DesktopObject(object):
         'X-Endless-SplashBackground'
     ]
         
-    def __init__(self, data, splash_dir):
+    def __init__(self, data):
         self._locale_keys = ['Name', 'Comment']
         self._suffix = '.desktop.in'
         self._data = data
-        self._splash_dir = splash_dir
 
         self.defaults = {}
         self.defaults['Version'] = '1.0'
@@ -48,10 +47,7 @@ class DesktopObject(object):
                     return 'false'
             if key == 'X-Endless-SplashBackground':
                 if val:
-                    if self._splash_dir:
-                        return os.path.join(self._splash_dir, val)
-                    else:
-                        return val
+                    return val
                 else:
                     return None
             else:
@@ -99,8 +95,8 @@ class LinkObject(DesktopObject):
         'Folder': 'linkFolder'
     }
 
-    def __init__(self, data, desktop_dir, splash_dir, locale):
-        super(LinkObject, self).__init__(data, splash_dir)
+    def __init__(self, data, desktop_dir, locale):
+        super(LinkObject, self).__init__(data)
         self._desktop_dir = desktop_dir
         self._default_name = self._data['linkName']
         self._name_locales = []
@@ -180,8 +176,8 @@ class AppObject(DesktopObject):
         'X-Endless-SplashBackground': 'custom-splash-screen'
     }
 
-    def __init__(self, data, bundle_desktop_dir, splash_dir):
-        super(AppObject, self).__init__(data, splash_dir)
+    def __init__(self, data, bundle_desktop_dir):
+        super(AppObject, self).__init__(data)
         self._bundle_desktop_dir = bundle_desktop_dir
         self._prefix = ''
         self._icon_prefix = 'eos-app-'
@@ -198,8 +194,7 @@ class FolderObject(DesktopObject):
     }
 
     def __init__(self, data, desktop_dir):
-        splash_dir = None
-        super(FolderObject, self).__init__(data, splash_dir)
+        super(FolderObject, self).__init__(data)
         self._desktop_dir = desktop_dir
         self._prefix = 'eos-folder-'
         self._icon_prefix = 'eos-folder-'

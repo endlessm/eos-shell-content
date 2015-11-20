@@ -138,7 +138,7 @@ resource_DATA = \
 	eos-app-store-link-content.gresource \
 	$(NULL)
 
-splashdir = $(datadir)/EndlessOS/splash
+splashdir = $(pkgdatadir)/splash
 splash_DATA = $(default_app_splash)
 
 CLEANFILES += \

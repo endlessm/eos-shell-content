@@ -36,7 +36,6 @@ LINKS_DIR = os.path.join(DATA_DIR, 'links')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
-SPLASH_DIR = '/usr/share/EndlessOS/splash'
 ICON_DIR = os.path.join('icons', '64x64', 'apps')
 IGNORE_ERRORS = True
 JPEG_QUALITY = 90
@@ -81,8 +80,6 @@ if __name__ == '__main__':
 
     from argparse import ArgumentParser
     parser = ArgumentParser(description='Generate desktop files')
-    parser.add_argument('--splashdir', default=SPLASH_DIR,
-                        help='directory where the splash images are installed')
     parser.add_argument('zipfile', nargs='?', default=ZIP_FILENAME,
                         help='zip file to unpack')
     args = parser.parse_args()
@@ -324,8 +321,7 @@ if __name__ == '__main__':
             for link_data in category['links']:
                 id = 'eos-link-' + link_data['linkId']
                 if id not in desktop_objects.keys():
-                    desktop_objects[id] = LinkObject(link_data, LINKS_DIR,
-                                                     args.splashdir, lang)
+                    desktop_objects[id] = LinkObject(link_data, LINKS_DIR, lang)
                 else:
                     name = link_data['linkName']
                     desktop_objects[id].append_localized_name(lang, name)
@@ -338,8 +334,7 @@ if __name__ == '__main__':
     apps_file.close()
     for app_data in apps_json:
         id = app_data['application-id']
-        desktop_objects[id] = AppObject(app_data, BUNDLE_APPS_DIR,
-                                        args.splashdir)
+        desktop_objects[id] = AppObject(app_data, BUNDLE_APPS_DIR)
 
     # For now, the folders.json is not in the CMS output,
     # so we hard-code it in the directory above the processed content

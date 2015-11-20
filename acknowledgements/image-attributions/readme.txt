@@ -7,8 +7,8 @@ app-icons.csv:
 
 app-thumbs.csv:
   - thumbnails (square) and featured images (rectangular) in the app center
-  - /usr/share/application-store/Default/apps/resources/thumbnails
-  - /usr/share/application-store/Default/apps/resources/images
+  - included in the GResource at
+    /usr/share/eos-shell-content/eos-app-store-app-content.gresource
 
 link-icons.csv:
   - desktop icons for suggested websites
@@ -18,8 +18,10 @@ link-icons.csv:
 link-thumbs.csv:
   - discover center thumbnails
   - app center thumbnails for websites (cropped from discover center versions)
-  - /usr/share/EndlessOS/exploration_center/img/discover
-  - /usr/share/application-store/Default/links/images
+  - included in the GResource at
+    /usr/share/eos-shell-content/eos-app-store-link-content.gresource
+  - included in the Chromium extension at
+    /usr/share/eos-exploration-center/eos-exploration-center.crx
 
 Many Endless applications also list image credits by clicking on the
 top bar of the application window (to the left of the minimize button)
