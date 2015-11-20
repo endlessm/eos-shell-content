@@ -244,6 +244,11 @@ class Reporter(object):
             with open(self._args.packages_file, 'r') as f:
                 for line in f:
                     data = line.split()
+                    # HACK: While there is no guarantee that the package name
+                    # corresponds directly with the app ID, for all our
+                    # existing core apps that is the case, and using this
+                    # assumption avoids the need to maintain a look-up table
+                    # between package names and app IDs
                     app_id = data[0]
                     version = data[1]
                     extra = False
