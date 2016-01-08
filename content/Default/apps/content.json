@@ -3808,7 +3808,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Labyrinth allows the creation of mind maps from a mixture of text, freehand drawings, and images from your Journal. There is an infinite sized canvas for your map that can be panned and zoomed while you work. Maps can be exported to Portable Document Format (PDF), or Portable Network Graphics (PNG) for easy uploading to web sites, sharing, and printing by others who may not be using Endless.",
+    "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
     "displayShape": "b1",
     "exec": "labyrinth",
     "featured_img": "",
@@ -3821,8 +3821,8 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "labyrinth-thumb.jpg",
-    "subtitle": "A lightweight mind-mapping activity that supports text, images, and simple drawings",
-    "title": "Labyrinth",
+    "subtitle": "Create mind maps with text, images, and drawings",
+    "title": "Mind Maps",
     "tryexec": ""
   },
   {
@@ -4777,7 +4777,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Start by clicking on (or dragging) blocks from the Turtle palette. Use multiple blocks to create drawings; as the turtle moves under your control, colorful lines are drawn. You add blocks to your program by clicking on or dragging them from the palette to the main area. You can delete a block by dragging it back onto the palette. Click anywhere on a \"stack\" of blocks to start executing that stack or by clicking in the Rabbit (fast), Turtle (slow), or Bug (debug) buttons on the Project Toolbar.",
+    "description": "Learn the basics of computer programming while creating beautiful artwork! First, drag and drop commands for your turtle to follow from the menu. As the turtle moves, it will draw colorful lines behind it. You can change the colors, and start to design your masterpiece, all while learning the basics of computer programming.",
     "displayShape": "b1",
     "exec": "turtleblocks",
     "featured_img": "",
@@ -4790,7 +4790,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "turtleblocks-thumb.jpg",
-    "subtitle": "A Logo-inspired turtle that draws colorful pictures with snap-together visual-programming blocks",
+    "subtitle": "Visually program with turtle art",
     "title": "Turtle Blocks",
     "tryexec": ""
   },

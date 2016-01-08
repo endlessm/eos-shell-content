@@ -15,15 +15,15 @@
 # Nora Jendoubi <jendoubi@stanford.edu>, 2013
 # Nuritzi Sanchez <ns@endlessm.com>, 2013
 # Nuritzi Sanchez <ns@endlessm.com>, 2013-2014
-# Roddy Shuler <roddy@endlessm.com>, 2013-2015
+# Roddy Shuler <roddy@endlessm.com>, 2013-2016
 # Roddy Shuler <roddy@endlessm.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2015-12-08 03:11+0000\n"
-"PO-Revision-Date: 2015-12-08 03:12+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2016-01-08 13:05-0800\n"
+"PO-Revision-Date: 2016-01-08 21:11+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2352,26 +2352,22 @@ msgstr "Crea fichas virtuales de ayuda con este programa para poder aprender y m
 
 #: content/Default/apps/content.json.h:349
 msgctxt "title"
-msgid "Labyrinth"
-msgstr ""
+msgid "Mind Maps"
+msgstr "Mapas mentales"
 
 #: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
-msgid ""
-"A lightweight mind-mapping activity that supports text, images, and simple "
-"drawings"
-msgstr ""
+msgid "Create mind maps with text, images, and drawings"
+msgstr "Crea mapas mentales con texto, imágenes y dibujos"
 
 #: content/Default/apps/content.json.h:351
 msgctxt "description"
 msgid ""
-"Labyrinth allows the creation of mind maps from a mixture of text, freehand "
-"drawings, and images from your Journal. There is an infinite sized canvas "
-"for your map that can be panned and zoomed while you work. Maps can be "
-"exported to Portable Document Format (PDF), or Portable Network Graphics "
-"(PNG) for easy uploading to web sites, sharing, and printing by others who "
-"may not be using Endless."
-msgstr ""
+"Do you ever have a complicated idea, but have trouble organizing it? If so, "
+"try mind mapping! A mind-map is a diagram used to represent words, ideas, "
+"tasks or other items linked to a central key word or idea. You'll be able to"
+" create all kinds of cool diagrams that you can save and share."
+msgstr "¿Alguna vez haz tenido una idea complicada que no podías explicar claramente? Ahora podrás explicar tus ideas con mapas mentales. Un mapa mental es un diagrama con palabras, ideas, tareas u otros elementos que explican una palabra clave o idea central. Podrás crear diagramas interesantes e informativos para guardar y compartir."
 
 #: content/Default/apps/content.json.h:352
 msgctxt "title"
@@ -3023,24 +3019,22 @@ msgstr "¿Te gusta ver películas? Usa este programa para verlas en pantalla com
 #: content/Default/apps/content.json.h:445
 msgctxt "title"
 msgid "Turtle Blocks"
-msgstr ""
+msgstr "Tortuga bloques"
 
 #: content/Default/apps/content.json.h:446
 msgctxt "subtitle"
-msgid ""
-"A Logo-inspired turtle that draws colorful pictures with snap-together "
-"visual-programming blocks"
-msgstr ""
+msgid "Visually program with turtle art"
+msgstr "Programa visualmente y crea una obra de arte"
 
 #: content/Default/apps/content.json.h:447
 msgctxt "description"
 msgid ""
-"Start by clicking on (or dragging) blocks from the Turtle palette. Use "
-"multiple blocks to create drawings; as the turtle moves under your control, "
-"colorful lines are drawn. You add blocks to your program by clicking on or "
-"dragging them from the palette to the main area. You can delete a block by "
-"dragging it back onto the palette. Click anywhere on a "
-msgstr ""
+"Learn the basics of computer programming while creating beautiful artwork! "
+"First, drag and drop commands for your turtle to follow from the menu. As "
+"the turtle moves, it will draw colorful lines behind it. You can change the "
+"colors, and start to design your masterpiece, all while learning the basics "
+"of computer programming."
+msgstr "Aprende conceptos básicos de programación mientras creas hermosas obras de arte. Primero, inventa una serie de bloques de comandos para mover la tortuga como quieras. Cuando la tortuga se mueva, dibujará líneas de colores detrás de ella. En cuanto aprendas a mover la tortuga como la quieras, ¡habrás aprendido acerca de la programación y podrás hacer gran obras de arte!"
 
 #: content/Default/apps/content.json.h:448
 msgctxt "title"
