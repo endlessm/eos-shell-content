@@ -6,6 +6,7 @@
 # Ivan G. Gonçalves <i@endlessm.com>, 2015
 # Joel Gil Leon <joel@endlessm.com>, 2013
 # Maria Helena Antunes Cunha <helena@endlessm.com>, 2014
+# Mariana Barbosa <mari@endlessm.com>, 2016
 # Nuritzi Sanchez <ns@endlessm.com>, 2013
 # Philip Chimento <philip.chimento@gmail.com>, 2015
 # Renato Peixoto Pinto <renato@endlessm.com>, 2013,2015
@@ -15,8 +16,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-01-08 13:05-0800\n"
-"PO-Revision-Date: 2016-01-08 21:05+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2016-01-11 18:16+0000\n"
+"Last-Translator: Mariana Barbosa <mari@endlessm.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2346,12 +2347,12 @@ msgstr "Aprender novas palavras é uma ótima maneira de falar e escrever de for
 #: content/Default/apps/content.json.h:349
 msgctxt "title"
 msgid "Mind Maps"
-msgstr ""
+msgstr "Mapas mentais"
 
 #: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
-msgstr ""
+msgstr "Crie mapas mentais com textos, imagens e desenhos"
 
 #: content/Default/apps/content.json.h:351
 msgctxt "description"
@@ -2360,7 +2361,7 @@ msgid ""
 "try mind mapping! A mind-map is a diagram used to represent words, ideas, "
 "tasks or other items linked to a central key word or idea. You'll be able to"
 " create all kinds of cool diagrams that you can save and share."
-msgstr ""
+msgstr "Você já teve alguma ideia complicada e teve dificuldade para organizá-la? Se a resposta for sim, tente fazer um mapa mental! Um mapa mental é um diagrama usado para representar palavras, ideias, tarefas e outros pontos e associá-los a uma ideia central ou palavra-chave. Você será capaz de criar diferentes diagramas legais e ainda salvar e compartilhar."
 
 #: content/Default/apps/content.json.h:352
 msgctxt "title"
@@ -3012,12 +3013,12 @@ msgstr "Você gosta de assistir filmes? Faça isso do jeito certo com este progr
 #: content/Default/apps/content.json.h:445
 msgctxt "title"
 msgid "Turtle Blocks"
-msgstr ""
+msgstr "Blocos de tartaruga"
 
 #: content/Default/apps/content.json.h:446
 msgctxt "subtitle"
 msgid "Visually program with turtle art"
-msgstr ""
+msgstr "Programe visualmente com arte de tartaruga"
 
 #: content/Default/apps/content.json.h:447
 msgctxt "description"
@@ -3027,7 +3028,7 @@ msgid ""
 "the turtle moves, it will draw colorful lines behind it. You can change the "
 "colors, and start to design your masterpiece, all while learning the basics "
 "of computer programming."
-msgstr ""
+msgstr "Aprenda o básico de programação de computador enquanto cria lindos trabalhos artísticos! Primeiro, arraste e solte os comandos para a sua tartaruga seguir a partir do menu. Na medida em que a tartaruga se move, ela vai deixando rastros de linhas coloridas. Você pode alterar as cores e começar a desenhar sua obra de arte, ao mesmo tempo em que aprende noções básicas de programação. "
 
 #: content/Default/apps/content.json.h:448
 msgctxt "title"
