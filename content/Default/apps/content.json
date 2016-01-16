@@ -3818,7 +3818,12 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "labyrinth-screenshot1.jpg",
+        "labyrinth-screenshot2.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "labyrinth-thumb.jpg",
     "subtitle": "Create mind maps with text, images, and drawings",
@@ -4787,7 +4792,23 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "turtleblocks-screenshot1.jpg",
+        "turtleblocks-screenshot2.jpg",
+        "turtleblocks-screenshot3.jpg"
+      ],
+      "es": [
+        "turtleblocks-screenshot1.jpg",
+        "turtleblocks-screenshot2.jpg",
+        "turtleblocks-screenshot3.jpg"
+      ],
+      "pt": [
+        "turtleblocks-screenshot1.jpg",
+        "turtleblocks-screenshot2.jpg",
+        "turtleblocks-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "turtleblocks-thumb.jpg",
     "subtitle": "Visually program with turtle art",
