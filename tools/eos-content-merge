@@ -88,6 +88,9 @@ class App(object):
         inentry = indesktop['Desktop Entry']
         outentry = outdesktop['Desktop Entry']
 
+        # Keep track of the original upstream English name
+        origname = outentry['Name']
+
         # Copy fields from the content file, with some exceptions
         for field in inentry.keys():
             if field in self.IGNORED_FIELDS:
@@ -107,7 +110,11 @@ class App(object):
         others = OrderedDict()
         for item in outentry.items():
             if item[0].startswith('Name['):
-                names.update([item])
+                # Exclude any instances of the original English name,
+                # (ignoring capitalization), so that those translations
+                # will fall back to our preferred English name instead
+                if item[1].lower() != origname.lower():
+                    names.update([item])
             else:
                 others.update([item])
         names = OrderedDict(sorted(names.items(), key=lambda t: t[0]))
