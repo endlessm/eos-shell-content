@@ -3,8 +3,8 @@ use warnings;
 use strict;
 use Debian::Debhelper::Dh_Lib;
 
-# Run after dh_eosapp so that files are definitely migrated to the
-# proper location.
-insert_after("dh_eosapp", "dh_eoscontent");
+# Run before dh_fixperms so that installed files are
+# completely settled before fixing permissions.
+insert_before("dh_fixperms", "dh_eoscontent");
 
 1;
