@@ -3,7 +3,8 @@ Version=1.0
 Name=Gmail
 Comment=Email from Google
 Type=Application
-Exec=chromium-browser https://mail.google.com/
+Exec=chromium-browser --app=https://mail.google.com/
 Icon=eos-link-gmail
 Categories=Entertainment;
+StartupWMClass=mail.google.com
 X-Endless-LaunchMaximized=true
