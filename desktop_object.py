@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 
 class DesktopObject(object):
 
@@ -11,6 +12,7 @@ class DesktopObject(object):
         'TryExec',
         'Icon',
         'Categories',
+        'StartupWMClass',
         'X-Endless-LaunchMaximized',
         'X-Endless-SplashBackground'
     ]
@@ -23,6 +25,7 @@ class DesktopObject(object):
         self.defaults = {}
         self.defaults['Version'] = '1.0'
         self.defaults['Type'] = 'Application'
+        self.defaults['StartupWMClass'] = None
 
     def get(self, key):
         if key in self.json_keys:
@@ -128,25 +131,41 @@ class LinkObject(DesktopObject):
         # If there's only one URL for this link,
         # just return an exec which opens that url in chromium.
         if len(self._url_locales) == 0:
-            return 'chromium-browser ' + self._default_url
+            return 'chromium-browser --app=' + self._default_url
 
         # Otherwise, send each url with its respective locale 
         # to eos-exec-localized.
         exec_str = 'eos-exec-localized '
-        exec_str += '\'chromium-browser ' + self._default_url + '\' '
+        exec_str += '\'chromium-browser --app=' + self._default_url + '\' '
 
         # Process locales in the same order they were appended
         for locale in self._url_locales:
             url = self._localized_urls[locale]
-            exec_str += locale + ':\'chromium-browser ' + url + '\' '
+            exec_str += locale + ':\'chromium-browser --app=' + url + '\' '
 
         return exec_str
+
+    def _get_wmclass(self):
+        # Add the window manager class field so that the launched
+        # web app uses its own taskbar icon.
+        # Note that for localized execs, this only works properly
+        # for the default URL -- other locales will have the
+        # windows associated with the browser taskbar icon.
+        parsed = urllib.parse.urlparse(self._default_url)
+        wmclass = parsed.netloc
+        trimmed_path = parsed.path.rstrip('/')
+        if trimmed_path:
+            wmclass += '_'
+            wmclass += trimmed_path.replace('/', '_')
+        return wmclass
 
     def get(self, key):
         if key == 'Name':
             return self._get_names()
         elif key == 'Exec':
             return self._get_exec()
+        elif key == 'StartupWMClass':
+            return self._get_wmclass()
         elif key == 'X-Endless-LaunchMaximized':
             return 'true'
         elif key in ['TryExec',
