@@ -110,6 +110,10 @@ class LinkObject(DesktopObject):
         self._prefix = 'eos-link-'
         self._icon_prefix = 'eos-link-'
 
+        # Read the list of links to turn into web apps
+        with open('web-apps.txt') as web_apps_file:
+            self._web_apps = web_apps_file.read().strip().split('\n')
+
     def append_localized_name(self, locale, name):
         if name != self._default_name:
             self._name_locales.append(locale)
@@ -128,15 +132,22 @@ class LinkObject(DesktopObject):
         return name_string
 
     def _get_exec(self):
+        # If this link is white-listed as a web app,
+        # include the appropriate command
+        if self.get('Id') in self._web_apps:
+            app_cmd = '--app='
+        else:
+            app_cmd = ''
+
         # If there's only one URL for this link,
         # just return an exec which opens that url in chromium.
         if len(self._url_locales) == 0:
-            return 'chromium-browser --app=' + self._default_url
+            return 'chromium-browser ' + app_cmd + self._default_url
 
         # Otherwise, send each url with its respective locale 
         # to eos-exec-localized.
         exec_str = 'eos-exec-localized '
-        exec_str += '\'chromium-browser --app=' + self._default_url + '\' '
+        exec_str += '\'chromium-browser ' + app_cmd + self._default_url + '\' '
 
         # Process locales in the same order they were appended
         for locale in self._url_locales:
@@ -146,18 +157,22 @@ class LinkObject(DesktopObject):
         return exec_str
 
     def _get_wmclass(self):
-        # Add the window manager class field so that the launched
+        # If this link is white-listed as a web app,
+        # add the window manager class field so that the launched
         # web app uses its own taskbar icon.
         # Note that for localized execs, this only works properly
         # for the default URL -- other locales will have the
         # windows associated with the browser taskbar icon.
-        parsed = urllib.parse.urlparse(self._default_url)
-        wmclass = parsed.netloc
-        trimmed_path = parsed.path.rstrip('/')
-        if trimmed_path:
-            wmclass += '_'
-            wmclass += trimmed_path.replace('/', '_')
-        return wmclass
+        if self.get('Id') in self._web_apps:
+            parsed = urllib.parse.urlparse(self._default_url)
+            wmclass = parsed.netloc
+            trimmed_path = parsed.path.rstrip('/')
+            if trimmed_path:
+                wmclass += '_'
+                wmclass += trimmed_path.replace('/', '_')
+            return wmclass
+        else:
+            return None
 
     def get(self, key):
         if key == 'Name':
