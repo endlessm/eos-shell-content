@@ -156,7 +156,7 @@ class LinkObject(DesktopObject):
 
         return exec_str
 
-    def _get_wmclass(self):
+    def _get_startup_wmclass(self):
         # If this link is white-listed as a web app,
         # add the window manager class field so that the launched
         # web app uses its own taskbar icon.
@@ -180,7 +180,7 @@ class LinkObject(DesktopObject):
         elif key == 'Exec':
             return self._get_exec()
         elif key == 'StartupWMClass':
-            return self._get_wmclass()
+            return self._get_startup_wmclass()
         elif key == 'X-Endless-LaunchMaximized':
             return 'true'
         elif key in ['TryExec',
