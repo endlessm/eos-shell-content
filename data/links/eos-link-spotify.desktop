@@ -3,7 +3,8 @@ Version=1.0
 Name=Spotify
 Comment=Listen to music using Spotify
 Type=Application
-Exec=chromium-browser https://play.spotify.com/
+Exec=chromium-browser --app=https://play.spotify.com/
 Icon=eos-link-spotify
 Categories=Entertainment;
+StartupWMClass=play.spotify.com
 X-Endless-LaunchMaximized=true

@@ -3,7 +3,8 @@ Version=1.0
 Name=Duolingo
 Comment=Learn a new language
 Type=Application
-Exec=chromium-browser https://www.duolingo.com/
+Exec=chromium-browser --app=https://www.duolingo.com/
 Icon=eos-link-duolingo
 Categories=Education;Health;
+StartupWMClass=www.duolingo.com
 X-Endless-LaunchMaximized=true

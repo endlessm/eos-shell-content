@@ -3,7 +3,8 @@ Version=1.0
 Name=Facebook
 Comment=Social Network
 Type=Application
-Exec=eos-exec-localized 'chromium-browser http://www.facebook.com/' es:'chromium-browser https://www.facebook.com/' 
+Exec=chromium-browser --app=https://www.facebook.com/
 Icon=eos-link-facebook
 Categories=Entertainment;
+StartupWMClass=www.facebook.com
 X-Endless-LaunchMaximized=true
