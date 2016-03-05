@@ -1531,6 +1531,28 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.prensa-libre",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "TBD",
+    "displayShape": "b1",
+    "exec": "eos-prensa-libre",
+    "featured_img": "",
+    "icon": "com.endlessm.prensa-libre-icon.png",
+    "is_featured": true,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.prensa-libre-thumb.png",
+    "subtitle": "Toda la informaci\u00f3n de Guatemala y el mundo",
+    "title": "Prensa Libre",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.programming",
     "category": "Education",
     "core": false,
