@@ -1534,8 +1534,8 @@
     "application-id": "com.endlessm.prensa-libre",
     "category": "Resources",
     "core": false,
-    "custom-splash-screen": "",
-    "description": "All the latest news and information on sports, culture and entertainment, politics, and economics, from Guatemala and the world, produced by the traditional newspaper Prensa Libre. Content is updated regularly and when you go online you will receive the latest news available. The articles remain stored on your computer for you to be able to read them offline, at your convenience.",
+    "custom-splash-screen": "com.endlessm.prensa-libre-splash.jpg",
+    "description": "All the latest news and information on sports, culture and entertainment, politics, and economics, from Guatemala and the world, produced by the established newspaper Prensa Libre. Content is updated regularly and when you go online you will receive the latest news available. The articles remain stored on your computer for you to be able to read them offline, at your convenience.",
     "displayShape": "b2h",
     "exec": "eos-prensa-libre",
     "featured_img": "com.endlessm.prensa-libre-featured.jpg",
@@ -1546,7 +1546,7 @@
       "Guatemala"
     ],
     "screenshots": [],
-    "splash-screen-type": "Default",
+    "splash-screen-type": "Custom",
     "square_img": "com.endlessm.prensa-libre-thumb.jpg",
     "subtitle": "All the news about Guatemala and the world",
     "title": "Prensa Libre",
@@ -2219,35 +2219,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "eos-file-manager",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Get organized with this app, which helps you find all of your documents and files, no matter how long ago you saved them. Organize things in a way that makes sense to you, adding and re-naming folders in a way that will help you stay on top of your pictures, videos, and documents. With this app, you can store everything in one place and you\u2019ll never lose that important file or special photo again.",
-    "displayShape": "b1",
-    "exec": "eos-file-manager %U",
-    "featured_img": "",
-    "icon": "eos-file-manager-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "eos-file-manager-screenshot1.jpg"
-      ],
-      "es": [
-        "eos-file-manager-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "eos-file-manager-thumb.jpg",
-    "subtitle": "Access all of your documents and files",
-    "title": "Documents",
-    "tryexec": ""
-  },
-  {
     "application-id": "etoys",
     "category": "Education",
     "core": false,
@@ -2566,44 +2537,6 @@
     "square_img": "gcompris-admin-thumb.jpg",
     "subtitle": "For teachers to help their students learn",
     "title": "EduGames Admin",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gedit",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Use this simple app to create and edit files that require plain text inputs. If you are a programmer or an aspiring programmer, you will need this app. With robust functionality and an easy-to-use interface, this text editor should be perfect for all of your text editing needs.",
-    "displayShape": "b1",
-    "exec": "gedit %U",
-    "featured_img": "",
-    "icon": "gedit-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gedit-screenshot1.jpg",
-        "gedit-screenshot2.jpg",
-        "gedit-screenshot3.jpg"
-      ],
-      "es": [
-        "gedit-screenshot1.jpg",
-        "gedit-screenshot2.jpg",
-        "gedit-screenshot3.jpg"
-      ],
-      "pt": [
-        "gedit-screenshot1.jpg",
-        "gedit-screenshot2.jpg",
-        "gedit-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gedit-thumb.jpg",
-    "subtitle": "A simple text editor for all of your text editing needs",
-    "title": "Gedit",
     "tryexec": ""
   },
   {
@@ -4152,6 +4085,109 @@
     "tryexec": ""
   },
   {
+    "application-id": "org.gnome.Nautilus",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Get organized with this app, which helps you find all of your documents and files, no matter how long ago you saved them. Organize things in a way that makes sense to you, adding and re-naming folders in a way that will help you stay on top of your pictures, videos, and documents. With this app, you can store everything in one place and you\u2019ll never lose that important file or special photo again.",
+    "displayShape": "b1",
+    "exec": "eos-file-manager %U",
+    "featured_img": "",
+    "icon": "org.gnome.nautilus-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.nautilus-screenshot1.jpg"
+      ],
+      "es": [
+        "org.gnome.nautilus-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "org.gnome.nautilus-thumb.jpg",
+    "subtitle": "Access all of your documents and files",
+    "title": "Documents",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Totem",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Do you love watching movies? Do it the right way with this video application that allows you to watch movies you have downloaded in full-screen mode. Other basics, like volume control and playlists, make your video-watching experience easy and fun. With this application you'll want to invite all of your family and friends to join you in watching all of your favorite movies!",
+    "displayShape": "b1",
+    "exec": "sh -c \"totem --pause `xdg-user-dir VIDEOS`\"",
+    "featured_img": "",
+    "icon": "org.gnome.totem-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.totem-screenshot1.jpg",
+        "org.gnome.totem-screenshot2.jpg"
+      ],
+      "es": [
+        "org.gnome.totem-screenshot1.jpg",
+        "org.gnome.totem-screenshot2.jpg",
+        "org.gnome.totem-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.gnome.totem-screenshot1.jpg",
+        "org.gnome.totem-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.totem-thumb.jpg",
+    "subtitle": "Full function video and media player",
+    "title": "Videos",
+    "tryexec": "totem"
+  },
+  {
+    "application-id": "org.gnome.gedit",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Use this simple app to create and edit files that require plain text inputs. If you are a programmer or an aspiring programmer, you will need this app. With robust functionality and an easy-to-use interface, this text editor should be perfect for all of your text editing needs.",
+    "displayShape": "b1",
+    "exec": "gedit %U",
+    "featured_img": "",
+    "icon": "org.gnome.gedit-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.gedit-screenshot1.jpg",
+        "org.gnome.gedit-screenshot2.jpg",
+        "org.gnome.gedit-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gnome.gedit-screenshot1.jpg",
+        "org.gnome.gedit-screenshot2.jpg",
+        "org.gnome.gedit-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.gnome.gedit-screenshot1.jpg",
+        "org.gnome.gedit-screenshot2.jpg",
+        "org.gnome.gedit-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.gedit-thumb.jpg",
+    "subtitle": "A simple text editor for all of your text editing needs",
+    "title": "Gedit",
+    "tryexec": ""
+  },
+  {
     "application-id": "palapeli",
     "category": "Games",
     "core": false,
@@ -4762,42 +4798,6 @@
     "subtitle": "Race cool 3D cars in this realistic game",
     "title": "TORCS",
     "tryexec": ""
-  },
-  {
-    "application-id": "totem",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Do you love watching movies? Do it the right way with this video application that allows you to watch movies you have downloaded in full-screen mode. Other basics, like volume control and playlists, make your video-watching experience easy and fun. With this application you'll want to invite all of your family and friends to join you in watching all of your favorite movies!",
-    "displayShape": "b1",
-    "exec": "sh -c \"totem --pause `xdg-user-dir VIDEOS`\"",
-    "featured_img": "",
-    "icon": "totem-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "totem-screenshot1.jpg",
-        "totem-screenshot2.jpg"
-      ],
-      "es": [
-        "totem-screenshot1.jpg",
-        "totem-screenshot2.jpg",
-        "totem-screenshot3.jpg"
-      ],
-      "pt": [
-        "totem-screenshot1.jpg",
-        "totem-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "totem-thumb.jpg",
-    "subtitle": "Full function video and media player",
-    "title": "Videos",
-    "tryexec": "totem"
   },
   {
     "application-id": "turtleblocks",

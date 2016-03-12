@@ -19,6 +19,6 @@ Comment[zh_CN]=功能齐全的视频媒体播放器
 Type=Application
 Exec=sh -c "totem --pause `xdg-user-dir VIDEOS`"
 TryExec=totem
-Icon=eos-app-totem
+Icon=eos-app-org.gnome.Totem
 Categories=Utility;
 X-Endless-LaunchMaximized=true
