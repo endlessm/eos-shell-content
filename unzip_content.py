@@ -372,9 +372,13 @@ if __name__ == '__main__':
     # Copy and rename the app icons to the icon folder
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'icons')
     target_dir = ICON_DIR
-    for source in os.listdir(source_dir):
+    for app_data in apps_json:
         # Rename the icons from name-icon.png to eos-app-name.png
-        target = APP_PREFIX + source.replace('-icon.png', '.png')
+        # Note that the CMS does not respect capitalization
+        # in the source icon name, so we need to generate the
+        # target file name based on the actual app ID
+        source = app_data['icon']
+        target = APP_PREFIX + app_data['application-id'] + '.png'
         source_file = os.path.join(source_dir, source)
         target_file = os.path.join(target_dir, target)
         shutil.copy(source_file, target_file)
