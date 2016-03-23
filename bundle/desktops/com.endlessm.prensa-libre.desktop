@@ -1,7 +1,17 @@
 [Desktop Entry]
 Version=1.0
 Name=Prensa Libre
+Name[ar]=برنسا ليبري
+Name[es]=Prensa Libre
+Name[fr]=Prensa Libre
+Name[id]=Prensa Libre
+Name[pt_BR]=Prensa Libre
 Comment=All the news about Guatemala and the world
+Comment[ar]=كل الأخبار حول غواتيمالا والعالم
+Comment[es]=Toda la información de Guatemala y el mundo
+Comment[fr]=Toute l'actualité du Guatemala et du monde
+Comment[id]=Semua berita tentang Guatemala dan dunia
+Comment[pt_BR]=Todas as notícias sobre a Guatemala e o mundo
 Type=Application
 Exec=eos-prensa-libre
 Icon=eos-app-com.endlessm.prensa-libre
