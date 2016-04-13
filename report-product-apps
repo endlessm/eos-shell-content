@@ -34,6 +34,16 @@ SERVERS = {'production' : 'https://appupdates.endlessm.com',
            'master'     : 'https://master.appupdates.endlessm-sf.com'}
 ARCHS = {'i386', 'armhf'}
 
+REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
+                                      'first_version': '2.6.0'},
+                'gedit'            : {'id': 'org.gnome.gedit',
+                                      'first_version': '2.6.0'},
+                'nautilus'         : {'id': 'org.gnome.Nautilus',
+                                      'first_version': '2.6.0',
+                                      'ignore_before': True},
+                'totem'            : {'id': 'org.gnome.Totem',
+                                      'first_version': '2.6.0'}}
+
 ALREADY_USED = 'used'
 
 # The image builder uses unusual values for booleans in the apps.txt file
@@ -241,6 +251,54 @@ class Reporter(object):
             csv_row.append(self._translate(description))
         self._csv_writer.writerow(csv_row)
 
+    def _package_to_app_ids(self, package):
+        # HACK: While there is no guarantee that the package name
+        # corresponds directly with the app ID, for most our
+        # existing core apps that is the case, and using this
+        # assumption avoids the need to maintain a look-up table
+        # between package names and app IDs.
+        # However, starting with 2.6.0, we now have GNOME apps
+        # such as nautilus that have app IDs such as org.gnome.Nautilus.
+        # This function maps from package name to app ID,
+        # both as it exists in the JSON file (json_id)
+        # and as it was in the OS version being reported (report_id).
+        # Note that this hack will lose alphabetical order
+        # by app ID in the resulting CSV file.
+
+        if package not in REMAPPED_IDS:
+            # For any app IDs that have not been remapped,
+            # assume that the app ID is the package name
+            report_id = package
+            json_id = package
+            return report_id, json_id
+
+        mapping = REMAPPED_IDS[package]
+
+        # Use the new app ID to index the JSON file
+        json_id = mapping['id']
+
+        if apt_pkg.version_compare(self._args.os_version,
+                                   mapping['first_version']) < 0:
+
+            # For OS versions before the app ID remapping,
+            # report the old app ID (i.e., the package name)
+            report_id = package
+
+            if mapping.get('ignore_before', False):
+                # This older package is not exposed as the app,
+                # so ignore it (i.e., don't try to map it to
+                # an entry in the JSON file)
+                # (e.g., the older virtual package nautilus,
+                # back when we had rebranded as eos-file-manager)
+                json_id = package
+
+        else:
+            # For OS versions after the app ID remapping,
+            # report the new app ID
+            report_id = json_id
+
+        return report_id, json_id
+
     def _list_core_apps(self):
         # Read in the list of core packages
         if not self._args.packages_file.endswith('packages.txt'):
@@ -250,22 +308,18 @@ class Reporter(object):
             with open(self._args.packages_file, 'r') as f:
                 for line in f:
                     data = line.split()
-                    # HACK: While there is no guarantee that the package name
-                    # corresponds directly with the app ID, for all our
-                    # existing core apps that is the case, and using this
-                    # assumption avoids the need to maintain a look-up table
-                    # between package names and app IDs
-                    app_id = data[0]
+                    package_name = data[0]
+                    report_id, json_id = self._package_to_app_ids(package_name)
                     version = data[1]
                     extra = False
                     split = False
-                    json_row = self._get_json_row(app_id)
+                    json_row = self._get_json_row(json_id)
                     if json_row == ALREADY_USED:
                         exit_with_error('Unexpected duplicate entry for %s' %
-                                        app_id)
+                                        json_id)
                     if json_row:
                         json_row['size'] = 'System App'
-                        self._write_csv_row('Core', app_id, version,
+                        self._write_csv_row('Core', report_id, version,
                                             extra, split, json_row)
                     # If no json data found, we can simply assume that
                     # this is a core package for which we don't expose
