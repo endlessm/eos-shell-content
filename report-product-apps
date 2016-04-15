@@ -88,11 +88,11 @@ class Reporter(object):
         self._args = args
 
         # Check the version number format
-        ver = self._args.os_version.split('.')
-        if len(ver) != 3 \
-           or not ver[0].isdigit() \
-           or not ver[1].isdigit() \
-           or not ver[2].isdigit():
+        version = self._args.os_version.split('.')
+        if len(version) != 3 \
+           or not version[0].isdigit() \
+           or not version[1].isdigit() \
+           or not version[2].isdigit():
             exit_with_error('Invalid OS version number: %s (should be x.y.z)' %
                             self._args.os_version)
 
