@@ -4,6 +4,7 @@
 # This script requires python3 polib
 # (sudo apt-get install python3-polib)
 
+import apt_pkg
 import argparse
 import csv
 import json
@@ -11,6 +12,8 @@ import os
 import polib
 import sys
 import urllib.request
+
+apt_pkg.init_system()
 
 CONTENT_JSON = 'content/Default/apps/content.json'
 PO_DIR = 'po'
@@ -333,7 +336,8 @@ class Reporter(object):
                     if version_app['isDiff']:
                         continue
                     if version_app['appId'] == app_id and \
-                       version_app['codeVersion'] > version:
+                       apt_pkg.version_compare(version_app['codeVersion'],
+                                               version) > 0:
                         version = version_app['codeVersion']
                         size = version_app['installedSize']
                 json_row['size'] = size
