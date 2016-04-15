@@ -4,6 +4,7 @@
 # This script requires python3 polib
 # (sudo apt-get install python3-polib)
 
+import apt_pkg
 import argparse
 import csv
 import json
@@ -11,6 +12,8 @@ import os
 import polib
 import sys
 import urllib.request
+
+apt_pkg.init_system()
 
 CONTENT_JSON = 'content/Default/apps/content.json'
 PO_DIR = 'po'
@@ -194,6 +197,7 @@ class Reporter(object):
         self._csv_writer = csv.writer(self._csv_file, lineterminator='\n')
         csv_header = []
         csv_header.append('App Type')
+        csv_header.append('Category')
         csv_header.append('App ID')
         csv_header.append('Version')
         csv_header.append('Size (MB)')
@@ -210,6 +214,7 @@ class Reporter(object):
         self._csv_file.close()
 
     def _write_csv_row(self, app_type, app_id, version, extra, split, json_row):
+        category = json_row['category']
         size = json_row['size']
         if isinstance(size, str):
             size_string = size
@@ -223,6 +228,7 @@ class Reporter(object):
         description = json_row['description']
         csv_row = []
         csv_row.append(app_type)
+        csv_row.append(category)
         csv_row.append(app_id)
         csv_row.append(version)
         csv_row.append(size_string)
@@ -330,7 +336,8 @@ class Reporter(object):
                     if version_app['isDiff']:
                         continue
                     if version_app['appId'] == app_id and \
-                       version_app['codeVersion'] > version:
+                       apt_pkg.version_compare(version_app['codeVersion'],
+                                               version) > 0:
                         version = version_app['codeVersion']
                         size = version_app['installedSize']
                 json_row['size'] = size
