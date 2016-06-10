@@ -1,0 +1,9 @@
+#!/bin/sh
+
+BUCKET_NAME=com-endlessm-eos--shell--content-master
+
+for i in content/Default/apps/resources/splash/*-splash.jpg bundle/desktops/*.desktop icons/64x64/apps/eos-app-*.png; do
+    echo $i
+    aws s3 cp "$i" "s3://$BUCKET_NAME/$i"
+done
+
