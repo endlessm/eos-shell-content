@@ -100,13 +100,14 @@ if __name__ == '__main__':
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
     # until the CMS is reworked
-    locales = ['en-us', 'en-us', 'es-gt', 'pt-br']
-    personalities = ['default', 'Global', 'Guatemala', 'Brazil']
+    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh-hans']
+    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China']
 
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
     # until the CMS is reworked
-    languages = [None, 'C', 'es', 'pt']
+    # For now, we don't have Chinese screenshots
+    languages = [None, 'C', 'es', 'pt', None]
 
     # Copy the app json to the content folder
     # with tweaks to the json content
@@ -233,8 +234,8 @@ if __name__ == '__main__':
         convert(source_file, target_file, '')
 
     # Special handling of link locales for es vs. es_GT
-    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['pt-br']]
-    link_languages = ['C', 'es', 'es_GT', 'pt_BR']
+    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['pt-br'], ['zh-hans']]
+    link_languages = ['C', 'es', 'es_GT', 'pt_BR', 'zh_CN']
 
     # Copy and rename the links json to the content folder
     source_dir = os.path.join(UNZIP_DIR, 'links')
@@ -469,7 +470,9 @@ if __name__ == '__main__':
                 elif personality == 'all':
                     if id in localized_apps:
                         for lang in all_langs:
-                            app_ids.append(id + '-' + lang)
+                            # For now, we don't have Chinese KAs
+                            if lang != 'zh':
+                                app_ids.append(id + '-' + lang)
                     else:
                         app_ids.append(id)
                 else:
@@ -477,7 +480,9 @@ if __name__ == '__main__':
                     if 'All' in app_personalities \
                             or personality in app_personalities:
                         if id in localized_apps:
-                            app_ids.append(id + '-' + langs[personality])
+                            # For now, we don't include any KAs for China
+                            if personality != 'China':
+                                app_ids.append(id + '-' + langs[personality])
                         else:
                             app_ids.append(id)
         app_ids.sort()

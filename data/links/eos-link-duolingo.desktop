@@ -1,9 +1,10 @@
 [Desktop Entry]
 Version=1.0
 Name=Duolingo
+Name[zh]=多邻国
 Comment=Learn a new language
 Type=Application
-Exec=chromium-browser --app=https://www.duolingo.com/
+Exec=eos-exec-localized 'chromium-browser --app=https://www.duolingo.com/' zh:'chromium-browser http://www.duolingo.cn/' 
 Icon=eos-link-duolingo
 Categories=Education;Health;
 StartupWMClass=www.duolingo.com

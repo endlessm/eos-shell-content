@@ -28,7 +28,9 @@ LOCALES = {'ar'    : {'lang': 'ar'    , 'personality': 'Arabic' ,
            'fr'    : {'lang': 'fr'    , 'personality': 'Haiti' ,
                       'app_locales': {'fr', 'en'}},
            'pt_BR' : {'lang': 'pt_BR' , 'personality': 'Brazil' ,
-                      'app_locales': {'pt_BR', 'pt'}}}
+                      'app_locales': {'pt_BR', 'pt'}},
+           'zh_CN' : {'lang': 'zh_CN' , 'personality': 'China' ,
+                      'app_locales': {'zh_CN', 'zh'}}}
 SERVERS = {'production' : 'https://appupdates.endlessm.com',
            'staging'    : 'https://staging.appupdates.endlessm.com',
            'master'     : 'https://master.appupdates.endlessm-sf.com'}

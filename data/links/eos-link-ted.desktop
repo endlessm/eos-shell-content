@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=TED
+Name[zh]=TED TALK（英文原站）
 Comment=Online lectures
 Type=Application
 Exec=eos-exec-localized 'chromium-browser http://www.ted.com/' es:'chromium-browser http://www.ted.com/translate/languages/es/' pt:'chromium-browser http://www.ted.com/translate/languages/pt-br/' 
