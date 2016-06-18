@@ -413,7 +413,7 @@ if __name__ == '__main__':
                             mask_file = 'icon_mask.png'
 
                             convert(source_file, target_file,
-                                    '-resize 64x64^ -gravity center -crop 64x64+0+0 -alpha set ' + mask_file + ' -compose DstIn -composite')
+                                    '-resize 64x64^ -gravity center -crop 64x64+0+0 -alpha set ' + mask_file + ' -compose DstIn -composite -define png:exclude-chunks=date,time')
                         else:
                             # Simply copy existing icon asset to destination
                             source_file = os.path.join(source_dir, icon_path)
