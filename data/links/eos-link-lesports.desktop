@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=乐视体育
+Comment=乐视体育频道
+Type=Application
+Exec=chromium-browser http://www.lesports.com/
+Icon=eos-link-lesports
+Categories=Sports;
+X-Endless-LaunchMaximized=true

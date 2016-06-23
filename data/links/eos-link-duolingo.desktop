@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=Duolingo
-Name[zh]=多邻国
+Name[zh]=多邻国 英语
 Comment=Learn a new language
 Type=Application
 Exec=eos-exec-localized 'chromium-browser --app=https://www.duolingo.com/' zh:'chromium-browser http://www.duolingo.cn/' 

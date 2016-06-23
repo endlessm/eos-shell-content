@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=酷学习
+Comment=主要针对K12（从小学一年级到高三）为对象的“慕课”平台
+Type=Application
+Exec=chromium-browser http://kuxuexi.com/
+Icon=eos-link-kuxuexi
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

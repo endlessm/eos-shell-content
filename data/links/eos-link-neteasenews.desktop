@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=网易新闻
+Comment=网易新闻频道
+Type=Application
+Exec=chromium-browser http://news.163.com/
+Icon=eos-link-neteasenews
+Categories=News;
+X-Endless-LaunchMaximized=true

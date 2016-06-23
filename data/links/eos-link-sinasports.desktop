@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=新浪体育
+Comment=提供最快速最全面最专业的体育新闻和赛事报道
+Type=Application
+Exec=chromium-browser http://sports.sina.com.cn/
+Icon=eos-link-sinasports
+Categories=Sports;
+X-Endless-LaunchMaximized=true

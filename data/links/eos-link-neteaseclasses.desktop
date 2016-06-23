@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=国际名校公开课（网易公开课）
+Comment=耶鲁、斯坦福、牛津、麻省理工等国际名校的公开课视频
+Type=Application
+Exec=chromium-browser http://open.163.com/ocw/
+Icon=eos-link-neteaseclasses
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=微信
+Comment=腾讯微信
+Type=Application
+Exec=chromium-browser https://web.wechat.com/
+Icon=eos-link-wechat
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

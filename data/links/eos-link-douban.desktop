@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=豆瓣
+Comment=提供图书、电影、音乐唱片的推荐、评论
+Type=Application
+Exec=chromium-browser https://www.douban.com/
+Icon=eos-link-douban
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

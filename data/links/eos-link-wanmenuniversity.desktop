@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=万门大学
+Comment=中国第一所网络大学
+Type=Application
+Exec=chromium-browser http://www.wanmen.org/
+Icon=eos-link-wanmenuniversity
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

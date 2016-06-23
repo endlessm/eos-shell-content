@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=学堂在线
+Comment=免费公开的MOOC（大规模开放在线课程）平台
+Type=Application
+Exec=chromium-browser http://www.xuetangx.com/
+Icon=eos-link-xuetangx
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

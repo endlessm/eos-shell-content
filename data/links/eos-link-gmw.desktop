@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=光明网
+Comment=光明日报在网络的延伸
+Type=Application
+Exec=chromium-browser http://gmw.cn/
+Icon=eos-link-gmw
+Categories=News;
+X-Endless-LaunchMaximized=true

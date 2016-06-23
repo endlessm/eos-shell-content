@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=QQ
+Comment=腾讯QQ
+Type=Application
+Exec=chromium-browser http://w.qq.com/
+Icon=eos-link-qq
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

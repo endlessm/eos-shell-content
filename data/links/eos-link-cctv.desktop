@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=央视网
+Comment=中国网络电视台旗下互联网站业务，也是中央重点新闻网站
+Type=Application
+Exec=chromium-browser http://www.cntv.cn/
+Icon=eos-link-cctv
+Categories=News;
+X-Endless-LaunchMaximized=true
