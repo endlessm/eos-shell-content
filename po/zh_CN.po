@@ -5,6 +5,7 @@
 # Translators:
 # chenzibing <chenzibing_endless@126.com>, 2016
 # liuxuejiao <liuxuejiao_endless@126.com>, 2016
+# Marco Mai <marco@endlessm.com>, 2016
 # Roddy Shuler <roddy@endlessm.com>, 2016
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
 # zhifeng peng <jnufeng@126.com>, 2016
@@ -14,8 +15,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-06-22 23:33-0400\n"
-"PO-Revision-Date: 2016-06-23 03:47+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2016-06-23 20:58+0000\n"
+"Last-Translator: Marco Mai <marco@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1943,7 +1944,7 @@ msgstr "此游戏逻辑性极强，但充满趣味。球藏在屏幕中的黑盒
 #: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "KBruch"
-msgstr "KBruch"
+msgstr "学分数"
 
 #: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
@@ -2290,7 +2291,7 @@ msgstr "这个令人费解的游戏有很多选项,让你的大脑不停地工�
 #: content/Default/apps/content.json.h:340
 msgctxt "title"
 msgid "KWordQuiz"
-msgstr "KWordQuiz"
+msgstr "背单词"
 
 #: content/Default/apps/content.json.h:341
 msgctxt "subtitle"
@@ -2350,7 +2351,7 @@ msgstr "这个经典游戏乐趣无穷!目标就是用你的球摧毁砖,这样�
 #: content/Default/apps/content.json.h:349
 msgctxt "title"
 msgid "Spreadsheet"
-msgstr "电子表格程序"
+msgstr "电子表格"
 
 #: content/Default/apps/content.json.h:350
 msgctxt "subtitle"
@@ -2371,7 +2372,7 @@ msgstr "无论你需要何种跟踪,电子表格应用程序可以帮助你。�
 #: content/Default/apps/content.json.h:352
 msgctxt "title"
 msgid "Presentation"
-msgstr "展示"
+msgstr "演示"
 
 #: content/Default/apps/content.json.h:353
 msgctxt "subtitle"
@@ -2392,7 +2393,7 @@ msgstr "该App旨在创建清洁、有吸引力和专业的演示程序。这个
 #: content/Default/apps/content.json.h:355
 msgctxt "title"
 msgid "Writer"
-msgstr "作者"
+msgstr "文本处理"
 
 #: content/Default/apps/content.json.h:356
 msgctxt "subtitle"
@@ -2953,7 +2954,7 @@ msgstr "这是一款类似于超级马里奥兄弟的游戏，游戏中您控制
 #: content/Default/apps/content.json.h:436
 msgctxt "title"
 msgid "Tux Kart"
-msgstr "Tux Kart"
+msgstr "Tux赛车"
 
 #: content/Default/apps/content.json.h:437
 msgctxt "subtitle"
@@ -3056,7 +3057,7 @@ msgstr "您喜欢踢足球吗？现在加入这个游戏，您可以和您的企
 #: content/Default/apps/content.json.h:451
 msgctxt "title"
 msgid "Tux Math"
-msgstr "Tux Math"
+msgstr "Tux数学"
 
 #: content/Default/apps/content.json.h:452
 msgctxt "subtitle"
