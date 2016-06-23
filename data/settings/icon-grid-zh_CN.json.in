@@ -2,21 +2,35 @@
   "desktop" : [
     "chromium-browser.desktop",
     "eos-file-manager.desktop",
-    "libreoffice-writer.desktop",
-    "rhythmbox.desktop",
-    "com.endlessm.photos.desktop",
-    "eos-folder-media.directory",
-    "eos-folder-games.directory",
-    "eos-folder-work.directory",
     "eos-folder-curiosity.directory",
-    "eos-folder-social.directory"
+    "eos-folder-work.directory",
+    "eos-folder-tools.directory",
+    "eos-folder-games.directory",
+    "eos-folder-social.directory",
+    "eos-link-duolingo.desktop",
+    "kwordquiz.desktop",
+    "kbruch.desktop",
+    "gnome-control-center.desktop"
   ],
-  "eos-folder-media.directory" : [
-    "shotwell.desktop",
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.math-zh_CN.desktop",
+    "com.endlessm.english-zh_CN.desktop"
+  ],
+  "eos-folder-work.directory" : [
+    "libreoffice-writer.desktop",
+    "libreoffice-calc.desktop",
+    "libreoffice-impress.desktop"
+  ],
+  "eos-folder-tools.directory" : [
+    "rhythmbox.desktop",
     "totem.desktop",
     "audacity.desktop",
-    "tuxpaint.desktop",
-    "gimp.desktop"
+    "shotwell.desktop",
+    "com.endlessm.photos.desktop",
+    "gimp.desktop",
+    "gnome-calculator.desktop",
+    "eos-link-baidudict.desktop",
+    "eos-link-bingdict.desktop"
   ],
   "eos-folder-games.directory" : [
     "supertuxkart.desktop",
@@ -34,18 +48,10 @@
     "extremetuxracer.desktop",
     "warmux.desktop"
   ],
-  "eos-folder-work.directory" : [
-    "libreoffice-calc.desktop",
-    "libreoffice-impress.desktop",
-    "gnome-calculator.desktop",
-    "com.endlessm.finance.desktop",
-    "com.endlessm.resume.desktop"
-  ],
-  "eos-folder-curiosity.directory" : [
-    "marble.desktop",
-    "eos-link-duolingo.desktop"
-  ],
   "eos-folder-social.directory" : [
+    "eos-link-wechat.desktop",
+    "eos-link-qq.desktop",
+    "eos-link-whatsapp.desktop",
     "evolution.desktop"
   ]
 }
