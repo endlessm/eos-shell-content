@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=KHangMan
+Name[ar]=كي هانجمان
+Name[es]=Ahorcado
+Name[fr]=KHangMan
+Name[hi]=केहैंगमैन
+Name[id]=KHangMan
+Name[pt_BR]=Forca
+Name[th]=KHangMan
+Name[vi]=KHangMan
+Name[zh_CN]=KHangMan
+Comment=One of the most fun word games on earth
+Comment[ar]=واحدة من أكثر ألعاب الكلمات متعة على الأرض
+Comment[es]=Juego de vocabulario hecho para niños de 6+ años
+Comment[fr]=Un des jeux de mots les plus amusants du monde
+Comment[hi]=धरती का एक सबसे मजेदार गेम
+Comment[id]=Salah satu gim kata terseru di dunia
+Comment[pt_BR]=Um dos jogos de palavra mais divertidos do planeta
+Comment[th]=หนึ่งในเกมคำศัพท์ที่สนุกที่สุดในโลก
+Comment[vi]=Một trong những trò chơi từ vựng vui nhộn nhất thế giới
+Comment[zh_CN]=最好玩的单词游戏之一
+Type=Application
+Exec=khangman -caption %c %i
+Icon=eos-app-org.kde.Khangman
+Categories=Games;
+X-Endless-LaunchMaximized=true

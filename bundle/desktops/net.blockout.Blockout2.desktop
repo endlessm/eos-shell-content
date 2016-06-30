@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=BlockOut 2
+Name[ar]=بلوك أوت 2
+Name[es]=Bloques
+Name[fr]=BlockOut 2 
+Name[hi]=ब्लॉकआउट2
+Name[id]=BlockOut 2
+Name[pt_BR]=BlockOut 2
+Name[th]=บล็อคเอ้าท์ 2
+Name[vi]=BlockOut 2
+Name[zh_CN]=BlockOut 2
+Comment=3D Tetris-style game
+Comment[ar]=لعبة ثلاثية الأبعاد على نمط تتريس
+Comment[es]=Este es el juego clásico de Tetris, pero en 3D
+Comment[fr]=Jeu 3D style Tetris
+Comment[hi]=3D टेट्रिस-स्टाइल गेम
+Comment[id]=Gim bergaya Tetris 3D
+Comment[pt_BR]=Tetris 3D
+Comment[th]=เกมสไตล์ Tetris 3D
+Comment[vi]=Trò chơi kiểu xếp gạch 3D
+Comment[zh_CN]=俄罗斯方块风格3D游戏
+Type=Application
+Exec=blockout2
+Icon=eos-app-net.blockout.Blockout2
+Categories=Games;
+X-Endless-LaunchMaximized=true

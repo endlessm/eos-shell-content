@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=KBlocks
+Name[ar]=كي بلوكس
+Name[es]=TetriBloques
+Name[fr]=KBlocks
+Name[hi]=केब्लॉक्स
+Name[id]=KBlocks
+Name[pt_BR]=KBlocks
+Name[th]=KBlocks
+Name[vi]=KBlocks
+Name[zh_CN]=KBlocks
+Comment=Match blocks to destroy them and win
+Comment[ar]=طابق القطع لتدميرها و الفوز
+Comment[es]=Combina bloques de manera que se desaparezcan
+Comment[fr]=Faites correspondre les blocs pour les détruire et gagner
+Comment[hi]=ब्लॉक्स को नष्ट करने और जीतने के लिए उन्हें मैच करें
+Comment[id]=Cocokkan balok untuk menghancurkannya dan menang
+Comment[pt_BR]=Agrupe os blocos para destruí-los e ganhar o jogo
+Comment[th]=จับคู่บล็อคเพื่อทำลายมันและชนะ
+Comment[vi]=Khớp các khối gạch để phá hủy và giành chiến thắng
+Comment[zh_CN]=匹配并消除方块，赢得游戏
+Type=Application
+Exec=kblocks -caption %c
+Icon=eos-app-org.kde.Kblocks
+Categories=Games;
+X-Endless-LaunchMaximized=true

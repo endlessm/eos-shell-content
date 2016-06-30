@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Mind Maps
+Name[ar]=الخرائط الذهنية
+Name[es]=Mapas mentales
+Name[fr]=Cartes heuristiques
+Name[hi]=माइंड मैप्स
+Name[id]=Pemetaan Pikiran
+Name[pt_BR]=Mapas mentais
+Name[th]=แผนที่ความคิด
+Name[vi]=Bản đồ tư duy
+Name[zh_CN]=思维导图
+Comment=Create mind maps with text, images, and drawings
+Comment[ar]=كوّن خرائط ذهنيّة باستخدام النصوص والصور، والرسومات
+Comment[es]=Crea mapas mentales con texto, imágenes y dibujos
+Comment[fr]=Créez des cartes heuristiques avec du texte, des images, et des dessins
+Comment[hi]=टेक्स्ट, इमेजों और ड्रॉइंग्स के साथ बनाइए माइंड मैप्स
+Comment[id]=Ciptakan peta pikiran dengan teks, bayangan, dan gambar
+Comment[pt_BR]=Crie mapas mentais com textos, imagens e desenhos
+Comment[th]=สร้างแผนที่ความคิดด้วยข้อความ ภาพ และวาดภาพ
+Comment[vi]=Tạo bản đồ tư duy với ký tự, hình ảnh và hình vẽ
+Comment[zh_CN]=用文本、图像、草图创建思维导图
+Type=Application
+Exec=labyrinth
+Icon=eos-app-org.gnome.Labyrinth
+Categories=Education;
+X-Endless-LaunchMaximized=true

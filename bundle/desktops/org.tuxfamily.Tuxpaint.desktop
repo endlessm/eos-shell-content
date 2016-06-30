@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Tux Paint
+Name[ar]=تكس بينت 
+Name[es]=Pinta Tux
+Name[fr]=Tux Paint
+Name[hi]=टक्स पेंट
+Name[id]=Tux Paint
+Name[pt_BR]=Tux Paint
+Name[th]=Tux Paint
+Name[vi]=Tux Paint
+Name[zh_CN]=Tux Paint
+Comment=A fun drawing app for kids
+Comment[ar]=تطبيق رسم ممتع للأطفال
+Comment[es]=Un programa sencillo y divertido para que niños dibujen
+Comment[fr]=Une application amusante de dessin pour les enfants
+Comment[hi]=बच्चे के लिए एक मनोरंजक ड्रॉइंग ऐप 
+Comment[id]=Aplikasi menggambar menyenangkan bagi anak-anak
+Comment[pt_BR]=Um programa de desenho divertido para crianças
+Comment[th]=แอพวาดรูปที่สนุกสำหรับเด็ก
+Comment[vi]=Ứng dụng vẽ vui nhộn dành cho trẻ em
+Comment[zh_CN]=儿童绘画软件
+Type=Application
+Exec=tuxpaint --fullscreen --native
+Icon=eos-app-org.tuxfamily.Tuxpaint
+Categories=Games;
+X-Endless-LaunchMaximized=true

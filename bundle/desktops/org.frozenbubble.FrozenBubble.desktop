@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Frozen Bubbles
+Name[ar]=الفقاعات المتجمدة
+Name[es]=Burbujitas
+Name[fr]=Bulles Glacées
+Name[hi]=फ्रोजन बबल्स
+Name[id]=Gelembung Beku
+Name[pt_BR]=Bolhinhas
+Name[th]=ฟองน้ำแข็ง
+Name[vi]=Những quả bóng đóng băng
+Name[zh_CN]=Frozen Bubbles
+Comment=Pop bubbles before they all come crashing down
+Comment[ar]=فجر الفقاعات قبل أن تسقط جميعها وتنفجر
+Comment[es]=El juego más adictivo que jamás jugarás
+Comment[fr]=Éclatez les bulles avant qu'elle ne viennent s'écraser
+Comment[hi]=बुलबुलों को फोड़ें इससे पहले कि वे सभी टकरा कर फूट जाएं 
+Comment[id]=Letuskan gelembung sebelum semuanya turun menghimpit
+Comment[pt_BR]=O jogo de computador mais viciante de todos
+Comment[th]=จิ้มฟองให้แตกก่อนที่พวกมันทั้งหมดจะชนจนแตก
+Comment[vi]=Làm nổ những quả bóng trước khi tất cả chúng rơi xuống
+Comment[zh_CN]=在泡泡摔破前敲击泡泡
+Type=Application
+Exec=frozen-bubble
+Icon=eos-app-org.frozenbubble.FrozenBubble
+Categories=Games;
+X-Endless-LaunchMaximized=true

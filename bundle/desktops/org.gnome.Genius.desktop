@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Math Plotting
+Name[ar]=حبكة الرياضيات
+Name[es]=1,2,3 genio
+Name[fr]=Tracé Mathématique
+Name[hi]=मैथ प्लॉटिंग 
+Name[id]=Membuat Plot Matematika
+Name[pt_BR]=Matemática
+Name[th]=แผนผังคณิต
+Name[vi]=Tạo đồ thị toán học
+Name[zh_CN]=数学绘图
+Comment=Interactive computation and data visualization tool
+Comment[ar]=الحوسبة التفاعلية وأداة تصوير البيانات
+Comment[es]=Una calculadora avanzada para funciones difíciles
+Comment[fr]=Outil de calcul interactif et de visualisation de données
+Comment[hi]=इंटरैक्टिव कम्प्युटेशन और डेटा वीजुअलाइजेशन टूल 
+Comment[id]=Alat komputasi dan visualisasi data interaktif
+Comment[pt_BR]=Ambiente de computação numérica e linguagem de programação
+Comment[th]=การคำนวณแบบโต้ตอบและเครื่องมือการแสดงข้อมูลด้วยภาพ
+Comment[vi]=Công cụ tính toán tương tác và trực quan hóa dữ liệu
+Comment[zh_CN]=交互式计算和数据可视化工具
+Type=Application
+Exec=gnome-genius
+Icon=eos-app-org.gnome.Genius
+Categories=Utility;
+X-Endless-LaunchMaximized=true

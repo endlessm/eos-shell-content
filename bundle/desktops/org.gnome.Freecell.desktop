@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Freecell
+Name[ar]=فري سيل (الخلية الحرة)
+Name[es]=Freecell
+Name[fr]=Freecell
+Name[hi]=फ्रीसेल
+Name[id]=Freecell
+Name[pt_BR]=Freecell
+Name[th]=Freecell
+Name[vi]=Freecell
+Name[zh_CN]=Freecell
+Comment=Solitare based single player card game
+Comment[ar]=لعبة الورق (الشدة) للاعب واحد على نظام السوليتيير
+Comment[es]=Una variación del juego de cartas clásico
+Comment[fr]=Jeu de carte pour un joueur basé sur le solitaire
+Comment[hi]=सॉलिटेयर आधारित सिंगल प्लेयर कार्ड गेम 
+Comment[id]=Permainan kartu satu pemain berbasis Solitaire
+Comment[pt_BR]=Jogo de cartas de um jogador, estilo Paciência
+Comment[th]=เกมการ์ดผู้เล่นคนเดียวแบบ Solitare
+Comment[vi]=Trò chơi chơi với các lá bài mô phỏng theo trò chơi Solitare
+Comment[zh_CN]=类似于Solitare的单人纸牌游戏
+Type=Application
+Exec=sol --variation=freecell
+Icon=eos-app-org.gnome.Freecell
+Categories=Games;
+X-Endless-LaunchMaximized=true

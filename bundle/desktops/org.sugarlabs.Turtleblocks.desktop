@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Turtle Blocks
+Name[ar]=تطبيق Turtle Blocks
+Name[es]=Tortuga bloques
+Name[fr]=Blocs Tortue
+Name[hi]=टर्टल ब्लॉक्स
+Name[id]=Turtle Blocks
+Name[pt_BR]=Blocos de tartaruga
+Name[th]=Turtle Blocks
+Name[vi]=Turtle Blocks
+Name[zh_CN]=Turtle Blocks
+Comment=Visually program with turtle art
+Comment[ar]=قم بالبرمجة بشكلٍ بصريٍ باستخدام turtle art
+Comment[es]=Programa visualmente y crea una obra de arte
+Comment[fr]=Programmez visuellement avec l'art tortue
+Comment[hi]=टर्टल आर्ट वाला वीजुअल प्रोग्रामिंग  
+Comment[id]=Membuat program secara visual menggunakan seni kura-kura
+Comment[pt_BR]=Programe visualmente com arte de tartaruga
+Comment[th]=โปรแกรมใช้สายตากับงานศิลปะเต่า
+Comment[vi]=Chương trình ảo với các chú rùa nghệ thuật
+Comment[zh_CN]=以乌龟图像为载体的可视化编程软件
+Type=Application
+Exec=turtleblocks
+Icon=eos-app-org.sugarlabs.Turtleblocks
+Categories=Education;
+X-Endless-LaunchMaximized=true

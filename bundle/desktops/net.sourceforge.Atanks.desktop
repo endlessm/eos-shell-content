@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Atomic Tanks
+Name[ar]=الدبابات النووية
+Name[es]=Atomic tanks
+Name[fr]=Atomic Tanks
+Name[hi]=ऐटॉमिक टैंक्स
+Name[id]=Tank Nuklir
+Name[pt_BR]=Tanque Atômico
+Name[th]=ถังปรมาณู
+Name[vi]=Xe tăng nguyên tử
+Name[zh_CN]=原子坦克
+Comment=Bring friends and families together in the pursuit of world domination
+Comment[ar]=وحد الأصدقاء والعائلات معاً في السعي للهيمنة على العالم
+Comment[es]=Juego de batalla entre tanques
+Comment[fr]=Alliez vos amis et votre famille pour atteindre la domination mondiale
+Comment[hi]=दुनिया पर वर्चस्व जमाने के लिए दोस्तों और परिजनों को साथ लाएं
+Comment[id]=Ajak teman dan keluarga bersama mengejar dominasi dunia
+Comment[pt_BR]=Traga os amigos e a família em busca da dominação mundial
+Comment[th]=พาเพื่อนและครอบครัวมาร่วมกันไล่ล่าการปกครองโลก
+Comment[vi]=Tập hợp đội ngũ bạn bè và gia đình trong công cuộc thống trị thế giới
+Comment[zh_CN]=携亲友一同争霸天下
+Type=Application
+Exec=atanks
+Icon=eos-app-net.sourceforge.Atanks
+Categories=Games;
+X-Endless-LaunchMaximized=true

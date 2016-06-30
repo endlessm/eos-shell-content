@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Kalzium
+Name[ar]=كالزيوم
+Name[es]=Química
+Name[fr]=Kalzium
+Name[hi]=कैल्जियम
+Name[id]=Kalzium
+Name[pt_BR]=Kalzium
+Name[th]=Kalzium
+Name[vi]=Kalzium
+Name[zh_CN]=Kaizium
+Comment=A fun interactive periodic table of elements
+Comment[ar]=جدول العناصر الدورية التفاعلي الممتع
+Comment[es]=Una tabla periódica interactiva y divertida
+Comment[fr]=Un tableau périodique des éléments amusant et interactif
+Comment[hi]=तत्वों की एक मजेदार और रोचक आवर्त सारणी 
+Comment[id]=Tabel unsur periodik interaktif yang menyenangkan
+Comment[pt_BR]=Uma divertida tabela periódica interativa
+Comment[th]=ตารางธาตุแบบโต้ตอบที่แสนสนุก
+Comment[vi]=Bảng tuần hoàn nguyên tố cực kỳ vui nhộn
+Comment[zh_CN]=有趣的互动元素周期表
+Type=Application
+Exec=kalzium -caption %c %i
+Icon=eos-app-org.kde.Kalzium
+Categories=Education;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Tetravex
+Name[ar]=تيترافيكس
+Name[es]=Tetravex
+Name[fr]=Tetravex
+Name[hi]=टेट्रावेक्स
+Name[id]=Tetravex
+Name[pt_BR]=Tetravex
+Name[th]=Tetravex
+Name[vi]=Tetravex
+Name[zh_CN]=Tetravex
+Comment=Race the clock in a numerical puzzle game
+Comment[ar]=سابق الوقت في لعبة اللغز العددية
+Comment[es]=Divertido rompecabezas numérico
+Comment[fr]=Courrez contre la montre dans un jeu de puzzle numérique
+Comment[hi]=एक आंकिक पहेली खेल में समय को पीछे छोड़ें
+Comment[id]=Berpacu melawan waktu dalam permainan teka-teki angka
+Comment[pt_BR]=Combine os números nesse jogo cronometrado estilo Sudoku
+Comment[th]=แข่งกับเวลาในเกมปริศนาตัวเลข
+Comment[vi]=Chạy đua với thời gian trong trò chơi giải đố các con số
+Comment[zh_CN]=在一个数字拼图游戏中运行计时器
+Type=Application
+Exec=gnome-tetravex
+Icon=eos-app-org.gnome.Tetravex
+Categories=Games;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=M.A.R.S.
+Name[ar]=لعبة مارس
+Name[es]=M.A.R.S.
+Name[fr]=M.A.R.S.
+Name[hi]=एम.ए.आर.एस.
+Name[id]=M.A.R.S.
+Name[pt_BR]=M.A.R.S.
+Name[th]=M.A.R.S.
+Name[vi]=M.A.R.S.
+Name[zh_CN]=M.A.R.S
+Comment=A shooting game in space
+Comment[ar]=لعبة إطلاق نار في الفضاء
+Comment[es]=Un juego de batalla en el espacio
+Comment[fr]=Jeu de tir dans l'espace
+Comment[hi]=स्पेस में एक शूटिंग गेम 
+Comment[id]=Permainan menembak di luar angkasa
+Comment[pt_BR]=Um jogo de tiros no espaço
+Comment[th]=เกมยิงในห้วงอวกาศ
+Comment[vi]=Trò chơi bắn súng ngoài không gian
+Comment[zh_CN]=太空射击游戏
+Type=Application
+Exec=mars
+Icon=eos-app-org.marsshooter.Marsshooter
+Categories=Games;
+X-Endless-LaunchMaximized=true

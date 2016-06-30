@@ -1,139 +1,5 @@
 [
   {
-    "application-id": "armagetronad",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This exciting game lets you into the world of Tron. Get behind the wheel of a \u201clight cycle\u201d, a cool and futuristic motorcycle, and battle others on the road. Force your opponents to hit the arena walls and win. This app is easy to learn and a lot of fun to play!",
-    "displayShape": "b1",
-    "exec": "armagetronad",
-    "featured_img": "",
-    "icon": "armagetronad-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "armagetronad-screenshot1.jpg",
-        "armagetronad-screenshot2.jpg",
-        "armagetronad-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "armagetronad-thumb.jpg",
-    "subtitle": "Race 3D light motorcycles like in the movie Tron",
-    "title": "Armagetron",
-    "tryexec": ""
-  },
-  {
-    "application-id": "atanks",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Annihilate other tanks to earn money, then spend it on bigger and better shields and weapons to wipe out the opposition. Win this exciting game and you'll be a true battle-hardened commander, lose and feel the wrath of your adversary.",
-    "displayShape": "b1",
-    "exec": "atanks",
-    "featured_img": "",
-    "icon": "atanks-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "atanks-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "atanks-thumb.jpg",
-    "subtitle": "Bring friends and families together in the pursuit of world domination",
-    "title": "Atomic Tanks",
-    "tryexec": ""
-  },
-  {
-    "application-id": "audacity",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Have you ever wanted to make your own audio clips or songs? With this app, you'll be able to access all the tools you need to create audio clips that you can play for your friends and family. Create high quality clips and songs that you can even share with the world!",
-    "displayShape": "b1",
-    "exec": "audacity",
-    "featured_img": "",
-    "icon": "audacity-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "audacity-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "audacity-thumb.jpg",
-    "subtitle": "Audio editor for recording, slicing, and mixing audio",
-    "title": "Audio Editor",
-    "tryexec": ""
-  },
-  {
-    "application-id": "billard-gl",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love playing billiards, or have you ever wanted to learn how to play? This game lets you have the experience of playing pool and other similar games right from your home. It\u2019s simple to learn and use, yet highly realistic. This app is a great tool for both playing for fun and improving your game.",
-    "displayShape": "b2v",
-    "exec": "billard-gl",
-    "featured_img": "billard-gl-featured.jpg",
-    "icon": "billard-gl-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "billard-gl-screenshot1.jpg",
-        "billard-gl-screenshot2.jpg",
-        "billard-gl-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "billard-gl-thumb.jpg",
-    "subtitle": "Fun 3D billiards game",
-    "title": "Billiards",
-    "tryexec": ""
-  },
-  {
-    "application-id": "blockout2",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love puzzle games? Then you\u2019ll love BlockOut 2. This 3-D Tetris game is fast-paced and a lot of fun! Figure out how to stack different-shaped blocks together and create whole layers of blocks to get points, all before the blocks stack up too high and you lose! It\u2019s great for the brain, and tons of fun.",
-    "displayShape": "b1",
-    "exec": "blockout2",
-    "featured_img": "blockout2-featured.jpg",
-    "icon": "blockout2-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "blockout2-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "blockout2-thumb.jpg",
-    "subtitle": "3D Tetris-style game",
-    "title": "BlockOut 2",
-    "tryexec": ""
-  },
-  {
     "application-id": "bovo",
     "category": "Games",
     "core": false,
@@ -195,32 +61,6 @@
     "square_img": "brasero-thumb.jpg",
     "subtitle": "Burn your own CDs and DVDs",
     "title": "Brasero",
-    "tryexec": ""
-  },
-  {
-    "application-id": "btanks",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Battle with family and friends with an arsenal of your design. With awesome graphics and cool music, it's a fun and dynamic game for players of all ages. Just make sure you can handle the explosions!",
-    "displayShape": "b1",
-    "exec": "btanks",
-    "featured_img": "",
-    "icon": "btanks-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "btanks-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "btanks-thumb.jpg",
-    "subtitle": "A fast-paced battle game to play with friends",
-    "title": "Battle Tanks",
     "tryexec": ""
   },
   {
@@ -295,15 +135,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "chromium-bsu",
-    "category": "Games",
+    "application-id": "com.dropbox.Client",
+    "category": "Utility",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Imagine this: You\u2019re the captain of a space ship that must get supplies to the frontline of a great war in outer space. With the help of your robotic fighting fleet, you just might make it. This thrilling, arcade-style game is sure to get your blood pumping. With lots of obstacles and the tools to overcome them, you\u2019re on your way to a galaxy of fun!",
-    "displayShape": "b2v",
-    "exec": "resfix chromium-bsu --fullscreen",
-    "featured_img": "chromium-bsu-featured.jpg",
-    "icon": "chromium-bsu-icon.png",
+    "description": "Need to safely store all of your important documents, photos, songs, and files? Easy! With this app you can use the internet to save everything that\u2019s important to you. You can then access those files from any computer that has an internet connection. Use this service to backup your files, share photos or collaborate on a project by sharing a Dropbox folder with whomever you\u2019d like. Create a free account and start saving and sharing today!  ** Requires internet",
+    "displayShape": "b1",
+    "exec": "dropbox_desktop",
+    "featured_img": "",
+    "icon": "com.dropbox.client-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -311,15 +151,23 @@
     ],
     "screenshots": {
       "C": [
-        "chromium-bsu-screenshot1.jpg",
-        "chromium-bsu-screenshot2.jpg"
+        "com.dropbox.client-screenshot1.jpg",
+        "com.dropbox.client-screenshot2.jpg"
+      ],
+      "es": [
+        "com.dropbox.client-screenshot1.jpg",
+        "com.dropbox.client-screenshot2.jpg"
+      ],
+      "pt": [
+        "com.dropbox.client-screenshot1.jpg",
+        "com.dropbox.client-screenshot2.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "chromium-bsu-thumb.jpg",
-    "subtitle": "Command your spaceship and battle with robots",
-    "title": "Chromium BSU",
-    "tryexec": "chromium-bsu"
+    "splash-screen-type": "None",
+    "square_img": "com.dropbox.client-thumb.jpg",
+    "subtitle": "Access your files from any computer",
+    "title": "Dropbox",
+    "tryexec": ""
   },
   {
     "application-id": "com.endlessm.animals",
@@ -2164,15 +2012,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "dropbox",
-    "category": "Utility",
+    "application-id": "com.github.Slingshot",
+    "category": "Games",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Need to safely store all of your important documents, photos, songs, and files? Easy! With this app you can use the internet to save everything that\u2019s important to you. You can then access those files from any computer that has an internet connection. Use this service to backup your files, share photos or collaborate on a project by sharing a Dropbox folder with whomever you\u2019d like. Create a free account and start saving and sharing today!  ** Requires internet",
+    "description": "Gravity is your best friend in this fun shooting game set in outer space. Use the gravity of different planets to your advantage, and use your trusty slingshot to destroy the enemy spacecraft. No two rounds are ever the same in this fun and addictive game!",
     "displayShape": "b1",
-    "exec": "dropbox_desktop",
+    "exec": "slingshot",
     "featured_img": "",
-    "icon": "dropbox-icon.png",
+    "icon": "com.github.slingshot-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2180,60 +2028,103 @@
     ],
     "screenshots": {
       "C": [
-        "dropbox-screenshot1.jpg",
-        "dropbox-screenshot2.jpg"
-      ],
-      "es": [
-        "dropbox-screenshot1.jpg",
-        "dropbox-screenshot2.jpg"
-      ],
-      "pt": [
-        "dropbox-screenshot1.jpg",
-        "dropbox-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "dropbox-thumb.jpg",
-    "subtitle": "Access your files from any computer",
-    "title": "Dropbox",
-    "tryexec": ""
-  },
-  {
-    "application-id": "etoys",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app is a great way for kids to learn how to program while learning other disciplines and having a lot of fun! Create interactive drawings, stories, models and games with a drag-and-drop interface that helps to prevent syntax errors that are often frustrating to new learners. This app encourages curiosity and exploration, and can be used to create anything from simple drawings to complex models of the physical world. While originally designed for students who are 8 - 13 years old, teachers have found that this app has helped students of all ages, from young learners to college-aged students alike!",
-    "displayShape": "b1",
-    "exec": "etoys",
-    "featured_img": "",
-    "icon": "etoys-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "etoys-screenshot1.jpg",
-        "etoys-screenshot2.jpg",
-        "etoys-screenshot3.jpg"
-      ],
-      "es": [
-        "etoys-screenshot1.jpg",
-        "etoys-screenshot2.jpg",
-        "etoys-screenshot3.jpg"
-      ],
-      "pt": [
-        "etoys-screenshot1.jpg",
-        "etoys-screenshot2.jpg",
-        "etoys-screenshot3.jpg"
+        "com.github.slingshot-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "etoys-thumb.jpg",
-    "subtitle": "Learn with visual programming",
-    "title": "Etoys",
+    "square_img": "com.github.slingshot-thumb.jpg",
+    "subtitle": "A shooting strategy game set in space",
+    "title": "Slingshot",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.skype.Client",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!  **Requires Internet",
+    "displayShape": "b2v",
+    "exec": "skype --resources=/endless/skype/share/skype %U",
+    "featured_img": "com.skype.client-featured.jpg",
+    "icon": "com.skype.client-icon.png",
+    "is_featured": true,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.skype.client-screenshot1.jpg",
+        "com.skype.client-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "com.skype.client-thumb.jpg",
+    "subtitle": "Free internet calls with cheap rates to phones",
+    "title": "Skype",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.steampowered.Steam",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
+    "displayShape": "b1",
+    "exec": "steam",
+    "featured_img": "",
+    "icon": "com.steampowered.steam-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.steampowered.steam-screenshot1.jpg",
+        "com.steampowered.steam-screenshot2.jpg"
+      ],
+      "es": [
+        "com.steampowered.steam-screenshot1.jpg",
+        "com.steampowered.steam-screenshot2.jpg"
+      ],
+      "pt": [
+        "com.steampowered.steam-screenshot1.jpg",
+        "com.steampowered.steam-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.steampowered.steam-thumb.jpg",
+    "subtitle": "Online store with popular video games",
+    "title": "Steam",
+    "tryexec": ""
+  },
+  {
+    "application-id": "de.billardgl.Billardgl",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love playing billiards, or have you ever wanted to learn how to play? This game lets you have the experience of playing pool and other similar games right from your home. It\u2019s simple to learn and use, yet highly realistic. This app is a great tool for both playing for fun and improving your game.",
+    "displayShape": "b2v",
+    "exec": "billard-gl",
+    "featured_img": "de.billardgl.billardgl-featured.jpg",
+    "icon": "de.billardgl.billardgl-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "de.billardgl.billardgl-screenshot1.jpg",
+        "de.billardgl.billardgl-screenshot2.jpg",
+        "de.billardgl.billardgl-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "de.billardgl.billardgl-thumb.jpg",
+    "subtitle": "Fun 3D billiards game",
+    "title": "Billiards",
     "tryexec": ""
   },
   {
@@ -2270,32 +2161,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "extremetuxracer",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Make it down a snow and ice-covered mountain as quickly as possible in this awesome racing game! But it won't be easy! You'll need to avoid the trees, rocks, and even fish bones that get in your way and slow you down. Sure to get your heart racing, this game is a must play for any adrenaline addict.",
-    "displayShape": "b1",
-    "exec": "etracer",
-    "featured_img": "",
-    "icon": "extremetuxracer-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "extremetuxracer-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "extremetuxracer-thumb.jpg",
-    "subtitle": "Race down icy mountains",
-    "title": "Tux Racer",
-    "tryexec": ""
-  },
-  {
     "application-id": "four-in-a-row",
     "category": "Games",
     "core": false,
@@ -2320,239 +2185,6 @@
     "square_img": "four-in-a-row-thumb.jpg",
     "subtitle": "A simple and addictive game for kids and adults",
     "title": "Four in a Row",
-    "tryexec": ""
-  },
-  {
-    "application-id": "freeciv",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Create your own world with this action-packed game that lets you travel through time and start a civilization of your very own. You'll start at the begging, in a pre-historic world, where you'll need to create your own tribe. Then, you'll move onto the middle ages, survive the plague and invent the wheel. You'll continue through the ages until you reach modern times and need to balance world politics with your agenda to lead your people to conquering the moon and beyond!",
-    "displayShape": "b1",
-    "exec": "freeciv-gtk2",
-    "featured_img": "",
-    "icon": "freeciv-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "freeciv-screenshot1.jpg",
-        "freeciv-screenshot2.jpg",
-        "freeciv-screenshot3.jpg"
-      ],
-      "es": [
-        "freeciv-screenshot1.jpg",
-        "freeciv-screenshot2.jpg",
-        "freeciv-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "freeciv-thumb.jpg",
-    "subtitle": "Guide your own civilization to greatness",
-    "title": "FreeCiv",
-    "tryexec": ""
-  },
-  {
-    "application-id": "freecol",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Have you ever wanted to start your own country? Well, now you can. Go back into an alternative universe where America has still not been colonized and create towns, cities, and states that will support your ultimate plan. Will you try to dominate the world, or will you promote international peace and prosperity? You decide.",
-    "displayShape": "b1",
-    "exec": "freecol",
-    "featured_img": "",
-    "icon": "freecol-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "freecol-screenshot1.jpg",
-        "freecol-screenshot2.jpg",
-        "freecol-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "freecol-thumb.jpg",
-    "subtitle": "Create your own country and conquer the world",
-    "title": "FreeCol",
-    "tryexec": ""
-  },
-  {
-    "application-id": "frostwire",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Access, download and share almost any file you'd like to with this useful online peer to peer app that enables you to share files with other users who are connected to the BitTorrent network. From music, videos, and games, to more complex downloads like software, you will be able to access shared files from millions of users online. This app even includes a built-in video player so that you can easily view all of the media you download.  **Requires Internet",
-    "displayShape": "b1",
-    "exec": "frostwire",
-    "featured_img": "",
-    "icon": "frostwire-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "frostwire-screenshot1.jpg",
-        "frostwire-screenshot2.jpg",
-        "frostwire-screenshot3.jpg"
-      ],
-      "es": [
-        "frostwire-screenshot1.jpg",
-        "frostwire-screenshot2.jpg",
-        "frostwire-screenshot3.jpg"
-      ],
-      "pt": [
-        "frostwire-screenshot1.jpg",
-        "frostwire-screenshot2.jpg",
-        "frostwire-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "frostwire-thumb.jpg",
-    "subtitle": "Download nearly anything or share your own files",
-    "title": "FrostTorrent",
-    "tryexec": ""
-  },
-  {
-    "application-id": "frozen-bubble",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Play by yourself or challenge your friends to an exciting game of frozen bubbles! Match the colored bubbles in order to knock them down and get them out of the way before they stack up too high and crash into you. You need to have a good strategy and develop a quick trigger finger in order to win!",
-    "displayShape": "b1",
-    "exec": "frozen-bubble",
-    "featured_img": "",
-    "icon": "frozen-bubble-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "frozen-bubble-screenshot1.jpg",
-        "frozen-bubble-screenshot2.jpg",
-        "frozen-bubble-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "frozen-bubble-thumb.jpg",
-    "subtitle": "Pop bubbles before they all come crashing down",
-    "title": "Frozen Bubbles",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gcompris",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app makes learning fun for young children with more than 100 games and activities! Educational topics include reading, geography, and math, and the app also features games like chess that are great for young brains. Your child will have a wonderful time developing valuable skills that will help him or her throughout life.",
-    "displayShape": "b1",
-    "exec": "gcompris",
-    "featured_img": "",
-    "icon": "gcompris-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gcompris-screenshot1.jpg",
-        "gcompris-screenshot2.jpg",
-        "gcompris-screenshot3.jpg"
-      ],
-      "es": [
-        "gcompris-screenshot1.jpg",
-        "gcompris-screenshot2.jpg",
-        "gcompris-screenshot3.jpg"
-      ],
-      "pt": [
-        "gcompris-screenshot1.jpg",
-        "gcompris-screenshot2.jpg",
-        "gcompris-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gcompris-thumb.jpg",
-    "subtitle": "Puzzles, memory games, and more for kids",
-    "title": "EduGames",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gcompris-admin",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Use this app to configure the EduGames app and create the exact learning experience you'd like for your students! You can change the list of activities, or change the controls of the app so that they stay focused on just the games that you want them to. To begin, download this app and the EduGames app from the 'Games' section of the app store. They'll have so much fun that they'll want to spend hours doing just what you want them to!",
-    "displayShape": "b1",
-    "exec": "gcompris-admin --administration",
-    "featured_img": "",
-    "icon": "gcompris-admin-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gcompris-admin-screenshot1.jpg"
-      ],
-      "es": [
-        "gcompris-admin-screenshot1.jpg"
-      ],
-      "pt": [
-        "gcompris-admin-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gcompris-admin-thumb.jpg",
-    "subtitle": "For teachers to help their students learn",
-    "title": "EduGames Admin",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gimp",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Edit your photos to create even more beautiful works of art with this advanced photo editor. This app is compatible with Adobe Photoshop, a popular photo editor for Windows computers. If you are new user, it can serve as a basic painting program. Advanced users can do things like convert formats of files and apply a variety of retouching and filtering tools to create works of art. There are so many possibilities for how to create cool images once you get the hang of this helpful editing app!",
-    "displayShape": "b1",
-    "exec": "gimp %U",
-    "featured_img": "",
-    "icon": "gimp-icon.png",
-    "is_featured": true,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gimp-screenshot1.jpg",
-        "gimp-screenshot2.jpg",
-        "gimp-screenshot3.jpg"
-      ],
-      "es": [
-        "gimp-screenshot1.jpg",
-        "gimp-screenshot2.jpg"
-      ],
-      "pt": [
-        "gimp-screenshot1.jpg",
-        "gimp-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gimp-thumb.jpg",
-    "subtitle": "Advanced image editing tool similar to Photoshop",
-    "title": "GIMP",
     "tryexec": ""
   },
   {
@@ -2626,34 +2258,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "gnome-genius",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as an advanced calculator. Everything you need to figure out numerical mysteries is right here.",
-    "displayShape": "b1",
-    "exec": "gnome-genius",
-    "featured_img": "",
-    "icon": "gnome-genius-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnome-genius-screenshot1.jpg",
-        "gnome-genius-screenshot2.jpg",
-        "gnome-genius-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gnome-genius-thumb.jpg",
-    "subtitle": "Interactive computation and data visualization tool",
-    "title": "Math Plotting",
-    "tryexec": ""
-  },
-  {
     "application-id": "gnome-mines",
     "category": "Games",
     "core": false,
@@ -2678,38 +2282,6 @@
     "square_img": "gnome-mines-thumb.jpg",
     "subtitle": "Find and avoid all the dangerous mines to win",
     "title": "Mines",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gnome-screenshot",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more.",
-    "displayShape": "b1",
-    "exec": "gnome-screenshot --interactive",
-    "featured_img": "",
-    "icon": "gnome-screenshot-icon.jpg",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnome-screenshot-screenshot1.jpg"
-      ],
-      "es": [
-        "gnome-screenshot-screenshot1.jpg"
-      ],
-      "pt": [
-        "gnome-screenshot-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gnome-screenshot-thumb.jpg",
-    "subtitle": "Take a picture of your screen to save",
-    "title": "Screenshot",
     "tryexec": ""
   },
   {
@@ -2738,92 +2310,6 @@
     "square_img": "gnome-sudoku-thumb.jpg",
     "subtitle": "One of the most popular puzzle games of all time",
     "title": "Sudoku",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gnome-terminal",
-    "category": "Utility",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "If you're an advanced user and want to display system information and launch applications without using the mouse, now you can do just that with this basic terminal app. With this modern terminal, you can see all of your commands written in different colors to help make sure you are typing them in correctly and to help you easily identify any mistakes you have made.",
-    "displayShape": "b1",
-    "exec": "gnome-terminal",
-    "featured_img": "",
-    "icon": "gnome-terminal-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnome-terminal-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gnome-terminal-thumb.jpg",
-    "subtitle": "Use the command line",
-    "title": "Terminal",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gnome-tetravex",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Try to match up all of the same numbers on the blocks to win this tricky game. You'll need to think carefully, but quickly, in order to finish the puzzle. You will be timed, so make sure to keep getting faster in order to beat your or your friends' best time!",
-    "displayShape": "b1",
-    "exec": "gnome-tetravex",
-    "featured_img": "",
-    "icon": "gnome-tetravex-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnome-tetravex-screenshot1.jpg",
-        "gnome-tetravex-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gnome-tetravex-thumb.jpg",
-    "subtitle": "Race the clock in a numerical puzzle game",
-    "title": "Tetravex",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gnote",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you find yourself writing down lots of notes on pieces of paper that later get lost or torn? Or, are there so many notes on your desk that you're running out of space? No matter what kind of notes you need to take, this note app can help you keep them all in one place. This app also has the ability to link notes together so that you can easily access all related notes and stay even more organized!",
-    "displayShape": "b1",
-    "exec": "gnote %u",
-    "featured_img": "",
-    "icon": "gnote-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnote-screenshot1.jpg",
-        "gnote-screenshot2.jpg",
-        "gnote-screenshot3.jpg"
-      ],
-      "es": [
-        "gnote-screenshot1.jpg",
-        "gnote-screenshot2.jpg",
-        "gnote-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "gnote-thumb.jpg",
-    "subtitle": "Never lose a note again",
-    "title": "Notes",
     "tryexec": ""
   },
   {
@@ -2960,169 +2446,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "iagno",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Turn over the pieces in front of you so that they are all the same color. Simple? Not at all! You can change pieces to your color if you can put one of your pieces in a place where you can make a row, column or diagonal line across consecutive pieces of the other color. So, you need to flip over the pieces carefully to try to make ALL of the pieces your color. Think very strategically and see if you can figure this puzzle out!",
-    "displayShape": "b1",
-    "exec": "iagno",
-    "featured_img": "",
-    "icon": "iagno-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "iagno-screenshot1.jpg",
-        "iagno-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "iagno-thumb.jpg",
-    "subtitle": "A fun puzzle game that involves lots of thought",
-    "title": "Iagno",
-    "tryexec": ""
-  },
-  {
-    "application-id": "inkscape",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app is for intermediate and advanced graphic designers who need to create and edit their graphics and images. This app gives you advanced features and is comparable to Adobe InDesign. For example, it allows you to create SVGs (Scalable Vector Graphics), which allow your graphics to remain high quality no matter what size they are. Create beautiful ads, brochures, presentations and artwork with this great free graphics app!",
-    "displayShape": "b1",
-    "exec": "inkscape %F",
-    "featured_img": "",
-    "icon": "inkscape-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "inkscape-screenshot1.jpg",
-        "inkscape-screenshot2.jpg"
-      ],
-      "es": [
-        "inkscape-screenshot1.jpg"
-      ],
-      "pt": [
-        "inkscape-screenshot1.jpg",
-        "inkscape-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "inkscape-thumb.jpg",
-    "subtitle": "An advanced graphic design tool",
-    "title": "Inkscape",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kalzium",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "The periodic table of the elements is one of the basic building blocks of science, and now you can have it at your fingertips. This app features a color-coded periodic table that makes learning each element easier and more fun. Select elements to learn basic information about them, like their melting points, mass, and more. More complex information, like visualization of elements\u2019 spectral lines, makes this app perfect for scientific discovery. You won\u2019t believe how much you can learn with this beautiful, simple, and informative app.",
-    "displayShape": "b1",
-    "exec": "kalzium -caption %c %i",
-    "featured_img": "",
-    "icon": "kalzium-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ],
-      "es": [
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ],
-      "pt": [
-        "kalzium-screenshot1.jpg",
-        "kalzium-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kalzium-thumb.jpg",
-    "subtitle": "A fun interactive periodic table of elements",
-    "title": "Kalzium",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kapman",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "If you love Pac-Man, then you you'll love this game too! Eat dots to gain points but don't get caught by the ghosts or you'll lose. As you gain skills and beat levels, the speed of the game increases, providing a more and more exciting challenge. You won\u2019t ever want to stop playing, and your friends and family, from kids to grandparents, will love the game, too!",
-    "displayShape": "b1",
-    "exec": "kapman",
-    "featured_img": "",
-    "icon": "kapman-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
-      ],
-      "es": [
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
-      ],
-      "pt": [
-        "kapman-screenshot1.jpg",
-        "kapman-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kapman-thumb.jpg",
-    "subtitle": "The classic game of ghosts and mazes",
-    "title": "Kapman",
-    "tryexec": ""
-  },
-  {
-    "application-id": "katomic",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "If you\u2019re struggling with concepts in chemistry, or simply looking for a way to strengthen your understanding, then you've found the right app to help you! This challenging game has you create molecules from atoms \u2013 the perfect way to learn while having fun! The screen will show you what your molecule should look like, and you can move your atoms around to make the correct molecule. This game requires strategy and quick thinking, and will teach you a ton!",
-    "displayShape": "b1",
-    "exec": "katomic -caption %c",
-    "featured_img": "",
-    "icon": "katomic-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "katomic-screenshot1.jpg"
-      ],
-      "es": [
-        "katomic-screenshot1.jpg"
-      ],
-      "pt": [
-        "katomic-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "katomic-thumb.jpg",
-    "subtitle": "A fun way to learn chemistry",
-    "title": "KAtomic",
-    "tryexec": ""
-  },
-  {
     "application-id": "kblackbox",
     "category": "Games",
     "core": false,
@@ -3152,38 +2475,6 @@
     "square_img": "kblackbox-thumb.jpg",
     "subtitle": "Find the pattern and uncover the hidden balls",
     "title": "KBlackBox",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kbruch",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "One of the trickiest parts of the math we do every day is calculating fractions and percentages, and now you\u2019ll never have to second-guess your math again! This app features games and exercises to sharpen your skills, including arithmetic, comparison, conversion, and factorization. Learn all about fractions and percentages, and practice as much as you want. We encounter this kind of math almost every day, so your new skills will benefit you in unexpected ways!",
-    "displayShape": "b1",
-    "exec": "kbruch -caption %c %i",
-    "featured_img": "",
-    "icon": "kbruch-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kbruch-screenshot1.jpg"
-      ],
-      "es": [
-        "kbruch-screenshot1.jpg"
-      ],
-      "pt": [
-        "kbruch-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kbruch-thumb.jpg",
-    "subtitle": "Learn about fractions, percentages and more",
-    "title": "KBruch",
     "tryexec": ""
   },
   {
@@ -3219,204 +2510,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "kgeography",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "How much do you know about world geography and political affairs? Learn the world's geography through an engaging game. First, check out the map and learn about names, capitals, and flags. Then, it\u2019s time to test your knowledge! Guess capitals and flags or try to place national borders onto an empty map. Before you know it, you\u2019ll know about every corner of the world and will have had a lot of fun learning it all!",
-    "displayShape": "b1",
-    "exec": "kgeography",
-    "featured_img": "",
-    "icon": "kgeography-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ],
-      "es": [
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ],
-      "pt": [
-        "kgeography-screenshot1.jpg",
-        "kgeography-screenshot2.jpg",
-        "kgeography-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kgeography-thumb.jpg",
-    "subtitle": "Become a geography genius while having fun",
-    "title": "KGeography",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kgoldrunner",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Your enemies are right on your heels as you move through mazes collecting gold in this engaging game. Featuring challenging puzzles and an exciting objective, this game is sure to be a favorite. You'll find hundreds of levels for hours of gameplay, with new mazes at every level. Just don\u2019t fall through any trapdoors!",
-    "displayShape": "b1",
-    "exec": "kgoldrunner",
-    "featured_img": "",
-    "icon": "kgoldrunner-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kgoldrunner-screenshot1.jpg"
-      ],
-      "es": [
-        "kgoldrunner-screenshot1.jpg"
-      ],
-      "pt": [
-        "kgoldrunner-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kgoldrunner-thumb.jpg",
-    "subtitle": "Look for treasure and hide from enemies",
-    "title": "KGoldrunner",
-    "tryexec": ""
-  },
-  {
-    "application-id": "khangman",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Practice your vocabulary the fun way! You'll learn new words with this puzzle game, and it's something that the whole family can play together. How do you play? Well, the computer will choose a word and players will try to guess what that word is by guessing its letters one by one until they can guess the whole word. As the players guess correctly, more and more of the word is shows, but if you make too many wrong guesses then you'll lose and have to start over with a new word!",
-    "displayShape": "b1",
-    "exec": "khangman -caption %c %i",
-    "featured_img": "",
-    "icon": "khangman-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "khangman-screenshot1.jpg"
-      ],
-      "es": [
-        "khangman-screenshot1.jpg"
-      ],
-      "pt": [
-        "khangman-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "khangman-thumb.jpg",
-    "subtitle": "One of the most fun word games on earth",
-    "title": "KHangMan",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kigo",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Based on a two-player board game popular in Asia, this app has easy-to-learn rules, but requires a great deal of strategy. It\u2019s the perfect way to pass the time while exercising your mind. The goal is simple: move your black or white pieces on the grid (the size of the grid depends on the difficulty level you choose), and try to surround more of the board than your opponent. If you like games like chess, then you'll love this great strategy game too!",
-    "displayShape": "b1",
-    "exec": "kigo %i -caption %c",
-    "featured_img": "",
-    "icon": "kigo-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kigo-screenshot1.jpg"
-      ],
-      "es": [
-        "kigo-screenshot1.jpg"
-      ],
-      "pt": [
-        "kigo-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kigo-thumb.jpg",
-    "subtitle": "The ancient game of skill, updated for modern play",
-    "title": "Kigo",
-    "tryexec": ""
-  },
-  {
-    "application-id": "killbots",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "How will you get away from the killer robots bent on destruction? Figure it out in this simple, entertaining game. You may be outnumbered by an endless stream of robots, but with your intelligence and handy teleportation device you can defeat them. Outsmart all of the killer robots to win and live to tell the tale!",
-    "displayShape": "b1",
-    "exec": "killbots -caption %c",
-    "featured_img": "",
-    "icon": "killbots-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "killbots-screenshot1.jpg"
-      ],
-      "es": [
-        "killbots-screenshot1.jpg"
-      ],
-      "pt": [
-        "killbots-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "killbots-thumb.jpg",
-    "subtitle": "Outsmart the killer robots to win",
-    "title": "Killbots",
-    "tryexec": ""
-  },
-  {
-    "application-id": "klines",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This game is so fun and addicting, you\u2019ll never want to stop playing. The concept is simple: Gather colored balls from the game board into lines of five balls of the same color, which will remove them from the board. It\u2019s more challenging than you\u2019d expect, though, because new balls arrive after every move. It\u2019s your job to get the game board as clear of balls as possible; you lose if it fills up completely!",
-    "displayShape": "b1",
-    "exec": "klines -caption %c",
-    "featured_img": "",
-    "icon": "klines-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "klines-screenshot1.jpg"
-      ],
-      "es": [
-        "klines-screenshot1.jpg"
-      ],
-      "pt": [
-        "klines-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "klines-thumb.jpg",
-    "subtitle": "Line up balls of the same color to win",
-    "title": "Kolor Lines",
-    "tryexec": ""
-  },
-  {
     "application-id": "kmines",
     "category": "Games",
     "core": false,
@@ -3449,165 +2542,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "knavalbattle",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Try to guess where your enemies ships are to blow them out of the water before they get you! This is a fun strategy game that requires two people. You can play against a friend, against someone else on the internet, or against your computer. You'll take turns trying to guess where each others' ships are, and the first person to sink all of their enemies' ships wins. Arrr you ready for some great naval fun?",
-    "displayShape": "b1",
-    "exec": "knavalbattle -caption %c %U",
-    "featured_img": "",
-    "icon": "knavalbattle-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "knavalbattle-screenshot1.jpg"
-      ],
-      "es": [
-        "knavalbattle-screenshot1.jpg"
-      ],
-      "pt": [
-        "knavalbattle-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "knavalbattle-thumb.jpg",
-    "subtitle": "Blow your opponents out of the water",
-    "title": "Battleships",
-    "tryexec": ""
-  },
-  {
-    "application-id": "knetwalk",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Who knew building computer networks could be fun? You'll need to create the right connections in as few turns as possible to win - so get ready to move the wires and figure out the puzzle quickly! Once you\u2019ve succeeded, you\u2019ll find a high score list, allowing you to find competitors! This app helps you understand how computer networks work, but more importantly, it\u2019s an enjoyable and competitive game you\u2019ll love to play.",
-    "displayShape": "b1",
-    "exec": "knetwalk -caption %c",
-    "featured_img": "",
-    "icon": "knetwalk-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "knetwalk-screenshot1.jpg"
-      ],
-      "es": [
-        "knetwalk-screenshot1.jpg"
-      ],
-      "pt": [
-        "knetwalk-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "knetwalk-thumb.jpg",
-    "subtitle": "Make the right cable connections and win",
-    "title": "KNetwalk",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kobodeluxe",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Fans of arcade-style games will love this fun shooting game. Protect yourself from and destroy enemy ships as they pursue you through space! This game has fun graphics and lots of challenges, with over 50 levels for you to play. You'll have hours and hours of fun blowing up things in space!",
-    "displayShape": "b1",
-    "exec": "resfix \"kobodl -fullscreen\"",
-    "featured_img": "",
-    "icon": "kobodeluxe-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kobodeluxe-screenshot1.jpg",
-        "kobodeluxe-screenshot2.jpg",
-        "kobodeluxe-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kobodeluxe-thumb.jpg",
-    "subtitle": "Destroy enemy bases in space",
-    "title": "Kobo Deluxe",
-    "tryexec": "kobodl"
-  },
-  {
-    "application-id": "ksquares",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Based on a popular old game, this fun app lets you stretch your mind and solve puzzles. The objective is to complete more squares on the grid than your opponent. Taking turns drawing lines between dots, you\u2019ll form squares while trying to block your opponents\u2019 squares. This game requires geometrical thinking as well as strategy, and is sure to provide hours of entertainment. Be careful \u2013 you just might become addicted!",
-    "displayShape": "b1",
-    "exec": "ksquares %i -caption %c",
-    "featured_img": "",
-    "icon": "ksquares-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "ksquares-screenshot1.jpg"
-      ],
-      "es": [
-        "ksquares-screenshot1.jpg"
-      ],
-      "pt": [
-        "ksquares-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "ksquares-thumb.jpg",
-    "subtitle": "Connect the dots in this challenging strategy game",
-    "title": "KSquares",
-    "tryexec": ""
-  },
-  {
-    "application-id": "ksudoku",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Are you better than your friend is at puzzles? Find out by playing this fun number puzzle game! You can play alone, have other people help you, or challenge your friends and family to see who can solve the puzzle first. This app has special features, like the ability to create games you can print out, and the ability to help you solve any Sudoku puzzle so that you can learn how to solve it on your own. Whether you are completely new to Sudoku, or are an experienced player, you'll love this app!",
-    "displayShape": "b1",
-    "exec": "ksudoku %i -caption %c",
-    "featured_img": "",
-    "icon": "ksudoku-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "ksudoku-screenshot1.jpg",
-        "ksudoku-screenshot2.jpg"
-      ],
-      "es": [
-        "ksudoku-screenshot1.jpg",
-        "ksudoku-screenshot2.jpg"
-      ],
-      "pt": [
-        "ksudoku-screenshot1.jpg",
-        "ksudoku-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "ksudoku-thumb.jpg",
-    "subtitle": "A challenging numerical puzzle game",
-    "title": "Sudoku",
-    "tryexec": ""
-  },
-  {
     "application-id": "ktron",
     "category": "Games",
     "core": false,
@@ -3637,132 +2571,6 @@
     "square_img": "ktron-thumb.jpg",
     "subtitle": "Survival depends on your reflexes and wits",
     "title": "KSnakeDuel",
-    "tryexec": ""
-  },
-  {
-    "application-id": "ktuberling",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This is a silly game for children and their parents to play together. Based on the Mr. Potato Head toy, it allows you to drag and drop facial features onto a potato, making funny faces with such touches as mustaches, elf ears, blonde ponytails, and bowties. There is no objective to this game except lots of laughter. Make the goofiest face you can!",
-    "displayShape": "b1",
-    "exec": "ktuberling -caption %c %u",
-    "featured_img": "",
-    "icon": "ktuberling-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "ktuberling-screenshot1.jpg",
-        "ktuberling-screenshot2.jpg"
-      ],
-      "es": [
-        "ktuberling-screenshot1.jpg",
-        "ktuberling-screenshot2.jpg"
-      ],
-      "pt": [
-        "ktuberling-screenshot1.jpg",
-        "ktuberling-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "ktuberling-thumb.jpg",
-    "subtitle": "Give your potato a funny face",
-    "title": "Potato Guy",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kubrick",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This puzzling game has lots of options to keep your brain working! Modeled after the popular Rubik's Cube this game is a 3-D experience that has you turning small bricks in a large cube to try and make each of the cube's sides the same solid color. Smaller, larger, and differently shaped objects offer their own special challenges. The game also includes demonstrations of cool solution moves, so you can follow along with the experts, and you can even design your very own challenge!",
-    "displayShape": "b1",
-    "exec": "kubrick --geometry 1920x1080+0+0",
-    "featured_img": "",
-    "icon": "kubrick-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kubrick-screenshot1.jpg"
-      ],
-      "es": [
-        "kubrick-screenshot1.jpg"
-      ],
-      "pt": [
-        "kubrick-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kubrick-thumb.jpg",
-    "subtitle": "Like Rubik's Cube - create solid color sides to win",
-    "title": "Kubrick",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kwordquiz",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Learning new words is a great way to speak and write more clearly, but sometimes it can be hard to do. Using flashcards can be a great help, whether you\u2019re studying a foreign language or trying to memorize new vocabulary words. This app make memorization easy and fun with interactive flashcards and quizzes that will help you test your knowledge and keep learning all you want.",
-    "displayShape": "b1",
-    "exec": "kwordquiz -caption %c %i",
-    "featured_img": "",
-    "icon": "kwordquiz-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kwordquiz-screenshot1.jpg"
-      ],
-      "es": [
-        "kwordquiz-screenshot1.jpg"
-      ],
-      "pt": [
-        "kwordquiz-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kwordquiz-thumb.jpg",
-    "subtitle": "Grow your vocabulary and test your learning",
-    "title": "KWordQuiz",
-    "tryexec": ""
-  },
-  {
-    "application-id": "labyrinth",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
-    "displayShape": "b1",
-    "exec": "labyrinth",
-    "featured_img": "",
-    "icon": "labyrinth-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "labyrinth-screenshot1.jpg",
-        "labyrinth-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "labyrinth-thumb.jpg",
-    "subtitle": "Create mind maps with text, images, and drawings",
-    "title": "Mind Maps",
     "tryexec": ""
   },
   {
@@ -3895,43 +2703,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "marble",
-    "category": "Resources",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Where do players from FC Barcelona or Real Madrid live? How far away are you from a country where elephants and lions wander around freely? How close is the nearest volcano? These are all questions that the right maps can help us answer. This app will give you access to all sorts of maps from all over the world and from different ages, so that you can even see how the world has changed over time!",
-    "displayShape": "b1",
-    "exec": "marble --geometry 1920x1080+0+0",
-    "featured_img": "",
-    "icon": "marble-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "marble-screenshot1.jpg",
-        "marble-screenshot2.jpg",
-        "marble-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "marble-thumb.jpg",
-    "subtitle": "Maps of the entire world",
-    "title": "Maps",
-    "tryexec": ""
-  },
-  {
-    "application-id": "marsshooter",
+    "application-id": "net.blockout.Blockout2",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In the year 3547, civilizations across the galaxy have settled their own planets. Your own people live in peace and harmony with the environment. But outside of your peaceful planet, a great war is raging. You are a famous fighter who is known for your honor and skill, and you will have to protect your planet from your jealous neighbors who want to destroy it! This game has a multiplayer option, allows you to choose from a variety of weapons to fight, and even allows you to customize your own spaceship. You'll want to keep playing until you succeed in returning peace to your planet!",
+    "description": "Do you love puzzle games? Then you\u2019ll love BlockOut 2. This 3-D Tetris game is fast-paced and a lot of fun! Figure out how to stack different-shaped blocks together and create whole layers of blocks to get points, all before the blocks stack up too high and you lose! It\u2019s great for the brain, and tons of fun.",
     "displayShape": "b1",
-    "exec": "mars",
-    "featured_img": "",
-    "icon": "marsshooter-icon.png",
+    "exec": "blockout2",
+    "featured_img": "net.blockout.blockout2-featured.jpg",
+    "icon": "net.blockout.blockout2-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -3939,25 +2719,25 @@
     ],
     "screenshots": {
       "C": [
-        "marsshooter-screenshot1.jpg"
+        "net.blockout.blockout2-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "marsshooter-thumb.jpg",
-    "subtitle": "A shooting game in space",
-    "title": "M.A.R.S.",
+    "square_img": "net.blockout.blockout2-thumb.jpg",
+    "subtitle": "3D Tetris-style game",
+    "title": "BlockOut 2",
     "tryexec": ""
   },
   {
-    "application-id": "megaglest",
+    "application-id": "net.gcompris.Gcompris",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Kings, castles, and dragons all unite in this awesome strategy game that will make you want to rule your own civilization. Play against your friends to see who has what it takes to rule this wild fantasy world where magic makes you even more powerful and you can conquer whatever part of the realm you desire!",
+    "description": "This app makes learning fun for young children with more than 100 games and activities! Educational topics include reading, geography, and math, and the app also features games like chess that are great for young brains. Your child will have a wonderful time developing valuable skills that will help him or her throughout life.",
     "displayShape": "b1",
-    "exec": "megaglest",
+    "exec": "gcompris",
     "featured_img": "",
-    "icon": "megaglest-icon.png",
+    "icon": "net.gcompris.gcompris-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -3965,26 +2745,61 @@
     ],
     "screenshots": {
       "C": [
-        "megaglest-screenshot1.jpg",
-        "megaglest-screenshot2.jpg"
+        "net.gcompris.gcompris-screenshot1.jpg",
+        "net.gcompris.gcompris-screenshot2.jpg",
+        "net.gcompris.gcompris-screenshot3.jpg"
       ],
       "es": [
-        "megaglest-screenshot1.jpg",
-        "megaglest-screenshot2.jpg"
+        "net.gcompris.gcompris-screenshot1.jpg",
+        "net.gcompris.gcompris-screenshot2.jpg",
+        "net.gcompris.gcompris-screenshot3.jpg"
       ],
       "pt": [
-        "megaglest-screenshot1.jpg",
-        "megaglest-screenshot2.jpg"
+        "net.gcompris.gcompris-screenshot1.jpg",
+        "net.gcompris.gcompris-screenshot2.jpg",
+        "net.gcompris.gcompris-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "megaglest-thumb.jpg",
-    "subtitle": "A fantasy world with kings, queens and magic",
-    "title": "MegaGlest",
+    "square_img": "net.gcompris.gcompris-thumb.jpg",
+    "subtitle": "Puzzles, memory games, and more for kids",
+    "title": "EduGames",
     "tryexec": ""
   },
   {
-    "application-id": "minetest",
+    "application-id": "net.gcompris.Gcompris.Admin",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Use this app to configure the EduGames app and create the exact learning experience you'd like for your students! You can change the list of activities, or change the controls of the app so that they stay focused on just the games that you want them to. To begin, download this app and the EduGames app from the 'Games' section of the app store. They'll have so much fun that they'll want to spend hours doing just what you want them to!",
+    "displayShape": "b1",
+    "exec": "gcompris-admin --administration",
+    "featured_img": "",
+    "icon": "net.gcompris.gcompris.admin-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.gcompris.gcompris.admin-screenshot1.jpg"
+      ],
+      "es": [
+        "net.gcompris.gcompris.admin-screenshot1.jpg"
+      ],
+      "pt": [
+        "net.gcompris.gcompris.admin-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.gcompris.gcompris.admin-thumb.jpg",
+    "subtitle": "For teachers to help their students learn",
+    "title": "EduGames Admin",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.minetest.Minetest",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
@@ -3992,7 +2807,7 @@
     "displayShape": "b1",
     "exec": "minetest",
     "featured_img": "",
-    "icon": "minetest-icon.png",
+    "icon": "net.minetest.minetest-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4000,25 +2815,25 @@
     ],
     "screenshots": {
       "C": [
-        "minetest-screenshot1.jpg"
+        "net.minetest.minetest-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "minetest-thumb.jpg",
+    "square_img": "net.minetest.minetest-thumb.jpg",
     "subtitle": "Create your dream world",
     "title": "Minetest",
     "tryexec": ""
   },
   {
-    "application-id": "numptyphysics",
+    "application-id": "net.sourceforge.Atanks",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
+    "description": "Annihilate other tanks to earn money, then spend it on bigger and better shields and weapons to wipe out the opposition. Win this exciting game and you'll be a true battle-hardened commander, lose and feel the wrath of your adversary.",
     "displayShape": "b1",
-    "exec": "numptyphysics",
+    "exec": "atanks",
     "featured_img": "",
-    "icon": "numptyphysics-icon.png",
+    "icon": "net.sourceforge.atanks-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4026,42 +2841,564 @@
     ],
     "screenshots": {
       "C": [
-        "numptyphysics-screenshot1.jpg",
-        "numptyphysics-screenshot2.jpg",
-        "numptyphysics-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "numptyphysics-thumb.jpg",
-    "subtitle": "Fun physics puzzle games",
-    "title": "Numpty Physics",
-    "tryexec": ""
-  },
-  {
-    "application-id": "openscad",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app is made for programmers who want to create 3D CAD models. The app does not focus on the artistic aspects of 3D modeling, but rather on the CAD elements, so it is best suited for people who want to create machine parts, for example, instead of something like 3D models for movies. As the programmer, you will have full control over the modeling process so that you can easily change any step and create the configurable designs you desire. You'll need to have a deep understanding of how to create CAD models, and if you do, this app is a great way to build the 3D models you need.",
-    "displayShape": "b1",
-    "exec": "openscad %f",
-    "featured_img": "",
-    "icon": "openscad-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "openscad-screenshot1.jpg",
-        "openscad-screenshot2.jpg"
+        "net.sourceforge.atanks-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "openscad-thumb.jpg",
-    "subtitle": "Create 3D CAD models",
-    "title": "3D CAD",
+    "square_img": "net.sourceforge.atanks-thumb.jpg",
+    "subtitle": "Bring friends and families together in the pursuit of world domination",
+    "title": "Atomic Tanks",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Audacity",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Have you ever wanted to make your own audio clips or songs? With this app, you'll be able to access all the tools you need to create audio clips that you can play for your friends and family. Create high quality clips and songs that you can even share with the world!",
+    "displayShape": "b1",
+    "exec": "audacity",
+    "featured_img": "",
+    "icon": "net.sourceforge.audacity-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.audacity-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.audacity-thumb.jpg",
+    "subtitle": "Audio editor for recording, slicing, and mixing audio",
+    "title": "Audio Editor",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Btanks",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Battle with family and friends with an arsenal of your design. With awesome graphics and cool music, it's a fun and dynamic game for players of all ages. Just make sure you can handle the explosions!",
+    "displayShape": "b1",
+    "exec": "btanks",
+    "featured_img": "",
+    "icon": "net.sourceforge.btanks-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.btanks-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.btanks-thumb.jpg",
+    "subtitle": "A fast-paced battle game to play with friends",
+    "title": "Battle Tanks",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.ChromiumBSU",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Imagine this: You\u2019re the captain of a space ship that must get supplies to the frontline of a great war in outer space. With the help of your robotic fighting fleet, you just might make it. This thrilling, arcade-style game is sure to get your blood pumping. With lots of obstacles and the tools to overcome them, you\u2019re on your way to a galaxy of fun!",
+    "displayShape": "b2v",
+    "exec": "resfix chromium-bsu --fullscreen",
+    "featured_img": "net.sourceforge.chromiumbsu-featured.jpg",
+    "icon": "net.sourceforge.chromiumbsu-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.chromiumbsu-screenshot1.jpg",
+        "net.sourceforge.chromiumbsu-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.chromiumbsu-thumb.jpg",
+    "subtitle": "Command your spaceship and battle with robots",
+    "title": "Chromium BSU",
+    "tryexec": "chromium-bsu"
+  },
+  {
+    "application-id": "net.sourceforge.Extremetuxracer",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Make it down a snow and ice-covered mountain as quickly as possible in this awesome racing game! But it won't be easy! You'll need to avoid the trees, rocks, and even fish bones that get in your way and slow you down. Sure to get your heart racing, this game is a must play for any adrenaline addict.",
+    "displayShape": "b1",
+    "exec": "etracer",
+    "featured_img": "",
+    "icon": "net.sourceforge.extremetuxracer-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.extremetuxracer-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.extremetuxracer-thumb.jpg",
+    "subtitle": "Race down icy mountains",
+    "title": "Tux Racer",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Frostwire",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Access, download and share almost any file you'd like to with this useful online peer to peer app that enables you to share files with other users who are connected to the BitTorrent network. From music, videos, and games, to more complex downloads like software, you will be able to access shared files from millions of users online. This app even includes a built-in video player so that you can easily view all of the media you download.  **Requires Internet",
+    "displayShape": "b1",
+    "exec": "frostwire",
+    "featured_img": "",
+    "icon": "net.sourceforge.frostwire-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.frostwire-screenshot1.jpg",
+        "net.sourceforge.frostwire-screenshot2.jpg",
+        "net.sourceforge.frostwire-screenshot3.jpg"
+      ],
+      "es": [
+        "net.sourceforge.frostwire-screenshot1.jpg",
+        "net.sourceforge.frostwire-screenshot2.jpg",
+        "net.sourceforge.frostwire-screenshot3.jpg"
+      ],
+      "pt": [
+        "net.sourceforge.frostwire-screenshot1.jpg",
+        "net.sourceforge.frostwire-screenshot2.jpg",
+        "net.sourceforge.frostwire-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.frostwire-thumb.jpg",
+    "subtitle": "Download nearly anything or share your own files",
+    "title": "FrostTorrent",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Rili",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Sure to be an instant hit with the whole family, this is a game featuring a steam locomotive which you use to drive across many levels collecting coaches as you go. Collect all the coaches to win the game!",
+    "displayShape": "b1",
+    "exec": "ri-li",
+    "featured_img": "",
+    "icon": "net.sourceforge.rili-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.rili-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "net.sourceforge.rili-thumb.jpg",
+    "subtitle": "A fun train game for kids of all ages",
+    "title": "Toy Train",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Torcs",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Rip around turns and scream past other drivers in this exciting 3D car racing game. It's so realistic that you'll swear you smell the burning rubber! Advanced users also have an opportunity to create their own custom drivers to gain an even bigger advantage over their opponents. You'll love racing your fast cars, and soon you'll see that all of your friends will want to play too!",
+    "displayShape": "b1",
+    "exec": "torcs",
+    "featured_img": "",
+    "icon": "net.sourceforge.torcs-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.torcs-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.torcs-thumb.jpg",
+    "subtitle": "Race cool 3D cars in this realistic game",
+    "title": "TORCS",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Warmux",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Exterminate your opponent in a cartoon word using dynamite, grenades, bazookas, or even a baseball bat. Each player controls their own team and must destroy his adversary using his arsenol and wits, as turn by turn, each member of each team attempts to destroy his opponents.",
+    "displayShape": "b1",
+    "exec": "warmux",
+    "featured_img": "",
+    "icon": "net.sourceforge.warmux-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.warmux-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "net.sourceforge.warmux-thumb.jpg",
+    "subtitle": "Make your computer a battle of wit and war",
+    "title": "Warmux",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.wz2100.Warzone2100",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In Warzone 2100 you command forces to rebuild the world after nuclear war has destroyed it. Play it alone or with friends; either way you'll dive head first into another world where you'll be living and breathing military strategy. Research technologies, build units, and plan battles in this game of strategy, tactics, and wit.",
+    "displayShape": "b1",
+    "exec": "warzone2100 --fullscreen",
+    "featured_img": "",
+    "icon": "net.wz2100.warzone2100-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.wz2100.warzone2100-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.wz2100.warzone2100-thumb.jpg",
+    "subtitle": "Lead your troops to rebuild the world",
+    "title": "Warzone 2100",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.armagetronad.Armagetronad",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This exciting game lets you into the world of Tron. Get behind the wheel of a \u201clight cycle\u201d, a cool and futuristic motorcycle, and battle others on the road. Force your opponents to hit the arena walls and win. This app is easy to learn and a lot of fun to play!",
+    "displayShape": "b1",
+    "exec": "armagetronad",
+    "featured_img": "",
+    "icon": "org.armagetronad.armagetronad-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.armagetronad.armagetronad-screenshot1.jpg",
+        "org.armagetronad.armagetronad-screenshot2.jpg",
+        "org.armagetronad.armagetronad-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.armagetronad.armagetronad-thumb.jpg",
+    "subtitle": "Race 3D light motorcycles like in the movie Tron",
+    "title": "Armagetron",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.freeciv.Freeciv",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Create your own world with this action-packed game that lets you travel through time and start a civilization of your very own. You'll start at the begging, in a pre-historic world, where you'll need to create your own tribe. Then, you'll move onto the middle ages, survive the plague and invent the wheel. You'll continue through the ages until you reach modern times and need to balance world politics with your agenda to lead your people to conquering the moon and beyond!",
+    "displayShape": "b1",
+    "exec": "freeciv-gtk2",
+    "featured_img": "",
+    "icon": "org.freeciv.freeciv-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.freeciv.freeciv-screenshot1.jpg",
+        "org.freeciv.freeciv-screenshot2.jpg",
+        "org.freeciv.freeciv-screenshot3.jpg"
+      ],
+      "es": [
+        "org.freeciv.freeciv-screenshot1.jpg",
+        "org.freeciv.freeciv-screenshot2.jpg",
+        "org.freeciv.freeciv-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.freeciv.freeciv-thumb.jpg",
+    "subtitle": "Guide your own civilization to greatness",
+    "title": "FreeCiv",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.freecol.Freecol",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Have you ever wanted to start your own country? Well, now you can. Go back into an alternative universe where America has still not been colonized and create towns, cities, and states that will support your ultimate plan. Will you try to dominate the world, or will you promote international peace and prosperity? You decide.",
+    "displayShape": "b1",
+    "exec": "freecol",
+    "featured_img": "",
+    "icon": "org.freecol.freecol-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.freecol.freecol-screenshot1.jpg",
+        "org.freecol.freecol-screenshot2.jpg",
+        "org.freecol.freecol-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.freecol.freecol-thumb.jpg",
+    "subtitle": "Create your own country and conquer the world",
+    "title": "FreeCol",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.frozenbubble.FrozenBubble",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Play by yourself or challenge your friends to an exciting game of frozen bubbles! Match the colored bubbles in order to knock them down and get them out of the way before they stack up too high and crash into you. You need to have a good strategy and develop a quick trigger finger in order to win!",
+    "displayShape": "b1",
+    "exec": "frozen-bubble",
+    "featured_img": "",
+    "icon": "org.frozenbubble.frozenbubble-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.frozenbubble.frozenbubble-screenshot1.jpg",
+        "org.frozenbubble.frozenbubble-screenshot2.jpg",
+        "org.frozenbubble.frozenbubble-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.frozenbubble.frozenbubble-thumb.jpg",
+    "subtitle": "Pop bubbles before they all come crashing down",
+    "title": "Frozen Bubbles",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gimp.Gimp",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Edit your photos to create even more beautiful works of art with this advanced photo editor. This app is compatible with Adobe Photoshop, a popular photo editor for Windows computers. If you are new user, it can serve as a basic painting program. Advanced users can do things like convert formats of files and apply a variety of retouching and filtering tools to create works of art. There are so many possibilities for how to create cool images once you get the hang of this helpful editing app!",
+    "displayShape": "b1",
+    "exec": "gimp %U",
+    "featured_img": "",
+    "icon": "org.gimp.gimp-icon.png",
+    "is_featured": true,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gimp.gimp-screenshot1.jpg",
+        "org.gimp.gimp-screenshot2.jpg",
+        "org.gimp.gimp-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gimp.gimp-screenshot1.jpg",
+        "org.gimp.gimp-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.gimp.gimp-screenshot1.jpg",
+        "org.gimp.gimp-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gimp.gimp-thumb.jpg",
+    "subtitle": "Advanced image editing tool similar to Photoshop",
+    "title": "GIMP",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Freecell",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This application lets you play a new type of solitaire that will keep you entertained for hours! The general idea is to put cards of the same suit down in numerical order, but it\u2019s a little more complicated than that. This card game challenges the mind and provides plenty of entertainment for you to enjoy.",
+    "displayShape": "b1",
+    "exec": "sol --variation=freecell",
+    "featured_img": "",
+    "icon": "org.gnome.freecell-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.freecell-screenshot1.jpg",
+        "org.gnome.freecell-screenshot2.jpg",
+        "org.gnome.freecell-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gnome.freecell-screenshot1.jpg",
+        "org.gnome.freecell-screenshot2.jpg",
+        "org.gnome.freecell-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.gnome.freecell-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.freecell-thumb.jpg",
+    "subtitle": "Solitare based single player card game",
+    "title": "Freecell",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Genius",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as an advanced calculator. Everything you need to figure out numerical mysteries is right here.",
+    "displayShape": "b1",
+    "exec": "gnome-genius",
+    "featured_img": "",
+    "icon": "org.gnome.genius-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.genius-screenshot1.jpg",
+        "org.gnome.genius-screenshot2.jpg",
+        "org.gnome.genius-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.genius-thumb.jpg",
+    "subtitle": "Interactive computation and data visualization tool",
+    "title": "Math Plotting",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Gnote",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you find yourself writing down lots of notes on pieces of paper that later get lost or torn? Or, are there so many notes on your desk that you're running out of space? No matter what kind of notes you need to take, this note app can help you keep them all in one place. This app also has the ability to link notes together so that you can easily access all related notes and stay even more organized!",
+    "displayShape": "b1",
+    "exec": "gnote %u",
+    "featured_img": "",
+    "icon": "org.gnome.gnote-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.gnote-screenshot1.jpg",
+        "org.gnome.gnote-screenshot2.jpg",
+        "org.gnome.gnote-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gnome.gnote-screenshot1.jpg",
+        "org.gnome.gnote-screenshot2.jpg",
+        "org.gnome.gnote-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.gnote-thumb.jpg",
+    "subtitle": "Never lose a note again",
+    "title": "Notes",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Iagno",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Turn over the pieces in front of you so that they are all the same color. Simple? Not at all! You can change pieces to your color if you can put one of your pieces in a place where you can make a row, column or diagonal line across consecutive pieces of the other color. So, you need to flip over the pieces carefully to try to make ALL of the pieces your color. Think very strategically and see if you can figure this puzzle out!",
+    "displayShape": "b1",
+    "exec": "iagno",
+    "featured_img": "",
+    "icon": "org.gnome.iagno-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.iagno-screenshot1.jpg",
+        "org.gnome.iagno-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.iagno-thumb.jpg",
+    "subtitle": "A fun puzzle game that involves lots of thought",
+    "title": "Iagno",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Labyrinth",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
+    "displayShape": "b1",
+    "exec": "labyrinth",
+    "featured_img": "",
+    "icon": "org.gnome.labyrinth-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.labyrinth-screenshot1.jpg",
+        "org.gnome.labyrinth-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.labyrinth-thumb.jpg",
+    "subtitle": "Create mind maps with text, images, and drawings",
+    "title": "Mind Maps",
     "tryexec": ""
   },
   {
@@ -4091,6 +3428,156 @@
     "square_img": "org.gnome.nautilus-thumb.jpg",
     "subtitle": "Access all of your documents and files",
     "title": "Documents",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Quadrapassel",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "You'll need to be quick if you want to win this game! Change the shape of pieces that fall from the top in order to match colors and make them disappear. If you don't make enough color blocks disappear, you'll find that your screen will soon fill up and you'll need to try again. And just when you think you're quick enough, the game will speed up, so be ready for a challenge!",
+    "displayShape": "b1",
+    "exec": "quadrapassel",
+    "featured_img": "",
+    "icon": "org.gnome.quadrapassel-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.quadrapassel-screenshot1.jpg",
+        "org.gnome.quadrapassel-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.quadrapassel-thumb.jpg",
+    "subtitle": "A tetris-like puzzle game",
+    "title": "Quadrapassel",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Screenshot",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more.",
+    "displayShape": "b1",
+    "exec": "gnome-screenshot --interactive",
+    "featured_img": "",
+    "icon": "org.gnome.screenshot-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.screenshot-screenshot1.jpg"
+      ],
+      "es": [
+        "org.gnome.screenshot-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.gnome.screenshot-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "org.gnome.screenshot-thumb.jpg",
+    "subtitle": "Take a picture of your screen to save",
+    "title": "Screenshot",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Solitaire",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Solitaire is a classic card game that is fun for people of all ages. It\u2019s easy to figure out the rules, but it takes time to master the game. Luckily, you\u2019ll want to put in the time to really learn how to play, because you\u2019ll be having so much fun. This engrossing and mind-enriching game is sure to entertain you, hour after hour.",
+    "displayShape": "b1",
+    "exec": "solitaire --class=solitaire --variation=klondike",
+    "featured_img": "",
+    "icon": "org.gnome.solitaire-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.solitaire-screenshot1.jpg",
+        "org.gnome.solitaire-screenshot2.jpg",
+        "org.gnome.solitaire-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gnome.solitaire-screenshot1.jpg",
+        "org.gnome.solitaire-screenshot2.jpg",
+        "org.gnome.solitaire-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.gnome.solitaire-screenshot1.jpg",
+        "org.gnome.solitaire-screenshot2.jpg",
+        "org.gnome.solitaire-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.solitaire-thumb.jpg",
+    "subtitle": "The classic single player card game",
+    "title": "Solitaire",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Terminal",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "If you're an advanced user and want to display system information and launch applications without using the mouse, now you can do just that with this basic terminal app. With this modern terminal, you can see all of your commands written in different colors to help make sure you are typing them in correctly and to help you easily identify any mistakes you have made.",
+    "displayShape": "b1",
+    "exec": "gnome-terminal",
+    "featured_img": "",
+    "icon": "org.gnome.terminal-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.terminal-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "org.gnome.terminal-thumb.jpg",
+    "subtitle": "Use the command line",
+    "title": "Terminal",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Tetravex",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Try to match up all of the same numbers on the blocks to win this tricky game. You'll need to think carefully, but quickly, in order to finish the puzzle. You will be timed, so make sure to keep getting faster in order to beat your or your friends' best time!",
+    "displayShape": "b1",
+    "exec": "gnome-tetravex",
+    "featured_img": "",
+    "icon": "org.gnome.tetravex-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.tetravex-screenshot1.jpg",
+        "org.gnome.tetravex-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.tetravex-thumb.jpg",
+    "subtitle": "Race the clock in a numerical puzzle game",
+    "title": "Tetravex",
     "tryexec": ""
   },
   {
@@ -4168,7 +3655,822 @@
     "tryexec": ""
   },
   {
-    "application-id": "palapeli",
+    "application-id": "org.inkscape.Inkscape",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This app is for intermediate and advanced graphic designers who need to create and edit their graphics and images. This app gives you advanced features and is comparable to Adobe InDesign. For example, it allows you to create SVGs (Scalable Vector Graphics), which allow your graphics to remain high quality no matter what size they are. Create beautiful ads, brochures, presentations and artwork with this great free graphics app!",
+    "displayShape": "b1",
+    "exec": "inkscape %F",
+    "featured_img": "",
+    "icon": "org.inkscape.inkscape-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.inkscape.inkscape-screenshot1.jpg",
+        "org.inkscape.inkscape-screenshot2.jpg"
+      ],
+      "es": [
+        "org.inkscape.inkscape-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.inkscape.inkscape-screenshot1.jpg",
+        "org.inkscape.inkscape-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.inkscape.inkscape-thumb.jpg",
+    "subtitle": "An advanced graphic design tool",
+    "title": "Inkscape",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kalzium",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "The periodic table of the elements is one of the basic building blocks of science, and now you can have it at your fingertips. This app features a color-coded periodic table that makes learning each element easier and more fun. Select elements to learn basic information about them, like their melting points, mass, and more. More complex information, like visualization of elements\u2019 spectral lines, makes this app perfect for scientific discovery. You won\u2019t believe how much you can learn with this beautiful, simple, and informative app.",
+    "displayShape": "b1",
+    "exec": "kalzium -caption %c %i",
+    "featured_img": "",
+    "icon": "org.kde.kalzium-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kalzium-screenshot1.jpg",
+        "org.kde.kalzium-screenshot2.jpg"
+      ],
+      "es": [
+        "org.kde.kalzium-screenshot1.jpg",
+        "org.kde.kalzium-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.kde.kalzium-screenshot1.jpg",
+        "org.kde.kalzium-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kalzium-thumb.jpg",
+    "subtitle": "A fun interactive periodic table of elements",
+    "title": "Kalzium",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kapman",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "If you love Pac-Man, then you you'll love this game too! Eat dots to gain points but don't get caught by the ghosts or you'll lose. As you gain skills and beat levels, the speed of the game increases, providing a more and more exciting challenge. You won\u2019t ever want to stop playing, and your friends and family, from kids to grandparents, will love the game, too!",
+    "displayShape": "b1",
+    "exec": "kapman",
+    "featured_img": "",
+    "icon": "org.kde.kapman-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kapman-screenshot1.jpg",
+        "org.kde.kapman-screenshot2.jpg"
+      ],
+      "es": [
+        "org.kde.kapman-screenshot1.jpg",
+        "org.kde.kapman-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.kde.kapman-screenshot1.jpg",
+        "org.kde.kapman-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kapman-thumb.jpg",
+    "subtitle": "The classic game of ghosts and mazes",
+    "title": "Kapman",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Katomic",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "If you\u2019re struggling with concepts in chemistry, or simply looking for a way to strengthen your understanding, then you've found the right app to help you! This challenging game has you create molecules from atoms \u2013 the perfect way to learn while having fun! The screen will show you what your molecule should look like, and you can move your atoms around to make the correct molecule. This game requires strategy and quick thinking, and will teach you a ton!",
+    "displayShape": "b1",
+    "exec": "katomic -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.katomic-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.katomic-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.katomic-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.katomic-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.katomic-thumb.jpg",
+    "subtitle": "A fun way to learn chemistry",
+    "title": "KAtomic",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kblocks",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This game is similar to Tetris, so if you love that game, you will love this one! Match up the block shapes in order to make them disappear and keep them from filling the screen. You will need to be really fast or else you'll lose, so pay attention and get ready for some very fast-actioned fun!",
+    "displayShape": "b1",
+    "exec": "kblocks -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.kblocks-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kblocks-screenshot1.jpg",
+        "org.kde.kblocks-screenshot2.jpg"
+      ],
+      "es": [
+        "org.kde.kblocks-screenshot1.jpg",
+        "org.kde.kblocks-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.kde.kblocks-screenshot1.jpg",
+        "org.kde.kblocks-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kblocks-thumb.jpg",
+    "subtitle": "Match blocks to destroy them and win",
+    "title": "KBlocks",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kbounce",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This is a fun game with a simple goal: you must build walls to decrease the area in which a bouncing ball on the screen can move. Once you fill most of the screen with walls, you\u2019ll be able to move on to the next level. This game has an element of puzzle solving, and is fast-paced and entertaining. It requires quick thinking and fast reflexes!",
+    "displayShape": "b1",
+    "exec": "kbounce -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.kbounce-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kbounce-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kbounce-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kbounce-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kbounce-thumb.jpg",
+    "subtitle": "The ball-bouncing game sure to hook you",
+    "title": "KBounce",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kbruch",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "One of the trickiest parts of the math we do every day is calculating fractions and percentages, and now you\u2019ll never have to second-guess your math again! This app features games and exercises to sharpen your skills, including arithmetic, comparison, conversion, and factorization. Learn all about fractions and percentages, and practice as much as you want. We encounter this kind of math almost every day, so your new skills will benefit you in unexpected ways!",
+    "displayShape": "b1",
+    "exec": "kbruch -caption %c %i",
+    "featured_img": "",
+    "icon": "org.kde.kbruch-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kbruch-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kbruch-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kbruch-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kbruch-thumb.jpg",
+    "subtitle": "Learn about fractions, percentages and more",
+    "title": "KBruch",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kdiamond",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In this fast-paced game, your job is to build lines of three diamonds of the same type. Simply swap diamonds with their neighbors to make your lines. Better do it quickly, so you can build as many lines as possible before the round is over! This is an easy and highly entertaining game you can play for just a little while, or for hours on end. It\u2019s fun, fast, and great for many age levels.",
+    "displayShape": "b1",
+    "exec": "kdiamond -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.kdiamond-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kdiamond-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kdiamond-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kdiamond-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kdiamond-thumb.jpg",
+    "subtitle": "Create lines of three diamonds",
+    "title": "KDiamond",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kgeography",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "How much do you know about world geography and political affairs? Learn the world's geography through an engaging game. First, check out the map and learn about names, capitals, and flags. Then, it\u2019s time to test your knowledge! Guess capitals and flags or try to place national borders onto an empty map. Before you know it, you\u2019ll know about every corner of the world and will have had a lot of fun learning it all!",
+    "displayShape": "b1",
+    "exec": "kgeography",
+    "featured_img": "",
+    "icon": "org.kde.kgeography-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kgeography-screenshot1.jpg",
+        "org.kde.kgeography-screenshot2.jpg",
+        "org.kde.kgeography-screenshot3.jpg"
+      ],
+      "es": [
+        "org.kde.kgeography-screenshot1.jpg",
+        "org.kde.kgeography-screenshot2.jpg",
+        "org.kde.kgeography-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.kde.kgeography-screenshot1.jpg",
+        "org.kde.kgeography-screenshot2.jpg",
+        "org.kde.kgeography-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kgeography-thumb.jpg",
+    "subtitle": "Become a geography genius while having fun",
+    "title": "KGeography",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kgoldrunner",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Your enemies are right on your heels as you move through mazes collecting gold in this engaging game. Featuring challenging puzzles and an exciting objective, this game is sure to be a favorite. You'll find hundreds of levels for hours of gameplay, with new mazes at every level. Just don\u2019t fall through any trapdoors!",
+    "displayShape": "b1",
+    "exec": "kgoldrunner",
+    "featured_img": "",
+    "icon": "org.kde.kgoldrunner-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kgoldrunner-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kgoldrunner-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kgoldrunner-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kgoldrunner-thumb.jpg",
+    "subtitle": "Look for treasure and hide from enemies",
+    "title": "KGoldrunner",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Khangman",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Practice your vocabulary the fun way! You'll learn new words with this puzzle game, and it's something that the whole family can play together. How do you play? Well, the computer will choose a word and players will try to guess what that word is by guessing its letters one by one until they can guess the whole word. As the players guess correctly, more and more of the word is shows, but if you make too many wrong guesses then you'll lose and have to start over with a new word!",
+    "displayShape": "b1",
+    "exec": "khangman -caption %c %i",
+    "featured_img": "",
+    "icon": "org.kde.khangman-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.khangman-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.khangman-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.khangman-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.khangman-thumb.jpg",
+    "subtitle": "One of the most fun word games on earth",
+    "title": "KHangMan",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kigo",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Based on a two-player board game popular in Asia, this app has easy-to-learn rules, but requires a great deal of strategy. It\u2019s the perfect way to pass the time while exercising your mind. The goal is simple: move your black or white pieces on the grid (the size of the grid depends on the difficulty level you choose), and try to surround more of the board than your opponent. If you like games like chess, then you'll love this great strategy game too!",
+    "displayShape": "b1",
+    "exec": "kigo %i -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.kigo-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kigo-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kigo-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kigo-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kigo-thumb.jpg",
+    "subtitle": "The ancient game of skill, updated for modern play",
+    "title": "Kigo",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Killbots",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "How will you get away from the killer robots bent on destruction? Figure it out in this simple, entertaining game. You may be outnumbered by an endless stream of robots, but with your intelligence and handy teleportation device you can defeat them. Outsmart all of the killer robots to win and live to tell the tale!",
+    "displayShape": "b1",
+    "exec": "killbots -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.killbots-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.killbots-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.killbots-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.killbots-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.killbots-thumb.jpg",
+    "subtitle": "Outsmart the killer robots to win",
+    "title": "Killbots",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kjumpingcube",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ",
+    "displayShape": "b1",
+    "exec": "kjumpingcube -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.kjumpingcube-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kjumpingcube-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kjumpingcube-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kjumpingcube-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kjumpingcube-thumb.jpg",
+    "subtitle": "Develop a good strategy to conquer all the squares",
+    "title": "KJumpingCube",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Klines",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This game is so fun and addicting, you\u2019ll never want to stop playing. The concept is simple: Gather colored balls from the game board into lines of five balls of the same color, which will remove them from the board. It\u2019s more challenging than you\u2019d expect, though, because new balls arrive after every move. It\u2019s your job to get the game board as clear of balls as possible; you lose if it fills up completely!",
+    "displayShape": "b1",
+    "exec": "klines -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.klines-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.klines-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.klines-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.klines-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.klines-thumb.jpg",
+    "subtitle": "Line up balls of the same color to win",
+    "title": "Kolor Lines",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Knavalbattle",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Try to guess where your enemies ships are to blow them out of the water before they get you! This is a fun strategy game that requires two people. You can play against a friend, against someone else on the internet, or against your computer. You'll take turns trying to guess where each others' ships are, and the first person to sink all of their enemies' ships wins. Arrr you ready for some great naval fun?",
+    "displayShape": "b1",
+    "exec": "knavalbattle -caption %c %U",
+    "featured_img": "",
+    "icon": "org.kde.knavalbattle-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.knavalbattle-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.knavalbattle-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.knavalbattle-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.knavalbattle-thumb.jpg",
+    "subtitle": "Blow your opponents out of the water",
+    "title": "Battleships",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Knetwalk",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Who knew building computer networks could be fun? You'll need to create the right connections in as few turns as possible to win - so get ready to move the wires and figure out the puzzle quickly! Once you\u2019ve succeeded, you\u2019ll find a high score list, allowing you to find competitors! This app helps you understand how computer networks work, but more importantly, it\u2019s an enjoyable and competitive game you\u2019ll love to play.",
+    "displayShape": "b1",
+    "exec": "knetwalk -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.knetwalk-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.knetwalk-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.knetwalk-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.knetwalk-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.knetwalk-thumb.jpg",
+    "subtitle": "Make the right cable connections and win",
+    "title": "KNetwalk",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kobodeluxe",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Fans of arcade-style games will love this fun shooting game. Protect yourself from and destroy enemy ships as they pursue you through space! This game has fun graphics and lots of challenges, with over 50 levels for you to play. You'll have hours and hours of fun blowing up things in space!",
+    "displayShape": "b1",
+    "exec": "resfix \"kobodl -fullscreen\"",
+    "featured_img": "",
+    "icon": "org.kde.kobodeluxe-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kobodeluxe-screenshot1.jpg",
+        "org.kde.kobodeluxe-screenshot2.jpg",
+        "org.kde.kobodeluxe-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kobodeluxe-thumb.jpg",
+    "subtitle": "Destroy enemy bases in space",
+    "title": "Kobo Deluxe",
+    "tryexec": "kobodl"
+  },
+  {
+    "application-id": "org.kde.Ksame",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Show off your pattern-finding skills in this addicting game. Match all of the same colored marbles to clear the board and win, but remember: the more marbles you clear at once, the higher your score will be, so think strategically about all of your moves! What may look easy at first is a true challenge. A really fun challenge!",
+    "displayShape": "b1",
+    "exec": "ksame --geometry 1920x1080+0+0 --KSameMode -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.ksame-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.ksame-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.ksame-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.ksame-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.ksame-thumb.jpg",
+    "subtitle": "Get rid of all the marbles to win",
+    "title": "KSame",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Ksquares",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Based on a popular old game, this fun app lets you stretch your mind and solve puzzles. The objective is to complete more squares on the grid than your opponent. Taking turns drawing lines between dots, you\u2019ll form squares while trying to block your opponents\u2019 squares. This game requires geometrical thinking as well as strategy, and is sure to provide hours of entertainment. Be careful \u2013 you just might become addicted!",
+    "displayShape": "b1",
+    "exec": "ksquares %i -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.ksquares-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.ksquares-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.ksquares-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.ksquares-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.ksquares-thumb.jpg",
+    "subtitle": "Connect the dots in this challenging strategy game",
+    "title": "KSquares",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Ksudoku",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Are you better than your friend is at puzzles? Find out by playing this fun number puzzle game! You can play alone, have other people help you, or challenge your friends and family to see who can solve the puzzle first. This app has special features, like the ability to create games you can print out, and the ability to help you solve any Sudoku puzzle so that you can learn how to solve it on your own. Whether you are completely new to Sudoku, or are an experienced player, you'll love this app!",
+    "displayShape": "b1",
+    "exec": "ksudoku %i -caption %c",
+    "featured_img": "",
+    "icon": "org.kde.ksudoku-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.ksudoku-screenshot1.jpg",
+        "org.kde.ksudoku-screenshot2.jpg"
+      ],
+      "es": [
+        "org.kde.ksudoku-screenshot1.jpg",
+        "org.kde.ksudoku-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.kde.ksudoku-screenshot1.jpg",
+        "org.kde.ksudoku-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.ksudoku-thumb.jpg",
+    "subtitle": "A challenging numerical puzzle game",
+    "title": "Sudoku",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Ktuberling",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This is a silly game for children and their parents to play together. Based on the Mr. Potato Head toy, it allows you to drag and drop facial features onto a potato, making funny faces with such touches as mustaches, elf ears, blonde ponytails, and bowties. There is no objective to this game except lots of laughter. Make the goofiest face you can!",
+    "displayShape": "b1",
+    "exec": "ktuberling -caption %c %u",
+    "featured_img": "",
+    "icon": "org.kde.ktuberling-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.ktuberling-screenshot1.jpg",
+        "org.kde.ktuberling-screenshot2.jpg"
+      ],
+      "es": [
+        "org.kde.ktuberling-screenshot1.jpg",
+        "org.kde.ktuberling-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.kde.ktuberling-screenshot1.jpg",
+        "org.kde.ktuberling-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.ktuberling-thumb.jpg",
+    "subtitle": "Give your potato a funny face",
+    "title": "Potato Guy",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kubrick",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This puzzling game has lots of options to keep your brain working! Modeled after the popular Rubik's Cube this game is a 3-D experience that has you turning small bricks in a large cube to try and make each of the cube's sides the same solid color. Smaller, larger, and differently shaped objects offer their own special challenges. The game also includes demonstrations of cool solution moves, so you can follow along with the experts, and you can even design your very own challenge!",
+    "displayShape": "b1",
+    "exec": "kubrick --geometry 1920x1080+0+0",
+    "featured_img": "",
+    "icon": "org.kde.kubrick-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kubrick-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kubrick-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kubrick-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kubrick-thumb.jpg",
+    "subtitle": "Like Rubik's Cube - create solid color sides to win",
+    "title": "Kubrick",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Kwordquiz",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Learning new words is a great way to speak and write more clearly, but sometimes it can be hard to do. Using flashcards can be a great help, whether you\u2019re studying a foreign language or trying to memorize new vocabulary words. This app make memorization easy and fun with interactive flashcards and quizzes that will help you test your knowledge and keep learning all you want.",
+    "displayShape": "b1",
+    "exec": "kwordquiz -caption %c %i",
+    "featured_img": "",
+    "icon": "org.kde.kwordquiz-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.kwordquiz-screenshot1.jpg"
+      ],
+      "es": [
+        "org.kde.kwordquiz-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.kde.kwordquiz-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.kwordquiz-thumb.jpg",
+    "subtitle": "Grow your vocabulary and test your learning",
+    "title": "KWordQuiz",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Marble",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Where do players from FC Barcelona or Real Madrid live? How far away are you from a country where elephants and lions wander around freely? How close is the nearest volcano? These are all questions that the right maps can help us answer. This app will give you access to all sorts of maps from all over the world and from different ages, so that you can even see how the world has changed over time!",
+    "displayShape": "b1",
+    "exec": "marble --geometry 1920x1080+0+0",
+    "featured_img": "",
+    "icon": "org.kde.marble-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.kde.marble-screenshot1.jpg",
+        "org.kde.marble-screenshot2.jpg",
+        "org.kde.marble-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.kde.marble-thumb.jpg",
+    "subtitle": "Maps of the entire world",
+    "title": "Maps",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.kde.Palapeli",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
@@ -4176,7 +4478,7 @@
     "displayShape": "b1",
     "exec": "palapeli",
     "featured_img": "",
-    "icon": "palapeli-icon.png",
+    "icon": "org.kde.palapeli-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4184,31 +4486,31 @@
     ],
     "screenshots": {
       "C": [
-        "palapeli-screenshot1.jpg"
+        "org.kde.palapeli-screenshot1.jpg"
       ],
       "es": [
-        "palapeli-screenshot1.jpg"
+        "org.kde.palapeli-screenshot1.jpg"
       ],
       "pt": [
-        "palapeli-screenshot1.jpg"
+        "org.kde.palapeli-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "palapeli-thumb.jpg",
+    "square_img": "org.kde.palapeli-thumb.jpg",
     "subtitle": "A fun jigsaw puzzle game",
     "title": "Palapeli",
     "tryexec": ""
   },
   {
-    "application-id": "pingus",
+    "application-id": "org.maemo.Numptyphysics",
     "category": "Games",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
+    "description": "Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
     "displayShape": "b1",
-    "exec": "sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
+    "exec": "numptyphysics",
     "featured_img": "",
-    "icon": "pingus-icon.png",
+    "icon": "org.maemo.numptyphysics-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4216,24 +4518,133 @@
     ],
     "screenshots": {
       "C": [
-        "pingus-screenshot1.jpg",
-        "pingus-screenshot2.jpg",
-        "pingus-screenshot3.jpg"
-      ],
-      "es": [
-        "pingus-screenshot1.jpg",
-        "pingus-screenshot2.jpg",
-        "pingus-screenshot3.jpg"
+        "org.maemo.numptyphysics-screenshot1.jpg",
+        "org.maemo.numptyphysics-screenshot2.jpg",
+        "org.maemo.numptyphysics-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "org.maemo.numptyphysics-thumb.jpg",
+    "subtitle": "Fun physics puzzle games",
+    "title": "Numpty Physics",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.marsshooter.Marsshooter",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In the year 3547, civilizations across the galaxy have settled their own planets. Your own people live in peace and harmony with the environment. But outside of your peaceful planet, a great war is raging. You are a famous fighter who is known for your honor and skill, and you will have to protect your planet from your jealous neighbors who want to destroy it! This game has a multiplayer option, allows you to choose from a variety of weapons to fight, and even allows you to customize your own spaceship. You'll want to keep playing until you succeed in returning peace to your planet!",
+    "displayShape": "b1",
+    "exec": "mars",
+    "featured_img": "",
+    "icon": "org.marsshooter.marsshooter-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.marsshooter.marsshooter-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "pingus-thumb.jpg",
-    "subtitle": "Save your penguin friends from falling into the water",
-    "title": "Pingus",
-    "tryexec": "pingus"
+    "square_img": "org.marsshooter.marsshooter-thumb.jpg",
+    "subtitle": "A shooting game in space",
+    "title": "M.A.R.S.",
+    "tryexec": ""
   },
   {
-    "application-id": "pitivi",
+    "application-id": "org.megaglest.MegaGlest",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Kings, castles, and dragons all unite in this awesome strategy game that will make you want to rule your own civilization. Play against your friends to see who has what it takes to rule this wild fantasy world where magic makes you even more powerful and you can conquer whatever part of the realm you desire!",
+    "displayShape": "b1",
+    "exec": "megaglest",
+    "featured_img": "",
+    "icon": "org.megaglest.megaglest-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.megaglest.megaglest-screenshot1.jpg",
+        "org.megaglest.megaglest-screenshot2.jpg"
+      ],
+      "es": [
+        "org.megaglest.megaglest-screenshot1.jpg",
+        "org.megaglest.megaglest-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.megaglest.megaglest-screenshot1.jpg",
+        "org.megaglest.megaglest-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.megaglest.megaglest-thumb.jpg",
+    "subtitle": "A fantasy world with kings, queens and magic",
+    "title": "MegaGlest",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.openarena.Openarena",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!",
+    "displayShape": "b1",
+    "exec": "resfix openarena +r_fullscreen 1",
+    "featured_img": "",
+    "icon": "org.openarena.openarena-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.openarena.openarena-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.openarena.openarena-thumb.jpg",
+    "subtitle": "Shoot your way out of trouble in this fun game",
+    "title": "Open Arena",
+    "tryexec": "openarena"
+  },
+  {
+    "application-id": "org.openscad.Openscad",
+    "category": "Utility",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This app is made for programmers who want to create 3D CAD models. The app does not focus on the artistic aspects of 3D modeling, but rather on the CAD elements, so it is best suited for people who want to create machine parts, for example, instead of something like 3D models for movies. As the programmer, you will have full control over the modeling process so that you can easily change any step and create the configurable designs you desire. You'll need to have a deep understanding of how to create CAD models, and if you do, this app is a great way to build the 3D models you need.",
+    "displayShape": "b1",
+    "exec": "openscad %f",
+    "featured_img": "",
+    "icon": "org.openscad.openscad-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.openscad.openscad-screenshot1.jpg",
+        "org.openscad.openscad-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.openscad.openscad-thumb.jpg",
+    "subtitle": "Create 3D CAD models",
+    "title": "3D CAD",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.pitivi.Pitivi",
     "category": "Utility",
     "core": false,
     "custom-splash-screen": "",
@@ -4241,7 +4652,7 @@
     "displayShape": "b1",
     "exec": "pitivi",
     "featured_img": "",
-    "icon": "pitivi-icon.png",
+    "icon": "org.pitivi.pitivi-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4249,31 +4660,31 @@
     ],
     "screenshots": {
       "C": [
-        "pitivi-screenshot1.jpg"
+        "org.pitivi.pitivi-screenshot1.jpg"
       ],
       "es": [
-        "pitivi-screenshot1.jpg"
+        "org.pitivi.pitivi-screenshot1.jpg"
       ],
       "pt": [
-        "pitivi-screenshot1.jpg"
+        "org.pitivi.pitivi-screenshot1.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "pitivi-thumb.jpg",
+    "square_img": "org.pitivi.pitivi-thumb.jpg",
     "subtitle": "Hundreds of transitions, effects, and filters to edit your videos",
     "title": "Video Editor",
     "tryexec": ""
   },
   {
-    "application-id": "quadrapassel",
-    "category": "Games",
+    "application-id": "org.squeakland.Etoys",
+    "category": "Education",
     "core": false,
     "custom-splash-screen": "",
-    "description": "You'll need to be quick if you want to win this game! Change the shape of pieces that fall from the top in order to match colors and make them disappear. If you don't make enough color blocks disappear, you'll find that your screen will soon fill up and you'll need to try again. And just when you think you're quick enough, the game will speed up, so be ready for a challenge!",
+    "description": "This app is a great way for kids to learn how to program while learning other disciplines and having a lot of fun! Create interactive drawings, stories, models and games with a drag-and-drop interface that helps to prevent syntax errors that are often frustrating to new learners. This app encourages curiosity and exploration, and can be used to create anything from simple drawings to complex models of the physical world. While originally designed for students who are 8 - 13 years old, teachers have found that this app has helped students of all ages, from young learners to college-aged students alike!",
     "displayShape": "b1",
-    "exec": "quadrapassel",
+    "exec": "etoys",
     "featured_img": "",
-    "icon": "quadrapassel-icon.png",
+    "icon": "org.squeakland.etoys-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -4281,15 +4692,459 @@
     ],
     "screenshots": {
       "C": [
-        "quadrapassel-screenshot1.jpg",
-        "quadrapassel-screenshot2.jpg"
+        "org.squeakland.etoys-screenshot1.jpg",
+        "org.squeakland.etoys-screenshot2.jpg",
+        "org.squeakland.etoys-screenshot3.jpg"
+      ],
+      "es": [
+        "org.squeakland.etoys-screenshot1.jpg",
+        "org.squeakland.etoys-screenshot2.jpg",
+        "org.squeakland.etoys-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.squeakland.etoys-screenshot1.jpg",
+        "org.squeakland.etoys-screenshot2.jpg",
+        "org.squeakland.etoys-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "quadrapassel-thumb.jpg",
-    "subtitle": "A tetris-like puzzle game",
-    "title": "Quadrapassel",
+    "square_img": "org.squeakland.etoys-thumb.jpg",
+    "subtitle": "Learn with visual programming",
+    "title": "Etoys",
     "tryexec": ""
+  },
+  {
+    "application-id": "org.squeakland.Scratch",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love computer games and applications? Why not learn how to make your own? This app teaches you the basics of computer programming in a fun and easy-to-learn way. You can pick characters and objects that you like and then add instructions so that they do what you want. As you become more advanced, you'll see that you can make almost anything you want come to life on the screen by putting in the right instructions. What cool video game will you someday make? ",
+    "displayShape": "b1",
+    "exec": "scratch %f",
+    "featured_img": "",
+    "icon": "org.squeakland.scratch-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.squeakland.scratch-screenshot1.jpg"
+      ],
+      "es": [
+        "org.squeakland.scratch-screenshot1.jpg"
+      ],
+      "pt": [
+        "org.squeakland.scratch-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.squeakland.scratch-thumb.jpg",
+    "subtitle": "Learn basic computer programming",
+    "title": "Scratch",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.stellarium.Stellarium",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Discover the night sky with this application. With a catalogue of more than 600,000 stars, constellations from more than a dozen cultures, and many more features, this application lets you see and get to know the stars right from your desktop. This application shows you a night sky that is so realistic, it matches the one you see above you. Set your location coordinates and learn about the stars above you!",
+    "displayShape": "b1",
+    "exec": "stellarium-wrapper",
+    "featured_img": "",
+    "icon": "org.stellarium.stellarium-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.stellarium.stellarium-screenshot1.jpg",
+        "org.stellarium.stellarium-screenshot2.jpg",
+        "org.stellarium.stellarium-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.stellarium.stellarium-thumb.jpg",
+    "subtitle": "Planetarium software that shows what you see when you look at the stars",
+    "title": "Stellarium",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.sugarlabs.Turtleblocks",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Learn the basics of computer programming while creating beautiful artwork! First, drag and drop commands for your turtle to follow from the menu. As the turtle moves, it will draw colorful lines behind it. You can change the colors, and start to design your masterpiece, all while learning the basics of computer programming.",
+    "displayShape": "b1",
+    "exec": "turtleblocks",
+    "featured_img": "",
+    "icon": "org.sugarlabs.turtleblocks-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.sugarlabs.turtleblocks-screenshot1.jpg",
+        "org.sugarlabs.turtleblocks-screenshot2.jpg",
+        "org.sugarlabs.turtleblocks-screenshot3.jpg"
+      ],
+      "es": [
+        "org.sugarlabs.turtleblocks-screenshot1.jpg",
+        "org.sugarlabs.turtleblocks-screenshot2.jpg",
+        "org.sugarlabs.turtleblocks-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.sugarlabs.turtleblocks-screenshot1.jpg",
+        "org.sugarlabs.turtleblocks-screenshot2.jpg",
+        "org.sugarlabs.turtleblocks-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.sugarlabs.turtleblocks-thumb.jpg",
+    "subtitle": "Visually program with turtle art",
+    "title": "Turtle Blocks",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.tuxfamily.Pingus",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
+    "displayShape": "b1",
+    "exec": "sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
+    "featured_img": "",
+    "icon": "org.tuxfamily.pingus-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.pingus-screenshot1.jpg",
+        "org.tuxfamily.pingus-screenshot2.jpg",
+        "org.tuxfamily.pingus-screenshot3.jpg"
+      ],
+      "es": [
+        "org.tuxfamily.pingus-screenshot1.jpg",
+        "org.tuxfamily.pingus-screenshot2.jpg",
+        "org.tuxfamily.pingus-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.pingus-thumb.jpg",
+    "subtitle": "Save your penguin friends from falling into the water",
+    "title": "Pingus",
+    "tryexec": "pingus"
+  },
+  {
+    "application-id": "org.tuxfamily.Supertux",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This game is similar to the original Super Mario Brothers games where you must run and jump your way to new levels. This game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play.",
+    "displayShape": "b1",
+    "exec": "resfix supertux2 --fullscreen",
+    "featured_img": "",
+    "icon": "org.tuxfamily.supertux-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.supertux-screenshot1.jpg",
+        "org.tuxfamily.supertux-screenshot2.jpg",
+        "org.tuxfamily.supertux-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.supertux-thumb.jpg",
+    "subtitle": "Jump your way through different levels to win",
+    "title": "Super Tux",
+    "tryexec": "supertux2"
+  },
+  {
+    "application-id": "org.tuxfamily.Supertuxkart",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love racing games? Then this is the app for you! Race down easy, medium and hard race tracks as Tux, the penguin, and try to beat your own speed or a friend's. If you are able to get the red fish, you'll gain special powers that will help you win, but make sure to avoid the green fish or you'll slow down. This game is great for both kids and adults alike and is sure to entertain you and your friends for hours!",
+    "displayShape": "b1",
+    "exec": "resfix supertuxkart --fullscreen",
+    "featured_img": "",
+    "icon": "org.tuxfamily.supertuxkart-icon.png",
+    "is_featured": true,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.supertuxkart-screenshot1.jpg",
+        "org.tuxfamily.supertuxkart-screenshot2.jpg",
+        "org.tuxfamily.supertuxkart-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.supertuxkart-thumb.jpg",
+    "subtitle": "Race alone or against your friends and family",
+    "title": "Tux Kart",
+    "tryexec": "supertuxkart"
+  },
+  {
+    "application-id": "org.tuxfamily.Teeworlds",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Shoot your way to victory in death matches and more! This game has an old-school feel and is an exciting multiplayer shooting game with epic battles of up to 16 players at a time. Play Capture the Flag or Team Deathmatch where you must try to survive in the deadly arena while getting rid of your opponents. This game is packed with cool featuers like the ability to create your own map! Lots of bloody fun awaits you, so grab your virtual weapons and go!",
+    "displayShape": "b1",
+    "exec": "resfix teeworlds",
+    "featured_img": "",
+    "icon": "org.tuxfamily.teeworlds-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.teeworlds-screenshot1.jpg",
+        "org.tuxfamily.teeworlds-screenshot2.jpg",
+        "org.tuxfamily.teeworlds-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.teeworlds-thumb.jpg",
+    "subtitle": "Exciting multi-player shooting game",
+    "title": "Teeworlds",
+    "tryexec": "teeworlds"
+  },
+  {
+    "application-id": "org.tuxfamily.Tuxfootbal",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love soccer? Now you can play all day with your favorite penguins! Show off your skills and strategy while always controling the players with the ball. Pretty soon, you'll feel like you're ready to take on the professionals!",
+    "displayShape": "b1",
+    "exec": "tuxfootball -fs",
+    "featured_img": "",
+    "icon": "org.tuxfamily.tuxfootbal-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.tuxfootbal-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.tuxfootbal-thumb.jpg",
+    "subtitle": "A fun soccer game starring Tux the penguin",
+    "title": "Tux Football",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.tuxfamily.Tuxmath",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Learn math by playing games! Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game app leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math!",
+    "displayShape": "b1",
+    "exec": "tuxmath",
+    "featured_img": "org.tuxfamily.tuxmath-featured.jpg",
+    "icon": "org.tuxfamily.tuxmath-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.tuxmath-screenshot1.jpg",
+        "org.tuxfamily.tuxmath-screenshot2.jpg",
+        "org.tuxfamily.tuxmath-screenshot3.jpg"
+      ],
+      "es": [
+        "org.tuxfamily.tuxmath-screenshot1.jpg",
+        "org.tuxfamily.tuxmath-screenshot2.jpg",
+        "org.tuxfamily.tuxmath-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.tuxfamily.tuxmath-screenshot1.jpg",
+        "org.tuxfamily.tuxmath-screenshot2.jpg",
+        "org.tuxfamily.tuxmath-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.tuxmath-thumb.jpg",
+    "subtitle": "Math games for kids",
+    "title": "Tux Math",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.tuxfamily.Tuxpaint",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
+    "displayShape": "b1",
+    "exec": "tuxpaint --fullscreen --native",
+    "featured_img": "",
+    "icon": "org.tuxfamily.tuxpaint-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.tuxpaint-screenshot1.jpg",
+        "org.tuxfamily.tuxpaint-screenshot2.jpg",
+        "org.tuxfamily.tuxpaint-screenshot3.jpg"
+      ],
+      "es": [
+        "org.tuxfamily.tuxpaint-screenshot1.jpg",
+        "org.tuxfamily.tuxpaint-screenshot2.jpg",
+        "org.tuxfamily.tuxpaint-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.tuxfamily.tuxpaint-screenshot1.jpg",
+        "org.tuxfamily.tuxpaint-screenshot2.jpg",
+        "org.tuxfamily.tuxpaint-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.tuxpaint-thumb.jpg",
+    "subtitle": "A fun drawing app for kids",
+    "title": "Tux Paint",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.tuxfamily.Tuxpuck",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
+    "displayShape": "b1",
+    "exec": "resfix tuxpuck",
+    "featured_img": "",
+    "icon": "org.tuxfamily.tuxpuck-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.tuxpuck-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.tuxpuck-thumb.jpg",
+    "subtitle": "Exciting air hockey game for you and your friends",
+    "title": "Tux Puck",
+    "tryexec": "tuxpuck"
+  },
+  {
+    "application-id": "org.tuxfamily.Tuxtype",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
+    "displayShape": "b1",
+    "exec": "eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
+    "featured_img": "",
+    "icon": "org.tuxfamily.tuxtype-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.tuxtype-screenshot1.jpg",
+        "org.tuxfamily.tuxtype-screenshot2.jpg",
+        "org.tuxfamily.tuxtype-screenshot3.jpg"
+      ],
+      "es": [
+        "org.tuxfamily.tuxtype-screenshot1.jpg",
+        "org.tuxfamily.tuxtype-screenshot2.jpg",
+        "org.tuxfamily.tuxtype-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.tuxfamily.tuxtype-screenshot1.jpg",
+        "org.tuxfamily.tuxtype-screenshot2.jpg",
+        "org.tuxfamily.tuxtype-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.tuxtype-thumb.jpg",
+    "subtitle": "Learn to type by playing games",
+    "title": "Tux Typing",
+    "tryexec": "tuxtype"
+  },
+  {
+    "application-id": "org.tuxfamily.Xmoto",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Love motorcycles? Then you're going to love this racing game where physics plays an important role in winning! You must control your bike to its physical limit if you want to have a chance of finishing the difficult courses. Learn about science and practice your racing skills at the same time in this fast-paced, exciting test of speed!",
+    "displayShape": "b1",
+    "exec": "xmoto -fs",
+    "featured_img": "",
+    "icon": "org.tuxfamily.xmoto-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxfamily.xmoto-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxfamily.xmoto-thumb.jpg",
+    "subtitle": "A motorcycle racing game",
+    "title": "X-Moto",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.wesnoth.Wesnoth",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Battle for control of the land, villages, and resources in this fantasy-themed strategy game. Each player controls an army of their own design and uses it to seek dominance. An exciting blend of history, fantasy, and strategy, this game is sure to reveal a great leader inside you.",
+    "displayShape": "b1",
+    "exec": "resfix wesnoth-1.11 -f",
+    "featured_img": "",
+    "icon": "org.wesnoth.wesnoth-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.wesnoth.wesnoth-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.wesnoth.wesnoth-thumb.jpg",
+    "subtitle": "Fantasy turn-based strategy game",
+    "title": "Wesnoth",
+    "tryexec": "wesnoth-1.11"
   },
   {
     "application-id": "rhythmbox",
@@ -4327,32 +5182,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "ri-li",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Sure to be an instant hit with the whole family, this is a game featuring a steam locomotive which you use to drive across many levels collecting coaches as you go. Collect all the coaches to win the game!",
-    "displayShape": "b1",
-    "exec": "ri-li",
-    "featured_img": "",
-    "icon": "ri-li-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "ri-li-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "ri-li-thumb.jpg",
-    "subtitle": "A fun train game for kids of all ages",
-    "title": "Toy Train",
-    "tryexec": ""
-  },
-  {
     "application-id": "scorched3d",
     "category": "Games",
     "core": false,
@@ -4378,38 +5207,6 @@
     "square_img": "scorched3d-thumb.jpg",
     "subtitle": "A battle adventure multi-player game",
     "title": "Scorched 3D",
-    "tryexec": ""
-  },
-  {
-    "application-id": "scratch",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love computer games and applications? Why not learn how to make your own? This app teaches you the basics of computer programming in a fun and easy-to-learn way. You can pick characters and objects that you like and then add instructions so that they do what you want. As you become more advanced, you'll see that you can make almost anything you want come to life on the screen by putting in the right instructions. What cool video game will you someday make? ",
-    "displayShape": "b1",
-    "exec": "scratch %f",
-    "featured_img": "",
-    "icon": "scratch-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "scratch-screenshot1.jpg"
-      ],
-      "es": [
-        "scratch-screenshot1.jpg"
-      ],
-      "pt": [
-        "scratch-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "scratch-thumb.jpg",
-    "subtitle": "Learn basic computer programming",
-    "title": "Scratch",
     "tryexec": ""
   },
   {
@@ -4480,614 +5277,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "skype",
-    "category": "Utility",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!  **Requires Internet",
-    "displayShape": "b2v",
-    "exec": "skype --resources=/endless/skype/share/skype %U",
-    "featured_img": "skype-featured.jpg",
-    "icon": "skype-icon.png",
-    "is_featured": true,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "skype-screenshot1.jpg",
-        "skype-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "skype-thumb.jpg",
-    "subtitle": "Free internet calls with cheap rates to phones",
-    "title": "Skype",
-    "tryexec": ""
-  },
-  {
-    "application-id": "slingshot",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Gravity is your best friend in this fun shooting game set in outer space. Use the gravity of different planets to your advantage, and use your trusty slingshot to destroy the enemy spacecraft. No two rounds are ever the same in this fun and addictive game!",
-    "displayShape": "b1",
-    "exec": "slingshot",
-    "featured_img": "",
-    "icon": "slingshot-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "slingshot-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "slingshot-thumb.jpg",
-    "subtitle": "A shooting strategy game set in space",
-    "title": "Slingshot",
-    "tryexec": ""
-  },
-  {
-    "application-id": "sol",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This application lets you play a new type of solitaire that will keep you entertained for hours! The general idea is to put cards of the same suit down in numerical order, but it\u2019s a little more complicated than that. This card game challenges the mind and provides plenty of entertainment for you to enjoy.",
-    "displayShape": "b1",
-    "exec": "sol --variation=freecell",
-    "featured_img": "",
-    "icon": "sol-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "sol-screenshot1.jpg",
-        "sol-screenshot2.jpg",
-        "sol-screenshot3.jpg"
-      ],
-      "es": [
-        "sol-screenshot1.jpg",
-        "sol-screenshot2.jpg",
-        "sol-screenshot3.jpg"
-      ],
-      "pt": [
-        "sol-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "sol-thumb.jpg",
-    "subtitle": "Solitare based single player card game",
-    "title": "Freecell",
-    "tryexec": ""
-  },
-  {
-    "application-id": "solitaire",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Solitaire is a classic card game that is fun for people of all ages. It\u2019s easy to figure out the rules, but it takes time to master the game. Luckily, you\u2019ll want to put in the time to really learn how to play, because you\u2019ll be having so much fun. This engrossing and mind-enriching game is sure to entertain you, hour after hour.",
-    "displayShape": "b1",
-    "exec": "solitaire --class=solitaire --variation=klondike",
-    "featured_img": "",
-    "icon": "solitaire-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "solitaire-screenshot1.jpg",
-        "solitaire-screenshot2.jpg",
-        "solitaire-screenshot3.jpg"
-      ],
-      "es": [
-        "solitaire-screenshot1.jpg",
-        "solitaire-screenshot2.jpg",
-        "solitaire-screenshot3.jpg"
-      ],
-      "pt": [
-        "solitaire-screenshot1.jpg",
-        "solitaire-screenshot2.jpg",
-        "solitaire-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "solitaire-thumb.jpg",
-    "subtitle": "The classic single player card game",
-    "title": "Solitaire",
-    "tryexec": ""
-  },
-  {
-    "application-id": "steam",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
-    "displayShape": "b1",
-    "exec": "steam",
-    "featured_img": "",
-    "icon": "steam-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "steam-screenshot1.jpg",
-        "steam-screenshot2.jpg"
-      ],
-      "es": [
-        "steam-screenshot1.jpg",
-        "steam-screenshot2.jpg"
-      ],
-      "pt": [
-        "steam-screenshot1.jpg",
-        "steam-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "steam-thumb.jpg",
-    "subtitle": "Online store with popular video games",
-    "title": "Steam",
-    "tryexec": ""
-  },
-  {
-    "application-id": "stellarium",
-    "category": "Resources",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Discover the night sky with this application. With a catalogue of more than 600,000 stars, constellations from more than a dozen cultures, and many more features, this application lets you see and get to know the stars right from your desktop. This application shows you a night sky that is so realistic, it matches the one you see above you. Set your location coordinates and learn about the stars above you!",
-    "displayShape": "b1",
-    "exec": "stellarium-wrapper",
-    "featured_img": "",
-    "icon": "stellarium-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "stellarium-screenshot1.jpg",
-        "stellarium-screenshot2.jpg",
-        "stellarium-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "stellarium-thumb.jpg",
-    "subtitle": "Planetarium software that shows what you see when you look at the stars",
-    "title": "Stellarium",
-    "tryexec": ""
-  },
-  {
-    "application-id": "supertux",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This game is similar to the original Super Mario Brothers games where you must run and jump your way to new levels. This game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play.",
-    "displayShape": "b1",
-    "exec": "resfix supertux2 --fullscreen",
-    "featured_img": "",
-    "icon": "supertux-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "supertux-screenshot1.jpg",
-        "supertux-screenshot2.jpg",
-        "supertux-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "supertux-thumb.jpg",
-    "subtitle": "Jump your way through different levels to win",
-    "title": "Super Tux",
-    "tryexec": "supertux2"
-  },
-  {
-    "application-id": "supertuxkart",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love racing games? Then this is the app for you! Race down easy, medium and hard race tracks as Tux, the penguin, and try to beat your own speed or a friend's. If you are able to get the red fish, you'll gain special powers that will help you win, but make sure to avoid the green fish or you'll slow down. This game is great for both kids and adults alike and is sure to entertain you and your friends for hours!",
-    "displayShape": "b1",
-    "exec": "resfix supertuxkart --fullscreen",
-    "featured_img": "",
-    "icon": "supertuxkart-icon.png",
-    "is_featured": true,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "supertuxkart-screenshot1.jpg",
-        "supertuxkart-screenshot2.jpg",
-        "supertuxkart-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "supertuxkart-thumb.jpg",
-    "subtitle": "Race alone or against your friends and family",
-    "title": "Tux Kart",
-    "tryexec": "supertuxkart"
-  },
-  {
-    "application-id": "teeworlds",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Shoot your way to victory in death matches and more! This game has an old-school feel and is an exciting multiplayer shooting game with epic battles of up to 16 players at a time. Play Capture the Flag or Team Deathmatch where you must try to survive in the deadly arena while getting rid of your opponents. This game is packed with cool featuers like the ability to create your own map! Lots of bloody fun awaits you, so grab your virtual weapons and go!",
-    "displayShape": "b1",
-    "exec": "resfix teeworlds",
-    "featured_img": "",
-    "icon": "teeworlds-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "teeworlds-screenshot1.jpg",
-        "teeworlds-screenshot2.jpg",
-        "teeworlds-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "teeworlds-thumb.jpg",
-    "subtitle": "Exciting multi-player shooting game",
-    "title": "Teeworlds",
-    "tryexec": "teeworlds"
-  },
-  {
-    "application-id": "torcs",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Rip around turns and scream past other drivers in this exciting 3D car racing game. It's so realistic that you'll swear you smell the burning rubber! Advanced users also have an opportunity to create their own custom drivers to gain an even bigger advantage over their opponents. You'll love racing your fast cars, and soon you'll see that all of your friends will want to play too!",
-    "displayShape": "b1",
-    "exec": "torcs",
-    "featured_img": "",
-    "icon": "torcs-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "torcs-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "torcs-thumb.jpg",
-    "subtitle": "Race cool 3D cars in this realistic game",
-    "title": "TORCS",
-    "tryexec": ""
-  },
-  {
-    "application-id": "turtleblocks",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Learn the basics of computer programming while creating beautiful artwork! First, drag and drop commands for your turtle to follow from the menu. As the turtle moves, it will draw colorful lines behind it. You can change the colors, and start to design your masterpiece, all while learning the basics of computer programming.",
-    "displayShape": "b1",
-    "exec": "turtleblocks",
-    "featured_img": "",
-    "icon": "turtleblocks-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "turtleblocks-screenshot1.jpg",
-        "turtleblocks-screenshot2.jpg",
-        "turtleblocks-screenshot3.jpg"
-      ],
-      "es": [
-        "turtleblocks-screenshot1.jpg",
-        "turtleblocks-screenshot2.jpg",
-        "turtleblocks-screenshot3.jpg"
-      ],
-      "pt": [
-        "turtleblocks-screenshot1.jpg",
-        "turtleblocks-screenshot2.jpg",
-        "turtleblocks-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "turtleblocks-thumb.jpg",
-    "subtitle": "Visually program with turtle art",
-    "title": "Turtle Blocks",
-    "tryexec": ""
-  },
-  {
-    "application-id": "tuxfootball",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love soccer? Now you can play all day with your favorite penguins! Show off your skills and strategy while always controling the players with the ball. Pretty soon, you'll feel like you're ready to take on the professionals!",
-    "displayShape": "b1",
-    "exec": "tuxfootball -fs",
-    "featured_img": "",
-    "icon": "tuxfootball-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "tuxfootball-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "tuxfootball-thumb.jpg",
-    "subtitle": "A fun soccer game starring Tux the penguin",
-    "title": "Tux Football",
-    "tryexec": ""
-  },
-  {
-    "application-id": "tuxmath",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Learn math by playing games! Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game app leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math!",
-    "displayShape": "b1",
-    "exec": "tuxmath",
-    "featured_img": "tuxmath-featured.jpg",
-    "icon": "tuxmath-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "tuxmath-screenshot1.jpg",
-        "tuxmath-screenshot2.jpg",
-        "tuxmath-screenshot3.jpg"
-      ],
-      "es": [
-        "tuxmath-screenshot1.jpg",
-        "tuxmath-screenshot2.jpg",
-        "tuxmath-screenshot3.jpg"
-      ],
-      "pt": [
-        "tuxmath-screenshot1.jpg",
-        "tuxmath-screenshot2.jpg",
-        "tuxmath-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "tuxmath-thumb.jpg",
-    "subtitle": "Math games for kids",
-    "title": "Tux Math",
-    "tryexec": ""
-  },
-  {
-    "application-id": "tuxpaint",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
-    "displayShape": "b1",
-    "exec": "tuxpaint --fullscreen --native",
-    "featured_img": "",
-    "icon": "tuxpaint-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "tuxpaint-screenshot1.jpg",
-        "tuxpaint-screenshot2.jpg",
-        "tuxpaint-screenshot3.jpg"
-      ],
-      "es": [
-        "tuxpaint-screenshot1.jpg",
-        "tuxpaint-screenshot2.jpg",
-        "tuxpaint-screenshot3.jpg"
-      ],
-      "pt": [
-        "tuxpaint-screenshot1.jpg",
-        "tuxpaint-screenshot2.jpg",
-        "tuxpaint-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "tuxpaint-thumb.jpg",
-    "subtitle": "A fun drawing app for kids",
-    "title": "Tux Paint",
-    "tryexec": ""
-  },
-  {
-    "application-id": "tuxpuck",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
-    "displayShape": "b1",
-    "exec": "resfix tuxpuck",
-    "featured_img": "",
-    "icon": "tuxpuck-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "tuxpuck-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "tuxpuck-thumb.jpg",
-    "subtitle": "Exciting air hockey game for you and your friends",
-    "title": "Tux Puck",
-    "tryexec": "tuxpuck"
-  },
-  {
-    "application-id": "tuxtype",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
-    "displayShape": "b1",
-    "exec": "eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
-    "featured_img": "",
-    "icon": "tuxtype-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "tuxtype-screenshot1.jpg",
-        "tuxtype-screenshot2.jpg",
-        "tuxtype-screenshot3.jpg"
-      ],
-      "es": [
-        "tuxtype-screenshot1.jpg",
-        "tuxtype-screenshot2.jpg",
-        "tuxtype-screenshot3.jpg"
-      ],
-      "pt": [
-        "tuxtype-screenshot1.jpg",
-        "tuxtype-screenshot2.jpg",
-        "tuxtype-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "tuxtype-thumb.jpg",
-    "subtitle": "Learn to type by playing games",
-    "title": "Tux Typing",
-    "tryexec": "tuxtype"
-  },
-  {
-    "application-id": "warmux",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Exterminate your opponent in a cartoon word using dynamite, grenades, bazookas, or even a baseball bat. Each player controls their own team and must destroy his adversary using his arsenol and wits, as turn by turn, each member of each team attempts to destroy his opponents.",
-    "displayShape": "b1",
-    "exec": "warmux",
-    "featured_img": "",
-    "icon": "warmux-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "warmux-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "warmux-thumb.jpg",
-    "subtitle": "Make your computer a battle of wit and war",
-    "title": "Warmux",
-    "tryexec": ""
-  },
-  {
-    "application-id": "warzone2100",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "In Warzone 2100 you command forces to rebuild the world after nuclear war has destroyed it. Play it alone or with friends; either way you'll dive head first into another world where you'll be living and breathing military strategy. Research technologies, build units, and plan battles in this game of strategy, tactics, and wit.",
-    "displayShape": "b1",
-    "exec": "warzone2100 --fullscreen",
-    "featured_img": "",
-    "icon": "warzone2100-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "warzone2100-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "warzone2100-thumb.jpg",
-    "subtitle": "Lead your troops to rebuild the world",
-    "title": "Warzone 2100",
-    "tryexec": ""
-  },
-  {
-    "application-id": "wesnoth",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Battle for control of the land, villages, and resources in this fantasy-themed strategy game. Each player controls an army of their own design and uses it to seek dominance. An exciting blend of history, fantasy, and strategy, this game is sure to reveal a great leader inside you.",
-    "displayShape": "b1",
-    "exec": "resfix wesnoth-1.11 -f",
-    "featured_img": "",
-    "icon": "wesnoth-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "wesnoth-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "wesnoth-thumb.jpg",
-    "subtitle": "Fantasy turn-based strategy game",
-    "title": "Wesnoth",
-    "tryexec": "wesnoth-1.11"
-  },
-  {
-    "application-id": "xmoto",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Love motorcycles? Then you're going to love this racing game where physics plays an important role in winning! You must control your bike to its physical limit if you want to have a chance of finishing the difficult courses. Learn about science and practice your racing skills at the same time in this fast-paced, exciting test of speed!",
-    "displayShape": "b1",
-    "exec": "xmoto -fs",
-    "featured_img": "",
-    "icon": "xmoto-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "xmoto-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "xmoto-thumb.jpg",
-    "subtitle": "A motorcycle racing game",
-    "title": "X-Moto",
-    "tryexec": ""
-  },
-  {
     "application-id": "yelp",
     "category": "Resources",
     "core": true,
@@ -5119,194 +5308,5 @@
     "subtitle": "Learn how to use Endless",
     "title": "Help Center",
     "tryexec": ""
-  },
-  {
-    "application-id": "kblocks",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This game is similar to Tetris, so if you love that game, you will love this one! Match up the block shapes in order to make them disappear and keep them from filling the screen. You will need to be really fast or else you'll lose, so pay attention and get ready for some very fast-actioned fun!",
-    "displayShape": "b1",
-    "exec": "kblocks -caption %c",
-    "featured_img": "",
-    "icon": "kblocks-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
-      ],
-      "es": [
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
-      ],
-      "pt": [
-        "kblocks-screenshot1.jpg",
-        "kblocks-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kblocks-thumb.jpg",
-    "subtitle": "Match blocks to destroy them and win",
-    "title": "KBlocks",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kbounce",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This is a fun game with a simple goal: you must build walls to decrease the area in which a bouncing ball on the screen can move. Once you fill most of the screen with walls, you\u2019ll be able to move on to the next level. This game has an element of puzzle solving, and is fast-paced and entertaining. It requires quick thinking and fast reflexes!",
-    "displayShape": "b1",
-    "exec": "kbounce -caption %c",
-    "featured_img": "",
-    "icon": "kbounce-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kbounce-screenshot1.jpg"
-      ],
-      "es": [
-        "kbounce-screenshot1.jpg"
-      ],
-      "pt": [
-        "kbounce-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kbounce-thumb.jpg",
-    "subtitle": "The ball-bouncing game sure to hook you",
-    "title": "KBounce",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kdiamond",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "In this fast-paced game, your job is to build lines of three diamonds of the same type. Simply swap diamonds with their neighbors to make your lines. Better do it quickly, so you can build as many lines as possible before the round is over! This is an easy and highly entertaining game you can play for just a little while, or for hours on end. It\u2019s fun, fast, and great for many age levels.",
-    "displayShape": "b1",
-    "exec": "kdiamond -caption %c",
-    "featured_img": "",
-    "icon": "kdiamond-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kdiamond-screenshot1.jpg"
-      ],
-      "es": [
-        "kdiamond-screenshot1.jpg"
-      ],
-      "pt": [
-        "kdiamond-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kdiamond-thumb.jpg",
-    "subtitle": "Create lines of three diamonds",
-    "title": "KDiamond",
-    "tryexec": ""
-  },
-  {
-    "application-id": "kjumpingcube",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ",
-    "displayShape": "b1",
-    "exec": "kjumpingcube -caption %c",
-    "featured_img": "",
-    "icon": "kjumpingcube-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "kjumpingcube-screenshot1.jpg"
-      ],
-      "es": [
-        "kjumpingcube-screenshot1.jpg"
-      ],
-      "pt": [
-        "kjumpingcube-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "kjumpingcube-thumb.jpg",
-    "subtitle": "Develop a good strategy to conquer all the squares",
-    "title": "KJumpingCube",
-    "tryexec": ""
-  },
-  {
-    "application-id": "ksame",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Show off your pattern-finding skills in this addicting game. Match all of the same colored marbles to clear the board and win, but remember: the more marbles you clear at once, the higher your score will be, so think strategically about all of your moves! What may look easy at first is a true challenge. A really fun challenge!",
-    "displayShape": "b1",
-    "exec": "ksame --geometry 1920x1080+0+0 --KSameMode -caption %c",
-    "featured_img": "",
-    "icon": "ksame-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "ksame-screenshot1.jpg"
-      ],
-      "es": [
-        "ksame-screenshot1.jpg"
-      ],
-      "pt": [
-        "ksame-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "ksame-thumb.jpg",
-    "subtitle": "Get rid of all the marbles to win",
-    "title": "KSame",
-    "tryexec": ""
-  },
-  {
-    "application-id": "openarena",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!",
-    "displayShape": "b1",
-    "exec": "resfix openarena +r_fullscreen 1",
-    "featured_img": "",
-    "icon": "openarena-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "openarena-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "openarena-thumb.jpg",
-    "subtitle": "Shoot your way out of trouble in this fun game",
-    "title": "Open Arena",
-    "tryexec": "openarena"
   }
 ]

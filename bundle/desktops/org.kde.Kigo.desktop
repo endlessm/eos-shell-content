@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Kigo
+Name[ar]=كييجو
+Name[es]=Go
+Name[fr]=Kigo
+Name[hi]=किगो 
+Name[id]=Kigo
+Name[pt_BR]=Kigo 
+Name[th]=Kigo
+Name[vi]=Kigo
+Name[zh_CN]=Kigo
+Comment=The ancient game of skill, updated for modern play
+Comment[ar]=اللعبة القديمة لعكس المهارات تم تحديثها لتصبح لعبة حديثة
+Comment[es]=Un juego vigorizante
+Comment[fr]=L'ancestral jeu d'adresse, repensé pour l'amusement moderne
+Comment[hi]=कौशल का प्राचीन खेल, अब एक आधुनिक रूप में
+Comment[id]=Gim keterampilan kuno, diperbarui untuk permainan modern
+Comment[pt_BR]=O antigo jogo de habilidade, atualizado para um jogo moderno
+Comment[th]=เกมทักษะแบบโบราณ ได้รับการปรับปรุงเพื่อการเล่นที่ทันสมัย
+Comment[vi]=Trò chơi kỹ năng kinh điển được cập nhật lối chơi hiện đại
+Comment[zh_CN]=以现代手法演绎古老游戏
+Type=Application
+Exec=kigo %i -caption %c
+Icon=eos-app-org.kde.Kigo
+Categories=Games;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=Battle Tanks
+Name[ar]=دبابات معارك
+Name[es]=Tanques
+Name[fr]=Chars de combat
+Name[hi]=बैटल टैंक
+Name[id]=Battle Tanks
+Name[pt_BR]=Tanques
+Name[th]=รถถังต่อสู้
+Name[vi]=Đấu trường xe tăng
+Name[zh_CN]=战斗坦克
+Comment=A fast-paced battle game to play with friends
+Comment[ar]=لعبة معارك سريعة الوتيرة لتلعبها مع الأصدقاء
+Comment[es]=Un juego de batalla para jugar con tus amigos
+Comment[fr]=Un jeu de combat trépidant pour jouer avec des amis
+Comment[hi]=तेज रफ्तार वाला एक बैटल गेम जिसे आप अपने दोस्तों के साथ खेल सकते हैं 
+Comment[id]=Permainan tempur bertempo cepat untuk dimainkan bersama teman-teman
+Comment[pt_BR]=Uma batalha rápida para jogar com os amigos
+Comment[th]=เกมการต่อสู้ที่รวดเร็วเพื่อเล่นกับเพื่อน ๆ
+Comment[vi]=Trò chơi chiến đấu tốc độ cao chơi cùng bạn bè
+Comment[zh_CN]=一款与朋友一起玩的快节奏战斗游戏
+Type=Application
+Exec=btanks
+Icon=eos-app-net.sourceforge.Btanks
+Categories=Games;
+X-Endless-LaunchMaximized=true

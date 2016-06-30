@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=KBruch
+Name[ar]=كي بروتش
+Name[es]=Fracciones
+Name[fr]=KBruch
+Name[hi]=केब्रश
+Name[id]=KBruch
+Name[pt_BR]=KBruch
+Name[th]=KBruch
+Name[vi]=KBruch
+Name[zh_CN]=学分数
+Comment=Learn about fractions, percentages and more
+Comment[ar]=تعلم الكسور، والنسب المئوية وأكثر من ذلك
+Comment[es]=Aprende sobre fracciones, porcentajes y más
+Comment[fr]=Apprenez les fractions, les pourcentages et davantages
+Comment[hi]=भिन्नों, प्रतिशतों और अन्य तथ्यों के बारे में जानिए
+Comment[id]=Pelajari tentang bilangan pecahan, persentase, dan masih banyak lagi
+Comment[pt_BR]=Saiba mais sobre frações, porcentagens e muito mais
+Comment[th]=เรียนรู้เกี่ยวกับเศษส่วน เปอร์เซ็นต์และอื่น ๆ
+Comment[vi]=Tìm hiểu về phân số, tỷ lệ phần trăm và nhiều hơn nữa
+Comment[zh_CN]=了解更多分数、百分数知识
+Type=Application
+Exec=kbruch -caption %c %i
+Icon=eos-app-org.kde.Kbruch
+Categories=Education;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Name=KDiamond
+Name[ar]=كيدايموند
+Name[es]=Diamantes
+Name[fr]=KDiamond
+Name[hi]=केडायमंड
+Name[id]=KDiamond
+Name[pt_BR]=KDiamante
+Name[th]=KDiamond
+Name[vi]=KDiamond
+Name[zh_CN]=KDiamond
+Comment=Create lines of three diamonds
+Comment[ar]=أنشئ اسطر من ثلاث ماسات
+Comment[es]=Crea líneas de tres diamantes
+Comment[fr]=Créez des lignes de trois diamants
+Comment[hi]=तीन डायमंड्स की लाइनें तैयार करें   
+Comment[id]=Buat garis dari tiga intan
+Comment[pt_BR]=Crie linhas de três diamantes
+Comment[th]=สร้างเส้นของเพชรสามเม็ด
+Comment[vi]=Xếp ba viên kim cương thành đường thẳng
+Comment[zh_CN]=将三颗以上同样的宝石连成一条线
+Type=Application
+Exec=kdiamond -caption %c
+Icon=eos-app-org.kde.Kdiamond
+Categories=Games;
+X-Endless-LaunchMaximized=true
