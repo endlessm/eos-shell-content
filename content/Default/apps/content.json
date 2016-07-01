@@ -560,28 +560,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.english",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.english-splash.jpg",
-    "description": "Ready to take your English to a new level? No matter what your level is, have fun and learn a new skill by playing games, listening to your favorites songs with lyrics, and watching interesting videos. You\u2019ll learn about resources that can help you improve your English and take you to new opportunities.",
-    "displayShape": "b1",
-    "exec": "eos-english",
-    "featured_img": "",
-    "icon": "com.endlessm.english-icon.png",
-    "is_featured": true,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.english-thumb.jpg",
-    "subtitle": "Learn or improve your English while having fun",
-    "title": "Learn English",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.entrepreneurship",
     "category": "Resources",
     "core": false,
@@ -1731,39 +1709,6 @@
     "square_img": "com.endlessm.travel-thumb.jpg",
     "subtitle": "Travel around the world from your living room",
     "title": "Travel",
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.typing",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.typing-splash.jpg",
-    "description": "How fast can you type? Whether you're already fast or just learning how to use a keyboard, this app can help you improve your typing abilites! Learn to type by yourself, or compete against your friends' typing speeds, all while learning to type your favorite song lyrics. We all know that typing is a valuable skill in almost any educational or professional environment, but now it can be a whole lot of fun too!",
-    "displayShape": "b1",
-    "exec": "eos-typing",
-    "featured_img": "",
-    "icon": "com.endlessm.typing-icon.png",
-    "is_featured": true,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.typing-screenshot1.jpg",
-        "com.endlessm.typing-screenshot2.jpg",
-        "com.endlessm.typing-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.typing-screenshot1.jpg",
-        "com.endlessm.typing-screenshot2.jpg",
-        "com.endlessm.typing-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.typing-thumb.jpg",
-    "subtitle": "Learn to type with games and songs",
-    "title": "Typing",
     "tryexec": ""
   },
   {
