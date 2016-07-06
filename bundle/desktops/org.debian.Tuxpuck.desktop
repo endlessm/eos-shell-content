@@ -2,7 +2,7 @@
 Version=1.0
 Name=Tux Puck
 Name[ar]=تكس باك
-Name[bn]=টাক্স প্যাক
+Name[bn]=টাক্স পাক
 Name[es]=Tux puck
 Name[fr]=Tux Puck
 Name[hi]=टक्स पक
@@ -25,6 +25,6 @@ Comment[zh_CN]=有趣的空气曲棍球游戏
 Type=Application
 Exec=resfix tuxpuck
 TryExec=tuxpuck
-Icon=eos-app-org.tuxfamily.Tuxpuck
+Icon=eos-app-org.debian.Tuxpuck
 Categories=Games;
 X-Endless-LaunchMaximized=true

@@ -25,6 +25,6 @@ Comment[zh_CN]=控制企鹅跳行，逐步完成所有关卡
 Type=Application
 Exec=resfix supertux2 --fullscreen
 TryExec=supertux2
-Icon=eos-app-org.tuxfamily.Supertux
+Icon=eos-app-io.github.Supertux
 Categories=Games;
 X-Endless-LaunchMaximized=true

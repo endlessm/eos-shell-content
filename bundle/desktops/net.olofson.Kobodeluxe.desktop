@@ -25,6 +25,6 @@ Comment[zh_CN]=从空间上摧毁敌人基地
 Type=Application
 Exec=resfix "kobodl -fullscreen"
 TryExec=kobodl
-Icon=eos-app-org.kde.Kobodeluxe
+Icon=eos-app-net.olofson.Kobodeluxe
 Categories=Games;
 X-Endless-LaunchMaximized=true

@@ -2013,6 +2013,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.teeworlds.Teeworlds",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Shoot your way to victory in death matches and more! This game has an old-school feel and is an exciting multiplayer shooting game with epic battles of up to 16 players at a time. Play Capture the Flag or Team Deathmatch where you must try to survive in the deadly arena while getting rid of your opponents. This game is packed with cool featuers like the ability to create your own map! Lots of bloody fun awaits you, so grab your virtual weapons and go!",
+    "displayShape": "b1",
+    "exec": "resfix teeworlds",
+    "featured_img": "",
+    "icon": "com.teeworlds.teeworlds-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.teeworlds.teeworlds-screenshot1.jpg",
+        "com.teeworlds.teeworlds-screenshot2.jpg",
+        "com.teeworlds.teeworlds-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.teeworlds.teeworlds-thumb.jpg",
+    "subtitle": "Exciting multi-player shooting game",
+    "title": "Teeworlds",
+    "tryexec": "teeworlds"
+  },
+  {
     "application-id": "de.billardgl.Billardgl",
     "category": "Games",
     "core": false,
@@ -2245,6 +2273,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "io.github.Supertux",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This game is similar to the original Super Mario Brothers games where you must run and jump your way to new levels. This game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play.",
+    "displayShape": "b1",
+    "exec": "resfix supertux2 --fullscreen",
+    "featured_img": "",
+    "icon": "io.github.supertux-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "io.github.supertux-screenshot1.jpg",
+        "io.github.supertux-screenshot2.jpg",
+        "io.github.supertux-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "io.github.supertux-thumb.jpg",
+    "subtitle": "Jump your way through different levels to win",
+    "title": "Super Tux",
+    "tryexec": "supertux2"
+  },
+  {
     "application-id": "libreoffice-calc",
     "category": "Utility",
     "core": true,
@@ -2418,7 +2474,7 @@
     "custom-splash-screen": "",
     "description": "Use this app to configure the EduGames app and create the exact learning experience you'd like for your students! You can change the list of activities, or change the controls of the app so that they stay focused on just the games that you want them to. To begin, download this app and the EduGames app from the 'Games' section of the app store. They'll have so much fun that they'll want to spend hours doing just what you want them to!",
     "displayShape": "b1",
-    "exec": "gcompris-admin --administration",
+    "exec": "gcompris --administration",
     "featured_img": "",
     "icon": "net.gcompris.gcompris.admin-icon.png",
     "is_featured": false,
@@ -2468,6 +2524,34 @@
     "subtitle": "Create your dream world",
     "title": "Minetest",
     "tryexec": ""
+  },
+  {
+    "application-id": "net.olofson.Kobodeluxe",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Fans of arcade-style games will love this fun shooting game. Protect yourself from and destroy enemy ships as they pursue you through space! This game has fun graphics and lots of challenges, with over 50 levels for you to play. You'll have hours and hours of fun blowing up things in space!",
+    "displayShape": "b1",
+    "exec": "resfix \"kobodl -fullscreen\"",
+    "featured_img": "",
+    "icon": "net.olofson.kobodeluxe-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.olofson.kobodeluxe-screenshot1.jpg",
+        "net.olofson.kobodeluxe-screenshot2.jpg",
+        "net.olofson.kobodeluxe-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.olofson.kobodeluxe-thumb.jpg",
+    "subtitle": "Destroy enemy bases in space",
+    "title": "Kobo Deluxe",
+    "tryexec": "kobodl"
   },
   {
     "application-id": "net.sourceforge.Atanks",
@@ -2665,6 +2749,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "net.sourceforge.Supertuxkart",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love racing games? Then this is the app for you! Race down easy, medium and hard race tracks as Tux, the penguin, and try to beat your own speed or a friend's. If you are able to get the red fish, you'll gain special powers that will help you win, but make sure to avoid the green fish or you'll slow down. This game is great for both kids and adults alike and is sure to entertain you and your friends for hours!",
+    "displayShape": "b1",
+    "exec": "resfix supertuxkart --fullscreen",
+    "featured_img": "",
+    "icon": "net.sourceforge.supertuxkart-icon.png",
+    "is_featured": true,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.supertuxkart-screenshot1.jpg",
+        "net.sourceforge.supertuxkart-screenshot2.jpg",
+        "net.sourceforge.supertuxkart-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.supertuxkart-thumb.jpg",
+    "subtitle": "Race alone or against your friends and family",
+    "title": "Tux Kart",
+    "tryexec": "supertuxkart"
+  },
+  {
     "application-id": "net.sourceforge.Torcs",
     "category": "Games",
     "core": false,
@@ -2688,6 +2800,32 @@
     "square_img": "net.sourceforge.torcs-thumb.jpg",
     "subtitle": "Race cool 3D cars in this realistic game",
     "title": "TORCS",
+    "tryexec": ""
+  },
+  {
+    "application-id": "net.sourceforge.Tuxfootball",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you love soccer? Now you can play all day with your favorite penguins! Show off your skills and strategy while always controling the players with the ball. Pretty soon, you'll feel like you're ready to take on the professionals!",
+    "displayShape": "b1",
+    "exec": "tuxfootball -fs",
+    "featured_img": "",
+    "icon": "net.sourceforge.tuxfootball-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "net.sourceforge.tuxfootball-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "net.sourceforge.tuxfootball-thumb.jpg",
+    "subtitle": "A fun soccer game starring Tux the penguin",
+    "title": "Tux Football",
     "tryexec": ""
   },
   {
@@ -2769,6 +2907,108 @@
     "subtitle": "Race 3D light motorcycles like in the movie Tron",
     "title": "Armagetron",
     "tryexec": ""
+  },
+  {
+    "application-id": "org.debian.Tuxpuck",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
+    "displayShape": "b1",
+    "exec": "resfix tuxpuck",
+    "featured_img": "",
+    "icon": "org.debian.tuxpuck-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.debian.tuxpuck-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.debian.tuxpuck-thumb.jpg",
+    "subtitle": "Exciting air hockey game for you and your friends",
+    "title": "Tux Puck",
+    "tryexec": "tuxpuck"
+  },
+  {
+    "application-id": "org.debian.alioth.tux4kids.Tuxmath",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Learn math by playing games! Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game app leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math!",
+    "displayShape": "b1",
+    "exec": "tuxmath",
+    "featured_img": "org.debian.alioth.tux4kids.tuxmath-featured.jpg",
+    "icon": "org.debian.alioth.tux4kids.tuxmath-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.debian.alioth.tux4kids.tuxmath-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot3.jpg"
+      ],
+      "es": [
+        "org.debian.alioth.tux4kids.tuxmath-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.debian.alioth.tux4kids.tuxmath-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxmath-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.debian.alioth.tux4kids.tuxmath-thumb.jpg",
+    "subtitle": "Math games for kids",
+    "title": "Tux Math",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.debian.alioth.tux4kids.Tuxtype",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
+    "displayShape": "b1",
+    "exec": "eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
+    "featured_img": "",
+    "icon": "org.debian.alioth.tux4kids.tuxtype-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.debian.alioth.tux4kids.tuxtype-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot3.jpg"
+      ],
+      "es": [
+        "org.debian.alioth.tux4kids.tuxtype-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.debian.alioth.tux4kids.tuxtype-screenshot1.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot2.jpg",
+        "org.debian.alioth.tux4kids.tuxtype-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.debian.alioth.tux4kids.tuxtype-thumb.jpg",
+    "subtitle": "Learn to type by playing games",
+    "title": "Tux Typing",
+    "tryexec": "tuxtype"
   },
   {
     "application-id": "org.freeciv.Freeciv",
@@ -3017,33 +3257,6 @@
     "square_img": "org.gnome.iagno-thumb.jpg",
     "subtitle": "A fun puzzle game that involves lots of thought",
     "title": "Iagno",
-    "tryexec": ""
-  },
-  {
-    "application-id": "org.gnome.Labyrinth",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
-    "displayShape": "b1",
-    "exec": "labyrinth",
-    "featured_img": "",
-    "icon": "org.gnome.labyrinth-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.gnome.labyrinth-screenshot1.jpg",
-        "org.gnome.labyrinth-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.gnome.labyrinth-thumb.jpg",
-    "subtitle": "Create mind maps with text, images, and drawings",
-    "title": "Mind Maps",
     "tryexec": ""
   },
   {
@@ -3297,6 +3510,33 @@
     "square_img": "org.gnome.gedit-thumb.jpg",
     "subtitle": "A simple text editor for all of your text editing needs",
     "title": "Gedit",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.people.dscorgie.Labyrinth",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
+    "displayShape": "b1",
+    "exec": "labyrinth",
+    "featured_img": "",
+    "icon": "org.gnome.people.dscorgie.labyrinth-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.people.dscorgie.labyrinth-screenshot1.jpg",
+        "org.gnome.people.dscorgie.labyrinth-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.people.dscorgie.labyrinth-thumb.jpg",
+    "subtitle": "Create mind maps with text, images, and drawings",
+    "title": "Mind Maps",
     "tryexec": ""
   },
   {
@@ -3861,34 +4101,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.kde.Kobodeluxe",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Fans of arcade-style games will love this fun shooting game. Protect yourself from and destroy enemy ships as they pursue you through space! This game has fun graphics and lots of challenges, with over 50 levels for you to play. You'll have hours and hours of fun blowing up things in space!",
-    "displayShape": "b1",
-    "exec": "resfix \"kobodl -fullscreen\"",
-    "featured_img": "",
-    "icon": "org.kde.kobodeluxe-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.kde.kobodeluxe-screenshot1.jpg",
-        "org.kde.kobodeluxe-screenshot2.jpg",
-        "org.kde.kobodeluxe-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.kde.kobodeluxe-thumb.jpg",
-    "subtitle": "Destroy enemy bases in space",
-    "title": "Kobo Deluxe",
-    "tryexec": "kobodl"
-  },
-  {
     "application-id": "org.kde.Ksame",
     "category": "Games",
     "core": false,
@@ -4321,6 +4533,39 @@
     "tryexec": ""
   },
   {
+    "application-id": "org.seul.Pingus",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
+    "displayShape": "b1",
+    "exec": "sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
+    "featured_img": "",
+    "icon": "org.seul.pingus-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.seul.pingus-screenshot1.jpg",
+        "org.seul.pingus-screenshot2.jpg",
+        "org.seul.pingus-screenshot3.jpg"
+      ],
+      "es": [
+        "org.seul.pingus-screenshot1.jpg",
+        "org.seul.pingus-screenshot2.jpg",
+        "org.seul.pingus-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.seul.pingus-thumb.jpg",
+    "subtitle": "Save your penguin friends from falling into the water",
+    "title": "Pingus",
+    "tryexec": "pingus"
+  },
+  {
     "application-id": "org.squeakland.Etoys",
     "category": "Education",
     "core": false,
@@ -4457,289 +4702,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.tuxfamily.Pingus",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
-    "displayShape": "b1",
-    "exec": "sh -c \"pingus -f -R `xdpyinfo | grep dimensions | awk '{print $2}'`\"",
-    "featured_img": "",
-    "icon": "org.tuxfamily.pingus-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.pingus-screenshot1.jpg",
-        "org.tuxfamily.pingus-screenshot2.jpg",
-        "org.tuxfamily.pingus-screenshot3.jpg"
-      ],
-      "es": [
-        "org.tuxfamily.pingus-screenshot1.jpg",
-        "org.tuxfamily.pingus-screenshot2.jpg",
-        "org.tuxfamily.pingus-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.pingus-thumb.jpg",
-    "subtitle": "Save your penguin friends from falling into the water",
-    "title": "Pingus",
-    "tryexec": "pingus"
-  },
-  {
-    "application-id": "org.tuxfamily.Supertux",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This game is similar to the original Super Mario Brothers games where you must run and jump your way to new levels. This game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play.",
-    "displayShape": "b1",
-    "exec": "resfix supertux2 --fullscreen",
-    "featured_img": "",
-    "icon": "org.tuxfamily.supertux-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.supertux-screenshot1.jpg",
-        "org.tuxfamily.supertux-screenshot2.jpg",
-        "org.tuxfamily.supertux-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.supertux-thumb.jpg",
-    "subtitle": "Jump your way through different levels to win",
-    "title": "Super Tux",
-    "tryexec": "supertux2"
-  },
-  {
-    "application-id": "org.tuxfamily.Supertuxkart",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love racing games? Then this is the app for you! Race down easy, medium and hard race tracks as Tux, the penguin, and try to beat your own speed or a friend's. If you are able to get the red fish, you'll gain special powers that will help you win, but make sure to avoid the green fish or you'll slow down. This game is great for both kids and adults alike and is sure to entertain you and your friends for hours!",
-    "displayShape": "b1",
-    "exec": "resfix supertuxkart --fullscreen",
-    "featured_img": "",
-    "icon": "org.tuxfamily.supertuxkart-icon.png",
-    "is_featured": true,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.supertuxkart-screenshot1.jpg",
-        "org.tuxfamily.supertuxkart-screenshot2.jpg",
-        "org.tuxfamily.supertuxkart-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.supertuxkart-thumb.jpg",
-    "subtitle": "Race alone or against your friends and family",
-    "title": "Tux Kart",
-    "tryexec": "supertuxkart"
-  },
-  {
-    "application-id": "org.tuxfamily.Teeworlds",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Shoot your way to victory in death matches and more! This game has an old-school feel and is an exciting multiplayer shooting game with epic battles of up to 16 players at a time. Play Capture the Flag or Team Deathmatch where you must try to survive in the deadly arena while getting rid of your opponents. This game is packed with cool featuers like the ability to create your own map! Lots of bloody fun awaits you, so grab your virtual weapons and go!",
-    "displayShape": "b1",
-    "exec": "resfix teeworlds",
-    "featured_img": "",
-    "icon": "org.tuxfamily.teeworlds-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.teeworlds-screenshot1.jpg",
-        "org.tuxfamily.teeworlds-screenshot2.jpg",
-        "org.tuxfamily.teeworlds-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.teeworlds-thumb.jpg",
-    "subtitle": "Exciting multi-player shooting game",
-    "title": "Teeworlds",
-    "tryexec": "teeworlds"
-  },
-  {
-    "application-id": "org.tuxfamily.Tuxfootbal",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love soccer? Now you can play all day with your favorite penguins! Show off your skills and strategy while always controling the players with the ball. Pretty soon, you'll feel like you're ready to take on the professionals!",
-    "displayShape": "b1",
-    "exec": "tuxfootball -fs",
-    "featured_img": "",
-    "icon": "org.tuxfamily.tuxfootbal-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.tuxfootbal-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.tuxfootbal-thumb.jpg",
-    "subtitle": "A fun soccer game starring Tux the penguin",
-    "title": "Tux Football",
-    "tryexec": ""
-  },
-  {
-    "application-id": "org.tuxfamily.Tuxmath",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Learn math by playing games! Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game app leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math!",
-    "displayShape": "b1",
-    "exec": "tuxmath",
-    "featured_img": "org.tuxfamily.tuxmath-featured.jpg",
-    "icon": "org.tuxfamily.tuxmath-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.tuxmath-screenshot1.jpg",
-        "org.tuxfamily.tuxmath-screenshot2.jpg",
-        "org.tuxfamily.tuxmath-screenshot3.jpg"
-      ],
-      "es": [
-        "org.tuxfamily.tuxmath-screenshot1.jpg",
-        "org.tuxfamily.tuxmath-screenshot2.jpg",
-        "org.tuxfamily.tuxmath-screenshot3.jpg"
-      ],
-      "pt": [
-        "org.tuxfamily.tuxmath-screenshot1.jpg",
-        "org.tuxfamily.tuxmath-screenshot2.jpg",
-        "org.tuxfamily.tuxmath-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.tuxmath-thumb.jpg",
-    "subtitle": "Math games for kids",
-    "title": "Tux Math",
-    "tryexec": ""
-  },
-  {
-    "application-id": "org.tuxfamily.Tuxpaint",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
-    "displayShape": "b1",
-    "exec": "tuxpaint --fullscreen --native",
-    "featured_img": "",
-    "icon": "org.tuxfamily.tuxpaint-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.tuxpaint-screenshot1.jpg",
-        "org.tuxfamily.tuxpaint-screenshot2.jpg",
-        "org.tuxfamily.tuxpaint-screenshot3.jpg"
-      ],
-      "es": [
-        "org.tuxfamily.tuxpaint-screenshot1.jpg",
-        "org.tuxfamily.tuxpaint-screenshot2.jpg",
-        "org.tuxfamily.tuxpaint-screenshot3.jpg"
-      ],
-      "pt": [
-        "org.tuxfamily.tuxpaint-screenshot1.jpg",
-        "org.tuxfamily.tuxpaint-screenshot2.jpg",
-        "org.tuxfamily.tuxpaint-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.tuxpaint-thumb.jpg",
-    "subtitle": "A fun drawing app for kids",
-    "title": "Tux Paint",
-    "tryexec": ""
-  },
-  {
-    "application-id": "org.tuxfamily.Tuxpuck",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
-    "displayShape": "b1",
-    "exec": "resfix tuxpuck",
-    "featured_img": "",
-    "icon": "org.tuxfamily.tuxpuck-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.tuxpuck-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.tuxpuck-thumb.jpg",
-    "subtitle": "Exciting air hockey game for you and your friends",
-    "title": "Tux Puck",
-    "tryexec": "tuxpuck"
-  },
-  {
-    "application-id": "org.tuxfamily.Tuxtype",
-    "category": "Games",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
-    "displayShape": "b1",
-    "exec": "eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'",
-    "featured_img": "",
-    "icon": "org.tuxfamily.tuxtype-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.tuxfamily.tuxtype-screenshot1.jpg",
-        "org.tuxfamily.tuxtype-screenshot2.jpg",
-        "org.tuxfamily.tuxtype-screenshot3.jpg"
-      ],
-      "es": [
-        "org.tuxfamily.tuxtype-screenshot1.jpg",
-        "org.tuxfamily.tuxtype-screenshot2.jpg",
-        "org.tuxfamily.tuxtype-screenshot3.jpg"
-      ],
-      "pt": [
-        "org.tuxfamily.tuxtype-screenshot1.jpg",
-        "org.tuxfamily.tuxtype-screenshot2.jpg",
-        "org.tuxfamily.tuxtype-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.tuxfamily.tuxtype-thumb.jpg",
-    "subtitle": "Learn to type by playing games",
-    "title": "Tux Typing",
-    "tryexec": "tuxtype"
-  },
-  {
     "application-id": "org.tuxfamily.Xmoto",
     "category": "Games",
     "core": false,
@@ -4763,6 +4725,44 @@
     "square_img": "org.tuxfamily.xmoto-thumb.jpg",
     "subtitle": "A motorcycle racing game",
     "title": "X-Moto",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.tuxpaint.Tuxpaint",
+    "category": "Games",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
+    "displayShape": "b1",
+    "exec": "tuxpaint --fullscreen --native",
+    "featured_img": "",
+    "icon": "org.tuxpaint.tuxpaint-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.tuxpaint.tuxpaint-screenshot1.jpg",
+        "org.tuxpaint.tuxpaint-screenshot2.jpg",
+        "org.tuxpaint.tuxpaint-screenshot3.jpg"
+      ],
+      "es": [
+        "org.tuxpaint.tuxpaint-screenshot1.jpg",
+        "org.tuxpaint.tuxpaint-screenshot2.jpg",
+        "org.tuxpaint.tuxpaint-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.tuxpaint.tuxpaint-screenshot1.jpg",
+        "org.tuxpaint.tuxpaint-screenshot2.jpg",
+        "org.tuxpaint.tuxpaint-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.tuxpaint.tuxpaint-thumb.jpg",
+    "subtitle": "A fun drawing app for kids",
+    "title": "Tux Paint",
     "tryexec": ""
   },
   {
