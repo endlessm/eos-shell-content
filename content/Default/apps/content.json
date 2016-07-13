@@ -1750,44 +1750,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.virtual-school",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.virtual-school-splash.jpg",
-    "description": "Learning is easy and fun with video courses on subjects like math, biology, chemistry, physics, and many more! Students all over the world are successfully using these videos to conquer difficult subjects in a fun and engaging way. Whether you need extra help on your schoolwork or are setting out to learn something new on your own, you'll find what you're looking for here. Learn difficult subjects in a way that makes sense to you, and see how this app and these videos can help you succeed in school and in life!",
-    "displayShape": "b1",
-    "exec": "eos-virtual-school",
-    "featured_img": "",
-    "icon": "com.endlessm.virtual-school-icon.png",
-    "is_featured": true,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.virtual-school-screenshot1.jpg",
-        "com.endlessm.virtual-school-screenshot2.jpg",
-        "com.endlessm.virtual-school-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.virtual-school-screenshot1.jpg",
-        "com.endlessm.virtual-school-screenshot2.jpg",
-        "com.endlessm.virtual-school-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.virtual-school-screenshot1.jpg",
-        "com.endlessm.virtual-school-screenshot2.jpg",
-        "com.endlessm.virtual-school-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.virtual-school-thumb.jpg",
-    "subtitle": "Free educational videos on almost any subject",
-    "title": "Virtual School",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.water-and-sanitation",
     "category": "Resources",
     "core": false,
@@ -4356,6 +4318,44 @@
     "square_img": "org.kde.palapeli-thumb.jpg",
     "subtitle": "A fun jigsaw puzzle game",
     "title": "Palapeli",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.learningequality.KALite",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "org.learningequality.kalite-splash.jpg",
+    "description": "Learning is easy and fun with video courses on subjects like math, biology, chemistry, physics, and many more! Students all over the world are successfully using these videos to conquer difficult subjects in a fun and engaging way. Whether you need extra help on your schoolwork or are setting out to learn something new on your own, you'll find what you're looking for here. Learn difficult subjects in a way that makes sense to you, and see how this app and these videos can help you succeed in school and in life!",
+    "displayShape": "b1",
+    "exec": "eos-virtual-school",
+    "featured_img": "",
+    "icon": "org.learningequality.kalite-icon.png",
+    "is_featured": true,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.learningequality.kalite-screenshot1.jpg",
+        "org.learningequality.kalite-screenshot2.jpg",
+        "org.learningequality.kalite-screenshot3.jpg"
+      ],
+      "es": [
+        "org.learningequality.kalite-screenshot1.jpg",
+        "org.learningequality.kalite-screenshot2.jpg",
+        "org.learningequality.kalite-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.learningequality.kalite-screenshot1.jpg",
+        "org.learningequality.kalite-screenshot2.jpg",
+        "org.learningequality.kalite-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "org.learningequality.kalite-thumb.jpg",
+    "subtitle": "Free educational videos on almost any subject",
+    "title": "Virtual School",
     "tryexec": ""
   },
   {
