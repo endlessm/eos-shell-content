@@ -4359,6 +4359,33 @@
     "tryexec": ""
   },
   {
+    "application-id": "org.learningequality.KALite",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "A free lightweight solution providing high-quality education where you need it most. Bringing the power of online learning to the offline world.",
+    "displayShape": "b1",
+    "exec": "kalite-app",
+    "featured_img": "",
+    "icon": "org.learningequality.kalite-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.learningequality.KALite-screenshot1.jpg",
+        "org.learningequality.KALite-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.learningequality.KALite-thumb.jpg",
+    "subtitle": "An offline version of Khan Academy",
+    "title": "KA Lite",
+    "tryexec": ""
+  },
+  {
     "application-id": "org.maemo.Numptyphysics",
     "category": "Games",
     "core": false,
