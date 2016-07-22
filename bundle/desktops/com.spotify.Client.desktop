@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Spotify
+Comment=Listen to music using Spotify
+Type=Application
+Exec=spotify
+Icon=eos-app-com.spotify.Client
+Categories=Resources;
+X-Endless-LaunchMaximized=true

@@ -24,6 +24,6 @@ Comment[vi]=Gọi điện thoại internet miễn phí với cước phí rẻ h
 Comment[zh_CN]=免费的网络电话
 Type=Application
 Exec=skype --resources=/endless/skype/share/skype %U
-Icon=eos-app-com.skype.Client
+Icon=eos-app-com.microsoft.Skype
 Categories=Utility;
 X-Endless-LaunchMaximized=false

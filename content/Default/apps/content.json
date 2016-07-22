@@ -1913,15 +1913,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.skype.Client",
+    "application-id": "com.microsoft.Skype",
     "category": "Utility",
     "core": false,
     "custom-splash-screen": "",
     "description": "Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!  **Requires Internet",
     "displayShape": "b2v",
     "exec": "skype --resources=/endless/skype/share/skype %U",
-    "featured_img": "com.skype.client-featured.jpg",
-    "icon": "com.skype.client-icon.png",
+    "featured_img": "com.microsoft.skype-featured.jpg",
+    "icon": "com.microsoft.skype-icon.png",
     "is_featured": true,
     "is_offline": false,
     "personalities": [
@@ -1929,14 +1929,36 @@
     ],
     "screenshots": {
       "C": [
-        "com.skype.client-screenshot1.jpg",
-        "com.skype.client-screenshot2.jpg"
+        "com.microsoft.skype-screenshot1.jpg",
+        "com.microsoft.skype-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "None",
-    "square_img": "com.skype.client-thumb.jpg",
+    "square_img": "com.microsoft.skype-thumb.jpg",
     "subtitle": "Free internet calls with cheap rates to phones",
     "title": "Skype",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.spotify.Client",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Access all of your favorite music, discover new songs, and share music online with your friends - all in one place. Create shared playlists or share individual songs with your Facebook friends with just a click of a button. Follow your favorite artists or friends to know what they are listening to, and then save the songs to your own playlists. Spotify is the best way to have access to millions of songs, and all the latest hits.  **Requires internet",
+    "displayShape": "b1",
+    "exec": "spotify",
+    "featured_img": "",
+    "icon": "com.spotify.client-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.spotify.client-thumb.png",
+    "subtitle": "Listen to music using Spotify",
+    "title": "Spotify",
     "tryexec": ""
   },
   {
