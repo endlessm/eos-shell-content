@@ -446,11 +446,6 @@ if __name__ == '__main__':
     shutil.rmtree(BUNDLE_MANIFESTS_DIR, IGNORE_ERRORS)
     os.makedirs(BUNDLE_MANIFESTS_DIR)
 
-    # Read the list of apps that have localized versions
-    # where the app-id is suffixed by the language code
-    with open('localized-apps.txt') as localized_file:
-        localized_apps = localized_file.read().split()
-
     # Map from personality to two-character language code(s)
     langs = {}
     for i in range(0, len(personalities)):
@@ -468,23 +463,12 @@ if __name__ == '__main__':
                 if personality == 'default':
                     continue
                 elif personality == 'all':
-                    if id in localized_apps:
-                        for lang in all_langs:
-                            # For now, we don't have Chinese KAs
-                            if lang != 'zh':
-                                app_ids.append(id + '-' + lang)
-                    else:
-                        app_ids.append(id)
+                    app_ids.append(id)
                 else:
                     app_personalities = obj.get('Personalities')
                     if 'All' in app_personalities \
                             or personality in app_personalities:
-                        if id in localized_apps:
-                            # For now, we don't include any KAs for China
-                            if personality != 'China':
-                                app_ids.append(id + '-' + langs[personality])
-                        else:
-                            app_ids.append(id)
+                        app_ids.append(id)
         app_ids.sort()
         manifest_path = os.path.join(BUNDLE_MANIFESTS_DIR,
                                      'bundle-manifest-%s.txt' % personality)
