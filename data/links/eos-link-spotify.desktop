@@ -1,7 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Name=Spotify
+Name[es]=Spotify
+Name[fr]=Spotify
 Comment=Listen to music using Spotify
+Comment[es]=Escucha música con Spotify
+Comment[fr]=Écouter de la musique avec Spotify
+Comment[vi]=Nghe nhạc qua Spotify
 Type=Application
 Exec=chromium-browser --app=https://play.spotify.com/
 Icon=eos-link-spotify

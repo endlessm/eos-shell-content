@@ -4810,6 +4810,28 @@
     "tryexec": ""
   },
   {
+    "application-id": "vinagre",
+    "category": "Utility",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Now you can manage your own computer, or a family member's, without being in front of it. This is great for people who want to help someone troubleshoot their computer from afar, or manage their computer from another computer.",
+    "displayShape": "b1",
+    "exec": "vinagre %U",
+    "featured_img": "",
+    "icon": "vinagre-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "vinagre-thumb.jpg",
+    "subtitle": "Manage your desktop from afar",
+    "title": "Remote Desktop",
+    "tryexec": ""
+  },
+  {
     "application-id": "yelp",
     "category": "Resources",
     "core": true,
