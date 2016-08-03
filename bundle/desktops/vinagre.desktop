@@ -1,17 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=Remote Desktop
-Name[es]=Escritorio remoto
-Name[fr]=Ordinateur de bureau à distance
-Name[id]=Desktop Jarak Jauh
-Name[th]=เดสก์ท็อประยะไกล
-Name[vi]=Truy cập Máy tính Từ xa
 Comment=Manage your desktop from afar
-Comment[ar]=قُم بإدارة سطح المكتب الخاص بك عن بعد
-Comment[es]=Administra tu computadora desde lejos
-Comment[fr]=Gérez votre ordinateur de bureau à distance
-Comment[th]=จัดการหน้าจอเดสก์ท็อปของคุณจากระยะไกล
-Comment[vi]=Quản lý màn hình máy tính của bạn từ xa
 Type=Application
 Exec=vinagre %U
 Icon=eos-app-vinagre

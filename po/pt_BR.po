@@ -16,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2016-08-01 11:11-0700\n"
-"PO-Revision-Date: 2016-08-01 18:12+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2016-08-02 03:13+0000\n"
+"PO-Revision-Date: 2016-08-02 12:54+0000\n"
+"Last-Translator: Mariana Barbosa <mari@endlessm.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -831,7 +831,7 @@ msgid ""
 " online, you will receive the latest news available. The articles remain "
 "stored on your computer so you can access them later offline at your "
 "convenience."
-msgstr ""
+msgstr "As últimas informações e notícias sobre esportes, cultura, entretenimento, política e economia, da Guatemala e do mundo, produzidas pelo estabelecido jornal Prensa Libre. Você terá acesso a centenas de artigos para acessar off-line e, quando se conectar à internet, você receberá as últimas notícias disponíveis. Os textos ficam arquivados no seu computador e você poderá acessá-los quando quiser, mesmo sem conexão."
 
 #: content/Default/apps/content.json.h:121
 msgctxt "title"
@@ -1005,7 +1005,7 @@ msgstr "O mundo é um lugar surpreendente e lindo! Comece a explorá-lo com este
 #: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "VideoNet"
-msgstr ""
+msgstr "VideoNet"
 
 #: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
@@ -1125,12 +1125,12 @@ msgstr "Skype faz você ficar em contato facilmente e de forma divertida! Se voc
 #: content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
-msgstr ""
+msgstr "Ouça música com o Spotify"
 
 #: content/Default/apps/content.json.h:165
 msgctxt "description"
@@ -1142,7 +1142,7 @@ msgid ""
 "listening to, and then save the songs to your own playlists. Spotify is the "
 "best way to have access to millions of songs, and all the latest hits.  "
 "**Requires internet"
-msgstr ""
+msgstr "Ouça suas músicas favoritas, discubra novos hits e compartilhe músicas pela internet com seus amigos –tudo em um único lugar. Crie playlists para compartilhar ou compartilhe músicas com amigos no Facebook por meio de um único click. Siga seus artistas favoritos ou os seus amigos, veja o que eles estão ouvindo e adicione as suas preferidas à sua própria playlist. Spotify é a melhor forma de ter acesso a milhões de músicas, incluindo os grandes sucessos. **Requer acesso à internet."
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -3086,33 +3086,15 @@ msgstr "Preservar suas fotos e documentos importantes criando cópias digitais n
 
 #: content/Default/apps/content.json.h:448
 msgctxt "title"
-msgid "Remote Desktop"
-msgstr ""
-
-#: content/Default/apps/content.json.h:449
-msgctxt "subtitle"
-msgid "Manage your desktop from afar"
-msgstr ""
-
-#: content/Default/apps/content.json.h:450
-msgctxt "description"
-msgid ""
-"Now you can manage your own computer, or a family member's, without being in"
-" front of it. This is great for people who want to help someone troubleshoot"
-" their computer from afar, or manage their computer from another computer."
-msgstr ""
-
-#: content/Default/apps/content.json.h:451
-msgctxt "title"
 msgid "Help Center"
 msgstr "Central de Ajuda"
 
-#: content/Default/apps/content.json.h:452
+#: content/Default/apps/content.json.h:449
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Aprenda como usar o Endless"
 
-#: content/Default/apps/content.json.h:453
+#: content/Default/apps/content.json.h:450
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
@@ -3151,7 +3133,7 @@ msgstr "Social"
 #: content/folders.json.h:9
 msgctxt "folderName"
 msgid "Tools"
-msgstr ""
+msgstr "Ferramentas"
 
 #: content/folders.json.h:10
 msgctxt "folderName"
