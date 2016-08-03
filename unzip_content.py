@@ -36,7 +36,8 @@ LINKS_DIR = os.path.join(DATA_DIR, 'links')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
-ICON_DIR = os.path.join('icons', '64x64', 'apps')
+BUNDLE_ICON_DIR = os.path.join('icons', 'bundle', '64x64', 'apps')
+CORE_ICON_DIR = os.path.join('icons', 'core', '64x64', 'apps')
 IGNORE_ERRORS = True
 JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
@@ -343,15 +344,16 @@ if __name__ == '__main__':
     translate_dir(BUNDLE_APPS_DIR)
     translate_dir(FOLDERS_DIR)
 
-    # Remove the existing icon dir, if it exists
-    shutil.rmtree(ICON_DIR, IGNORE_ERRORS)
+    # Remove the existing icon dirs, if they exists
+    shutil.rmtree(BUNDLE_ICON_DIR, IGNORE_ERRORS)
+    shutil.rmtree(CORE_ICON_DIR, IGNORE_ERRORS)
 
-    # Make the icon dir
-    os.makedirs(ICON_DIR)
+    # Make the icon dirs
+    os.makedirs(BUNDLE_ICON_DIR)
+    os.makedirs(CORE_ICON_DIR)
 
     # Copy and rename the app icons to the icon folder
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'icons')
-    target_dir = ICON_DIR
     for app_data in apps_json:
         # Rename the icons from name-icon.png to eos-app-name.png
         # Note that the CMS does not respect capitalization
@@ -359,6 +361,10 @@ if __name__ == '__main__':
         # target file name based on the actual app ID
         source = app_data['icon']
         target = APP_PREFIX + app_data['application-id'] + '.png'
+        if app_data['core']:
+            target_dir = CORE_ICON_DIR
+        else:
+            target_dir = BUNDLE_ICON_DIR
         source_file = os.path.join(source_dir, source)
         target_file = os.path.join(target_dir, target)
         shutil.copy(source_file, target_file)
@@ -366,7 +372,7 @@ if __name__ == '__main__':
     # Copy and rename the link icons to the icon folder
     # If no link icon available, resize/crop the thumbnail image
     source_dir = os.path.join(UNZIP_DIR, 'links')
-    target_dir = ICON_DIR
+    target_dir = CORE_ICON_DIR
 
     file_names = os.listdir(source_dir)
 
