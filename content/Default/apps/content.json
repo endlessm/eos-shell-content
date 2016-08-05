@@ -522,6 +522,39 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.edu_collections.es_GT",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This app is full of reliable information sent directly from the Guatemalan government to help you live a healthier and more prosperous life. Find information about cultivating different kinds of crops, tips for mothers before and after pregnancy, tools for teachers preparing a curriculum, worksheets for students who want to supplement their classroom learning, texts to teach the Mayan language, and many great information. This source of knowledge is ready at your disposal, and can be a useful tool no matter your age.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.edu_collections.es_GT",
+    "featured_img": "",
+    "icon": "com.endlessm.edu_collections.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.edu_collections.es_gt-screenshot1.jpg",
+        "com.endlessm.edu_collections.es_gt-screenshot2.jpg",
+        "com.endlessm.edu_collections.es_gt-screenshot3.jpg"
+      ],
+      "es": [
+        "com.endlessm.edu_collections.es_gt-screenshot1.jpg",
+        "com.endlessm.edu_collections.es_gt-screenshot2.jpg",
+        "com.endlessm.edu_collections.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "com.endlessm.edu_collections.es_gt-thumb.jpg",
+    "subtitle": "All sorts of information to help better your life",
+    "title": "EduCollections",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.encyclopedia",
     "category": "Resources",
     "core": false,
@@ -2080,39 +2113,6 @@
     "square_img": "gt-curriculum-thumb.jpg",
     "subtitle": "From the Guatemalan Ministry of Education",
     "title": "GT Curriculum",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gt-education",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app is full of reliable information sent directly from the Guatemalan government to help you live a healthier and more prosperous life. Find information about cultivating different kinds of crops, tips for mothers before and after pregnancy, tools for teachers preparing a curriculum, worksheets for students who want to supplement their classroom learning, texts to teach the Mayan language, and many great information. This source of knowledge is ready at your disposal, and can be a useful tool no matter your age.",
-    "displayShape": "b1",
-    "exec": "gt-education",
-    "featured_img": "",
-    "icon": "gt-education-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Guatemala"
-    ],
-    "screenshots": {
-      "C": [
-        "gt-education-screenshot1.jpg",
-        "gt-education-screenshot2.jpg",
-        "gt-education-screenshot3.jpg"
-      ],
-      "es": [
-        "gt-education-screenshot1.jpg",
-        "gt-education-screenshot2.jpg",
-        "gt-education-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gt-education-thumb.jpg",
-    "subtitle": "All sorts of information to help better your life",
-    "title": "EduCollections",
     "tryexec": ""
   },
   {
