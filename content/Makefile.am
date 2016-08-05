@@ -22,10 +22,6 @@ default_folders_json = \
 
 EXTRA_DIST += $(default_folders_json)
 
-default_app_splash := $(shell cd $(srcdir); for file in `find Default/apps/resources/splash -name "*.jpg" -o -name "*.jpeg"`; do printf "$$file "; done)
-
-EXTRA_DIST += $(default_app_splash)
-
 default_links_images := $(shell cd $(srcdir); for file in `find Default/links/images -name "*.jpg" -o -name "*.jpeg"`; do printf "$$file "; done)
 
 EXTRA_DIST += $(default_links_images)
@@ -72,9 +68,6 @@ resourcedir = $(pkgdatadir)
 resource_DATA = \
 	eos-app-store-link-content.gresource \
 	$(NULL)
-
-splashdir = $(pkgdatadir)/splash
-splash_DATA = $(default_app_splash)
 
 CLEANFILES += \
 	eos-app-store-link-content.gresource \
