@@ -24,8 +24,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2016-08-02 03:13+0000\n"
-"PO-Revision-Date: 2016-08-02 03:15+0000\n"
+"POT-Creation-Date: 2016-08-09 02:26+0000\n"
+"PO-Revision-Date: 2016-08-09 02:26+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -340,15 +340,38 @@ msgstr "No hay nada que no puedas hacer. Con estas guías, tu hogar se convertir
 
 #: content/Default/apps/content.json.h:49
 msgctxt "title"
+msgid "EduCollections"
+msgstr "EduColecciones"
+
+#: content/Default/apps/content.json.h:50
+msgctxt "subtitle"
+msgid "All sorts of information to help better your life"
+msgstr "Todo tipo de información a tu dispocisión con un clic"
+
+#: content/Default/apps/content.json.h:51
+msgctxt "description"
+msgid ""
+"This app is full of reliable information sent directly from the Guatemalan "
+"government to help you live a healthier and more prosperous life. Find "
+"information about cultivating different kinds of crops, tips for mothers "
+"before and after pregnancy, tools for teachers preparing a curriculum, "
+"worksheets for students who want to supplement their classroom learning, "
+"texts to teach the Mayan language, and many great information. This source "
+"of knowledge is ready at your disposal, and can be a useful tool no matter "
+"your age."
+msgstr "Este programa está lleno de información recolectada por el gobierno de Guatemala para ayudarte a vivir una vida más sana y próspera. Encontrarás información sobre el cultivo de diferentes tipos de plantas, consejos para las madres antes y después del embarazo, herramientas útiles para la preparación de un plan de estudio, hojas de trabajo para los estudiantes, textos que enseñan la lengua maya y mucha más información. Esta fuente de conocimiento está disponible para cuando la necesites."
+
+#: content/Default/apps/content.json.h:52
+msgctxt "title"
 msgid "Encyclopedia"
 msgstr "Enciclopedia"
 
-#: content/Default/apps/content.json.h:50
+#: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "The free encyclopedia that anyone can contribute to"
 msgstr "La enciclopedia más grande del mundo"
 
-#: content/Default/apps/content.json.h:51
+#: content/Default/apps/content.json.h:54
 msgctxt "description"
 msgid ""
 "Whether you’re online or offline, you want access to the world’s biggest "
@@ -359,17 +382,17 @@ msgid ""
 "access to the Internet's greatest informational resource - and all for free!"
 msgstr "Accede a la mayor enciclopedia del mundo, Wikipedia, para aprender acerca de casi cualquier tema que te imagines, ¡con o sin conexión al Internet! Este programa es un recurso invaluable para estudiantes, maestros o cualquier persona que quiera aprender. Investiga cosas para tus tareas, aprende sobre eventos mundiales y mucho, mucho más. Sólo busca el tema que quieras y podrás leer artículos relacionados y seguir enlaces a otras páginas o temas relacionados. ¡Podrás aprender más de lo que jamás habías imaginado!"
 
-#: content/Default/apps/content.json.h:52
+#: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Entrepreneurship"
 msgstr "Emprendedor"
 
-#: content/Default/apps/content.json.h:53
+#: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
 msgid "Business advice for your inner entrepreneur"
 msgstr "Consejos de negocios para emprendedores"
 
-#: content/Default/apps/content.json.h:54
+#: content/Default/apps/content.json.h:57
 msgctxt "description"
 msgid ""
 "Interested in new ventures? Want to launch your own business? This app will "
@@ -379,17 +402,17 @@ msgid ""
 " into reality."
 msgstr "¿Te interesan las ideas innovadoras? ¿Deseas comenzar tu propio negocio? Este programa te permitirá aprender acerca de planes de negocios y financiamiento. También te permitirá descubrir ideas emergentes, tendencias del mercado y maneras de mejorar operaciones. Accesa estos artículos y haz que tus ideas empresariales se vuelvan realidad."
 
-#: content/Default/apps/content.json.h:55
+#: content/Default/apps/content.json.h:58
 msgctxt "title"
 msgid "Farming"
 msgstr "Agricultura"
 
-#: content/Default/apps/content.json.h:56
+#: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Learn about crops and raising animals"
 msgstr "Aprende sobre los cultivos y la cría de animales"
 
-#: content/Default/apps/content.json.h:57
+#: content/Default/apps/content.json.h:60
 msgctxt "description"
 msgid ""
 "Farming is both an ancient tradition and a modern, bustling industry. Our "
@@ -401,17 +424,17 @@ msgid ""
 "this industry. You’ll learn so much about crops, livestock, and more!"
 msgstr "La agricultura es tanto una tradición antigua como una industria moderna. El suministro de comida del mundo viene de agricultores que trabajan duro alrededor del mundo. Puede ser interesante y útil aprender sobre este sector de la economía, especialmente si tienes interés en producir comida para tu familia y tu comunidad. Este programa contiene información sobre las técnicas, el equipo necesario, los diferentes tipos de agricultura y los empleos que existen dentro de la industria. ¡Aprenderás mucho sobre los cultivos, la ganadería y mucho más!"
 
-#: content/Default/apps/content.json.h:58
+#: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "My Budget"
 msgstr "Mi presupuesto"
 
-#: content/Default/apps/content.json.h:59
+#: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
 msgid "Learn how to create your own budget and save"
 msgstr "Aprende a crear tu propio presupuesto y ahorrar"
 
-#: content/Default/apps/content.json.h:60
+#: content/Default/apps/content.json.h:63
 msgctxt "description"
 msgid ""
 "It can be challenging to keep track of your own or your family’s finances, "
@@ -422,17 +445,17 @@ msgid ""
 "benefit from an organized, clear, and carefully managed financial plan."
 msgstr "Puede ser difícil monitorear y controlar las finanzas tuyas o las de tu familia, pero es extremadamente importante hacerlo. Este programa es el recurso que necesitas para mantener un presupuesto y entender como gastas tu dinero. Estas plantillas hacen la planificación de un presupuesto más fácil, y con los consejos sobre la administración del dinero, podrás hacer buenas decisiones sobre cómo gastar y ahorrar. Tú y tu familia verán la ventaja de tener un plan financiero organizado, claro y administrado con cuidado."
 
-#: content/Default/apps/content.json.h:61
+#: content/Default/apps/content.json.h:64
 msgctxt "title"
 msgid "Fitness"
 msgstr "Estado Físico"
 
-#: content/Default/apps/content.json.h:62
+#: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
 msgid "Tips for excercise and healthy living"
 msgstr "Consejos para vivir una vida sana"
 
-#: content/Default/apps/content.json.h:63
+#: content/Default/apps/content.json.h:66
 msgctxt "description"
 msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
@@ -442,17 +465,17 @@ msgid ""
 "guidance on how to live a healthy lifestyle."
 msgstr "Todos queremos vernos y sentirnos de lo mejor. Con este programa, aprenderás a ejercitarte de buena forma. Este programa tiene una variedad de ejercicios y rutinas e información para ayudarte a ser sano sin dañarte. ¡Podrás planificar y comenzar tus ejercicios en muy poco tiempo! Este programa te ayudará a tener un estilo de vida muy saludable."
 
-#: content/Default/apps/content.json.h:64
+#: content/Default/apps/content.json.h:67
 msgctxt "title"
 msgid "Geography"
 msgstr "Geografía"
 
-#: content/Default/apps/content.json.h:65
+#: content/Default/apps/content.json.h:68
 msgctxt "subtitle"
 msgid "Learn about all the countries in the world"
 msgstr "Aprende acerca de todos los países del mundo"
 
-#: content/Default/apps/content.json.h:66
+#: content/Default/apps/content.json.h:69
 msgctxt "description"
 msgid ""
 "The world is an amazing place, and with this app, you’ll learn all about it!"
@@ -463,17 +486,17 @@ msgid ""
 "this handy app!"
 msgstr "El mundo es un lugar increíble, y con este programa podrás aprender mucho sobre la Tierra. Con información completa de cada país del mundo, este recurso cubre las ciudades más grandes, las regiones, las características naturales y mucho más. Además, encontrarás información con más detalle sobre tu país, desde sus pueblos y ciudades hasta sus ríos y montañas. ¡Explora las maravillas del mundo que te rodean con este programa de geografía!"
 
-#: content/Default/apps/content.json.h:67
+#: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: content/Default/apps/content.json.h:68
+#: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
 msgid "Learn more about this beautiful country"
 msgstr "Aprende más sobre este bello país"
 
-#: content/Default/apps/content.json.h:69
+#: content/Default/apps/content.json.h:72
 msgctxt "description"
 msgid ""
 "Guatemala has an ancient and fascinating history, but it’s also a modern, "
@@ -483,18 +506,18 @@ msgid ""
 "you can share it with friends and family alike!"
 msgstr "Sabías que el Popol Vuh fue escrito en el siglo XVI y aún se ha preservado? Aprende datos como este, y muchos más, sobre todos los aspectos de Guatemala. Explora el arte, la geografía, y la cultura de este bello país para que puedas compartir lo que aprendas con tus amigos y con tu familia."
 
-#: content/Default/apps/content.json.h:70
+#: content/Default/apps/content.json.h:73
 msgctxt "title"
 msgid "Curriculum"
 msgstr "Currículo"
 
-#: content/Default/apps/content.json.h:71
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:74
+#: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "From the Guatemalan Ministry of Education"
 msgstr "Del Ministerio de Educación de Guatemala"
 
-#: content/Default/apps/content.json.h:72
+#: content/Default/apps/content.json.h:75
 msgctxt "description"
 msgid ""
 "Here you will find the core curriculum and guidelines for a specific grade, "
@@ -507,17 +530,17 @@ msgid ""
 "own!"
 msgstr "Aquí encontrarás el plan básico de estudio y guías para un grado específico, además de libros de texto y cuadernos de ejercicios que te pueden guiar en diversas materias. Maestros y padres pueden leer materiales para aprender cómo debe ser la estructura de la educación de un niño y sobre los temas importantes estudiados en la escuela. Los estudiantes pueden encontrar libros de texto muy convenientes que les pueden ayudar a entender lo que estudian en clase. ¡Esta aplicación es muy útil para estudiantes y maestros, y puede marcar una gran diferencia en la vida de tu hijo y en la tuya! "
 
-#: content/Default/apps/content.json.h:73
+#: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "Handicrafts"
 msgstr "Artesanías"
 
-#: content/Default/apps/content.json.h:74
+#: content/Default/apps/content.json.h:77
 msgctxt "subtitle"
 msgid "Learn how to make the most beautiful handicrafts"
 msgstr "Aprende como hacer las artesanías más bellas"
 
-#: content/Default/apps/content.json.h:75
+#: content/Default/apps/content.json.h:78
 msgctxt "description"
 msgid ""
 "With these guides and your creativity you will soon be making the most "
@@ -527,17 +550,17 @@ msgid ""
 " started on a new creative project!"
 msgstr "¡Con estas guías y tu creatividad, pronto estarás haciendo las artesanías más bonitas! Aprende carpintería, cómo hacer joyería, cómo hacer textiles, y mucho más. Incluso podrás aprender a usar materiales reciclados que ya tienes en casa para convertirlos en artesanías increíbles. ¡Usa este programa para empezar un nuevo proyecto creativo!"
 
-#: content/Default/apps/content.json.h:76
+#: content/Default/apps/content.json.h:79
 msgctxt "title"
 msgid "Health"
 msgstr "Salud"
 
-#: content/Default/apps/content.json.h:77
+#: content/Default/apps/content.json.h:80
 msgctxt "subtitle"
 msgid "Keep yourself and loved ones healthy"
 msgstr "Cómo cuidarte a ti y a tus seres queridos"
 
-#: content/Default/apps/content.json.h:78
+#: content/Default/apps/content.json.h:81
 msgctxt "description"
 msgid ""
 "Without your health, you can't have anything else. Learn all about various "
@@ -546,17 +569,17 @@ msgid ""
 "help you save your own life or the life of someone you love!"
 msgstr "Sin tu salud, no puedes tener ninguna otra cosa. Aprenda todo acerca de varias enfermedades, medicamentos y consejos sobre cómo mantenerte saludable mediante la lectura de algunos de los artículos de este programa. Nunca se sabe - ¡parte de la información aquí puede ayudarte a salvar tu propia vida o la vida de alguien a quien amas!"
 
-#: content/Default/apps/content.json.h:79
+#: content/Default/apps/content.json.h:82
 msgctxt "title"
 msgid "Healthy Living"
 msgstr "Buen Vivir"
 
-#: content/Default/apps/content.json.h:80
+#: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
 msgid "Discover what it takes to stay healthy"
 msgstr "Descubre cómo mantener buena salud"
 
-#: content/Default/apps/content.json.h:81
+#: content/Default/apps/content.json.h:84
 msgctxt "description"
 msgid ""
 "How can you adopt a healthy lifestlye? There is much you can do for yourself"
@@ -565,17 +588,17 @@ msgid ""
 " healthier living!"
 msgstr "¿Cómo se puede mantener un estilo de vida saludable? Hay mucho que puedes hacer por ti y tu familia. Este programa ofrece acceso a rutinas de ejercicio, recetas sanas y doctores cercanos. Empieza hoy y consigue una vida más saludable."
 
-#: content/Default/apps/content.json.h:82
+#: content/Default/apps/content.json.h:85
 msgctxt "title"
 msgid "Healthy Teeth"
 msgstr "Dientes sanos"
 
-#: content/Default/apps/content.json.h:83
+#: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
 msgid "Learn to take care of your teeth"
 msgstr "Aprende a cuidar tus dientes"
 
-#: content/Default/apps/content.json.h:84
+#: content/Default/apps/content.json.h:87
 msgctxt "description"
 msgid ""
 "Have you ever had a toothache? Learn how to help make it feel better. Want "
@@ -586,17 +609,17 @@ msgid ""
 "teeth healthy and looking great!"
 msgstr "¿Alguna vez has tenido un dolor de muelas? Aprende cómo hacer para que te sientas mejor. ¿Quieres mantener tus dientes blancos y radiantes? Bueno, prueba estos consejos. Ya sea para aprender sobre las enfermedades de la boca y cómo prevenirlas, o simplemente para asegurarte de mantener esa hermosa sonrisa, encontrarás una gran cantidad de información útil en este programa. ¡Descárgalo hoy y aprende todo acerca de cómo mantener la boca y los dientes sanos y deslumbrantes! "
 
-#: content/Default/apps/content.json.h:85
+#: content/Default/apps/content.json.h:88
 msgctxt "title"
 msgid "History"
 msgstr "Historia"
 
-#: content/Default/apps/content.json.h:86
+#: content/Default/apps/content.json.h:89
 msgctxt "subtitle"
 msgid "Learn about the world's events and civilizations"
 msgstr "Aprende sobre eventos y las civilizaciones del mundo"
 
-#: content/Default/apps/content.json.h:87
+#: content/Default/apps/content.json.h:90
 msgctxt "description"
 msgid ""
 "How much do you know about the fall of the Roman Empire? What about the Silk"
@@ -606,17 +629,17 @@ msgid ""
 "learn about the cultures that came before us."
 msgstr "¿Cuánto sabes sobre la caída del Imperio Romano? ¿Y sobre la Ruta de la Seda? ¿Quién vivió en las Américas hace mucho tiempo, y qué les pasó? ¿Por qué empezó la Primera Guerra Mundial? Este programa puede contestar cada pregunta que tengas sobre los eventos y personajes que han cambiado nuestro mundo. También encontrarás información sobre las culturas que vinieron antes que nosotros y dejaron su legado."
 
-#: content/Default/apps/content.json.h:88
+#: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "How To"
 msgstr "Cómo se hace"
 
-#: content/Default/apps/content.json.h:89
+#: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
 msgid "How-to do just about anything by yourself"
 msgstr "Las guías paso a paso más útiles del mundo"
 
-#: content/Default/apps/content.json.h:90
+#: content/Default/apps/content.json.h:93
 msgctxt "description"
 msgid ""
 "Are you interested in learning more about taking care of yourself or about "
@@ -629,17 +652,17 @@ msgid ""
 "won’t know how you managed before!"
 msgstr "¿Has querido aprender a tejer o a tener un jardín bello? ¿Tienes interés en restaurar algún mueble, en limpiar una mancha o en crear un plan de acción personalizado para tus metas? Esta es el programa que necesitas para lograr cualquier cosa que has soñado aprender. Oficios, arte, proyectos para mejorar la casa, desarrollo personal... podrás encontrar casi cualquier tema que te imagines. Cada artículo es fácil de encontrar y entender. ¡Pronto te preguntarás cómo podías vivir sin este programa!"
 
-#: content/Default/apps/content.json.h:91
+#: content/Default/apps/content.json.h:94
 msgctxt "title"
 msgid "Maternity"
 msgstr "Maternidad"
 
-#: content/Default/apps/content.json.h:92
+#: content/Default/apps/content.json.h:95
 msgctxt "subtitle"
 msgid "Valuable information for new mothers"
 msgstr "Información valiosa para todas las madres"
 
-#: content/Default/apps/content.json.h:93
+#: content/Default/apps/content.json.h:96
 msgctxt "description"
 msgid ""
 "Having a baby is one of the most magical experiences in the world, but it "
@@ -652,17 +675,17 @@ msgid ""
 "information here that can help!"
 msgstr "Tener un bebé es una de las experiencias más mágicas del mundo, pero también puede ser bastante abrumador si  no tienes acceso a un médico o si eres una madre primeriza y no sabes qué esperar. Aprende acerca de los signos que podrían ser peligrosos para que puedas evitarlos, y también acerca de las cosas que debes tratar a través de tu embarazo para asegurar un parto saludable. Ya sea que estés a punto de tener a tu primer hijo, a punto de tener tu décimo hijo, o eres una partera que ayuda a otras mujeres dar a luz, ¡aquí encontrarás información relevante que te pueda ayudar!"
 
-#: content/Default/apps/content.json.h:94
+#: content/Default/apps/content.json.h:97
 msgctxt "title"
 msgid "Math"
 msgstr "Matemáticas"
 
-#: content/Default/apps/content.json.h:95
+#: content/Default/apps/content.json.h:98
 msgctxt "subtitle"
 msgid "High school math made simple and accessible"
 msgstr "Matemáticas de educación secundaria accesible"
 
-#: content/Default/apps/content.json.h:96
+#: content/Default/apps/content.json.h:99
 msgctxt "description"
 msgid ""
 "Studying high school math doesn’t have to be confusing or dull. This simple "
@@ -673,17 +696,17 @@ msgid ""
 " your learning and expand your mind!"
 msgstr "El estudio de las matemáticas de la escuela secundaria no tiene que ser confusa ni aburrida. Este programa de matemáticas te ayudará a dominar temas como álgebra, geometría, trigonometría, cálculo y estadística. Fortalece tus habilidades de razonamiento matemático y obtén una comprensión más profunda de conceptos matemáticos con los cuáles estás luchando. ¡Con información de múltiples cursos en un sólo lugar, puedes ampliar tu aprendizaje y tu mente!"
 
-#: content/Default/apps/content.json.h:97
+#: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Mayan Languages"
 msgstr "Idiomas Maya"
 
-#: content/Default/apps/content.json.h:98
+#: content/Default/apps/content.json.h:101
 msgctxt "subtitle"
 msgid "Stories and dictionaries in Mayan languages"
 msgstr "Cuentos y diccionarios en los idiomas Mayas"
 
-#: content/Default/apps/content.json.h:99
+#: content/Default/apps/content.json.h:102
 msgctxt "description"
 msgid ""
 "Have you ever wanted to study and learn a Mayan language? Whether you're a "
@@ -693,17 +716,17 @@ msgid ""
 "history and stories you'll find here!"
 msgstr "¿Alguna vez has querido estudiar y aprender un idioma Maya? Tanto si eres un principiante o un estudiante más avanzado, este programa contiene muchos recursos útiles. Aquí puedes encontrar cuentos, diccionarios y guías gramaticales en diferentes idiomas Mayas. ¡Prepárate para sumergirte en la cultura Maya a través de toda la historia y los cuentos que encontrarás aquí!"
 
-#: content/Default/apps/content.json.h:100
+#: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Mental Health"
 msgstr "Salud Mental"
 
-#: content/Default/apps/content.json.h:101
+#: content/Default/apps/content.json.h:104
 msgctxt "subtitle"
 msgid "Tips and tricks for living a healthier, happier life"
 msgstr "Consejos y trucos para vivir una vida más sana y feliz"
 
-#: content/Default/apps/content.json.h:102
+#: content/Default/apps/content.json.h:105
 msgctxt "description"
 msgid ""
 "Have you ever wanted to be more confident? Feel less stressed? Be more "
@@ -712,19 +735,19 @@ msgid ""
 "you can better your life."
 msgstr "¿Alguna vez has querido tener más confianza? ¿Sentirte menos estresado? ¿Ser más eficiente y productivo? ¡Ahora es tu oportunidad! Utiliza este programa para aprender consejos y trucos para una vida más sana y feliz. Lee para descubrir cómo funciona tu mente y cómo puedes mejorar tu vida."
 
-#: content/Default/apps/content.json.h:103
+#: content/Default/apps/content.json.h:106
 msgctxt "title"
 msgid "Mexico"
 msgstr "México"
 
-#: content/Default/apps/content.json.h:104
+#: content/Default/apps/content.json.h:107
 msgctxt "subtitle"
 msgid ""
 "Learn about the country you call home and impress family and friends with "
 "the facts you know"
 msgstr "¡Aprende más sobre tu bello país e impresiona a tu familia y a tus amigos con todo lo que aprenderás!"
 
-#: content/Default/apps/content.json.h:105
+#: content/Default/apps/content.json.h:108
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Mexico is a beautiful "
@@ -735,17 +758,17 @@ msgid ""
 "friends, family, and visitors."
 msgstr "¿Quieres conocer más acerca de México? México es un bello país con una rica tradición, deliciosa comida, deportes emocionantes, interesantes eventos culturales, y mucho más. Explora artículos enfocados en estas áreas de la vida brasileña, arte, geografía y cultura. Profundizarás tu conocimiento acerca del país y podrás compartir lo que aprendas con amigos, familia y visitantes."
 
-#: content/Default/apps/content.json.h:106
+#: content/Default/apps/content.json.h:109
 msgctxt "title"
 msgid "Microenterprises"
 msgstr "Microempresas"
 
-#: content/Default/apps/content.json.h:107
+#: content/Default/apps/content.json.h:110
 msgctxt "subtitle"
 msgid "Learn to run your own company"
 msgstr "Aprende a ejecutar tu propio negocio"
 
-#: content/Default/apps/content.json.h:108
+#: content/Default/apps/content.json.h:111
 msgctxt "description"
 msgid ""
 "Have you dreamed of starting your own company? Learn all about what it will "
@@ -756,17 +779,17 @@ msgid ""
 "into a world where you are your own boss!"
 msgstr "¿Has soñado con empezar tu propio negocio? ¡Aprende todo acerca de lo que se necesita para hacerlo! Como dueño de un negocio pequeño, tendrás que aprender a convertir una idea en algo beneficioso, cómo dirigir un equipo, cómo cuidar de todos los aspectos administrativos - y encontrarás un poco de todo sobre eso aquí en este programa. ¡Prepárate para entrar a un mundo en el que tú eres tu propio jefe!"
 
-#: content/Default/apps/content.json.h:109
+#: content/Default/apps/content.json.h:112
 msgctxt "title"
 msgid "Myths & Legends"
 msgstr "Mitos y leyendas"
 
-#: content/Default/apps/content.json.h:110
+#: content/Default/apps/content.json.h:113
 msgctxt "subtitle"
 msgid "Myths and legends from around the world"
 msgstr "Mitos y leyendas de todo el mundo"
 
-#: content/Default/apps/content.json.h:111
+#: content/Default/apps/content.json.h:114
 msgctxt "description"
 msgid ""
 "Do you like reading myths, legends and scary stories? This app has some from"
@@ -776,17 +799,17 @@ msgid ""
 "cultures of the past and present all over the world!"
 msgstr "¿Te gusta leer sobre mitos, leyendas o historias de terror? Este programa contiene exactamente eso. Desde leyendas mayas a los mitos populares japoneses, y varias fábulas, podrás explorar textos de todo el mundo y encontrar algo que te interese. ¡Lee todo sobre las criaturas, mitos, leyendas y fábulas que han dado forma a las culturas del pasado y del presente por todo el mundo!"
 
-#: content/Default/apps/content.json.h:112
+#: content/Default/apps/content.json.h:115
 msgctxt "title"
 msgid "Photo Editor"
 msgstr "Editor de fotos"
 
-#: content/Default/apps/content.json.h:113
+#: content/Default/apps/content.json.h:116
 msgctxt "subtitle"
 msgid "Easily edit and share all of your favorite photos"
 msgstr "Edita y comparte tus fotos favoritas fácilmente"
 
-#: content/Default/apps/content.json.h:114
+#: content/Default/apps/content.json.h:117
 msgctxt "description"
 msgid ""
 "Have you ever wanted to edit your own photos like the pros and create "
@@ -797,17 +820,17 @@ msgid ""
 "directly to Facebook, so everyone can see your awesome pictures!"
 msgstr "¿Quieres modificar tus propias fotos como los profesionales y crear lindas imágenes para compartir con tus seres queridos? ¡Ahora puedes hacerlo en unos pocos pasos! Tenemos una variedad de filtros atractivos y artísticos para que personalices tus fotos y hagas obras de arte sobre tu vida diaria. ¡Y con este útil programa, puedes publicar tus fotos directamente en Facebook, para compartirlas con todos tus amigos!"
 
-#: content/Default/apps/content.json.h:115
+#: content/Default/apps/content.json.h:118
 msgctxt "title"
 msgid "Physics"
 msgstr "Física"
 
-#: content/Default/apps/content.json.h:116
+#: content/Default/apps/content.json.h:119
 msgctxt "subtitle"
 msgid "Learn about the physical world's mysteries"
 msgstr "Aprende sobre los misterios del mundo físico"
 
-#: content/Default/apps/content.json.h:117
+#: content/Default/apps/content.json.h:120
 msgctxt "description"
 msgid ""
 "Do you find learning about physics to be difficult? You're not alone. "
@@ -820,17 +843,17 @@ msgid ""
 "the world around you, and succeed in your physics education."
 msgstr "¿Piensas que la física es una materia difícil? Pues no eres el único. La física es una de las materias más fascinantes y desafiantes de todas las disciplinas científicas. Utiliza este programa para encontrar exactamente lo que necesitas aprender y hacer que el aprendizaje sea más fácil. Sea cual sea tu nivel de comprensión, encontrarás información útil y presentada en un formato que podrás seguir. El programa incluye temas interesantes, como la mecánica, termodinámica, electricidad y magnetismo, e incluso la astrofísica. Desde los átomos hasta las estrellas, aprenderás todo sobre el mundo que te rodea, y tendrás éxito sobre tu educación en física."
 
-#: content/Default/apps/content.json.h:118
+#: content/Default/apps/content.json.h:121
 msgctxt "title"
 msgid "Prensa Libre"
 msgstr "Prensa Libre"
 
-#: content/Default/apps/content.json.h:119
+#: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
 msgid "All the news about Guatemala and the world"
 msgstr "Toda la información de Guatemala y el mundo"
 
-#: content/Default/apps/content.json.h:120
+#: content/Default/apps/content.json.h:123
 msgctxt "description"
 msgid ""
 "All the latest news and information on sports, culture and entertainment, "
@@ -841,17 +864,17 @@ msgid ""
 "convenience."
 msgstr "Todas las últimas noticias e información sobre deporte, cultura, entretenimiento, política y economía de Guatemala y el mundo, producido por Prensa Libre. Tendrás cientos de artículos disponibles aún cuando no tengas internet, y cuando te conectes, se actualizará con todas las últimas noticias. Todos los nuevos artículos quedan almacenados en tu computadora para que puedas leerlos incluso sin conexión al internet, a tu conveniencia."
 
-#: content/Default/apps/content.json.h:121
+#: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Coding Fun"
 msgstr "Programación"
 
-#: content/Default/apps/content.json.h:122
+#: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
 msgid "Learn to create your own video games"
 msgstr "Aprende a programar y crear videojuegos"
 
-#: content/Default/apps/content.json.h:123
+#: content/Default/apps/content.json.h:126
 msgctxt "description"
 msgid ""
 "Do you like playing video games? Then why not create your own? Learn "
@@ -863,17 +886,17 @@ msgid ""
 "your very own!"
 msgstr "¿Te gustan los videojuegos? ¿Entonces por qué no crear el tuyo? ¡Aprende a programar con este divertido programa que te permite cambiar las reglas de los videojuegos para hacerlos tuyos! Mira lo que sucede cuando cambias líneas de código y progresas a través de niveles para seguir aprendiendo más y más sobre cómo programar. Pronto te darás cuenta de que aprender a programar te permite no sólo cambiar el mundo dentro de tus juegos, ¡sino también el tuyo!"
 
-#: content/Default/apps/content.json.h:124
+#: content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "Résumé"
 msgstr "Currículum"
 
-#: content/Default/apps/content.json.h:125
+#: content/Default/apps/content.json.h:128
 msgctxt "subtitle"
 msgid "Write a great resume and prepare for interviews"
 msgstr "Crea un currículum impresionante con una plantilla"
 
-#: content/Default/apps/content.json.h:126
+#: content/Default/apps/content.json.h:129
 msgctxt "description"
 msgid ""
 "The best way to make a great impression on a potential employer is to have "
@@ -885,17 +908,17 @@ msgid ""
 "your choice."
 msgstr "La mejor manera de impresionar a un potencial empleador es tener un excelente currículum. En este programa encontrarás plantillas útiles y atractivas para ayudarte a construir tu propio currículum. Aprende exactamente qué es un currículum y lo que debería contener, obtén consejos en cada sección, y recibe recomendaciones para prepararte para entrevistas de trabajo. Este programa te puede ayudar a acercarte más al empleo de tu elección."
 
-#: content/Default/apps/content.json.h:127
+#: content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "Football"
 msgstr "Fútbol"
 
-#: content/Default/apps/content.json.h:128
+#: content/Default/apps/content.json.h:131
 msgctxt "subtitle"
 msgid "Learn about your favorite team and players"
 msgstr "Aprende más de tu equipo y jugadores favoritos"
 
-#: content/Default/apps/content.json.h:129
+#: content/Default/apps/content.json.h:132
 msgctxt "description"
 msgid ""
 "Football is a major sport with fans all around the world. Are you one of "
@@ -905,17 +928,17 @@ msgid ""
 " with thousands of articles about your favorite sport!"
 msgstr "El fútbol es un deporte con aficionados en todo el mundo. ¿Eres uno de ellos? Este programa tiene todo lo que necesitas saber acerca de los mejores equipos del mundo, tus jugadores favoritos y todos los torneos en que participan. Aprende hechos acerca del juego y su historia, descubre la complejidad de las reglas, ¡y mantente al tanto con miles de artículos acerca de tu deporte favorito!"
 
-#: content/Default/apps/content.json.h:130
+#: content/Default/apps/content.json.h:133
 msgctxt "title"
 msgid "Social Enterprises"
 msgstr "Empresas sociales"
 
-#: content/Default/apps/content.json.h:131
+#: content/Default/apps/content.json.h:134
 msgctxt "subtitle"
 msgid "All about non-profit organizations"
 msgstr "Todo sobre las empresas sociales"
 
-#: content/Default/apps/content.json.h:132
+#: content/Default/apps/content.json.h:135
 msgctxt "description"
 msgid ""
 "Have you thought of starting your own non-profit organization, or of joining"
@@ -925,17 +948,17 @@ msgid ""
 "your impact in the world even larger!"
 msgstr "¿Has pensado en empezar tu propia empresa social, o de unirte a una? Las empresas sociales gozan de beneficios tributarios especiales, y se crean generalmente para hacer un impacto social. ¡Lee estas guías para entender más acerca de la estructura de empresas sociales y de cómo operarlas para que puedas comenzar a hacer que tu impacto en el mundo sea más grande!"
 
-#: content/Default/apps/content.json.h:133
+#: content/Default/apps/content.json.h:136
 msgctxt "title"
 msgid "Social Sciences"
 msgstr "Ciencias sociales"
 
-#: content/Default/apps/content.json.h:134
+#: content/Default/apps/content.json.h:137
 msgctxt "subtitle"
 msgid "Subjects that explore the individual and society"
 msgstr "Materias que exploran el individuo y la sociedad"
 
-#: content/Default/apps/content.json.h:135
+#: content/Default/apps/content.json.h:138
 msgctxt "description"
 msgid ""
 "Human beings and the relationships and societies they form are complicated. "
@@ -947,17 +970,17 @@ msgid ""
 "understanding of human behavior."
 msgstr "Los seres humanos y las relaciones y sociedades que forman son complejos. Este programa te dará a conocer muchas de las disciplinas que examinan la historia, las culturas y las interacciones de los seres humanos. Tendrás acceso a la información fundamental de la psicología, sociología, antropología, ciencia política y más. Entendiendo los fundamentos de cada disciplina te ayudará a navegar los modos en que interactuamos y nos relacionamos los unos con los otros. Saldrás con un profundo conocimiento del comportamiento de los seres humanos."
 
-#: content/Default/apps/content.json.h:136
+#: content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Textbooks"
 msgstr "Libros de texto"
 
-#: content/Default/apps/content.json.h:137
+#: content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid "Math and science textbooks"
 msgstr "Libros de texto sobre matemáticas y ciencia"
 
-#: content/Default/apps/content.json.h:138
+#: content/Default/apps/content.json.h:141
 msgctxt "description"
 msgid ""
 "Find information to help you with your homework, or learn about a subject "
@@ -968,17 +991,17 @@ msgid ""
 "you'll be sure to find something interesting and useful here!"
 msgstr "¡Encuentra información que te ayudará con tu tarea, o aprende acerca de un tema de que siempre has querido saber más! Puedes navegar por todas las fotografías, tablas, y gráficos para aprender más acerca de cada uno. Estos libros de texto no sólo son muy completos e informativos, pero también son fáciles de leer y útiles. Si eres estudiante, padre, maestro o simplemente alguien con ganas de aprender, ¡encontrarás algo interesante y útil aquí!"
 
-#: content/Default/apps/content.json.h:139
+#: content/Default/apps/content.json.h:142
 msgctxt "title"
 msgid "Translate"
 msgstr "Traductor"
 
-#: content/Default/apps/content.json.h:140
+#: content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid "Translate text between many languages instantly"
 msgstr "Traduce entre varios idiomas instantáneamente"
 
-#: content/Default/apps/content.json.h:141
+#: content/Default/apps/content.json.h:144
 msgctxt "description"
 msgid ""
 "Download this app to help you understand and be understood in virtually any "
@@ -989,17 +1012,17 @@ msgid ""
 " – with the world’s languages at your fingertips.  **Requires internet"
 msgstr "Con este programa puedes entender y ser entendido en casi cualquier idioma con tan solo un clic. El programa requiere una conexión al Internet, pero es bella y muy fácil de usar. Accede a más información, y hasta a nuevas amistades al poder comunicarte en cualquier idioma del mundo.   **Requiere internet"
 
-#: content/Default/apps/content.json.h:142
+#: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "Travel"
 msgstr "¡Explora!"
 
-#: content/Default/apps/content.json.h:143
+#: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "Travel around the world from your living room"
 msgstr "Explora los lugares más populares del mundo"
 
-#: content/Default/apps/content.json.h:144
+#: content/Default/apps/content.json.h:147
 msgctxt "description"
 msgid ""
 "The world is an amazing and beautiful place! Start exploring it with this "
@@ -1010,17 +1033,17 @@ msgid ""
 "sites in the world!"
 msgstr "¡El mundo es un lugar bello y extraordinario! Comienza a explorarlo con este programa que te permite ver fotos y aprender acerca de lugares y monumentos de todas partes del mundo. Contiene información acerca de los mayores atractivos en las Américas, Europa, Asia y más. ¡Conoce las maravillas naturales, explora nuevas culturas y descubre algunos de los sitios más importantes del mundo!"
 
-#: content/Default/apps/content.json.h:145
+#: content/Default/apps/content.json.h:148
 msgctxt "title"
 msgid "VideoNet"
 msgstr "VideoNet"
 
-#: content/Default/apps/content.json.h:146
+#: content/Default/apps/content.json.h:149
 msgctxt "subtitle"
 msgid "Discover and share great videos online"
 msgstr "Explora vídeos y comparte los tuyos en línea"
 
-#: content/Default/apps/content.json.h:147
+#: content/Default/apps/content.json.h:150
 msgctxt "description"
 msgid ""
 "This app makes finding videos on the popular video site, YouTube, and "
@@ -1031,17 +1054,17 @@ msgid ""
 "family, and the world!  ** Requires internet"
 msgstr "Buscar videos en la página web popular, YouTube, y compartirlos con familia y amigos ahora es más fácil que nunca. Ve videos de tus artistas favoritos, cursos para aprender casi cualquier cosa, chistes, animales lindos y mucho más. ¡Te divertirás por horas y podrás compartir todo lo que encuentres con tus amigos, familia y el mundo entero!  **Requiere internet"
 
-#: content/Default/apps/content.json.h:148
+#: content/Default/apps/content.json.h:151
 msgctxt "title"
 msgid "Sanitation"
 msgstr "Saneamiento"
 
-#: content/Default/apps/content.json.h:149
+#: content/Default/apps/content.json.h:152
 msgctxt "subtitle"
 msgid "All about clean water and sanitation"
 msgstr "Sobre el agua potable y el saneamiento"
 
-#: content/Default/apps/content.json.h:150
+#: content/Default/apps/content.json.h:153
 msgctxt "description"
 msgid ""
 "Drinking clean water is essential for survival. There can often be terrible "
@@ -1050,17 +1073,17 @@ msgid ""
 "that you create a sanitary environment around you where you can thrive. "
 msgstr "Beber agua limpia es esencial para la supervivencia. A menudo hay terribles enfermedades que te pueden infectar a través de agua en mal estado, o por tener mal saneamiento a tu alrededor. Aprende cómo asegurarte de beber agua limpia, y cómo asegurarte de que se crea un ambiente limpio a tu alrededor donde se pueda prosperar."
 
-#: content/Default/apps/content.json.h:151
+#: content/Default/apps/content.json.h:154
 msgctxt "title"
 msgid "Weather"
 msgstr "El tiempo"
 
-#: content/Default/apps/content.json.h:152
+#: content/Default/apps/content.json.h:155
 msgctxt "subtitle"
 msgid "Get daily local forecasts from trusted sources"
 msgstr "Pronósticos locales de fuentes confiables"
 
-#: content/Default/apps/content.json.h:153
+#: content/Default/apps/content.json.h:156
 msgctxt "description"
 msgid ""
 "“How’s the weather out there?” Answer this question easily, every day, with "
@@ -1070,17 +1093,17 @@ msgid ""
 "about the weather to take advantage of your day!  **Requires internet"
 msgstr "¿Cómo está el tiempo? Responde a esta pregunta fácilmente, todos los días, con un solo clic. Este sencillo programa te permite ver lo que está pasando justo afuera de tu casa. ¿Hará frío? ¿Debes prepararte para la lluvia? ¿Es un día perfecto para pasarlo al aire libre? ¡Infórmate sobre todo lo que necesitas saber acerca del clima para aprovechar tu día!  **Requiere internet"
 
-#: content/Default/apps/content.json.h:154
+#: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "World Literature"
 msgstr "Literatura"
 
-#: content/Default/apps/content.json.h:155
+#: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "Read all of the world's great literature"
 msgstr "Lee toda la gran literatura del mundo"
 
-#: content/Default/apps/content.json.h:156
+#: content/Default/apps/content.json.h:159
 msgctxt "description"
 msgid ""
 "Find some of your favorite books in this app! To begin browsing, open the "
@@ -1092,17 +1115,17 @@ msgid ""
 "entertained for hours expanding your literary knowledge."
 msgstr "¡Encuentra algunos de tus libros favoritos en este programa! Para comenzar tu búsqueda, abre la carpeta, haz clic en el archivo 'Index', y selecciona el género que más te interese. Encontrarás algunos de los libros más famosos del mundo, incluyendo maravillas modernas que seguramente te interesarán. Esta biblioteca virtual tiene una colección estupenda de novelas, poemas, biografías, cuentos y otros textos. De seguro encontrarás tu libro favorito o descubrirás uno nuevo que te gustará. Te entretendrás durante horas y expandirás profundamente tu conocimiento literario."
 
-#: content/Default/apps/content.json.h:157
+#: content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Slingshot"
 msgstr "Slingshot"
 
-#: content/Default/apps/content.json.h:158
+#: content/Default/apps/content.json.h:161
 msgctxt "subtitle"
 msgid "A shooting strategy game set in space"
 msgstr "Un juego de tiro y estrategia en el espacio"
 
-#: content/Default/apps/content.json.h:159
+#: content/Default/apps/content.json.h:162
 msgctxt "description"
 msgid ""
 "Gravity is your best friend in this fun shooting game set in outer space. "
@@ -1111,17 +1134,17 @@ msgid ""
 "in this fun and addictive game!"
 msgstr "¡La gravedad es tu mejor amigo en este juego divertido en el espacio exterior! Utiliza a la gravedad de diferentes planetas para tu ventaja, y usa a tu resortera confiable para destruir a las naves de tus enemigos. ¡No hay dos rondas iguales en este juego divertido y adictivo!"
 
-#: content/Default/apps/content.json.h:160
+#: content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Skype"
 msgstr "Skype"
 
-#: content/Default/apps/content.json.h:161
+#: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "Free internet calls with cheap rates to phones"
 msgstr "Haz llamadas gratuitas por internet"
 
-#: content/Default/apps/content.json.h:162
+#: content/Default/apps/content.json.h:165
 msgctxt "description"
 msgid ""
 "Skype makes staying in touch incredibly easy and fun! If you have a webcam "
@@ -1130,17 +1153,17 @@ msgid ""
 "you can stay in touch with people anywhere in world!  **Requires Internet"
 msgstr "¡Skype te ayuda a mantenerte en contacto con quien quieras! Si tienes una cámara web y un micrófono, puedes hacer llamadas de video o de voz a cualquier persona en el mundo que tenga Skype, por gratis. Ahora podrás mantenerte en contacto con todos tus seres queridos, o hasta hacer nuevos amigos en otros lugares, con solo el uso de la Internet, Skype, y un micrófono!  **Requiere Internet."
 
-#: content/Default/apps/content.json.h:163
+#: content/Default/apps/content.json.h:166
 msgctxt "title"
 msgid "Spotify"
 msgstr "Spotify"
 
-#: content/Default/apps/content.json.h:164
+#: content/Default/apps/content.json.h:167
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
 msgstr "Escucha música con Spotify"
 
-#: content/Default/apps/content.json.h:165
+#: content/Default/apps/content.json.h:168
 msgctxt "description"
 msgid ""
 "Access all of your favorite music, discover new songs, and share music "
@@ -1152,17 +1175,17 @@ msgid ""
 "**Requires internet"
 msgstr "Accede toda tu música favorita, descubre nuevas canciones y comparte música en línea con tus amigos, todo en un solo lugar. Crea listas de reproducción compartidas o comparte canciones individuales con tus amigos en Facebook con sólo un clic. Sigue a tus artistas favoritos o a tus amigos para ver cuáles canciones están escuchando, y luego guarda cualquier canción que te guste en tus propias listas. Spotify es la mejor manera de tener acceso a millones de canciones (y a los éxitos más recientes), ¡y es gratis! **Requiere internet"
 
-#: content/Default/apps/content.json.h:166
+#: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Steam"
 msgstr "Steam"
 
-#: content/Default/apps/content.json.h:167
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Online store with popular video games"
 msgstr "Tienda en línea con video juegos populares"
 
-#: content/Default/apps/content.json.h:168
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "If you like playing video games, you're going to have a great time exploring"
@@ -1177,17 +1200,17 @@ msgid ""
 "Requires internet"
 msgstr "¡Si te gusta jugar videojuegos, te vas a divertir explorando todos los juegos en la tienda Steam! Podrás comprar muchos juegos populares, y hay algunos juegos, como Team Fortress 2, que encontrarás que son gratis. No todos los juegos de Linux son compatibles con Endless, así que trata de limitar los resultados por el sistema operativo Linux / SteamOS cuando estés buscando juegos en la tienda, y revisa los requisitos del sistema antes de comprar cualquier juego. Tendrás que aceptar las políticas de la tienda de Steam, incluyendo su política de reembolso, si deseas hacer una compra. Endless no es parte de Steam y no podemos reembolsar las compras que realices a través de Steam o ser considerados responsables por cualquier problema con los juegos de Steam.  ** Requiere internet"
 
-#: content/Default/apps/content.json.h:169
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Teeworlds"
 msgstr "Teeworlds"
 
-#: content/Default/apps/content.json.h:170
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
 msgstr "Un juego multijugador de guerra y batallas"
 
-#: content/Default/apps/content.json.h:171
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Shoot your way to victory in death matches and more! This game has an old-"
@@ -1199,17 +1222,17 @@ msgid ""
 "and go!"
 msgstr "¡Dispara y elimina a tus enemigos para ganar en este juego intenso de multijugador! Tiene un aspecto de un juego retro y clásico - pero no dejes que esto te engañe. Además de ser muy entretenido y divertido, puedes jugar con hasta 16 participantes para aumentar la emoción. Puedes escoger entre varios juegos para competir contra tus oponentes. Intenta sobrevivir y vencer a cada uno de tus oponentes en las diferentes pistas. En este juego hasta podrás crear tus propias pistas y campos. ¡Mucho entretenimiento te espera con este programa!"
 
-#: content/Default/apps/content.json.h:172
+#: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Billiards"
 msgstr "Billar"
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
 msgstr "Practica tus habilidades con este juego de billar en 3D"
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:177
 msgctxt "description"
 msgid ""
 "Do you love playing billiards, or have you ever wanted to learn how to play?"
@@ -1219,17 +1242,17 @@ msgid ""
 "your game."
 msgstr "¿Te gusta jugar al billar, o tal vez has querido aprender como jugarlo? Con este programa puedes jugar al billar y a otros juegos parecidos desde tu casa por completamente gratis. Este programa es muy realista y sencilla para aprender a jugar, para practicar estrategias o simplemente para divertirte por un rato."
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "E-mail"
 msgstr "E-mail"
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Your e-mail, address book and calendar in one place"
 msgstr "Tu e-mail, contactos y calendario todo en un lugar"
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid ""
 "Staying in touch is an important part of modern life, and email has become "
@@ -1240,17 +1263,17 @@ msgid ""
 "  **Requires internet"
 msgstr "Mantenerte en contacto es una parte importante de la vida moderna, y el correo electrónico es una de las mejores formas de hacerlo. Puedes recibir correo electrónico de amigos y familiares de cualquier lugar del mundo, tener acceso a mensajes que contengan noticias e incluso manejar asuntos importantes de trabajo todo por correo electrónico. Cuando necesites revisar tu correo electrónico rápido y fácilmente, este programa estará disponible.  **Requiere internet"
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Calculator"
 msgstr "Calculadora"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "A scientific calculator with many bonus tools"
 msgstr "Una calculadora científica con muchas funciones"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:183
 msgctxt "description"
 msgid ""
 "Do you ever consider how often you need to do basic or even complex math in "
@@ -1262,17 +1285,17 @@ msgid ""
 " again as long as you have this calculator app!"
 msgstr "¿Te has puesto a pensar con qué frecuencia necesitas usar matemáticas básicas o complejas en la vida diaria? Desde calcular un presupuesto o convertir medidas en una receta hasta lidiar con los impuestos, probablemente usas las ecuaciones más veces de las que imaginas. Es por eso que este programa es muy útil. Haz una aritmética simple rápidamente o deja que la calculadora haga trabajo más avanzado, dependiendo de tus necesidades. ¡Nunca volverás a tener dificultades para hacer tareas matemáticas cuando tengas este programa de calculadora abierta!"
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Settings"
 msgstr "Configuraciones"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Easily change your computer's settings"
 msgstr "Configura tu computadora fácilmente"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:186
 msgctxt "description"
 msgid ""
 "If you find yourself constantly wanting to change your computer's settings, "
@@ -1282,12 +1305,12 @@ msgid ""
 " ever with this cool shortcut!"
 msgstr "Si tienes ganas de cambiar las configuraciones de tu computadora, ahora tendrás estos ajustes a solo un clic de distancia. Podrás cambiar la imagen de fondo de tu escritorio, cambiar el brillo de la pantalla si se está haciendo tarde, o si quieres hacer algo como agregar una nueva impresora, ¡será más fácil que nunca!"
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "GT Curriculum"
 msgstr "Currículo"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:189
 msgctxt "description"
 msgid ""
 "Use this app to find the basic curriculum plan and guidelines for a specific"
@@ -1298,29 +1321,6 @@ msgid ""
 "to learn about a variety of other important subjects that can make a big "
 "difference both your child's life and your own."
 msgstr "El Ministerio de Educación de Guatemala ha hecho disponible este recurso valioso para que puedas encontrar el currículo básico de cualquier grado, así como hojas de trabajo que pueden ayudar a tus niños a aprender temas difíciles. Lee los manuales para aprender cómo se estructura la educación primaria y secundaria. Aprende cómo ayudar a los niños a crecer de forma saludable. Instrúyete acerca de una variedad de otros temas importantes que pueden hacer una gran diferencia en la vida de tus hijos y en la tuya."
-
-#: content/Default/apps/content.json.h:187
-msgctxt "title"
-msgid "EduCollections"
-msgstr "EduColecciones"
-
-#: content/Default/apps/content.json.h:188
-msgctxt "subtitle"
-msgid "All sorts of information to help better your life"
-msgstr "Todo tipo de información a tu dispocisión con un clic"
-
-#: content/Default/apps/content.json.h:189
-msgctxt "description"
-msgid ""
-"This app is full of reliable information sent directly from the Guatemalan "
-"government to help you live a healthier and more prosperous life. Find "
-"information about cultivating different kinds of crops, tips for mothers "
-"before and after pregnancy, tools for teachers preparing a curriculum, "
-"worksheets for students who want to supplement their classroom learning, "
-"texts to teach the Mayan language, and many great information. This source "
-"of knowledge is ready at your disposal, and can be a useful tool no matter "
-"your age."
-msgstr "Este programa está lleno de información recolectada por el gobierno de Guatemala para ayudarte a vivir una vida más sana y próspera. Encontrarás información sobre el cultivo de diferentes tipos de plantas, consejos para las madres antes y después del embarazo, herramientas útiles para la preparación de un plan de estudio, hojas de trabajo para los estudiantes, textos que enseñan la lengua maya y mucha más información. Esta fuente de conocimiento está disponible para cuando la necesites."
 
 #: content/Default/apps/content.json.h:190
 msgctxt "title"
@@ -3094,15 +3094,33 @@ msgstr "¡Ahora preservar tus fotos y documentos importantes es más fácil que 
 
 #: content/Default/apps/content.json.h:448
 msgctxt "title"
+msgid "Remote Desktop"
+msgstr "Escritorio remoto"
+
+#: content/Default/apps/content.json.h:449
+msgctxt "subtitle"
+msgid "Manage your desktop from afar"
+msgstr "Administra tu computadora desde lejos"
+
+#: content/Default/apps/content.json.h:450
+msgctxt "description"
+msgid ""
+"Now you can manage your own computer, or a family member's, without being in"
+" front of it. This is great for people who want to help someone troubleshoot"
+" their computer from afar, or manage their computer from another computer."
+msgstr "Ahora puedes administrar tu propia computadora o la de un miembro de tu familia aunque no estés frente a ella. Esto es ideal para los que quieren solucionar problemas técnicos desde lejos, o acceder archivos de una computadora para usar en otra aunque no estén en el mismo lugar."
+
+#: content/Default/apps/content.json.h:451
+msgctxt "title"
 msgid "Help Center"
 msgstr "Centro de Ayuda"
 
-#: content/Default/apps/content.json.h:449
+#: content/Default/apps/content.json.h:452
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Aprende a usar Endless"
 
-#: content/Default/apps/content.json.h:450
+#: content/Default/apps/content.json.h:453
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"

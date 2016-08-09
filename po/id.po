@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2016-08-02 03:13+0000\n"
-"PO-Revision-Date: 2016-08-03 06:04+0000\n"
+"POT-Creation-Date: 2016-08-09 02:26+0000\n"
+"PO-Revision-Date: 2016-08-09 05:41+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -323,15 +323,38 @@ msgstr "Tidak ada yang tidak bisa Anda lakukan. Dengan panduan ini, rumah Anda b
 
 #: content/Default/apps/content.json.h:49
 msgctxt "title"
+msgid "EduCollections"
+msgstr "KoleksiEdu"
+
+#: content/Default/apps/content.json.h:50
+msgctxt "subtitle"
+msgid "All sorts of information to help better your life"
+msgstr "Segala jenis informasi untuk hidup Anda yang lebih baik"
+
+#: content/Default/apps/content.json.h:51
+msgctxt "description"
+msgid ""
+"This app is full of reliable information sent directly from the Guatemalan "
+"government to help you live a healthier and more prosperous life. Find "
+"information about cultivating different kinds of crops, tips for mothers "
+"before and after pregnancy, tools for teachers preparing a curriculum, "
+"worksheets for students who want to supplement their classroom learning, "
+"texts to teach the Mayan language, and many great information. This source "
+"of knowledge is ready at your disposal, and can be a useful tool no matter "
+"your age."
+msgstr "Aplikasi ini penuh informasi tepercaya yang dikirim langsung dari pemerintah Guatemala untuk membantu Anda hidup lebih sehat dan lebih sejahtera. Temukan informasi tentang budidaya berbagai jenis tanaman, kiat untuk ibu sebelum dan sesudah kehamilan, sarana bagi guru mempersiapkan kurikulum, lembar kerja bagi siswa yang ingin melengkapi pembelajaran di kelas, teks untuk mengajar bahasa Maya, dan masih banyak informasi hebat lainnya. Inilah sumber pengetahuan yang bisa digunakan kapan saja, dan dapat menjadi alat bermanfaat, berapa pun usia Anda."
+
+#: content/Default/apps/content.json.h:52
+msgctxt "title"
 msgid "Encyclopedia"
 msgstr "Ensiklopedia"
 
-#: content/Default/apps/content.json.h:50
+#: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "The free encyclopedia that anyone can contribute to"
 msgstr "Ensiklopedia bebas di mana semua orang dapat berkontribusi"
 
-#: content/Default/apps/content.json.h:51
+#: content/Default/apps/content.json.h:54
 msgctxt "description"
 msgid ""
 "Whether you’re online or offline, you want access to the world’s biggest "
@@ -342,17 +365,17 @@ msgid ""
 "access to the Internet's greatest informational resource - and all for free!"
 msgstr "Anda ingin mengakses ensiklopedia terbesar di dunia baik secara online atau offline - Wikipedia. Aplikasi ini merupakan sumber informasi tak ternilai bagi siswa, guru, dan semua orang yang ingin mempelajari lebih jauh tentang dunia di sekitar mereka. Gunakan aplikasi ini guna melakukan penelitian hal-hal untuk tugas sekolah, temukan tentang acara di dunia, dan masih banyak lagi. Anda akan mempelajari lebih dari yang mungkin pernah dibayangkan beserta akses ke sumber informasi terbagus di Internet - dan semuanya gratis!"
 
-#: content/Default/apps/content.json.h:52
+#: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Entrepreneurship"
 msgstr "Kewirausahaan"
 
-#: content/Default/apps/content.json.h:53
+#: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
 msgid "Business advice for your inner entrepreneur"
 msgstr "Nasihat bisnis untuk jiwa entrepreneur Anda"
 
-#: content/Default/apps/content.json.h:54
+#: content/Default/apps/content.json.h:57
 msgctxt "description"
 msgid ""
 "Interested in new ventures? Want to launch your own business? This app will "
@@ -362,17 +385,17 @@ msgid ""
 " into reality."
 msgstr "Tertarik dengan usaha baru? Ingin memulai bisnis sendiri? Aplikasi ini akan membantu Anda belajar tentang rencana dan pembiayaan bisnis. Temukan juga ide-ide enterpreneur yang berkembang, tren pasar, dan praktik terbaik untuk meningkatkan operasi. Pelajari semua materi yang ada dan wujudkan ide-ide bisnis Anda."
 
-#: content/Default/apps/content.json.h:55
+#: content/Default/apps/content.json.h:58
 msgctxt "title"
 msgid "Farming"
 msgstr "Bertani"
 
-#: content/Default/apps/content.json.h:56
+#: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Learn about crops and raising animals"
 msgstr "Belajar cara memanen dan membesarkan hewan"
 
-#: content/Default/apps/content.json.h:57
+#: content/Default/apps/content.json.h:60
 msgctxt "description"
 msgid ""
 "Farming is both an ancient tradition and a modern, bustling industry. Our "
@@ -384,17 +407,17 @@ msgid ""
 "this industry. You’ll learn so much about crops, livestock, and more!"
 msgstr "Bertani adalah sebuah tradisi kuno dan juga industri modern yang ramai. Persediaan pangan dunia bisa ada berkat kerja keras para petani di seluruh dunia. Belajar tentang sektor ekonomi ini bisa menjadi pengalaman yang menarik dan berguna, terutama jika Anda tertarik untuk menyediakan makanan bagi diri Anda dan komunitas Anda. Aplikasi ini meliputi informasi seputar teknik bertani dan perlengkapannya, macam-macam tipe agrikultur, dan karier dalam industri ini. Anda akan mempelajari banyak hal tentang tanaman, hewan ternak, dan banyak lagi!"
 
-#: content/Default/apps/content.json.h:58
+#: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "My Budget"
 msgstr "Anggaran Saya"
 
-#: content/Default/apps/content.json.h:59
+#: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
 msgid "Learn how to create your own budget and save"
 msgstr "Belajar cara menyusun anggaran keuangan Anda dan berhemat"
 
-#: content/Default/apps/content.json.h:60
+#: content/Default/apps/content.json.h:63
 msgctxt "description"
 msgid ""
 "It can be challenging to keep track of your own or your family’s finances, "
@@ -405,17 +428,17 @@ msgid ""
 "benefit from an organized, clear, and carefully managed financial plan."
 msgstr "Melacak keuangan Anda atau keluarga Anda dapat menjadi hal yang menantang, tetapi juga sangat penting. Aplikasi ini menyediakan sumber daya yang Anda butuhkan untuk menjaga anggaran dan memahami bagaimana Anda membelanjakan uang Anda. Pola-pola yang mudah membuat penganggaran lebih mudah, dan kiat-kiat tentang pengelolaan uang serta belanja secara bijaksana akan membantu Anda membuat pilihan yang baik dalam menggunakan dana Anda. Anda dan keluarga Anda akan mendapatkan manfaat dari rencana keuangan yang terorganisir, jelas, dan dikelola dengan saksama."
 
-#: content/Default/apps/content.json.h:61
+#: content/Default/apps/content.json.h:64
 msgctxt "title"
 msgid "Fitness"
 msgstr "Kebugaran"
 
-#: content/Default/apps/content.json.h:62
+#: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
 msgid "Tips for excercise and healthy living"
 msgstr "Kiat olahraga dan hidup sehat"
 
-#: content/Default/apps/content.json.h:63
+#: content/Default/apps/content.json.h:66
 msgctxt "description"
 msgid ""
 "We all want to look and feel our best. With this app, you’ll learn how to "
@@ -425,17 +448,17 @@ msgid ""
 "guidance on how to live a healthy lifestyle."
 msgstr "Kita semua ingin terlihat dan merasa dalam kondisi yang terbaik. Dengan aplikasi ini, Anda akan belajar cara berolahraga dengan aman dan efektif. Dengan berbagai jenis latihan dan rutin, serta informasi tentang bagaimana membuat Anda tetap aman dan mencegah cedera, Anda akan berolahraga dengan benar dalam waktu singkat. Aplikasi ini bahkan memiliki fitur panduan tentang bagaimana menjalani gaya hidup sehat."
 
-#: content/Default/apps/content.json.h:64
+#: content/Default/apps/content.json.h:67
 msgctxt "title"
 msgid "Geography"
 msgstr "Geografi"
 
-#: content/Default/apps/content.json.h:65
+#: content/Default/apps/content.json.h:68
 msgctxt "subtitle"
 msgid "Learn about all the countries in the world"
 msgstr "Belajar tentang seluruh negara di dunia"
 
-#: content/Default/apps/content.json.h:66
+#: content/Default/apps/content.json.h:69
 msgctxt "description"
 msgid ""
 "The world is an amazing place, and with this app, you’ll learn all about it!"
@@ -446,17 +469,17 @@ msgid ""
 "this handy app!"
 msgstr "Dunia merupakan tempat yang menakjubkan, dan dengan aplikasi ini Anda akan mempelajari semua tentang hal itu! Menampilkan informasi setiap negara di dunia, sumber informasi komprehensif ini mencakup kota-kota utama dunia, wilayah, ciri alamiah, dan lainnya. Mendekati negara asal, Anda akan menemukan informasi rinci tentang negara Anda, dari kota besar dan kecil hingga sungai dan pegunungannya. Jelajahi keajaiban di sekitar Anda dengan aplikasi praktis ini!"
 
-#: content/Default/apps/content.json.h:67
+#: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: content/Default/apps/content.json.h:68
+#: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
 msgid "Learn more about this beautiful country"
 msgstr "Ketahui lebih banyak mengenai negara yang indah ini"
 
-#: content/Default/apps/content.json.h:69
+#: content/Default/apps/content.json.h:72
 msgctxt "description"
 msgid ""
 "Guatemala has an ancient and fascinating history, but it’s also a modern, "
@@ -466,18 +489,18 @@ msgid ""
 "you can share it with friends and family alike!"
 msgstr "Guatemala memiliki sejarah yang kuno dan menakjubkan, tetapi juga merupakan negara yang modern dan ramai dengan bermacam-macam atraksi, acara kebudayaan, dan pusat populasi yang penting. Telusuri artikel-artikel yang menampilkan gaya hidup, seni, geografi, dan kebudayaan Guatemala. Anda akan menambah wawasan Anda mengenai Guatemala sehingga Anda dapat membagikannya dengan teman-teman dan keluarga!"
 
-#: content/Default/apps/content.json.h:70
+#: content/Default/apps/content.json.h:73
 msgctxt "title"
 msgid "Curriculum"
 msgstr "Kurikulum"
 
-#: content/Default/apps/content.json.h:71
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:74
+#: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "From the Guatemalan Ministry of Education"
 msgstr "Dari Kementerian Pendidikan Guatemala"
 
-#: content/Default/apps/content.json.h:72
+#: content/Default/apps/content.json.h:75
 msgctxt "description"
 msgid ""
 "Here you will find the core curriculum and guidelines for a specific grade, "
@@ -490,17 +513,17 @@ msgid ""
 "own!"
 msgstr "Di sini Anda akan menemukan kurikulum utama dan panduan untuk kelas tertentu, serta menemukan buku pelajaran dan lembar kerja yang dapat membimbing Anda dalam bermacam-macam subjek. Guru dan orang tua dapat membaca materi untuk mengetahui bagaimana sebaiknya menyusun struktur pendidikan anak dan subjek-subjek penting yang harus dipelajari di sekolah. Murid-murid dapat menemukan buku pelajaran yang berguna yang dapat membantu mereka untuk memahami dengan lebih baik apa yang mereka pelajari di kelas. Aplikasi ini berguna baik bagi murid maupun guru, dan dapat membawa perubahan besar bagi kehidupan Anda dan anak Anda!"
 
-#: content/Default/apps/content.json.h:73
+#: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "Handicrafts"
 msgstr "Kriya Tangan"
 
-#: content/Default/apps/content.json.h:74
+#: content/Default/apps/content.json.h:77
 msgctxt "subtitle"
 msgid "Learn how to make the most beautiful handicrafts"
 msgstr "Pelajari cara membuat kerajinan tangan yang paling indah"
 
-#: content/Default/apps/content.json.h:75
+#: content/Default/apps/content.json.h:78
 msgctxt "description"
 msgid ""
 "With these guides and your creativity you will soon be making the most "
@@ -510,17 +533,17 @@ msgid ""
 " started on a new creative project!"
 msgstr "Dengan panduan-panduan ini serta menggunakan kreativitas, Anda akan dapat membuat kriya tangan yang indah! Pelajari pertukangan kayu, cara membuat perhiasan, cara menenun kain, dan masih banyak lagi. Anda bahkan dapat belajar cara mendaur ulang bahan-bahan di sekitar rumah Anda untuk mengubahnya menjadi kerajinan yang baru dan mengagumkan. Gunakan aplikasi ini untuk memulai sebuah proyek kreatif baru!"
 
-#: content/Default/apps/content.json.h:76
+#: content/Default/apps/content.json.h:79
 msgctxt "title"
 msgid "Health"
 msgstr "Kesehatan"
 
-#: content/Default/apps/content.json.h:77
+#: content/Default/apps/content.json.h:80
 msgctxt "subtitle"
 msgid "Keep yourself and loved ones healthy"
 msgstr "Jaga kesehatan Anda dan mereka yang Anda sayangi"
 
-#: content/Default/apps/content.json.h:78
+#: content/Default/apps/content.json.h:81
 msgctxt "description"
 msgid ""
 "Without your health, you can't have anything else. Learn all about various "
@@ -529,17 +552,17 @@ msgid ""
 "help you save your own life or the life of someone you love!"
 msgstr "Tanpa kesehatan Anda, Anda tidak akan mendapatkan apa pun yang lainnya. Ketahui semua tentang bermacam-macam penyakit, obat-obatan, dan kiat-kiat untuk tetap sehat dengan membaca beberapa artikel dalam aplikasi ini. Anda tidak pernah tahu - beberapa informasi di sini mungkin dapat membantu Anda menyelamatkan nyawa Anda atau seseorang yang Anda cintai!"
 
-#: content/Default/apps/content.json.h:79
+#: content/Default/apps/content.json.h:82
 msgctxt "title"
 msgid "Healthy Living"
 msgstr "Hidup Sehat"
 
-#: content/Default/apps/content.json.h:80
+#: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
 msgid "Discover what it takes to stay healthy"
 msgstr "Temukan apa yang diperlukan agar tetap sehat"
 
-#: content/Default/apps/content.json.h:81
+#: content/Default/apps/content.json.h:84
 msgctxt "description"
 msgid ""
 "How can you adopt a healthy lifestlye? There is much you can do for yourself"
@@ -548,17 +571,17 @@ msgid ""
 " healthier living!"
 msgstr "Bagaimana cara menerapkan gaya hidup sehat? Ada banyak hal yang dapat dilakukan untuk Anda sendiri dan keluarga. Aplikasi ini memberi akses ke rutinitas kebugaran, resep sehat, fakta gizi, dan dokter di sekitar. Mulailah sekarang dan raihlah kehidupan yang lebih sehat!"
 
-#: content/Default/apps/content.json.h:82
+#: content/Default/apps/content.json.h:85
 msgctxt "title"
 msgid "Healthy Teeth"
 msgstr "Gigi Sehat"
 
-#: content/Default/apps/content.json.h:83
+#: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
 msgid "Learn to take care of your teeth"
 msgstr "Belajar cara merawat gigi"
 
-#: content/Default/apps/content.json.h:84
+#: content/Default/apps/content.json.h:87
 msgctxt "description"
 msgid ""
 "Have you ever had a toothache? Learn how to help make it feel better. Want "
@@ -569,17 +592,17 @@ msgid ""
 "teeth healthy and looking great!"
 msgstr "Anda pernah merasakan sakit gigi? Pelajari cara membantu menjadikannya terasa lebih baik. Ingin menjaga gigi tetap indah dan putih? Baiklah, cobalah beberapa kiat ini. Entah untuk mempelajari tentang penyakit mulut dan cara mencegahnya, atau hanya memastikan untuk mempertahankan senyum indah itu, Anda akan menemukan banyak sekali informasi bermanfaat di aplikasi ini. Unduh sekarang serta pelajari semuanya tentang cara menjaga kesehatan mulut serta gigi dan terlihat indah!"
 
-#: content/Default/apps/content.json.h:85
+#: content/Default/apps/content.json.h:88
 msgctxt "title"
 msgid "History"
 msgstr "Sejarah"
 
-#: content/Default/apps/content.json.h:86
+#: content/Default/apps/content.json.h:89
 msgctxt "subtitle"
 msgid "Learn about the world's events and civilizations"
 msgstr "Pelajari kejadian-kejadian dan peradaban di dunia"
 
-#: content/Default/apps/content.json.h:87
+#: content/Default/apps/content.json.h:90
 msgctxt "description"
 msgid ""
 "How much do you know about the fall of the Roman Empire? What about the Silk"
@@ -589,17 +612,17 @@ msgid ""
 "learn about the cultures that came before us."
 msgstr "Berapa banyakkah yang Anda ketahui mengenai keruntuhan Kekaisaran Romawi? Bagaimana dengan Jalur Sutra? Siapa yang tinggal di Amerika di zaman dahulu kala dan apa yang terjadi kepada mereka? Apa yang menyebabkan pecahnya Perang Dunia I? Unduh aplikasi ini dan jawab setiap pertanyaan yang Anda miliki tentang berbagai peristiwa dan tokoh yang telah membentuk dunia modern kita saat ini, dan cari tahu tentang budaya-budaya yang ada sebelum kita."
 
-#: content/Default/apps/content.json.h:88
+#: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "How To"
 msgstr "Cara"
 
-#: content/Default/apps/content.json.h:89
+#: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
 msgid "How-to do just about anything by yourself"
 msgstr "Bagaimana cara melakukan hampir segala hal sendiri"
 
-#: content/Default/apps/content.json.h:90
+#: content/Default/apps/content.json.h:93
 msgctxt "description"
 msgid ""
 "Are you interested in learning more about taking care of yourself or about "
@@ -612,17 +635,17 @@ msgid ""
 "won’t know how you managed before!"
 msgstr "Apakah Anda berminat mengetahui lebih banyak tentang cara merawat diri atau memperbaiki sendiri barang-barang di rumah Anda? Apakah Anda tertarik untuk mengecat ulang perabotan, menghilangkan noda membandel, menanam kebun sayur yang sehat, atau belajar yoga dan olahraga lainnya sendiri? Apa pun yang ingin Anda pelajari, ini adalah aplikasi yang Anda butuhkan. Mulai dari kerajinan tangan sampai perbaikan rumah, bahkan bantuan untuk diri sendiri, Anda akan menemukan hampir setiap topik yang dapat Anda bayangkan di sini. Artikel-artikel yang tersedia mudah diakses dan dipahami. Dalam waktu singkat, Anda pasti akan bertanya-tanya bagaimana Anda selama ini hidup tanpa aplikasi ini!"
 
-#: content/Default/apps/content.json.h:91
+#: content/Default/apps/content.json.h:94
 msgctxt "title"
 msgid "Maternity"
 msgstr "Bersalin"
 
-#: content/Default/apps/content.json.h:92
+#: content/Default/apps/content.json.h:95
 msgctxt "subtitle"
 msgid "Valuable information for new mothers"
 msgstr "Informasi yang berguna bagi para ibu baru"
 
-#: content/Default/apps/content.json.h:93
+#: content/Default/apps/content.json.h:96
 msgctxt "description"
 msgid ""
 "Having a baby is one of the most magical experiences in the world, but it "
@@ -635,17 +658,17 @@ msgid ""
 "information here that can help!"
 msgstr "Punya bayi adalah salah satu pengalaman yang paling ajaib di dunia, tetapi juga bisa sangat merisaukan jika Anda tidak bisa menghubungi dokter atau jika Anda seorang ibu baru dan tidak tahu harus melakukan apa. Pelajari tanda-tanda yang bisa membahayakan sehingga dapat dihindari, juga tentang hal-hal yang harus dilalui saat Anda hamil untuk memastikan kelahiran yang sehat. Jika Anda akan melahirkan anak pertama (atau anak kesepuluh), atau jika Anda seorang bidan yang akan membantu wanita melahirkan, informasi relevan di sini akan membantu Anda!"
 
-#: content/Default/apps/content.json.h:94
+#: content/Default/apps/content.json.h:97
 msgctxt "title"
 msgid "Math"
 msgstr "Matematika"
 
-#: content/Default/apps/content.json.h:95
+#: content/Default/apps/content.json.h:98
 msgctxt "subtitle"
 msgid "High school math made simple and accessible"
 msgstr "Matematika SMA dijelaskan dengan cara yang sederhana dan mudah dilakukan"
 
-#: content/Default/apps/content.json.h:96
+#: content/Default/apps/content.json.h:99
 msgctxt "description"
 msgid ""
 "Studying high school math doesn’t have to be confusing or dull. This simple "
@@ -656,17 +679,17 @@ msgid ""
 " your learning and expand your mind!"
 msgstr "Belajar matematika waktu SMA tidak harus membingungkan atau membosankan. Aplikasi matematika sederhana ini akan membantu Anda menguasai mata-mata pelajaran seperti aljabar, geometri, trigonometri, kalkulus, dan statistik. Perkuat kemampuan penalaran matematika Anda dan dapatkan pemahaman yang lebih dalam mengenai konsep matematika apa pun yang Anda rasa sulit. Dengan informasi mengenai beberapa topik dalam satu tempat, Anda dapat mengembangkan pembelajaran Anda dan memperluas pikiran Anda!"
 
-#: content/Default/apps/content.json.h:97
+#: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Mayan Languages"
 msgstr "Bahasa Maya"
 
-#: content/Default/apps/content.json.h:98
+#: content/Default/apps/content.json.h:101
 msgctxt "subtitle"
 msgid "Stories and dictionaries in Mayan languages"
 msgstr "Kisah-kisah dan kamus dalam bahasa Maya"
 
-#: content/Default/apps/content.json.h:99
+#: content/Default/apps/content.json.h:102
 msgctxt "description"
 msgid ""
 "Have you ever wanted to study and learn a Mayan language? Whether you're a "
@@ -676,17 +699,17 @@ msgid ""
 "history and stories you'll find here!"
 msgstr "Pernahkan Anda ingin meneliti dan mempelajari bahasa Maya? Apakah Anda seorang pemula atau berada di tingkat yang lebih lanjut, aplikasi ini berisi sumber yang sangat bagus. Di sini Anda dapat menemukan sumber cerita, kamus, dan tata bahasa dalam berbagai bahasa Maya. Bersiaplah berinteraksi sepenuhnya dengan budaya Maya melalui semua sejarah dan cerita yang akan Anda temukan di sini!"
 
-#: content/Default/apps/content.json.h:100
+#: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Mental Health"
 msgstr "Kesehatan Mental"
 
-#: content/Default/apps/content.json.h:101
+#: content/Default/apps/content.json.h:104
 msgctxt "subtitle"
 msgid "Tips and tricks for living a healthier, happier life"
 msgstr "Tips dan trik untuk hidup yang lebih sehat dan lebih bahagia"
 
-#: content/Default/apps/content.json.h:102
+#: content/Default/apps/content.json.h:105
 msgctxt "description"
 msgid ""
 "Have you ever wanted to be more confident? Feel less stressed? Be more "
@@ -695,19 +718,19 @@ msgid ""
 "you can better your life."
 msgstr "Pernahkah Anda ingin menjadi lebih percaya diri? Lebih sedikit stres? Menjadi lebih efisien dan produktif? Sekarang adalah kesempatan Anda! Gunakan aplikasi ini untuk belajar kiat-kiat dan trik untuk perbaikan diri. Bacalah untuk mengetahui bagaimana pikiran Anda bekerja dan bagaimana Anda dapat menjadikan hidup Anda lebih baik."
 
-#: content/Default/apps/content.json.h:103
+#: content/Default/apps/content.json.h:106
 msgctxt "title"
 msgid "Mexico"
 msgstr "Meksiko"
 
-#: content/Default/apps/content.json.h:104
+#: content/Default/apps/content.json.h:107
 msgctxt "subtitle"
 msgid ""
 "Learn about the country you call home and impress family and friends with "
 "the facts you know"
 msgstr "Belajar tentang negara impian Anda, dan membuat keluarga dan teman-teman Anda terkesan dengan fakta-fakta yang Anda kuasai"
 
-#: content/Default/apps/content.json.h:105
+#: content/Default/apps/content.json.h:108
 msgctxt "description"
 msgid ""
 "Want to learn more about the nation you call home? Mexico is a beautiful "
@@ -718,17 +741,17 @@ msgid ""
 "friends, family, and visitors."
 msgstr "Ingin mempelajari tentang bangsa yang Anda sebut sebagai rumah? Meksiko merupakan negara yang indah dengan warisan budaya yang kaya, makanan lezat, olahraga menarik, acara budaya yang menarik, lokasi yang indah, dan masih banyak lagi. Jelajahi artikel yang memamerkan bidang kehidupan, seni, geaografi, dan budaya Meksiko ini. Anda akan memperdalam pengetahuan tentang bangsa dan dapat membagikan yang Anda pelajari dengan teman, keluarga dan pengunjung."
 
-#: content/Default/apps/content.json.h:106
+#: content/Default/apps/content.json.h:109
 msgctxt "title"
 msgid "Microenterprises"
 msgstr "Microenterprises"
 
-#: content/Default/apps/content.json.h:107
+#: content/Default/apps/content.json.h:110
 msgctxt "subtitle"
 msgid "Learn to run your own company"
 msgstr "Pelajari cara menjalankan perusahaan Anda sendiri"
 
-#: content/Default/apps/content.json.h:108
+#: content/Default/apps/content.json.h:111
 msgctxt "description"
 msgid ""
 "Have you dreamed of starting your own company? Learn all about what it will "
@@ -739,17 +762,17 @@ msgid ""
 "into a world where you are your own boss!"
 msgstr "Apakah Anda bermimpi untuk membuat perusahaan Anda sendiri? Pelajari segala yang diperlukan untuk melakukannya! Sebagai pemilik usaha kecil, Anda akan belajar cara mengubah gagasan yang Anda punyai menjadi sesuatu yang menguntungkan, cara mengelola tim, cara menangani segala aspek administrasi - dan Anda akan menemukan sedikit tentang semua itu dalam aplikasi ini. Persiapkan diri Anda untuk memasuki dunia di mana Anda adalah boss bagi diri Anda sendiri!"
 
-#: content/Default/apps/content.json.h:109
+#: content/Default/apps/content.json.h:112
 msgctxt "title"
 msgid "Myths & Legends"
 msgstr "Mitos & Legenda"
 
-#: content/Default/apps/content.json.h:110
+#: content/Default/apps/content.json.h:113
 msgctxt "subtitle"
 msgid "Myths and legends from around the world"
 msgstr "Mitos dan legenda dari seluruh dunia"
 
-#: content/Default/apps/content.json.h:111
+#: content/Default/apps/content.json.h:114
 msgctxt "description"
 msgid ""
 "Do you like reading myths, legends and scary stories? This app has some from"
@@ -759,17 +782,17 @@ msgid ""
 "cultures of the past and present all over the world!"
 msgstr "Apakah Anda suka membaca tentang mitos, legenda, dan kisah-kisah seram? Aplikasi ini menyediakannya dari seluruh penjuru dunia! Mulai dari legenda Maya hingga mitos populer di Jepang, dan kisah-kisah seram, Anda pasti akan dapat menemukan sesuatu yang menarik. Bacalah segala hal tentang makhluk-makhluk, mitos, legenda, dan fabel yang telah membentuk budaya masa lalu dan masa kini di seluruh dunia!"
 
-#: content/Default/apps/content.json.h:112
+#: content/Default/apps/content.json.h:115
 msgctxt "title"
 msgid "Photo Editor"
 msgstr "Editor Foto"
 
-#: content/Default/apps/content.json.h:113
+#: content/Default/apps/content.json.h:116
 msgctxt "subtitle"
 msgid "Easily edit and share all of your favorite photos"
 msgstr "Mengedit dan membagikan semua foto favorit Anda secara mudah"
 
-#: content/Default/apps/content.json.h:114
+#: content/Default/apps/content.json.h:117
 msgctxt "description"
 msgid ""
 "Have you ever wanted to edit your own photos like the pros and create "
@@ -780,17 +803,17 @@ msgid ""
 "directly to Facebook, so everyone can see your awesome pictures!"
 msgstr "Pernahkah Anda berharap dapat menyunting foto-foto Anda layaknya seorang profesional dan menciptakan gambar-gambar indah yang bisa Anda bagikan dengan orang-orang yang Anda kasihi? Sekarang Anda bisa melakukannya hanya dalam beberapa langkah! Kami menyediakan bermacam-macam filter yang indah dan berseni agar Anda dapat menyunting foto Anda dan menciptakan sebuah karya seni yang memukau dari kehidupan sehari-hari Anda. Dengan aplikasi yang berguna ini, Anda dapat mengirimkan hasil kreasi Anda langsung ke Facebook agar semua orang bisa melihat gambar-gambar Anda yang mengagumkan!"
 
-#: content/Default/apps/content.json.h:115
+#: content/Default/apps/content.json.h:118
 msgctxt "title"
 msgid "Physics"
 msgstr "Fisika"
 
-#: content/Default/apps/content.json.h:116
+#: content/Default/apps/content.json.h:119
 msgctxt "subtitle"
 msgid "Learn about the physical world's mysteries"
 msgstr "Pelajari misteri dunia fisik"
 
-#: content/Default/apps/content.json.h:117
+#: content/Default/apps/content.json.h:120
 msgctxt "description"
 msgid ""
 "Do you find learning about physics to be difficult? You're not alone. "
@@ -803,17 +826,17 @@ msgid ""
 "the world around you, and succeed in your physics education."
 msgstr "Anda mengalami kesulitan mempelajari tentang fisika? Anda tidak sendirian. Fisika merupakan salah satu disiplin ilmu pengetahuan yang paling menarik dan menantang. Gunakan aplikasi ini untuk menemukan yang harus Anda pelajari secara tepat, dan mempermudah mempelajarinya. Apa pun tingkat pemahamannya, Anda akan menemukan informasi bermanfaat yang disajikan dengan format yang dapat Anda ikuti. Aplikasi ini menyertakan topik menarik seperti mekanika, termodinamika, kelistrikan dan kemagnetan. Dari atom hingga bintang. Anda akan mempelajari semua tentang dunia di sekitar Anda, dan berhasil dalam pendidikan fisika Anda."
 
-#: content/Default/apps/content.json.h:118
+#: content/Default/apps/content.json.h:121
 msgctxt "title"
 msgid "Prensa Libre"
 msgstr "Prensa Libre"
 
-#: content/Default/apps/content.json.h:119
+#: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
 msgid "All the news about Guatemala and the world"
 msgstr "Semua berita tentang Guatemala dan dunia"
 
-#: content/Default/apps/content.json.h:120
+#: content/Default/apps/content.json.h:123
 msgctxt "description"
 msgid ""
 "All the latest news and information on sports, culture and entertainment, "
@@ -824,17 +847,17 @@ msgid ""
 "convenience."
 msgstr "Semua berita dan informasi terkini tentang olahraga, budaya dan hiburan, politik, serta ekonomi dari Guatemala dan dunia, diproduksi oleh Prensa Libre. Anda akan memiliki akses ke ratusan artikel offline, dan saat Anda online, Anda akan menerima berita terkini yang ada. Artikel tetap tersimpan di komputer Anda agar dapat mengaksesnya nanti secara offline."
 
-#: content/Default/apps/content.json.h:121
+#: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Coding Fun"
 msgstr "Coding Fun"
 
-#: content/Default/apps/content.json.h:122
+#: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
 msgid "Learn to create your own video games"
 msgstr "Pelajari cara membuat permainan video Anda sendiri"
 
-#: content/Default/apps/content.json.h:123
+#: content/Default/apps/content.json.h:126
 msgctxt "description"
 msgid ""
 "Do you like playing video games? Then why not create your own? Learn "
@@ -846,17 +869,17 @@ msgid ""
 "your very own!"
 msgstr "Apakah Anda suka bermain video game? Kalau begitu, mengapa tidak membuat video game Anda sendiri? Pelajari kemampuan pemrograman dan pengodean yang berharga dengan aplikasi seru ini yang memungkinkan Anda untuk mengubah aturan main dalam video game dan menjadikannya ciptaan Anda sendiri! Lihat yang terjadi saat Anda mengubah baris kode dan maju melewati level demi level untuk terus belajar lebih banyak tentang kode. Anda akan segera mendapati bahwa dengan pemrograman Anda tidak hanya dapat mengubah dunia di dalam game Anda, tetapi juga dunia Anda sendiri!"
 
-#: content/Default/apps/content.json.h:124
+#: content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "Résumé"
 msgstr "Résumé"
 
-#: content/Default/apps/content.json.h:125
+#: content/Default/apps/content.json.h:128
 msgctxt "subtitle"
 msgid "Write a great resume and prepare for interviews"
 msgstr "Tulis resume yang bagus dan bersiaplah untuk wawancara"
 
-#: content/Default/apps/content.json.h:126
+#: content/Default/apps/content.json.h:129
 msgctxt "description"
 msgid ""
 "The best way to make a great impression on a potential employer is to have "
@@ -868,17 +891,17 @@ msgid ""
 "your choice."
 msgstr "Cara terbaik membuat kesan yang mendalam pada calon majikan adalah memiliki daftar riwayat hidup yang bagus, dan aplikasi ini berada di sini untuk membantu Anda melakukan hal tersebut. Dengan templat praktis yang menarik, Anda memiliki beragam model untuk digunakan saat menyusun daftar riwayat hidup penting Anda, dapatkan kiat pada setiap bagian, dan bahkan menerima panduan cara menyiapkan wawancara kerja. Aplikasi ini dapat membantu Anda semakin dekat dengan pekerjaan pilihan Anda."
 
-#: content/Default/apps/content.json.h:127
+#: content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "Football"
 msgstr "Sepakbola"
 
-#: content/Default/apps/content.json.h:128
+#: content/Default/apps/content.json.h:131
 msgctxt "subtitle"
 msgid "Learn about your favorite team and players"
 msgstr "Pelajari tim dan pemain favorit Anda"
 
-#: content/Default/apps/content.json.h:129
+#: content/Default/apps/content.json.h:132
 msgctxt "description"
 msgid ""
 "Football is a major sport with fans all around the world. Are you one of "
@@ -888,17 +911,17 @@ msgid ""
 " with thousands of articles about your favorite sport!"
 msgstr "Sepak bola adalah olahraga utama dengan penggemar yang berasal dari seluruh dunia. Apakah Anda adalah salah satunya? Kalau begitu, ini adalah aplikasi yang tepat untuk Anda. Aplikasi ini menyediakan segala yang perlu Anda ketahui tentang tim, pemain, dan kompetisi-kompetisi terbesar di dunia. Ketahui fakta-fakta menarik tentang pertandingan dan sejarahnya, cari tahu selengkapnya tentang aturan main, dan dapatkan berita-berita terbaru dengan ribuan artikel seputar olahraga favorit Anda!"
 
-#: content/Default/apps/content.json.h:130
+#: content/Default/apps/content.json.h:133
 msgctxt "title"
 msgid "Social Enterprises"
 msgstr "Perusahaan Sosial"
 
-#: content/Default/apps/content.json.h:131
+#: content/Default/apps/content.json.h:134
 msgctxt "subtitle"
 msgid "All about non-profit organizations"
 msgstr "Semua tentang LSM"
 
-#: content/Default/apps/content.json.h:132
+#: content/Default/apps/content.json.h:135
 msgctxt "description"
 msgid ""
 "Have you thought of starting your own non-profit organization, or of joining"
@@ -908,17 +931,17 @@ msgid ""
 "your impact in the world even larger!"
 msgstr "Apakah Anda pernah berpikir untuk membentuk organisasi nirlaba, atau bergabung ke organisasi semacam itu? Organisasi nirlaba mendapat keringanan pajak khusus, dan umumnya dibuat untuk menciptakan dampak sosial yang nyata. Bacalah pedoman-pedoman ini untuk lebih memahami struktur organisasi nirlaba dan cara menjalankannya sehingga Anda dapat mulai membuat dampak yang lebih luas di dunia!"
 
-#: content/Default/apps/content.json.h:133
+#: content/Default/apps/content.json.h:136
 msgctxt "title"
 msgid "Social Sciences"
 msgstr "Ilmu Sosial"
 
-#: content/Default/apps/content.json.h:134
+#: content/Default/apps/content.json.h:137
 msgctxt "subtitle"
 msgid "Subjects that explore the individual and society"
 msgstr "Subjek yang membahas tentang individu dan masyarakat"
 
-#: content/Default/apps/content.json.h:135
+#: content/Default/apps/content.json.h:138
 msgctxt "description"
 msgid ""
 "Human beings and the relationships and societies they form are complicated. "
@@ -930,17 +953,17 @@ msgid ""
 "understanding of human behavior."
 msgstr "Manusia dan hubungan serta peradaban yang mereka bangun amatlah kompleks. Aplikasi ini akan memperkenalkan kepada Anda bermacam-macam disiplin ilmu yang mengkaji sejarah manusia, budaya, dan interaksinya. Anda akan memperoleh akses ke dasar-dasar ilmu psikologi, sosiologi, antropologi, sains politik, dan banyak lagi. Memahami dasar dari disiplin ilmu ini akan membantu Anda menguasai cara berinteraksi dan membangun hubungan dengan orang lain. Anda akan mendapatkan pemahaman yang mendalam mengenai perilaku manusia."
 
-#: content/Default/apps/content.json.h:136
+#: content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Textbooks"
 msgstr "Buku-buku teks"
 
-#: content/Default/apps/content.json.h:137
+#: content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid "Math and science textbooks"
 msgstr "Buku pelajaran matematika dan sains"
 
-#: content/Default/apps/content.json.h:138
+#: content/Default/apps/content.json.h:141
 msgctxt "description"
 msgid ""
 "Find information to help you with your homework, or learn about a subject "
@@ -951,17 +974,17 @@ msgid ""
 "you'll be sure to find something interesting and useful here!"
 msgstr "Temukan informasi untuk membantu pekerjaan rumah Anda atau mempelajari hal yang selalu ingin Anda ketahui lebih jauh! Anda dapat menelusuri foto, tabel, dan grafik untuk mempelajari selengkapnya tentang masing-masing hal tersebut. Buku teks ini tidak hanya  sangat detail dan informatif, namun juga mudah dibaca dan bermanfaat. Entah Anda seorang pelajar, orang tua, guru atau hanya seseorang yang bersemangat untuk belajar, Anda pasti akan menemukan sesuatu yang menarik dan bermanfaat di sini!  "
 
-#: content/Default/apps/content.json.h:139
+#: content/Default/apps/content.json.h:142
 msgctxt "title"
 msgid "Translate"
 msgstr "Terjemahkan"
 
-#: content/Default/apps/content.json.h:140
+#: content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid "Translate text between many languages instantly"
 msgstr "Terjemahkan teks dari bermacam-macam bahasa dalam sekejap"
 
-#: content/Default/apps/content.json.h:141
+#: content/Default/apps/content.json.h:144
 msgctxt "description"
 msgid ""
 "Download this app to help you understand and be understood in virtually any "
@@ -972,17 +995,17 @@ msgid ""
 " – with the world’s languages at your fingertips.  **Requires internet"
 msgstr "Unduh aplikasi ini untuk memahami hampir semua bahasa asing. Aplikasi yang mudah digunakan ini perlu koneksi internet. Anda dapat membuat terjemahan hanya dengan sekali klik tombol! Pelajari bahasa baru dengan menerjemahkan apa pun yang Anda tulis, atau gunakan untuk menjalin pertemanan internasional (dan juga teman-teman baru). Bahasa-bahasa dunia kini ada di ujung jarimu. ** Memerlukan internet"
 
-#: content/Default/apps/content.json.h:142
+#: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "Travel"
 msgstr "Perjalanan"
 
-#: content/Default/apps/content.json.h:143
+#: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "Travel around the world from your living room"
 msgstr "Keliling dunia dari ruang tamu"
 
-#: content/Default/apps/content.json.h:144
+#: content/Default/apps/content.json.h:147
 msgctxt "description"
 msgid ""
 "The world is an amazing and beautiful place! Start exploring it with this "
@@ -993,17 +1016,17 @@ msgid ""
 "sites in the world!"
 msgstr "Dunia merupakan tempat yang menakjubkan dan indah! Mulailah menjelajahinya dengan aplikasi keren ini yang memungkinkan Anda melihat gambar dan mempelajari fakta tentang daerah-daerah dari seluruh dunia. Aplikasi ini menampilkan lokasi utama di beberapa tempat seperti Amerika, Eropa, Asia dan seterusnya. Pelajari tentang keajaiban alam, jelajahi budaya baru, dan temukan beberapa lokasi terpenting dan situs keagamaan yang suci di dunia!"
 
-#: content/Default/apps/content.json.h:145
+#: content/Default/apps/content.json.h:148
 msgctxt "title"
 msgid "VideoNet"
 msgstr "VideoNet"
 
-#: content/Default/apps/content.json.h:146
+#: content/Default/apps/content.json.h:149
 msgctxt "subtitle"
 msgid "Discover and share great videos online"
 msgstr "Temukan dan bagikan video online yang bagus"
 
-#: content/Default/apps/content.json.h:147
+#: content/Default/apps/content.json.h:150
 msgctxt "description"
 msgid ""
 "This app makes finding videos on the popular video site, YouTube, and "
@@ -1014,17 +1037,17 @@ msgid ""
 "family, and the world!  ** Requires internet"
 msgstr "Aplikasi ini secara indah memudahkan pencarian video di situs video populer, YouTube, serta membagikan video yang Anda buat! Tonton video dari seniman musik favorit Anda, tutorial yang mengajarkan cara melakukan hampir segalanya, video lucu atau imut, dan masih banyak lagi. Anda akan merasakan kesenangan berjam-jam, dan akan dapat berbagi semua hal keren yang Anda temukan atau buat kepada teman-teman, keluarga, dan dunia! ** Membutuhkan internet"
 
-#: content/Default/apps/content.json.h:148
+#: content/Default/apps/content.json.h:151
 msgctxt "title"
 msgid "Sanitation"
 msgstr "Sanitasi"
 
-#: content/Default/apps/content.json.h:149
+#: content/Default/apps/content.json.h:152
 msgctxt "subtitle"
 msgid "All about clean water and sanitation"
 msgstr "Semua tentang air dan sanitasi"
 
-#: content/Default/apps/content.json.h:150
+#: content/Default/apps/content.json.h:153
 msgctxt "description"
 msgid ""
 "Drinking clean water is essential for survival. There can often be terrible "
@@ -1033,17 +1056,17 @@ msgid ""
 "that you create a sanitary environment around you where you can thrive. "
 msgstr "Minum air bersih sangat penting demi kelangsungan hidup. Banyak penyakit mengerikan yang dapat menginfeksi melalui air atau sanitasi yang buruk di sekitar Anda. Pelajari cara untuk memastikan Anda minum air yang bersih, dan cara menciptakan sanitasi lingkungan di sekitar Anda untuk hidup sehat."
 
-#: content/Default/apps/content.json.h:151
+#: content/Default/apps/content.json.h:154
 msgctxt "title"
 msgid "Weather"
 msgstr "Cuaca"
 
-#: content/Default/apps/content.json.h:152
+#: content/Default/apps/content.json.h:155
 msgctxt "subtitle"
 msgid "Get daily local forecasts from trusted sources"
 msgstr "Dapatkan prakiraan harian dari sumber-sumber tepercaya"
 
-#: content/Default/apps/content.json.h:153
+#: content/Default/apps/content.json.h:156
 msgctxt "description"
 msgid ""
 "“How’s the weather out there?” Answer this question easily, every day, with "
@@ -1053,17 +1076,17 @@ msgid ""
 "about the weather to take advantage of your day!  **Requires internet"
 msgstr "\"Bagaimana cuacanya di luar sana?\" Jawab pertanyaan ini dengan mudah setiap hari dengan mengeklik sebuah tombol. Aplikasi cuaca sederhana ini memungkinkan Anda untuk melihat apa yang sedang terjadi di luar pintu Anda. Apakah cuacanya dingin? Apakah Anda harus bersiap-siap untuk hujan? Apakah ini hari yang baik untuk berjalan-jalan di luar? Cari tahu segala hal yang perlu Anda ketahui mengenai cuaca untuk memanfaatkan hari Anda dengan maksimal! **Membutuhkan koneksi internet"
 
-#: content/Default/apps/content.json.h:154
+#: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "World Literature"
 msgstr "Literatur Dunia"
 
-#: content/Default/apps/content.json.h:155
+#: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "Read all of the world's great literature"
 msgstr "Baca semua karya sastra terhebat di dunia"
 
-#: content/Default/apps/content.json.h:156
+#: content/Default/apps/content.json.h:159
 msgctxt "description"
 msgid ""
 "Find some of your favorite books in this app! To begin browsing, open the "
@@ -1075,17 +1098,17 @@ msgid ""
 "entertained for hours expanding your literary knowledge."
 msgstr "Temukan beberapa buku favorit Anda di aplikasi ini! Untuk mulai menelusuri, buka folder, klik file 'Index', dan pilih genre yang paling menarik bagi Anda. Anda akan menemukan beberapa buku yang paling terkenal yang pernah ditulis, termasuk keajaiban modern yang pasti sangat menarik bagi Anda. Perpustakaan virtual ini memiliki koleksi novel, puisi, biografi, cerita, dan teks lain yang menakjubkan. Anda akan terhibur saat memperluas pengetahuan sastra selama berjam-jam, entah ketika mencari buku favorit atau menemukan buku baru."
 
-#: content/Default/apps/content.json.h:157
+#: content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Slingshot"
 msgstr "Ketapel"
 
-#: content/Default/apps/content.json.h:158
+#: content/Default/apps/content.json.h:161
 msgctxt "subtitle"
 msgid "A shooting strategy game set in space"
 msgstr "Gim strategi tembak-menembak di luar angkasa"
 
-#: content/Default/apps/content.json.h:159
+#: content/Default/apps/content.json.h:162
 msgctxt "description"
 msgid ""
 "Gravity is your best friend in this fun shooting game set in outer space. "
@@ -1094,17 +1117,17 @@ msgid ""
 "in this fun and addictive game!"
 msgstr "Gravitasi adalah sahabat Anda dalam permainan menembak menyenangkan di luar angkasa ini. Manfaatkan gravitasi dari berbagai planet, dan gunakan ketapel andalan Anda untuk menghancurkan pesawat luar angkasa musuh. Tidak ada dua babak yang sama dalam permainan menyenangkan dan membuat kecanduan ini!"
 
-#: content/Default/apps/content.json.h:160
+#: content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Skype"
 msgstr "Skype"
 
-#: content/Default/apps/content.json.h:161
+#: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "Free internet calls with cheap rates to phones"
 msgstr "Panggilan internet gratis dengan tarif telepon murah "
 
-#: content/Default/apps/content.json.h:162
+#: content/Default/apps/content.json.h:165
 msgctxt "description"
 msgid ""
 "Skype makes staying in touch incredibly easy and fun! If you have a webcam "
@@ -1113,17 +1136,17 @@ msgid ""
 "you can stay in touch with people anywhere in world!  **Requires Internet"
 msgstr "Skype membuat komunikasi menjadi amat mudah dan menyenangkan! Cukup dengan sebuah webcam dan mikrofon, Anda sudah dapat melakukan panggilan video dan panggilan suara kepada siapapun di seluruh dunia yang juga memakai Skype. Aplikasi ini mudah digunakan dan Anda dapat berkomunikasi dengan orang-orang di manapun di dunia!  **Memerlukan Internet"
 
-#: content/Default/apps/content.json.h:163
+#: content/Default/apps/content.json.h:166
 msgctxt "title"
 msgid "Spotify"
 msgstr "Spotify"
 
-#: content/Default/apps/content.json.h:164
+#: content/Default/apps/content.json.h:167
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
 msgstr "Mendengarkan musik dengan Spotify"
 
-#: content/Default/apps/content.json.h:165
+#: content/Default/apps/content.json.h:168
 msgctxt "description"
 msgid ""
 "Access all of your favorite music, discover new songs, and share music "
@@ -1135,17 +1158,17 @@ msgid ""
 "**Requires internet"
 msgstr "Mengakses seluruh musik favorit Anda, menemukan lagu-lagu baru, dan berbagi musik daring bersama teman-teman - semua di satu tempat. Buat daftar-putar bersama atau berbagi lagu dengan teman-teman Facebook Anda dengan satu klik pada tombol. Ikuti artis atau teman favorit untuk mengetahui apa yang mereka dengar, dan simpan lagu-lagu tersebut ke daftar-putar Anda. Spotify adalah cara terbaik untuk mengakses jutaan lagu, dan semua hit terkini.  **Memerlukan internet"
 
-#: content/Default/apps/content.json.h:166
+#: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Steam"
 msgstr "Uap"
 
-#: content/Default/apps/content.json.h:167
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Online store with popular video games"
 msgstr "Toko online dengan video game populer"
 
-#: content/Default/apps/content.json.h:168
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "If you like playing video games, you're going to have a great time exploring"
@@ -1160,17 +1183,17 @@ msgid ""
 "Requires internet"
 msgstr " Jika Anda suka bermain gim video, Anda punya banyak waktu menjelajahi toko Steam daring dari Valve! memang banyak gim yang harus dibeli daring, tetapi gim-gim populer seperti Team Fortress 2 gratis untuk dimainkan. Saat mencari di toko, persempit hasilnya menurut sistem operasi Linux/SteamOS. Tidak semua gim Linux kompatibel dengan Endless, jadi periksalah persyaratan sistem sebelum membeli gim apa pun. Jika Anda memutuskan membeli gim, Anda harus menyetujui kebijakan Steam, termasuk kebijakan pengembalian dana mereka. Endless bersifat terpisah dari Steam dan tidak bisa mengembalikan uang gim yang Anda beli, atau bertanggung jawab untuk setiap pembelian melalui Steam. **Membutuhkan internet"
 
-#: content/Default/apps/content.json.h:169
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Teeworlds"
 msgstr "Teeworlds"
 
-#: content/Default/apps/content.json.h:170
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
 msgstr "Permainan menembak multipemain yang menarik"
 
-#: content/Default/apps/content.json.h:171
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Shoot your way to victory in death matches and more! This game has an old-"
@@ -1182,17 +1205,17 @@ msgid ""
 "and go!"
 msgstr "Menangkan pertandingan sampai mati dan masih banyak lainnya lagi melalui tembakan! Permainan ini memiliki nuansa jadul dan merupakan permainan tembak-menembak yang menarik dengan banyak pemain hingga 16 pemain pada waktu yang bersamaan. Mainkan Kuasai Bendera atau Pertandingan Tim Sampai Mati di mana Anda harus mencoba untuk bertahan di arena yang mematikan sementara menyingkirkan lawan-lawan Anda. Permainan ini dikemas dengan fitur-fitur keren seperti kemampuan untuk membuat peta Anda sendiri! Banyak kesenangan berdarah yang menanti Anda, jadi ambil senjata virtual Anda dan mulailah!"
 
-#: content/Default/apps/content.json.h:172
+#: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Billiards"
 msgstr "Biliar"
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
 msgstr "Gim biliar 3D seru"
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:177
 msgctxt "description"
 msgid ""
 "Do you love playing billiards, or have you ever wanted to learn how to play?"
@@ -1202,17 +1225,17 @@ msgid ""
 "your game."
 msgstr "Apakah Anda suka bermain biliar, atau pernah ingin belajar cara memainkannya? Permainan ini membuat Anda memiliki pengalaman bermain biliar dan permainan yang serupa langsung di rumah Anda. Sederhana untuk dipelajari dan digunakan, namun amat realistis. Aplikasi ini alat yang hebat untuk bermain dan bersenang-senang sekaligus meningkatkan kemampuan Anda bermain."
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "E-mail"
 msgstr "Surel"
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Your e-mail, address book and calendar in one place"
 msgstr "Surel, buku alamat dan kalender di satu tempat"
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid ""
 "Staying in touch is an important part of modern life, and email has become "
@@ -1223,17 +1246,17 @@ msgid ""
 "  **Requires internet"
 msgstr "Menjalin hubungan adalah bagian yang penting dari kehidupan modern, dan surel telah menjadi salah satu cara terbaik untuk melakukannya. Anda pasti menerima surel dari teman-teman atau keluarga, baik jauh atau dekat, mengakses pesan humor harian, kosakata baru, berita, bahkan hal-hal penting. Semua ini dilakukan dari surel. Untuk cara cepat dan simpel untuk memeriksa surel, gunakan aplikasi ini.  **Membutuhkan internet"
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Calculator"
 msgstr "Calculator"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "A scientific calculator with many bonus tools"
 msgstr "Kalkulator ilmiah dengan bonus berbagai alat"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:183
 msgctxt "description"
 msgid ""
 "Do you ever consider how often you need to do basic or even complex math in "
@@ -1245,17 +1268,17 @@ msgid ""
 " again as long as you have this calculator app!"
 msgstr "Pernahkah Anda memikirkan betapa seringnya Anda perlu melakukan perhitungan matematika dasar atau bahkan yang rumit dalam kehidupan sehari-hari? Dari menghitung anggaran hingga mengonversi ukuran untuk mencari tahu jumlah pajak, Anda mungkin menggunakan persamaan matematika lebih sering dari yang Anda bayangkan. Itu sebabnya aplikasi kalkulator ini bisa jadi sangat berguna untuk Anda. Lakukan perhitungan aritmetika sederhana dengan cepat, atau biarkan kalkulator ini mengerjakan perhitungan yang lebih rumit, tergantung kepada kebutuhan Anda. Anda tidak akan kesulitan lagi dalam menghadapi soal-soal matematika selama Anda memiliki aplikasi kalkulator ini!"
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Settings"
 msgstr "Pengaturan"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Easily change your computer's settings"
 msgstr "Mengubah pengaturan komputer Anda secara mudah"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:186
 msgctxt "description"
 msgid ""
 "If you find yourself constantly wanting to change your computer's settings, "
@@ -1265,12 +1288,12 @@ msgid ""
 " ever with this cool shortcut!"
 msgstr "Jika Anda terus-menerus ingin mengubah pengaturan komputer Anda, sekarang Anda bisa melakukannya dengan satu klik! Entah Anda ingin mengubah gambar latar desktop, mengubah kecerahan layar jika sudah malam, atau jika Anda ingin melakukan sesuatu seperti menambahkan printer baru, hal-hal itu akan menjadi lebih mudah dari sebelumnya dengan pintasan keren ini!"
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "GT Curriculum"
 msgstr "Kurikulum GT"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:189
 msgctxt "description"
 msgid ""
 "Use this app to find the basic curriculum plan and guidelines for a specific"
@@ -1281,29 +1304,6 @@ msgid ""
 "to learn about a variety of other important subjects that can make a big "
 "difference both your child's life and your own."
 msgstr "Gunakan aplikasi ini untuk menemukan rancangan kurikulum dasar dan garis panduan untuk tingkatan kelas tertentu, atau gunakan untuk menemukan lembar kerja yang dapat membantu anak Anda mempelajari mata pelajaran yang sulit. Departemen Pendidikan telah mengumpulkan sumber daya yang berharga ini untuk Anda gunakan. Bacalah panduannya untuk mengetahui bagaimana struktur pendidikan anak disusun, cara membantu anak tumbuh sehat, serta bermacam-macam topik penting lainnya yang dapat membawa perubahan besar bagi kehidupan Anda dan anak Anda."
-
-#: content/Default/apps/content.json.h:187
-msgctxt "title"
-msgid "EduCollections"
-msgstr "KoleksiEdu"
-
-#: content/Default/apps/content.json.h:188
-msgctxt "subtitle"
-msgid "All sorts of information to help better your life"
-msgstr "Segala jenis informasi untuk hidup Anda yang lebih baik"
-
-#: content/Default/apps/content.json.h:189
-msgctxt "description"
-msgid ""
-"This app is full of reliable information sent directly from the Guatemalan "
-"government to help you live a healthier and more prosperous life. Find "
-"information about cultivating different kinds of crops, tips for mothers "
-"before and after pregnancy, tools for teachers preparing a curriculum, "
-"worksheets for students who want to supplement their classroom learning, "
-"texts to teach the Mayan language, and many great information. This source "
-"of knowledge is ready at your disposal, and can be a useful tool no matter "
-"your age."
-msgstr "Aplikasi ini penuh informasi tepercaya yang dikirim langsung dari pemerintah Guatemala untuk membantu Anda hidup lebih sehat dan lebih sejahtera. Temukan informasi tentang budidaya berbagai jenis tanaman, kiat untuk ibu sebelum dan sesudah kehamilan, sarana bagi guru mempersiapkan kurikulum, lembar kerja bagi siswa yang ingin melengkapi pembelajaran di kelas, teks untuk mengajar bahasa Maya, dan masih banyak informasi hebat lainnya. Inilah sumber pengetahuan yang bisa digunakan kapan saja, dan dapat menjadi alat bermanfaat, berapa pun usia Anda."
 
 #: content/Default/apps/content.json.h:190
 msgctxt "title"
@@ -3077,15 +3077,33 @@ msgstr "Merawat foto dan dokumen-dokumen penting Anda dengan membuat salinan dig
 
 #: content/Default/apps/content.json.h:448
 msgctxt "title"
+msgid "Remote Desktop"
+msgstr "Desktop Jarak Jauh"
+
+#: content/Default/apps/content.json.h:449
+msgctxt "subtitle"
+msgid "Manage your desktop from afar"
+msgstr "Kelola desktop Anda dari jauh"
+
+#: content/Default/apps/content.json.h:450
+msgctxt "description"
+msgid ""
+"Now you can manage your own computer, or a family member's, without being in"
+" front of it. This is great for people who want to help someone troubleshoot"
+" their computer from afar, or manage their computer from another computer."
+msgstr "Sekarang Anda dapat mengelola komputer Anda sendiri, atau komputer anggota keluarga, tanpa harus duduk di depannya. Ini amat bermanfaat bagi orang yang ingin membantu orang lain menyelesaikan masalah komputer mereka dari jarak jauh, atau mengelola komputer mereka dari komputer lain."
+
+#: content/Default/apps/content.json.h:451
+msgctxt "title"
 msgid "Help Center"
 msgstr "Pusat Bantuan"
 
-#: content/Default/apps/content.json.h:449
+#: content/Default/apps/content.json.h:452
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Belajar cara menggunakan Endless"
 
-#: content/Default/apps/content.json.h:450
+#: content/Default/apps/content.json.h:453
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
