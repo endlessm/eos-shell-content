@@ -346,6 +346,62 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.chinese_curriculum_english",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.chinese_curriculum_english-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.chinese_curriculum_english",
+    "featured_img": "",
+    "icon": "com.endlessm.chinese_curriculum_english-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "China"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.chinese_curriculum_english-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_english-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_english-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.chinese_curriculum_english-thumb.png",
+    "subtitle": "Placeholder",
+    "title": "Chinese Curriculum English",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.chinese_curriculum_math",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.chinese_curriculum_math-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.chinese_curriculum_math",
+    "featured_img": "",
+    "icon": "com.endlessm.chinese_curriculum_math-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "China"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.chinese_curriculum_math-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_math-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_math-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.chinese_curriculum_math-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Chinese Curriculum Math",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.cooking",
     "category": "Resources",
     "core": false,
@@ -624,6 +680,33 @@
     "square_img": "com.endlessm.entrepreneurship-thumb.jpg",
     "subtitle": "Business advice for your inner entrepreneur",
     "title": "Entrepreneurship",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.extra",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.extra-splash.png",
+    "description": "All the news about Brasil and the world",
+    "displayShape": "b1",
+    "exec": "eos-extra",
+    "featured_img": "",
+    "icon": "com.endlessm.extra-icon.png",
+    "is_featured": true,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.extra-screenshot1.jpg",
+        "com.endlessm.extra-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.extra-thumb.jpg",
+    "subtitle": "All the news about Brasil and the world",
+    "title": "Extra",
     "tryexec": ""
   },
   {
@@ -1050,6 +1133,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.library",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.library-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.library",
+    "featured_img": "",
+    "icon": "com.endlessm.library-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "pt": [
+        "com.endlessm.library-screenshot1.jpg",
+        "com.endlessm.library-screenshot2.jpg",
+        "com.endlessm.library-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.library-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Library",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.maternity",
     "category": "Resources",
     "core": false,
@@ -1424,6 +1535,44 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.programming_guide",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.programming_guide-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.programming_guide",
+    "featured_img": "",
+    "icon": "com.endlessm.programming_guide-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.programming_guide-screenshot1.jpg",
+        "com.endlessm.programming_guide-screenshot2.jpg",
+        "com.endlessm.programming_guide-screenshot3.jpg"
+      ],
+      "es": [
+        "com.endlessm.programming_guide-screenshot1.jpg",
+        "com.endlessm.programming_guide-screenshot2.jpg",
+        "com.endlessm.programming_guide-screenshot3.jpg"
+      ],
+      "pt": [
+        "com.endlessm.programming_guide-screenshot1.jpg",
+        "com.endlessm.programming_guide-screenshot2.jpg",
+        "com.endlessm.programming_guide-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.programming_guide-thumb.png",
+    "subtitle": "Placeholder",
+    "title": "Programming",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.resume",
     "category": "Resources",
     "core": false,
@@ -1459,6 +1608,202 @@
     "square_img": "com.endlessm.resume-thumb.jpg",
     "subtitle": "Write a great resume and prepare for interviews",
     "title": "R\u00e9sum\u00e9",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_1",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_1-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_1",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_1-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_1-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 1",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_2",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_2-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_2",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_2-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_2-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 2",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_3",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_3-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_3",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_3-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_3-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 3",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_4",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_4-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_4",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_4-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_4-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 4",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_5",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_5-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_5",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_5-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_5-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 5",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_grade_6",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_6-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_grade_6",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_grade_6-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_grade_6-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Grade 6",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.salvadoran_curriculum_social_studies",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.salvadoran_curriculum_social_studies-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.salvadoran_curriculum_social_studies",
+    "featured_img": "",
+    "icon": "com.endlessm.salvadoran_curriculum_social_studies-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.salvadoran_curriculum_social_studies-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Salvadoran Curriculum Social Studies",
     "tryexec": ""
   },
   {
@@ -1811,6 +2156,34 @@
     "square_img": "com.endlessm.world_literature-thumb.jpg",
     "subtitle": "Read all of the world's great literature",
     "title": "World Literature",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.your_health",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.your_health-splash.jpg",
+    "description": "Placeholder",
+    "displayShape": "b1",
+    "exec": "com.endlessm.your_health",
+    "featured_img": "",
+    "icon": "com.endlessm.your_health-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "pt": [
+        "com.endlessm.your_health-screenshot1.jpg",
+        "com.endlessm.your_health-screenshot2.jpg",
+        "com.endlessm.your_health-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.your_health-thumb.jpg",
+    "subtitle": "Placeholder",
+    "title": "Your Health",
     "tryexec": ""
   },
   {
