@@ -350,7 +350,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.chinese_curriculum_english-splash.jpg",
-    "description": "Placeholder",
+    "description": "Practice your elementary English skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. There are also audio clips so you can improve your listening skills. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.chinese_curriculum_english",
     "featured_img": "",
@@ -365,12 +365,17 @@
         "com.endlessm.chinese_curriculum_english-screenshot1.jpg",
         "com.endlessm.chinese_curriculum_english-screenshot2.jpg",
         "com.endlessm.chinese_curriculum_english-screenshot3.jpg"
+      ],
+      "zh_CN": [
+        "com.endlessm.chinese_curriculum_english-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_english-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_english-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.chinese_curriculum_english-thumb.png",
-    "subtitle": "Placeholder",
-    "title": "Chinese Curriculum English",
+    "subtitle": "Primary English curriculum practice",
+    "title": "Learn English Curriculum",
     "tryexec": ""
   },
   {
@@ -378,7 +383,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.chinese_curriculum_math-splash.jpg",
-    "description": "Placeholder",
+    "description": "Practice your elementary math skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.chinese_curriculum_math",
     "featured_img": "",
@@ -393,12 +398,17 @@
         "com.endlessm.chinese_curriculum_math-screenshot1.jpg",
         "com.endlessm.chinese_curriculum_math-screenshot2.jpg",
         "com.endlessm.chinese_curriculum_math-screenshot3.jpg"
+      ],
+      "zh_CN": [
+        "com.endlessm.chinese_curriculum_math-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_math-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_math-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.chinese_curriculum_math-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Chinese Curriculum Math",
+    "subtitle": "Primary mathematics curriculum practice",
+    "title": "Math Curriculum",
     "tryexec": ""
   },
   {
@@ -418,6 +428,11 @@
     ],
     "screenshots": {
       "C": [
+        "com.endlessm.cooking-screenshot1.jpg",
+        "com.endlessm.cooking-screenshot2.jpg",
+        "com.endlessm.cooking-screenshot3.jpg"
+      ],
+      "ar": [
         "com.endlessm.cooking-screenshot1.jpg",
         "com.endlessm.cooking-screenshot2.jpg",
         "com.endlessm.cooking-screenshot3.jpg"
@@ -978,6 +993,11 @@
         "com.endlessm.health-screenshot2.jpg",
         "com.endlessm.health-screenshot3.jpg"
       ],
+      "ar": [
+        "com.endlessm.health-screenshot1.jpg",
+        "com.endlessm.health-screenshot2.jpg",
+        "com.endlessm.health-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.health-screenshot1.jpg",
         "com.endlessm.health-screenshot2.jpg",
@@ -1137,7 +1157,7 @@
     "category": "Resources",
     "core": false,
     "custom-splash-screen": "com.endlessm.library-splash.jpg",
-    "description": "Placeholder",
+    "description": "A complete library with the great classics of world literature. More than 70 digital books, with options for small children, youth, and adults. You will have fun with fantastic stories like Gulliver's Travels (Jonathan Swift) or Around the World in 80 Days (Jules Verne) and the great works of the Portuguese language's greatest writers, like Machado de Assis and Fernando Pessoa.",
     "displayShape": "b1",
     "exec": "com.endlessm.library",
     "featured_img": "",
@@ -1145,9 +1165,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Brazil"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.library-screenshot1.jpg",
+        "com.endlessm.library-screenshot2.jpg",
+        "com.endlessm.library-screenshot3.jpg"
+      ],
       "pt": [
         "com.endlessm.library-screenshot1.jpg",
         "com.endlessm.library-screenshot2.jpg",
@@ -1156,7 +1181,7 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.library-thumb.jpg",
-    "subtitle": "Placeholder",
+    "subtitle": "Literary classics for all ages",
     "title": "Library",
     "tryexec": ""
   },
@@ -1539,7 +1564,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.programming_guide-splash.jpg",
-    "description": "Placeholder",
+    "description": "Have you ever wanted to make websites or explore programming? With this app you can! Learn the basics of front-end web development with HTML, CSS, and Javascript.",
     "displayShape": "b1",
     "exec": "com.endlessm.programming_guide",
     "featured_img": "",
@@ -1568,7 +1593,7 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.programming_guide-thumb.png",
-    "subtitle": "Placeholder",
+    "subtitle": "Learn the basics of front-end web development with this app",
     "title": "Programming",
     "tryexec": ""
   },
@@ -1615,7 +1640,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_1-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_1",
     "featured_img": "",
@@ -1626,6 +1651,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_1-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_1-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_1-screenshot2.jpg",
@@ -1634,8 +1664,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_1-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 1",
+    "subtitle": "The official first grade curriculum of El Salvador",
+    "title": "First Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1643,7 +1673,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_2-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_2",
     "featured_img": "",
@@ -1654,6 +1684,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_2-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_2-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_2-screenshot2.jpg",
@@ -1662,8 +1697,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_2-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 2",
+    "subtitle": "The official second grade curriculum of El Salvador",
+    "title": "Second Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1671,7 +1706,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_3-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_3",
     "featured_img": "",
@@ -1682,6 +1717,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_3-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_3-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_3-screenshot2.jpg",
@@ -1690,8 +1730,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_3-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 3",
+    "subtitle": "The official third grade curriculum of El Salvador",
+    "title": "Third Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1699,7 +1739,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_4-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_4",
     "featured_img": "",
@@ -1710,6 +1750,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_4-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_4-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_4-screenshot2.jpg",
@@ -1718,8 +1763,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_4-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 4",
+    "subtitle": "The official fourth grade curriculum of El Salvador",
+    "title": "Fourth Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1727,7 +1772,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_5-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_5",
     "featured_img": "",
@@ -1738,6 +1783,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_5-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_5-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_5-screenshot2.jpg",
@@ -1746,8 +1796,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_5-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 5",
+    "subtitle": "The official fifth grade curriculum of El Salvador",
+    "title": "Fifth Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1755,7 +1805,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_grade_6-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Math; Language; Science, Health and the Environment; and Social Studies in this program. Each topic contains a textbook, a methodological guide and a workbook. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_grade_6",
     "featured_img": "",
@@ -1766,6 +1816,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_grade_6-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_grade_6-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_grade_6-screenshot2.jpg",
@@ -1774,8 +1829,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_grade_6-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Grade 6",
+    "subtitle": "The official sixth grade curriculum of El Salvador",
+    "title": "Sixth Grade - El Salvador",
     "tryexec": ""
   },
   {
@@ -1783,7 +1838,7 @@
     "category": "Education",
     "core": false,
     "custom-splash-screen": "com.endlessm.salvadoran_curriculum_social_studies-splash.jpg",
-    "description": "Placeholder",
+    "description": "Learn about Social Studies and Civics in this program. Each topic contains a textbook and a methodological guide. These resources have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for helping to guide your class throughout the school year.",
     "displayShape": "b1",
     "exec": "com.endlessm.salvadoran_curriculum_social_studies",
     "featured_img": "",
@@ -1794,6 +1849,11 @@
       "All"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot1.jpg",
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot2.jpg",
+        "com.endlessm.salvadoran_curriculum_social_studies-screenshot3.jpg"
+      ],
       "es": [
         "com.endlessm.salvadoran_curriculum_social_studies-screenshot1.jpg",
         "com.endlessm.salvadoran_curriculum_social_studies-screenshot2.jpg",
@@ -1802,8 +1862,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.salvadoran_curriculum_social_studies-thumb.jpg",
-    "subtitle": "Placeholder",
-    "title": "Salvadoran Curriculum Social Studies",
+    "subtitle": "The official Social Studies curriculum of El Salvador",
+    "title": "Social Studies - El Salvador",
     "tryexec": ""
   },
   {
@@ -2163,7 +2223,7 @@
     "category": "Resources",
     "core": false,
     "custom-splash-screen": "com.endlessm.your_health-splash.jpg",
-    "description": "Placeholder",
+    "description": "Health care for the whole family with information about disease prevention, nutrition, and well-being. This application also provides information about vaccination and how to use the services available in the Unified Health System. Content developed by the medical team at the sautil.com.br portal",
     "displayShape": "b1",
     "exec": "com.endlessm.your_health",
     "featured_img": "",
@@ -2171,9 +2231,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Brazil"
     ],
     "screenshots": {
+      "C": [
+        "com.endlessm.your_health-screenshot1.jpg",
+        "com.endlessm.your_health-screenshot2.jpg",
+        "com.endlessm.your_health-screenshot3.jpg"
+      ],
       "pt": [
         "com.endlessm.your_health-screenshot1.jpg",
         "com.endlessm.your_health-screenshot2.jpg",
@@ -2182,7 +2247,7 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.your_health-thumb.jpg",
-    "subtitle": "Placeholder",
+    "subtitle": "Health, nutrition, and well-being in one click",
     "title": "Your Health",
     "tryexec": ""
   },
