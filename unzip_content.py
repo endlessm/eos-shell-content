@@ -101,13 +101,13 @@ if __name__ == '__main__':
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
     # until the CMS is reworked
-    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN']
-    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China']
+    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN', 'ar']
+    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China', 'Arabic']
 
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
     # until the CMS is reworked
-    languages = [None, 'C', 'es', 'pt', 'zh_CN']
+    languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar']
 
     # Copy the app json to the content folder
     # with tweaks to the json content
