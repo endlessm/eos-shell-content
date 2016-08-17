@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Extra Newspaper
+Name[bn]=এক্সট্রা সংবাদপত্র
+Name[zh_CN]=报纸特刊
 Comment=News that affects your day to day
+Comment[bn]=সংবাদ যা আপনার প্রতিটি দিনকে প্রভাবিত করে
+Comment[zh_CN]=与您息息相关的新闻
 Type=Application
 Exec=eos-extra
 Icon=eos-app-com.endlessm.extra

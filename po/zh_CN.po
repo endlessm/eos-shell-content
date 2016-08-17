@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-08-10 10:50-0700\n"
-"PO-Revision-Date: 2016-08-16 02:45+0000\n"
+"PO-Revision-Date: 2016-08-16 02:57+0000\n"
 "Last-Translator: zhifeng peng <jnufeng@126.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -1022,7 +1022,7 @@ msgid ""
 "guide and a workbook. These resources have a ton of information and "
 "practices to help you study and succeed in school. If you're a teacher, this"
 " app is perfect for helping to guide your class throughout the school year."
-msgstr "在这个程序里学习数学、语言、科学、健康、环境、社会知识。每个题目下都有教材、方法指引和练习册。这些资源给你提供了大量信息和联系，助您取得学业的成功，而且对老师教学也很有帮助。"
+msgstr "在这个程序里学习数学、语言、科学、健康、环境、社会知识。每个题目下都有教材、方法指引和练习册。这些资源给你提供了大量信息和练习，助您取得学业的成功，而且对老师教学也很有帮助。"
 
 #: content/Default/apps/content.json.h:148
 msgctxt "title"
@@ -1082,7 +1082,7 @@ msgstr "社会科学 - 萨尔瓦多"
 #: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "The official Social Studies curriculum of El Salvador"
-msgstr ""
+msgstr "萨尔瓦多官方社会科学课程"
 
 #: content/Default/apps/content.json.h:165
 msgctxt "description"
@@ -1092,7 +1092,7 @@ msgid ""
 "information and practices to help you study and succeed in school. If you're"
 " a teacher, this app is perfect for helping to guide your class throughout "
 "the school year."
-msgstr ""
+msgstr "在这个程序里学习社会科学和公民知识。每个题目下都有教材、方法指引和练习册。这些资源给你提供了大量信息和练习，助您取得学业的成功，而且对老师教学也很有帮助。"
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -1304,12 +1304,12 @@ msgstr "在这个app里找您喜欢的书吧！开始浏览，打开文件夹，
 #: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "Your Health"
-msgstr ""
+msgstr "您的健康"
 
 #: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "Health, nutrition, and well-being in one click"
-msgstr ""
+msgstr "只需点击就可以了解健康和营养知识"
 
 #: content/Default/apps/content.json.h:198
 msgctxt "description"
@@ -1318,7 +1318,7 @@ msgid ""
 "nutrition, and well-being. This application also provides information about "
 "vaccination and how to use the services available in the Unified Health "
 "System. Content developed by the medical team at the sautil.com.br portal"
-msgstr ""
+msgstr "疾病预防、营养和健康学的知识，为您关爱家人健康。该应用还为您介绍了如何使用公共卫生系统可用服务以接种疫苗。内容由sautil.com.br portal医疗团队开发。"
 
 #: content/Default/apps/content.json.h:199
 msgctxt "title"
@@ -1361,12 +1361,12 @@ msgstr "Skype让联络变得十分方便、有趣!如果您有网络摄像头和
 #: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "音乐播放器"
 
 #: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
-msgstr ""
+msgstr "使用Spotify音乐播放器听音乐"
 
 #: content/Default/apps/content.json.h:207
 msgctxt "description"
@@ -1378,7 +1378,7 @@ msgid ""
 "listening to, and then save the songs to your own playlists. Spotify is the "
 "best way to have access to millions of songs, and all the latest hits.  "
 "**Requires internet"
-msgstr ""
+msgstr "访问您喜爱的音乐，发现新歌曲，在网上与您的朋友共享音乐，尽在此处。只需一点，即可与您的Facebook好友一起创建共享歌单或个人歌单，关注您喜爱的歌手或朋友，了解他们所听的歌曲，保存到您自己的播放列表里。Spotify音乐播放器是您聆听歌曲的最佳选择。**需要互联网"
 
 #: content/Default/apps/content.json.h:208
 msgctxt "title"
@@ -3300,12 +3300,12 @@ msgstr "有了这个App，对您的照片和重要文档进行数字拷贝变得
 #: content/Default/apps/content.json.h:487
 msgctxt "title"
 msgid "Remote Desktop"
-msgstr ""
+msgstr "远程桌面"
 
 #: content/Default/apps/content.json.h:488
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
-msgstr ""
+msgstr "远程管理您的桌面"
 
 #: content/Default/apps/content.json.h:489
 msgctxt "description"
@@ -3313,7 +3313,7 @@ msgid ""
 "Now you can manage your own computer, or a family member's, without being in"
 " front of it. This is great for people who want to help someone troubleshoot"
 " their computer from afar, or manage their computer from another computer."
-msgstr ""
+msgstr "现在您可以不在电脑前就管理您的电脑或您家庭成员的电脑。这对于那些无法就近使用自己电脑的人很有帮助，他们可以在其他电脑上管理自己的电脑。"
 
 #: content/Default/apps/content.json.h:490
 msgctxt "title"

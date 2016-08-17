@@ -10,6 +10,7 @@ Name[id]=Prensa Libre
 Name[pt_BR]=Prensa Libre
 Name[th]=Prensa Libre
 Name[vi]=Prensa Libre
+Name[zh_CN]=自由新闻报
 Comment=Periódico de Guatemala
 Type=Application
 Exec=chromium-browser http://www.prensalibre.com/

@@ -1,7 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Name=Library
+Name[bn]=পাঠাগার
+Name[pt_BR]=Biblioteca
+Name[zh_CN]=图书馆
 Comment=Literary classics for all ages
+Comment[bn]=সকল বয়সের জন্য সর্বশ্রেষ্ঠ সাহিত্যকর্ম
+Comment[pt_BR]=Clássicos da literatura para todas as idades
+Comment[zh_CN]=适合所有年龄层的经典图书
 Type=Application
 Exec=com.endlessm.library
 Icon=eos-app-com.endlessm.library
