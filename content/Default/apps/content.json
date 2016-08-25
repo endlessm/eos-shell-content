@@ -214,6 +214,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.bengali_curriculum",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.bengali_curriculum-splash.jpg",
+    "description": "Learn about Bengali, Mathematics, Science, Social Studies, Religion, English, and more with this program that covers Class I through Class X. Each subject contains a textbook with lots of information and practice exercises to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bengali_curriculum",
+    "featured_img": "",
+    "icon": "com.endlessm.bengali_curriculum-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.bengali_curriculum-screenshot1.jpg",
+        "com.endlessm.bengali_curriculum-screenshot2.jpg",
+        "com.endlessm.bengali_curriculum-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.bengali_curriculum-thumb.jpg",
+    "subtitle": "National curriculum for Class I through Class X in all subjects",
+    "title": "Bangladesh National Curriculum",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.biology",
     "category": "Education",
     "core": false,
