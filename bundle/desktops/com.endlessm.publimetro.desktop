@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Publimetro Newspaper
+Comment=The global newspaper about breaking news in Mexico and the world
+Type=Application
+Exec=eos-publimetro
+Icon=eos-app-com.endlessm.publimetro
+Categories=Resources;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.publimetro-splash.jpg

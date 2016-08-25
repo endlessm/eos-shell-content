@@ -1598,6 +1598,33 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.publimetro",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.publimetro-splash.jpg",
+    "description": "Breaking news portal from Mexico and the world, focused on information about the country, DF, world, technology, sports, entertainment and viral news.\r\nThe program is updated with the latest Publimetro newspaper website news whenever you are connected.\r\nThe news are stored on your computer so you can access them whenever you want, even without internet.",
+    "displayShape": "b1",
+    "exec": "eos-publimetro",
+    "featured_img": "",
+    "icon": "com.endlessm.publimetro-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Mexico"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.publimetro-screenshot1.jpg",
+        "com.endlessm.publimetro-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.publimetro-thumb.jpg",
+    "subtitle": "The global newspaper about breaking news in Mexico and the world",
+    "title": "Publimetro Newspaper",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.resume",
     "category": "Resources",
     "core": false,
