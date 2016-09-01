@@ -2031,6 +2031,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.spanish_guarani_dictionary",
+    "category": "Resources",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.spanish_guarani_dictionary-splash.jpg",
+    "description": "Este diccionario biling\u00fce Castellano-Guaran\u00ed y Guaran\u00ed-Castellano es muy did\u00e1ctico, pues est\u00e1 especialmente desarrollado para los estudiantes y docentes. Se rige por estrictas normas de la educaci\u00f3n b\u00e1sica. Cuenta con indicaci\u00f3n de la categor\u00eda gramatical (adj., s., v.,) y con 8.132 entradas.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.spanish_guarani_dictionary",
+    "featured_img": "",
+    "icon": "com.endlessm.spanish_guarani_dictionary-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Paraguay"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.spanish_guarani_dictionary-screenshot1.jpg",
+        "com.endlessm.spanish_guarani_dictionary-screenshot2.jpg",
+        "com.endlessm.spanish_guarani_dictionary-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.spanish_guarani_dictionary-thumb.jpg",
+    "subtitle": "Diccionario biling\u00fce de Castellano-Guaran\u00ed y Guaran\u00ed-Castellano",
+    "title": "Diccionario Guaran\u00ed",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.textbooks",
     "category": "Education",
     "core": false,
