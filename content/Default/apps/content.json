@@ -1446,6 +1446,34 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.paraguayan_constitution",
+    "category": "Education",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.paraguayan_constitution-splash.jpg",
+    "description": "Con este programa puedes aprender sobre la Constituci\u00f3n de la Rep\u00fablica del Paraguay. Los 311 art\u00edculos est\u00e1n reproducidos aqu\u00ed. Un programa perfecto para estudiantes, docentes y ciudadanos que quieran profundizar su conocimiento sobre los derechos fundamentales de la Rep\u00fablica del Paraguay.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.paraguayan_constitution",
+    "featured_img": "",
+    "icon": "com.endlessm.paraguayan_constitution-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "es": [
+        "com.endlessm.paraguayan_constitution-screenshot1.jpg",
+        "com.endlessm.paraguayan_constitution-screenshot2.jpg",
+        "com.endlessm.paraguayan_constitution-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.paraguayan_constitution-thumb.png",
+    "subtitle": "La entera Constituci\u00f3n de la Rep\u00fablica del Paraguay",
+    "title": "La Constituci\u00f3n",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.photos",
     "category": "Utility",
     "core": false,
