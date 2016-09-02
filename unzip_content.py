@@ -38,6 +38,7 @@ FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
 BUNDLE_ICON_DIR = os.path.join('icons', 'bundle', '64x64', 'apps')
 CORE_ICON_DIR = os.path.join('icons', 'core', '64x64', 'apps')
+ICON_MASK = '/tmp/icon_mask.png'
 IGNORE_ERRORS = True
 JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
@@ -70,6 +71,13 @@ def convert(source, target, command):
     os.system('convert ' + source + ' ' + command +
               ' -quality ' + str(JPEG_QUALITY) + ' -strip ' + target)
 
+# Use ImageMagick to round the corners based on a 60x60 square
+# with radius 15 rounding centered within the 64x64 asset
+def round_icon(source, target, command):
+    os.system('convert ' + source + ' ' + command + ' -matte ' + ICON_MASK +
+              ' -compose DstIn -composite' +
+              ' -strip -define png:exclude-chunks=date,time ' + target)
+
 # Return the path to the default designer icon, or None if it doesn't exist
 def get_icon_path(linkJSON):
     # If the link object's icon path is just 'icons', there isn't a default designer icon
@@ -84,6 +92,12 @@ if __name__ == '__main__':
     parser.add_argument('zipfile', nargs='?', default=ZIP_FILENAME,
                         help='zip file to unpack')
     args = parser.parse_args()
+
+    # Create the icon mask for cropping with rounded corners
+    # Note: 61,61 is the bottom-right coordinate, not the size
+    # of the rounded rectangle (which is 60x60 in this case)
+    os.system('convert -size 64x64 xc:none ' +
+              '-draw "roundrectangle 2,2,61,61,15,15" ' + ICON_MASK)
 
     # Remove the existing unzipped and content dirs, if they exist
     shutil.rmtree(UNZIP_DIR, IGNORE_ERRORS)
@@ -351,7 +365,7 @@ if __name__ == '__main__':
     os.makedirs(BUNDLE_ICON_DIR)
     os.makedirs(CORE_ICON_DIR)
 
-    # Copy and rename the app icons to the icon folder
+    # Process and rename the app icons to the icon folder
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'icons')
     for app_data in apps_json:
         # Rename the icons from name-icon.png to eos-app-name.png
@@ -366,9 +380,9 @@ if __name__ == '__main__':
             target_dir = BUNDLE_ICON_DIR
         source_file = os.path.join(source_dir, source)
         target_file = os.path.join(target_dir, target)
-        shutil.copy(source_file, target_file)
+        round_icon(source_file, target_file, '')
 
-    # Copy and rename the link icons to the icon folder
+    # Process and rename the link icons to the icon folder
     # If no link icon available, resize/crop the thumbnail image
     source_dir = os.path.join(UNZIP_DIR, 'links')
     target_dir = CORE_ICON_DIR
@@ -391,17 +405,12 @@ if __name__ == '__main__':
                         if icon_path is None:
                             # Generate a new icon based on existing link image
                             source_file = os.path.join(source_dir, 'images', link['linkId'] + '.jpg')
-
-                            # Path to the mask png which will set the
-                            # margin/corners of the generated icon.
-                            mask_file = 'icon_mask.png'
-
-                            convert(source_file, target_file,
-                                    '-resize 64x64^ -gravity center -crop 64x64+0+0 -alpha set ' + mask_file + ' -compose DstIn -composite -define png:exclude-chunks=date,time')
+                            round_icon(source_file, target_file,
+                                       '-resize 64x64^ -gravity center -crop 64x64+0+0')
                         else:
-                            # Simply copy existing icon asset to destination
+                            # Simply round existing icon asset to destination
                             source_file = os.path.join(source_dir, icon_path)
-                            shutil.copy(source_file, target_file)
+                            round_icon(source_file, target_file, '')
 
     # Generate bundle manifests for the image builder by personality
 

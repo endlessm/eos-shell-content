@@ -280,29 +280,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.brazil",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.brazil-splash.jpg",
-    "description": "Want to learn more about the nation you call home? Brazil is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Brazilian life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
-    "displayShape": "b2h",
-    "exec": "eos-brazil",
-    "featured_img": "com.endlessm.brazil-featured.jpg",
-    "icon": "com.endlessm.brazil-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "Global",
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.brazil-thumb.jpg",
-    "subtitle": "Impress family and friends with all the facts you learn",
-    "title": "Brazil",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.celebrities",
     "category": "Resources",
     "core": false,
@@ -1352,29 +1329,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.mexico",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Want to learn more about the nation you call home? Mexico is a beautiful country with a rich heritage, delicious food, exciting sports, engaging cultural events, beautiful sites, and much more. Explore articles showcasing these areas of Mexican life, art, geography, and culture. You\u2019ll deepen your knowledge of the nation and be able to share what you learn with friends, family, and visitors.",
-    "displayShape": "b2v",
-    "exec": "eos-mexico",
-    "featured_img": "com.endlessm.mexico-featured.jpg",
-    "icon": "com.endlessm.mexico-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "Global",
-      "Mexico"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.mexico-thumb.jpg",
-    "subtitle": "Learn about the country you call home and impress family and friends with the facts you know",
-    "title": "Mexico",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.microenterprises",
     "category": "Resources",
     "core": false,
@@ -1468,7 +1422,7 @@
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.paraguayan_constitution-thumb.png",
+    "square_img": "com.endlessm.paraguayan_constitution-thumb.jpg",
     "subtitle": "La entera Constituci\u00f3n de la Rep\u00fablica del Paraguay",
     "title": "La Constituci\u00f3n",
     "tryexec": ""
@@ -2629,74 +2583,6 @@
     "square_img": "gnome-control-center-thumb.jpg",
     "subtitle": "Easily change your computer's settings",
     "title": "Settings",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gt-curriculum",
-    "category": "Education",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Use this app to find the basic curriculum plan and guidelines for a specific grade level, or use it to find worksheets that can help kids learn difficult subjects. The Ministry of Education has compiled this valuable resource for you to use. Read through manuals to learn how a child's education is structured, to learn how to help children grow healthily, and to learn about a variety of other important subjects that can make a big difference both your child's life and your own.",
-    "displayShape": "b1",
-    "exec": "gt-curriculum",
-    "featured_img": "",
-    "icon": "gt-curriculum-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Guatemala"
-    ],
-    "screenshots": {
-      "C": [
-        "gt-curriculum-screenshot1.jpg",
-        "gt-curriculum-screenshot2.jpg",
-        "gt-curriculum-screenshot3.jpg"
-      ],
-      "es": [
-        "gt-curriculum-screenshot1.jpg",
-        "gt-curriculum-screenshot2.jpg",
-        "gt-curriculum-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gt-curriculum-thumb.jpg",
-    "subtitle": "From the Guatemalan Ministry of Education",
-    "title": "GT Curriculum",
-    "tryexec": ""
-  },
-  {
-    "application-id": "gt-health",
-    "category": "Resources",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "This app contains some of the most life saving documents that you'll ever read. Open the Hesperian Health Documents folder to learn things like how to perform exams and minor procedures. You'll be surprised by how much you can learn to help your loved ones, those in your community and even yourself!",
-    "displayShape": "b1",
-    "exec": "gt-health",
-    "featured_img": "",
-    "icon": "gt-health-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Global",
-      "Guatemala",
-      "Mexico"
-    ],
-    "screenshots": {
-      "C": [
-        "gt-health-screenshot1.jpg",
-        "gt-health-screenshot2.jpg",
-        "gt-health-screenshot3.jpg"
-      ],
-      "es": [
-        "gt-health-screenshot1.jpg",
-        "gt-health-screenshot2.jpg",
-        "gt-health-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gt-health-thumb.jpg",
-    "subtitle": "Health guides that could save your life",
-    "title": "Health Guides",
     "tryexec": ""
   },
   {
