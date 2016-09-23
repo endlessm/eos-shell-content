@@ -115,13 +115,13 @@ if __name__ == '__main__':
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
     # until the CMS is reworked
-    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN', 'ar']
-    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China', 'Arabic']
+    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN', 'ar', 'bn']
+    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China', 'Arabic', 'Bengali']
 
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
     # until the CMS is reworked
-    languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar']
+    languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar', 'bn']
 
     # Copy the app json to the content folder
     # with tweaks to the json content
@@ -227,8 +227,8 @@ if __name__ == '__main__':
         convert(source_file, target_file, '')
 
     # Special handling of link locales for es vs. es_GT
-    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['pt-br'], ['zh-hans']]
-    link_languages = ['C', 'es', 'es_GT', 'pt_BR', 'zh_CN']
+    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['pt-br'], ['zh-hans'], ['bn']]
+    link_languages = ['C', 'es', 'es_GT', 'pt_BR', 'zh_CN', 'bn']
 
     # Copy and rename the links json to the content folder
     source_dir = os.path.join(UNZIP_DIR, 'links')
