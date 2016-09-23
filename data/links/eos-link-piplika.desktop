@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=পিপিলিকা
+Comment=বাংলাদেশী সার্চ ইঞ্জিন
+Type=Application
+Exec=chromium-browser http://www.pipilika.com/
+Icon=eos-link-piplika
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

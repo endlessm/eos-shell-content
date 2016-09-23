@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=পাঠশালা
+Comment=শিক্ষা সংক্রান্ত পোর্টাল
+Type=Application
+Exec=chromium-browser http://www.amarpathshala.com/
+Icon=eos-link-pathshala
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

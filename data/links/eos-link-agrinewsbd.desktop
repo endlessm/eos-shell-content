@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=এগ্রিনিউজ বিডি
+Comment=কৃষি নিউজ ওয়েবসাইট
+Type=Application
+Exec=chromium-browser http://www.agrinewsbd.com/
+Icon=eos-link-agrinewsbd
+Categories=News;
+X-Endless-LaunchMaximized=true

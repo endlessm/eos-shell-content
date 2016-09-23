@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=শিক্ষক
+Comment=উৎস সমৃদ্ধ শিক্ষা প্লাটফর্ম
+Type=Application
+Exec=chromium-browser http://www.shikkhok.com/
+Icon=eos-link-shikkhok
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

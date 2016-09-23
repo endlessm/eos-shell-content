@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=টুরিস্ট গাইড
+Comment=পর্যটন তথ্য ওয়েবসাইট
+Type=Application
+Exec=chromium-browser http://www.touristguide24.com/
+Icon=eos-link-touristguide24
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=সামহয়ার ইন ব্লগ
+Comment=জনপ্রিয় বাংলাদেশী ব্লগ সাইট
+Type=Application
+Exec=chromium-browser http://www.somewhereinblog.net/
+Icon=eos-link-somewhereinblog
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true
