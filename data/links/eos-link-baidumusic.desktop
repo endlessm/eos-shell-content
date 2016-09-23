@@ -3,7 +3,8 @@ Version=1.0
 Name=百度音乐
 Comment=为用户提供正版音乐服务以及相关的搜索服务
 Type=Application
-Exec=chromium-browser http://mp3.baidu.com/
+Exec=chromium-browser --app=http://mp3.baidu.com/
 Icon=eos-link-baidumusic
 Categories=Entertainment;
+StartupWMClass=mp3.baidu.com
 X-Endless-LaunchMaximized=true
