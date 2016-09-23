@@ -1265,7 +1265,7 @@
     "application-id": "com.endlessm.mayan_languages",
     "category": "Education",
     "core": false,
-    "custom-splash-screen": "com.endlessm.mayan_languages-splash.jpeg",
+    "custom-splash-screen": "com.endlessm.mayan_languages-splash.jpg",
     "description": "Have you ever wanted to study and learn a Mayan language? Whether you're a beginner or are more advanced, this app contains many great resources. Here you can find stories, dictionaries, and grammar resources in different Mayan languages. Get ready to immerse yourself in Mayan culture through all the history and stories you'll find here!",
     "displayShape": "b1",
     "exec": "eos-mayan-languages",
@@ -1281,7 +1281,8 @@
         "com.endlessm.mayan_languages-screenshot1.jpg",
         "com.endlessm.mayan_languages-screenshot2.jpg",
         "com.endlessm.mayan_languages-screenshot3.jpg"
-      ]
+      ],
+      "es": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.mayan_languages-thumb.jpg",
