@@ -4,7 +4,7 @@ Name=Duolingo
 Name[zh]=多邻国 英语
 Comment=Learn a new language
 Type=Application
-Exec=eos-exec-localized 'chromium-browser --app=https://www.duolingo.com/' zh:'chromium-browser http://www.duolingo.cn/' 
+Exec=eos-exec-localized 'chromium-browser --app=https://www.duolingo.com/' zh:'chromium-browser --app=http://www.duolingo.cn/' 
 Icon=eos-link-duolingo
 Categories=Education;Health;
 StartupWMClass=www.duolingo.com
