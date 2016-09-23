@@ -152,7 +152,7 @@ class LinkObject(DesktopObject):
         # Process locales in the same order they were appended
         for locale in self._url_locales:
             url = self._localized_urls[locale]
-            exec_str += locale + ':\'chromium-browser ' + url + '\' '
+            exec_str += locale + ':\'chromium-browser ' + app_cmd + url + '\' '
 
         return exec_str
 
