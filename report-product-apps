@@ -80,14 +80,14 @@ def exit_with_error(message):
     print('Terminating early', file=sys.stderr)
     exit(1)
 
-# For Endless apps, try removing the trailing locale ('-xx' or '-xx_YY')
+# For Endless apps, try removing the trailing locale ('.xx' or '.xx_YY')
 # from the app id
 def strip_locale(app_id):
     if not app_id.startswith('com.endlessm.'):
         return None
-    if app_id[len(app_id) - 3] == '-':
+    if app_id[len(app_id) - 3] == '.':
         return app_id[0 : len(app_id) - 3]
-    if app_id[len(app_id) - 3] == '_' and app_id[len(app_id) - 6] == '-':
+    if app_id[len(app_id) - 3] == '_' and app_id[len(app_id) - 6] == '.':
         return app_id[0 : len(app_id) - 6]
     return None
 
