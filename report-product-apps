@@ -10,6 +10,7 @@ import csv
 import json
 import os
 import polib
+import subprocess
 import sys
 import urllib.request
 
@@ -47,6 +48,8 @@ REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
                                       'ignore_before': True},
                 'totem'            : {'id': 'org.gnome.Totem',
                                       'first_version': '2.6.0'}}
+
+EXCLUDED = {'com.endlessm.EknServices'}
 
 ALREADY_USED = 'used'
 
@@ -124,38 +127,27 @@ class Reporter(object):
         with open(CONTENT_JSON) as json_file:
             self._json_data = json.load(json_file)
 
-        # Get the personality name (for filtering by the app server)
-        try:
-            personality = LOCALES[self._args.locale]['personality']
-        except:
-            exit_with_error('Unsupported locale: %s' % self._args.locale)
-        self._print_debug('App server personality: %s' % personality)
-
-        # Get the base URL for the app server
-        try:
-            server_url = SERVERS[self._args.server]
-        except:
-            exit_with_error('Unsupported app server: %s' % self._args.server)
-
-        full_url = '%s/api/v1/updates/%s?arch=%s&personality=%s' % (
-            server_url, self._args.os_version, self._args.arch, personality)
-        self._print_debug('App server request URL: %s' % server_url)
-
-        # Load the server json data
-        request = urllib.request.Request(
-            full_url, headers={'Accept': 'application/json'})
-        response = urllib.request.urlopen(request)
-        self._server_json = json.loads(response.read().decode('utf8'))
+        # Load the server flatpak list
+        process = subprocess.Popen(['flatpak', 'remote-ls', '-d', 'eos-apps'],
+                                   stdout=subprocess.PIPE)
+        entries = process.communicate()[0].decode('utf8').rstrip().split('\n')
+        self._server_flatpaks = []
+        for entry in entries:
+            fields = entry.split()[0].split('/')
+            # Filter out only the eos3 apps, as flatpak returns
+            # details for all branches
+            if fields[3] == 'eos3':
+                app_id = fields[1]
+                if app_id in EXCLUDED:
+                    continue
+                self._server_flatpaks.append(app_id)
 
     def _print_debug(self, message):
         if self._args.debug:
             print(message)
 
     def _get_installed_size(self, app_id, version):
-        for json_row in self._server_json:
-            if json_row['appId'] == app_id and \
-               json_row['codeVersion'] == version:
-                return json_row['installedSize']
+        # TODO implement this
         return 'N/A'
         
     def _do_get_json_row(self, app_id):
@@ -341,9 +333,10 @@ class Reporter(object):
                         return
                     if not 'flatpak install --app' in line:
                         continue
-                    print(line)
                     data = line.split()
                     app_id = data[7]
+                    if app_id in EXCLUDED:
+                        continue
                     # For now, we just use 'eos3' as the version for flatpaks
                     version = data[9]
                     json_row = self._get_json_row(app_id)
@@ -363,12 +356,7 @@ class Reporter(object):
                             % (self._args.apps_file, err))
 
     def _list_available_bundles(self):
-        for server_app in self._server_json:
-            if server_app['isDiff']:
-                # We can ignore delta updates, as there should be a
-                # non-delta version as well
-                continue
-            app_id = server_app['appId']
+        for app_id in self._server_flatpaks:
             base_id = strip_locale(app_id)
             if base_id:
                 # App id is localized -- check if our locale matches
@@ -376,26 +364,13 @@ class Reporter(object):
                 app_locale = app_id[len(base_id)+1:]
                 if app_locale not in LOCALES[self._args.locale]['app_locales']:
                     continue
-            version = server_app['codeVersion']
-            size = server_app['installedSize']
+            # TODO: implement proper version and size info
+            version = 'eos3'
+            size = 'N/A'
             json_row = self._get_json_row(app_id)
             if json_row == ALREADY_USED:
                 continue
             if json_row:
-                # The server may list multiple available app versions
-                # We need to check if there is a newer version
-                # later in the list that we have not processed yet
-                # While technically we only need to process
-                # the rest of the list, performance is not critical
-                # and it is simpler to just check the full list
-                for version_app in self._server_json:
-                    if version_app['isDiff']:
-                        continue
-                    if version_app['appId'] == app_id and \
-                       apt_pkg.version_compare(version_app['codeVersion'],
-                                               version) > 0:
-                        version = version_app['codeVersion']
-                        size = version_app['installedSize']
                 json_row['size'] = size
                 self._write_csv_row('Available', app_id, version,
                                     json_row)
