@@ -50,11 +50,6 @@ REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
 
 ALREADY_USED = 'used'
 
-# The image builder uses unusual values for booleans in the apps.txt file
-class ImageBuilder:
-    YES = 1
-    NO = 2
-
 class Color:
     GREEN = '\033[1;32m'
     BLUE = '\033[1;34m'
@@ -227,7 +222,7 @@ class Reporter(object):
     def _close_csv_file(self):
         self._csv_file.close()
 
-    def _write_csv_row(self, app_type, app_id, version, extra, split, json_row):
+    def _write_csv_row(self, app_type, app_id, version, json_row):
         category = json_row['category']
         size = json_row['size']
         if isinstance(size, str):
@@ -315,8 +310,6 @@ class Reporter(object):
                     package_name = data[0]
                     report_id, json_id = self._package_to_app_ids(package_name)
                     version = data[1]
-                    extra = False
-                    split = False
                     json_row = self._get_json_row(json_id)
                     if json_row == ALREADY_USED:
                         exit_with_error('Unexpected duplicate entry for %s' %
@@ -324,7 +317,7 @@ class Reporter(object):
                     if json_row:
                         json_row['size'] = 'System App'
                         self._write_csv_row('Core', report_id, version,
-                                            extra, split, json_row)
+                                            json_row)
                     # If no json data found, we can simply assume that
                     # this is a core package for which we don't expose
                     # a desktop application
@@ -344,8 +337,6 @@ class Reporter(object):
                     data = line.split()
                     app_id = data[0]
                     version = data[1]
-                    extra = data[2] == ImageBuilder.YES
-                    split = data[3] == ImageBuilder.YES
                     json_row = self._get_json_row(app_id)
                     if json_row == ALREADY_USED:
                         exit_with_error('Unexpected duplicate entry for %s' %
@@ -354,7 +345,7 @@ class Reporter(object):
                         json_row['size'] = self._get_installed_size(app_id,
                                                                     version)
                         self._write_csv_row('Installed', app_id, version,
-                                            extra, split, json_row)
+                                            json_row)
                     else:
                         warn('Missing content json for installed app %s' % app_id)
 
@@ -378,8 +369,6 @@ class Reporter(object):
                     continue
             version = server_app['codeVersion']
             size = server_app['installedSize']
-            extra = False
-            split = False
             json_row = self._get_json_row(app_id)
             if json_row == ALREADY_USED:
                 continue
@@ -400,7 +389,7 @@ class Reporter(object):
                         size = version_app['installedSize']
                 json_row['size'] = size
                 self._write_csv_row('Available', app_id, version,
-                                    extra, split, json_row)
+                                    json_row)
             else:
                 warn('Missing content json for available app %s' % app_id)
 
