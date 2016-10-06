@@ -36,7 +36,7 @@ LOCALES = {'ar'    : {'lang': 'ar'    , 'personality': 'Arabic' ,
 SERVERS = {'production' : 'https://appupdates.endlessm.com',
            'staging'    : 'https://staging.appupdates.endlessm.com',
            'master'     : 'https://master.appupdates.endlessm-sf.com'}
-ARCHS = {'i386', 'armhf'}
+ARCHS = {'i386', 'amd64', 'armhf'}
 
 REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
                                       'first_version': '2.6.0'},
