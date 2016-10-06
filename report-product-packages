@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 # Note: use python3 for direct support of utf-8 strings
 
-# To use this script, you need to have 'endless-apps' in your
-# /etc/apt/sources.list (and then 'sudo apt-get update')
+# To use this script, you need to have the following
+# in your /etc/apt/sources.list (and then 'sudo apt-get update'):
+# http://obs-master.endlessm-sf.com:82/shared/eos eos3 endless gitapps
+# And you need to have all the endless app ("APP_PACKAGES")
+# flatpaks installed (in /var/lib/flatpak)
 
 import apt
 import argparse
@@ -21,10 +24,31 @@ GITHUB_RENAMES = {'eos-shell': 'eos-desktop',
 OBS_CLOSED_SOURCE = {'linux-firmware',
                      'mali400-drivers-x11'}
 
-DOC_DIR = '/usr/share/doc'
-APP_DIR = '/endless'
+# These packages should include Endless copyright,
+# but are currently not specified correctly in the debian files
+FORCED_PACKAGES = {'eos-boot-helper',
+                   'eos-chrome-plugin-updater',
+                   'eos-codecs-manager',
+                   'eos-factory-tools',
+                   'eos-license-service',
+                   'eos-plymouth-theme'}
 
-ARCHS = {'i386', 'armhf'}
+RUNTIME_PACKAGES = ['eos-knowledge-0',
+                    'gir1.2-eos-shard-0',
+                    'libeos-shard-0-0']
+
+APP_PACKAGES = ['eos-finance',
+                'eos-photos',
+                'eos-programming',
+                'eos-resume',
+                'eos-translation',
+                'eos-videonet',
+                'eos-weather']
+
+DOC_DIR = '/usr/share/doc'
+APP_DIR = '/var/lib/flatpak/app'
+
+ARCHS = {'amd64', 'i386', 'armhf'}
 
 class Color:
     GREEN = '\033[1;32m'
@@ -125,19 +149,22 @@ class Reporter(object):
         self._csv_packages_file.close()
         self._csv_copyrights_file.close()
 
-    def _write_csv_row(self, app_id, package, version):
+    def _write_csv_row(self, pkg_type, app_id, package, version):
         if package in self._cache:
             apt_version = self._cache[package].versions[0]
             source = apt_version.source_name
             summary = apt_version.summary
             description = apt_version.description
+            if not version:
+                version = apt_version.version
         else:
             warn('Package not in apt cache: ' + package)
             return
 
         try:
             if app_id:
-                copyright_path = os.path.join(APP_DIR, app_id, 'share', 'doc',
+                copyright_path = os.path.join(APP_DIR, app_id, 'current',
+                                              'active', 'files', 'share', 'doc',
                                               package, 'copyright')
             else:
                 copyright_path = os.path.join(DOC_DIR, package, 'copyright')
@@ -169,9 +196,10 @@ class Reporter(object):
             csv_row.append(summary)
             self._csv_packages_writer.writerow(csv_row)
 
-        if app_id or 'Endless Mobile' in copyright_text:
+        if app_id or 'Endless Mobile' in copyright_text or \
+           package in FORCED_PACKAGES:
             csv_row = []
-            csv_row.append('app' if app_id else 'core')
+            csv_row.append(pkg_type)
             csv_row.append(package)
             csv_row.append(version)
             csv_row.append(repo)
@@ -183,6 +211,7 @@ class Reporter(object):
 
     def _list_packages(self):
         # Read in the list of core packages
+        pkg_type = 'core'
         app_id = None
         if not self._args.packages_file.endswith('packages.txt'):
             exit_with_error('Packages file name %s does not end with '
@@ -194,40 +223,30 @@ class Reporter(object):
                     # Ignore suffixes like ':i386' in the package name
                     package = data[0].split(':')[0]
                     version = data[1]
-                    self._write_csv_row(app_id, package, version)
+                    self._write_csv_row(pkg_type, app_id, package, version)
 
         except IOError as err:
             exit_with_error('Could not open packages file %s:\n%s'
                             % (self._args.packages_file, err))
 
-    def _list_apps(self):
-        # Read in the list of apps
-        if not self._args.apps_file.endswith('apps.txt'):
-            exit_with_error('Apps file name %s does not end with apps.txt' %
-                            self._args.apps_file)
-        try:
-            with open(self._args.apps_file, 'r') as f:
-                for line in f:
-                    data = line.split()
-                    app_id = data[0]
-                    version = data[1]
-                    # We only include selected Endless apps
-                    # in the copyright list
-                    # Exclude knowledge apps (those that contain a '-'
-                    # for the language specification), as their content
-                    # is not copyrighted by Endless, and the core runtime
-                    # component is covered by the eos-knowledge-lib package
-                    if app_id.startswith('com.endlessm.') and '-' not in app_id:
-                        package = 'eos-' + app_id.split('com.endlessm.')[1]
-                        self._write_csv_row(app_id, package, version)
+    def _list_runtimes(self):
+        pkg_type = 'runtime'
+        app_id = None
+        version = None
+        for package in RUNTIME_PACKAGES:
+            self._write_csv_row(pkg_type, app_id, package, version)
 
-        except IOError as err:
-            exit_with_error('Could not open apps file %s:\n%s'
-                            % (self._args.apps_file, err))
+    def _list_apps(self):
+        pkg_type = 'app'
+        version = None
+        for package in APP_PACKAGES:
+            app_id = 'com.endlessm.' + package.split('eos-')[1]
+            self._write_csv_row(pkg_type, app_id, package, version)
 
     def generate(self):
         self._open_csv_files()
         self._list_packages()
+        self._list_runtimes()
         self._list_apps()
         self._close_csv_files()
         
