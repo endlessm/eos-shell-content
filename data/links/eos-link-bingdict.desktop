@@ -3,7 +3,8 @@ Version=1.0
 Name=必应词典
 Comment=必应网上英语词典
 Type=Application
-Exec=chromium-browser http://cn.bing.com/dict/
+Exec=chromium-browser --app=http://cn.bing.com/dict/
 Icon=eos-link-bingdict
 Categories=Education;Health;
+StartupWMClass=cn.bing.com__dict
 X-Endless-LaunchMaximized=true

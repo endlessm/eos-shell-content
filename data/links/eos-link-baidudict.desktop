@@ -3,7 +3,8 @@ Version=1.0
 Name=百度词典
 Comment=百度网上英语词典
 Type=Application
-Exec=chromium-browser http://dict.baidu.com/
+Exec=chromium-browser --app=http://dict.baidu.com/
 Icon=eos-link-baidudict
 Categories=Education;Health;
+StartupWMClass=dict.baidu.com
 X-Endless-LaunchMaximized=true
