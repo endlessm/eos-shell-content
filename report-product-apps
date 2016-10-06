@@ -328,15 +328,24 @@ class Reporter(object):
 
     def _list_installed_bundles(self):
         # Read in the list of app bundles
-        if not self._args.apps_file.endswith('apps.txt'):
-            exit_with_error('Apps file name %s does not end with apps.txt' %
-                            self._args.apps_file)
+        if not self._args.build_file.endswith('build.txt'):
+            exit_with_error('Build file name %s does not end with build.txt' %
+                            self._args.build_file)
         try:
-            with open(self._args.apps_file, 'r') as f:
+            with open(self._args.build_file, 'r') as f:
                 for line in f:
+                    if 'flatpak remote-modify eos-apps' in line:
+                        # We have reached the end of the flatpak installations
+                        # for the single-disk image -- exit early to avoid
+                        # hitting the same apps again for split disks
+                        return
+                    if not 'flatpak install --app' in line:
+                        continue
+                    print(line)
                     data = line.split()
-                    app_id = data[0]
-                    version = data[1]
+                    app_id = data[7]
+                    # For now, we just use 'eos3' as the version for flatpaks
+                    version = data[9]
                     json_row = self._get_json_row(app_id)
                     if json_row == ALREADY_USED:
                         exit_with_error('Unexpected duplicate entry for %s' %
@@ -419,8 +428,8 @@ if __name__ == '__main__':
     parser.add_argument('packages_file', \
             help='File name of packages.txt file that lists all core packages')
 
-    parser.add_argument('apps_file', \
-            help='File name of apps.txt file that lists all app bundles for the image')
+    parser.add_argument('build_file', \
+            help='File name of build.txt file that includes details for apps included in the image')
 
     parser.add_argument('--debug', \
             help='Enable debugging output', \
