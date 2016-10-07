@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix "kobodl -fullscreen"
 TryExec=kobodl
 Icon=eos-app-net.olofson.Kobodeluxe
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix supertuxkart --fullscreen
 TryExec=supertuxkart
 Icon=eos-app-net.sourceforge.Supertuxkart
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

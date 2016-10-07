@@ -25,5 +25,5 @@ Comment[zh_CN]=战胜杀手机器人
 Type=Application
 Exec=killbots -caption %c
 Icon=eos-app-org.kde.Killbots
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

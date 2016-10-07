@@ -25,5 +25,5 @@ Comment[zh_CN]=多功能电子表格程序
 Type=Application
 Exec=libreoffice --calc %U
 Icon=eos-app-libreoffice-calc
-Categories=Utility;
+Categories=Office;
 X-Endless-LaunchMaximized=true

@@ -25,5 +25,5 @@ Comment[zh_CN]=犹如魔方——创建纯色方块为赢
 Type=Application
 Exec=kubrick --geometry 1920x1080+0+0
 Icon=eos-app-org.kde.Kubrick
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

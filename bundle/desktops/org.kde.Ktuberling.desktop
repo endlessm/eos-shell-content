@@ -25,5 +25,5 @@ Comment[zh_CN]=给土豆换张搞笑的脸
 Type=Application
 Exec=ktuberling -caption %c %u
 Icon=eos-app-org.kde.Ktuberling
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

@@ -25,5 +25,5 @@ Comment[zh_CN]=具有挑战性的数字拼图游戏
 Type=Application
 Exec=ksudoku %i -caption %c
 Icon=eos-app-org.kde.Ksudoku
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

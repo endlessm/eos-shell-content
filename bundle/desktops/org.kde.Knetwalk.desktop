@@ -25,5 +25,5 @@ Comment[zh_CN]=连接正确电报以获胜
 Type=Application
 Exec=knetwalk -caption %c
 Icon=eos-app-org.kde.Knetwalk
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

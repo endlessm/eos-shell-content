@@ -25,5 +25,5 @@ Comment[zh_CN]=将三颗以上同样的宝石连成一条线
 Type=Application
 Exec=kdiamond -caption %c
 Icon=eos-app-org.kde.Kdiamond
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

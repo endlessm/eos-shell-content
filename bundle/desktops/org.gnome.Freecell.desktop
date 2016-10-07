@@ -25,5 +25,5 @@ Comment[zh_CN]=类似于Solitare的单人纸牌游戏
 Type=Application
 Exec=sol --variation=freecell
 Icon=eos-app-org.gnome.Freecell
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

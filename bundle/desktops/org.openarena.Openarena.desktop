@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix openarena +r_fullscreen 1
 TryExec=openarena
 Icon=eos-app-org.openarena.Openarena
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

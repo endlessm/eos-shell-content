@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix chromium-bsu --fullscreen
 TryExec=chromium-bsu
 Icon=eos-app-net.sourceforge.ChromiumBSU
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

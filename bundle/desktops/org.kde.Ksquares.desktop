@@ -25,5 +25,5 @@ Comment[zh_CN]=在此具有挑战性的策略游戏中链接相关点
 Type=Application
 Exec=ksquares %i -caption %c
 Icon=eos-app-org.kde.Ksquares
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

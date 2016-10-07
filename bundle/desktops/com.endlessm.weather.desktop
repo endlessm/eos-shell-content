@@ -25,6 +25,6 @@ Comment[zh_CN]=从信任来源中获取本地每日天气预报
 Type=Application
 Exec=eos-weather
 Icon=eos-app-com.endlessm.weather
-Categories=Resources;
+Categories=Reference;
 X-Endless-LaunchMaximized=true
 X-Endless-SplashBackground=com.endlessm.weather-splash.jpg

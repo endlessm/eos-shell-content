@@ -25,5 +25,5 @@ Comment[zh_CN]=可以播放音乐、收听广播
 Type=Application
 Exec=rhythmbox %U
 Icon=eos-app-rhythmbox
-Categories=Utility;
+Categories=AudioVideo;
 X-Endless-LaunchMaximized=true

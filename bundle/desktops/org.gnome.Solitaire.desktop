@@ -25,5 +25,5 @@ Comment[zh_CN]=经典单人纸牌游戏
 Type=Application
 Exec=solitaire --class=solitaire --variation=klondike
 Icon=eos-app-org.gnome.Solitaire
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

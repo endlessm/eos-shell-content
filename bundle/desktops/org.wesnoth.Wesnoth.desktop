@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix wesnoth-1.11 -f
 TryExec=wesnoth-1.11
 Icon=eos-app-org.wesnoth.Wesnoth
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

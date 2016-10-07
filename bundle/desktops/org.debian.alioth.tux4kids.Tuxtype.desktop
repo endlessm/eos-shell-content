@@ -26,5 +26,5 @@ Type=Application
 Exec=eos-exec-localized 'tuxtype -t' pt:'tuxtype -t brazilian-portuguese' es:'tuxtype -t espanol'
 TryExec=tuxtype
 Icon=eos-app-org.debian.alioth.tux4kids.Tuxtype
-Categories=Games;
+Categories=Education;
 X-Endless-LaunchMaximized=true

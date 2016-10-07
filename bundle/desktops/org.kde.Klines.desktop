@@ -25,5 +25,5 @@ Comment[zh_CN]=将相同颜色的球连成一条线极为获胜。
 Type=Application
 Exec=klines -caption %c
 Icon=eos-app-org.kde.Klines
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

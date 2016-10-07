@@ -25,5 +25,5 @@ Comment[zh_CN]=匹配并消除方块，赢得游戏
 Type=Application
 Exec=kblocks -caption %c
 Icon=eos-app-org.kde.Kblocks
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

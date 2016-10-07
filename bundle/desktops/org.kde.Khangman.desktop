@@ -25,5 +25,5 @@ Comment[zh_CN]=最好玩的单词游戏之一
 Type=Application
 Exec=khangman -caption %c %i
 Icon=eos-app-org.kde.Khangman
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

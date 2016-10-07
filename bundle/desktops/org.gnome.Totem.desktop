@@ -26,5 +26,5 @@ Type=Application
 Exec=sh -c "totem --pause `xdg-user-dir VIDEOS`"
 TryExec=totem
 Icon=eos-app-org.gnome.Totem
-Categories=Utility;
+Categories=AudioVideo;
 X-Endless-LaunchMaximized=true

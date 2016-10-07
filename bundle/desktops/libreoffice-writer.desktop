@@ -25,5 +25,5 @@ Comment[zh_CN]=免费、近似且与word兼容
 Type=Application
 Exec=libreoffice --writer %U
 Icon=eos-app-libreoffice-writer
-Categories=Utility;
+Categories=Office;
 X-Endless-LaunchMaximized=true

@@ -25,5 +25,5 @@ Comment[zh_CN]=以现代手法演绎古老游戏
 Type=Application
 Exec=kigo %i -caption %c
 Icon=eos-app-org.kde.Kigo
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

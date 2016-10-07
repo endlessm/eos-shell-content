@@ -26,5 +26,5 @@ Type=Application
 Exec=resfix supertux2 --fullscreen
 TryExec=supertux2
 Icon=eos-app-io.github.Supertux
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

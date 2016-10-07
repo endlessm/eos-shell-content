@@ -25,5 +25,5 @@ Comment[zh_CN]=通过策略来攻占所有方格
 Type=Application
 Exec=kjumpingcube -caption %c
 Icon=eos-app-org.kde.Kjumpingcube
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

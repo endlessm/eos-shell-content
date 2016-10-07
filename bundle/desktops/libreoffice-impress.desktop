@@ -25,5 +25,5 @@ Comment[zh_CN]=用该便捷App创建展示
 Type=Application
 Exec=libreoffice --impress %U
 Icon=eos-app-libreoffice-impress
-Categories=Utility;
+Categories=Office;
 X-Endless-LaunchMaximized=true

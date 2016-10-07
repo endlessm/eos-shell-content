@@ -25,5 +25,5 @@ Comment[zh_CN]=您一定会喜欢的围堵弹力球游戏
 Type=Application
 Exec=kbounce -caption %c
 Icon=eos-app-org.kde.Kbounce
-Categories=Games;
+Categories=Game;
 X-Endless-LaunchMaximized=true

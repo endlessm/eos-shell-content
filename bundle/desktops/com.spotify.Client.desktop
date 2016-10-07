@@ -25,5 +25,5 @@ Comment[zh_CN]=使用Spotify音乐播放器听音乐
 Type=Application
 Exec=spotify
 Icon=eos-app-com.spotify.Client
-Categories=Resources;
+Categories=AudioVideo;
 X-Endless-LaunchMaximized=true
