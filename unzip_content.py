@@ -44,15 +44,6 @@ JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
 LINK_PREFIX = 'eos-link-'
 
-# Hack: when we rename an app id, we add a duplicated entry with
-# the old app id and special subtitle and description
-# that identify the app as deprecated
-DEPRECATED_SUBTITLE = 'Deprecated version'
-DEPRECATED_DESCRIPTION = 'If you have internet access, there may be a newer ' \
-    'version of this application available to download and install. In the ' \
-    'meantime, you may continue to use this version that is already installed '\
-    'on your computer.'
-
 # Run the ImageMagick 'convert' application from the command line,
 # with specified JPEG quality and all metadata stripped
 def convert(source, target, command):
