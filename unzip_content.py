@@ -44,18 +44,6 @@ JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
 LINK_PREFIX = 'eos-link-'
 
-# Hack: apps we want to show up at the end of their category in the app store
-# The long term solution involving the CMS will be addressed on #3655
-# https://github.com/endlessm/eos-shell/issues/3674
-APPS_TO_APPEND = [
-    'kblocks',
-    'kbounce',
-    'kdiamond',
-    'kjumpingcube',
-    'ksame',
-    'openarena'
-]
-
 # Hack: when we rename an app id, we add a duplicated entry with
 # the old app id and special subtitle and description
 # that identify the app as deprecated
@@ -149,20 +137,6 @@ if __name__ == '__main__':
     with open(target) as infile:
         json_data = json.load(infile)
     sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
-
-    # Hack: modify the sorted list moving to the end all
-    # the apps that we want to show up at the end of their
-    # respective categories in the app store
-    app_index = 0
-    apps_to_append = []
-    while app_index < len(sorted_json):
-        app_data = sorted_json[app_index]
-        if app_data['application-id'] in APPS_TO_APPEND:
-            # Remove it from the original one and save it
-            apps_to_append.append(sorted_json.pop(app_index))
-            continue;
-        app_index += 1
-    sorted_json.extend(apps_to_append)
 
     with open(target, 'w') as outfile:
         json.dump(sorted_json, outfile, indent=2, sort_keys=True)
