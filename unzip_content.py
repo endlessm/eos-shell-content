@@ -25,6 +25,7 @@ import sys
 import zipfile
 
 from desktop_object import LinkObject, AppObject, FolderObject
+from extra_categories import EXTRA_CATEGORIES
 from translate_desktop_files import translate_dir
 
 ZIP_FILENAME = 'appstore.zip'
@@ -43,27 +44,6 @@ IGNORE_ERRORS = True
 JPEG_QUALITY = 90
 APP_PREFIX = 'eos-app-'
 LINK_PREFIX = 'eos-link-'
-
-# Hack: apps we want to show up at the end of their category in the app store
-# The long term solution involving the CMS will be addressed on #3655
-# https://github.com/endlessm/eos-shell/issues/3674
-APPS_TO_APPEND = [
-    'kblocks',
-    'kbounce',
-    'kdiamond',
-    'kjumpingcube',
-    'ksame',
-    'openarena'
-]
-
-# Hack: when we rename an app id, we add a duplicated entry with
-# the old app id and special subtitle and description
-# that identify the app as deprecated
-DEPRECATED_SUBTITLE = 'Deprecated version'
-DEPRECATED_DESCRIPTION = 'If you have internet access, there may be a newer ' \
-    'version of this application available to download and install. In the ' \
-    'meantime, you may continue to use this version that is already installed '\
-    'on your computer.'
 
 # Run the ImageMagick 'convert' application from the command line,
 # with specified JPEG quality and all metadata stripped
@@ -143,26 +123,21 @@ if __name__ == '__main__':
     infile.close()
     outfile.close()
 
-    # Re-write the JSON file sorted alphabetically by id
+    # Re-write the JSON file sorted alphabetically by id,
     # and with keys sorted so that application-id is first
-    # (for convenience in manually reviewing the file)
+    # (for convenience in manually reviewing the file),
+    # and with extra categories included (and with trailing
+    # semicolon to match the freedesktop spec)
     with open(target) as infile:
         json_data = json.load(infile)
+    for app_data in json_data:
+        app_id = app_data['application-id']
+        categories = app_data['category'] + ';'
+        extra_categories = EXTRA_CATEGORIES.get(app_id, [])
+        for extra_category in extra_categories:
+            categories += extra_category + ';'
+        app_data['category'] = categories
     sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
-
-    # Hack: modify the sorted list moving to the end all
-    # the apps that we want to show up at the end of their
-    # respective categories in the app store
-    app_index = 0
-    apps_to_append = []
-    while app_index < len(sorted_json):
-        app_data = sorted_json[app_index]
-        if app_data['application-id'] in APPS_TO_APPEND:
-            # Remove it from the original one and save it
-            apps_to_append.append(sorted_json.pop(app_index))
-            continue;
-        app_index += 1
-    sorted_json.extend(apps_to_append)
 
     with open(target, 'w') as outfile:
         json.dump(sorted_json, outfile, indent=2, sort_keys=True)
@@ -322,7 +297,7 @@ if __name__ == '__main__':
                     url = link_data['linkUrl']
                     desktop_objects[id].append_localized_url(lang, url)
 
-    apps_path = os.path.join(UNZIP_DIR, 'apps', 'content.json')
+    apps_path = os.path.join(CONTENT_DIR, 'apps', 'content.json')
     apps_file = open(apps_path)
     apps_json = json.load(apps_file)
     apps_file.close()
@@ -463,15 +438,17 @@ if __name__ == '__main__':
     category_apps = {}
     for id, obj in desktop_objects.items():
         if isinstance(obj, AppObject):
-            category = obj.get('Categories')
-            if category not in category_apps:
-                category_apps[category] = []
-            category_apps[category].append(id)
+            categories = obj.get('Categories')
+            # Drop the terminal ';' from the category list
+            categories = categories[:len(categories)-1]
+            for category in categories.split(';'):
+                if category not in category_apps:
+                    category_apps[category] = []
+                category_apps[category].append(id)
     categories_path = os.path.join(BUNDLE_MANIFESTS_DIR, 'categories.txt')
     with open(categories_path, 'w') as categories_file:
         for category in sorted(category_apps.keys()):
-            # Drop the terminal ';' on the category name
-            categories_file.write(category[:len(category)-1] + ':\n')
+            categories_file.write(category + ':\n')
             app_list = category_apps[category]
             app_list.sort()
             for app in app_list:

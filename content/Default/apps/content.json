@@ -1,7 +1,7 @@
 [
   {
     "application-id": "brasero",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Making your own CDs or DVDs has never been easier! This app lets you burn, copy, and erase CDs and DVDs so you can make your own audio and video masterpieces, or just transfer the files and data you need!",
@@ -33,7 +33,7 @@
   },
   {
     "application-id": "cheese",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Say cheese! Use a webcam and this awesome photobooth app to take pictures, apply filters, and share your creations with your friends and family. Try turning yourself green, or making yourself have two faces - you'll have hours of fun playing around and creating funny, cool and beautiful pictures!",
@@ -71,7 +71,7 @@
   },
   {
     "application-id": "chromium-browser",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "You can find almost anything you want on the internet, but sometimes it is hard to know which sources you can trust. This app will take you to any part of the web you want, and help you uncover awesome new websites you may not yet know about. Get access to a newspaper that automatically updates with the most relevant articles, and a discovery center that will help you start exploring the web in a new way!  **Requires internet",
@@ -104,7 +104,7 @@
   },
   {
     "application-id": "com.dropbox.Client",
-    "category": "Utility",
+    "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Need to safely store all of your important documents, photos, songs, and files? Easy! With this app you can use the internet to save everything that\u2019s important to you. You can then access those files from any computer that has an internet connection. Use this service to backup your files, share photos or collaborate on a project by sharing a Dropbox folder with whomever you\u2019d like. Create a free account and start saving and sharing today!  ** Requires internet",
@@ -139,7 +139,7 @@
   },
   {
     "application-id": "com.endlessm.animals",
-    "category": "Education",
+    "category": "Education;Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.animals-splash.jpg",
     "description": "Animals are simply amazing. From the majestic lion to the bizarre and fascinating platypus, there is so much to learn about the creatures that inhabit our world. Unlock the entire animal kingdom with this app! The whole family, from small children to curious adults, will love to learn about animals\u2019 features, habits, and environments. It\u2019s especially important to study the animal kingdom today, when so many species are threatened or endangered.",
@@ -177,7 +177,7 @@
   },
   {
     "application-id": "com.endlessm.astronomy",
-    "category": "Education",
+    "category": "Education;Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.astronomy-splash.jpg",
     "description": "Is there anything more incredible than outer space? This app will introduce you to the cosmos and will teach you about our own solar system and far beyond. Learn about planets, stars, galaxies, and even the mysteries of black holes! Understand our sun and moon, and think about the possibility of life elsewhere in the universe. You\u2019ll want to take off in a rocket ship after exploring this app!",
@@ -215,7 +215,7 @@
   },
   {
     "application-id": "com.endlessm.bengali_curriculum",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.bengali_curriculum-splash.jpg",
     "description": "Learn about Bengali, Mathematics, Science, Social Studies, Religion, English, and more with this program that covers Class I through Class X. Each subject contains a textbook with lots of information and practice exercises to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
@@ -248,7 +248,7 @@
   },
   {
     "application-id": "com.endlessm.biology",
-    "category": "Education",
+    "category": "Education;Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.biology-splash.jpg",
     "description": "Studying biology is an exciting pursuit because it gives us an understanding of what it means to be a living creature. This app covers everything from cells and tiny organisms to plants and animals. You can use this app to study many sub-disciplines of biology, or simply to gain a better understanding of the subject as a whole. Whether you want to study for a test or just learn more about this subject, download this app today to get started!",
@@ -286,7 +286,7 @@
   },
   {
     "application-id": "com.endlessm.celebrities",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.celebrities-splash.jpg",
     "description": "Whether you\u2019re wondering about the life of your favorite movie or pop star, or want to know more about the background and formative years of an important politician, this application can be your guide. Have fun, learn interesting and juicy facts, and share your knowledge of famous people with all of your friends!",
@@ -324,7 +324,7 @@
   },
   {
     "application-id": "com.endlessm.childrens_collection",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.childrens_collection-splash.jpeg",
     "description": "Read away! Uncover mysteries, laugh, and embark on adventures. Spend time reading with your children, or let them choose some fun stories to read on their own. Here you will find stories, poems, and folk tales that everyone in your family will enjoy. Start reading and let the entertainment unfold.",
@@ -357,7 +357,7 @@
   },
   {
     "application-id": "com.endlessm.chinese_curriculum_english",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.chinese_curriculum_english-splash.jpg",
     "description": "Practice your elementary English skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. There are also audio clips so you can improve your listening skills. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
@@ -390,7 +390,7 @@
   },
   {
     "application-id": "com.endlessm.chinese_curriculum_math",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.chinese_curriculum_math-splash.jpg",
     "description": "Practice your elementary math skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
@@ -423,7 +423,7 @@
   },
   {
     "application-id": "com.endlessm.cooking",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.cooking-splash.jpg",
     "description": "Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
@@ -466,7 +466,7 @@
   },
   {
     "application-id": "com.endlessm.creativity_center",
-    "category": "Reference",
+    "category": "Reference;Education;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.creativity_center-splash.jpeg",
     "description": "Get ready to unleash your imagination. Use this app to uncover new skills and construct innovative objects. Your mind, your hands, and everyday materials will allow you to create useful tools and even works of art.",
@@ -499,7 +499,7 @@
   },
   {
     "application-id": "com.endlessm.dinosaurs",
-    "category": "Education",
+    "category": "Education;Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.dinosaurs-splash.jpg",
     "description": "Dinosaurs first appeared on Earth more than 230 million years ago. They ruled the planet for millions of years, until a catastrophic extinction event wiped out almost all of them. Fossils and other findings have taught us a great deal about these former inhabitants of Earth. This app will introduce you to these incredible prehistoric creatures. Learn about the different types of dinosaurs, from fierce carnivores to massive herbivores.",
@@ -537,7 +537,7 @@
   },
   {
     "application-id": "com.endlessm.disabilities",
-    "category": "Education",
+    "category": "Education;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.disabilities-splash.jpg",
     "description": "Learn about the common physical and mental disabilities, and how to take care of the people in your life who have them. From diagnosis and treatments to special devices and special care, you'll learn all about how to make the life of people you know with disabilities easier for them. There will be a lot of challenges, but with the right care and love, you'll all live a much happier and satisfying life. ",
@@ -570,7 +570,7 @@
   },
   {
     "application-id": "com.endlessm.diy",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.diy-splash.jpeg",
     "description": "There is nothing you cannot do. With these guidelines your home can become your very own workshop. From practical tools to decorations and creative recipes, you can do it yourself! Simply follow these tutorials and create wonderful items that will surprise your family and friends.",
@@ -604,7 +604,7 @@
   },
   {
     "application-id": "com.endlessm.edu_collections.es_GT",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This app is full of reliable information sent directly from the Guatemalan government to help you live a healthier and more prosperous life. Find information about cultivating different kinds of crops, tips for mothers before and after pregnancy, tools for teachers preparing a curriculum, worksheets for students who want to supplement their classroom learning, texts to teach the Mayan language, and many great information. This source of knowledge is ready at your disposal, and can be a useful tool no matter your age.",
@@ -637,7 +637,7 @@
   },
   {
     "application-id": "com.endlessm.encyclopedia",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.encyclopedia-splash.jpg",
     "description": "Whether you\u2019re online or offline, you want access to the world\u2019s biggest encyclopedia - Wikipedia. This app is an invaluable resource for students, teachers, and anyone who wants to learn more about the world around them. Use this app to research things for school, find out about world events, and much, much more. You\u2019ll learn more than you ever thought possible with access to the Internet's greatest informational resource - and all for free!",
@@ -675,7 +675,7 @@
   },
   {
     "application-id": "com.endlessm.entrepreneurship",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.entrepreneurship-splash.jpeg",
     "description": "Interested in new ventures? Want to launch your own business? This app will help you learn about business plans and financing. You can also discover emerging entrepreneurial ideas, market trends, and the best practices to improve operations. Access these materials and transform your business ideas into reality.",
@@ -709,7 +709,7 @@
   },
   {
     "application-id": "com.endlessm.extra",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.extra-splash.jpg",
     "description": "The most important events and useful information for your day to day, as well as news about sports and television. The program is updated with the latest Extra newspaper website news whenever you are connected. The news are stored on your computer so you can access them whenever you want, even without internet.",
@@ -736,7 +736,7 @@
   },
   {
     "application-id": "com.endlessm.farming",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.farming-splash.jpg",
     "description": "Farming is both an ancient tradition and a modern, bustling industry. Our world\u2019s food supply comes from hardworking farmers around the globe. Learning about this sector of the economy can be fascinating and useful, especially if you\u2019re interested in providing food for yourself and your community. This app includes information on farming techniques and equipment, different types of agriculture, and the careers that exist in this industry. You\u2019ll learn so much about crops, livestock, and more!",
@@ -774,7 +774,7 @@
   },
   {
     "application-id": "com.endlessm.finance",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "",
     "description": "It can be challenging to keep track of your own or your family\u2019s finances, but it\u2019s also extremely important. This app provides the resources you need to keep a budget and understand how you spend your money. Easy templates make budgeting easier, and tips about money management and wise spending will help you make good choices with your funds. You and your family will benefit from an organized, clear, and carefully managed financial plan.",
@@ -812,7 +812,7 @@
   },
   {
     "application-id": "com.endlessm.fitness",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.fitness-splash.jpeg",
     "description": "We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. This app even features guidance on how to live a healthy lifestyle.",
@@ -845,7 +845,7 @@
   },
   {
     "application-id": "com.endlessm.geography",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.geography-splash.jpg",
     "description": "The world is an amazing place, and with this app, you\u2019ll learn all about it! Featuring information on every country in the world, this comprehensive resource covers major cities, regions, natural features, and more. Closer to home, you\u2019ll find detailed information about your country, from its towns and cities to its rivers and mountains. Explore the wonders around you with this handy app!",
@@ -883,7 +883,7 @@
   },
   {
     "application-id": "com.endlessm.guatemala",
-    "category": "Education",
+    "category": "Education;Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.guatemala-splash.jpg",
     "description": "Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala so you can share it with friends and family alike!",
@@ -917,7 +917,7 @@
   },
   {
     "application-id": "com.endlessm.guatemalan_curriculum",
-    "category": "Education",
+    "category": "Education;Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.guatemalan_curriculum-splash.jpg",
     "description": "Here you will find the core curriculum and guidelines for a specific grade, and find textbooks and worksheets that can guide you in a variety of subjects. Teachers and parents can read materials to learn how a child's education should be structured and the important subjects studied in school. Students can find useful textbooks that can help them better understand what they are learning in class. This app is useful for both students and teachers, and can make a big difference in your child's life and in your own!",
@@ -950,7 +950,7 @@
   },
   {
     "application-id": "com.endlessm.handicrafts",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.handicrafts-splash.jpeg",
     "description": "With these guides and your creativity you will soon be making the most beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave textiles, and more. You can even learn how to recycle materials from around your home to turn them into new and amazing handicrafts. Use this app to get started on a new creative project!",
@@ -984,7 +984,7 @@
   },
   {
     "application-id": "com.endlessm.health",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.health-splash.jpg",
     "description": "Without your health, you can't have anything else. Learn all about various diseases, medicines, and tips for how to stay healthy by reading some of the articles in this app. You never know - some of the information here may help you save your own life or the life of someone you love!",
@@ -1022,7 +1022,7 @@
   },
   {
     "application-id": "com.endlessm.healthy_living",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.healthy_living-splash.jpeg",
     "description": "How can you adopt a healthy lifestlye? There is much you can do for yourself and your family. This app gives you access to fitness routines, healthy recipes, nutrition facts, and nearby doctors. Get started today and pursue a healthier living!",
@@ -1055,7 +1055,7 @@
   },
   {
     "application-id": "com.endlessm.healthy_teeth",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.healthy_teeth-splash.jpg",
     "description": "Have you ever had a toothache? Learn how to help make it feel better. Want to keep your teeth nice and white? Well, try out these tips. Whether it's learning about mouth diseases and how to prevent them, or just making sure to keep that beautiful smile, you'll find a lot of useful information in this app. Download it today and learn all about how to keep your mouth and teeth healthy and looking great!",
@@ -1088,7 +1088,7 @@
   },
   {
     "application-id": "com.endlessm.history",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.history-splash.jpg",
     "description": "How much do you know about the fall of the Roman Empire? What about the Silk Road? Who lived in the Americas long ago, and what happened to them? Why did World War I begin? Download this app and answer every question you have about the events and personalities that have shaped our modern world, and learn about the cultures that came before us.",
@@ -1126,7 +1126,7 @@
   },
   {
     "application-id": "com.endlessm.howto",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.howto-splash.jpg",
     "description": "Are you interested in learning more about taking care of yourself or about fixing things at home on your own? Are you interested in refinishing furniture, getting rid of tough stains, growing a healthy vegetable garden, or learning yoga or other exercises on your own? Whatever you\u2019ve dreamt of learning how to do, this is the app you need. From crafts to home improvement, event planning to self-help, you\u2019ll find nearly every topic imaginable. Each how-to article is easy to access and understand. Soon, you won\u2019t know how you managed before!",
@@ -1164,7 +1164,7 @@
   },
   {
     "application-id": "com.endlessm.library",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.library-splash.jpg",
     "description": "A complete library with the great classics of world literature. More than 70 digital books, with options for small children, youth, and adults. You will have fun with fantastic stories like Gulliver's Travels (Jonathan Swift) or Around the World in 80 Days (Jules Verne) and the great works of the Portuguese language's greatest writers, like Machado de Assis and Fernando Pessoa.",
@@ -1197,7 +1197,7 @@
   },
   {
     "application-id": "com.endlessm.maternity",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.maternity-splash.jpg",
     "description": "Having a baby is one of the most magical experiences in the world, but it can also be pretty overwhelming if you don't have access to a doctor or if you are a new mother and don't know what to expect. Learn about signs that could be dangerous so you can avoid them, and also about things you should try through your pregnancy to ensure a healthy birth. Whether you are about to have your first child, are about to have your tenth child, or are a midwife that helps other women give birth, you will find relevant information here that can help!",
@@ -1230,7 +1230,7 @@
   },
   {
     "application-id": "com.endlessm.math",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.math-splash.jpg",
     "description": "Studying high school math doesn\u2019t have to be confusing or dull. This simple math app will help you master subjects like algebra, geometry, trigonometry, calculus, and statistics. Strengthen your mathematical reasoning skills and gain a deeper understanding of whatever math concepts you\u2019re struggling with. With information for multiple courses all in one place, you can extend your learning and expand your mind!",
@@ -1268,7 +1268,7 @@
   },
   {
     "application-id": "com.endlessm.mayan_languages",
-    "category": "Education",
+    "category": "Education;Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.mayan_languages-splash.jpg",
     "description": "Have you ever wanted to study and learn a Mayan language? Whether you're a beginner or are more advanced, this app contains many great resources. Here you can find stories, dictionaries, and grammar resources in different Mayan languages. Get ready to immerse yourself in Mayan culture through all the history and stories you'll find here!",
@@ -1297,7 +1297,7 @@
   },
   {
     "application-id": "com.endlessm.mental_health",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.mental_health-splash.jpeg",
     "description": "Have you ever wanted to be more confident? Feel less stressed? Be more efficient and productive? Now is your chance! Use this app to learn tips and tricks for self improvement. Read to discover how your mind works and how you can better your life.",
@@ -1331,7 +1331,7 @@
   },
   {
     "application-id": "com.endlessm.microenterprises",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.microenterprises-splash.jpg",
     "description": "Have you dreamed of starting your own company? Learn all about what it will take to do so! As a small business owner, you'll need to learn how to take an idea you have and turn it into something profitable, how to manage a team, how to take care of all of the administrative aspects - and you'll find a little about all of that here in this app. Prepare yourself to enter into a world where you are your own boss!",
@@ -1364,7 +1364,7 @@
   },
   {
     "application-id": "com.endlessm.myths",
-    "category": "Education",
+    "category": "Education;Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.myths-splash.jpg",
     "description": "Do you like reading myths, legends and scary stories? This app has some from all around the world! From Mayan legends to popular Japanese myths, and scary stories, you're sure to find something that will interest you. Read all about the creatures, myths, legends, and fables that have shaped cultures of the past and present all over the world!",
@@ -1402,7 +1402,7 @@
   },
   {
     "application-id": "com.endlessm.paraguayan_constitution",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.paraguayan_constitution-splash.jpg",
     "description": "Con este programa puedes aprender sobre la Constituci\u00f3n de la Rep\u00fablica del Paraguay. Los 311 art\u00edculos est\u00e1n reproducidos aqu\u00ed. Un programa perfecto para estudiantes, docentes y ciudadanos que quieran profundizar su conocimiento sobre los derechos fundamentales de la Rep\u00fablica del Paraguay.",
@@ -1435,7 +1435,7 @@
   },
   {
     "application-id": "com.endlessm.photos",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": false,
     "custom-splash-screen": "com.endlessm.photos-splash.jpg",
     "description": "Have you ever wanted to edit your own photos like the pros and create beautiful images you can share with those you love? Well, now you can do that in just a few steps! We have a variety of attractive, artful filters so you can customize your photos and create one-of-a-kind works of art from your everyday life. With this handy app, you can post your creations directly to Facebook, so everyone can see your awesome pictures!",
@@ -1473,7 +1473,7 @@
   },
   {
     "application-id": "com.endlessm.physics",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.physics-splash.jpg",
     "description": "Do you find learning about physics to be difficult? You're not alone. Physics is one of the most fascinating and challenging scientific disciplines. Use this app to find exactly what you need to learn, and to make learning it easier. Whatever your level of understanding, you\u2019ll find useful information presented in a format you can follow. The app includes exciting topics like mechanics, thermodynamics, electricity and magnetism, and even astrophysics. From the atoms to the stars, you\u2019ll learn all about the world around you, and succeed in your physics education.",
@@ -1511,7 +1511,7 @@
   },
   {
     "application-id": "com.endlessm.prensa_libre",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.prensa_libre-splash.jpg",
     "description": "All the latest news and information on sports, culture and entertainment, politics, and economics, from Guatemala and the world, produced by Prensa Libre. You will have access to hundreds of articles offline, and when you go online, you will receive the latest news available. The articles remain stored on your computer so you can access them later offline at your convenience.",
@@ -1539,7 +1539,7 @@
   },
   {
     "application-id": "com.endlessm.programming",
-    "category": "Education",
+    "category": "Education;Game;",
     "core": false,
     "custom-splash-screen": "com.endlessm.programming-splash.jpg",
     "description": "Do you like playing video games? Then why not create your own? Learn valuable programming and coding skills with this fun application that lets you change the rules of video games to make them your own! See what happens when you change lines of code and progress through levels to keep learning more and more about how to code. You'll soon find out that learning how to program allows you not only to change the world inside your games, but also your very own!",
@@ -1577,7 +1577,7 @@
   },
   {
     "application-id": "com.endlessm.programming_guide",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.programming_guide-splash.jpg",
     "description": "Have you ever wanted to make websites or explore programming? With this app you can! Learn the basics of front-end web development with HTML, CSS, and Javascript.",
@@ -1615,7 +1615,7 @@
   },
   {
     "application-id": "com.endlessm.publimetro",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.publimetro-splash.jpg",
     "description": "Breaking news portal from Mexico and the world, focused on information about the country, DF, world, technology, sports, entertainment and viral news.\r\nThe program is updated with the latest Publimetro newspaper website news whenever you are connected.\r\nThe news are stored on your computer so you can access them whenever you want, even without internet.",
@@ -1642,7 +1642,7 @@
   },
   {
     "application-id": "com.endlessm.resume",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "",
     "description": "The best way to make a great impression on a potential employer is to have an outstanding resume, and this app is here to help you do just that. With handy, attractive templates, you have plenty of models to use as you build your own stellar resume. Learn exactly what a resume is and what it should contain, get tips on each section, and even receive guidance on how to prepare for job interviews. This app can help you move closer to the job of your choice.",
@@ -1680,7 +1680,7 @@
   },
   {
     "application-id": "com.endlessm.soccer",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.soccer-splash.jpg",
     "description": "Football is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover more about the rules, and keep up to date with thousands of articles about your favorite sport!",
@@ -1718,7 +1718,7 @@
   },
   {
     "application-id": "com.endlessm.social_enterprises",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.social_enterprises-splash.jpg",
     "description": "Have you thought of starting your own non-profit organization, or of joining one? Non-profits enjoy special tax benefits, and are generally created to make a real social impact. Read these guides to understand more about the non-profit structure and how to operate them so that you can begin making your impact in the world even larger!",
@@ -1751,7 +1751,7 @@
   },
   {
     "application-id": "com.endlessm.socialsciences",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.socialsciences-splash.jpg",
     "description": "Human beings and the relationships and societies they form are complicated. This app will introduce you to many of the disciplines that examine human history, cultures, and interactions. You\u2019ll have access to the basics of psychology, sociology, anthropology, political science, and more. Understanding the fundamentals of such disciplines will help you navigate the ways we interact and relate to each other. You\u2019ll come away with a rich understanding of human behavior.",
@@ -1789,7 +1789,7 @@
   },
   {
     "application-id": "com.endlessm.soy502",
-    "category": "Reference",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.soy502-splash.jpg",
     "description": "502 es el c\u00f3digo de \u00e1rea que identifica a Guatemala. Soy 502 es un espacio para guatemaltecos, los que viven en el pa\u00eds y los que estudian o trabajan en el extranjero pero no olvidan sus ra\u00edces. Informaci\u00f3n de referencia de actualidad y entretenimiento para todos los p\u00fablicos.",
@@ -1822,7 +1822,7 @@
   },
   {
     "application-id": "com.endlessm.spanish_guarani_dictionary",
-    "category": "Reference",
+    "category": "Reference;Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.spanish_guarani_dictionary-splash.jpg",
     "description": "Este diccionario biling\u00fce Castellano-Guaran\u00ed y Guaran\u00ed-Castellano es muy did\u00e1ctico, pues est\u00e1 especialmente desarrollado para los estudiantes y docentes. Se rige por estrictas normas de la educaci\u00f3n b\u00e1sica. Cuenta con indicaci\u00f3n de la categor\u00eda gramatical (adj., s., v.,) y con 8.132 entradas.",
@@ -1855,7 +1855,7 @@
   },
   {
     "application-id": "com.endlessm.textbooks",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.textbooks-splash.jpg",
     "description": "Find information to help you with your homework, or learn about a subject you've always wanted to know more about! You can scroll through photos, tables, and graphs to learn more about each. Not only are these textbooks very thorough and informative, but they are also easy to read and helpful. Whether you\u2019re a student, parent, teacher, or just someone eager to learn, you'll be sure to find something interesting and useful here!",
@@ -1888,7 +1888,7 @@
   },
   {
     "application-id": "com.endlessm.translation",
-    "category": "Education",
+    "category": "Education;Office;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.translation-splash.jpg",
     "description": "Download this app to help you understand and be understood in virtually any language. This app requires an internet connection, and is very simple to use. \u00a1You can make translations with just a click of the button! Help teach yourself a new language by learning the translations of what you write, or use it to help you make new international connections \u2013 and even new friends \u2013 with the world\u2019s languages at your fingertips.  **Requires internet",
@@ -1920,7 +1920,7 @@
   },
   {
     "application-id": "com.endlessm.travel",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.travel-splash.jpg",
     "description": "The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
@@ -1958,7 +1958,7 @@
   },
   {
     "application-id": "com.endlessm.videonet",
-    "category": "AudioVideo",
+    "category": "AudioVideo;Education;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.videonet-splash.jpg",
     "description": "This app makes finding videos on the popular video site, YouTube, and sharing ones you make, easier in a beautiful new way! Watch videos of your favorite musical artists, tutorials that teach you how to do almost anything, funny or cute videos, and so much more. You'll have hours of fun, and will be able to share all the cool stuff you find or make with friends, family, and the world!  ** Requires internet",
@@ -1996,7 +1996,7 @@
   },
   {
     "application-id": "com.endlessm.water_and_sanitation",
-    "category": "Education",
+    "category": "Education;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.water_and_sanitation-splash.jpg",
     "description": "Drinking clean water is essential for survival. There can often be terrible diseases that can infect you through bad water, or by having bad sanitation around you. Learn how to make sure you drink clean water, and how to ensure that you create a sanitary environment around you where you can thrive. ",
@@ -2029,7 +2029,7 @@
   },
   {
     "application-id": "com.endlessm.weather",
-    "category": "Reference",
+    "category": "Reference;Utility;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.weather-splash.jpg",
     "description": "\u201cHow\u2019s the weather out there?\u201d Answer this question easily, every day, with the click of a button. This simple weather app allows you to see what\u2019s happening right outside your door. Will it be chilly? Should you plan for rain? Is it a perfect day to spend outdoors? Learn all you need to know about the weather to take advantage of your day!  **Requires internet",
@@ -2063,7 +2063,7 @@
   },
   {
     "application-id": "com.endlessm.world_literature",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Find some of your favorite books in this app! To begin browsing, open the folder, click the 'Index' file, and select the genre that interests you most. You'll find some of the most famous books written, including modern wonders that are sure to peak your interest. This virtual library has an astouding collection of novels, poems, biographies, stories, and other texts. Whether you find your favorite book or discover a new one, you'll be entertained for hours expanding your literary knowledge.",
@@ -2098,7 +2098,7 @@
   },
   {
     "application-id": "com.endlessm.your_health",
-    "category": "Reference",
+    "category": "Reference;Family;",
     "core": false,
     "custom-splash-screen": "com.endlessm.your_health-splash.jpg",
     "description": "Health care for the whole family with information about disease prevention, nutrition, and well-being. This application also provides information about vaccination and how to use the services available in the Unified Health System. Content developed by the medical team at the sautil.com.br portal",
@@ -2131,7 +2131,7 @@
   },
   {
     "application-id": "com.github.Slingshot",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Gravity is your best friend in this fun shooting game set in outer space. Use the gravity of different planets to your advantage, and use your trusty slingshot to destroy the enemy spacecraft. No two rounds are ever the same in this fun and addictive game!",
@@ -2157,7 +2157,7 @@
   },
   {
     "application-id": "com.microsoft.Skype",
-    "category": "Utility",
+    "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Skype makes staying in touch incredibly easy and fun! If you have a webcam and a microphone, you can easily make video calls and voice calls to anyone in the world who also has Skype. This app\u2019s features are simple to use and you can stay in touch with people anywhere in world!  **Requires Internet",
@@ -2184,7 +2184,7 @@
   },
   {
     "application-id": "com.spotify.Client",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Access all of your favorite music, discover new songs, and share music online with your friends - all in one place. Create shared playlists or share individual songs with your Facebook friends with just a click of a button. Follow your favorite artists or friends to know what they are listening to, and then save the songs to your own playlists. Spotify is the best way to have access to millions of songs, and all the latest hits.  **Requires internet",
@@ -2206,7 +2206,7 @@
   },
   {
     "application-id": "com.steampowered.Steam",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
@@ -2241,7 +2241,7 @@
   },
   {
     "application-id": "com.teeworlds.Teeworlds",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Shoot your way to victory in death matches and more! This game has an old-school feel and is an exciting multiplayer shooting game with epic battles of up to 16 players at a time. Play Capture the Flag or Team Deathmatch where you must try to survive in the deadly arena while getting rid of your opponents. This game is packed with cool featuers like the ability to create your own map! Lots of bloody fun awaits you, so grab your virtual weapons and go!",
@@ -2269,7 +2269,7 @@
   },
   {
     "application-id": "de.billardgl.Billardgl",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you love playing billiards, or have you ever wanted to learn how to play? This game lets you have the experience of playing pool and other similar games right from your home. It\u2019s simple to learn and use, yet highly realistic. This app is a great tool for both playing for fun and improving your game.",
@@ -2297,7 +2297,7 @@
   },
   {
     "application-id": "evolution",
-    "category": "Office",
+    "category": "Office;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Staying in touch is an important part of modern life, and email has become one of the best ways of doing so. You may receive emails from faraway or close-by friends and family, access messages containing daily jokes, vocabulary, or news, and even handle important matters \u2013 all via email. When you need to check your email quickly and simply, this app is there for you.  **Requires internet",
@@ -2330,7 +2330,7 @@
   },
   {
     "application-id": "gnome-calculator",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Do you ever consider how often you need to do basic or even complex math in daily life? From calculating a budget to converting measurements in a recipe to figuring out taxes, you probably use equations more regularly than you think. That\u2019s why this calculator app comes in handy. Perform simple arithmetic quickly, or allow the calculator to do more advanced work, depending on your needs. You\u2019ll never struggle to perform mathematical tasks again as long as you have this calculator app!",
@@ -2362,7 +2362,7 @@
   },
   {
     "application-id": "gnome-control-center",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "If you find yourself constantly wanting to change your computer's settings, they are now just a click away! Whether you want to change your desktop's background image, change the brightness of your screen if it's getting late, or if you want to do something like add a new printer, it'll be easier than ever with this cool shortcut!",
@@ -2400,7 +2400,7 @@
   },
   {
     "application-id": "io.github.Supertux",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This game is similar to the original Super Mario Brothers games where you must run and jump your way to new levels. This game features 26 levels with different opponents to fight, and fun music, in addition to a story that you can follow along with as you play.",
@@ -2428,7 +2428,7 @@
   },
   {
     "application-id": "libreoffice-calc",
-    "category": "Office",
+    "category": "Office;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Whatever you need to keep track of, the spreadsheet app can help you do it. This advanced yet easy-to-use spreadsheet has something for everyone: a simple layout that\u2019s easy to understand, plus the ability to do complex calculations. Spreadsheets are used in many careers throughout the world, so getting the hang of this app can also help you gain valuable skills for the job market.",
@@ -2460,7 +2460,7 @@
   },
   {
     "application-id": "libreoffice-impress",
-    "category": "Office",
+    "category": "Office;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Create clean, attractive, and professional presentations with this presentation app. This app features the ability to use text, drawing tools, transitions, 2-D and 3-D art, and even animations to get your point across in a beautiful and compelling way. Best of all, this app is easy to understand and use, with simplified steps for creating exactly what you need.",
@@ -2494,7 +2494,7 @@
   },
   {
     "application-id": "libreoffice-writer",
-    "category": "Office",
+    "category": "Office;",
     "core": true,
     "custom-splash-screen": "",
     "description": "This app gives you all the features of the best word processing applications and is compatible with Microsoft Office. Create and edit documents easily, create short notes and longer pieces of writing with annotations and diagrams. It\u2019s all possible with this app. Your documents will look professional enough to present to employers, teachers, or other important people. Use this app to compose your next masterpiece or to take great notes; either way, you\u2019ll have simple yet powerful tools available.",
@@ -2531,7 +2531,7 @@
   },
   {
     "application-id": "net.blockout.Blockout2",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you love puzzle games? Then you\u2019ll love BlockOut 2. This 3-D Tetris game is fast-paced and a lot of fun! Figure out how to stack different-shaped blocks together and create whole layers of blocks to get points, all before the blocks stack up too high and you lose! It\u2019s great for the brain, and tons of fun.",
@@ -2557,7 +2557,7 @@
   },
   {
     "application-id": "net.gcompris.Gcompris",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This app makes learning fun for young children with more than 100 games and activities! Educational topics include reading, geography, and math, and the app also features games like chess that are great for young brains. Your child will have a wonderful time developing valuable skills that will help him or her throughout life.",
@@ -2595,7 +2595,7 @@
   },
   {
     "application-id": "net.gcompris.Gcompris.Admin",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Use this app to configure the EduGames app and create the exact learning experience you'd like for your students! You can change the list of activities, or change the controls of the app so that they stay focused on just the games that you want them to. To begin, download this app and the EduGames app from the 'Games' section of the app store. They'll have so much fun that they'll want to spend hours doing just what you want them to!",
@@ -2627,7 +2627,7 @@
   },
   {
     "application-id": "net.minetest.Minetest",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "What kind of a world would you build? Start with just land and water, and from there fill in every detail you can possibly think of! Get creative and build an incredible castle, a giant skyscraper, a massive mansion, and don't forget to add city walls for protection. Explore the world and build whatever you'd like during the day, but make sure you\u2019re prepared for the night. You may find that spiders, skeletons, and zombies might try to attack your city!",
@@ -2653,7 +2653,7 @@
   },
   {
     "application-id": "net.olofson.Kobodeluxe",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Fans of arcade-style games will love this fun shooting game. Protect yourself from and destroy enemy ships as they pursue you through space! This game has fun graphics and lots of challenges, with over 50 levels for you to play. You'll have hours and hours of fun blowing up things in space!",
@@ -2681,7 +2681,7 @@
   },
   {
     "application-id": "net.sourceforge.Atanks",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Annihilate other tanks to earn money, then spend it on bigger and better shields and weapons to wipe out the opposition. Win this exciting game and you'll be a true battle-hardened commander, lose and feel the wrath of your adversary.",
@@ -2707,7 +2707,7 @@
   },
   {
     "application-id": "net.sourceforge.Audacity",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Have you ever wanted to make your own audio clips or songs? With this app, you'll be able to access all the tools you need to create audio clips that you can play for your friends and family. Create high quality clips and songs that you can even share with the world!",
@@ -2733,7 +2733,7 @@
   },
   {
     "application-id": "net.sourceforge.Btanks",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Battle with family and friends with an arsenal of your design. With awesome graphics and cool music, it's a fun and dynamic game for players of all ages. Just make sure you can handle the explosions!",
@@ -2759,7 +2759,7 @@
   },
   {
     "application-id": "net.sourceforge.ChromiumBSU",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Imagine this: You\u2019re the captain of a space ship that must get supplies to the frontline of a great war in outer space. With the help of your robotic fighting fleet, you just might make it. This thrilling, arcade-style game is sure to get your blood pumping. With lots of obstacles and the tools to overcome them, you\u2019re on your way to a galaxy of fun!",
@@ -2786,7 +2786,7 @@
   },
   {
     "application-id": "net.sourceforge.Extremetuxracer",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Make it down a snow and ice-covered mountain as quickly as possible in this awesome racing game! But it won't be easy! You'll need to avoid the trees, rocks, and even fish bones that get in your way and slow you down. Sure to get your heart racing, this game is a must play for any adrenaline addict.",
@@ -2812,7 +2812,7 @@
   },
   {
     "application-id": "net.sourceforge.Frostwire",
-    "category": "Utility",
+    "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Access, download and share almost any file you'd like to with this useful online peer to peer app that enables you to share files with other users who are connected to the BitTorrent network. From music, videos, and games, to more complex downloads like software, you will be able to access shared files from millions of users online. This app even includes a built-in video player so that you can easily view all of the media you download.  **Requires Internet",
@@ -2850,7 +2850,7 @@
   },
   {
     "application-id": "net.sourceforge.Rili",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Sure to be an instant hit with the whole family, this is a game featuring a steam locomotive which you use to drive across many levels collecting coaches as you go. Collect all the coaches to win the game!",
@@ -2876,7 +2876,7 @@
   },
   {
     "application-id": "net.sourceforge.Supertuxkart",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you love racing games? Then this is the app for you! Race down easy, medium and hard race tracks as Tux, the penguin, and try to beat your own speed or a friend's. If you are able to get the red fish, you'll gain special powers that will help you win, but make sure to avoid the green fish or you'll slow down. This game is great for both kids and adults alike and is sure to entertain you and your friends for hours!",
@@ -2904,7 +2904,7 @@
   },
   {
     "application-id": "net.sourceforge.Torcs",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Rip around turns and scream past other drivers in this exciting 3D car racing game. It's so realistic that you'll swear you smell the burning rubber! Advanced users also have an opportunity to create their own custom drivers to gain an even bigger advantage over their opponents. You'll love racing your fast cars, and soon you'll see that all of your friends will want to play too!",
@@ -2930,7 +2930,7 @@
   },
   {
     "application-id": "net.sourceforge.Tuxfootball",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you love soccer? Now you can play all day with your favorite penguins! Show off your skills and strategy while always controling the players with the ball. Pretty soon, you'll feel like you're ready to take on the professionals!",
@@ -2956,7 +2956,7 @@
   },
   {
     "application-id": "net.sourceforge.Warmux",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Exterminate your opponent in a cartoon word using dynamite, grenades, bazookas, or even a baseball bat. Each player controls their own team and must destroy his adversary using his arsenol and wits, as turn by turn, each member of each team attempts to destroy his opponents.",
@@ -2982,7 +2982,7 @@
   },
   {
     "application-id": "net.wz2100.Warzone2100",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "In Warzone 2100 you command forces to rebuild the world after nuclear war has destroyed it. Play it alone or with friends; either way you'll dive head first into another world where you'll be living and breathing military strategy. Research technologies, build units, and plan battles in this game of strategy, tactics, and wit.",
@@ -3008,7 +3008,7 @@
   },
   {
     "application-id": "org.armagetronad.Armagetronad",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This exciting game lets you into the world of Tron. Get behind the wheel of a \u201clight cycle\u201d, a cool and futuristic motorcycle, and battle others on the road. Force your opponents to hit the arena walls and win. This app is easy to learn and a lot of fun to play!",
@@ -3036,7 +3036,7 @@
   },
   {
     "application-id": "org.debian.Tuxpuck",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
@@ -3062,7 +3062,7 @@
   },
   {
     "application-id": "org.debian.alioth.tux4kids.Tuxmath",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Learn math by playing games! Starring kids\u2019 favorite buddy, Tux the Penguin, this fun math game app leads kids through math facts in a way that\u2019s fun and engaging. You want your children\u2019s math skills to improve, and they want to play games \u2013 so encouraging them to play brings together the best of both worlds and will help your child learn to love math!",
@@ -3100,7 +3100,7 @@
   },
   {
     "application-id": "org.debian.alioth.tux4kids.Tuxtype",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!",
@@ -3138,7 +3138,7 @@
   },
   {
     "application-id": "org.freeciv.Freeciv",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Create your own world with this action-packed game that lets you travel through time and start a civilization of your very own. You'll start at the begging, in a pre-historic world, where you'll need to create your own tribe. Then, you'll move onto the middle ages, survive the plague and invent the wheel. You'll continue through the ages until you reach modern times and need to balance world politics with your agenda to lead your people to conquering the moon and beyond!",
@@ -3171,7 +3171,7 @@
   },
   {
     "application-id": "org.freecol.Freecol",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Have you ever wanted to start your own country? Well, now you can. Go back into an alternative universe where America has still not been colonized and create towns, cities, and states that will support your ultimate plan. Will you try to dominate the world, or will you promote international peace and prosperity? You decide.",
@@ -3199,7 +3199,7 @@
   },
   {
     "application-id": "org.frozenbubble.FrozenBubble",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Play by yourself or challenge your friends to an exciting game of frozen bubbles! Match the colored bubbles in order to knock them down and get them out of the way before they stack up too high and crash into you. You need to have a good strategy and develop a quick trigger finger in order to win!",
@@ -3227,7 +3227,7 @@
   },
   {
     "application-id": "org.gimp.Gimp",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Edit your photos to create even more beautiful works of art with this advanced photo editor. This app is compatible with Adobe Photoshop, a popular photo editor for Windows computers. If you are new user, it can serve as a basic painting program. Advanced users can do things like convert formats of files and apply a variety of retouching and filtering tools to create works of art. There are so many possibilities for how to create cool images once you get the hang of this helpful editing app!",
@@ -3263,7 +3263,7 @@
   },
   {
     "application-id": "org.gnome.Freecell",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This application lets you play a new type of solitaire that will keep you entertained for hours! The general idea is to put cards of the same suit down in numerical order, but it\u2019s a little more complicated than that. This card game challenges the mind and provides plenty of entertainment for you to enjoy.",
@@ -3299,7 +3299,7 @@
   },
   {
     "application-id": "org.gnome.Genius",
-    "category": "Utility",
+    "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This math application offers advanced mathematical computing functions that can be used for far more than just basic calculations. If you\u2019re a math whiz who loves to experiment with this exciting discipline, this is the app for you. And even if you\u2019re not, the app works wonderfully as an advanced calculator. Everything you need to figure out numerical mysteries is right here.",
@@ -3327,7 +3327,7 @@
   },
   {
     "application-id": "org.gnome.Gnote",
-    "category": "Utility",
+    "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you find yourself writing down lots of notes on pieces of paper that later get lost or torn? Or, are there so many notes on your desk that you're running out of space? No matter what kind of notes you need to take, this note app can help you keep them all in one place. This app also has the ability to link notes together so that you can easily access all related notes and stay even more organized!",
@@ -3360,7 +3360,7 @@
   },
   {
     "application-id": "org.gnome.Iagno",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Turn over the pieces in front of you so that they are all the same color. Simple? Not at all! You can change pieces to your color if you can put one of your pieces in a place where you can make a row, column or diagonal line across consecutive pieces of the other color. So, you need to flip over the pieces carefully to try to make ALL of the pieces your color. Think very strategically and see if you can figure this puzzle out!",
@@ -3387,7 +3387,7 @@
   },
   {
     "application-id": "org.gnome.Nautilus",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Get organized with this app, which helps you find all of your documents and files, no matter how long ago you saved them. Organize things in a way that makes sense to you, adding and re-naming folders in a way that will help you stay on top of your pictures, videos, and documents. With this app, you can store everything in one place and you\u2019ll never lose that important file or special photo again.",
@@ -3416,7 +3416,7 @@
   },
   {
     "application-id": "org.gnome.Quadrapassel",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "You'll need to be quick if you want to win this game! Change the shape of pieces that fall from the top in order to match colors and make them disappear. If you don't make enough color blocks disappear, you'll find that your screen will soon fill up and you'll need to try again. And just when you think you're quick enough, the game will speed up, so be ready for a challenge!",
@@ -3443,7 +3443,7 @@
   },
   {
     "application-id": "org.gnome.Screenshot",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Do you ever wish you could take a picture of your screen to save? Well now you can, with this easy-to-use screenshot app. You can choose to take a shot of your entire screen, or of just one of your windows. That way, you can make sure to save just what you need and nothing more.",
@@ -3475,7 +3475,7 @@
   },
   {
     "application-id": "org.gnome.Solitaire",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Solitaire is a classic card game that is fun for people of all ages. It\u2019s easy to figure out the rules, but it takes time to master the game. Luckily, you\u2019ll want to put in the time to really learn how to play, because you\u2019ll be having so much fun. This engrossing and mind-enriching game is sure to entertain you, hour after hour.",
@@ -3513,7 +3513,7 @@
   },
   {
     "application-id": "org.gnome.Terminal",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "If you're an advanced user and want to display system information and launch applications without using the mouse, now you can do just that with this basic terminal app. With this modern terminal, you can see all of your commands written in different colors to help make sure you are typing them in correctly and to help you easily identify any mistakes you have made.",
@@ -3539,7 +3539,7 @@
   },
   {
     "application-id": "org.gnome.Tetravex",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Try to match up all of the same numbers on the blocks to win this tricky game. You'll need to think carefully, but quickly, in order to finish the puzzle. You will be timed, so make sure to keep getting faster in order to beat your or your friends' best time!",
@@ -3566,7 +3566,7 @@
   },
   {
     "application-id": "org.gnome.Totem",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Do you love watching movies? Do it the right way with this video application that allows you to watch movies you have downloaded in full-screen mode. Other basics, like volume control and playlists, make your video-watching experience easy and fun. With this application you'll want to invite all of your family and friends to join you in watching all of your favorite movies!",
@@ -3602,7 +3602,7 @@
   },
   {
     "application-id": "org.gnome.gedit",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Use this simple app to create and edit files that require plain text inputs. If you are a programmer or an aspiring programmer, you will need this app. With robust functionality and an easy-to-use interface, this text editor should be perfect for all of your text editing needs.",
@@ -3640,7 +3640,7 @@
   },
   {
     "application-id": "org.gnome.people.dscorgie.Labyrinth",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you ever have a complicated idea, but have trouble organizing it? If so, try mind mapping! A mind-map is a diagram used to represent words, ideas, tasks or other items linked to a central key word or idea. You'll be able to create all kinds of cool diagrams that you can save and share.",
@@ -3667,7 +3667,7 @@
   },
   {
     "application-id": "org.inkscape.Inkscape",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This app is for intermediate and advanced graphic designers who need to create and edit their graphics and images. This app gives you advanced features and is comparable to Adobe InDesign. For example, it allows you to create SVGs (Scalable Vector Graphics), which allow your graphics to remain high quality no matter what size they are. Create beautiful ads, brochures, presentations and artwork with this great free graphics app!",
@@ -3701,7 +3701,7 @@
   },
   {
     "application-id": "org.kde.Kalzium",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "The periodic table of the elements is one of the basic building blocks of science, and now you can have it at your fingertips. This app features a color-coded periodic table that makes learning each element easier and more fun. Select elements to learn basic information about them, like their melting points, mass, and more. More complex information, like visualization of elements\u2019 spectral lines, makes this app perfect for scientific discovery. You won\u2019t believe how much you can learn with this beautiful, simple, and informative app.",
@@ -3736,7 +3736,7 @@
   },
   {
     "application-id": "org.kde.Kapman",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "If you love Pac-Man, then you you'll love this game too! Eat dots to gain points but don't get caught by the ghosts or you'll lose. As you gain skills and beat levels, the speed of the game increases, providing a more and more exciting challenge. You won\u2019t ever want to stop playing, and your friends and family, from kids to grandparents, will love the game, too!",
@@ -3771,7 +3771,7 @@
   },
   {
     "application-id": "org.kde.Katomic",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "If you\u2019re struggling with concepts in chemistry, or simply looking for a way to strengthen your understanding, then you've found the right app to help you! This challenging game has you create molecules from atoms \u2013 the perfect way to learn while having fun! The screen will show you what your molecule should look like, and you can move your atoms around to make the correct molecule. This game requires strategy and quick thinking, and will teach you a ton!",
@@ -3803,7 +3803,7 @@
   },
   {
     "application-id": "org.kde.Kblocks",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This game is similar to Tetris, so if you love that game, you will love this one! Match up the block shapes in order to make them disappear and keep them from filling the screen. You will need to be really fast or else you'll lose, so pay attention and get ready for some very fast-actioned fun!",
@@ -3838,7 +3838,7 @@
   },
   {
     "application-id": "org.kde.Kbounce",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This is a fun game with a simple goal: you must build walls to decrease the area in which a bouncing ball on the screen can move. Once you fill most of the screen with walls, you\u2019ll be able to move on to the next level. This game has an element of puzzle solving, and is fast-paced and entertaining. It requires quick thinking and fast reflexes!",
@@ -3870,7 +3870,7 @@
   },
   {
     "application-id": "org.kde.Kbruch",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "One of the trickiest parts of the math we do every day is calculating fractions and percentages, and now you\u2019ll never have to second-guess your math again! This app features games and exercises to sharpen your skills, including arithmetic, comparison, conversion, and factorization. Learn all about fractions and percentages, and practice as much as you want. We encounter this kind of math almost every day, so your new skills will benefit you in unexpected ways!",
@@ -3902,7 +3902,7 @@
   },
   {
     "application-id": "org.kde.Kdiamond",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "In this fast-paced game, your job is to build lines of three diamonds of the same type. Simply swap diamonds with their neighbors to make your lines. Better do it quickly, so you can build as many lines as possible before the round is over! This is an easy and highly entertaining game you can play for just a little while, or for hours on end. It\u2019s fun, fast, and great for many age levels.",
@@ -3934,7 +3934,7 @@
   },
   {
     "application-id": "org.kde.Kgeography",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "How much do you know about world geography and political affairs? Learn the world's geography through an engaging game. First, check out the map and learn about names, capitals, and flags. Then, it\u2019s time to test your knowledge! Guess capitals and flags or try to place national borders onto an empty map. Before you know it, you\u2019ll know about every corner of the world and will have had a lot of fun learning it all!",
@@ -3972,7 +3972,7 @@
   },
   {
     "application-id": "org.kde.Kgoldrunner",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Your enemies are right on your heels as you move through mazes collecting gold in this engaging game. Featuring challenging puzzles and an exciting objective, this game is sure to be a favorite. You'll find hundreds of levels for hours of gameplay, with new mazes at every level. Just don\u2019t fall through any trapdoors!",
@@ -4004,7 +4004,7 @@
   },
   {
     "application-id": "org.kde.Khangman",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Practice your vocabulary the fun way! You'll learn new words with this puzzle game, and it's something that the whole family can play together. How do you play? Well, the computer will choose a word and players will try to guess what that word is by guessing its letters one by one until they can guess the whole word. As the players guess correctly, more and more of the word is shows, but if you make too many wrong guesses then you'll lose and have to start over with a new word!",
@@ -4036,7 +4036,7 @@
   },
   {
     "application-id": "org.kde.Kigo",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Based on a two-player board game popular in Asia, this app has easy-to-learn rules, but requires a great deal of strategy. It\u2019s the perfect way to pass the time while exercising your mind. The goal is simple: move your black or white pieces on the grid (the size of the grid depends on the difficulty level you choose), and try to surround more of the board than your opponent. If you like games like chess, then you'll love this great strategy game too!",
@@ -4068,7 +4068,7 @@
   },
   {
     "application-id": "org.kde.Killbots",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "How will you get away from the killer robots bent on destruction? Figure it out in this simple, entertaining game. You may be outnumbered by an endless stream of robots, but with your intelligence and handy teleportation device you can defeat them. Outsmart all of the killer robots to win and live to tell the tale!",
@@ -4100,7 +4100,7 @@
   },
   {
     "application-id": "org.kde.Kjumpingcube",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Practice your strategic thinking with this challenging dice-based game! You move by clicking on a vacant square or one you already own. If you click on a vacant square, its color changes to show that you now own it. Each time you click on a square, its value increases by one. Once a square has more points than immediate neighbors, its points are distributed among the neighbors (the points jump around). If a neighboring square is owned by your opponent, you take control of that square and all of its points. You will need to think carefully to control all the squares, and since dice can change hands very quickly, this game is sure to keep you engaged and on your toes! ",
@@ -4132,7 +4132,7 @@
   },
   {
     "application-id": "org.kde.Klines",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This game is so fun and addicting, you\u2019ll never want to stop playing. The concept is simple: Gather colored balls from the game board into lines of five balls of the same color, which will remove them from the board. It\u2019s more challenging than you\u2019d expect, though, because new balls arrive after every move. It\u2019s your job to get the game board as clear of balls as possible; you lose if it fills up completely!",
@@ -4164,7 +4164,7 @@
   },
   {
     "application-id": "org.kde.Knavalbattle",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Try to guess where your enemies ships are to blow them out of the water before they get you! This is a fun strategy game that requires two people. You can play against a friend, against someone else on the internet, or against your computer. You'll take turns trying to guess where each others' ships are, and the first person to sink all of their enemies' ships wins. Arrr you ready for some great naval fun?",
@@ -4196,7 +4196,7 @@
   },
   {
     "application-id": "org.kde.Knetwalk",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Who knew building computer networks could be fun? You'll need to create the right connections in as few turns as possible to win - so get ready to move the wires and figure out the puzzle quickly! Once you\u2019ve succeeded, you\u2019ll find a high score list, allowing you to find competitors! This app helps you understand how computer networks work, but more importantly, it\u2019s an enjoyable and competitive game you\u2019ll love to play.",
@@ -4228,7 +4228,7 @@
   },
   {
     "application-id": "org.kde.Ksame",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Show off your pattern-finding skills in this addicting game. Match all of the same colored marbles to clear the board and win, but remember: the more marbles you clear at once, the higher your score will be, so think strategically about all of your moves! What may look easy at first is a true challenge. A really fun challenge!",
@@ -4260,7 +4260,7 @@
   },
   {
     "application-id": "org.kde.Ksquares",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Based on a popular old game, this fun app lets you stretch your mind and solve puzzles. The objective is to complete more squares on the grid than your opponent. Taking turns drawing lines between dots, you\u2019ll form squares while trying to block your opponents\u2019 squares. This game requires geometrical thinking as well as strategy, and is sure to provide hours of entertainment. Be careful \u2013 you just might become addicted!",
@@ -4292,7 +4292,7 @@
   },
   {
     "application-id": "org.kde.Ksudoku",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Are you better than your friend is at puzzles? Find out by playing this fun number puzzle game! You can play alone, have other people help you, or challenge your friends and family to see who can solve the puzzle first. This app has special features, like the ability to create games you can print out, and the ability to help you solve any Sudoku puzzle so that you can learn how to solve it on your own. Whether you are completely new to Sudoku, or are an experienced player, you'll love this app!",
@@ -4327,7 +4327,7 @@
   },
   {
     "application-id": "org.kde.Ktuberling",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This is a silly game for children and their parents to play together. Based on the Mr. Potato Head toy, it allows you to drag and drop facial features onto a potato, making funny faces with such touches as mustaches, elf ears, blonde ponytails, and bowties. There is no objective to this game except lots of laughter. Make the goofiest face you can!",
@@ -4362,7 +4362,7 @@
   },
   {
     "application-id": "org.kde.Kubrick",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This puzzling game has lots of options to keep your brain working! Modeled after the popular Rubik's Cube this game is a 3-D experience that has you turning small bricks in a large cube to try and make each of the cube's sides the same solid color. Smaller, larger, and differently shaped objects offer their own special challenges. The game also includes demonstrations of cool solution moves, so you can follow along with the experts, and you can even design your very own challenge!",
@@ -4394,7 +4394,7 @@
   },
   {
     "application-id": "org.kde.Kwordquiz",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Learning new words is a great way to speak and write more clearly, but sometimes it can be hard to do. Using flashcards can be a great help, whether you\u2019re studying a foreign language or trying to memorize new vocabulary words. This app make memorization easy and fun with interactive flashcards and quizzes that will help you test your knowledge and keep learning all you want.",
@@ -4426,7 +4426,7 @@
   },
   {
     "application-id": "org.kde.Marble",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Where do players from FC Barcelona or Real Madrid live? How far away are you from a country where elephants and lions wander around freely? How close is the nearest volcano? These are all questions that the right maps can help us answer. This app will give you access to all sorts of maps from all over the world and from different ages, so that you can even see how the world has changed over time!",
@@ -4454,7 +4454,7 @@
   },
   {
     "application-id": "org.kde.Palapeli",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "If you\u2019re a big fan of jigsaw puzzles, you\u2019ll love this game. Unlike other games of its type, it\u2019s not necessary to align pieces on a grid. Instead, Palapeli has a more real-life feel, with pieces that are freely movable. Choose your puzzle and start putting together the pieces. This game is fun, rewarding, and as true to life as can be.",
@@ -4486,7 +4486,7 @@
   },
   {
     "application-id": "org.learningequality.KALite",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "org.learningequality.kalite-splash.jpg",
     "description": "Learning is easy and fun with video courses on subjects like math, biology, chemistry, physics, and many more! Students all over the world are successfully using these videos to conquer difficult subjects in a fun and engaging way. Whether you need extra help on your schoolwork or are setting out to learn something new on your own, you'll find what you're looking for here. Learn difficult subjects in a way that makes sense to you, and see how this app and these videos can help you succeed in school and in life!",
@@ -4524,7 +4524,7 @@
   },
   {
     "application-id": "org.maemo.Numptyphysics",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Who knew the laws of physics could be so much fun? With this app, you can solve puzzles by drawing objects like pulleys, levers, and ramps. If your creations turn out right, you\u2019ll accomplish that level\u2019s task and move to the next level. This challenging game will also teach you some basic physics, but you\u2019ll be having so much fun that you\u2019ll hardly know you\u2019re learning.",
@@ -4552,7 +4552,7 @@
   },
   {
     "application-id": "org.marsshooter.Marsshooter",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "In the year 3547, civilizations across the galaxy have settled their own planets. Your own people live in peace and harmony with the environment. But outside of your peaceful planet, a great war is raging. You are a famous fighter who is known for your honor and skill, and you will have to protect your planet from your jealous neighbors who want to destroy it! This game has a multiplayer option, allows you to choose from a variety of weapons to fight, and even allows you to customize your own spaceship. You'll want to keep playing until you succeed in returning peace to your planet!",
@@ -4578,7 +4578,7 @@
   },
   {
     "application-id": "org.megaglest.MegaGlest",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Kings, castles, and dragons all unite in this awesome strategy game that will make you want to rule your own civilization. Play against your friends to see who has what it takes to rule this wild fantasy world where magic makes you even more powerful and you can conquer whatever part of the realm you desire!",
@@ -4613,7 +4613,7 @@
   },
   {
     "application-id": "org.openarena.Openarena",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "If arena battles are your idea of a good time, then you\u2019ll love this application. Be warned \u2013 this is a game of serious skill, and serious bloodshed. Use different styles of weapons in contests like Capture the Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each of these modes offers its own form of excitement as you battle your enemies!",
@@ -4639,7 +4639,7 @@
   },
   {
     "application-id": "org.openscad.Openscad",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This app is made for programmers who want to create 3D CAD models. The app does not focus on the artistic aspects of 3D modeling, but rather on the CAD elements, so it is best suited for people who want to create machine parts, for example, instead of something like 3D models for movies. As the programmer, you will have full control over the modeling process so that you can easily change any step and create the configurable designs you desire. You'll need to have a deep understanding of how to create CAD models, and if you do, this app is a great way to build the 3D models you need.",
@@ -4666,7 +4666,7 @@
   },
   {
     "application-id": "org.pitivi.Pitivi",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Create videos for projects, friends, family, or just for fun! Look through hundreds of transitions, video effects, audio effects, and filters to help make your video just right. Whether you want to tell a story, make a gift for a friend, create a professional-looking video, or just want to express yourself, this video editor will help you do it!",
@@ -4698,7 +4698,7 @@
   },
   {
     "application-id": "org.seul.Pingus",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Penguins are among the cutest animals, so who wouldn\u2019t want to play a fun game protecting these beloved creatures from falling off cliffs and into freezing waters? With lots of levels and adorable characters, this is sure to become your new favorite game. Watch your penguins use the tools you give them in order to avoid an untimely end.",
@@ -4731,7 +4731,7 @@
   },
   {
     "application-id": "org.squeakland.Etoys",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "This app is a great way for kids to learn how to program while learning other disciplines and having a lot of fun! Create interactive drawings, stories, models and games with a drag-and-drop interface that helps to prevent syntax errors that are often frustrating to new learners. This app encourages curiosity and exploration, and can be used to create anything from simple drawings to complex models of the physical world. While originally designed for students who are 8 - 13 years old, teachers have found that this app has helped students of all ages, from young learners to college-aged students alike!",
@@ -4769,7 +4769,7 @@
   },
   {
     "application-id": "org.squeakland.Scratch",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Do you love computer games and applications? Why not learn how to make your own? This app teaches you the basics of computer programming in a fun and easy-to-learn way. You can pick characters and objects that you like and then add instructions so that they do what you want. As you become more advanced, you'll see that you can make almost anything you want come to life on the screen by putting in the right instructions. What cool video game will you someday make? ",
@@ -4801,7 +4801,7 @@
   },
   {
     "application-id": "org.stellarium.Stellarium",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Discover the night sky with this application. With a catalogue of more than 600,000 stars, constellations from more than a dozen cultures, and many more features, this application lets you see and get to know the stars right from your desktop. This application shows you a night sky that is so realistic, it matches the one you see above you. Set your location coordinates and learn about the stars above you!",
@@ -4829,7 +4829,7 @@
   },
   {
     "application-id": "org.sugarlabs.Turtleblocks",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Learn the basics of computer programming while creating beautiful artwork! First, drag and drop commands for your turtle to follow from the menu. As the turtle moves, it will draw colorful lines behind it. You can change the colors, and start to design your masterpiece, all while learning the basics of computer programming.",
@@ -4867,7 +4867,7 @@
   },
   {
     "application-id": "org.tuxfamily.Xmoto",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Love motorcycles? Then you're going to love this racing game where physics plays an important role in winning! You must control your bike to its physical limit if you want to have a chance of finishing the difficult courses. Learn about science and practice your racing skills at the same time in this fast-paced, exciting test of speed!",
@@ -4893,7 +4893,7 @@
   },
   {
     "application-id": "org.tuxpaint.Tuxpaint",
-    "category": "Education",
+    "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Create beautiful artwork with this fun and easy to use app! Tux the penguin helps guide children so that they know how to use all of the tools. Recommended ages for using this app are 3 - 12, but anyone who is young at heart is sure to love it! Use stamps, play with shapes, or draw freehand to create something special. If your child loves drawing and creating artwork, then download this app and get them started on their next masterpiece!",
@@ -4931,7 +4931,7 @@
   },
   {
     "application-id": "org.wesnoth.Wesnoth",
-    "category": "Game",
+    "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
     "description": "Battle for control of the land, villages, and resources in this fantasy-themed strategy game. Each player controls an army of their own design and uses it to seek dominance. An exciting blend of history, fantasy, and strategy, this game is sure to reveal a great leader inside you.",
@@ -4957,7 +4957,7 @@
   },
   {
     "application-id": "rhythmbox",
-    "category": "AudioVideo",
+    "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
     "description": "In addition to listening to your favorite music, this app lets you search through your library, create playlists, play and burn CDs, shows you album art and even songs' lyrics. This app also supports Internet radio streaming and audio visualizations. Enjoy all your favorite songs, stored and sorted in one convenient app.",
@@ -4992,7 +4992,7 @@
   },
   {
     "application-id": "shotwell",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": true,
     "custom-splash-screen": "",
     "description": "We all love to take pictures in our everyday lives \u2013 and we especially love downloading them to our computers so we can edit and share them via social media. This app lets you import photos from a digital camera or phone seamlessly. You can then arrange them into albums, edit them for maximum beauty and effect, and of course, display them on your favorite social networks, like Facebook.",
@@ -5027,7 +5027,7 @@
   },
   {
     "application-id": "simple-scan",
-    "category": "Graphics",
+    "category": "Graphics;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Preserving your photos and important documents by making digital copies has never been easier! Simply hook up the scanner to your computer, open this app, and start scanning. Once a document or photo is digitized, sharing them is as easy as sending them via email, uploading them to your favorite social network, or putting them on a USB memory. This app will let you make sure the things you scan are clear, straight, and in any format you need!",
@@ -5059,7 +5059,7 @@
   },
   {
     "application-id": "vinagre",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Now you can manage your own computer, or a family member's, without being in front of it. This is great for people who want to help someone troubleshoot their computer from afar, or manage their computer from another computer.",
@@ -5081,7 +5081,7 @@
   },
   {
     "application-id": "yelp",
-    "category": "Utility",
+    "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
     "description": "Do you have questions about how to use Endless? Now you can have the answers to your questions be just a click away! We've created the Help Center for both new and advanced users, so that you can learn how to use Endless at the level you need. If you can't find the answer to your questions - let us know! You help to make Endless better by giving us your feedback, and by asking us questions.",

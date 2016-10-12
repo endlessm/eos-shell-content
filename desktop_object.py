@@ -40,7 +40,10 @@ class DesktopObject(object):
             if key == 'Categories':
                 if val is None:
                     return ''
-                return ';'.join(val.split(' and ')) + ';'
+                categories = ';'.join(val.split(' and '))
+                if not categories.endswith(';'):
+                    categories += ';'
+                return categories
             if key == 'X-Endless-LaunchMaximized':
                 # In the CMS, the splash screen type serves a double duty:
                 # if the type is 'None', we don't launch maximized
