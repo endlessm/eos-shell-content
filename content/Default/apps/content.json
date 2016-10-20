@@ -2197,7 +2197,11 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.spotify.client-screenshot1.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.spotify.client-thumb.jpg",
     "subtitle": "Listen to music using Spotify",
@@ -4501,16 +4505,6 @@
     ],
     "screenshots": {
       "C": [
-        "org.learningequality.kalite-screenshot1.jpg",
-        "org.learningequality.kalite-screenshot2.jpg",
-        "org.learningequality.kalite-screenshot3.jpg"
-      ],
-      "es": [
-        "org.learningequality.kalite-screenshot1.jpg",
-        "org.learningequality.kalite-screenshot2.jpg",
-        "org.learningequality.kalite-screenshot3.jpg"
-      ],
-      "pt": [
         "org.learningequality.kalite-screenshot1.jpg",
         "org.learningequality.kalite-screenshot2.jpg",
         "org.learningequality.kalite-screenshot3.jpg"
