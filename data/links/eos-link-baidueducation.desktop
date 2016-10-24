@@ -3,7 +3,7 @@ Version=1.0
 Name=百度中小学教育
 Comment=百度教育针对中小学生的在线教育平台
 Type=Application
-Exec=chromium-browser http://jiaoyu.baidu.com/k12Bank/index?city=%E4%B8%8A%E8%AF%BE%E5%9F%8E%E5%B8%82&cityid=0&qid=1465147737517358837&pvid=1465147737517358837&zt=self&pssid=0&tn=NONE&queryTag=3/
+Exec=gvfs-open http://jiaoyu.baidu.com/k12Bank/index?city=%E4%B8%8A%E8%AF%BE%E5%9F%8E%E5%B8%82&cityid=0&qid=1465147737517358837&pvid=1465147737517358837&zt=self&pssid=0&tn=NONE&queryTag=3/
 Icon=eos-link-baidueducation
 Categories=Education;Health;
 X-Endless-LaunchMaximized=true

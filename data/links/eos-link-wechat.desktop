@@ -3,7 +3,7 @@ Version=1.0
 Name=微信
 Comment=腾讯微信
 Type=Application
-Exec=chromium-browser --app=https://web.wechat.com/
+Exec=gvfs-open webapp://web.wechat.com@https://web.wechat.com/
 Icon=eos-link-wechat
 Categories=Entertainment;
 StartupWMClass=web.wechat.com
