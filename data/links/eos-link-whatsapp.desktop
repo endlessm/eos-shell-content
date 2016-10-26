@@ -3,7 +3,7 @@ Version=1.0
 Name=WhatsApp
 Comment=Chat and text with friends
 Type=Application
-Exec=chromium-browser --app=https://web.whatsapp.com/
+Exec=gvfs-open webapp://web.whatsapp.com@https://web.whatsapp.com/
 Icon=eos-link-whatsapp
 Categories=Entertainment;
 StartupWMClass=web.whatsapp.com

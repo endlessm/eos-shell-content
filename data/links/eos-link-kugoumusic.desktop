@@ -3,7 +3,7 @@ Version=1.0
 Name=酷狗音乐
 Comment=免费提供最全的在线音乐试听下载
 Type=Application
-Exec=chromium-browser --app=http://www.kugou.com/
+Exec=gvfs-open webapp://www.kugou.com@http://www.kugou.com/
 Icon=eos-link-kugoumusic
 Categories=Entertainment;
 StartupWMClass=www.kugou.com

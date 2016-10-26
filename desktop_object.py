@@ -138,24 +138,24 @@ class LinkObject(DesktopObject):
         # If this link is white-listed as a web app,
         # include the appropriate command
         if self.get('Id') in self._web_apps:
-            app_cmd = '--app='
+            webapp_prefix = 'webapp://' +  self._get_startup_wmclass() + '@'
         else:
-            app_cmd = ''
+            webapp_prefix = ''
 
         # If there's only one URL for this link,
-        # just return an exec which opens that url in chromium.
+        # just return an exec which opens that url in the browser.
         if len(self._url_locales) == 0:
-            return 'chromium-browser ' + app_cmd + self._default_url
+            return 'gvfs-open ' + webapp_prefix + self._default_url
 
         # Otherwise, send each url with its respective locale 
         # to eos-exec-localized.
         exec_str = 'eos-exec-localized '
-        exec_str += '\'chromium-browser ' + app_cmd + self._default_url + '\' '
+        exec_str += '\'gvfs-open ' + webapp_prefix + self._default_url + '\' '
 
         # Process locales in the same order they were appended
         for locale in self._url_locales:
             url = self._localized_urls[locale]
-            exec_str += locale + ':\'chromium-browser ' + app_cmd + url + '\' '
+            exec_str += locale + ':\'gvfs-open ' + webapp_prefix + url + '\' '
 
         return exec_str
 
