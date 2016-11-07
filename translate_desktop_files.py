@@ -13,6 +13,8 @@ KEY_TO_CONTEXT_APPS = {
     'Name': 'title',
     'Comment': 'subtitle'
 }
+KEY_TO_CONTEXT_LINKS = {
+}
 KEY_TO_CONTEXT_FOLDERS = {
     'Name': 'folderName'
 }
@@ -79,6 +81,8 @@ def translate_dir(in_dir):
                     try:
                         if 'directory.in' in desktop_in_file:
                             msgctxt = KEY_TO_CONTEXT_FOLDERS[key]
+                        elif desktop_in_file.startswith('eos-link-'):
+                            msgctxt = KEY_TO_CONTEXT_LINKS[key]
                         else:
                             msgctxt = KEY_TO_CONTEXT_APPS[key]
                         translation = translate(strings_dict, localestring, lang, msgctxt)
