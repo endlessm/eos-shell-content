@@ -1,16 +1,6 @@
 [Desktop Entry]
 Version=1.0
 Name=Prensa Libre
-Name[ar]=برنسا ليبري
-Name[bn]=প্রেন্সা লিব্রে
-Name[es]=Prensa Libre
-Name[fr]=Prensa Libre
-Name[hi]=प्रेंसा लिब्रे
-Name[id]=Prensa Libre
-Name[pt_BR]=Prensa Libre
-Name[th]=Prensa Libre
-Name[vi]=Prensa Libre
-Name[zh_CN]=自由新闻报
 Comment=Periódico de Guatemala
 Type=Application
 Exec=chromium-browser http://www.prensalibre.com/
