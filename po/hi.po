@@ -5,13 +5,14 @@
 # Translators:
 # e2f_in_c3 <e2f_in_c3@outlook.com>, 2016
 # e2f_in c7 <e2f_in_c7@outlook.com>, 2016
+# Prasadh Baapaat <prasadhbaapaat@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-09-20 21:42+0000\n"
-"PO-Revision-Date: 2016-09-20 21:43+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"PO-Revision-Date: 2016-11-07 21:00+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Hindi (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -145,12 +146,12 @@ msgstr "बाहरी अंतरिक्ष से ज्यादा क�
 #: content/Default/apps/content.json.h:22
 msgctxt "title"
 msgid "Bangladesh National Curriculum"
-msgstr ""
+msgstr "बांग्लादेश राष्ट्रिय पाठ्यक्रम"
 
 #: content/Default/apps/content.json.h:23
 msgctxt "subtitle"
 msgid "National curriculum for Class I through Class X in all subjects"
-msgstr ""
+msgstr "पहली कक्षा से दसवीं कक्षा तक सभी विषयों के लिए राष्ट्रीय पाठ्यक्रम"
 
 #: content/Default/apps/content.json.h:24
 msgctxt "description"
@@ -160,7 +161,7 @@ msgid ""
 "Each subject contains a textbook with lots of information and practice "
 "exercises to help you study and succeed in school. If you're a teacher, this"
 " app is perfect for guiding your class throughout the school year."
-msgstr ""
+msgstr "पहली कक्षा से दसवीं कक्षा तक बंगाली, गणित, विज्ञान, सामाजिक अध्ययन, धर्म, अंग्रेजी, और अधिक विषयों के बारे में सीखे। आपको यशस्वी होने के लिए यहाँ प्रत्येक विषय के लिए पाठयपुस्तक उपलब्ध हैं जिसमे उस विषय के बारे में जानकारी और अध्ययन पाठ दिए गए हैं।\nअगर आप एक शिक्षक हैं तो आप इस एप्लिकेशन के द्वारे पुरे शैक्षणिक वर्ष के लिए अपने विद्यार्थियों को मार्गदर्शन कर सकते है।"
 
 #: content/Default/apps/content.json.h:25
 msgctxt "title"
@@ -226,12 +227,12 @@ msgstr "पढ़िए! जानिए रहस्यों के बारे 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
 msgid "Learn English Curriculum"
-msgstr ""
+msgstr "अंग्रेजी पाठ्यक्रम सीखे"
 
 #: content/Default/apps/content.json.h:35
 msgctxt "subtitle"
 msgid "Primary English curriculum practice"
-msgstr ""
+msgstr "प्राथमिक अंग्रेजी पाठ्यक्रम अभ्यास"
 
 #: content/Default/apps/content.json.h:36
 msgctxt "description"
@@ -242,17 +243,17 @@ msgid ""
 "The resources in this program have a ton of information and practices to "
 "help you study and succeed in school. If you're a teacher, this app is "
 "perfect for guiding your class throughout the school year."
-msgstr ""
+msgstr "इस प्रोग्राम के साथ अपनी प्राथमिक अंग्रेजी कौशल का अभ्यास करें।\nप्रत्येक विषय के लिए, अभ्यास प्रश्न के रूप में एक कार्यपुस्तिका जवाब के साथ है जहाँ अपने उत्तरों की आप जाँच कर सकते है। यहाँ ऑडियो क्लिप भी हैं जिसके उपयोग से आप अपने सुनने के कौशल में सुधार कर सकते हैं। इस एप्लिकेशन में अनेक संसाधन और जानकारी हैं जो अध्ययन करने और स्कूल में सफल होने में आपकी मदद करती है।\nअगर आप एक शिक्षक हैं तो आप इस एप्लिकेशन के द्वारे पुरे शैक्षणिक वर्ष के लिए अपने विद्यार्थियों को मार्गदर्शन कर सकते है।"
 
 #: content/Default/apps/content.json.h:37
 msgctxt "title"
 msgid "Math Curriculum"
-msgstr ""
+msgstr "गणित पाठ्यक्रम"
 
 #: content/Default/apps/content.json.h:38
 msgctxt "subtitle"
 msgid "Primary mathematics curriculum practice"
-msgstr ""
+msgstr "प्राथमिक गणित पाठ्यक्रम अभ्यास"
 
 #: content/Default/apps/content.json.h:39
 msgctxt "description"
@@ -429,13 +430,13 @@ msgstr "क्या आपको नए उद्यमों में रु�
 
 #: content/Default/apps/content.json.h:64
 msgctxt "title"
-msgid "Extra Newspaper"
-msgstr ""
+msgid "Extra"
+msgstr "अतिरिक्त अखबार"
 
 #: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
 msgid "News that affects your day to day"
-msgstr ""
+msgstr "समाचार जो आपके दिन को प्रभावित करता है"
 
 #: content/Default/apps/content.json.h:66
 msgctxt "description"
@@ -699,12 +700,12 @@ msgstr "क्या आप खुद की देखभाल करने क
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Library"
-msgstr ""
+msgstr "पुस्तकालय"
 
 #: content/Default/apps/content.json.h:104
 msgctxt "subtitle"
 msgid "Literary classics for all ages"
-msgstr ""
+msgstr "सभी उम्र के लिए उत्तम साहित्यिक कृतियाँ "
 
 #: content/Default/apps/content.json.h:105
 msgctxt "description"
@@ -950,12 +951,12 @@ msgstr "क्या आपको वीडियो गेम खेलना �
 #: content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Programming"
-msgstr ""
+msgstr "प्रोग्रामिंग"
 
 #: content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid "Learn the basics of front-end web development with this app"
-msgstr ""
+msgstr "इस एप्लिकेशन के साथ फ़्रंट एंड वेब विकास की प्राथमिक जानकारी सीखे "
 
 #: content/Default/apps/content.json.h:141
 msgctxt "description"
@@ -967,13 +968,13 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:142
 msgctxt "title"
-msgid "Publimetro Newspaper"
+msgid "Publimetro"
 msgstr ""
 
 #: content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid "The global newspaper about breaking news in Mexico and the world"
-msgstr ""
+msgstr "मेक्सिको और दुनिया के बारे में ब्रेकिंग न्यूज़ का वैश्विक अखबार"
 
 #: content/Default/apps/content.json.h:147
 msgctxt "title"
@@ -1245,12 +1246,12 @@ msgstr "इस ऐप में आप अपनी कुछ पसंदीद
 #: content/Default/apps/content.json.h:186
 msgctxt "title"
 msgid "Your Health"
-msgstr ""
+msgstr "आपका स्वास्थ्य"
 
 #: content/Default/apps/content.json.h:187
 msgctxt "subtitle"
 msgid "Health, nutrition, and well-being in one click"
-msgstr ""
+msgstr "अच्छा स्वास्थ्य, पोषण, और शारीरिक तंदुरुस्ती अब एक क्लिक में "
 
 #: content/Default/apps/content.json.h:188
 msgctxt "description"
@@ -3246,7 +3247,7 @@ msgctxt "description"
 msgid ""
 "Breaking news portal from Mexico and the world, focused on information about"
 " the country, DF, world, technology, sports, entertainment and viral news."
-msgstr ""
+msgstr "मेक्सिको और दुनिया  के बारे में ब्रेकिंग न्यूज़ का समाचार पोर्टल जो देश, DF, दुनिया, प्रौद्योगिकी, खेल, मनोरंजन और वायरल खबर के बारे में जानकारीयों  पर ध्यान केंद्रित करता है।"
 
 #: content/folders.json.h:4
 msgctxt "folderName"
