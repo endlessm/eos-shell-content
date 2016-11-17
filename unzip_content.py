@@ -26,6 +26,7 @@ import zipfile
 
 from desktop_object import LinkObject, AppObject, FolderObject
 from extra_categories import EXTRA_CATEGORIES
+from extra_desktop_entries import EXTRA_DESKTOP_ENTRIES
 from translate_desktop_files import translate_dir
 
 ZIP_FILENAME = 'appstore.zip'
@@ -324,6 +325,12 @@ if __name__ == '__main__':
 
         for key in obj.DESKTOP_KEYS:
            obj.write_key(desktop_file, key)
+
+        # XXX: We need to add a few more entries based on which app we're
+        # processing that we don't have support in the CMS for
+        extra_entries = EXTRA_DESKTOP_ENTRIES.get(id, {})
+        for key, value in extra_entries.items():
+            desktop_file.write("{}={}".format(key, value))
 
         desktop_file.close()
 
