@@ -285,11 +285,33 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.capacitate_services",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Capac\u00edtate Para El Empleo is a job skills and work readiness educational platform published by the Carlos Slim Foundation. Choose from one of ten courses in the field of Servicio al Cliente, such as bartender or housecleaner, and complete the series of videos and readings to be on your way to a new career!",
+    "displayShape": "b1",
+    "exec": "com.endlessm.capacitate_services",
+    "featured_img": "",
+    "icon": "com.endlessm.capacitate_services-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.capacitate_services-thumb.jpg",
+    "subtitle": "Learn the necessary skills for a job in Servicio al Cliente",
+    "title": "Client Services Courses",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.capacitate_technology",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Capac\u00edtate Para El Empleo es una plataforma educativa de la Fundaci\u00f3n Carlos Slim, que ofrece herramientas para capacitarse en diferentes oficios o \u00e1reas de trabajo. . Elige entre uno de los diecinueve cursos en el campo de la Tecnolog\u00eda, como desarrollador web o administrador de base de datos y completa la serie de videos y lecturas para comenzar tu nueva carrera profesional.",
+    "description": "Capac\u00edtate Para El Empleo is a job skills and work readiness educational platform published by the Carlos Slim Foundation. Choose from one of nineteen courses in the field of Tecnologia, such as web developer or database administrator, and complete the series of videos and readings to be on your way to a new career!",
     "displayShape": "b1",
     "exec": "com.endlessm.capacitate_technology",
     "featured_img": "",
@@ -302,8 +324,8 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.capacitate_technology-thumb.jpg",
-    "subtitle": "Aprende las habilidades necesarias para una carrera en Tecnolog\u00eda",
-    "title": "Cursos de Tecnolog\u00eda",
+    "subtitle": "Learn the necessary skills for a career in tecnolog\u00eda.",
+    "title": "Technology courses",
     "tryexec": ""
   },
   {
@@ -2182,7 +2204,7 @@
     "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "TBD",
+    "description": "Google Chrome is one of the world's most popular web browsers. If you have trouble watching videos online with other browsers, try Google Chrome since it has built-in support for the most common video-streaming service websites. ** Requires internet",
     "displayShape": "b1",
     "exec": "google-chrome %U",
     "featured_img": "",
@@ -2195,7 +2217,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.google.chrome-thumb.jpg",
-    "subtitle": "TBD",
+    "subtitle": "Google's popular web browser",
     "title": "Google Chrome",
     "tryexec": ""
   },
