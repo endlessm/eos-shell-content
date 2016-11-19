@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Google Chrome
+Name[es]=Google Chrome
+Name[pt_BR]=Google Chorme
 Comment=Google's popular web browser
+Comment[es]=Navegador popular de Google
+Comment[pt_BR]=Navegador popular do Google
 Type=Application
 Exec=google-chrome %U
 Icon=eos-app-com.google.Chrome
