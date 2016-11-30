@@ -1964,6 +1964,50 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.teachers_portal_kindergarten",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Improve the class curriculum of child education with various suggestions for class plans produced by teachers from all across the country and delivered by the Professor Portal from the Ministry of Education.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.teachers_portal_kindergarten",
+    "featured_img": "",
+    "icon": "com.endlessm.teachers_portal_kindergarten-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.teachers_portal_kindergarten-thumb.jpg",
+    "subtitle": "Suggestions for classes for child education",
+    "title": "Child Education",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.teachers_portal_professional",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Enrich your Professional Education class with suggestions for elaborate lesson plans from teachers all across the country, using the collaborative Professor Portal platform from the Ministry of Education.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.teachers_portal_professional",
+    "featured_img": "",
+    "icon": "com.endlessm.teachers_portal_professional-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.teachers_portal_professional-thumb.jpg",
+    "subtitle": "Suggestions for classes for professional education",
+    "title": "Professional Education",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.textbooks",
     "category": "Education;",
     "core": false,
