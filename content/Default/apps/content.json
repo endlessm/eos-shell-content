@@ -299,7 +299,18 @@
     "personalities": [
       "Spanish"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.capacitate_services-screenshot1.jpg",
+        "com.endlessm.capacitate_services-screenshot2.jpg",
+        "com.endlessm.capacitate_services-screenshot3.jpg"
+      ],
+      "es": [
+        "com.endlessm.capacitate_services-screenshot1.jpg",
+        "com.endlessm.capacitate_services-screenshot2.jpg",
+        "com.endlessm.capacitate_services-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.capacitate_services-thumb.jpg",
     "subtitle": "Learn the necessary skills for a job in Servicio al Cliente",
@@ -321,7 +332,18 @@
     "personalities": [
       "Spanish"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.capacitate_technology-screenshot1.jpg",
+        "com.endlessm.capacitate_technology-screenshot2.jpg",
+        "com.endlessm.capacitate_technology-screenshot3.jpg"
+      ],
+      "es": [
+        "com.endlessm.capacitate_technology-screenshot1.jpg",
+        "com.endlessm.capacitate_technology-screenshot2.jpg",
+        "com.endlessm.capacitate_technology-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.capacitate_technology-thumb.jpg",
     "subtitle": "Learn the necessary skills for a career in tecnolog\u00eda.",
@@ -885,6 +907,50 @@
     "square_img": "com.endlessm.fitness-thumb.jpg",
     "subtitle": "Tips for excercise and healthy living",
     "title": "Fitness",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_foreign_library",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "A collection of literature classics available in foreign languages, including such renowned authors as Lewis Carrol, Miguel de Cervantes, Charles Dickens, William Shakespeare, and Dante Alighieri. The works are categorized by language and include texts in English, Spanish, French, and Italian. ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_foreign_library",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_foreign_library-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_foreign_library-thumb.jpg",
+    "subtitle": "Popular classics in foreign languages",
+    "title": "Library",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_library",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "A collection of literature classics covering more than 70 authors whose works are in the public domain, including Machado de Assis, Fernando Pessoa, Lima Barreto and E\u00e7a de Queir\u00f3s. In this library, the PDF books are divided into the following categories: children, teenagers, classics, brazilian, and portuguese.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_library",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_library-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_library-thumb.jpg",
+    "subtitle": "Classic books in portuguese children, teenagers, and adults",
+    "title": "Library",
     "tryexec": ""
   },
   {

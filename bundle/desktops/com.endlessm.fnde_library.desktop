@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Library
+Name[bn]=পাঠাগার
+Name[hi]=पुस्तकालय
+Name[id]=Perpustakaan
+Name[pt_BR]=Biblioteca
+Name[zh_CN]=图书馆
+Comment=Classic books in portuguese children, teenagers, and adults
+Type=Application
+Exec=com.endlessm.fnde_library
+Icon=eos-app-com.endlessm.fnde_library
+Categories=Education;
+X-Endless-LaunchMaximized=true
