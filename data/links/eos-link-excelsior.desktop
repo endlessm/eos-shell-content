@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Excelsior
+Comment=Periódico
+Type=Application
+Exec=gvfs-open http://www.excelsior.com.mx/
+Icon=eos-link-excelsior
+Categories=News;
+X-Endless-LaunchMaximized=true

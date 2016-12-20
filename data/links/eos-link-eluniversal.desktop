@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=El Universal
+Comment=Periódico
+Type=Application
+Exec=gvfs-open http://www.eluniversal.com.mx/
+Icon=eos-link-eluniversal
+Categories=News;
+X-Endless-LaunchMaximized=true

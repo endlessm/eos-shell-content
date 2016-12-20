@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Milenio
+Comment=Periódico
+Type=Application
+Exec=gvfs-open http://www.milenio.com/
+Icon=eos-link-milenio
+Categories=News;
+X-Endless-LaunchMaximized=true

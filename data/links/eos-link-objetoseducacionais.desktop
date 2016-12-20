@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Objetos educacionais
+Comment=Base Internacional
+Type=Application
+Exec=gvfs-open http://objetoseducacionais2.mec.gov.br/
+Icon=eos-link-objetoseducacionais
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true
