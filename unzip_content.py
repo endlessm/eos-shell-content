@@ -17,6 +17,7 @@
 # Add and commit any changes to git
 # Proceed with the normal build process
 
+import copy
 import json
 import operator
 import os
@@ -92,6 +93,27 @@ if __name__ == '__main__':
     # Unzip the file
     zfile = zipfile.ZipFile(args.zipfile)
     zfile.extractall(UNZIP_DIR)
+
+    # Split the Spanish links by Global vs. Mexico
+    # Unlike Guatemala, which is treated via a separate language
+    # in the CMS, we don't have a separate language for Mexico
+    json_dir = os.path.join(UNZIP_DIR, 'links')
+    es_path = os.path.join(json_dir, 'es.json')
+    mx_path = os.path.join(json_dir, 'es-mx.json')
+    with open(es_path) as infile:
+        json_data = json.load(infile)
+    for path, region in [[es_path, 'Global'], [mx_path, 'Mexico']]:
+        json_copy = copy.deepcopy(json_data)
+        for category in json_copy:
+            links = category['links']
+            # Iterate over a copy of the list, since it is not safe
+            # to remove an item from a list being iterated
+            for link in list(links):
+                link_region = link['linkRegion']
+                if link_region != region:
+                    links.remove(link)
+        with open(path, 'w') as outfile:
+            json.dump(json_copy, outfile, indent=2)
 
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
