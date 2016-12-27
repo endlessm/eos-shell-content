@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2016-12-06 03:50+0000\n"
-"PO-Revision-Date: 2016-12-06 03:51+0000\n"
+"POT-Creation-Date: 2016-12-20 03:29+0000\n"
+"PO-Revision-Date: 2016-12-20 03:30+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -551,7 +551,7 @@ msgstr "Tất cả chúng ta đều muốn có được vẻ bề ngoài và c�
 
 #: content/Default/apps/content.json.h:82
 #: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:115
+#: content/Default/apps/content.json.h:133
 msgctxt "title"
 msgid "Library"
 msgstr ""
@@ -588,15 +588,135 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
+msgid "High School"
+msgstr ""
+
+#: content/Default/apps/content.json.h:89
+msgctxt "subtitle"
+msgid "Academic experiences to improve High School"
+msgstr ""
+
+#: content/Default/apps/content.json.h:90
+msgctxt "description"
+msgid ""
+"In this set of videos produced by TV Escola, the public channel of the "
+"Ministry of Education, experts discuss, from successful experiences, how to "
+"improve the High School experience. In the series With Science, experiences "
+"are shown of how to teach chemistry, physics and biology in a more thought-"
+"provoking and attractive way for students. The program also includes videos "
+"from the series How To Do?, Teacher's Room, and Making School."
+msgstr ""
+
+#: content/Default/apps/content.json.h:91
+msgctxt "title"
+msgid "History of Brazil"
+msgstr ""
+
+#: content/Default/apps/content.json.h:92
+msgctxt "subtitle"
+msgid "Documentaries about different periods of Brazilian history"
+msgstr ""
+
+#: content/Default/apps/content.json.h:93
+msgctxt "description"
+msgid ""
+"The program brings together a series of videos and programs presented by TV "
+"Escola, the public channel of the Ministry of Education, and which deal with"
+" different periods and aspects of the History of Brazil."
+msgstr ""
+
+#: content/Default/apps/content.json.h:94
+msgctxt "title"
+msgid "Literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:95
+msgctxt "subtitle"
+msgid ""
+"Storytelling for children and the stories of the great masters of literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:96
+msgctxt "description"
+msgid ""
+"The app brings together two TV Escola series on literature. In Animated "
+"Books, Vanessa Pascale tells different stories to children. The series "
+"Masters of Literature deals with the life and work of great Brazilian "
+"writers, such as Guimarães Rosa, Machado de Assis and Mário de Andrade."
+msgstr ""
+
+#: content/Default/apps/content.json.h:97
+msgctxt "title"
+msgid "Art and Mathematics"
+msgstr ""
+
+#: content/Default/apps/content.json.h:98
+msgctxt "subtitle"
+msgid "Mathematics and its applications in life and in the arts"
+msgstr ""
+
+#: content/Default/apps/content.json.h:99
+msgctxt "description"
+msgid ""
+"This program features videos of three different series produced by TV Escola"
+" and which have mathematics as the guiding thread. The Art and Mathematics "
+"series deals with the relationships between Visual Arts and Music and the "
+"numbers, patterns, shapes and proportions. In the episodes of the series "
+msgstr ""
+
+#: content/Default/apps/content.json.h:100
+msgctxt "title"
+msgid "Portuguese Language"
+msgstr ""
+
+#: content/Default/apps/content.json.h:101
+msgctxt "subtitle"
+msgid "The importance of reading and writing in society"
+msgstr ""
+
+#: content/Default/apps/content.json.h:102
+msgctxt "description"
+msgid ""
+"In this app you will find videos that deal with the importance of writing "
+"and reading to society, as well as practical tips for learning how to speak "
+"and write correctly. The program brings together classic series produced by "
+"TV Escola, the television channel of the Ministry of Education, such as "
+"Nossa Língua Portuguesa (with Professor Pasquale), Orto e Grafia (animation "
+"directed towards children) and programs with tips on teaching writing and "
+"reading for teachers, such as Living Letter and Reading Travel."
+msgstr ""
+
+#: content/Default/apps/content.json.h:103
+msgctxt "title"
+msgid "Where does it come from?"
+msgstr ""
+
+#: content/Default/apps/content.json.h:104
+msgctxt "subtitle"
+msgid "Curiosities about the world with the child character Kika"
+msgstr ""
+
+#: content/Default/apps/content.json.h:105
+msgctxt "description"
+msgid ""
+"In the series Where Does It Come From?, the character Kika has questions "
+"remaining about what happens around him. In a simple, fun and accessible "
+"language, the series produced by TV Escola responds to the girl's curious "
+"questions, who wants to understand the origin and function of electric "
+"power, crying, sneezing and everything else."
+msgstr ""
+
+#: content/Default/apps/content.json.h:106
+msgctxt "title"
 msgid "Geography"
 msgstr "Địa lý"
 
-#: content/Default/apps/content.json.h:89
+#: content/Default/apps/content.json.h:107
 msgctxt "subtitle"
 msgid "Learn about all the countries in the world"
 msgstr "Tìm hiểu về tất cả các quốc gia trên thế giới"
 
-#: content/Default/apps/content.json.h:90
+#: content/Default/apps/content.json.h:108
 msgctxt "description"
 msgid ""
 "The world is an amazing place, and with this app, you’ll learn all about it!"
@@ -607,17 +727,17 @@ msgid ""
 "this handy app!"
 msgstr "Thế giới này là một nơi diệu kỳ và với ứng dụng này, bạn sẽ hiểu hơn về nó. Có đầy đủ thông tin về mỗi quốc gia trên thế giới, nguồn tài nguyên toàn diện này còn bao gồm thông tin của các thành phố lớn, khu vực quan trọng, điều kiện thiên nhiên và còn nhiều hơn nữa. Quen thuộc hơn, bạn cũng sẽ tìm thấy các thông tin chi tiết về chính đất nước của mình, từ các thị trấn và thành phố đến những dòng sông và ngọn núi. Khám phá điều kỳ điệu quanh bạn với ứng dụng nhỏ gọn này!"
 
-#: content/Default/apps/content.json.h:91
+#: content/Default/apps/content.json.h:109
 msgctxt "title"
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: content/Default/apps/content.json.h:92
+#: content/Default/apps/content.json.h:110
 msgctxt "subtitle"
 msgid "Learn more about this beautiful country"
 msgstr "Tìm hiểu thêm về quốc gia xinh đẹp này"
 
-#: content/Default/apps/content.json.h:93
+#: content/Default/apps/content.json.h:111
 msgctxt "description"
 msgid ""
 "Guatemala has an ancient and fascinating history, but it’s also a modern, "
@@ -627,17 +747,17 @@ msgid ""
 "you can share it with friends and family alike!"
 msgstr "Guatemala có lịch sử thú vị và lâu đời, nhưng cũng là một quốc gia hiện đại, năng động với nhiều địa điểm thu hút du khách, các sự kiện văn hóa và các trung tâm dân cư chính. Hãy khám phá những chủ đề giới thiệu về các lĩnh vực như đời sống, nghệ thuật, địa lý và văn hóa của Guatemala. Bạn sẽ hiểu rõ hơn về Guatemala và có thể chia sẻ với bạn bè và cả gia đình!"
 
-#: content/Default/apps/content.json.h:94
+#: content/Default/apps/content.json.h:112
 msgctxt "title"
 msgid "Curriculum"
 msgstr "Chương trình giáo dục"
 
-#: content/Default/apps/content.json.h:95
+#: content/Default/apps/content.json.h:113
 msgctxt "subtitle"
 msgid "From the Guatemalan Ministry of Education"
 msgstr "Từ Bộ giáo dục Guatemala"
 
-#: content/Default/apps/content.json.h:96
+#: content/Default/apps/content.json.h:114
 msgctxt "description"
 msgid ""
 "Here you will find the core curriculum and guidelines for a specific grade, "
@@ -650,17 +770,17 @@ msgid ""
 "own!"
 msgstr "Trong ứng dụng này, bạn sẽ được tìm hiểu về chương trình giáo dục trọng tâm và các hướng dẫn về một bậc học cụ thể, cũng như được xem các sách giáo khoa và sách bài tập hướng dẫn trong rất nhiều môn học. Giáo viên và phụ huynh có thể đọc các tài liệu này để hiểu về cách hình thành nền giáo dục của trẻ em và các môn quan trọng được học trong trường. Học sinh có thể tìm thấy các sách bài tập hữu ích giúp các em hiểu rõ hơn về kiến thức được dạy trên lớp. Ứng dụng này hữu ích cho cả học sinh lẫn giáo viên, và có thể tạo nên sự khác biệt lớn lao trong cuộc sống của con cái bạn và chính bạn!"
 
-#: content/Default/apps/content.json.h:97
+#: content/Default/apps/content.json.h:115
 msgctxt "title"
 msgid "Handicrafts"
 msgstr "Thủ công mỹ nghệ"
 
-#: content/Default/apps/content.json.h:98
+#: content/Default/apps/content.json.h:116
 msgctxt "subtitle"
 msgid "Learn how to make the most beautiful handicrafts"
 msgstr "Tìm hiểu về cách làm ra những món đồ thủ công mỹ nghệ tinh xảo"
 
-#: content/Default/apps/content.json.h:99
+#: content/Default/apps/content.json.h:117
 msgctxt "description"
 msgid ""
 "With these guides and your creativity you will soon be making the most "
@@ -670,17 +790,17 @@ msgid ""
 " started on a new creative project!"
 msgstr "Với các hướng dẫn này và óc sáng tạo của chính mình, bạn sẽ sớm làm ra được những món đồ thủ công mỹ nghệ tinh xảo! Tìm hiểu về nghề mộc, cách chế tác đồ trang sức, cách dệt vải và nhiều hơn nữa. Thậm chí, bạn có thể học cách tái chế vật liệu từ xung quanh nhà mình để biến chúng thành các món đồ thủ công mỹ nghệ mới và tuyệt vời. Hãy sử dụng ứng dụng này để khởi động dự án sáng tạo mới!"
 
-#: content/Default/apps/content.json.h:100
+#: content/Default/apps/content.json.h:118
 msgctxt "title"
 msgid "Health"
 msgstr "Sức khỏe"
 
-#: content/Default/apps/content.json.h:101
+#: content/Default/apps/content.json.h:119
 msgctxt "subtitle"
 msgid "Keep yourself and loved ones healthy"
 msgstr "Giúp giữ gìn sức khỏe cho bạn và những người xung quanh"
 
-#: content/Default/apps/content.json.h:102
+#: content/Default/apps/content.json.h:120
 msgctxt "description"
 msgid ""
 "Without your health, you can't have anything else. Learn all about various "
@@ -689,17 +809,17 @@ msgid ""
 "help you save your own life or the life of someone you love!"
 msgstr "Nếu không có sức khỏe, bán sẽ chẳng có thứ gì. Tìm hiểu tất cả mọi thứ về nhiều loại bệnh tật và thuốc men khác nhau cũng như lời khuyên về việc làm thế nào để giữ gìn sức khỏe bằng cách đọc một số bài viết trong ứng dụng này. Bạn sẽ chẳng ngờ được - một số thông tin ở đây có thể giúp bạn cứu lấy cuộc sống cho chính mình hoặc những người bạn yêu thương!"
 
-#: content/Default/apps/content.json.h:103
+#: content/Default/apps/content.json.h:121
 msgctxt "title"
 msgid "Healthy Living"
 msgstr "Sống khỏe mạnh"
 
-#: content/Default/apps/content.json.h:104
+#: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
 msgid "Discover what it takes to stay healthy"
 msgstr "Khám phá điều gì mang đến cuộc sống khỏe mạnh"
 
-#: content/Default/apps/content.json.h:105
+#: content/Default/apps/content.json.h:123
 msgctxt "description"
 msgid ""
 "How can you adopt a healthy lifestlye? There is much you can do for yourself"
@@ -708,17 +828,17 @@ msgid ""
 " healthier living!"
 msgstr "Làm thế nào để có được một lối sống lành mạnh? Có rất nhiều điều bạn có thể làm cho chính mình và gia đình. Ứng dụng này mang đến cho bạn các bài tập thể dục, các công thức món ăn lành mạnh, thông số dinh dưỡng và các bác sĩ ở khu vực quanh bạn. Hãy bắt đầu ngay hôm nay để hướng đến một cuộc sống lành mạnh hơn!"
 
-#: content/Default/apps/content.json.h:106
+#: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Healthy Teeth"
 msgstr "Răng chắc khỏe"
 
-#: content/Default/apps/content.json.h:107
+#: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
 msgid "Learn to take care of your teeth"
 msgstr "Tìm hiểu cách chăm sóc hàm răng của bạn"
 
-#: content/Default/apps/content.json.h:108
+#: content/Default/apps/content.json.h:126
 msgctxt "description"
 msgid ""
 "Have you ever had a toothache? Learn how to help make it feel better. Want "
@@ -729,17 +849,17 @@ msgid ""
 "teeth healthy and looking great!"
 msgstr "Đã bao giờ bạn bị đau răng chưa? Hãy tìm hiểu làm thế nào để giảm đau. Bạn muốn giữ cho răng mình đều và trắng đúng không? Nào, hãy thử làm theo những lời khuyên này. Cho dù chỉ tìm hiểu các bệnh răng miệng và làm thế nào để phòng ngừa hay chỉ đơn giản là giữ một nụ cười đẹp, bạn sẽ tìm thấy rất nhiều thông tin hữu ích trong ứng dụng này. Hãy tải về ngay hôm nay và tìm hiểu tất cả mọi thứ về cách làm thế nào để giữ cho răng miệng chắc khỏe và đều đẹp!"
 
-#: content/Default/apps/content.json.h:109
+#: content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "History"
 msgstr "Lịch sử"
 
-#: content/Default/apps/content.json.h:110
+#: content/Default/apps/content.json.h:128
 msgctxt "subtitle"
 msgid "Learn about the world's events and civilizations"
 msgstr "Tìm hiểu về các nền văn minh và sự kiện của thế giới"
 
-#: content/Default/apps/content.json.h:111
+#: content/Default/apps/content.json.h:129
 msgctxt "description"
 msgid ""
 "How much do you know about the fall of the Roman Empire? What about the Silk"
@@ -749,17 +869,17 @@ msgid ""
 "learn about the cultures that came before us."
 msgstr "Bạn biết được bao nhiều về sự sụp đổ của Đế chế La Mã? Về Con đường tơ lụa? Ai đã sống ở châu Mỹ từ thời xa xưa và điều gì xảy ra với họ? Tại sao Thế chiến I lại nổ ra? Hãy tải ứng dụng này và nhận được câu trả lời cho mọi câu hỏi về các sự kiện và nhân vật đã định hình thế giới hiện đại của chúng ta cũng như tìm hiểu về các nền văn hóa đã xuất hiện trước chúng ta."
 
-#: content/Default/apps/content.json.h:112
+#: content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "How To"
 msgstr "Làm thế nào"
 
-#: content/Default/apps/content.json.h:113
+#: content/Default/apps/content.json.h:131
 msgctxt "subtitle"
 msgid "How-to do just about anything by yourself"
 msgstr "Cách tự làm hầu như mọi thứ"
 
-#: content/Default/apps/content.json.h:114
+#: content/Default/apps/content.json.h:132
 msgctxt "description"
 msgid ""
 "Are you interested in learning more about taking care of yourself or about "
@@ -772,12 +892,12 @@ msgid ""
 "won’t know how you managed before!"
 msgstr "Bạn muốn tìm hiểu thêm về cách chăm sóc bản thân hoặc tự mình sửa chữa mọi thứ tại nhà của mình? Bạn muốn tự mình tân trang đồ nội thất, loại bỏ vết bẩn cứng đầu, trồng vườn rau sạch, học yoga hay các bài tập thể dục? Dù bạn đã từng ước ao được thực hiện bất kỳ điều gì, thì đây cũng chính là ứng dụng mà bạn cần. Từ đồ thủ công đến trang trí nhà cửa, thậm chí lập kế hoạch đến tự làm, bạn sẽ tìm thấy mọi chủ đề mà bạn có thể nghĩ ra. Mỗi bài viết hướng dẫn cách làm đều dễ xem và dễ hiểu. Bạn sẽ nhanh chóng chẳng còn nhớ việc trước kia phải tự xoay sở như thế nào!"
 
-#: content/Default/apps/content.json.h:116
+#: content/Default/apps/content.json.h:134
 msgctxt "subtitle"
 msgid "Literary classics for all ages"
 msgstr ""
 
-#: content/Default/apps/content.json.h:117
+#: content/Default/apps/content.json.h:135
 msgctxt "description"
 msgid ""
 "A complete library with the great classics of world literature. More than 70"
@@ -788,17 +908,17 @@ msgid ""
 "Pessoa."
 msgstr ""
 
-#: content/Default/apps/content.json.h:118
+#: content/Default/apps/content.json.h:136
 msgctxt "title"
 msgid "Maternity"
 msgstr "Thai sản"
 
-#: content/Default/apps/content.json.h:119
+#: content/Default/apps/content.json.h:137
 msgctxt "subtitle"
 msgid "Valuable information for new mothers"
 msgstr "Các thông tin đáng giá dành cho những người sắp làm mẹ"
 
-#: content/Default/apps/content.json.h:120
+#: content/Default/apps/content.json.h:138
 msgctxt "description"
 msgid ""
 "Having a baby is one of the most magical experiences in the world, but it "
@@ -811,17 +931,17 @@ msgid ""
 "information here that can help!"
 msgstr "Mang thai là một trong những trải nghiệm kỳ diệu nhất trên đời nhưng cũng cực kỳ căng thẳng nếu bạn không được hỗ trợ từ bác sĩ hoặc nếu bạn mời làm mẹ lần đầu và không biết cần phải làm gì. Tìm hiểu về các dấu hiệu có thể xem là nguy hiểm mà bạn cần tránhvà những điều bạn nên thử qua trong thai kỳ để đảm bảo thai nhi khỏe mạnh. Cho dù đây là đứa con đầu tiên hay đứa con thứ mười hoặc bạn là người hộ sinh giúp đỡ các sản phụ khác sinh nở, thì bạn vẫn sẽ tìm được những thông tin liên quan rất hữu ích!"
 
-#: content/Default/apps/content.json.h:121
+#: content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Math"
 msgstr "Toán học"
 
-#: content/Default/apps/content.json.h:122
+#: content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid "High school math made simple and accessible"
 msgstr "Các bài toán trung học trở nên dễ dàng và lý thú"
 
-#: content/Default/apps/content.json.h:123
+#: content/Default/apps/content.json.h:141
 msgctxt "description"
 msgid ""
 "Studying high school math doesn’t have to be confusing or dull. This simple "
@@ -832,17 +952,17 @@ msgid ""
 " your learning and expand your mind!"
 msgstr "Việc học toán bậc trung học sẽ không còn khó hiểu hay đau đầu nữa. Ứng dụng toán học đơn giản này sẽ giúp bạn thông thạo các môn như đại số, hình học, lượng giác, tính toán và thống kê. Tăng cường kỹ năng lý luận toán học và hiểu biết sâu sắc hơn về bất cứ khái niệm nào trong toán học mà bạn đang rất khó tiếp thu. Với thông tin tổng hợp từ nhiều giáo trình, bạn có thể mở rộng việc học cũng tâm trí của mình!"
 
-#: content/Default/apps/content.json.h:124
+#: content/Default/apps/content.json.h:142
 msgctxt "title"
 msgid "Mayan Languages"
 msgstr "Ngôn ngữ Maya"
 
-#: content/Default/apps/content.json.h:125
+#: content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid "Stories and dictionaries in Mayan languages"
 msgstr "Chuyện kể và từ điển tiếng Maya"
 
-#: content/Default/apps/content.json.h:126
+#: content/Default/apps/content.json.h:144
 msgctxt "description"
 msgid ""
 "Have you ever wanted to study and learn a Mayan language? Whether you're a "
@@ -852,17 +972,17 @@ msgid ""
 "history and stories you'll find here!"
 msgstr "Bạn đã bao giờ muốn nghiên cứu và tìm hiểu ngôn ngữ của người Maya hay chưa? Cho dù bạn là một người mới bắt đầu hoặc đã học lâu năm, ứng dụng này chứa nhiều nguồn tài nguyên tuyệt vời. Trong ứng dụng này, bạn có thể tìm thấy những câu chuyện, từ điển và nhiều tài nguyên về ngữ pháp trong ngôn ngữ của người Maya. Hãy sẵn sàng để đắm mình trong văn hóa của người Maya qua  lịch sử và những câu chuyện bạn sẽ tìm thấy ở đây!"
 
-#: content/Default/apps/content.json.h:127
+#: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "Mental Health"
 msgstr "Sức khỏe tinh thần"
 
-#: content/Default/apps/content.json.h:128
+#: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "Tips and tricks for living a healthier, happier life"
 msgstr "Bí quyết và mẹo để có cuộc sống hạnh phúc hơn và khỏe mạnh hơn"
 
-#: content/Default/apps/content.json.h:129
+#: content/Default/apps/content.json.h:147
 msgctxt "description"
 msgid ""
 "Have you ever wanted to be more confident? Feel less stressed? Be more "
@@ -871,17 +991,17 @@ msgid ""
 "you can better your life."
 msgstr "Bạn đã bao giờ bạn muốn mình trở nên tự tin hơn? Cảm thấy giảm bớt căng thẳng? Làm việc hiệu quả và đạt năng suất cao hơn? Đây chính là cơ hội của bạn! Sử dụng ứng dụng này để tìm hiểu các bí quyết và mẹo để tự cải thiện chính bản thân mình. Đọc để khám phá cách thức hoạt động của trí não và cách làm thế nào để có cuộc sống tốt hơn."
 
-#: content/Default/apps/content.json.h:130
+#: content/Default/apps/content.json.h:148
 msgctxt "title"
 msgid "Microenterprises"
 msgstr "Doanh nghiệp nhỏ"
 
-#: content/Default/apps/content.json.h:131
+#: content/Default/apps/content.json.h:149
 msgctxt "subtitle"
 msgid "Learn to run your own company"
 msgstr "Học cách điều hành công ty của bạn"
 
-#: content/Default/apps/content.json.h:132
+#: content/Default/apps/content.json.h:150
 msgctxt "description"
 msgid ""
 "Have you dreamed of starting your own company? Learn all about what it will "
@@ -892,17 +1012,17 @@ msgid ""
 "into a world where you are your own boss!"
 msgstr "Đã bao giờ bạn ước ao có một công ty của riêng mình chưa? Tìm hiểu tất cả về những gì cần thiết để bắt đầu! Là chủ một doanh nghiệp nhỏ, bạn sẽ cần phải tìm hiểu cách làm thế nào để có được ý tưởng và biến ý tưởng đó thành lợi nhuận, cách làm thế nào để quản lý một nhóm, cách làm thế nào để xử lý tất cả các vấn đề về hành chính - và bạn sẽ tìm thấy một chút về tất cả những điều đó ở ngay trong ứng dụng này. Chuẩn bị cho mình để bước vào thế giới nơi bạn chính là ông chủ!"
 
-#: content/Default/apps/content.json.h:133
+#: content/Default/apps/content.json.h:151
 msgctxt "title"
 msgid "Myths & Legends"
 msgstr "Thần thoại & Truyền thuyết"
 
-#: content/Default/apps/content.json.h:134
+#: content/Default/apps/content.json.h:152
 msgctxt "subtitle"
 msgid "Myths and legends from around the world"
 msgstr "Thần thoại và truyền thuyết trên khắp thế giới"
 
-#: content/Default/apps/content.json.h:135
+#: content/Default/apps/content.json.h:153
 msgctxt "description"
 msgid ""
 "Do you like reading myths, legends and scary stories? This app has some from"
@@ -912,17 +1032,17 @@ msgid ""
 "cultures of the past and present all over the world!"
 msgstr "Bạn có thích đọc những câu chuyện huyền thoại, truyền thuyết và những chuyện đáng sợ không? Ứng dụng này có nhiều câu chuyện từ khắp nơi trên thế giới! Từ truyền thuyết của người Maya đến các huyền thoại nổi tiếng của Nhật Bản cũng như những câu chuyện đáng sợ, chắc chắn bạn sẽ tìm thấy điều mà mình quan tâm. Đọc tất cả về những sinh vật, thần thoại, truyền thuyết, truyện ngụ ngôn đã định hình nên nhiều nền văn hóa trong quá khứ và hiện tại ở khắp nơi trên thế giới!"
 
-#: content/Default/apps/content.json.h:136
+#: content/Default/apps/content.json.h:154
 msgctxt "title"
 msgid "La Constitución"
 msgstr ""
 
-#: content/Default/apps/content.json.h:137
+#: content/Default/apps/content.json.h:155
 msgctxt "subtitle"
 msgid "La entera Constitución de la República del Paraguay"
 msgstr ""
 
-#: content/Default/apps/content.json.h:138
+#: content/Default/apps/content.json.h:156
 msgctxt "description"
 msgid ""
 "Con este programa puedes aprender sobre la Constitución de la República del "
@@ -931,17 +1051,17 @@ msgid ""
 "conocimiento sobre los derechos fundamentales de la República del Paraguay."
 msgstr ""
 
-#: content/Default/apps/content.json.h:139
+#: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Photo Editor"
 msgstr "Trình biên tập ảnh"
 
-#: content/Default/apps/content.json.h:140
+#: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "Easily edit and share all of your favorite photos"
 msgstr "Dễ dàng chỉnh sửa và chia sẻ tất cả những tấm ảnh ưa thích của bạn"
 
-#: content/Default/apps/content.json.h:141
+#: content/Default/apps/content.json.h:159
 msgctxt "description"
 msgid ""
 "Have you ever wanted to edit your own photos like the pros and create "
@@ -952,17 +1072,17 @@ msgid ""
 "directly to Facebook, so everyone can see your awesome pictures!"
 msgstr "Đã bao giờ bạn muốn chỉnh sửa ảnh của mình như dân chuyên nghiệp và tạo ra những bức ảnh đẹp để chia sẻ với những người bạn yêu quý? Giờ đây, bạn có thể làm điều đó chỉ trong một vài bước! Chúng tôi có một loạt các bộ lọc hấp dẫn và nghệ thuật để bạn có thể tùy chỉnh hình ảnh của mình và tạo ra các tác phẩm nghệ thuật độc nhất vô nhị từ cuộc sống thường ngày của bạn. Với ứng dụng tiện lợi này, bạn có thể đăng các tác phẩm của bạn trực tiếp lên Facebook để tất cả mọi người đều nhìn thấy bức ảnh tuyệt vời của bạn!"
 
-#: content/Default/apps/content.json.h:142
+#: content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Physics"
 msgstr "Vật lý học"
 
-#: content/Default/apps/content.json.h:143
+#: content/Default/apps/content.json.h:161
 msgctxt "subtitle"
 msgid "Learn about the physical world's mysteries"
 msgstr "Tìm hiểu về những bí ẩn của thế giới vật chất"
 
-#: content/Default/apps/content.json.h:144
+#: content/Default/apps/content.json.h:162
 msgctxt "description"
 msgid ""
 "Do you find learning about physics to be difficult? You're not alone. "
@@ -975,17 +1095,17 @@ msgid ""
 "the world around you, and succeed in your physics education."
 msgstr "Bạn cảm thấy khó khăn trong việc tìm hiểu về vật lý học? Không chỉ riêng bạn cảm thấy như vậy đâu. Vật lý là một trong những ngành khoa học thú vị và đầy thử thách nhất. Hãy sử dụng ứng dụng này để tìm thấy chính xác những gì bạn cần phải học và khiến việc học trở nên dễ dàng hơn. Dù hiểu biết của bạn ở mức độ nào thì bạn vẫn sẽ tìm thấy thông tin hữu ích được trình bày theo hình thức mà bạn có thể theo dõi. Ứng dụng này bao gồm các chủ đề thú vị như cơ khí, nhiệt động lực học, điện, hiện tượng từ tính và thậm chí là vật lý thiên văn. Từ các nguyên tử đến các ngôi sao, bạn sẽ được tìm hiểu tất cả mọi thứ về thế giới xung quanh bạn và giành được điểm cao với môn vật lý."
 
-#: content/Default/apps/content.json.h:145
+#: content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Prensa Libre"
 msgstr "Prensa Libre"
 
-#: content/Default/apps/content.json.h:146
+#: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "All the news about Guatemala and the world"
 msgstr "Tất cả tin tức về Guatemala và thế giới"
 
-#: content/Default/apps/content.json.h:147
+#: content/Default/apps/content.json.h:165
 msgctxt "description"
 msgid ""
 "All the latest news and information on sports, culture and entertainment, "
@@ -996,17 +1116,17 @@ msgid ""
 "convenience."
 msgstr "Tất cả các tin tức mới nhất và các thông tin về thể thao, văn hóa và vui chơi giải trí, chính trị và kinh tế, từ Guatemala và trên thế giới, được ấn hành bởi Prensa Libre. Bạn sẽ được truy cập hàng trăm bài báo ngoại tuyến và khi bạn trực tuyến, bạn sẽ nhận được ngay những tin tức mới nhất. Các bài viết vẫn được lưu trữ trên máy tính của bạn để bạn có thể truy cập khi ngoại tuyến một cách thuận tiện nhất."
 
-#: content/Default/apps/content.json.h:148
+#: content/Default/apps/content.json.h:166
 msgctxt "title"
 msgid "Coding Fun"
 msgstr "Lập trình vui nhộn"
 
-#: content/Default/apps/content.json.h:149
+#: content/Default/apps/content.json.h:167
 msgctxt "subtitle"
 msgid "Learn to create your own video games"
 msgstr "Tìm hiểu cách tạo ra một trò chơi video cho riêng bạn"
 
-#: content/Default/apps/content.json.h:150
+#: content/Default/apps/content.json.h:168
 msgctxt "description"
 msgid ""
 "Do you like playing video games? Then why not create your own? Learn "
@@ -1018,17 +1138,17 @@ msgid ""
 "your very own!"
 msgstr "Bạn có thích chơi trò chơi điện tử không? Vậy tại sao bạn không tạo ra một trò cho riêng mình? Tìm hiểu những kỹ năng lập trình và mã hóa đáng giá với ứng dụng thú vị này sẽ giúp bạn thay đổi các quy tắc của trò chơi khiến trò chơi trở thành của riêng bạn! Hãy xem những gì sẽ xảy ra khi bạn thay đổi vài dòng mã và nâng cấp độ để tiếp tục học hỏi nhiều hơn về cách viết mã. Bạn sẽ sớm phát hiện ra rằng việc học lập trình cho phép bạn không chỉ thay đổi thế giới trong trò chơi của mình, mà còn theo cách của riêng bạn!"
 
-#: content/Default/apps/content.json.h:151
+#: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Programming"
 msgstr ""
 
-#: content/Default/apps/content.json.h:152
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Learn the basics of front-end web development with this app"
 msgstr ""
 
-#: content/Default/apps/content.json.h:153
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "Have you ever wanted to make websites or explore programming? With this app "
@@ -1036,27 +1156,27 @@ msgid ""
 "Javascript."
 msgstr ""
 
-#: content/Default/apps/content.json.h:154
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Publimetro"
 msgstr ""
 
-#: content/Default/apps/content.json.h:155
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "The global newspaper about breaking news in Mexico and the world"
 msgstr ""
 
-#: content/Default/apps/content.json.h:159
+#: content/Default/apps/content.json.h:177
 msgctxt "title"
 msgid "Résumé"
 msgstr "Hồ sơ năng lực"
 
-#: content/Default/apps/content.json.h:160
+#: content/Default/apps/content.json.h:178
 msgctxt "subtitle"
 msgid "Write a great resume and prepare for interviews"
 msgstr "Viết hồ sơ năng lực ấn tượng và chuẩn bị phỏng vấn"
 
-#: content/Default/apps/content.json.h:161
+#: content/Default/apps/content.json.h:179
 msgctxt "description"
 msgid ""
 "The best way to make a great impression on a potential employer is to have "
@@ -1068,17 +1188,17 @@ msgid ""
 "your choice."
 msgstr "Cách tốt nhất để tạo ấn tượng tốt với một nhà tuyển dụng tiềm năng chính là có một hồ sơ năng lực thật xuất sắc và ứng dụng này giúp bạn làm điều đó. Với các biểu mẫu tiện dụng và hấp dẫn, bạn có rất nhiều hình mẫu để xây dựng hồ sơ mang đặc trưng riêng cho mình. Tìm hiểu chính xác hồ sơ năng lực là gì và những nội dung cần có, lời khuyên cho mỗi phần và thậm chí được hướng dẫn về cách chuẩn bị phỏng vấn xin việc. Ứng dụng này có thể giúp bạn tiến gần hơn đến công việc mình yêu thích."
 
-#: content/Default/apps/content.json.h:162
+#: content/Default/apps/content.json.h:180
 msgctxt "title"
 msgid "Football"
 msgstr "Bóng đá"
 
-#: content/Default/apps/content.json.h:163
+#: content/Default/apps/content.json.h:181
 msgctxt "subtitle"
 msgid "Learn about your favorite team and players"
 msgstr "Tìm hiểu về đội bóng và cầu thủ yêu thích của bạn"
 
-#: content/Default/apps/content.json.h:164
+#: content/Default/apps/content.json.h:182
 msgctxt "description"
 msgid ""
 "Football is a major sport with fans all around the world. Are you one of "
@@ -1088,17 +1208,17 @@ msgid ""
 " with thousands of articles about your favorite sport!"
 msgstr "Bóng đá là môn thể thao có nhiều người hâm mộ khắp nơi trên toàn cầu. Bạn là một trong số đó? Vậy thì đây là ứng dụng dành cho bạn. Ứng dụng này đem đến mọi điều bạn cần biết về các đội bóng, cầu thủ hoặc các trận tranh tài lớn ở khắp thế giới. Tìm hiểu thêm thông tin về trò chơi và lịch sử hình thành, khám phá thêm về luật chơi và cập nhật hàng ngàn bài báo về môn thể thao yêu thích của bạn!"
 
-#: content/Default/apps/content.json.h:165
+#: content/Default/apps/content.json.h:183
 msgctxt "title"
 msgid "Social Enterprises"
 msgstr "Tổ chức xã hội"
 
-#: content/Default/apps/content.json.h:166
+#: content/Default/apps/content.json.h:184
 msgctxt "subtitle"
 msgid "All about non-profit organizations"
 msgstr "Mọi thông tin về tổ chức phi lợi nhuận"
 
-#: content/Default/apps/content.json.h:167
+#: content/Default/apps/content.json.h:185
 msgctxt "description"
 msgid ""
 "Have you thought of starting your own non-profit organization, or of joining"
@@ -1108,17 +1228,17 @@ msgid ""
 "your impact in the world even larger!"
 msgstr "Bạn đã từng nghĩ đến việc bắt đầu tổ chức phi lợi nhuận của riêng mình, hoặc tham gia vào một tổ chức như vậy? Tổ chức phi lợi nhuận được hưởng những ưu đãi đặc biệt về thuế và thường được tạo ra để gây ảnh hưởng thực sự đến xã hội. Hãy đọc hướng dẫn để hiểu thêm về cấu trúc và chúng cách thức vận hành của tổ chức phi lợi nhuận để bạn có thể bắt đầu khiến ảnh hưởng của mình đến thế giới ngày càng lớn hơn nữa!"
 
-#: content/Default/apps/content.json.h:168
+#: content/Default/apps/content.json.h:186
 msgctxt "title"
 msgid "Social Sciences"
 msgstr "Khoa học xã hội"
 
-#: content/Default/apps/content.json.h:169
+#: content/Default/apps/content.json.h:187
 msgctxt "subtitle"
 msgid "Subjects that explore the individual and society"
 msgstr "Các môn học khám phá về cá nhân và xã hội"
 
-#: content/Default/apps/content.json.h:170
+#: content/Default/apps/content.json.h:188
 msgctxt "description"
 msgid ""
 "Human beings and the relationships and societies they form are complicated. "
@@ -1130,17 +1250,17 @@ msgid ""
 "understanding of human behavior."
 msgstr "Con người và các mối quan hệ và xã hội mà họ hình thành rất phức tạp. Ứng dụng này sẽ giới thiệu với bạn nhiều chuyên ngành nghiên cứu lịch sử, văn hóa và sự tương tác của loài người. Bạn sẽ được tìm hiểu các vấn đề cơ bản của tâm lý học, xã hội học, nhân chủng học, chính trị học và nhiều hơn nữa. Hiểu được nguyên tắc cơ bản của các môn học này sẽ giúp bạn nắm được cách thức chúng ta tương tác và quan hệ với nhau. Bạn sẽ thu được những hiểu biết phong phú về hành vi con người."
 
-#: content/Default/apps/content.json.h:171
+#: content/Default/apps/content.json.h:189
 msgctxt "title"
 msgid "Noticias Soy502"
 msgstr ""
 
-#: content/Default/apps/content.json.h:172
+#: content/Default/apps/content.json.h:190
 msgctxt "subtitle"
 msgid "Espacio informativo de referencia sobre Guatemala"
 msgstr ""
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:191
 msgctxt "description"
 msgid ""
 "502 es el código de área que identifica a Guatemala. Soy 502 es un espacio "
@@ -1149,17 +1269,17 @@ msgid ""
 "actualidad y entretenimiento para todos los públicos."
 msgstr ""
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:192
 msgctxt "title"
 msgid "Diccionario Guaraní"
 msgstr ""
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:193
 msgctxt "subtitle"
 msgid "Diccionario bilingüe de Castellano-Guaraní y Guaraní-Castellano"
 msgstr ""
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:194
 msgctxt "description"
 msgid ""
 "Este diccionario bilingüe Castellano-Guaraní y Guaraní-Castellano es muy "
@@ -1168,17 +1288,53 @@ msgid ""
 "indicación de la categoría gramatical (adj., s., v.,) y con 8.132 entradas."
 msgstr ""
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:195
+msgctxt "title"
+msgid "Child Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:196
+msgctxt "subtitle"
+msgid "Suggestions for classes for child education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:197
+msgctxt "description"
+msgid ""
+"Improve the class curriculum of child education with various suggestions for"
+" class plans produced by teachers from all across the country and delivered "
+"by the Professor Portal from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:198
+msgctxt "title"
+msgid "Professional Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:199
+msgctxt "subtitle"
+msgid "Suggestions for classes for professional education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:200
+msgctxt "description"
+msgid ""
+"Enrich your Professional Education class with suggestions for elaborate "
+"lesson plans from teachers all across the country, using the collaborative "
+"Professor Portal platform from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:201
 msgctxt "title"
 msgid "Textbooks"
 msgstr "Sách giáo khoa"
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:202
 msgctxt "subtitle"
 msgid "Math and science textbooks"
 msgstr "Sách giáo khoa toán và khoa học"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:203
 msgctxt "description"
 msgid ""
 "Find information to help you with your homework, or learn about a subject "
@@ -1189,17 +1345,17 @@ msgid ""
 "you'll be sure to find something interesting and useful here!"
 msgstr "Tìm thông tin giúp bạn làm bài tập về nhà hoặc tìm hiểu về một chủ đề mà bạn luôn muốn khám phá! Bạn có thể lướt qua các hình ảnh, biểu đồ và đồ thị để tìm hiểu thêm về mỗi chủ đề. Không chỉ là những quyển sách giáo khoa cặn kẽ và đầy đủ thông tin, những cuốn sách này còn rất dễ đọc và hữu ích. Cho dù bạn là học sinh, phụ huynh, giáo viên hay chỉ là một người ham học hỏi, chắc chắn bạn vẫn sẽ tìm thấy điều thú vị và hữu ích trong ứng dụng này!"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:204
 msgctxt "title"
 msgid "Translate"
 msgstr "Chuyển ngữ"
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:205
 msgctxt "subtitle"
 msgid "Translate text between many languages instantly"
 msgstr "Chuyển ngữ đoạn văn bản giữa nhiều ngôn ngữ ngay tức thì"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:206
 msgctxt "description"
 msgid ""
 "Download this app to help you understand and be understood in virtually any "
@@ -1210,17 +1366,17 @@ msgid ""
 " – with the world’s languages at your fingertips.  **Requires internet"
 msgstr "Tải ngay ứng dụng này để giúp bạn hiểu và truyền đạt gần như bất kỳ ngôn ngữ nào. Ứng dụng này yêu cầu kết nối internet và sử dụng rất đơn giản. Bạn có thể có ngay bản dịch chỉ với một cú nhấp chuột! Giúp bạn tự học một ngôn ngữ mới bằng cách học bản dịch về những gì bạn đã viết, hoặc sử dụng bản dịch để giúp bạn kết nối khắp toàn cầu - và thậm chí với những người bạn mới - bằng các ngôn ngữ trên thế giới nằm trong tầm tay của bạn. ** Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:207
 msgctxt "title"
 msgid "Travel"
 msgstr "Du lịch"
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:208
 msgctxt "subtitle"
 msgid "Travel around the world from your living room"
 msgstr "Du lịch vòng quanh thế giới ngay trong phòng khách của bạn"
 
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:209
 msgctxt "description"
 msgid ""
 "The world is an amazing and beautiful place! Start exploring it with this "
@@ -1231,17 +1387,17 @@ msgid ""
 "sites in the world!"
 msgstr "Thế giới là một nơi tuyệt vời và xinh đẹp! Bắt đầu khám phá thế giới với ứng dụng cực chất này, là ứng dụng mang đến cho bạn những hình ảnh và giúp bạn tìm hiểu mọi thứ từ khắp nơi trên thế giới. Ứng dụng có nhiều thông tin và các địa danh quan trọng ở châu Mỹ, châu Âu, châu Á và xa hơn nữa. Tìm hiểu về các kỳ quan thiên nhiên, khám phá các nền văn hóa mới và phát hiện ra một số các địa điểm tôn giáo thiêng liêng và quan trọng bậc nhất trên thế giới!"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:210
 msgctxt "title"
 msgid "VideoNet"
 msgstr "VideoNet"
 
-#: content/Default/apps/content.json.h:187
+#: content/Default/apps/content.json.h:211
 msgctxt "subtitle"
 msgid "Discover and share great videos online"
 msgstr "Khám phá và chia sẻ trực tuyến các video cực hay"
 
-#: content/Default/apps/content.json.h:188
+#: content/Default/apps/content.json.h:212
 msgctxt "description"
 msgid ""
 "This app makes finding videos on the popular video site, YouTube, and "
@@ -1252,17 +1408,17 @@ msgid ""
 "family, and the world!  ** Requires internet"
 msgstr "Ứng dụng này giúp việc tìm kiếm video trên YouTube, trang web video phổ biến, và chia sẻ video dễ dàng hơn theo một cách mới hoàn toàn! Xem video của các nghệ sĩ âm nhạc yêu thích, các hướng dẫn dạy bạn cách làm mọi thứ, video hài hước hay dễ thương và nhiều hơn nữa. Bạn sẽ có được những giờ phút vui vẻ và sẽ có thể chia sẻ tất cả những điều hay ho mà bạn tìm ra hoặc tạo nên với bạn bè, gia đình và thế giới! ** Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:189
+#: content/Default/apps/content.json.h:213
 msgctxt "title"
 msgid "Sanitation"
 msgstr "Vệ sinh"
 
-#: content/Default/apps/content.json.h:190
+#: content/Default/apps/content.json.h:214
 msgctxt "subtitle"
 msgid "All about clean water and sanitation"
 msgstr "Tất cả thông tin về nước sạch và vệ sinh"
 
-#: content/Default/apps/content.json.h:191
+#: content/Default/apps/content.json.h:215
 msgctxt "description"
 msgid ""
 "Drinking clean water is essential for survival. There can often be terrible "
@@ -1271,17 +1427,17 @@ msgid ""
 "that you create a sanitary environment around you where you can thrive. "
 msgstr "Việc uống nước sạch rất thiết yếu cho sự sống còn. Có nhiều bệnh dịch khủng khiếp lây lan qua đường nước bẩn, hoặc do vệ sinh môi trường chung quanh bạn kém. Tìm hiểu cách làm thế nào để đảm bảo bạn uống được nước sạch và cách làm thế nào để đảm bảo bạn tạo ra một môi trường vệ sinh chung quanh nơi bạn sinh sống."
 
-#: content/Default/apps/content.json.h:192
+#: content/Default/apps/content.json.h:216
 msgctxt "title"
 msgid "Weather"
 msgstr "Thời tiết"
 
-#: content/Default/apps/content.json.h:193
+#: content/Default/apps/content.json.h:217
 msgctxt "subtitle"
 msgid "Get daily local forecasts from trusted sources"
 msgstr "Nhận dự báo thời tiết địa phương hàng ngày từ những nguồn đáng tin cậy"
 
-#: content/Default/apps/content.json.h:194
+#: content/Default/apps/content.json.h:218
 msgctxt "description"
 msgid ""
 "“How’s the weather out there?” Answer this question easily, every day, with "
@@ -1291,17 +1447,17 @@ msgid ""
 "about the weather to take advantage of your day!  **Requires internet"
 msgstr "\"Thời tiết bên ngoài thế nào nhỉ?\" Trả lời câu hỏi này một cách dễ dàng hàng ngày, chỉ với một cú bấm nút. Ứng dụng thời tiết đơn giản này giúp bạn biết được thời tiết bên ngoài ra sao. Ngoài có lạnh không? Bạn có nên chuẩn bị vì trời sắp đổ mưa không? Hôm nay có đẹp trời để đi dạo không? Tìm hiểu mọi thứ bạn cần về thời tiết để tận dụng cả ngày! **Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:195
+#: content/Default/apps/content.json.h:219
 msgctxt "title"
 msgid "World Literature"
 msgstr "Văn học thế giới"
 
-#: content/Default/apps/content.json.h:196
+#: content/Default/apps/content.json.h:220
 msgctxt "subtitle"
 msgid "Read all of the world's great literature"
 msgstr "Đọc toàn bộ kiệt tác văn học thế giới"
 
-#: content/Default/apps/content.json.h:197
+#: content/Default/apps/content.json.h:221
 msgctxt "description"
 msgid ""
 "Find some of your favorite books in this app! To begin browsing, open the "
@@ -1313,17 +1469,17 @@ msgid ""
 "entertained for hours expanding your literary knowledge."
 msgstr "Bạn sẽ tìm thấy một số quyển sách yêu thích của bạn trong ứng dụng này! Để bắt đầu tìm kiếm, hãy mở thư mục, nhấp vào tệp \"Chỉ mục\" và chọn thể loại yêu thích nhất của bạn. Bạn sẽ tìm thấy các quyển sách nổi tiếng, bao gồm các kiệt tác hiện đại chắc chắn sẽ khiến bạn vô cùng hào hứng. Thư viện ảo này còn có một bộ sưu tập đáng kinh ngạc gồm các tiểu thuyết, bài thơ, tiểu sử, truyện hoặc các văn bản khác. Dù bạn chỉ tìm quyển sách ưa thích của mình hay tìm ra được một quyển sách mới, bạn cũng sẽ được thỏa mãn với hàng giờ bổ sung kiến thức văn học cho mình."
 
-#: content/Default/apps/content.json.h:198
+#: content/Default/apps/content.json.h:222
 msgctxt "title"
 msgid "Your Health"
 msgstr ""
 
-#: content/Default/apps/content.json.h:199
+#: content/Default/apps/content.json.h:223
 msgctxt "subtitle"
 msgid "Health, nutrition, and well-being in one click"
 msgstr ""
 
-#: content/Default/apps/content.json.h:200
+#: content/Default/apps/content.json.h:224
 msgctxt "description"
 msgid ""
 "Health care for the whole family with information about disease prevention, "
@@ -1332,17 +1488,17 @@ msgid ""
 "System. Content developed by the medical team at the sautil.com.br portal"
 msgstr ""
 
-#: content/Default/apps/content.json.h:201
+#: content/Default/apps/content.json.h:225
 msgctxt "title"
 msgid "Slingshot"
 msgstr "Slingshot"
 
-#: content/Default/apps/content.json.h:202
+#: content/Default/apps/content.json.h:226
 msgctxt "subtitle"
 msgid "A shooting strategy game set in space"
 msgstr "Trò chơi chiến thuật bắn súng trong không gian"
 
-#: content/Default/apps/content.json.h:203
+#: content/Default/apps/content.json.h:227
 msgctxt "description"
 msgid ""
 "Gravity is your best friend in this fun shooting game set in outer space. "
@@ -1351,17 +1507,17 @@ msgid ""
 "in this fun and addictive game!"
 msgstr "Trọng lực chính là đồng minh tốt nhất của bạn trong trò chơi bắn súng không gian vui nhộn này. Sử dụng lực hấp dẫn của các hành tinh khác nhau để biến thành lợi thế và dùng chiếc ná tin cậy của bạn để tiêu diệt tàu vũ trụ của đối phương. Không có màn chơi nào giống màn chơi nào trong trò chơi vui nhộm và dễ gây nghiện này!"
 
-#: content/Default/apps/content.json.h:204
+#: content/Default/apps/content.json.h:228
 msgctxt "title"
 msgid "Google Chrome"
 msgstr ""
 
-#: content/Default/apps/content.json.h:205
+#: content/Default/apps/content.json.h:229
 msgctxt "subtitle"
 msgid "Google's popular web browser"
 msgstr ""
 
-#: content/Default/apps/content.json.h:206
+#: content/Default/apps/content.json.h:230
 msgctxt "description"
 msgid ""
 "Google Chrome is one of the world's most popular web browsers. If you have "
@@ -1370,17 +1526,17 @@ msgid ""
 "websites. ** Requires internet"
 msgstr ""
 
-#: content/Default/apps/content.json.h:207
+#: content/Default/apps/content.json.h:231
 msgctxt "title"
 msgid "Skype"
 msgstr "Skype"
 
-#: content/Default/apps/content.json.h:208
+#: content/Default/apps/content.json.h:232
 msgctxt "subtitle"
 msgid "Free internet calls with cheap rates to phones"
 msgstr "Gọi điện thoại internet miễn phí với cước phí rẻ hơn"
 
-#: content/Default/apps/content.json.h:209
+#: content/Default/apps/content.json.h:233
 msgctxt "description"
 msgid ""
 "Skype makes staying in touch incredibly easy and fun! If you have a webcam "
@@ -1389,17 +1545,17 @@ msgid ""
 "you can stay in touch with people anywhere in world!  **Requires Internet"
 msgstr "Skype giúp giữ liên lạc một cách vô cùng dễ dàng và thú vị! Nếu bạn có một webcam và microphone, bạn có thể dễ dàng thực hiện cuộc gọi video và cuộc gọi thoại với bất cứ ai trên thế giới có dùng Skype. Các tính năng của ứng dụng này rất đơn giản để sử dụng và bạn có thể giữ liên lạc với mọi người ở bất cứ đâu trên thế giới! **Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:210
+#: content/Default/apps/content.json.h:234
 msgctxt "title"
 msgid "Spotify"
 msgstr "Spotify"
 
-#: content/Default/apps/content.json.h:211
+#: content/Default/apps/content.json.h:235
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
 msgstr "Nghe nhạc qua Spotify"
 
-#: content/Default/apps/content.json.h:212
+#: content/Default/apps/content.json.h:236
 msgctxt "description"
 msgid ""
 "Access all of your favorite music, discover new songs, and share music "
@@ -1411,17 +1567,17 @@ msgid ""
 "**Requires internet"
 msgstr "Truy cập toàn bộ các bản nhạc yêu thích của bạn, khám phá các ca khúc mới và chia sẻ âm nhạc trực tuyến với bạn bè của bạn - tất cả tại một nơi. Tạo ra các danh mục phát dùng chung hoặc chia sẻ các ca khúc riêng với bạn bè trên Facebook của bạn chỉ bằng một cú bấm nút. Dõi theo bạn bè hay các nghệ sĩ yêu thích của bạn để biết họ đang nghe gì, rồi sau đó lưu các ca khúc vào danh mục phát của riêng bạn. Spotify là cách tốt nhất để truy cập vào hàng triệu ca khúc và tất cả các bản hit mới nhất. **Cần có internet"
 
-#: content/Default/apps/content.json.h:213
+#: content/Default/apps/content.json.h:237
 msgctxt "title"
 msgid "Steam"
 msgstr "Steam"
 
-#: content/Default/apps/content.json.h:214
+#: content/Default/apps/content.json.h:238
 msgctxt "subtitle"
 msgid "Online store with popular video games"
 msgstr "Cửa hàng trực tuyến các trò chơi điện tử phổ biến"
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:239
 msgctxt "description"
 msgid ""
 "If you like playing video games, you're going to have a great time exploring"
@@ -1436,17 +1592,17 @@ msgid ""
 "Requires internet"
 msgstr "Nếu bạn thích chơi trò chơi điện tử, bạn sẽ có khoảng thời gian tuyệt vời khám phá cửa hàng trực tuyến Steam Store của Valve! Nhiều trò chơi yêu cầu mua trực tuyến, tuy nhiên, một số trò chơi phổ biến như Team Fortress 2 được chơi miễn phí. Khi tìm kiếm, hãy bảo đảm thu hẹp kết quả theo các hệ điều hành Linux / SteamOS. Không phải trò chơi Linux nào cũng tương thích với Endless, do đó, hãy đảm bảo bạn đã kiểm tra các yêu cầu hệ thống trước khi mua trò chơi. Bạn sẽ cần phải đồng ý với các chính sách riêng của Steam, trong đó có chính sách hoàn trả, nếu bạn quyết định mua hàng. Endless khác với Steam và không được hoàn trả trò chơi hoặc bạn phải chịu trách nhiệm khi bạn thực hiện giao dịch mua hàng trên Steam. ** Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:240
 msgctxt "title"
 msgid "Teeworlds"
 msgstr "Teeworlds"
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:241
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
 msgstr "Trò chơi bắn súng nhiều người chơi đầy hào hứng"
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:242
 msgctxt "description"
 msgid ""
 "Shoot your way to victory in death matches and more! This game has an old-"
@@ -1458,17 +1614,17 @@ msgid ""
 "and go!"
 msgstr "Bắn và tiêu diệt mọi chướng ngại trên con đường giành chiến thắng trong các trận chiến tử thần và còn hơn thế nữa! Trò chơi này mang đến cảm giác quen thuộc và là trò chơi bắn súng nhiều người tham gia với trận chiến hùng tráng lên đến 16 tay súng cùng một lúc. Chinh phục phần chơi Cướp cờ hoặc Đấu đội, mà trong đó bạn phải cố gắng vừa sống sót trong đấu trường sinh tử vừa phải tiêu diệt kẻ thù. Trò chơi này có nhiều tính năng thú vị như khả năng tạo bản đồ cho riêng mình! Cảm giác cực kỳ hào hứng đang chờ đón bạn, hãy xách theo vũ khí ảo và chiến đấu nào!"
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:243
 msgctxt "title"
 msgid "Billiards"
 msgstr "Bida"
 
-#: content/Default/apps/content.json.h:220
+#: content/Default/apps/content.json.h:244
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
 msgstr "Trò chơi bida 3D vui nhộn"
 
-#: content/Default/apps/content.json.h:221
+#: content/Default/apps/content.json.h:245
 msgctxt "description"
 msgid ""
 "Do you love playing billiards, or have you ever wanted to learn how to play?"
@@ -1478,17 +1634,17 @@ msgid ""
 "your game."
 msgstr "Bạn thích chơi bida, hoặc đã từng muốn tìm hiểu cách chơi như thế nào? Trò chơi này sẽ mang đến cho bạn trải nghiệm như được chơi bida và các trò chơi tượng tự khác ngay tại nhà. Đây là trò chơi rất dễ tìm hiểu và chơi với độ thực tế cao. Ứng dụng này chính là công cụ tuyệt vời để vừa chơi để giải trí vừa cải thiện trình độ của bạn."
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:246
 msgctxt "title"
 msgid "E-mail"
 msgstr "Thư điện tử"
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:247
 msgctxt "subtitle"
 msgid "Your e-mail, address book and calendar in one place"
 msgstr "Thư điện tử, danh bạ và lịch làm việc trong cùng một ứng dụng"
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:248
 msgctxt "description"
 msgid ""
 "Staying in touch is an important part of modern life, and email has become "
@@ -1499,17 +1655,17 @@ msgid ""
 "  **Requires internet"
 msgstr "Luôn giữ liên lạc là một phần quan trọng trong cuộc sống hiện đại và thư điện tử đã trở thành một trong những cách hữu hiệu nhất để thực hiện điều này. Bạn có thể nhận thư điện tử từ những người bạn phương xa hoặc ở gần và gia đình, đọc các tin nhắn hàng này có truyện cười, từ vựng và tin tức hoặc thậm chí là xử lý các tình huống quan trọng - tất cả đều thông qua thư điện tử. Mỗi khi bạn cần xem thư điện tử một cách nhanh chóng và đơn giản, ứng dụng này sẽ có mặt để bạn có thể sử dụng. **Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:249
 msgctxt "title"
 msgid "Calculator"
 msgstr "Máy tính"
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:250
 msgctxt "subtitle"
 msgid "A scientific calculator with many bonus tools"
 msgstr "Máy tính khoa học với nhiều công cụ hỗ trợ thêm"
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:251
 msgctxt "description"
 msgid ""
 "Do you ever consider how often you need to do basic or even complex math in "
@@ -1521,17 +1677,17 @@ msgid ""
 " again as long as you have this calculator app!"
 msgstr "Bạn có bao giờ nghĩ đến mức độ thường xuyên phải thực hiện các phép tính toán cơ bản hoặc thậm chí phức tạp trong cuộc sống hàng ngày không? Từ tính toán ngân sách đến chuyển đổi các phép đo trong công thức để tính thuế, bạn thường sử dụng phương trình thường xuyên hơn bạn nghĩ. Đó là lý do tại sao ứng dụng máy tính này hữu ích. Thực hiện phép tính số học đơn giản nhanh chóng, hoặc cho phép máy tính thực hiện công việc khó hơn, tùy thuộc vào nhu cầu của bạn. Bạn sẽ chẳng còn mệt mỏi làm toán một khi đã có ứng dụng máy tính này!"
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:252
 msgctxt "title"
 msgid "Settings"
 msgstr "Thiết lập"
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:253
 msgctxt "subtitle"
 msgid "Easily change your computer's settings"
 msgstr "Dễ dàng thay đổi các thiết lập cho máy tính"
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:254
 msgctxt "description"
 msgid ""
 "If you find yourself constantly wanting to change your computer's settings, "
@@ -1541,17 +1697,17 @@ msgid ""
 " ever with this cool shortcut!"
 msgstr "Nếu bạn thấy mình thường xuyên và liên tục muốn thay đổi thiết lập máy tính, bây giờ, bạn chỉ cần một cú nhấp chuột! Dù bạn muốn thay đổi ảnh nền máy tính, thay đổi độ sáng màn hình khi trời tối, hoặc nếu bạn muốn thực hiện thao tác nào đó như thêm một máy in mới, tất cả sẽ dễ dàng hơn với biểu tượng tuyệt vời này!"
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:255
 msgctxt "title"
 msgid "Super Tux"
 msgstr "Super Tux"
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:256
 msgctxt "subtitle"
 msgid "Jump your way through different levels to win"
 msgstr "Nhảy theo cách của bạn để đi hết các cấp độ và giành chiến thắng"
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:257
 msgctxt "description"
 msgid ""
 "This game is similar to the original Super Mario Brothers games where you "
@@ -1560,17 +1716,17 @@ msgid ""
 " can follow along with as you play."
 msgstr "Trò chơi này cũng tương tự như trò chơi Super Mario Brothers nguyên bản, bạn phải chạy và nhảy theo cách của bạn qua màn chơi mới. Trò chơi này có 26 màn chơi với các đối thủ khác nhau để chiến đấu, cùng với điệu nhạc vui nhộn, ngoài ra còn có phần cốt truyện để bạn theo dõi trong khi chơi."
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:258
 msgctxt "title"
 msgid "Spreadsheet"
 msgstr "Bảng tính"
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:259
 msgctxt "subtitle"
 msgid "A spreadsheet program with many functions"
 msgstr "Chương trình bảng tính với rất nhiều chức năng"
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:260
 msgctxt "description"
 msgid ""
 "Whatever you need to keep track of, the spreadsheet app can help you do it. "
@@ -1581,17 +1737,17 @@ msgid ""
 " job market."
 msgstr "Dù bạn cần theo dõi việc gì thì ứng dụng bảng tính này cũng có thể giúp bạn thực hiện. Ứng dụng hiện đại nhưng dễ sử dụng này dành cho tất cả mọi người: cách bố trí đơn giản nhưng dễ hiểu, cộng thêm khả năng làm các phép tính phức tạp. Bảng tính được sử dụng trong nhiều ngành nghề trên toàn thế giới, do đó, có ứng dụng này trong tay có thể giúp bạn có được những kỹ năng giá trị trong nghề nghiệp của mình."
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:261
 msgctxt "title"
 msgid "Presentation"
 msgstr "Thuyết trình"
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:262
 msgctxt "subtitle"
 msgid "Create great presentations with this easy-to-use app"
 msgstr "Tạo bài thuyết trình tuyệt vời với ứng dụng dễ sử dụng này"
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:263
 msgctxt "description"
 msgid ""
 "Create clean, attractive, and professional presentations with this "
@@ -1602,17 +1758,17 @@ msgid ""
 "need."
 msgstr "Tạo bài thuyết trình rõ ràng, hấp dẫn và chuyên nghiệp với ứng dụng trình bày này. Ứng dụng này có khả năng sử dụng văn bản, công cụ, chuyển đổi, mô hình 2-D và 3-D, và thậm chí cả hình ảnh động để kết nối các điểm trình bày lại với nhau theo một cách hấp dẫn và thú vị. Trên hết tất cả, ứng dụng này rất dễ hiểu và dễ sử dụng, với các bước đơn giản để tạo ra chính xác những gì bạn cần."
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:264
 msgctxt "title"
 msgid "Writer"
 msgstr "Trình biên soạn"
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:265
 msgctxt "subtitle"
 msgid "Free, similar to & compatible with Microsoft Word"
 msgstr "Miễn phí, tương tự với và tương thích với Microsoft Word"
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:266
 msgctxt "description"
 msgid ""
 "This app gives you all the features of the best word processing applications"
@@ -1624,17 +1780,17 @@ msgid ""
 "notes; either way, you’ll have simple yet powerful tools available."
 msgstr "Ứng dụng này cung cấp cho bạn tất cả các tính năng của các ứng dụng xử lý văn bản tốt nhất và tương thích với Microsoft Office. Tạo và chỉnh sửa tài liệu một cách dễ dàng, tạo ghi chú ngắn gọn và văn bản dài hơn với chú thích và biểu đồ. Tất cả đều có thể với ứng dụng này. Tài liệu của bạn sẽ trông rất chuyên nghiệp khi trình bày cho nhà tuyển dụng, giáo viên hoặc những nhân vật quan trọng khác. Sử dụng ứng dụng này để tạo ra tác phẩm tuyệt vời hoặc chỉ để ghi chú cực kỳ cụ thể; dù cách nào đi nữa thì bạn cũng đã có sẵn một công cụ đơn giản nhưng mạnh mẽ."
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:267
 msgctxt "title"
 msgid "BlockOut 2"
 msgstr "BlockOut 2"
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:268
 msgctxt "subtitle"
 msgid "3D Tetris-style game"
 msgstr "Trò chơi kiểu xếp gạch 3D"
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:269
 msgctxt "description"
 msgid ""
 "Do you love puzzle games? Then you’ll love BlockOut 2. This 3-D Tetris game "
@@ -1644,17 +1800,17 @@ msgid ""
 "tons of fun."
 msgstr "Bạn yêu thích các trò chơi giải đố? Vậy thì bạn cũng sẽ yêu thích BlockOut 2. Trò chơi 3D dạng xếp gạch này có tiết tấu nhanh và rất vui nhộn! Hãy tìm cách ráp các khối có hình dạng khác nhau và tạo thành khối gạch hoàn chỉnh để kiếm điểm, trước khi các khối chồng lên quá cao và bạn thua! Rất tốt cho trí não và cực kỳ vui nhộn."
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:270
 msgctxt "title"
 msgid "EduGames"
 msgstr "EduGames"
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:271
 msgctxt "subtitle"
 msgid "Puzzles, memory games, and more for kids"
 msgstr "Câu đố, trò chơi luyện trí nhớ và nhiều trò chơi khác dành cho trẻ em"
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:272
 msgctxt "description"
 msgid ""
 "This app makes learning fun for young children with more than 100 games and "
@@ -1664,17 +1820,17 @@ msgid ""
 "him or her throughout life."
 msgstr "Ứng dụng này giúp việc học trở nên vui nhộn với trẻ nhỏ với hơn 100 trò chơi và hoạt động! Các chủ đề về giáo dục như đọc sách, địa lý và toán học và ứng dụng cũng mang đến các trò chơi như đánh cờ rất tốt cho não của trẻ em. Con cái của bạn sẽ có thời gian tuyệt vời để phát triển những kỹ năng vô giá hỗ trợ cho cuộc sống của bé."
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:273
 msgctxt "title"
 msgid "EduGames Admin"
 msgstr "EduGames Admin"
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:274
 msgctxt "subtitle"
 msgid "For teachers to help their students learn"
 msgstr "Dành cho giáo viên hỗ trợ học sinh học tập"
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:275
 msgctxt "description"
 msgid ""
 "Use this app to configure the EduGames app and create the exact learning "
@@ -1685,17 +1841,17 @@ msgid ""
 " fun that they'll want to spend hours doing just what you want them to!"
 msgstr "Sử dụng ứng dụng này để cấu hình ứng dụng EduGames và tạo ra các trải nghiệm học tập chính xác mà bạn muốn dành cho học sinh! Bạn có thể thay đổi danh sách hoạt động, hoặc thay đổi điều khiển ứng dụng để học sinh chỉ tập trung vào các trò chơi mà bạn muốn. Để bắt đầu, tải về ứng dụng này và ứng dụng EduGames từ mục \"Trò chơi\" trên kho ứng dụng. Học sinh của bạn sẽ cảm hấy rất hào hứng đến mức chúng sẽ bỏ ra hàng giờ để thực hiện điều bạn yêu cầu!"
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:276
 msgctxt "title"
 msgid "Minetest"
 msgstr "Minetest"
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:277
 msgctxt "subtitle"
 msgid "Create your dream world"
 msgstr "Tạo ra thế giới mơ ước của bạn"
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:278
 msgctxt "description"
 msgid ""
 "What kind of a world would you build? Start with just land and water, and "
@@ -1707,17 +1863,17 @@ msgid ""
 " your city!"
 msgstr "Bạn muôn xây dựng một thành phố như thế nào? Bắt đầu chỉ với đất và nước, rồi từ đó tạo nên từng chi tiết mà bạn có thể nghĩ ra! Hãy sáng tạo và xây dựng một lâu đài tráng lệ, một tòa nhà chọc trời khổng lồ, một tòa nhà rộng thênh thang, và đừng quên dựng lên các bức tường thành phố để bảo vệ. Khám phá thế giới và xây dựng bất cứ thứ gì bạn muốn vào ban ngày, nhưng hãy đảm bảo khả năng phòng vệ vào ban đêm. Bạn có thể thấy những con nhền nhện, bộ xương và zombie tấn công thành phố của bạn!"
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:279
 msgctxt "title"
 msgid "Kobo Deluxe"
 msgstr "Kobo Deluxe"
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:280
 msgctxt "subtitle"
 msgid "Destroy enemy bases in space"
 msgstr "Phá hủy căn cứ của kẻ thù trong không gian"
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:281
 msgctxt "description"
 msgid ""
 "Fans of arcade-style games will love this fun shooting game. Protect "
@@ -1726,17 +1882,17 @@ msgid ""
 "to play. You'll have hours and hours of fun blowing up things in space!"
 msgstr "Những người yêu thích trò chơi kiểu arcade sẽ thích trò chơi bắn súng vui nhộn này. Bảo vệ bản thân khỏi kẻ thù và tiêu diệt phi thuyền của chúng khi chúng truy đuổi bạn qua không gian rộng lớn! Trò chơi này có đồ họa bắt mắt và rất nhiều thử thách, với hơn 50 màn chơi dành cho bạn. Bạn sẽ dành hàng giờ để thổi tung mọi thứ ngoài không gian!"
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:282
 msgctxt "title"
 msgid "Atomic Tanks"
 msgstr "Xe tăng nguyên tử"
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:283
 msgctxt "subtitle"
 msgid "Bring friends and families together in the pursuit of world domination"
 msgstr "Tập hợp đội ngũ bạn bè và gia đình trong công cuộc thống trị thế giới"
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:284
 msgctxt "description"
 msgid ""
 "Annihilate other tanks to earn money, then spend it on bigger and better "
@@ -1745,17 +1901,17 @@ msgid ""
 "adversary."
 msgstr "Tiêu diệt những chiếc xe tăng khác để kiếm tiền, sau đó, chi tiền để có được những bộ giáp và vũ khí lớn hơn cũng như hiện đại hơn để quét sạch mọi kẻ đối địch. Nếu chiến thắng, bạn sẽ trở thành một vị chỉ huy thiện chiến thực thụ, nếu chiến bại, bạn sẽ phải nhận lấy cơn thịnh nộ từ kẻ thù."
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:285
 msgctxt "title"
 msgid "Audio Editor"
 msgstr "Trình chỉnh sửa âm thanh"
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:286
 msgctxt "subtitle"
 msgid "Audio editor for recording, slicing, and mixing audio"
 msgstr "Trình chỉnh sửa âm thanh để thu âm, cắt và trộn âm thanh"
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:287
 msgctxt "description"
 msgid ""
 "Have you ever wanted to make your own audio clips or songs? With this app, "
@@ -1764,17 +1920,17 @@ msgid ""
 "songs that you can even share with the world!"
 msgstr "Đã bao giờ bạn muốn thực hiện những đoạn clip âm thanh hoặc bài hát của riêng mình chưa? Với ứng dụng này, bạn sẽ có thể sử dụng tất cả các công cụ cần thiết để tạo clip âm thanh để phát cho bạn bè và gia đình. Hãy tạo ra những đoạn clip và bài hát chất lượng cao để chia sẻ với cả thế giới!"
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:288
 msgctxt "title"
 msgid "Battle Tanks"
 msgstr "Đấu trường xe tăng"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:289
 msgctxt "subtitle"
 msgid "A fast-paced battle game to play with friends"
 msgstr "Trò chơi chiến đấu tốc độ cao chơi cùng bạn bè"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:290
 msgctxt "description"
 msgid ""
 "Battle with family and friends with an arsenal of your design. With awesome "
@@ -1782,17 +1938,17 @@ msgid ""
 "ages. Just make sure you can handle the explosions!"
 msgstr "Kề vai sát cánh chiến đấu cùng gia đình và bạn bè bằng bộ sưu tập khí giới do chính bạn thiết kế. Với hình ảnh tuyệt đẹp và âm nhạc cực chất, đây là một trò chơi vui nhộn và năng động phù hợp với người chơi thuộc mọi lứa tuổi. Chỉ cần bạn chắc chắn mình chịu được được các vụ cháy nổ!"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:291
 msgctxt "title"
 msgid "Chromium BSU"
 msgstr "Chromium BSU"
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:292
 msgctxt "subtitle"
 msgid "Command your spaceship and battle with robots"
 msgstr "Chỉ huy chiếc tàu không gian của riêng mình và chiến đấu với rô bốt"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:293
 msgctxt "description"
 msgid ""
 "Imagine this: You’re the captain of a space ship that must get supplies to "
@@ -1802,17 +1958,17 @@ msgid ""
 "overcome them, you’re on your way to a galaxy of fun!"
 msgstr "Hãy thử tưởng tượng: Bạn là thuyền trưởng của một chiếc tàu không gian phải đưa hàng tiếp tế đến tiền tuyến trong một cuộc chiến khốc liệt ngoài không gian. Với sự giúp đỡ của hạm đội rô bốt chiến đấu, bạn có thể sẽ hoàn thành được nhiệm vụ này. Trò chơi kiểu arcade đầy gay cấn này đảm bảo sẽ khiến bạn phải căng não. Với rất nhiều chướng ngại vật và công cụ để vượt qua, bạn sẽ tha hồ tận hưởng cả một vũ trụ đầy niềm vui!"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:294
 msgctxt "title"
 msgid "Tux Racer"
 msgstr "Tux Racer"
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:295
 msgctxt "subtitle"
 msgid "Race down icy mountains"
 msgstr "Đua xe từ đỉnh núi băng giá"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:296
 msgctxt "description"
 msgid ""
 "Make it down a snow and ice-covered mountain as quickly as possible in this "
@@ -1821,17 +1977,17 @@ msgid ""
 "get your heart racing, this game is a must play for any adrenaline addict."
 msgstr "Chạy xuống từ một ngọn núi tuyết phủ càng nhanh càng tốt trong trò chơi đua xe này! Nhưng chẳng dễ dàng đâu! Bạn sẽ phải né cây cối, đá tảng và thậm chí là xương cá cản đường và làm chậm tốc độ của bạn. Đảm bảo bạn sẽ cực kỳ hồi hộp, đây là trò chơi không thể thiếu dành cho những người đam mê sự kịch tính."
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:297
 msgctxt "title"
 msgid "FrostTorrent"
 msgstr "FrostTorrent"
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:298
 msgctxt "subtitle"
 msgid "Download nearly anything or share your own files"
 msgstr "Tải về gần như mọi thứ hoặc chia sẻ các tệp của riêng bạn"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:299
 msgctxt "description"
 msgid ""
 "Access, download and share almost any file you'd like to with this useful "
@@ -1843,17 +1999,17 @@ msgid ""
 "**Requires Internet"
 msgstr "Truy cập, tải về và chia sẻ gần như tất cả các tập tin bạn muốn với ứng dụng chia sẻ ngang hàng trực tuyến này, là ứng dụng cho phép bạn chia sẻ tập tin với những người dùng được kết nối vào mạng BitTorrent. Từ âm nhạc, video và trò chơi, đến các loại tệp phức tạp hơn như phần mềm, bạn sẽ có thể truy cập các tệp được chia sẻ từ hàng triệu người dùng trực tuyến. Ứng dụng này thậm chí còn bao gồm một trình phát video được tích hợp để bạn có thể dễ dàng xem tất cả các tệp đa phương tiện mà bạn tải về. ** Yêu cầu kết nối Internet"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:300
 msgctxt "title"
 msgid "Toy Train"
 msgstr "Xe lửa đồ chơi"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:301
 msgctxt "subtitle"
 msgid "A fun train game for kids of all ages"
 msgstr "Một trò chơi xe lửa vui nhộn dành cho trẻ em ở mọi độ tuổi"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:302
 msgctxt "description"
 msgid ""
 "Sure to be an instant hit with the whole family, this is a game featuring a "
@@ -1861,17 +2017,17 @@ msgid ""
 "coaches as you go. Collect all the coaches to win the game!"
 msgstr "Đảm bảo cả gia đình đều sẽ thích thú, trò chơi này có một đầu máy hơi nước mà bạn dùng để lái đi qua nhiều cấp độ nhằm thu thập các toa xe lửa. Hãy thu thập tất cả các toa xe lửa để giành chiến thắng!"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:303
 msgctxt "title"
 msgid "Tux Kart"
 msgstr "Tux Kart"
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:304
 msgctxt "subtitle"
 msgid "Race alone or against your friends and family"
 msgstr "Đua xe đơn thương độc mã hoặc đua cùng bạn bè và gia đình"
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:305
 msgctxt "description"
 msgid ""
 "Do you love racing games? Then this is the app for you! Race down easy, "
@@ -1882,17 +2038,17 @@ msgid ""
 "is sure to entertain you and your friends for hours!"
 msgstr "Bạn có thích chơi đua xe không? Vậy đây chính là ứng dụng dành cho bạn! Đua ở các mức độ dễ, trung bình và khó trong vai chú chim cánh cụt Tux, cố gắng vượt qua tốc độ của chính mình hoặc của bạn bè. Nếu bạn nhận được con cá màu đỏ, bạn sẽ có được sức mạnh đặc biệt giúp bạn giành chiến thắng, nhưng phải đảm bảo tránh những con cá màu xanh lá cây nếu không bạn sẽ bị giảm tốc độ. Trò chơi này rất phù hợp cho cả trẻ em lẫn người lớn và chắc chắn sẽ giúp bạn và bạn bè giải trí trong nhiều giờ!"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:306
 msgctxt "title"
 msgid "TORCS"
 msgstr "TORCS"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:307
 msgctxt "subtitle"
 msgid "Race cool 3D cars in this realistic game"
 msgstr "Trò chơi đua xe 3D cực chất y như thật"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:308
 msgctxt "description"
 msgid ""
 "Rip around turns and scream past other drivers in this exciting 3D car "
@@ -1903,17 +2059,17 @@ msgid ""
 "want to play too!"
 msgstr "Kéo lết bánh vài vòng và cười nhạo các tay đua bị qua mặt trong trò chơi đua xe 3D cực kỳ hào hứng này. Trò chơi sống động đến nỗi bạn có thể ngửi thấy mùi cao su cháy! Người chơi cao thủ cũng sẽ có cơ hội tạo tay đua riêng cho mình để có nhiều lợi thế hơn các đối thủ. Bạn sẽ thích đua bằng những chiếc xe tốc độ cao của mình và sẽ sớm nhận thấy rằng tất cả bạn bè đều muốn chơi cùng!"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:309
 msgctxt "title"
 msgid "Tux Football"
 msgstr "Tux Football"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:310
 msgctxt "subtitle"
 msgid "A fun soccer game starring Tux the penguin"
 msgstr "Trò chơi bóng đá vui nhộn với ngôi sao là chú chim cánh cụt Tux"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:311
 msgctxt "description"
 msgid ""
 "Do you love soccer? Now you can play all day with your favorite penguins! "
@@ -1922,17 +2078,17 @@ msgid ""
 "professionals!"
 msgstr "Bạn yêu thich bóng đá không? Giờ đây bạn có thể chơi cả ngày với những chú cánh cụt đáng yêu! Hãy phô diễn kỹ năng và chiến thuật trong khi điều khiển các cầu thủ vờn bóng. Bạn sẽ mau chóng nhận ra bạn rằng bạn đã sẵn sàng cho những trận đấu chuyên nghiệp!"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:312
 msgctxt "title"
 msgid "Warmux"
 msgstr "Warmux"
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:313
 msgctxt "subtitle"
 msgid "Make your computer a battle of wit and war"
 msgstr "Biến máy tính của bạn thành trận chiến của trí óc và giao tranh"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:314
 msgctxt "description"
 msgid ""
 "Exterminate your opponent in a cartoon word using dynamite, grenades, "
@@ -1941,17 +2097,17 @@ msgid ""
 " member of each team attempts to destroy his opponents."
 msgstr "Tiêu diệt đối thủ của bạn trong thế giới hoạt hình bằng cách dùng thuốc nổ, lựu đạn, súng bazooka, hoặc thậm chí là gậy bóng chày. Mỗi người chơi điều khiển đội của mình và phải tiêu diệt kẻ thù bằng cách dùng kho vũ khí và trí thông minh, và cứ mỗi lượt đi, mỗi thành viên của mỗi đội đều cố gắng tiêu diệt đối thủ của mình."
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:315
 msgctxt "title"
 msgid "Warzone 2100"
 msgstr "Warzone 2100"
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:316
 msgctxt "subtitle"
 msgid "Lead your troops to rebuild the world"
 msgstr "Dẫn dắt binh lính xây dựng lại thế giới"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:317
 msgctxt "description"
 msgid ""
 "In Warzone 2100 you command forces to rebuild the world after nuclear war "
@@ -1961,17 +2117,17 @@ msgid ""
 "of strategy, tactics, and wit."
 msgstr "Trong Warzone 2100, bạn sẽ nắm quyền chỉ huy lực lượng xây dựng lại thế giới sau khi bị chiến tranh hạt nhân phá hủy. Bạn có thể chơi một mình hoặc với bạn bè; dù chơi kiểu nào thì bạn cũng sẽ chìm vào một thế giới khác, nơi bạn sẽ sống và sinh tồn bằng các chiến thuật quân sự. Nghiên cứu công nghệ, xây dựng đơn vị, và lên kế hoạch cho những trận đánh trong trò chơi đầy chiến lược, chiến thuật và cân não này."
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:318
 msgctxt "title"
 msgid "Armagetron"
 msgstr "Armagetron"
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:319
 msgctxt "subtitle"
 msgid "Race 3D light motorcycles like in the movie Tron"
 msgstr "Đua xe mô tô ánh sáng 3D như trong phim Tron"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:320
 msgctxt "description"
 msgid ""
 "This exciting game lets you into the world of Tron. Get behind the wheel of "
@@ -1980,17 +2136,17 @@ msgid ""
 "to learn and a lot of fun to play!"
 msgstr "Trò chơi hào hứng này đưa bạn vào thế giới Tron. Bạn sẽ được cầm lái \"xe ánh sáng\", chiếc xe có thiết kế tuyệt đẹp và đậm chất công nghệ siêu hiện đại và thi tài với những tay đua khác trên đường đua. Ép đối thủ vào tường đấu trường để giành chiến thắng. Ứng dụng này rất dễ khám phá và đem đến thật nhiều niềm vui khi chơi!"
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:321
 msgctxt "title"
 msgid "Tux Puck"
 msgstr "Tux Puck"
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:322
 msgctxt "subtitle"
 msgid "Exciting air hockey game for you and your friends"
 msgstr "Trò chơi khúc côn cầu trên bàn hào hứng dành cho bạn và bạn bè"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:323
 msgctxt "description"
 msgid ""
 "An air hockey game in which you try to knock the puck past your opponent's "
@@ -1999,17 +2155,17 @@ msgid ""
 " or F6 to adjust your paddle speed.)"
 msgstr "Một trò chơi khúc côn cầu trên bàn mà trong đó, bạn phải vượt qua hàng phòng ngự của đối phương. Đây là một trò chơi tuyệt vời cho toàn thể gia đình! Hãy thử thách kỹ năng và phản xạ để giành chiến thắng trong trận đấu có nhịp độ nhanh này! (Khi đang chơi, nhấn F5 và F6 để điều chỉnh tốc độ tay cầm.)"
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:324
 msgctxt "title"
 msgid "Tux Math"
 msgstr "Tux Math"
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:325
 msgctxt "subtitle"
 msgid "Math games for kids"
 msgstr "Trò chơi giải toán dành cho trẻ em"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:326
 msgctxt "description"
 msgid ""
 "Learn math by playing games! Starring kids’ favorite buddy, Tux the Penguin,"
@@ -2019,17 +2175,17 @@ msgid ""
 "both worlds and will help your child learn to love math!"
 msgstr "Học giải toán thông qua trò chơi! Trò chơi có chú cánh cụt Tux, người bạn thân thiết của mọi trẻ em, trò chơi giải toán này sẽ đưa các em đến những bài toán một cách vui nhộn và hào hứng. Bạn muốn kỹ năng toán của con mình được cải thiện còn trẻ thì lại muốn chơi trò chơi - vậy hãy khuyến khích các em kết hợp cả hai điều tuyệt diệu nhất trên thế giới này và giúp con bạn yêu môn toán học!"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:327
 msgctxt "title"
 msgid "Tux Typing"
 msgstr "Tux Typing"
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:328
 msgctxt "subtitle"
 msgid "Learn to type by playing games"
 msgstr "Học cách đánh chữ qua trò chơi"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:329
 msgctxt "description"
 msgid ""
 "This fun application is a great way for kids, and even adults, to learn how "
@@ -2041,17 +2197,17 @@ msgid ""
 "encouraging them to play!"
 msgstr "Ứng dụng thú vị này chính là cách tuyệt vời để trẻ em, và thậm chí cả người lớn, học cách đánh máy! Tìm hiểu những điều cơ bản hoặc nâng cao kỹ năng của bạn bằng cách chơi trò chơi dạy cho bạn cách sử dụng bàn phím mà không cần nhìn. Ngày nay, trẻ em đang lớn lên trong môi trường đầy máy vi tính và các thiết bị di động, và việc học cách sử dụng các công nghệ này cũng sẽ trở nên ngày càng quan trọng hơn trong tương lai. Hãy bắt đầu với một nền tảng tuyệt vời bằng cách tải ứng dụng này và khuyến khích trẻ chơi!"
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:330
 msgctxt "title"
 msgid "FreeCiv"
 msgstr "FreeCiv"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:331
 msgctxt "subtitle"
 msgid "Guide your own civilization to greatness"
 msgstr "Dẫn dắt nền văn minh của bạn đến bước phát triển rực rỡ"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:332
 msgctxt "description"
 msgid ""
 "Create your own world with this action-packed game that lets you travel "
@@ -2063,17 +2219,17 @@ msgid ""
 "conquering the moon and beyond!"
 msgstr "Tạo ra thế giới cho riêng bạn với trò chơi đậm chất hành động đưa bạn du hành xuyên thời gian và bắt đầu một nền văn minh của riêng mình. Bạn sẽ bắt đầu từ việc cầu xin, trong thời kỳ tiền sử, nơi bạn sẽ cần tạo nên một bộ tộc của riêng bạn. Sau đó, bạn sẽ đến thời trung cổ, sống sót qua cơn bệnh dịch hạch và phát minh ra bánh xe. Bạn sẽ tiếp tục đi qua các thời kỳ đến thời hiện đại và cần cân bằng nền chính trị của thế giới theo đúng lộ trình để dẫn dắt dân tộc của bạn chinh phục mặt trăng và còn xa hơn nữa!"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:333
 msgctxt "title"
 msgid "FreeCol"
 msgstr "FreeCol"
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:334
 msgctxt "subtitle"
 msgid "Create your own country and conquer the world"
 msgstr "Tạo ra một quốc gia cho riêng mình và chinh phục cả thế giới"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:335
 msgctxt "description"
 msgid ""
 "Have you ever wanted to start your own country? Well, now you can. Go back "
@@ -2083,17 +2239,17 @@ msgid ""
 "prosperity? You decide."
 msgstr "Bạn đã bao giờ muốn tạo ra một quốc gia cho riêng mình chưa? Giờ thì bạn hoàn toàn có thể. Quay về thời xa xưa khi châu Mỹ vẫn chưa bị thôn tính và tạo nên những thị trấn, thành phố và các tiểu bang giúp củng cố kế hoạch tối thượng của bạn. Bạn sẽ thử thống trị thế giới, hay sẽ thúc đẩy hòa bình và thịnh vượng quốc tế? Tùy bạn quyết định."
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:336
 msgctxt "title"
 msgid "Frozen Bubbles"
 msgstr "Những quả bóng đóng băng"
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:337
 msgctxt "subtitle"
 msgid "Pop bubbles before they all come crashing down"
 msgstr "Làm nổ những quả bóng trước khi tất cả chúng rơi xuống"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:338
 msgctxt "description"
 msgid ""
 "Play by yourself or challenge your friends to an exciting game of frozen "
@@ -2102,17 +2258,17 @@ msgid ""
 " have a good strategy and develop a quick trigger finger in order to win!"
 msgstr "Tự chơi hoặc thách đấu bạn bè chơi cùng với trò chơi hào hứng của những quả bóng đóng băng! Hãy chọn các quả bóng cùng màu để làm chúng rơi xuống và dọn sạch bóng trước khi chúng chồng lên quá cao và rơi vào bạn. Bạn cũng cần có chiến lược đúng đắn và nhanh tay bấm để giành chiến thắng!"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:339
 msgctxt "title"
 msgid "GIMP"
 msgstr "GIMP"
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:340
 msgctxt "subtitle"
 msgid "Advanced image editing tool similar to Photoshop"
 msgstr "Công cụ chỉnh sửa hình ảnh cao cấp tương tự như Photoshop"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:341
 msgctxt "description"
 msgid ""
 "Edit your photos to create even more beautiful works of art with this "
@@ -2124,17 +2280,17 @@ msgid ""
 "images once you get the hang of this helpful editing app!"
 msgstr "Chỉnh sửa hình ảnh để tạo ra một tác phẩm nghệ thuật với trình chỉnh sửa hình ảnh cao cấp này. Ứng dụng này tương thích với Adobe Photoshop, trình chỉnh sửa hình ảnh phổ biến cho các máy tính chạy hệ điều hành Windows. Người dùng chuyên nghiệp có thể thực hiện các tác vụ như chuyển đổi định dạng của tệp và áp dụng một loạt các công cụ lọc và chỉnh sửa để tạo ra tác phẩm nghệ thuật. Ứng dụng chỉnh sửa hữu ích này mang đến rất nhiều khả năng để tạo ra hình ảnh cực chất một khi bạn đã thông thạo!"
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:342
 msgctxt "title"
 msgid "Freecell"
 msgstr "Freecell"
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:343
 msgctxt "subtitle"
 msgid "Solitare based single player card game"
 msgstr "Trò chơi chơi với các lá bài mô phỏng theo trò chơi Solitare"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:344
 msgctxt "description"
 msgid ""
 "This application lets you play a new type of solitaire that will keep you "
@@ -2144,17 +2300,17 @@ msgid ""
 "to enjoy."
 msgstr "Ứng dụng này cho phép bạn chơi loại bài solitare mới và tận hưởng niềm vui trong hàng giờ liền! Mục đích chung là đặt các lá bài có cùng bộ theo thứ tự chữ số nhưng sẽ phức tạp hơn đôi chút. Trò chơi với các lá bài này sẽ thách thức trí não và mang đến cho bạn niềm vui vô tận."
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:345
 msgctxt "title"
 msgid "Math Plotting"
 msgstr "Tạo đồ thị toán học"
 
-#: content/Default/apps/content.json.h:322
+#: content/Default/apps/content.json.h:346
 msgctxt "subtitle"
 msgid "Interactive computation and data visualization tool"
 msgstr "Công cụ tính toán tương tác và trực quan hóa dữ liệu"
 
-#: content/Default/apps/content.json.h:323
+#: content/Default/apps/content.json.h:347
 msgctxt "description"
 msgid ""
 "This math application offers advanced mathematical computing functions that "
@@ -2165,17 +2321,17 @@ msgid ""
 "here."
 msgstr "Ung dụng toán học này cung cấp các chức năng tính toán cao cấp được sử dụng cho các phép tính phức tạp hơn nhiều so với phép tính cơ bản. Nếu bạn là một người cực giỏi toán thích thực hiện những phép tính thú vị, đây là ứng dụng dành cho bạn. Và thậm chí nếu bạn không yêu toán, ứng dụng này có thể được sử dụng một cách tiện dụng như một máy tính cao cấp. Tất cả mọi thứ bạn cần là tìm ra ẩn số ngay bây giờ."
 
-#: content/Default/apps/content.json.h:324
+#: content/Default/apps/content.json.h:348
 msgctxt "title"
 msgid "Notes"
 msgstr "Ghi chú"
 
-#: content/Default/apps/content.json.h:325
+#: content/Default/apps/content.json.h:349
 msgctxt "subtitle"
 msgid "Never lose a note again"
 msgstr "Không bao giờ bị thất lạc ghi chú nữa"
 
-#: content/Default/apps/content.json.h:326
+#: content/Default/apps/content.json.h:350
 msgctxt "description"
 msgid ""
 "Do you find yourself writing down lots of notes on pieces of paper that "
@@ -2186,17 +2342,17 @@ msgid ""
 "notes and stay even more organized!"
 msgstr "Bạn có bao giờ thấy rằng mình viết quá nhiều ghi chú trên tờ giấy và rồi chúng bị thất lạc hoặc bị rách? Hoặc có quá nhiều tờ ghi chú trên bàn khiến không gian chật chội? Dù bạn cần loại ghi chú gì đi nữa thì ứng dụng này cũng có thể giúp bạn tập trung chúng về một nơi. Ứng dụng này cũng có khả năng liên kết các ghi chú, giúp bạn dễ dàng truy cập mọi ghi chú có liên quan và sắp xếp có tổ chức hơn nữa!"
 
-#: content/Default/apps/content.json.h:327
+#: content/Default/apps/content.json.h:351
 msgctxt "title"
 msgid "Iagno"
 msgstr "Iagno"
 
-#: content/Default/apps/content.json.h:328
+#: content/Default/apps/content.json.h:352
 msgctxt "subtitle"
 msgid "A fun puzzle game that involves lots of thought"
 msgstr "Trò chơi giải đố vui nhộn đòi hỏi nhiều suy luận"
 
-#: content/Default/apps/content.json.h:329
+#: content/Default/apps/content.json.h:353
 msgctxt "description"
 msgid ""
 "Turn over the pieces in front of you so that they are all the same color. "
@@ -2207,17 +2363,17 @@ msgid ""
 "strategically and see if you can figure this puzzle out!"
 msgstr "Lật các miếng ở phía trước bạn sao cho tất cả chúng có cùng màu với nhau. Nghe thật đơn giản phải không? Không đâu nhé! Bạn có thể thay đổi các miếng có màu theo màu sắc của mình sao cho bạn có thể đặt một miếng vào vị trí để tạo thành hàng, cột hoặc đường chéo liên tục bao gồm các miếng có màu giống nhau. Vậy nên, bạn cần lật các miếng cẩn thận để TẤT CẢ đều là miếng có màu bạn cần. Hãy suy tính chiến lược và thử sức xem bạn có thể giải được câu đố này hay không nhé!"
 
-#: content/Default/apps/content.json.h:330
+#: content/Default/apps/content.json.h:354
 msgctxt "title"
 msgid "Documents"
 msgstr "Văn bản"
 
-#: content/Default/apps/content.json.h:331
+#: content/Default/apps/content.json.h:355
 msgctxt "subtitle"
 msgid "Access all of your documents and files"
 msgstr "Truy cập tất cả các tài liệu và tệp của bạn"
 
-#: content/Default/apps/content.json.h:332
+#: content/Default/apps/content.json.h:356
 msgctxt "description"
 msgid ""
 "Get organized with this app, which helps you find all of your documents and "
@@ -2228,17 +2384,17 @@ msgid ""
 "special photo again."
 msgstr "Sắp xếp ngăn nắp với ứng dụng này, là ứng dụng giúp bạn tìm thấy tất cả các tài liệu và tệp dù bạn đã lưu trong bao lâu đi nữa. Sắp xếp mọi thứ theo cách phù hợp với bạn, thêm hoặc đặt lại tên thư mục theo cách giúp bạn dễ dàng tìm được hình ảnh, video và tài liệu. Với ứng dụng này, bạn có thể lưu trữ mọi thứ tại một nơi và sẽ không bao giờ làm thất lạc các tập tin quan trọng hoặc hình ảnh đặc biệt nữa."
 
-#: content/Default/apps/content.json.h:333
+#: content/Default/apps/content.json.h:357
 msgctxt "title"
 msgid "Quadrapassel"
 msgstr "Quadrapassel"
 
-#: content/Default/apps/content.json.h:334
+#: content/Default/apps/content.json.h:358
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
 msgstr "Trò chơi giải đố dạng xếp gạch"
 
-#: content/Default/apps/content.json.h:335
+#: content/Default/apps/content.json.h:359
 msgctxt "description"
 msgid ""
 "You'll need to be quick if you want to win this game! Change the shape of "
@@ -2249,17 +2405,17 @@ msgid ""
 "challenge!"
 msgstr "Bạn phải thật nhanh nếu muốn giành chiến thắng trò chơi này! Thay đổi hình dạng của các mảnh rơi từ trên xuống sao cho khớp màu sắc để chúng sẽ biến mất. Nếu bạn không làm các khối màu biến mất đủ nhanh thì cả màn hình sẽ bị lấp đầy và bạn sẽ phải chơi lại. Và chỉ khi bạn nghĩ bạn đã đủ nhanh tay lẹ mắt, trò chơi sẽ tự tăng tốc độ, vì vậy, hãy sẵn sàng chinh phục thử thách!"
 
-#: content/Default/apps/content.json.h:336
+#: content/Default/apps/content.json.h:360
 msgctxt "title"
 msgid "Screenshot"
 msgstr "Chụp ảnh màn hình"
 
-#: content/Default/apps/content.json.h:337
+#: content/Default/apps/content.json.h:361
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
 msgstr "Chụp lại màn hình mà bạn muốn lưu"
 
-#: content/Default/apps/content.json.h:338
+#: content/Default/apps/content.json.h:362
 msgctxt "description"
 msgid ""
 "Do you ever wish you could take a picture of your screen to save? Well now "
@@ -2268,17 +2424,17 @@ msgid ""
 "make sure to save just what you need and nothing more."
 msgstr "Bạn có bao giờ muốn chụp ảnh màn hình để lưu lại không? Giờ thì bạn hoàn toàn có thể với ứng dụng chụp màn hình dễ dàng sử dụng này. Bạn có thể chọn để chụp lại toàn bộ màn hình, hoặc chỉ một trong số các cửa sổ. Bằng cách đó, bạn có thể chắc chắn lưu lại những gì bạn cần và không bị dư thừa."
 
-#: content/Default/apps/content.json.h:339
+#: content/Default/apps/content.json.h:363
 msgctxt "title"
 msgid "Solitaire"
 msgstr "Solitaire"
 
-#: content/Default/apps/content.json.h:340
+#: content/Default/apps/content.json.h:364
 msgctxt "subtitle"
 msgid "The classic single player card game"
 msgstr "Trò chơi đơn với các lá bài kinh điển"
 
-#: content/Default/apps/content.json.h:341
+#: content/Default/apps/content.json.h:365
 msgctxt "description"
 msgid ""
 "Solitaire is a classic card game that is fun for people of all ages. It’s "
@@ -2288,17 +2444,17 @@ msgid ""
 "entertain you, hour after hour."
 msgstr "Solitare là trò chơi đánh bài kinh điển mang đến niềm vui cho mọi người thuộc mọi lứa tuổi. Rất dễ nắm được luật chơi nhưng phải tốn khá nhiều thời gian để giành chiến thắng. Nếu gặp may, bạn sẽ muốn bỏ ra hàng giờ để thực sự hiểu được cách chơi, vì trò này quá vui nhộn. Trò chơi khá tốn thời gian và vận dụng trí óc này đảm bảo sẽ làm bạn thích thú."
 
-#: content/Default/apps/content.json.h:342
+#: content/Default/apps/content.json.h:366
 msgctxt "title"
 msgid "Terminal"
 msgstr "Lệnh Terminal"
 
-#: content/Default/apps/content.json.h:343
+#: content/Default/apps/content.json.h:367
 msgctxt "subtitle"
 msgid "Use the command line"
 msgstr "Sử dụng dòng lệnh"
 
-#: content/Default/apps/content.json.h:344
+#: content/Default/apps/content.json.h:368
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch"
@@ -2308,17 +2464,17 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made."
 msgstr "Nếu bạn là người dùng chuyên nghiệp và muốn hiển thị thông tin hệ thống và truy cập các ứng dụng mà không cần dùng đến chuột thì giờ đây, bạn đã có thể thực hiện điều này vói ứng dụng lệnh terminal cơ bản. Với lệnh terminal hiện đại này, bạn có thể xem được tất cả các lệnh được viết được phân biệt theo màu sắc để giúp đảm bảo bạn nhập đúng lệnh và dễ dàng nhận ra bất kỳ lỗi nào được nhập."
 
-#: content/Default/apps/content.json.h:345
+#: content/Default/apps/content.json.h:369
 msgctxt "title"
 msgid "Tetravex"
 msgstr "Tetravex"
 
-#: content/Default/apps/content.json.h:346
+#: content/Default/apps/content.json.h:370
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
 msgstr "Chạy đua với thời gian trong trò chơi giải đố các con số"
 
-#: content/Default/apps/content.json.h:347
+#: content/Default/apps/content.json.h:371
 msgctxt "description"
 msgid ""
 "Try to match up all of the same numbers on the blocks to win this tricky "
@@ -2327,17 +2483,17 @@ msgid ""
 "beat your or your friends' best time!"
 msgstr "Hãy thử khớp tất cả các số giống nhau trên các khối để chiến thắng trò chơi lắt léo này.  Bạn sẽ cần phải vừa suy nghĩ cẩn thận vừa cũng nhanh tay lẹ mắt để hoàn thành câu đó. Thời gian có hạn, vì vậy hãy cố gắng giải quyết thật nhanh để đánh bại kỷ lục thời gian của mình hoặc của bạn bè!"
 
-#: content/Default/apps/content.json.h:348
+#: content/Default/apps/content.json.h:372
 msgctxt "title"
 msgid "Videos"
 msgstr "Video"
 
-#: content/Default/apps/content.json.h:349
+#: content/Default/apps/content.json.h:373
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr "Trình phát video và giải trí đầy đủ chức năng"
 
-#: content/Default/apps/content.json.h:350
+#: content/Default/apps/content.json.h:374
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -2347,17 +2503,17 @@ msgid ""
 "your family and friends to join you in watching all of your favorite movies!"
 msgstr "Bạn có thích xem phim không? Hãy xem phim đúng cách bằng ứng dụng video này, là ứng dụng cho phép bạn xem phim đã được tải về ở chế độ toàn màn hình. Các chức năng cơ bản khác, ví dụ như điều chỉnh âm lượng và danh sách phát, giúp trải nghiệm xem phim trở nên dễ dàng và vui vẻ. Với ứng dụng này, bạn sẽ muốn mời tất cả các thành viên gia đình và bạn bè để cùng xem tất cả các bộ phim yêu thích của bạn!"
 
-#: content/Default/apps/content.json.h:351
+#: content/Default/apps/content.json.h:375
 msgctxt "title"
 msgid "Gedit"
 msgstr "Gedit"
 
-#: content/Default/apps/content.json.h:352
+#: content/Default/apps/content.json.h:376
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
 msgstr "Trình soạn thảo văn bản đơn giản cho mọi nhu cầu chỉnh sửa văn bản"
 
-#: content/Default/apps/content.json.h:353
+#: content/Default/apps/content.json.h:377
 msgctxt "description"
 msgid ""
 "Use this simple app to create and edit files that require plain text inputs."
@@ -2366,17 +2522,17 @@ msgid ""
 "should be perfect for all of your text editing needs."
 msgstr "Sử dụng ứng dụng đơn giản này để tạo và chỉnh sửa các tập tin yêu cầu đầu vào văn bản đơn giản. Nếu bạn là một lập trình viên hoặc một nhà lập trình đầy triển vọng, bạn sẽ cần ứng dụng này. Với chức năng mạnh mẽ và giao diện dễ sử dụng, trình soạn thảo văn bản này sẽ là lựa chọn hoàn hảo cho tất cả các nhu cầu chỉnh sửa văn bản của bạn."
 
-#: content/Default/apps/content.json.h:354
+#: content/Default/apps/content.json.h:378
 msgctxt "title"
 msgid "Mind Maps"
 msgstr "Bản đồ tư duy"
 
-#: content/Default/apps/content.json.h:355
+#: content/Default/apps/content.json.h:379
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
 msgstr "Tạo bản đồ tư duy với ký tự, hình ảnh và hình vẽ"
 
-#: content/Default/apps/content.json.h:356
+#: content/Default/apps/content.json.h:380
 msgctxt "description"
 msgid ""
 "Do you ever have a complicated idea, but have trouble organizing it? If so, "
@@ -2385,17 +2541,17 @@ msgid ""
 " create all kinds of cool diagrams that you can save and share."
 msgstr "Đã bao giờ bạn có những ý tưởng phức tạp, nhưng lại gặp khó khăn trong việc sắp xếp chúng chưa? Nếu có thì hãy thử lập bản đồ tư duy! Bản đồ tư duy là một sơ đồ được sử dụng để trình bày lời nói, ý tưởng, nhiệm vụ hoặc mọi điều có liên quan đến một từ khóa hoặc ý tưởng chính. Bạn sẽ có thể tạo ra mọi loại sơ đồ lý thú để lưu lại và chia sẻ."
 
-#: content/Default/apps/content.json.h:357
+#: content/Default/apps/content.json.h:381
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: content/Default/apps/content.json.h:358
+#: content/Default/apps/content.json.h:382
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
 msgstr "Công cụ thiết kế đồ họa cao cấp"
 
-#: content/Default/apps/content.json.h:359
+#: content/Default/apps/content.json.h:383
 msgctxt "description"
 msgid ""
 "This app is for intermediate and advanced graphic designers who need to "
@@ -2406,17 +2562,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr "Đây là ứng dụng dành cho các nhà thiết kế đồ họa trung cấp và cao cấp cần tạo và chỉnh sửa đồ họa và hình ảnh của họ. Ứng dụng này cung cấp cho bạn các tính năng tiên tiến và được so sánh với Adobe InDesign. Ví dụ, ứng dụng này cho phép bạn tạo ra SVGs (Scalable Vector Graphics - Đồ họa vecto mở rộng), cho phép hình ảnh đồ họa của bạn duy trì chất lượng cao bất kể kích thước. Hãy tạo ra những hình ảnh quảng cáo, tờ rơi quảng cáo, thuyết trình bài và tác phẩm nghệ thuật tuyệt đẹp bằng ứng dụng đồ họa miễn phí tuyệt vời này!"
 
-#: content/Default/apps/content.json.h:360
+#: content/Default/apps/content.json.h:384
 msgctxt "title"
 msgid "Kalzium"
 msgstr "Kalzium"
 
-#: content/Default/apps/content.json.h:361
+#: content/Default/apps/content.json.h:385
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
 msgstr "Bảng tuần hoàn nguyên tố cực kỳ vui nhộn"
 
-#: content/Default/apps/content.json.h:362
+#: content/Default/apps/content.json.h:386
 msgctxt "description"
 msgid ""
 "The periodic table of the elements is one of the basic building blocks of "
@@ -2429,17 +2585,17 @@ msgid ""
 "simple, and informative app."
 msgstr "Bảng tuần hoàn các nguyên tố là một trong những nền tảng cơ bản của khoa học và bây giờ bạn đã có thể sở hữu ở trong tầm tay. Ứng dụng này cung cấp bảng tuần hoàn có đánh dấu theo màu sắc giúp việc học các nguyên tố dễ dàng hơn và thú vị hơn. Chọn các nguyên tố để tìm hiểu thông tin cơ bản, như điểm tan chảy, khối lượng và nhiều chi tiết khác. Các thông tin chi tiết phức tạp hơn, ví dụ như hình mô tả quang phổ của nguyên tố, khiến ứng dụng này trở thành lựa chọn hoàn hảo cho việc khám phá khoa học. Bạn sẽ không thể tin được khối lượng kiến thức khổng lồ mà mình học được với ứng dụng đẹp, đơn giản và đầy đủ thông tin này."
 
-#: content/Default/apps/content.json.h:363
+#: content/Default/apps/content.json.h:387
 msgctxt "title"
 msgid "Kapman"
 msgstr "Kapman"
 
-#: content/Default/apps/content.json.h:364
+#: content/Default/apps/content.json.h:388
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
 msgstr "Trò chơi ma và mê cung kinh điển"
 
-#: content/Default/apps/content.json.h:365
+#: content/Default/apps/content.json.h:389
 msgctxt "description"
 msgid ""
 "If you love Pac-Man, then you you'll love this game too! Eat dots to gain "
@@ -2449,17 +2605,17 @@ msgid ""
 "and family, from kids to grandparents, will love the game, too!"
 msgstr "Nếu bạn yêu thích Pac-Man thì bạn cũng sẽ thích trò chơi này quá! Ăn các chấm để đạt điểm mà không bị ma bắt, nếu không, bạn sẽ thua. Khi bạn đạt được kỹ năng và vượt qua các cấp độ, tốc độ của trò chơi tăng lên, thách thức hơn và thú vị hơn. Bạn sẽ chẳng muốn dừng chơi, và bạn bè và gia đình của bạn, từ trẻ em đến ông bà, đều cũng sẽ yêu thích trò chơi này!"
 
-#: content/Default/apps/content.json.h:366
+#: content/Default/apps/content.json.h:390
 msgctxt "title"
 msgid "KAtomic"
 msgstr "KAtomic"
 
-#: content/Default/apps/content.json.h:367
+#: content/Default/apps/content.json.h:391
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
 msgstr "Học hóa học một cách vui nhộn"
 
-#: content/Default/apps/content.json.h:368
+#: content/Default/apps/content.json.h:392
 msgctxt "description"
 msgid ""
 "If you’re struggling with concepts in chemistry, or simply looking for a way"
@@ -2471,17 +2627,17 @@ msgid ""
 " a ton!"
 msgstr "Nếu bạn đang phải vật lộn với các khái niệm trong hóa học, hoặc đơn giản là tìm kiếm cách nâng cao sự hiểu biết của mình, thì bạn đã tìm thấy ứng dụng thích hợp để giúp đỡ bạn! Trò chơi đầy thử thách này yêu cầu bạn tạo ra phân tử từ nguyên tử - cách thức học tập hoàn hảo mà vui nhộn! Màn hình sẽ hiển thị cho bạn phân tử trông như thế nào và bạn có thể di chuyển các nguyên tử xung quanh để tạo ra phân tử chính xác. Trò chơi này đòi hỏi phải có chiến lược và tư duy nhanh chóng và sẽ dạy cho bạn rất nhiều điều!"
 
-#: content/Default/apps/content.json.h:369
+#: content/Default/apps/content.json.h:393
 msgctxt "title"
 msgid "KBlocks"
 msgstr "KBlocks"
 
-#: content/Default/apps/content.json.h:370
+#: content/Default/apps/content.json.h:394
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
 msgstr "Khớp các khối gạch để phá hủy và giành chiến thắng"
 
-#: content/Default/apps/content.json.h:371
+#: content/Default/apps/content.json.h:395
 msgctxt "description"
 msgid ""
 "This game is similar to Tetris, so if you love that game, you will love this"
@@ -2490,17 +2646,17 @@ msgid ""
 " lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr "Trò chơi này tương tự trò chơi xếp gạch, vậy nên, nếu bạn yêu thích trò chơi đó thì bạn cũng sẽ yêu thích trò chơi này! Khớp các khối theo hình dạng để khiến chúng biến mất và không lấp đầy màn hình. Bạn sẽ phải thật nhanh tay nếu không bạn sẽ thua, do vậy, hãy tập trung và sẵn sàng với trò chơi hành động nhanh vui nhộn này!"
 
-#: content/Default/apps/content.json.h:372
+#: content/Default/apps/content.json.h:396
 msgctxt "title"
 msgid "KBounce"
 msgstr "KBounce"
 
-#: content/Default/apps/content.json.h:373
+#: content/Default/apps/content.json.h:397
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
 msgstr "Trò chơi nảy bóng đảm bảo sẽ khiến bạn thích mê"
 
-#: content/Default/apps/content.json.h:374
+#: content/Default/apps/content.json.h:398
 msgctxt "description"
 msgid ""
 "This is a fun game with a simple goal: you must build walls to decrease the "
@@ -2510,17 +2666,17 @@ msgid ""
 "It requires quick thinking and fast reflexes!"
 msgstr "Đây là trò chơi cực kỳ vui nhộn với mục tiêu đơn giản: bạn phải xây những bức tưởng để giảm khu vực di chuyển của quả bóng nảy trên màn hình. Một khi bạn đã dựng tường trên khắp màn hình, bạn có thể qua màn tiếp theo. Trò chơi này có yếu tố giải đố, có tốc độ cao và tính giải trí cao. Bạn cần suy nghĩ và phản xạ nhanh!"
 
-#: content/Default/apps/content.json.h:375
+#: content/Default/apps/content.json.h:399
 msgctxt "title"
 msgid "KBruch"
 msgstr "KBruch"
 
-#: content/Default/apps/content.json.h:376
+#: content/Default/apps/content.json.h:400
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr "Tìm hiểu về phân số, tỷ lệ phần trăm và nhiều hơn nữa"
 
-#: content/Default/apps/content.json.h:377
+#: content/Default/apps/content.json.h:401
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -2532,17 +2688,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr "Một trong những phần khó khăn nhất trong toán học chúng ta làm mỗi ngày là tính toán phân số và tỷ lệ phần trăm, và bây giờ, bạn sẽ chẳng cần phải tính lại phép toán một lần nào nữa! Ứng dụng này có các trò chơi và bài tập để nâng cao kỹ năng của bạn, bao gồm cả số học, so sánh, chuyển đổi, và giai thừa. Tìm hiểu tất cả mọi thứ về phân số và tỷ lệ phần trăm cũng như thực hành bao nhiêu tùy thích. Chúng ta gặp phải loại phép toán này hầu như mỗi ngày, vì vậy, các kỹ năng mới sẽ mang đến lợi ích bất ngờ cho bạn!"
 
-#: content/Default/apps/content.json.h:378
+#: content/Default/apps/content.json.h:402
 msgctxt "title"
 msgid "KDiamond"
 msgstr "KDiamond"
 
-#: content/Default/apps/content.json.h:379
+#: content/Default/apps/content.json.h:403
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
 msgstr "Xếp ba viên kim cương thành đường thẳng"
 
-#: content/Default/apps/content.json.h:380
+#: content/Default/apps/content.json.h:404
 msgctxt "description"
 msgid ""
 "In this fast-paced game, your job is to build lines of three diamonds of the"
@@ -2553,17 +2709,17 @@ msgid ""
 "many age levels."
 msgstr "Trong trò chơi có nhịp độ nhanh này, việc của bạn là xếp ba viên kim cương cùng loại thành một hàng. Đơn giản là chỉ cần tráo vị trí các viên kim cương với nhau để tạo thành một hàng. Bạn nên thực hiện thật nhanh, để tạo càng nhiều hàng càng tốt trước khi hết màn chơi! Đây là một trò chơi dễ và mang tính giải trí cao,  bạn có thể chơi trong ít phút hoặc bỏ ra hàng giờ. Trò chơi này rất thú vị, đòi hỏi tốc độ nhanh và tuyệt vời dành cho nhiều độ tuổi."
 
-#: content/Default/apps/content.json.h:381
+#: content/Default/apps/content.json.h:405
 msgctxt "title"
 msgid "KGeography"
 msgstr "KGeography"
 
-#: content/Default/apps/content.json.h:382
+#: content/Default/apps/content.json.h:406
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr "Trở thành thiên tài về địa lý một cách vui nhộn"
 
-#: content/Default/apps/content.json.h:383
+#: content/Default/apps/content.json.h:407
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -2574,17 +2730,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr "Bạn biết được bao nhiêu về địa lý thế giới và các vấn đề chính trị? Hãy tìm hiểu địa lý thế giới thông qua một trò chơi hấp dẫn. Đầu tiên, hãy xem bản đồ và tìm hiểu về tên nước, thủ đô và quốc kỳ. Sau đó, sẽ đến lúc kiểm tra kiến thức của bạn! Đoán thủ đô và quốc kỳ hay cố gắng vẽ biên giới quốc gia lên một bản đồ trống. Trước khi nhận ra, bạn sẽ biết về tất cả các nơi trên thế giới và sẽ có được rất nhiều niềm vui trong khi học hỏi!"
 
-#: content/Default/apps/content.json.h:384
+#: content/Default/apps/content.json.h:408
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
 
-#: content/Default/apps/content.json.h:385
+#: content/Default/apps/content.json.h:409
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr "Tìm kiếm kho báu và che giấu khỏi kẻ thù"
 
-#: content/Default/apps/content.json.h:386
+#: content/Default/apps/content.json.h:410
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -2594,17 +2750,17 @@ msgid ""
 " through any trapdoors!"
 msgstr "Kẻ thù của bạn đuổi theo sát gót khi bạn di chuyển trong mê cung để thu thập vàng trong trò chơi hấp dẫn này. Với các câu đố đầy thách thức và mục tiêu thú vị, trò chơi này chắc chắn sẽ trở thành trò chơi yêu thích của bạn. Bạn sẽ bỏ hàng giờ để chơi hàng trăm màn chơi, với nhiều mê cung mới ở mọi cấp độ. Chỉ cần tránh đừng để rơi vào cửa sập!"
 
-#: content/Default/apps/content.json.h:387
+#: content/Default/apps/content.json.h:411
 msgctxt "title"
 msgid "KHangMan"
 msgstr "KHangMan"
 
-#: content/Default/apps/content.json.h:388
+#: content/Default/apps/content.json.h:412
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr "Một trong những trò chơi từ vựng vui nhộn nhất thế giới"
 
-#: content/Default/apps/content.json.h:389
+#: content/Default/apps/content.json.h:413
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -2616,17 +2772,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr "Thực hành từ vựng của bạn một cách vui nhộn! Bạn sẽ được học từ mới với trò chơi giải đố này, và đây cũng là trò chơi mà cả gia đình có thể chơi cùng nhau. Bạn chơi như thế nào? Máy tính sẽ chọn một từ và người chơi sẽ cố gắng đoán từ đó là gì bằng cách đoán từng chữ cái cho tới khi có thể đoán được toàn bộ từ. Khi người chơi đoán đúng, nhiều từ hơn sẽ được hiển thị, tuy nhiên, nếu bạn đoán sai quá nhiều lần thì bạn sẽ mất lượt và phải bắt đầu lại từ đầu với một từ mới!"
 
-#: content/Default/apps/content.json.h:390
+#: content/Default/apps/content.json.h:414
 msgctxt "title"
 msgid "Kigo"
 msgstr "Kigo"
 
-#: content/Default/apps/content.json.h:391
+#: content/Default/apps/content.json.h:415
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr "Trò chơi kỹ năng kinh điển được cập nhật lối chơi hiện đại"
 
-#: content/Default/apps/content.json.h:392
+#: content/Default/apps/content.json.h:416
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -2638,17 +2794,17 @@ msgid ""
 "too!"
 msgstr "Dựa trên trò chơi trên bảng dành cho hai người chơi phổ biến ở châu Á, ứng dụng này có luật chơi dễ học dễ hiểu, nhưng cũng đòi hỏi rất nhiều chiến lược. Đây là cách thức hoàn hảo để vừa giết thời gian vừa luyện tập trí não. Mục tiêu của trò chơi rất đơn giản: di chuyển quân cờ đen hoặc màu trắng của bạn trên ma trận (kích thước của ma trận phụ thuộc vào mức độ khó mà bạn chọn) và cố gắng vây hãm nhiều khu vực hơn đối thủ của bạn. Nếu bạn thích các trò chơi như cờ vua thì bạn cũng sẽ yêu thích trò chơi chiến thuật tuyệt vời này!"
 
-#: content/Default/apps/content.json.h:393
+#: content/Default/apps/content.json.h:417
 msgctxt "title"
 msgid "Killbots"
 msgstr "Killbots"
 
-#: content/Default/apps/content.json.h:394
+#: content/Default/apps/content.json.h:418
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr "Tiêu diệt sát thủ rô bốt để giành chiến thắng"
 
-#: content/Default/apps/content.json.h:395
+#: content/Default/apps/content.json.h:419
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -2658,17 +2814,17 @@ msgid ""
 "tell the tale!"
 msgstr "Làm thế nào để chạy thoát khỏi các sát thủ rô bốt đang sắp gieo rắc sự phá hủy? Bạn sẽ tìm ra cách trong trò chơi đơn giản nhưng cực kỳ hào hứng này. Bạn sẽ bị áp đảo bởi đoàn quân vô số rô bố nhưng với trí thông minh và thiết bị di chuyển tức thời hữu ích, bạn có thể đánh bại chúng. Hãy tiêu diệt toàn bộ rô bốt sát thủ để giành chiến thắng và sống sót để kể lại vinh quang của chính mình!"
 
-#: content/Default/apps/content.json.h:396
+#: content/Default/apps/content.json.h:420
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "KJumpingCube"
 
-#: content/Default/apps/content.json.h:397
+#: content/Default/apps/content.json.h:421
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr "Xây dựng chiến thuật tốt để chinh phục tất cả mọi lô đất"
 
-#: content/Default/apps/content.json.h:398
+#: content/Default/apps/content.json.h:422
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -2683,17 +2839,17 @@ msgid ""
 " toes! "
 msgstr "Thực hành tư duy chiến thuật với trò chơi thảy xí ngầu đầy thử thách này! Bạn di chuyển bằng cách nhấp vào một lô đất trống hoặc đã có sẵn. Nếu bạn nhấp vào một lô đất trống, màu lô đất sẽ thay đổi cho biết bạn đã là chủ sở hữu. Mỗi lần bạn nhấp vào một lô đất, giá trị của nó sẽ tăng lên một lần. Khi một lô đất có nhiều điểm hơn lô kế bên, điểm của lô sẽ được chia đều cho các lô lân cận (điểm nhảy chung quanh). Nếu lô đất kế bên do đối thủ sở hữu, bạn phải kiểm soát lô đất đó và các điểm trong đó. Bạn sẽ cần suy nghĩ cẩn thận để kiểm soát tất cả mọi lô đất, vì hột xí ngầu có thể đổi mặt rất nhanh, trò chơi này đảm bảo bạn hào hứng đến từng ngón chân!"
 
-#: content/Default/apps/content.json.h:399
+#: content/Default/apps/content.json.h:423
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "Kolor Lines"
 
-#: content/Default/apps/content.json.h:400
+#: content/Default/apps/content.json.h:424
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
 msgstr "Xếp hàng các quả bóng cùng màu đẻ giành chiến thắng"
 
-#: content/Default/apps/content.json.h:401
+#: content/Default/apps/content.json.h:425
 msgctxt "description"
 msgid ""
 "This game is so fun and addicting, you’ll never want to stop playing. The "
@@ -2704,17 +2860,17 @@ msgid ""
 "possible; you lose if it fills up completely!"
 msgstr "Trò chơi này là rất thú vị và dễ gây nghiện, bạn sẽ chẳng muốn dừng chơi. Nội dung rất đơn giản: Thu thập những quả bóng theo màu trên bảng thành một hàng năm quả cùng màu, các quả bóng này sẽ biến mất khỏi bảng. Tuy nhiên, trò chơi này có nhiều thách thức hơn bạn nghĩ, sau mỗi lần di chuyển các quả bóng mới sẽ xuất hiện. Công việc của bạn là làm sao cho có càng ít bóng trên bảng càng tốt, bạn sẽ thua nếu bóng xuất hiện trên khắp bảng!"
 
-#: content/Default/apps/content.json.h:402
+#: content/Default/apps/content.json.h:426
 msgctxt "title"
 msgid "Battleships"
 msgstr "Chiến hạm"
 
-#: content/Default/apps/content.json.h:403
+#: content/Default/apps/content.json.h:427
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
 msgstr "Thổi tung đối thủ ra khỏi mặt nước"
 
-#: content/Default/apps/content.json.h:404
+#: content/Default/apps/content.json.h:428
 msgctxt "description"
 msgid ""
 "Try to guess where your enemies ships are to blow them out of the water "
@@ -2725,17 +2881,17 @@ msgid ""
 "Arrr you ready for some great naval fun?"
 msgstr "Hãy thử đoán vị trí các chiến hạm của kẻ thù và thổi tung chúng ra khỏi mặt nước trước khi chúng bắt được bạn! Đây là trò chơi chiến thuật vui nhộn cần có hai người chơi. Bạn có thể chơi với bạn mình, hoặc với ai đó trên Internet hoặc chơi với máy. Người chơi sẽ lần lượt đoán vị trí tàu địch và người đầu tiên nhấn chìm toàn bộ tàu của đối phương sẽ giành chiến thắng. Bạn đã sẵn sàng tham gia trận thủy chiến vui nhộn chưa nào?"
 
-#: content/Default/apps/content.json.h:405
+#: content/Default/apps/content.json.h:429
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "KNetwalk"
 
-#: content/Default/apps/content.json.h:406
+#: content/Default/apps/content.json.h:430
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
 msgstr "Nối đúng cáp để giành chiến thắng"
 
-#: content/Default/apps/content.json.h:407
+#: content/Default/apps/content.json.h:431
 msgctxt "description"
 msgid ""
 "Who knew building computer networks could be fun? You'll need to create the "
@@ -2746,17 +2902,17 @@ msgid ""
 "enjoyable and competitive game you’ll love to play."
 msgstr "Ai biết được rằng việc xây dựng mạng máy tính cũng có nhiều điều vui nhộn? Bạn sẽ phải nối đúng trong vài lượt chơi để có thể giành chiến thắng - vì thế hãy sẵn sàng nối dây và giải quyết câu đố thật nhanh! Khi thành công, bạn sẽ thấy danh sách người chơi đạt điểm cao để bạn có thể tìm ra đối thủ của mình! Ứng dụng này giúp bạn hiểu về cách hoạt động của hệ thống mạng máy tính, nhưng quan trọng hơn, đây là trò chơi hào hứng và tranh tài mà bạn sẽ thích chơi."
 
-#: content/Default/apps/content.json.h:408
+#: content/Default/apps/content.json.h:432
 msgctxt "title"
 msgid "KSame"
 msgstr "KSame"
 
-#: content/Default/apps/content.json.h:409
+#: content/Default/apps/content.json.h:433
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr "Loại bỏ tất cả các viên bi để giành chiến thắng"
 
-#: content/Default/apps/content.json.h:410
+#: content/Default/apps/content.json.h:434
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -2766,17 +2922,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr "Thể hiện kỹ năng tìm kiếm hình mẫu của bạn trong trò chơi gây nghiện này. Khớp tất cả các viên bi cùng màu trên bảng và giành chiến thắng, nhưng hãy nhớ: càng xóa được nhiều viên bi một lần, số điểm bạn đạt được sẽ càng cao, vì vậy, hãy suy nghĩ chiến thuật cho mọi bước đi của mình! Thoạt trông khá dễ nhưng thật sự lại rất thử thách. Một thử thách đầy hào hứng!"
 
-#: content/Default/apps/content.json.h:411
+#: content/Default/apps/content.json.h:435
 msgctxt "title"
 msgid "KSquares"
 msgstr "KSquares"
 
-#: content/Default/apps/content.json.h:412
+#: content/Default/apps/content.json.h:436
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
 msgstr "Nối các điểm với nhau trong trò chơi chiến thuật đầy thử thách này"
 
-#: content/Default/apps/content.json.h:413
+#: content/Default/apps/content.json.h:437
 msgctxt "description"
 msgid ""
 "Based on a popular old game, this fun app lets you stretch your mind and "
@@ -2787,17 +2943,17 @@ msgid ""
 "entertainment. Be careful – you just might become addicted!"
 msgstr "Dựa trên một trò chơi kinh điển nổi tiếng, ứng dụng vui nhộn này cho phép bạn vận dụng trí óc để giải quyết câu đố. Mục tiêu là hoàn thành nhiều hình vuông trên ma trận hơn đối thủ của bạn. Người chơi lần lượt vẽ các đường thẳng giữa các điểm, tạo thành các hình vuông để chặn các hình vuông của kẻ thù. Trò chơi này đòi hỏi tư duy hình học cũng như chiến thuật, và đảm bảo bạn sẽ sẽ bỏ hàng giờ để chơi. Hãy cẩn thận nhé - có thể bạn sẽ bị nghiện đấy!"
 
-#: content/Default/apps/content.json.h:414
+#: content/Default/apps/content.json.h:438
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
 
-#: content/Default/apps/content.json.h:415
+#: content/Default/apps/content.json.h:439
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
 msgstr "Một trò chơi giải đố các con số đầy thách thức"
 
-#: content/Default/apps/content.json.h:416
+#: content/Default/apps/content.json.h:440
 msgctxt "description"
 msgid ""
 "Are you better than your friend is at puzzles? Find out by playing this fun "
@@ -2809,17 +2965,17 @@ msgid ""
 "Sudoku, or are an experienced player, you'll love this app!"
 msgstr "Bạn có giỏi trò giải câu đố hơn bạn bè không? Hãy tìm hiểu bằng trò chơi giải đố các con số vui nhộn này! Bạn có thể chơi một mình, có người khác giúp bạn, hoặc thách thức bạn bè và gia đình của bạn để xem ai có thể giải quyết câu đố đầu tiên. Ứng dụng này có các tính năng đặc biệt, ví dụ như khả năng tạo ra các màn chơi mà bạn có thể in ra, và khả năng giúp bạn giải quyết bất kỳ câu đố Sudoku nào để bạn có thể tìm ra cách giải quyết theo cách riêng của bạn. Cho dù bạn hoàn toàn mới bắt đầu chơi Sudoku hay là một người chơi có kinh nghiệm, bạn cũng sẽ thích ứng dụng này!"
 
-#: content/Default/apps/content.json.h:417
+#: content/Default/apps/content.json.h:441
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "Anh chàng khoai tây"
 
-#: content/Default/apps/content.json.h:418
+#: content/Default/apps/content.json.h:442
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
 msgstr "Vẽ mặt cho củ khoai tây"
 
-#: content/Default/apps/content.json.h:419
+#: content/Default/apps/content.json.h:443
 msgctxt "description"
 msgid ""
 "This is a silly game for children and their parents to play together. Based "
@@ -2829,17 +2985,17 @@ msgid ""
 "lots of laughter. Make the goofiest face you can!"
 msgstr "Đây là một trò chơi đơn giản để trẻ em và cha mẹ chơi với nhau. Dựa theo món đồ chơi Mr. Potato Head , ứng dụng này cho phép bạn kéo và thả các đặc điểm khuôn mặt vào một củ khoai tây, làm mặt hề với ria mép, tai lừa, tóc đuôi ngựa vàng hoe và nơ. Trò chơi không có mục tiêu gì khác ngoài việc tạo ra rất nhiều tiếng cười. Hãy tạo ra gương mặt buồn cười nhất mà bạn có thể!"
 
-#: content/Default/apps/content.json.h:420
+#: content/Default/apps/content.json.h:444
 msgctxt "title"
 msgid "Kubrick"
 msgstr "Kubrick"
 
-#: content/Default/apps/content.json.h:421
+#: content/Default/apps/content.json.h:445
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
 msgstr "Giống trò chơi rubik - xếp các mặt thành khối màu giống nhau để giành chiến thắng"
 
-#: content/Default/apps/content.json.h:422
+#: content/Default/apps/content.json.h:446
 msgctxt "description"
 msgid ""
 "This puzzling game has lots of options to keep your brain working! Modeled "
@@ -2851,17 +3007,17 @@ msgid ""
 "even design your very own challenge!"
 msgstr "Trò chơi giải đố này có rất nhiều lựa chọn để não liên tục hoạt động! Được mô phỏng từ trò xếp rubik nổi tiếng, trò chơi có dạng 3D này cho phép bạn xoay các khối nhỏ thành một khối lập phương lớn để thử và xoay các mặt khối lập phương sao cho cùng màu. Các hình dạng nhỏ, lớn và dạng khác nhau đều có thách thức đặc biệt riêng. Trò chơi này cũng bao gồm phần mô tả các giải pháp xoay chuyển rất thú vị mà bạn có thể học theo các chuyên gia, và thậm chí còn có thể tạo thách thức riêng cho mình!"
 
-#: content/Default/apps/content.json.h:423
+#: content/Default/apps/content.json.h:447
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr "KWordQuiz"
 
-#: content/Default/apps/content.json.h:424
+#: content/Default/apps/content.json.h:448
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
 msgstr "Phát triển vốn từ và kiểm tra sự hiểu biết"
 
-#: content/Default/apps/content.json.h:425
+#: content/Default/apps/content.json.h:449
 msgctxt "description"
 msgid ""
 "Learning new words is a great way to speak and write more clearly, but "
@@ -2872,17 +3028,17 @@ msgid ""
 "learning all you want."
 msgstr "Học từ mới là một cách tuyệt vời để nói và viết được rõ ràng hơn, tuy nhiên, đôi khi, việc này cũng khá khó khăn. Sử dụng thẻ ghi nhớ được xem là một giải pháp trợ giúp tuyệt vời, cho dù bạn đang học một ngôn ngữ nước ngoài hoặc cố gắng để ghi nhớ từ vựng mới. Ứng dụng này giúp ghi nhớ một cách dễ dàng và vui nhộn với các thẻ ghi nhớ tương tác và câu đố giúp bạn kiểm tra kiến thức của mình và tiếp tục học hỏi những gì bạn muốn."
 
-#: content/Default/apps/content.json.h:426
+#: content/Default/apps/content.json.h:450
 msgctxt "title"
 msgid "Maps"
 msgstr "Bản đồ"
 
-#: content/Default/apps/content.json.h:427
+#: content/Default/apps/content.json.h:451
 msgctxt "subtitle"
 msgid "Maps of the entire world"
 msgstr "Bản đồ toàn thế giới"
 
-#: content/Default/apps/content.json.h:428
+#: content/Default/apps/content.json.h:452
 msgctxt "description"
 msgid ""
 "Where do players from FC Barcelona or Real Madrid live? How far away are you"
@@ -2893,17 +3049,17 @@ msgid ""
 "has changed over time!"
 msgstr "Các cầu thủ của câu lạc bộ FC Barcelona hoặc Real Madrid sống ở đâu? Từ nơi bạn ở đến đất nước có những con voi và sư tử đi lang thang tự do là bao xa? Ngọn núi lửa gần cách bao xa? Đây là tất cả những câu hỏi mà các bản đồ đúng có thể giúp chúng ta trả lời. Ứng dụng này sẽ cho khả năng bạn truy cập tất cả các loại bản đồ từ khắp nơi trên thế giới và từ các thời kỳ khác nhau, nhờ vậy, thậm chí bạn còn có thể xem thế giới đã thay đổi thế nào theo thời gian!"
 
-#: content/Default/apps/content.json.h:429
+#: content/Default/apps/content.json.h:453
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Palapeli"
 
-#: content/Default/apps/content.json.h:430
+#: content/Default/apps/content.json.h:454
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
 msgstr "Trò chơi giải đố ghép hình vui nhộn"
 
-#: content/Default/apps/content.json.h:431
+#: content/Default/apps/content.json.h:455
 msgctxt "description"
 msgid ""
 "If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
@@ -2913,17 +3069,17 @@ msgid ""
 "rewarding, and as true to life as can be."
 msgstr "Nếu bạn là người yêu thích câu đố ghép hình, bạn sẽ thích trò chơi này. Không giống như các trò chơi khác cùng loại, trò chơi này không cần sắp xếp các mảnh trên một ma trận. Thay vào đó, Palapeli mang đến cảm giác thực tế hơn, với những mảnh ghép di chuyển tự do. Chọn hình ghép của bạn và bắt lắp các mảnh ghép lại với nhau. Trò chơi này rất thú vị, bổ ích, và sống động y như thật."
 
-#: content/Default/apps/content.json.h:432
+#: content/Default/apps/content.json.h:456
 msgctxt "title"
 msgid "Virtual School"
 msgstr "Trường học ảo"
 
-#: content/Default/apps/content.json.h:433
+#: content/Default/apps/content.json.h:457
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
 msgstr "Các video giáo dục miễn phí về hầu hết môn học"
 
-#: content/Default/apps/content.json.h:434
+#: content/Default/apps/content.json.h:458
 msgctxt "description"
 msgid ""
 "Learning is easy and fun with video courses on subjects like math, biology, "
@@ -2935,17 +3091,17 @@ msgid ""
 " this app and these videos can help you succeed in school and in life!"
 msgstr "Việc học trở nên dễ dàng và thú vị với khóa học qua video về nhiều môn học như toán, sinh học, hóa học, vật lý và nhiều hơn nữa! Học sinh ở khắp nơi trên thế giới đang sử dụng hiệu quả các video này để chinh phục các môn học khó nuốt một cách vui nhộn và gần gũi. Dù bạn chỉ cần thêm trợ giúp trong việc làm bài tập hoặc quyết tâm tự mình khám phá ra kiến thức mới để học hỏi thì bạn vẫn sẽ tìm thấy điều mình cần với ứng dụng này. Tìm hiểu về những môn học khó theo cách dễ hiểu với bạn và tìm hiểu cách làm thế nào ứng dụng và các video này có thể giúp bạn thành công trong trường và ngoài cuộc sống!"
 
-#: content/Default/apps/content.json.h:435
+#: content/Default/apps/content.json.h:459
 msgctxt "title"
 msgid "Numpty Physics"
 msgstr "Nhà vật lý ngớ ngẩn"
 
-#: content/Default/apps/content.json.h:436
+#: content/Default/apps/content.json.h:460
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
 msgstr "Trò chơi giải đố vật lý vui nhộn"
 
-#: content/Default/apps/content.json.h:437
+#: content/Default/apps/content.json.h:461
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -2956,17 +3112,17 @@ msgid ""
 "learning."
 msgstr "Ai mà biết rằng các định luật vật lý lại có thể mang đến nhiều niềm vui như vậy? Với ứng dụng này, bạn có thể giải quyết các câu đố bằng hình vẽ như ròng rọc, đòn bẩy và mặt phẳng nghiêng. Nếu trả lời đúng, bạn sẽ hoàn thành nhiệm vụ của màn chơi đó và chuyển sang màn chơi tiếp theo. Trò chơi đầy thử thách này sẽ dạy cho bạn một số vấn đề vật lý cơ bản, nhưng cũng sẽ mang đến rất nhiều niềm vui đến nỗi bạn không cảm thấy như đang học tập."
 
-#: content/Default/apps/content.json.h:438
+#: content/Default/apps/content.json.h:462
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr "M.A.R.S."
 
-#: content/Default/apps/content.json.h:439
+#: content/Default/apps/content.json.h:463
 msgctxt "subtitle"
 msgid "A shooting game in space"
 msgstr "Trò chơi bắn súng ngoài không gian"
 
-#: content/Default/apps/content.json.h:440
+#: content/Default/apps/content.json.h:464
 msgctxt "description"
 msgid ""
 "In the year 3547, civilizations across the galaxy have settled their own "
@@ -2979,17 +3135,17 @@ msgid ""
 "keep playing until you succeed in returning peace to your planet!"
 msgstr "Vào năm 3547, các nền văn minh trên khắp thiên hà đã tạo nên các hành tinh của riêng họ. Dân tộc của bạn chung sống trong hòa bình và thân thiện với các hành tinh khác. Tuy nhiên, bên ngoài hành tinh hòa bình của bạn lại đang diễn ra một cuộc chiến tranh vĩ đại. Bạn là một phi công chiến đấu nổi tiếng nhờ danh dự và kỹ năng, và bạn sẽ phải bảo vệ hành tinh của mình từ hành tinh lân cận ghen ghét muốn tiêu diệt hành tinh của bạn! Trò chơi này có tùy chọn nhiều người chơi, cho phép bạn lựa chọn từ hàng loạt các loại vũ khí để chiến đấu và thậm chí còn cho phép bạn tùy chỉnh con tàu vũ trụ  cho riêng bạn. Bạn sẽ muốn chơi mãi cho đến khi thành công trong việc tái lập hòa bình cho hành tinh của mình!"
 
-#: content/Default/apps/content.json.h:441
+#: content/Default/apps/content.json.h:465
 msgctxt "title"
 msgid "MegaGlest"
 msgstr "MegaGlest"
 
-#: content/Default/apps/content.json.h:442
+#: content/Default/apps/content.json.h:466
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
 msgstr "Thế giới diệu kỳ với các vị vua, hoàng hậu và phép thuật"
 
-#: content/Default/apps/content.json.h:443
+#: content/Default/apps/content.json.h:467
 msgctxt "description"
 msgid ""
 "Kings, castles, and dragons all unite in this awesome strategy game that "
@@ -2999,17 +3155,17 @@ msgid ""
 "you desire!"
 msgstr "Các vị vua chúa, những tòa lâu đài và những con rồng, tất cả đều xuất hiện cùng nhau trong trò chơi chiến thuật hấp dẫn này sẽ khiến bạn muốn thống trị nền văn minh riêng của mình. Hãy chơi cùng bạn bè để xem ai là người có khả năng nắm quyền thống trị thế giới kỳ ảo, nơi phép thuật mang đến cho bạn nhiều sức mạnh hơn và bạn có thể chinh phục bất kỳ vương quốc nào mà bạn muốn!"
 
-#: content/Default/apps/content.json.h:444
+#: content/Default/apps/content.json.h:468
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Đấu trường mở"
 
-#: content/Default/apps/content.json.h:445
+#: content/Default/apps/content.json.h:469
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr "Bắn và tiêu diệt mọi nguy hiểm trong trò chơi vui nhộn này"
 
-#: content/Default/apps/content.json.h:446
+#: content/Default/apps/content.json.h:470
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -3019,17 +3175,17 @@ msgid ""
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr "Nếu chiến đấu nơi đấu trường lựa chọn giải trí lý tưởng mỗi khi rảnh rỗi của bạn thì bạn sẽ yêu thích ứng dụng này. Hãy cẩn thận - đây là trò chơi đòi hỏi kỹ năng thực thụ và có cảnh đổ máu. Sử dụng nhiều loại vũ khí khác nhau trong trận chiến như Cướp cờ, Đấu đơn, Đấu đội, Kẻ sống sót cuối cùng và Giải đấu. Mỗi chế độ sẽ mang đến một cấp độ phấn khích khác nhau khi bạn chiến đấu với kẻ thù!"
 
-#: content/Default/apps/content.json.h:447
+#: content/Default/apps/content.json.h:471
 msgctxt "title"
 msgid "3D CAD"
 msgstr "3D CAD"
 
-#: content/Default/apps/content.json.h:448
+#: content/Default/apps/content.json.h:472
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
 msgstr "Tạo mô hình 3D CAD"
 
-#: content/Default/apps/content.json.h:449
+#: content/Default/apps/content.json.h:473
 msgctxt "description"
 msgid ""
 "This app is made for programmers who want to create 3D CAD models. The app "
@@ -3042,17 +3198,17 @@ msgid ""
 " you do, this app is a great way to build the 3D models you need."
 msgstr "Ứng dụng này được thiết kế dành cho các lập trình viên muốn tạo ra các mô hình 3D CAD. Các ứng dụng không tập trung vào các khía cạnh nghệ thuật của mô hình 3D, mà dựa trên các yếu tố CAD, vì vậy rất thích hợp cho những người muốn tạo các bộ phận máy móc, ví dụ vậy, thay vì mô hình 3D cho phim ảnh. Là lập trình viên, bạn sẽ có toàn quyền kiểm soát các quá trình làm mẫu để dễ dàng thay đổi các bước và tạo ra các mẫu thiết kế theo đúng mong muốn. Bạn sẽ cần hiểu biết cặn kẽ làm thế nào để tạo ra các mô hình CAD, và nếu như thế, ứng dụng này chính là cách tuyệt vời để xây dựng các mô hình 3D như bạn cần."
 
-#: content/Default/apps/content.json.h:450
+#: content/Default/apps/content.json.h:474
 msgctxt "title"
 msgid "Video Editor"
 msgstr "Trình biên tập video"
 
-#: content/Default/apps/content.json.h:451
+#: content/Default/apps/content.json.h:475
 msgctxt "subtitle"
 msgid "Hundreds of transitions, effects, and filters to edit your videos"
 msgstr "Hàng trăm hiệu ứng chuyển cảnh, hiệu ứng và bộ lọc để chỉnh sửa video của bạn"
 
-#: content/Default/apps/content.json.h:452
+#: content/Default/apps/content.json.h:476
 msgctxt "description"
 msgid ""
 "Create videos for projects, friends, family, or just for fun! Look through "
@@ -3062,17 +3218,17 @@ msgid ""
 "yourself, this video editor will help you do it!"
 msgstr "Tạo video cho các dự án, bạn bè, gia đình, hoặc chỉ để cho vui! Hãy nhìn vào hàng trăm hiệu ứng chuyển cảnh, hiệu ứng hình ảnh, hiệu ứng âm thanh và các bộ lọc có thể giúp bạn tạo ra video đúng ý muốn. Dù bạn muốn kể một câu chuyện, làm một món quà cho bạn bè, tạo ra một video chuyên nghiệp, hay chỉ muốn thể hiện chính mình, trình biên tập video này sẽ giúp bạn thực hiện điều đó!"
 
-#: content/Default/apps/content.json.h:453
+#: content/Default/apps/content.json.h:477
 msgctxt "title"
 msgid "Pingus"
 msgstr "Pingus"
 
-#: content/Default/apps/content.json.h:454
+#: content/Default/apps/content.json.h:478
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
 msgstr "Cứu những người bạn cánh cụt không bị rơi xuống nước"
 
-#: content/Default/apps/content.json.h:455
+#: content/Default/apps/content.json.h:479
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -3082,17 +3238,17 @@ msgid ""
 " them in order to avoid an untimely end."
 msgstr "Chim cánh cụt là một trong những loài động vật dễ thương nhất, vậy nên ai lại chẳng muốn chơi một trò chơi vui nhộn để bảo vệ những chú cánh cụt yêu quý không trượt khỏi vách đá và rơi xuống mặt nước đóng băng? Với rất nhiều cấp độ và các nhân vật đáng yêu, trò chơi này chắc chắn sẽ trở thành trò chơi yêu thích mới của bạn. Hãy xem những chú chim cánh cụt sử dụng các công cụ mà bạn cung cấp cho chúng để tránh một kết thúc không như mong đợi."
 
-#: content/Default/apps/content.json.h:456
+#: content/Default/apps/content.json.h:480
 msgctxt "title"
 msgid "Etoys"
 msgstr "Etoys"
 
-#: content/Default/apps/content.json.h:457
+#: content/Default/apps/content.json.h:481
 msgctxt "subtitle"
 msgid "Learn with visual programming"
 msgstr "Học tập lập trình ảo"
 
-#: content/Default/apps/content.json.h:458
+#: content/Default/apps/content.json.h:482
 msgctxt "description"
 msgid ""
 "This app is a great way for kids to learn how to program while learning "
@@ -3106,17 +3262,17 @@ msgid ""
 "college-aged students alike!"
 msgstr "Ứng dụng này mang đến một cách thức tuyệt để trẻ em học cách lập trình trong khi vẫn học các môn khác và tận hưởng niềm vui! Tạo ra các bản vẽ tương tác, những câu chuyện, các mô hình và các trò chơi với giao diện kéo và thả giúp ngăn ngừa các lỗi cú pháp gây bực bội cho người mới học. Ứng dụng này khuyến khích sự tò mò và khám phá và có thể được sử dụng để tạo ra bất cứ điều gì, từ bản vẽ đơn giản đến mô hình phức tạp của thế giới vật chất. Tuy thiết kế ban đầu chỉ dành cho học sinh từ 8 - 13 tuổi, ngay cả nhiều giáo viên cũng đã khám phá ra rằng ứng dụng này hữu ích cho sinh viên ở mọi độ tuổi, từ trẻ nhỏ cho đến sinh viên đại học!"
 
-#: content/Default/apps/content.json.h:459
+#: content/Default/apps/content.json.h:483
 msgctxt "title"
 msgid "Scratch"
 msgstr "Scratch"
 
-#: content/Default/apps/content.json.h:460
+#: content/Default/apps/content.json.h:484
 msgctxt "subtitle"
 msgid "Learn basic computer programming"
 msgstr "Học lập trình máy tính căn bản"
 
-#: content/Default/apps/content.json.h:461
+#: content/Default/apps/content.json.h:485
 msgctxt "description"
 msgid ""
 "Do you love computer games and applications? Why not learn how to make your "
@@ -3128,18 +3284,18 @@ msgid ""
 "will you someday make? "
 msgstr "Bạn có thích trò chơi máy tính và ứng dụng không? Sao bạn không tìm hiểu cách làm thế nào để tạo ra cho riêng bạn? Ứng dụng này dạy cho bạn những điều căn bản trong lập trình máy tính một cách vui nhộn và rất dễ học. Bạn có thể chọn nhân vật và các đối tượng mà bạn thích rồi sau đó thêm hướng dẫn để họ làm những gì bạn muốn. Khi bạn đã thành thạo hơn, bạn sẽ thấy rằng bạn có thể biến mọi điều mình muốn trở thành thực tế diễn ra trên màn hình bằng cách đặt vào các hướng dẫn chính xác. Bạn sẽ tạo ra được trò chơi cực chất nào đây?"
 
-#: content/Default/apps/content.json.h:462
+#: content/Default/apps/content.json.h:486
 msgctxt "title"
 msgid "Stellarium"
 msgstr "Stellarium"
 
-#: content/Default/apps/content.json.h:463
+#: content/Default/apps/content.json.h:487
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr "Phần mềm thiên văn hiển thị những gì bạn thấy khi ngắm các vì sao"
 
-#: content/Default/apps/content.json.h:464
+#: content/Default/apps/content.json.h:488
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -3150,17 +3306,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr "Hãy khám phá bầu trời đêm với ứng dụng này. Với một catalogue hơn 600.000 ngôi sao, các chòm sao từ rất nhiều nền văn hóa và nhiều tính năng khác, ứng dụng này cho phép bạn xem và tìm hiểu các ngôi sao ngay từ máy tính để bàn của bạn. Ứng dụng này cũng cho bạn thấy hình ảnh sống động của bầu trời đêm, tương ứng với những gì bạn thấy trên trời. Thiết lập tọa độ vị trí của bạn và tìm hiểu về các ngôi sao ở ngay bầu trời phía trên đầu bạn!"
 
-#: content/Default/apps/content.json.h:465
+#: content/Default/apps/content.json.h:489
 msgctxt "title"
 msgid "Turtle Blocks"
 msgstr "Turtle Blocks"
 
-#: content/Default/apps/content.json.h:466
+#: content/Default/apps/content.json.h:490
 msgctxt "subtitle"
 msgid "Visually program with turtle art"
 msgstr "Chương trình ảo với các chú rùa nghệ thuật"
 
-#: content/Default/apps/content.json.h:467
+#: content/Default/apps/content.json.h:491
 msgctxt "description"
 msgid ""
 "Learn the basics of computer programming while creating beautiful artwork! "
@@ -3170,17 +3326,17 @@ msgid ""
 "of computer programming."
 msgstr "Học cách lập trình máy tính căn bản trong khi vẫn tạo ra được những tác phẩm nghệ thuật tuyệt vời! Đầu tiên, hãy kéo và thả các lệnh cho chú rùa của bạn từ trình đơn. Khi chú rùa chuyển động, chương trình sẽ vẽ các đường màu sắc phía sau đó. Bạn có thể vừa đổi màu, vừa bắt đầu thiết kế tuyệt tác của mình vừa học về lập trình máy vi tính căn bản."
 
-#: content/Default/apps/content.json.h:468
+#: content/Default/apps/content.json.h:492
 msgctxt "title"
 msgid "X-Moto"
 msgstr "X-Moto"
 
-#: content/Default/apps/content.json.h:469
+#: content/Default/apps/content.json.h:493
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr "Trò chơi đua xe mô tô hào hứng"
 
-#: content/Default/apps/content.json.h:470
+#: content/Default/apps/content.json.h:494
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
@@ -3190,17 +3346,17 @@ msgid ""
 "time in this fast-paced, exciting test of speed!"
 msgstr "Bạn thích xe cộ phải không? Vậy thì chắc chắn bạn sẽ yêu thích trò chơi đua xe mà vật lý đóng vai trò quan trọng trong việc giành chiến thắng này! Bạn phải điều khiển chiếc xe của mình theo đúng giới hạn vật lý nếu bạn muốn có cơ hội hoàn thành các chặng đua đầy khó khăn. Vừa tìm hiểu về khoa học vừa thực hành kỹ năng đua xe của bạn trong thử thách tốc độ cao và đầy hào hứng này!"
 
-#: content/Default/apps/content.json.h:471
+#: content/Default/apps/content.json.h:495
 msgctxt "title"
 msgid "Tux Paint"
 msgstr "Tux Paint"
 
-#: content/Default/apps/content.json.h:472
+#: content/Default/apps/content.json.h:496
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr "Ứng dụng vẽ vui nhộn dành cho trẻ em"
 
-#: content/Default/apps/content.json.h:473
+#: content/Default/apps/content.json.h:497
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -3211,17 +3367,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr "Tạo ra những tác phẩm nghệ thuật tuỵệt đẹp với ứng dụng vui nhộn và dễ sử dụng này! Chú chim cánh cụt Tux sẽ giúp hướng dẫn các trẻ để các em biết cách sử dụng các công cụ. Độ tuổi khuyến nghị sử dụng ứng dụng này là từ 3-12 tuổi nhưng bất kỳ ai có tâm hồn trẻ trung cũng sẽ yêu thích ứng dụng này! Sử dụng các con dấu, chơi với các hình khối hoặc vẽ tự do để tạo ra hình vẽ đặc biệt. Nếu con bạn yêu thích vẽ hay tạo ra các tác phẩm nghệ thuật, hãy tải ứng dụng này về và để các em bắt đầu những tuyệt tác của riêng mình!"
 
-#: content/Default/apps/content.json.h:474
+#: content/Default/apps/content.json.h:498
 msgctxt "title"
 msgid "Wesnoth"
 msgstr "Wesnoth"
 
-#: content/Default/apps/content.json.h:475
+#: content/Default/apps/content.json.h:499
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "Trò chơi chiến thuật theo lượt theo thể loại fantasy"
 
-#: content/Default/apps/content.json.h:476
+#: content/Default/apps/content.json.h:500
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -3230,17 +3386,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr "Chiến đấu để giành quyền kiểm soát các vùng đất, làng mạc và nguồn tài nguyên trong trò chơi chiến lược theo chủ đề fantasy này. Mỗi người chơi điều khiển một đội quân do chính mình thiết kế và điều khiển đội quân này để tranh giành quyền thống trị. Một tuyệt phẩm pha trộn thú vị giữa lịch sử, yếu tố fantasy và chiến thuật, trò chơi này chắc chắn sẽ khiến bạn nhận ra khả năng lãnh đạo tuyệt vời bên trong bạn."
 
-#: content/Default/apps/content.json.h:477
+#: content/Default/apps/content.json.h:501
 msgctxt "title"
 msgid "Music"
 msgstr "Âm nhạc"
 
-#: content/Default/apps/content.json.h:478
+#: content/Default/apps/content.json.h:502
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
 msgstr "Nghe các bản nhạc của bạn và nghe đài"
 
-#: content/Default/apps/content.json.h:479
+#: content/Default/apps/content.json.h:503
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -3250,17 +3406,17 @@ msgid ""
 "in one convenient app."
 msgstr "Bên cạnh việc nghe các bài nhạc yêu thích của bạn, ứng dụng này còn cho phép bạn tìm kiếm thông qua thư viện của mình, tạo danh sách phát nhạc, phát và ghi đĩa CD, hiển thị bìa album và thậm chí cả lời bài hát. Ứng dụng này cũng hỗ trợ nghe phát sóng trực tuyến qua Internet cũng như xem hiệu ứng hình ảnh. Thưởng thức tất cả các bài hát yêu thích của bạn, được lưu trữ và sắp xếp chỉ trong một ứng dụng thuận tiện."
 
-#: content/Default/apps/content.json.h:480
+#: content/Default/apps/content.json.h:504
 msgctxt "title"
 msgid "Photos"
 msgstr "Hình ảnh"
 
-#: content/Default/apps/content.json.h:481
+#: content/Default/apps/content.json.h:505
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
 msgstr "Dễ dàng chỉnh sửa, sắp xếp và chia sẻ hình ảnh."
 
-#: content/Default/apps/content.json.h:482
+#: content/Default/apps/content.json.h:506
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -3271,17 +3427,17 @@ msgid ""
 "networks, like Facebook."
 msgstr "Tất cả chúng ta đều rất thích chụp lại những hình ảnh trong cuộc sống thường ngày của mình - và chúng ta cũng đặc biệt thích tải chúng về máy tính của mình để có thể chỉnh sửa và chia sẻ thông qua các mạng truyền thông xã hội. Ứng dụng này cho phép bạn nhập trực tiếp ảnh từ máy ảnh kỹ thuật số hoặc điện thoại. Sau đó, bạn có thể sắp xếp thành các album, chỉnh sửa sao cho đẹp và ấn tượng nhất, và tất nhiên, chia sẻ chúng trên mạng xã hội ưa thích của bạn, ví dụ như Facebook."
 
-#: content/Default/apps/content.json.h:483
+#: content/Default/apps/content.json.h:507
 msgctxt "title"
 msgid "Simple Scan"
 msgstr "Simple Scan"
 
-#: content/Default/apps/content.json.h:484
+#: content/Default/apps/content.json.h:508
 msgctxt "subtitle"
 msgid "Make a digital copy of your photos and documents"
 msgstr "Tạo bản sao kỹ thuật số cho hình ảnh và tài liệu"
 
-#: content/Default/apps/content.json.h:485
+#: content/Default/apps/content.json.h:509
 msgctxt "description"
 msgid ""
 "Preserving your photos and important documents by making digital copies has "
@@ -3292,17 +3448,17 @@ msgid ""
 "sure the things you scan are clear, straight, and in any format you need!"
 msgstr "Bào quản hình ảnh và các tài liệu quan trọng dưới dạng bản sao kỹ thuật số chưa bao giờ dễ dàng đến thế! Bạn chỉ cần gắn máy quét vào máy tính, mở ứng dụng này và bắt đầu quét. Sau khi tài liệu hoặc hình ảnh được số hóa, bạn có thể chia sẻ chúng một cách dễ dàng bằng cách gửi qua email, tải lên mạng xã hội yêu thích, hoặc lưu vào thẻ nhớ USB. Ứng dụng này sẽ cho phép bạn quét mọi thứ rõ ràng, chính xác và có bất kỳ định dạng nào mà bạn cần!"
 
-#: content/Default/apps/content.json.h:486
+#: content/Default/apps/content.json.h:510
 msgctxt "title"
 msgid "Remote Desktop"
 msgstr "Truy cập Máy tính Từ xa"
 
-#: content/Default/apps/content.json.h:487
+#: content/Default/apps/content.json.h:511
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
 msgstr "Quản lý màn hình máy tính của bạn từ xa"
 
-#: content/Default/apps/content.json.h:488
+#: content/Default/apps/content.json.h:512
 msgctxt "description"
 msgid ""
 "Now you can manage your own computer, or a family member's, without being in"
@@ -3310,17 +3466,17 @@ msgid ""
 " their computer from afar, or manage their computer from another computer."
 msgstr "Giờ đây bạn có thể quản lý máy tính của chính mình, hoặc của một thành viên gia đình, mà không cần phải ngồi trước máy. Điều này rất tuyệt đối với những người muốn giúp người khác khắc phục sự cố máy tính từ xa, hoặc quản lý máy tính của mình từ một máy tính khác."
 
-#: content/Default/apps/content.json.h:489
+#: content/Default/apps/content.json.h:513
 msgctxt "title"
 msgid "Help Center"
 msgstr "Trung tâm Trợ giup"
 
-#: content/Default/apps/content.json.h:490
+#: content/Default/apps/content.json.h:514
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Học cách sử dụng Endless"
 
-#: content/Default/apps/content.json.h:491
+#: content/Default/apps/content.json.h:515
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
@@ -3331,7 +3487,7 @@ msgid ""
 "asking us questions."
 msgstr "Bạn có thắc mắc về cách sử dụng Endless? Giờ đây, bạn có thê nhận được câu trả lời cho tất cả các câu hỏi của mình chỉ bằng một cú nhấp chuột! Chúng tôi đã tạo ra Trung tâm Trợ giúp cho cả người dùng mới lẫn chuyên nghiệp để bạn có thể học cách sử dụng Endless ở cấp độ mà bạn cần. Nếu không thể tìm thấy câu trả lời cho câu hỏi của bạn - hãy cho chúng tôi biếti! Bạn sẽ giúp Endless cải thiện hơn bằng cách cho chúng tôi thông tin phản hồi và đặt câu hỏi cho chúng tôi."
 
-#: content/Default/apps/content.json.h:156
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Breaking news portal from Mexico and the world, focused on information about"
