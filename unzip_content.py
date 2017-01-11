@@ -94,6 +94,25 @@ if __name__ == '__main__':
     zfile = zipfile.ZipFile(args.zipfile)
     zfile.extractall(UNZIP_DIR)
 
+    # Although the CMS allows thumbnails to be provided as PNG,
+    # we really want them to be JPG, both due to the smaller
+    # compressed size and due to this script processing the PNG
+    # files in such a way that every run of the script would
+    # create useless metadata changes that lead to extra
+    # git commits
+    # Perhaps we could convert them here, but for now let's push
+    # back and make sure they are in the CMS in the correct format
+    png_thumbs = []
+    thumbs_dir = os.path.join(UNZIP_DIR, 'apps', 'thumbs')
+    for filename in os.listdir(thumbs_dir):
+        if filename.endswith('.png'):
+            png_thumbs.append(filename)
+    if png_thumbs:
+        print('Please replace the following PNG assets in the CMS with JPG:')
+        for filename in png_thumbs:
+            print(filename)
+        exit()
+
     # Split the Spanish links by Global vs. Mexico
     # Unlike Guatemala, which is treated via a separate language
     # in the CMS, we don't have a separate language for Mexico
