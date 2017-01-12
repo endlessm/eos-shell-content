@@ -1,10 +1,17 @@
 [Desktop Entry]
 Version=1.0
 Name=Technology courses
+Name[de]=Technik
+Name[es]=Cursos de tecnología
 Name[pt_BR]=Cursos de tecnologia
+Name[ro]=Cursuri de Tehnologie
 Comment=Learn the necessary skills for a career in tecnología.
+Comment[es]=Aprende las habilidades necesarias para una carrera en tecnología
+Comment[pt_BR]=Conhecimentos necessários para uma carreira em tecnologia
+Comment[ro]=Invata abilitatile necesare pentru o cariera in tehnologie.
 Type=Application
 Exec=com.endlessm.capacitate_technology
 Icon=eos-app-com.endlessm.capacitate_technology
 Categories=Education;
 X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.capacitate_technology-splash.jpg

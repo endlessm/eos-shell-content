@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TV Escola no YouTube
+Comment=Canal de vídeo
+Type=Application
+Exec=gvfs-open https://www.youtube.com/user/tvescola
+Icon=eos-link-tvescolayoutube
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

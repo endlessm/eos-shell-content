@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Mercado Libre
+Comment=Vende o compra lo que necesites
+Type=Application
+Exec=gvfs-open http://www.mercadolibre.com.mx/
+Icon=eos-link-mercadolibre
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

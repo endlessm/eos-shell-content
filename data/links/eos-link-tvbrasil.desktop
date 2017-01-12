@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TV Brasil
+Comment=Portal de vídeos
+Type=Application
+Exec=gvfs-open http://tvbrasil.ebc.com.br/
+Icon=eos-link-tvbrasil
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true
