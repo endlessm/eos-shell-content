@@ -43,6 +43,5 @@ EXTRA_CATEGORIES = {
     'com.endlessm.videonet': ['Education', 'Family'],
     'com.endlessm.water_and_sanitation': ['Family'],
     'com.endlessm.weather': ['Utility', 'Family'],
-    'com.endlessm.your_health': ['Family'],
-    'com.google.Chrome': ['Blacklisted']
+    'com.endlessm.your_health': ['Family']
 }
