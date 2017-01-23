@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-12-20 03:29+0000\n"
-"PO-Revision-Date: 2017-01-10 07:55+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2017-01-17 03:26+0000\n"
+"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -98,6 +98,416 @@ msgid ""
 "today!  ** Requires internet"
 msgstr "Bạn cần lưu trữ an toàn tất cả các văn bản, hình ảnh, bài hát và các tập tin quan trọng? Dễ dàng thôi! Với ứng dụng này, bạn có thể sử dụng Internet để lưu tất cả mọi thứ quan trọng với bạn. Sau đó, bạn có thể truy cập các tệp này từ bất kỳ máy tính nào có kết nối internet. Sử dụng dịch vụ này để sao lưu các tập tin, chia sẻ hình ảnh hoặc cộng tác trên một dự án bằng cách chia sẻ thư mục Dropbox với bất cứ ai mà bạn muốn. Hãy tạo tài khoản miễn phí và bắt đầu lưu và chia sẻ ngày hôm nay! ** Yêu cầu kết nối Internet"
 
+#: content/Default/apps/content.json.h:16
+msgctxt "title"
+msgid "Animals"
+msgstr "Thế giới động vật"
+
+#: content/Default/apps/content.json.h:17
+msgctxt "subtitle"
+msgid "Learn about all of Earth's creatures"
+msgstr "Tìm hiểu về mọi tạo vật trên Trái đất"
+
+#: content/Default/apps/content.json.h:18
+msgctxt "description"
+msgid ""
+"Animals are simply amazing. From the majestic lion to the bizarre and "
+"fascinating platypus, there is so much to learn about the creatures that "
+"inhabit our world. Unlock the entire animal kingdom with this app! The whole"
+" family, from small children to curious adults, will love to learn about "
+"animals’ features, habits, and environments. It’s especially important to "
+"study the animal kingdom today, when so many species are threatened or "
+"endangered."
+msgstr "Động vật là các sinh vật kỳ diệu. Từ chú sư tử oai vệ đến thú mỏ vịt ngộ nghĩnh và lý thú, có rất nhiều điều để tìm hiểu về các sinh vật cư ngụ trên trái đất của chúng ta. Hãy khám phá toàn bộ vương quốc động vật với ứng dụng này! Cả gia đình, từ trẻ nhỏ đến người lớn có óc tò mò, đều sẽ thích thú khi tìm hiểu về những đặc tính, thói quen và môi trường của các loài động vật. Điều này đặc biệt rất quan trọng trong việc nghiên cứu về thế giới động vật ngày nay, khi rất nhiều chủng loài đang bị đe dọa hoặc gặp nguy hiểm."
+
+#: content/Default/apps/content.json.h:19
+msgctxt "title"
+msgid "Astronomy"
+msgstr "Thiên văn học"
+
+#: content/Default/apps/content.json.h:20
+msgctxt "subtitle"
+msgid "Learn about the universe and all it contains"
+msgstr "Tìm hiểu về vũ trụ và mọi điều liên quan"
+
+#: content/Default/apps/content.json.h:21
+msgctxt "description"
+msgid ""
+"Is there anything more incredible than outer space? This app will introduce "
+"you to the cosmos and will teach you about our own solar system and far "
+"beyond. Learn about planets, stars, galaxies, and even the mysteries of "
+"black holes! Understand our sun and moon, and think about the possibility of"
+" life elsewhere in the universe. You’ll want to take off in a rocket ship "
+"after exploring this app!"
+msgstr "Còn điều gì đáng kinh ngạc hơn là vũ trụ ngoài kia? Ứng dụng này sẽ giới thiệu cho bạn biết về vũ trụ và sẽ dạy cho bạn hiểu về chính hệ mặt trời của chúng ta và không gian vô tận. Hãy tìm hiểu về các hành tinh, chòm sao, dải ngân hà, thậm chí về các lỗ đen bí ẩn! Hiểu về mặt trời và mặt trăng và suy nghĩ đến khả năng có sự sống tồn tại đâu đó ngoài vũ trụ. Bạn sẽ muốn leo lên tàu vũ trụ ngay sau khi khám phá ứng dụng này!"
+
+#: content/Default/apps/content.json.h:22
+msgctxt "title"
+msgid "Bangladesh National Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:23
+msgctxt "subtitle"
+msgid "National curriculum for Class I through Class X in all subjects"
+msgstr ""
+
+#: content/Default/apps/content.json.h:24
+msgctxt "description"
+msgid ""
+"Learn about Bengali, Mathematics, Science, Social Studies, Religion, "
+"English, and more with this program that covers Class I through Class X. "
+"Each subject contains a textbook with lots of information and practice "
+"exercises to help you study and succeed in school. If you're a teacher, this"
+" app is perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:25
+msgctxt "title"
+msgid "Biology"
+msgstr "Sinh học"
+
+#: content/Default/apps/content.json.h:26
+msgctxt "subtitle"
+msgid "Learn all about the living world around you"
+msgstr "Tìm hiểu về thế giới sống động xung quanh bạn"
+
+#: content/Default/apps/content.json.h:27
+msgctxt "description"
+msgid ""
+"Studying biology is an exciting pursuit because it gives us an understanding"
+" of what it means to be a living creature. This app covers everything from "
+"cells and tiny organisms to plants and animals. You can use this app to "
+"study many sub-disciplines of biology, or simply to gain a better "
+"understanding of the subject as a whole. Whether you want to study for a "
+"test or just learn more about this subject, download this app today to get "
+"started!"
+msgstr "Nghiên cứu sinh học rất lý thú bởi vì cuộc hành trình chinh phục này giúp ta hiểu ý nghĩa của việc trở thành một sinh vật sống. Ứng dụng này chứa đựng tất cả mọi điều, từ tế bào và cơ quan nhỏ bé đến thực vật và động vật. Bạn có thể sử dụng ứng dụng này để nghiên cứu các chi ngành nhỏ trong sinh học, hoặc chỉ đơn giản là tìm hiểu đầy đủ hơn về một cá thể nào đó. Dù bạn muốn nghiên cứu cho bài kiểm tra hoặc chỉ là tìm hiểu về chủ đề này, hãy tải ứng dụng này để bắt đầu khám phá ngay hôm nay!"
+
+#: content/Default/apps/content.json.h:28
+msgctxt "title"
+msgid "Client Services Courses"
+msgstr ""
+
+#: content/Default/apps/content.json.h:29
+msgctxt "subtitle"
+msgid "Learn the necessary skills for a job in Servicio al Cliente"
+msgstr ""
+
+#: content/Default/apps/content.json.h:30
+msgctxt "description"
+msgid ""
+"Capacítate Para El Empleo is a job skills and work readiness educational "
+"platform published by the Carlos Slim Foundation. Choose from one of ten "
+"courses in the field of Servicio al Cliente, such as bartender or "
+"housecleaner, and complete the series of videos and readings to be on your "
+"way to a new career!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:31
+msgctxt "title"
+msgid "Technology courses"
+msgstr ""
+
+#: content/Default/apps/content.json.h:32
+msgctxt "subtitle"
+msgid "Learn the necessary skills for a career in tecnología."
+msgstr ""
+
+#: content/Default/apps/content.json.h:33
+msgctxt "description"
+msgid ""
+"Capacítate Para El Empleo is a job skills and work readiness educational "
+"platform published by the Carlos Slim Foundation. Choose from one of "
+"nineteen courses in the field of Tecnologia, such as web developer or "
+"database administrator, and complete the series of videos and readings to be"
+" on your way to a new career!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:34
+msgctxt "title"
+msgid "Celebrities"
+msgstr "Người nổi tiếng"
+
+#: content/Default/apps/content.json.h:35
+msgctxt "subtitle"
+msgid "Learn more about your favorite celebrities"
+msgstr "Tìm hiểu về những người nổi tiếng mà bạn yêu thích"
+
+#: content/Default/apps/content.json.h:36
+msgctxt "description"
+msgid ""
+"Whether you’re wondering about the life of your favorite movie or pop star, "
+"or want to know more about the background and formative years of an "
+"important politician, this application can be your guide. Have fun, learn "
+"interesting and juicy facts, and share your knowledge of famous people with "
+"all of your friends!"
+msgstr "Dù bạn đang tự hỏi về cuộc sống của những ngôi sao ca nhạc hoặc diễn viên yêu thích của bạn, hay chỉ là muốn biết thêm về xuất thân, những năm thiếu thời và trưởng thành của các chính trị gia quan trọng, thì ứng dụng này cũng có thể giúp được bạn. Hào hứng tìm hiểu về những thông tin thực tế thú vị và bổ ích cũng như chia sẻ những gì bạn biết về những người nổi tiếng với tất cả bạn bè của mình!"
+
+#: content/Default/apps/content.json.h:37
+msgctxt "title"
+msgid "Children's Collection"
+msgstr "Tuyển tập truyện dành cho trẻ em"
+
+#: content/Default/apps/content.json.h:38
+msgctxt "subtitle"
+msgid "Short stories that will delight the whole family"
+msgstr "Những câu truyện ngắn phù hợp cho toàn thể gia đình"
+
+#: content/Default/apps/content.json.h:39
+msgctxt "description"
+msgid ""
+"Read away! Uncover mysteries, laugh, and embark on adventures. Spend time "
+"reading with your children, or let them choose some fun stories to read on "
+"their own. Here you will find stories, poems, and folk tales that everyone "
+"in your family will enjoy. Start reading and let the entertainment unfold."
+msgstr "Hãy tìm đọc ngay! Khám phá những bí ẩn, tiếng cười và lao vào những cuộc phiêu lưu. Hãy dành thời gian đọc cùng với con cái của bạn, hoặc để các bé chọn một vài câu chuyện vui và để trẻ tự đọc. Trong ứng dụng này, bạn cũng sẽ bắt gặp những câu truyện, bài thơ hoặc chuyện cổ tích mà mọi thành viên gia đình đều yêu thích. Hãy bắt đầu đọc và tận hưởng niềm vui."
+
+#: content/Default/apps/content.json.h:40
+msgctxt "title"
+msgid "Learn English Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:41
+msgctxt "subtitle"
+msgid "Primary English curriculum practice"
+msgstr ""
+
+#: content/Default/apps/content.json.h:42
+msgctxt "description"
+msgid ""
+"Practice your elementary English skills with this program. For each topic, "
+"there is a workbook with practice questions as well as answers to check your"
+" work. There are also audio clips so you can improve your listening skills. "
+"The resources in this program have a ton of information and practices to "
+"help you study and succeed in school. If you're a teacher, this app is "
+"perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:43
+msgctxt "title"
+msgid "Math Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:44
+msgctxt "subtitle"
+msgid "Primary mathematics curriculum practice"
+msgstr ""
+
+#: content/Default/apps/content.json.h:45
+msgctxt "description"
+msgid ""
+"Practice your elementary math skills with this program. For each topic, "
+"there is a workbook with practice questions as well as answers to check your"
+" work. The resources in this program have a ton of information and practices"
+" to help you study and succeed in school. If you're a teacher, this app is "
+"perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:46
+msgctxt "title"
+msgid "Cooking"
+msgstr "Nấu ăn"
+
+#: content/Default/apps/content.json.h:47
+msgctxt "subtitle"
+msgid "Delicious recipes and tips for cooking"
+msgstr "Công thức và bí quyết nấu ăn"
+
+#: content/Default/apps/content.json.h:48
+msgctxt "description"
+msgid ""
+"Looking to cook something great for your friends and family? This helpful "
+"app features basic cooking instructions and some great recipes. Get helpful "
+"tips about the kitchen, as well as information on how to eat healthily to "
+"keep your body in its best shape. Your loved ones will be glad to share your"
+" cooking creations, and will be impressed with your skills."
+msgstr "Bạn đang muốn nấu những món ăn ngon cho bạn bè và gia đình? Ứng dụng hữu ích này cung cấp những hướng dẫn nấu ăn cơ bản và một số công thức tuyệt vời. Tìm hiểu về những bí quyết hữu dụng cho nhà bếp, cũng như các thông tin giúp bạn ăn uống lành mạnh để giữ vóc dáng cơ thể. Những người bạn yêu quý sẽ vui vẻ thưởng thức những món ăn bạn nấu và sẽ rất ấn tượng về kỹ năng của bạn."
+
+#: content/Default/apps/content.json.h:49
+msgctxt "title"
+msgid "Creativity Center"
+msgstr "Trung tâm sáng tạo"
+
+#: content/Default/apps/content.json.h:50
+msgctxt "subtitle"
+msgid "Drawing, painting, music, and so much more"
+msgstr "Vẽ, tô màu, âm nhạc và còn nhiều hơn thế nữa"
+
+#: content/Default/apps/content.json.h:51
+msgctxt "description"
+msgid ""
+"Get ready to unleash your imagination. Use this app to uncover new skills "
+"and construct innovative objects. Your mind, your hands, and everyday "
+"materials will allow you to create useful tools and even works of art."
+msgstr "Hãy sẵn sàng mở giải phóng trí tưởng tượng của bản thân. Sử dụng ứng dụng này để khám phá những kỹ năng mới và tạo nên những sản phẩm mang tính sáng tạo. Trí óc, đôi bàn tay và những chất liệu thường ngày sẽ cho phép bạn tạo nên những công cụ hữu ích và thậm chí đậm chất nghệ thuật."
+
+#: content/Default/apps/content.json.h:52
+msgctxt "title"
+msgid "Dinosaurs"
+msgstr "Thế giới khủng long"
+
+#: content/Default/apps/content.json.h:53
+msgctxt "subtitle"
+msgid "Bringing prehistory back to life for you to discover anew"
+msgstr "Tái hiện sống động thời tiền sử giúp bạn khám phá chân trời mới"
+
+#: content/Default/apps/content.json.h:54
+msgctxt "description"
+msgid ""
+"Dinosaurs first appeared on Earth more than 230 million years ago. They "
+"ruled the planet for millions of years, until a catastrophic extinction "
+"event wiped out almost all of them. Fossils and other findings have taught "
+"us a great deal about these former inhabitants of Earth. This app will "
+"introduce you to these incredible prehistoric creatures. Learn about the "
+"different types of dinosaurs, from fierce carnivores to massive herbivores."
+msgstr "Loài khủng long xuất hiện lần đầu tiên trên Trái đất cách đây hơn 230 triệu năm. Chúng thống trị hành tinh này trong hàng triệu năm, cho đến khi một sự kiện tuyệt chủng thảm khốc xóa sổ gần như tất cả loài khủng long. Hóa thạch và những phát hiện khác đã dạy chúng ta rất nhiều về những cư dân trước đây của Trái đất này. Ứng dụng này sẽ giới thiệu đến bạn những sinh vật thời tiền sử đáng kinh ngạc. Tìm hiểu về các họ khác nhau của các loài khủng long, từ khủng long ăn thịt hung dữ đến khủng long ăn cỏ to lớn."
+
+#: content/Default/apps/content.json.h:55
+msgctxt "title"
+msgid "Disabilities"
+msgstr "Người khuyết tật"
+
+#: content/Default/apps/content.json.h:56
+msgctxt "subtitle"
+msgid "Learn how to provide the best care"
+msgstr "Tìm hiểu cách chăm sóc tốt nhất"
+
+#: content/Default/apps/content.json.h:57
+msgctxt "description"
+msgid ""
+"Learn about the common physical and mental disabilities, and how to take "
+"care of the people in your life who have them. From diagnosis and treatments"
+" to special devices and special care, you'll learn all about how to make the"
+" life of people you know with disabilities easier for them. There will be a "
+"lot of challenges, but with the right care and love, you'll all live a much "
+"happier and satisfying life. "
+msgstr "Tìm hiểu về các khuyết tật về cơ thể và tinh thần thường gặp cũng như cách làm thế nào để chăm sóc những người khuyết tật bạn gặp trong cuộc sống. Từ chẩn đoán và điều trị đến các thiết bị chuyên dụng và chăm sóc đặc biệt, bạn sẽ biết cách làm thế nào để giúp những nguời khuyết tật mà bạn gặp có thể thoải mái hơn trong cuộc sống. Sẽ có rất nhiều thử thách, nhưng với sự chăm sóc đúng cách và lòng yêu thương, bạn sẽ sống hạnh phúc và mãn nguyện hơn."
+
+#: content/Default/apps/content.json.h:58
+msgctxt "title"
+msgid "DIY"
+msgstr "DIY"
+
+#: content/Default/apps/content.json.h:59
+msgctxt "subtitle"
+msgid "Guidelines to create a wide variety of items"
+msgstr "Hướng dẫn để tạo nên nhiều đồ vật đa dạng"
+
+#: content/Default/apps/content.json.h:60
+msgctxt "description"
+msgid ""
+"There is nothing you cannot do. With these guidelines your home can become "
+"your very own workshop. From practical tools to decorations and creative "
+"recipes, you can do it yourself! Simply follow these tutorials and create "
+"wonderful items that will surprise your family and friends."
+msgstr "Không điều gì mà bạn lại không làm được. Với hướng dẫn này, ngôi nhà của bạn sẽ biến thành xưởng chế tác riêng cho chính mình. Từ những công cụ thực tiễn để trang trí và các công thức sáng tạo, bạn có thể tự tay mình làm nên! Bạn chỉ cần làm theo các hướng dẫn này và tạo nên những vật dụng tuyệt vời khiến gia đình và bạn bè kinh ngạc."
+
+#: content/Default/apps/content.json.h:61
+msgctxt "title"
+msgid "EduCollections"
+msgstr "EduCollections"
+
+#: content/Default/apps/content.json.h:62
+msgctxt "subtitle"
+msgid "All sorts of information to help better your life"
+msgstr "Đủ loại thông tin giúp cuộc sống của bạn tốt hơn"
+
+#: content/Default/apps/content.json.h:63
+msgctxt "description"
+msgid ""
+"This app is full of reliable information sent directly from the Guatemalan "
+"government to help you live a healthier and more prosperous life. Find "
+"information about cultivating different kinds of crops, tips for mothers "
+"before and after pregnancy, tools for teachers preparing a curriculum, "
+"worksheets for students who want to supplement their classroom learning, "
+"texts to teach the Mayan language, and many great information. This source "
+"of knowledge is ready at your disposal, and can be a useful tool no matter "
+"your age."
+msgstr "Ứng dụng này chứa đầy đủ các thông tin đáng tin cậy được gửi trực tiếp từ chính phủ Guatemala để giúp bạn sống một cuộc sống lành mạnh và thịnh vượng hơn. Tìm thông tin về nuôi trồng nhiều loại hoa màu khác nhau, lời khuyên dành cho các bà mẹ trước và sau khi mang thai, các công cụ giúp giáo viên chuẩn bị chương trình giảng dạy, các bài tập dành cho sinh viên muốn luyện tập thêm ngoài giờ học, các văn bản giảng dạy ngôn ngữ của người Maya và nhiều thông tin tuyệt vời. Nguồn tri thức này đã sẵn sàng để bạn sử dụng và có thể trở thành công cụ hữu ích bất kể bạn ở độ tuổi nào."
+
+#: content/Default/apps/content.json.h:64
+msgctxt "title"
+msgid "Encyclopedia"
+msgstr "Bách khoa toàn thư"
+
+#: content/Default/apps/content.json.h:65
+msgctxt "subtitle"
+msgid "The free encyclopedia that anyone can contribute to"
+msgstr "Bách khoa toàn thư miễn phí mà ai cũng có thể đóng góp"
+
+#: content/Default/apps/content.json.h:66
+msgctxt "description"
+msgid ""
+"Whether you’re online or offline, you want access to the world’s biggest "
+"encyclopedia - Wikipedia. This app is an invaluable resource for students, "
+"teachers, and anyone who wants to learn more about the world around them. "
+"Use this app to research things for school, find out about world events, and"
+" much, much more. You’ll learn more than you ever thought possible with "
+"access to the Internet's greatest informational resource - and all for free!"
+msgstr "Cho dù trực tuyến hoặc ngoại tuyến, bạn vẫn có thể truy cập vào Wikipedia, bách khoa toàn thư lớn nhất thế giới. Ứng dụng này là nguồn tài nguyên vô giá cho sinh viên, giáo viên và bất kỳ ai muốn tìm hiểu nhiều hơn về thế giới chung quanh. Sử dụng ứng dụng này để tìm kiếm mọi điều khi học tập, tìm hiểu về những sự kiện của thế giới và còn nhiều, nhiều hơn thế nữa. Bạn sẽ biết nhiều thứ hơn là bạn tưởng nhờ truy cập vào tài nguyên thông tin lớn nhất Internet - và tất cả đều miễn phí!"
+
+#: content/Default/apps/content.json.h:67
+msgctxt "title"
+msgid "Entrepreneurship"
+msgstr "Kinh doanh"
+
+#: content/Default/apps/content.json.h:68
+msgctxt "subtitle"
+msgid "Business advice for your inner entrepreneur"
+msgstr "Những lời khuyên về kinh doanh dành cho con người doanh nhân tiềm ẩn bên trong bạn"
+
+#: content/Default/apps/content.json.h:69
+msgctxt "description"
+msgid ""
+"Interested in new ventures? Want to launch your own business? This app will "
+"help you learn about business plans and financing. You can also discover "
+"emerging entrepreneurial ideas, market trends, and the best practices to "
+"improve operations. Access these materials and transform your business ideas"
+" into reality."
+msgstr "Bạn hứng thú với những dự định mới mẻ? Bạn muốn bắt đầu sự nghiệp kinh doanh của riêng mình? Ứng dụng này sẽ giúp bạn hiểu thêm về kế hoạch và tài chính trong kinh doanh. Bạn cũng có thể khám phá những ý tưởng kinh doanh nổi bật, xu hướng thị trường và các nguyên tắc thực hành tốt nhất để cải thiện hoạt động. Tìm hiểu những tài liệu này và biến các ý tưởng kinh doanh thành hiện thực."
+
+#: content/Default/apps/content.json.h:70
+msgctxt "title"
+msgid "Extra"
+msgstr ""
+
+#: content/Default/apps/content.json.h:71
+msgctxt "subtitle"
+msgid "News that affects your day to day"
+msgstr ""
+
+#: content/Default/apps/content.json.h:72
+msgctxt "description"
+msgid ""
+"The most important events and useful information for your day to day, as "
+"well as news about sports and television. The program is updated with the "
+"latest Extra newspaper website news whenever you are connected. The news are"
+" stored on your computer so you can access them whenever you want, even "
+"without internet."
+msgstr ""
+
+#: content/Default/apps/content.json.h:73
+msgctxt "title"
+msgid "Farming"
+msgstr "Nông nghiệp"
+
+#: content/Default/apps/content.json.h:74
+msgctxt "subtitle"
+msgid "Learn about crops and raising animals"
+msgstr "Tìm hiểu về mùa màng và chăn nuôi gia súc"
+
+#: content/Default/apps/content.json.h:75
+msgctxt "description"
+msgid ""
+"Farming is both an ancient tradition and a modern, bustling industry. Our "
+"world’s food supply comes from hardworking farmers around the globe. "
+"Learning about this sector of the economy can be fascinating and useful, "
+"especially if you’re interested in providing food for yourself and your "
+"community. This app includes information on farming techniques and "
+"equipment, different types of agriculture, and the careers that exist in "
+"this industry. You’ll learn so much about crops, livestock, and more!"
+msgstr "Nông nghiệp là một ngành nghề vừa có truyền thống lâu đời vừa mang tính hiện đại và năng động. Nguồn cung cấp thực phẩm của thế giới đến từ những người nông dân cần mẫn trên khắp toàn cầu. Tìm hiểu về phân khúc này của nền kinh tế có thể rất thú vị và hữu ích, đặc biệt là khi bạn quan tâm đến việc cung ứng thực phẩm cho chính mình và cộng đồng. Ứng dụng này bao gồm mọi thông tin về nhiều kỹ thuật và công cụ nông nghiệp, các loại hình nông nghiệp khác nhau và việc làm trong ngành nghề này. Bạn sẽ được tìm hiểu rất nhiều về mùa vụ, gia súc và nhiều điều khác nữa!"
+
 #: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "My Budget"
@@ -119,6 +529,528 @@ msgid ""
 "benefit from an organized, clear, and carefully managed financial plan."
 msgstr "Việc theo dõi tài chính cho chính bạn và gia đình có thể là một thử thách thực sự, tuy nhiên, việc này cũng cực kỳ quan trọng. Ứng dụng này cung cấp nguồn tài nguyên bạn cần để duy trì ngân sách và hiểu về cách chi tiêu tiền bạc. Các biểu mẫu đơn giản giúp việc hoạch định ngân sách dễ dàng hơn, các mẹo quản lý tiền bạc và chi tiêu thông minh sẽ giúp bạn đưa ra lựa chọn đúng đắn về số tiền của mình. Bạn và cả gia đình sẽ được hưởng lợi từ một kế hoạch tài chính được quản lý cẩn trọng, rõ ràng và có tổ chức."
 
+#: content/Default/apps/content.json.h:79
+msgctxt "title"
+msgid "Fitness"
+msgstr "Tập thể dục"
+
+#: content/Default/apps/content.json.h:80
+msgctxt "subtitle"
+msgid "Tips for excercise and healthy living"
+msgstr "Các bí quyết tập thể dục và sống khỏe mạnh"
+
+#: content/Default/apps/content.json.h:81
+msgctxt "description"
+msgid ""
+"We all want to look and feel our best. With this app, you’ll learn how to "
+"exercise safely and effectively. With a range of exercises and routines, as "
+"well as information about keeping yourself safe and preventing injury, "
+"you’ll have your workout on track in no time. This app even features "
+"guidance on how to live a healthy lifestyle."
+msgstr "Tất cả chúng ta đều muốn có được vẻ bề ngoài và cảm nhận tốt nhất về mình. Với ứng dụng này, bạn sẽ tìm hiểu cách tập thể dục an toàn và hiệu quả. Với hàng loạt bài tập và chương trình, cũng như thông tin về việc tập luyện một cách an toàn và tránh gây chấn thương, bạn sẽ có thể nhanh chóng đưa việc luyện tập của mình vào quy củ. Ứng dụng này thậm chí còn có hướng dẫn hữu ích về lối sống lành mạnh."
+
+#: content/Default/apps/content.json.h:82
+#: content/Default/apps/content.json.h:85
+#: content/Default/apps/content.json.h:133
+msgctxt "title"
+msgid "Library"
+msgstr ""
+
+#: content/Default/apps/content.json.h:83
+msgctxt "subtitle"
+msgid "Popular classics in foreign languages"
+msgstr ""
+
+#: content/Default/apps/content.json.h:84
+msgctxt "description"
+msgid ""
+"A collection of literature classics available in foreign languages, "
+"including such renowned authors as Lewis Carrol, Miguel de Cervantes, "
+"Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
+"categorized by language and include texts in English, Spanish, French, and "
+"Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:86
+msgctxt "subtitle"
+msgid "Classic books in portuguese children, teenagers, and adults"
+msgstr ""
+
+#: content/Default/apps/content.json.h:87
+msgctxt "description"
+msgid ""
+"A collection of literature classics covering more than 70 authors whose "
+"works are in the public domain, including Machado de Assis, Fernando Pessoa,"
+" Lima Barreto and Eça de Queirós. In this library, the PDF books are divided"
+" into the following categories: children, teenagers, classics, brazilian, "
+"and portuguese."
+msgstr ""
+
+#: content/Default/apps/content.json.h:88
+msgctxt "title"
+msgid "High School"
+msgstr ""
+
+#: content/Default/apps/content.json.h:89
+msgctxt "subtitle"
+msgid "Academic experiences to improve High School"
+msgstr ""
+
+#: content/Default/apps/content.json.h:90
+msgctxt "description"
+msgid ""
+"In this set of videos produced by TV Escola, the public channel of the "
+"Ministry of Education, experts discuss, from successful experiences, how to "
+"improve the High School experience. In the series With Science, experiences "
+"are shown of how to teach chemistry, physics and biology in a more thought-"
+"provoking and attractive way for students. The program also includes videos "
+"from the series How To Do?, Teacher's Room, and Making School."
+msgstr ""
+
+#: content/Default/apps/content.json.h:91
+msgctxt "title"
+msgid "History of Brazil"
+msgstr ""
+
+#: content/Default/apps/content.json.h:92
+msgctxt "subtitle"
+msgid "Documentaries about different periods of Brazilian history"
+msgstr ""
+
+#: content/Default/apps/content.json.h:93
+msgctxt "description"
+msgid ""
+"The program brings together a series of videos and programs presented by TV "
+"Escola, the public channel of the Ministry of Education, and which deal with"
+" different periods and aspects of the History of Brazil."
+msgstr ""
+
+#: content/Default/apps/content.json.h:94
+msgctxt "title"
+msgid "Literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:95
+msgctxt "subtitle"
+msgid ""
+"Storytelling for children and the stories of the great masters of literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:96
+msgctxt "description"
+msgid ""
+"The app brings together two TV Escola series on literature. In Animated "
+"Books, Vanessa Pascale tells different stories to children. The series "
+"Masters of Literature deals with the life and work of great Brazilian "
+"writers, such as Guimarães Rosa, Machado de Assis and Mário de Andrade."
+msgstr ""
+
+#: content/Default/apps/content.json.h:97
+msgctxt "title"
+msgid "Art and Mathematics"
+msgstr ""
+
+#: content/Default/apps/content.json.h:98
+msgctxt "subtitle"
+msgid "Mathematics and its applications in life and in the arts"
+msgstr ""
+
+#: content/Default/apps/content.json.h:99
+msgctxt "description"
+msgid ""
+"This program features videos of three different series produced by TV Escola"
+" and which have mathematics as the guiding thread. The Art and Mathematics "
+"series deals with the relationships between Visual Arts and Music and the "
+"numbers, patterns, shapes and proportions. In the episodes of the series "
+msgstr ""
+
+#: content/Default/apps/content.json.h:100
+msgctxt "title"
+msgid "Portuguese Language"
+msgstr ""
+
+#: content/Default/apps/content.json.h:101
+msgctxt "subtitle"
+msgid "The importance of reading and writing in society"
+msgstr ""
+
+#: content/Default/apps/content.json.h:102
+msgctxt "description"
+msgid ""
+"In this app you will find videos that deal with the importance of writing "
+"and reading to society, as well as practical tips for learning how to speak "
+"and write correctly. The program brings together classic series produced by "
+"TV Escola, the television channel of the Ministry of Education, such as "
+"Nossa Língua Portuguesa (with Professor Pasquale), Orto e Grafia (animation "
+"directed towards children) and programs with tips on teaching writing and "
+"reading for teachers, such as Living Letter and Reading Travel."
+msgstr ""
+
+#: content/Default/apps/content.json.h:103
+msgctxt "title"
+msgid "Where does it come from?"
+msgstr ""
+
+#: content/Default/apps/content.json.h:104
+msgctxt "subtitle"
+msgid "Curiosities about the world with the child character Kika"
+msgstr ""
+
+#: content/Default/apps/content.json.h:105
+msgctxt "description"
+msgid ""
+"In the series Where Does It Come From?, the character Kika has questions "
+"remaining about what happens around him. In a simple, fun and accessible "
+"language, the series produced by TV Escola responds to the girl's curious "
+"questions, who wants to understand the origin and function of electric "
+"power, crying, sneezing and everything else."
+msgstr ""
+
+#: content/Default/apps/content.json.h:106
+msgctxt "title"
+msgid "Geography"
+msgstr "Địa lý"
+
+#: content/Default/apps/content.json.h:107
+msgctxt "subtitle"
+msgid "Learn about all the countries in the world"
+msgstr "Tìm hiểu về tất cả các quốc gia trên thế giới"
+
+#: content/Default/apps/content.json.h:108
+msgctxt "description"
+msgid ""
+"The world is an amazing place, and with this app, you’ll learn all about it!"
+" Featuring information on every country in the world, this comprehensive "
+"resource covers major cities, regions, natural features, and more. Closer to"
+" home, you’ll find detailed information about your country, from its towns "
+"and cities to its rivers and mountains. Explore the wonders around you with "
+"this handy app!"
+msgstr "Thế giới này là một nơi diệu kỳ và với ứng dụng này, bạn sẽ hiểu hơn về nó. Có đầy đủ thông tin về mỗi quốc gia trên thế giới, nguồn tài nguyên toàn diện này còn bao gồm thông tin của các thành phố lớn, khu vực quan trọng, điều kiện thiên nhiên và còn nhiều hơn nữa. Quen thuộc hơn, bạn cũng sẽ tìm thấy các thông tin chi tiết về chính đất nước của mình, từ các thị trấn và thành phố đến những dòng sông và ngọn núi. Khám phá điều kỳ điệu quanh bạn với ứng dụng nhỏ gọn này!"
+
+#: content/Default/apps/content.json.h:109
+msgctxt "title"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: content/Default/apps/content.json.h:110
+msgctxt "subtitle"
+msgid "Learn more about this beautiful country"
+msgstr "Tìm hiểu thêm về quốc gia xinh đẹp này"
+
+#: content/Default/apps/content.json.h:111
+msgctxt "description"
+msgid ""
+"Guatemala has an ancient and fascinating history, but it’s also a modern, "
+"bustling nation with many attractions, cultural events, and important "
+"population centers. Explore articles showcasing areas of Guatemalan life, "
+"art, geography, and culture. You’ll deepen your knowledge of Guatemala so "
+"you can share it with friends and family alike!"
+msgstr "Guatemala có lịch sử thú vị và lâu đời, nhưng cũng là một quốc gia hiện đại, năng động với nhiều địa điểm thu hút du khách, các sự kiện văn hóa và các trung tâm dân cư chính. Hãy khám phá những chủ đề giới thiệu về các lĩnh vực như đời sống, nghệ thuật, địa lý và văn hóa của Guatemala. Bạn sẽ hiểu rõ hơn về Guatemala và có thể chia sẻ với bạn bè và cả gia đình!"
+
+#: content/Default/apps/content.json.h:112
+msgctxt "title"
+msgid "Curriculum"
+msgstr "Chương trình giáo dục"
+
+#: content/Default/apps/content.json.h:113
+msgctxt "subtitle"
+msgid "From the Guatemalan Ministry of Education"
+msgstr "Từ Bộ giáo dục Guatemala"
+
+#: content/Default/apps/content.json.h:114
+msgctxt "description"
+msgid ""
+"Here you will find the core curriculum and guidelines for a specific grade, "
+"and find textbooks and worksheets that can guide you in a variety of "
+"subjects. Teachers and parents can read materials to learn how a child's "
+"education should be structured and the important subjects studied in school."
+" Students can find useful textbooks that can help them better understand "
+"what they are learning in class. This app is useful for both students and "
+"teachers, and can make a big difference in your child's life and in your "
+"own!"
+msgstr "Trong ứng dụng này, bạn sẽ được tìm hiểu về chương trình giáo dục trọng tâm và các hướng dẫn về một bậc học cụ thể, cũng như được xem các sách giáo khoa và sách bài tập hướng dẫn trong rất nhiều môn học. Giáo viên và phụ huynh có thể đọc các tài liệu này để hiểu về cách hình thành nền giáo dục của trẻ em và các môn quan trọng được học trong trường. Học sinh có thể tìm thấy các sách bài tập hữu ích giúp các em hiểu rõ hơn về kiến thức được dạy trên lớp. Ứng dụng này hữu ích cho cả học sinh lẫn giáo viên, và có thể tạo nên sự khác biệt lớn lao trong cuộc sống của con cái bạn và chính bạn!"
+
+#: content/Default/apps/content.json.h:115
+msgctxt "title"
+msgid "Handicrafts"
+msgstr "Thủ công mỹ nghệ"
+
+#: content/Default/apps/content.json.h:116
+msgctxt "subtitle"
+msgid "Learn how to make the most beautiful handicrafts"
+msgstr "Tìm hiểu về cách làm ra những món đồ thủ công mỹ nghệ tinh xảo"
+
+#: content/Default/apps/content.json.h:117
+msgctxt "description"
+msgid ""
+"With these guides and your creativity you will soon be making the most "
+"beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave "
+"textiles, and more. You can even learn how to recycle materials from around "
+"your home to turn them into new and amazing handicrafts. Use this app to get"
+" started on a new creative project!"
+msgstr "Với các hướng dẫn này và óc sáng tạo của chính mình, bạn sẽ sớm làm ra được những món đồ thủ công mỹ nghệ tinh xảo! Tìm hiểu về nghề mộc, cách chế tác đồ trang sức, cách dệt vải và nhiều hơn nữa. Thậm chí, bạn có thể học cách tái chế vật liệu từ xung quanh nhà mình để biến chúng thành các món đồ thủ công mỹ nghệ mới và tuyệt vời. Hãy sử dụng ứng dụng này để khởi động dự án sáng tạo mới!"
+
+#: content/Default/apps/content.json.h:118
+msgctxt "title"
+msgid "Health"
+msgstr "Sức khỏe"
+
+#: content/Default/apps/content.json.h:119
+msgctxt "subtitle"
+msgid "Keep yourself and loved ones healthy"
+msgstr "Giúp giữ gìn sức khỏe cho bạn và những người xung quanh"
+
+#: content/Default/apps/content.json.h:120
+msgctxt "description"
+msgid ""
+"Without your health, you can't have anything else. Learn all about various "
+"diseases, medicines, and tips for how to stay healthy by reading some of the"
+" articles in this app. You never know - some of the information here may "
+"help you save your own life or the life of someone you love!"
+msgstr "Nếu không có sức khỏe, bán sẽ chẳng có thứ gì. Tìm hiểu tất cả mọi thứ về nhiều loại bệnh tật và thuốc men khác nhau cũng như lời khuyên về việc làm thế nào để giữ gìn sức khỏe bằng cách đọc một số bài viết trong ứng dụng này. Bạn sẽ chẳng ngờ được - một số thông tin ở đây có thể giúp bạn cứu lấy cuộc sống cho chính mình hoặc những người bạn yêu thương!"
+
+#: content/Default/apps/content.json.h:121
+msgctxt "title"
+msgid "Healthy Living"
+msgstr "Sống khỏe mạnh"
+
+#: content/Default/apps/content.json.h:122
+msgctxt "subtitle"
+msgid "Discover what it takes to stay healthy"
+msgstr "Khám phá điều gì mang đến cuộc sống khỏe mạnh"
+
+#: content/Default/apps/content.json.h:123
+msgctxt "description"
+msgid ""
+"How can you adopt a healthy lifestlye? There is much you can do for yourself"
+" and your family. This app gives you access to fitness routines, healthy "
+"recipes, nutrition facts, and nearby doctors. Get started today and pursue a"
+" healthier living!"
+msgstr "Làm thế nào để có được một lối sống lành mạnh? Có rất nhiều điều bạn có thể làm cho chính mình và gia đình. Ứng dụng này mang đến cho bạn các bài tập thể dục, các công thức món ăn lành mạnh, thông số dinh dưỡng và các bác sĩ ở khu vực quanh bạn. Hãy bắt đầu ngay hôm nay để hướng đến một cuộc sống lành mạnh hơn!"
+
+#: content/Default/apps/content.json.h:124
+msgctxt "title"
+msgid "Healthy Teeth"
+msgstr "Răng chắc khỏe"
+
+#: content/Default/apps/content.json.h:125
+msgctxt "subtitle"
+msgid "Learn to take care of your teeth"
+msgstr "Tìm hiểu cách chăm sóc hàm răng của bạn"
+
+#: content/Default/apps/content.json.h:126
+msgctxt "description"
+msgid ""
+"Have you ever had a toothache? Learn how to help make it feel better. Want "
+"to keep your teeth nice and white? Well, try out these tips. Whether it's "
+"learning about mouth diseases and how to prevent them, or just making sure "
+"to keep that beautiful smile, you'll find a lot of useful information in "
+"this app. Download it today and learn all about how to keep your mouth and "
+"teeth healthy and looking great!"
+msgstr "Đã bao giờ bạn bị đau răng chưa? Hãy tìm hiểu làm thế nào để giảm đau. Bạn muốn giữ cho răng mình đều và trắng đúng không? Nào, hãy thử làm theo những lời khuyên này. Cho dù chỉ tìm hiểu các bệnh răng miệng và làm thế nào để phòng ngừa hay chỉ đơn giản là giữ một nụ cười đẹp, bạn sẽ tìm thấy rất nhiều thông tin hữu ích trong ứng dụng này. Hãy tải về ngay hôm nay và tìm hiểu tất cả mọi thứ về cách làm thế nào để giữ cho răng miệng chắc khỏe và đều đẹp!"
+
+#: content/Default/apps/content.json.h:127
+msgctxt "title"
+msgid "History"
+msgstr "Lịch sử"
+
+#: content/Default/apps/content.json.h:128
+msgctxt "subtitle"
+msgid "Learn about the world's events and civilizations"
+msgstr "Tìm hiểu về các nền văn minh và sự kiện của thế giới"
+
+#: content/Default/apps/content.json.h:129
+msgctxt "description"
+msgid ""
+"How much do you know about the fall of the Roman Empire? What about the Silk"
+" Road? Who lived in the Americas long ago, and what happened to them? Why "
+"did World War I begin? Download this app and answer every question you have "
+"about the events and personalities that have shaped our modern world, and "
+"learn about the cultures that came before us."
+msgstr "Bạn biết được bao nhiều về sự sụp đổ của Đế chế La Mã? Về Con đường tơ lụa? Ai đã sống ở châu Mỹ từ thời xa xưa và điều gì xảy ra với họ? Tại sao Thế chiến I lại nổ ra? Hãy tải ứng dụng này và nhận được câu trả lời cho mọi câu hỏi về các sự kiện và nhân vật đã định hình thế giới hiện đại của chúng ta cũng như tìm hiểu về các nền văn hóa đã xuất hiện trước chúng ta."
+
+#: content/Default/apps/content.json.h:130
+msgctxt "title"
+msgid "How To"
+msgstr "Làm thế nào"
+
+#: content/Default/apps/content.json.h:131
+msgctxt "subtitle"
+msgid "How-to do just about anything by yourself"
+msgstr "Cách tự làm hầu như mọi thứ"
+
+#: content/Default/apps/content.json.h:132
+msgctxt "description"
+msgid ""
+"Are you interested in learning more about taking care of yourself or about "
+"fixing things at home on your own? Are you interested in refinishing "
+"furniture, getting rid of tough stains, growing a healthy vegetable garden, "
+"or learning yoga or other exercises on your own? Whatever you’ve dreamt of "
+"learning how to do, this is the app you need. From crafts to home "
+"improvement, event planning to self-help, you’ll find nearly every topic "
+"imaginable. Each how-to article is easy to access and understand. Soon, you "
+"won’t know how you managed before!"
+msgstr "Bạn muốn tìm hiểu thêm về cách chăm sóc bản thân hoặc tự mình sửa chữa mọi thứ tại nhà của mình? Bạn muốn tự mình tân trang đồ nội thất, loại bỏ vết bẩn cứng đầu, trồng vườn rau sạch, học yoga hay các bài tập thể dục? Dù bạn đã từng ước ao được thực hiện bất kỳ điều gì, thì đây cũng chính là ứng dụng mà bạn cần. Từ đồ thủ công đến trang trí nhà cửa, thậm chí lập kế hoạch đến tự làm, bạn sẽ tìm thấy mọi chủ đề mà bạn có thể nghĩ ra. Mỗi bài viết hướng dẫn cách làm đều dễ xem và dễ hiểu. Bạn sẽ nhanh chóng chẳng còn nhớ việc trước kia phải tự xoay sở như thế nào!"
+
+#: content/Default/apps/content.json.h:134
+msgctxt "subtitle"
+msgid "Literary classics for all ages"
+msgstr ""
+
+#: content/Default/apps/content.json.h:135
+msgctxt "description"
+msgid ""
+"A complete library with the great classics of world literature. More than 70"
+" digital books, with options for small children, youth, and adults. You will"
+" have fun with fantastic stories like Gulliver's Travels (Jonathan Swift) or"
+" Around the World in 80 Days (Jules Verne) and the great works of the "
+"Portuguese language's greatest writers, like Machado de Assis and Fernando "
+"Pessoa."
+msgstr ""
+
+#: content/Default/apps/content.json.h:136
+msgctxt "title"
+msgid "Maternity"
+msgstr "Thai sản"
+
+#: content/Default/apps/content.json.h:137
+msgctxt "subtitle"
+msgid "Valuable information for new mothers"
+msgstr "Các thông tin đáng giá dành cho những người sắp làm mẹ"
+
+#: content/Default/apps/content.json.h:138
+msgctxt "description"
+msgid ""
+"Having a baby is one of the most magical experiences in the world, but it "
+"can also be pretty overwhelming if you don't have access to a doctor or if "
+"you are a new mother and don't know what to expect. Learn about signs that "
+"could be dangerous so you can avoid them, and also about things you should "
+"try through your pregnancy to ensure a healthy birth. Whether you are about "
+"to have your first child, are about to have your tenth child, or are a "
+"midwife that helps other women give birth, you will find relevant "
+"information here that can help!"
+msgstr "Mang thai là một trong những trải nghiệm kỳ diệu nhất trên đời nhưng cũng cực kỳ căng thẳng nếu bạn không được hỗ trợ từ bác sĩ hoặc nếu bạn mời làm mẹ lần đầu và không biết cần phải làm gì. Tìm hiểu về các dấu hiệu có thể xem là nguy hiểm mà bạn cần tránhvà những điều bạn nên thử qua trong thai kỳ để đảm bảo thai nhi khỏe mạnh. Cho dù đây là đứa con đầu tiên hay đứa con thứ mười hoặc bạn là người hộ sinh giúp đỡ các sản phụ khác sinh nở, thì bạn vẫn sẽ tìm được những thông tin liên quan rất hữu ích!"
+
+#: content/Default/apps/content.json.h:139
+msgctxt "title"
+msgid "Math"
+msgstr "Toán học"
+
+#: content/Default/apps/content.json.h:140
+msgctxt "subtitle"
+msgid "High school math made simple and accessible"
+msgstr "Các bài toán trung học trở nên dễ dàng và lý thú"
+
+#: content/Default/apps/content.json.h:141
+msgctxt "description"
+msgid ""
+"Studying high school math doesn’t have to be confusing or dull. This simple "
+"math app will help you master subjects like algebra, geometry, trigonometry,"
+" calculus, and statistics. Strengthen your mathematical reasoning skills and"
+" gain a deeper understanding of whatever math concepts you’re struggling "
+"with. With information for multiple courses all in one place, you can extend"
+" your learning and expand your mind!"
+msgstr "Việc học toán bậc trung học sẽ không còn khó hiểu hay đau đầu nữa. Ứng dụng toán học đơn giản này sẽ giúp bạn thông thạo các môn như đại số, hình học, lượng giác, tính toán và thống kê. Tăng cường kỹ năng lý luận toán học và hiểu biết sâu sắc hơn về bất cứ khái niệm nào trong toán học mà bạn đang rất khó tiếp thu. Với thông tin tổng hợp từ nhiều giáo trình, bạn có thể mở rộng việc học cũng tâm trí của mình!"
+
+#: content/Default/apps/content.json.h:142
+msgctxt "title"
+msgid "Mayan Languages"
+msgstr "Ngôn ngữ Maya"
+
+#: content/Default/apps/content.json.h:143
+msgctxt "subtitle"
+msgid "Stories and dictionaries in Mayan languages"
+msgstr "Chuyện kể và từ điển tiếng Maya"
+
+#: content/Default/apps/content.json.h:144
+msgctxt "description"
+msgid ""
+"Have you ever wanted to study and learn a Mayan language? Whether you're a "
+"beginner or are more advanced, this app contains many great resources. Here "
+"you can find stories, dictionaries, and grammar resources in different Mayan"
+" languages. Get ready to immerse yourself in Mayan culture through all the "
+"history and stories you'll find here!"
+msgstr "Bạn đã bao giờ muốn nghiên cứu và tìm hiểu ngôn ngữ của người Maya hay chưa? Cho dù bạn là một người mới bắt đầu hoặc đã học lâu năm, ứng dụng này chứa nhiều nguồn tài nguyên tuyệt vời. Trong ứng dụng này, bạn có thể tìm thấy những câu chuyện, từ điển và nhiều tài nguyên về ngữ pháp trong ngôn ngữ của người Maya. Hãy sẵn sàng để đắm mình trong văn hóa của người Maya qua  lịch sử và những câu chuyện bạn sẽ tìm thấy ở đây!"
+
+#: content/Default/apps/content.json.h:145
+msgctxt "title"
+msgid "Mental Health"
+msgstr "Sức khỏe tinh thần"
+
+#: content/Default/apps/content.json.h:146
+msgctxt "subtitle"
+msgid "Tips and tricks for living a healthier, happier life"
+msgstr "Bí quyết và mẹo để có cuộc sống hạnh phúc hơn và khỏe mạnh hơn"
+
+#: content/Default/apps/content.json.h:147
+msgctxt "description"
+msgid ""
+"Have you ever wanted to be more confident? Feel less stressed? Be more "
+"efficient and productive? Now is your chance! Use this app to learn tips and"
+" tricks for self improvement. Read to discover how your mind works and how "
+"you can better your life."
+msgstr "Bạn đã bao giờ bạn muốn mình trở nên tự tin hơn? Cảm thấy giảm bớt căng thẳng? Làm việc hiệu quả và đạt năng suất cao hơn? Đây chính là cơ hội của bạn! Sử dụng ứng dụng này để tìm hiểu các bí quyết và mẹo để tự cải thiện chính bản thân mình. Đọc để khám phá cách thức hoạt động của trí não và cách làm thế nào để có cuộc sống tốt hơn."
+
+#: content/Default/apps/content.json.h:148
+msgctxt "title"
+msgid "Microenterprises"
+msgstr "Doanh nghiệp nhỏ"
+
+#: content/Default/apps/content.json.h:149
+msgctxt "subtitle"
+msgid "Learn to run your own company"
+msgstr "Học cách điều hành công ty của bạn"
+
+#: content/Default/apps/content.json.h:150
+msgctxt "description"
+msgid ""
+"Have you dreamed of starting your own company? Learn all about what it will "
+"take to do so! As a small business owner, you'll need to learn how to take "
+"an idea you have and turn it into something profitable, how to manage a "
+"team, how to take care of all of the administrative aspects - and you'll "
+"find a little about all of that here in this app. Prepare yourself to enter "
+"into a world where you are your own boss!"
+msgstr "Đã bao giờ bạn ước ao có một công ty của riêng mình chưa? Tìm hiểu tất cả về những gì cần thiết để bắt đầu! Là chủ một doanh nghiệp nhỏ, bạn sẽ cần phải tìm hiểu cách làm thế nào để có được ý tưởng và biến ý tưởng đó thành lợi nhuận, cách làm thế nào để quản lý một nhóm, cách làm thế nào để xử lý tất cả các vấn đề về hành chính - và bạn sẽ tìm thấy một chút về tất cả những điều đó ở ngay trong ứng dụng này. Chuẩn bị cho mình để bước vào thế giới nơi bạn chính là ông chủ!"
+
+#: content/Default/apps/content.json.h:151
+msgctxt "title"
+msgid "Myths & Legends"
+msgstr "Thần thoại & Truyền thuyết"
+
+#: content/Default/apps/content.json.h:152
+msgctxt "subtitle"
+msgid "Myths and legends from around the world"
+msgstr "Thần thoại và truyền thuyết trên khắp thế giới"
+
+#: content/Default/apps/content.json.h:153
+msgctxt "description"
+msgid ""
+"Do you like reading myths, legends and scary stories? This app has some from"
+" all around the world! From Mayan legends to popular Japanese myths, and "
+"scary stories, you're sure to find something that will interest you. Read "
+"all about the creatures, myths, legends, and fables that have shaped "
+"cultures of the past and present all over the world!"
+msgstr "Bạn có thích đọc những câu chuyện huyền thoại, truyền thuyết và những chuyện đáng sợ không? Ứng dụng này có nhiều câu chuyện từ khắp nơi trên thế giới! Từ truyền thuyết của người Maya đến các huyền thoại nổi tiếng của Nhật Bản cũng như những câu chuyện đáng sợ, chắc chắn bạn sẽ tìm thấy điều mà mình quan tâm. Đọc tất cả về những sinh vật, thần thoại, truyền thuyết, truyện ngụ ngôn đã định hình nên nhiều nền văn hóa trong quá khứ và hiện tại ở khắp nơi trên thế giới!"
+
+#: content/Default/apps/content.json.h:154
+msgctxt "title"
+msgid "La Constitución"
+msgstr ""
+
+#: content/Default/apps/content.json.h:155
+msgctxt "subtitle"
+msgid "La entera Constitución de la República del Paraguay"
+msgstr ""
+
+#: content/Default/apps/content.json.h:156
+msgctxt "description"
+msgid ""
+"Con este programa puedes aprender sobre la Constitución de la República del "
+"Paraguay. Los 311 artículos están reproducidos aquí. Un programa perfecto "
+"para estudiantes, docentes y ciudadanos que quieran profundizar su "
+"conocimiento sobre los derechos fundamentales de la República del Paraguay."
+msgstr ""
+
 #: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Photo Editor"
@@ -139,6 +1071,50 @@ msgid ""
 "your everyday life. With this handy app, you can post your creations "
 "directly to Facebook, so everyone can see your awesome pictures!"
 msgstr "Đã bao giờ bạn muốn chỉnh sửa ảnh của mình như dân chuyên nghiệp và tạo ra những bức ảnh đẹp để chia sẻ với những người bạn yêu quý? Giờ đây, bạn có thể làm điều đó chỉ trong một vài bước! Chúng tôi có một loạt các bộ lọc hấp dẫn và nghệ thuật để bạn có thể tùy chỉnh hình ảnh của mình và tạo ra các tác phẩm nghệ thuật độc nhất vô nhị từ cuộc sống thường ngày của bạn. Với ứng dụng tiện lợi này, bạn có thể đăng các tác phẩm của bạn trực tiếp lên Facebook để tất cả mọi người đều nhìn thấy bức ảnh tuyệt vời của bạn!"
+
+#: content/Default/apps/content.json.h:160
+msgctxt "title"
+msgid "Physics"
+msgstr "Vật lý học"
+
+#: content/Default/apps/content.json.h:161
+msgctxt "subtitle"
+msgid "Learn about the physical world's mysteries"
+msgstr "Tìm hiểu về những bí ẩn của thế giới vật chất"
+
+#: content/Default/apps/content.json.h:162
+msgctxt "description"
+msgid ""
+"Do you find learning about physics to be difficult? You're not alone. "
+"Physics is one of the most fascinating and challenging scientific "
+"disciplines. Use this app to find exactly what you need to learn, and to "
+"make learning it easier. Whatever your level of understanding, you’ll find "
+"useful information presented in a format you can follow. The app includes "
+"exciting topics like mechanics, thermodynamics, electricity and magnetism, "
+"and even astrophysics. From the atoms to the stars, you’ll learn all about "
+"the world around you, and succeed in your physics education."
+msgstr "Bạn cảm thấy khó khăn trong việc tìm hiểu về vật lý học? Không chỉ riêng bạn cảm thấy như vậy đâu. Vật lý là một trong những ngành khoa học thú vị và đầy thử thách nhất. Hãy sử dụng ứng dụng này để tìm thấy chính xác những gì bạn cần phải học và khiến việc học trở nên dễ dàng hơn. Dù hiểu biết của bạn ở mức độ nào thì bạn vẫn sẽ tìm thấy thông tin hữu ích được trình bày theo hình thức mà bạn có thể theo dõi. Ứng dụng này bao gồm các chủ đề thú vị như cơ khí, nhiệt động lực học, điện, hiện tượng từ tính và thậm chí là vật lý thiên văn. Từ các nguyên tử đến các ngôi sao, bạn sẽ được tìm hiểu tất cả mọi thứ về thế giới xung quanh bạn và giành được điểm cao với môn vật lý."
+
+#: content/Default/apps/content.json.h:163
+msgctxt "title"
+msgid "Prensa Libre"
+msgstr "Prensa Libre"
+
+#: content/Default/apps/content.json.h:164
+msgctxt "subtitle"
+msgid "All the news about Guatemala and the world"
+msgstr "Tất cả tin tức về Guatemala và thế giới"
+
+#: content/Default/apps/content.json.h:165
+msgctxt "description"
+msgid ""
+"All the latest news and information on sports, culture and entertainment, "
+"politics, and economics, from Guatemala and the world, produced by Prensa "
+"Libre. You will have access to hundreds of articles offline, and when you go"
+" online, you will receive the latest news available. The articles remain "
+"stored on your computer so you can access them later offline at your "
+"convenience."
+msgstr "Tất cả các tin tức mới nhất và các thông tin về thể thao, văn hóa và vui chơi giải trí, chính trị và kinh tế, từ Guatemala và trên thế giới, được ấn hành bởi Prensa Libre. Bạn sẽ được truy cập hàng trăm bài báo ngoại tuyến và khi bạn trực tuyến, bạn sẽ nhận được ngay những tin tức mới nhất. Các bài viết vẫn được lưu trữ trên máy tính của bạn để bạn có thể truy cập khi ngoại tuyến một cách thuận tiện nhất."
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -162,6 +1138,34 @@ msgid ""
 "your very own!"
 msgstr "Bạn có thích chơi trò chơi điện tử không? Vậy tại sao bạn không tạo ra một trò cho riêng mình? Tìm hiểu những kỹ năng lập trình và mã hóa đáng giá với ứng dụng thú vị này sẽ giúp bạn thay đổi các quy tắc của trò chơi khiến trò chơi trở thành của riêng bạn! Hãy xem những gì sẽ xảy ra khi bạn thay đổi vài dòng mã và nâng cấp độ để tiếp tục học hỏi nhiều hơn về cách viết mã. Bạn sẽ sớm phát hiện ra rằng việc học lập trình cho phép bạn không chỉ thay đổi thế giới trong trò chơi của mình, mà còn theo cách của riêng bạn!"
 
+#: content/Default/apps/content.json.h:169
+msgctxt "title"
+msgid "Programming"
+msgstr ""
+
+#: content/Default/apps/content.json.h:170
+msgctxt "subtitle"
+msgid "Learn the basics of front-end web development with this app"
+msgstr ""
+
+#: content/Default/apps/content.json.h:171
+msgctxt "description"
+msgid ""
+"Have you ever wanted to make websites or explore programming? With this app "
+"you can! Learn the basics of front-end web development with HTML, CSS, and "
+"Javascript."
+msgstr ""
+
+#: content/Default/apps/content.json.h:172
+msgctxt "title"
+msgid "Publimetro"
+msgstr ""
+
+#: content/Default/apps/content.json.h:173
+msgctxt "subtitle"
+msgid "The global newspaper about breaking news in Mexico and the world"
+msgstr ""
+
 #: content/Default/apps/content.json.h:177
 msgctxt "title"
 msgid "Résumé"
@@ -184,6 +1188,163 @@ msgid ""
 "your choice."
 msgstr "Cách tốt nhất để tạo ấn tượng tốt với một nhà tuyển dụng tiềm năng chính là có một hồ sơ năng lực thật xuất sắc và ứng dụng này giúp bạn làm điều đó. Với các biểu mẫu tiện dụng và hấp dẫn, bạn có rất nhiều hình mẫu để xây dựng hồ sơ mang đặc trưng riêng cho mình. Tìm hiểu chính xác hồ sơ năng lực là gì và những nội dung cần có, lời khuyên cho mỗi phần và thậm chí được hướng dẫn về cách chuẩn bị phỏng vấn xin việc. Ứng dụng này có thể giúp bạn tiến gần hơn đến công việc mình yêu thích."
 
+#: content/Default/apps/content.json.h:180
+msgctxt "title"
+msgid "Football"
+msgstr "Bóng đá"
+
+#: content/Default/apps/content.json.h:181
+msgctxt "subtitle"
+msgid "Learn about your favorite team and players"
+msgstr "Tìm hiểu về đội bóng và cầu thủ yêu thích của bạn"
+
+#: content/Default/apps/content.json.h:182
+msgctxt "description"
+msgid ""
+"Football is a major sport with fans all around the world. Are you one of "
+"them? Then this is the app for you. It features everything you need to know "
+"about the world’s major teams, players, and competitions. Learn facts about "
+"the game and its history, discover more about the rules, and keep up to date"
+" with thousands of articles about your favorite sport!"
+msgstr "Bóng đá là môn thể thao có nhiều người hâm mộ khắp nơi trên toàn cầu. Bạn là một trong số đó? Vậy thì đây là ứng dụng dành cho bạn. Ứng dụng này đem đến mọi điều bạn cần biết về các đội bóng, cầu thủ hoặc các trận tranh tài lớn ở khắp thế giới. Tìm hiểu thêm thông tin về trò chơi và lịch sử hình thành, khám phá thêm về luật chơi và cập nhật hàng ngàn bài báo về môn thể thao yêu thích của bạn!"
+
+#: content/Default/apps/content.json.h:183
+msgctxt "title"
+msgid "Social Enterprises"
+msgstr "Tổ chức xã hội"
+
+#: content/Default/apps/content.json.h:184
+msgctxt "subtitle"
+msgid "All about non-profit organizations"
+msgstr "Mọi thông tin về tổ chức phi lợi nhuận"
+
+#: content/Default/apps/content.json.h:185
+msgctxt "description"
+msgid ""
+"Have you thought of starting your own non-profit organization, or of joining"
+" one? Non-profits enjoy special tax benefits, and are generally created to "
+"make a real social impact. Read these guides to understand more about the "
+"non-profit structure and how to operate them so that you can begin making "
+"your impact in the world even larger!"
+msgstr "Bạn đã từng nghĩ đến việc bắt đầu tổ chức phi lợi nhuận của riêng mình, hoặc tham gia vào một tổ chức như vậy? Tổ chức phi lợi nhuận được hưởng những ưu đãi đặc biệt về thuế và thường được tạo ra để gây ảnh hưởng thực sự đến xã hội. Hãy đọc hướng dẫn để hiểu thêm về cấu trúc và chúng cách thức vận hành của tổ chức phi lợi nhuận để bạn có thể bắt đầu khiến ảnh hưởng của mình đến thế giới ngày càng lớn hơn nữa!"
+
+#: content/Default/apps/content.json.h:186
+msgctxt "title"
+msgid "Social Sciences"
+msgstr "Khoa học xã hội"
+
+#: content/Default/apps/content.json.h:187
+msgctxt "subtitle"
+msgid "Subjects that explore the individual and society"
+msgstr "Các môn học khám phá về cá nhân và xã hội"
+
+#: content/Default/apps/content.json.h:188
+msgctxt "description"
+msgid ""
+"Human beings and the relationships and societies they form are complicated. "
+"This app will introduce you to many of the disciplines that examine human "
+"history, cultures, and interactions. You’ll have access to the basics of "
+"psychology, sociology, anthropology, political science, and more. "
+"Understanding the fundamentals of such disciplines will help you navigate "
+"the ways we interact and relate to each other. You’ll come away with a rich "
+"understanding of human behavior."
+msgstr "Con người và các mối quan hệ và xã hội mà họ hình thành rất phức tạp. Ứng dụng này sẽ giới thiệu với bạn nhiều chuyên ngành nghiên cứu lịch sử, văn hóa và sự tương tác của loài người. Bạn sẽ được tìm hiểu các vấn đề cơ bản của tâm lý học, xã hội học, nhân chủng học, chính trị học và nhiều hơn nữa. Hiểu được nguyên tắc cơ bản của các môn học này sẽ giúp bạn nắm được cách thức chúng ta tương tác và quan hệ với nhau. Bạn sẽ thu được những hiểu biết phong phú về hành vi con người."
+
+#: content/Default/apps/content.json.h:189
+msgctxt "title"
+msgid "Noticias Soy502"
+msgstr ""
+
+#: content/Default/apps/content.json.h:190
+msgctxt "subtitle"
+msgid "Espacio informativo de referencia sobre Guatemala"
+msgstr ""
+
+#: content/Default/apps/content.json.h:191
+msgctxt "description"
+msgid ""
+"502 es el código de área que identifica a Guatemala. Soy 502 es un espacio "
+"para guatemaltecos, los que viven en el país y los que estudian o trabajan "
+"en el extranjero pero no olvidan sus raíces. Información de referencia de "
+"actualidad y entretenimiento para todos los públicos."
+msgstr ""
+
+#: content/Default/apps/content.json.h:192
+msgctxt "title"
+msgid "Diccionario Guaraní"
+msgstr ""
+
+#: content/Default/apps/content.json.h:193
+msgctxt "subtitle"
+msgid "Diccionario bilingüe de Castellano-Guaraní y Guaraní-Castellano"
+msgstr ""
+
+#: content/Default/apps/content.json.h:194
+msgctxt "description"
+msgid ""
+"Este diccionario bilingüe Castellano-Guaraní y Guaraní-Castellano es muy "
+"didáctico, pues está especialmente desarrollado para los estudiantes y "
+"docentes. Se rige por estrictas normas de la educación básica. Cuenta con "
+"indicación de la categoría gramatical (adj., s., v.,) y con 8.132 entradas."
+msgstr ""
+
+#: content/Default/apps/content.json.h:195
+msgctxt "title"
+msgid "Child Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:196
+msgctxt "subtitle"
+msgid "Suggestions for classes for child education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:197
+msgctxt "description"
+msgid ""
+"Improve the class curriculum of child education with various suggestions for"
+" class plans produced by teachers from all across the country and delivered "
+"by the Professor Portal from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:198
+msgctxt "title"
+msgid "Professional Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:199
+msgctxt "subtitle"
+msgid "Suggestions for classes for professional education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:200
+msgctxt "description"
+msgid ""
+"Enrich your Professional Education class with suggestions for elaborate "
+"lesson plans from teachers all across the country, using the collaborative "
+"Professor Portal platform from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:201
+msgctxt "title"
+msgid "Textbooks"
+msgstr "Sách giáo khoa"
+
+#: content/Default/apps/content.json.h:202
+msgctxt "subtitle"
+msgid "Math and science textbooks"
+msgstr "Sách giáo khoa toán và khoa học"
+
+#: content/Default/apps/content.json.h:203
+msgctxt "description"
+msgid ""
+"Find information to help you with your homework, or learn about a subject "
+"you've always wanted to know more about! You can scroll through photos, "
+"tables, and graphs to learn more about each. Not only are these textbooks "
+"very thorough and informative, but they are also easy to read and helpful. "
+"Whether you’re a student, parent, teacher, or just someone eager to learn, "
+"you'll be sure to find something interesting and useful here!"
+msgstr "Tìm thông tin giúp bạn làm bài tập về nhà hoặc tìm hiểu về một chủ đề mà bạn luôn muốn khám phá! Bạn có thể lướt qua các hình ảnh, biểu đồ và đồ thị để tìm hiểu thêm về mỗi chủ đề. Không chỉ là những quyển sách giáo khoa cặn kẽ và đầy đủ thông tin, những cuốn sách này còn rất dễ đọc và hữu ích. Cho dù bạn là học sinh, phụ huynh, giáo viên hay chỉ là một người ham học hỏi, chắc chắn bạn vẫn sẽ tìm thấy điều thú vị và hữu ích trong ứng dụng này!"
+
 #: content/Default/apps/content.json.h:204
 msgctxt "title"
 msgid "Translate"
@@ -204,6 +1365,27 @@ msgid ""
 "use it to help you make new international connections – and even new friends"
 " – with the world’s languages at your fingertips.  **Requires internet"
 msgstr "Tải ngay ứng dụng này để giúp bạn hiểu và truyền đạt gần như bất kỳ ngôn ngữ nào. Ứng dụng này yêu cầu kết nối internet và sử dụng rất đơn giản. Bạn có thể có ngay bản dịch chỉ với một cú nhấp chuột! Giúp bạn tự học một ngôn ngữ mới bằng cách học bản dịch về những gì bạn đã viết, hoặc sử dụng bản dịch để giúp bạn kết nối khắp toàn cầu - và thậm chí với những người bạn mới - bằng các ngôn ngữ trên thế giới nằm trong tầm tay của bạn. ** Yêu cầu kết nối Internet"
+
+#: content/Default/apps/content.json.h:207
+msgctxt "title"
+msgid "Travel"
+msgstr "Du lịch"
+
+#: content/Default/apps/content.json.h:208
+msgctxt "subtitle"
+msgid "Travel around the world from your living room"
+msgstr "Du lịch vòng quanh thế giới ngay trong phòng khách của bạn"
+
+#: content/Default/apps/content.json.h:209
+msgctxt "description"
+msgid ""
+"The world is an amazing and beautiful place! Start exploring it with this "
+"cool application that lets you see pictures and learn facts about areas from"
+" all over the world. It features information on major sites in places like "
+"the Americas, Europe, Asia and beyond. Learn about natural wonders, explore "
+"new cultures, and discover some of the most important and holy religious "
+"sites in the world!"
+msgstr "Thế giới là một nơi tuyệt vời và xinh đẹp! Bắt đầu khám phá thế giới với ứng dụng cực chất này, là ứng dụng mang đến cho bạn những hình ảnh và giúp bạn tìm hiểu mọi thứ từ khắp nơi trên thế giới. Ứng dụng có nhiều thông tin và các địa danh quan trọng ở châu Mỹ, châu Âu, châu Á và xa hơn nữa. Tìm hiểu về các kỳ quan thiên nhiên, khám phá các nền văn hóa mới và phát hiện ra một số các địa điểm tôn giáo thiêng liêng và quan trọng bậc nhất trên thế giới!"
 
 #: content/Default/apps/content.json.h:210
 msgctxt "title"
@@ -226,6 +1408,25 @@ msgid ""
 "family, and the world!  ** Requires internet"
 msgstr "Ứng dụng này giúp việc tìm kiếm video trên YouTube, trang web video phổ biến, và chia sẻ video dễ dàng hơn theo một cách mới hoàn toàn! Xem video của các nghệ sĩ âm nhạc yêu thích, các hướng dẫn dạy bạn cách làm mọi thứ, video hài hước hay dễ thương và nhiều hơn nữa. Bạn sẽ có được những giờ phút vui vẻ và sẽ có thể chia sẻ tất cả những điều hay ho mà bạn tìm ra hoặc tạo nên với bạn bè, gia đình và thế giới! ** Yêu cầu kết nối Internet"
 
+#: content/Default/apps/content.json.h:213
+msgctxt "title"
+msgid "Sanitation"
+msgstr "Vệ sinh"
+
+#: content/Default/apps/content.json.h:214
+msgctxt "subtitle"
+msgid "All about clean water and sanitation"
+msgstr "Tất cả thông tin về nước sạch và vệ sinh"
+
+#: content/Default/apps/content.json.h:215
+msgctxt "description"
+msgid ""
+"Drinking clean water is essential for survival. There can often be terrible "
+"diseases that can infect you through bad water, or by having bad sanitation "
+"around you. Learn how to make sure you drink clean water, and how to ensure "
+"that you create a sanitary environment around you where you can thrive. "
+msgstr "Việc uống nước sạch rất thiết yếu cho sự sống còn. Có nhiều bệnh dịch khủng khiếp lây lan qua đường nước bẩn, hoặc do vệ sinh môi trường chung quanh bạn kém. Tìm hiểu cách làm thế nào để đảm bảo bạn uống được nước sạch và cách làm thế nào để đảm bảo bạn tạo ra một môi trường vệ sinh chung quanh nơi bạn sinh sống."
+
 #: content/Default/apps/content.json.h:216
 msgctxt "title"
 msgid "Weather"
@@ -245,6 +1446,47 @@ msgid ""
 "rain? Is it a perfect day to spend outdoors? Learn all you need to know "
 "about the weather to take advantage of your day!  **Requires internet"
 msgstr "\"Thời tiết bên ngoài thế nào nhỉ?\" Trả lời câu hỏi này một cách dễ dàng hàng ngày, chỉ với một cú bấm nút. Ứng dụng thời tiết đơn giản này giúp bạn biết được thời tiết bên ngoài ra sao. Ngoài có lạnh không? Bạn có nên chuẩn bị vì trời sắp đổ mưa không? Hôm nay có đẹp trời để đi dạo không? Tìm hiểu mọi thứ bạn cần về thời tiết để tận dụng cả ngày! **Yêu cầu kết nối Internet"
+
+#: content/Default/apps/content.json.h:219
+msgctxt "title"
+msgid "World Literature"
+msgstr "Văn học thế giới"
+
+#: content/Default/apps/content.json.h:220
+msgctxt "subtitle"
+msgid "Read all of the world's great literature"
+msgstr "Đọc toàn bộ kiệt tác văn học thế giới"
+
+#: content/Default/apps/content.json.h:221
+msgctxt "description"
+msgid ""
+"Find some of your favorite books in this app! To begin browsing, open the "
+"folder, click the 'Index' file, and select the genre that interests you "
+"most. You'll find some of the most famous books written, including modern "
+"wonders that are sure to peak your interest. This virtual library has an "
+"astouding collection of novels, poems, biographies, stories, and other "
+"texts. Whether you find your favorite book or discover a new one, you'll be "
+"entertained for hours expanding your literary knowledge."
+msgstr "Bạn sẽ tìm thấy một số quyển sách yêu thích của bạn trong ứng dụng này! Để bắt đầu tìm kiếm, hãy mở thư mục, nhấp vào tệp \"Chỉ mục\" và chọn thể loại yêu thích nhất của bạn. Bạn sẽ tìm thấy các quyển sách nổi tiếng, bao gồm các kiệt tác hiện đại chắc chắn sẽ khiến bạn vô cùng hào hứng. Thư viện ảo này còn có một bộ sưu tập đáng kinh ngạc gồm các tiểu thuyết, bài thơ, tiểu sử, truyện hoặc các văn bản khác. Dù bạn chỉ tìm quyển sách ưa thích của mình hay tìm ra được một quyển sách mới, bạn cũng sẽ được thỏa mãn với hàng giờ bổ sung kiến thức văn học cho mình."
+
+#: content/Default/apps/content.json.h:222
+msgctxt "title"
+msgid "Your Health"
+msgstr ""
+
+#: content/Default/apps/content.json.h:223
+msgctxt "subtitle"
+msgid "Health, nutrition, and well-being in one click"
+msgstr ""
+
+#: content/Default/apps/content.json.h:224
+msgctxt "description"
+msgid ""
+"Health care for the whole family with information about disease prevention, "
+"nutrition, and well-being. This application also provides information about "
+"vaccination and how to use the services available in the Unified Health "
+"System. Content developed by the medical team at the sautil.com.br portal"
+msgstr ""
 
 #: content/Default/apps/content.json.h:225
 msgctxt "title"

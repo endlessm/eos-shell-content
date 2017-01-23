@@ -25,8 +25,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2016-12-20 03:29+0000\n"
-"PO-Revision-Date: 2017-01-10 07:23+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2017-01-17 03:26+0000\n"
+"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,6 +114,416 @@ msgid ""
 "today!  ** Requires internet"
 msgstr "¿Necesitas guardar de forma segura todos sus documentos, fotos, canciones y archivos importantes? ¡Fácil! Con este programa se puede utilizar el internet para guardar todo lo que más te importa. Una vez que hayas guardado todo, podrás acceder a tus archivos desde cualquier computadora que tenga conexión al internet. Usa este programa para guardar tus archivos, compartir fotos o colaborar en un proyecto con solo compartir una carpeta con quien deseas. ¡Crea una cuenta gratis y comienza a guardar y compartir hoy!  ** Requiere internet"
 
+#: content/Default/apps/content.json.h:16
+msgctxt "title"
+msgid "Animals"
+msgstr "Animales"
+
+#: content/Default/apps/content.json.h:17
+msgctxt "subtitle"
+msgid "Learn about all of Earth's creatures"
+msgstr "Aprende acerca de las criaturas de la Tierra"
+
+#: content/Default/apps/content.json.h:18
+msgctxt "description"
+msgid ""
+"Animals are simply amazing. From the majestic lion to the bizarre and "
+"fascinating platypus, there is so much to learn about the creatures that "
+"inhabit our world. Unlock the entire animal kingdom with this app! The whole"
+" family, from small children to curious adults, will love to learn about "
+"animals’ features, habits, and environments. It’s especially important to "
+"study the animal kingdom today, when so many species are threatened or "
+"endangered."
+msgstr "Los animales son increíbles. Desde el majestuoso león hasta el extraño y fascinante ornitorrinco, hay mucho que aprender sobre las criaturas que habitan nuestro mundo. Conoce todo el reino animal con este programa. A toda la familia le encantará aprender sobre las características, hábitos y ambientes de los animales, tanto a pequeños como grandes. Es especialmente importante estudiar el reino animal ahora que tantas especies están en peligro de extinción."
+
+#: content/Default/apps/content.json.h:19
+msgctxt "title"
+msgid "Astronomy"
+msgstr "Astronomía"
+
+#: content/Default/apps/content.json.h:20
+msgctxt "subtitle"
+msgid "Learn about the universe and all it contains"
+msgstr "Explora el universo y todo lo que contiene"
+
+#: content/Default/apps/content.json.h:21
+msgctxt "description"
+msgid ""
+"Is there anything more incredible than outer space? This app will introduce "
+"you to the cosmos and will teach you about our own solar system and far "
+"beyond. Learn about planets, stars, galaxies, and even the mysteries of "
+"black holes! Understand our sun and moon, and think about the possibility of"
+" life elsewhere in the universe. You’ll want to take off in a rocket ship "
+"after exploring this app!"
+msgstr "¿Hay algo más impresionante e increíble que el espacio exterior? Este programa te dará a conocer el gran cosmos, enseñándote sobre tu propio sistema solar y más allá. Aprende sobre los planetas, las estrellas, las galaxias y los misteriosos agujeros negros. Entiende nuestro sol y luna y considera la posibilidad de vida en otras partes del universo. ¡Querrás salir en tu propia nave espacial después de explorar este programa!"
+
+#: content/Default/apps/content.json.h:22
+msgctxt "title"
+msgid "Bangladesh National Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:23
+msgctxt "subtitle"
+msgid "National curriculum for Class I through Class X in all subjects"
+msgstr ""
+
+#: content/Default/apps/content.json.h:24
+msgctxt "description"
+msgid ""
+"Learn about Bengali, Mathematics, Science, Social Studies, Religion, "
+"English, and more with this program that covers Class I through Class X. "
+"Each subject contains a textbook with lots of information and practice "
+"exercises to help you study and succeed in school. If you're a teacher, this"
+" app is perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:25
+msgctxt "title"
+msgid "Biology"
+msgstr "Biología"
+
+#: content/Default/apps/content.json.h:26
+msgctxt "subtitle"
+msgid "Learn all about the living world around you"
+msgstr "Aprende sobre la vida en el mundo que te rodea"
+
+#: content/Default/apps/content.json.h:27
+msgctxt "description"
+msgid ""
+"Studying biology is an exciting pursuit because it gives us an understanding"
+" of what it means to be a living creature. This app covers everything from "
+"cells and tiny organisms to plants and animals. You can use this app to "
+"study many sub-disciplines of biology, or simply to gain a better "
+"understanding of the subject as a whole. Whether you want to study for a "
+"test or just learn more about this subject, download this app today to get "
+"started!"
+msgstr "El estudio de la biología es emocionante porque te ayuda a entender qué es lo que significa ser un ser vivo. Este programa tiene mucha información, desde artículos sobre las células y los organismos minúsculos hasta de las plantas y animales. Puedes utilizar este programa para estudiar muchas sub-disciplinas de la biología, o simplemente para aprender más sobre la materia. Si quieres estudiar para un examen o simplemente aprender más sobre este tema, ¡descarga este programa!"
+
+#: content/Default/apps/content.json.h:28
+msgctxt "title"
+msgid "Client Services Courses"
+msgstr "Cursos de Servicio al Cliente"
+
+#: content/Default/apps/content.json.h:29
+msgctxt "subtitle"
+msgid "Learn the necessary skills for a job in Servicio al Cliente"
+msgstr "Aprende las habilidades necesarias para un trabajo en Servicio al Cliente"
+
+#: content/Default/apps/content.json.h:30
+msgctxt "description"
+msgid ""
+"Capacítate Para El Empleo is a job skills and work readiness educational "
+"platform published by the Carlos Slim Foundation. Choose from one of ten "
+"courses in the field of Servicio al Cliente, such as bartender or "
+"housecleaner, and complete the series of videos and readings to be on your "
+"way to a new career!"
+msgstr "\"Capacítate para el empleo\" es una plataforma educativa de preparación para el trabajo publicada por la Fundación Carlos Slim. Elije entre diez cursos en el campo de Servicio al Cliente, como cursos para aprender a ser mesero o cajero, y completa la serie de videos y lecturas para estar en camino a una nueva carrera."
+
+#: content/Default/apps/content.json.h:31
+msgctxt "title"
+msgid "Technology courses"
+msgstr "Cursos de tecnología"
+
+#: content/Default/apps/content.json.h:32
+msgctxt "subtitle"
+msgid "Learn the necessary skills for a career in tecnología."
+msgstr "Aprende las habilidades necesarias para una carrera en tecnología"
+
+#: content/Default/apps/content.json.h:33
+msgctxt "description"
+msgid ""
+"Capacítate Para El Empleo is a job skills and work readiness educational "
+"platform published by the Carlos Slim Foundation. Choose from one of "
+"nineteen courses in the field of Tecnologia, such as web developer or "
+"database administrator, and complete the series of videos and readings to be"
+" on your way to a new career!"
+msgstr "\"Capacítate para el empleo\" es una plataforma educativa de preparación para el trabajo publicada por la Fundación Carlos Slim. Elije entre diez cursos en el campo de tecnología, como cursos para aprender a ser desarrollador o técnico en informática, y completa la serie de videos y lecturas para estar en camino a una nueva carrera."
+
+#: content/Default/apps/content.json.h:34
+msgctxt "title"
+msgid "Celebrities"
+msgstr "Celebridades"
+
+#: content/Default/apps/content.json.h:35
+msgctxt "subtitle"
+msgid "Learn more about your favorite celebrities"
+msgstr "Información y chisme sobre los más famosos"
+
+#: content/Default/apps/content.json.h:36
+msgctxt "description"
+msgid ""
+"Whether you’re wondering about the life of your favorite movie or pop star, "
+"or want to know more about the background and formative years of an "
+"important politician, this application can be your guide. Have fun, learn "
+"interesting and juicy facts, and share your knowledge of famous people with "
+"all of your friends!"
+msgstr "¿Te fascina la vida de los famosos? Ahora podrás saber más de tus estrellas favoritas y mantenerte al tanto de lo que hacen. Ya sea que te preguntes sobre la vida de tu estrella de cine favorita o de tu músico favorito, o quieras saber más sobre los orígenes y juventud de un político importante, este programa puede ser tu guía. ¡Diviértete, conoce hechos importantes, noticias jugosas y comparte tus conocimientos sobre los famosos con todos tus amigos!"
+
+#: content/Default/apps/content.json.h:37
+msgctxt "title"
+msgid "Children's Collection"
+msgstr "Colección infantil"
+
+#: content/Default/apps/content.json.h:38
+msgctxt "subtitle"
+msgid "Short stories that will delight the whole family"
+msgstr "Cuentos cortos que les encantarán a toda la familia"
+
+#: content/Default/apps/content.json.h:39
+msgctxt "description"
+msgid ""
+"Read away! Uncover mysteries, laugh, and embark on adventures. Spend time "
+"reading with your children, or let them choose some fun stories to read on "
+"their own. Here you will find stories, poems, and folk tales that everyone "
+"in your family will enjoy. Start reading and let the entertainment unfold."
+msgstr "¡A leer! Resuelve misterios, ríe o embárcate en aventuras. Aprovecha el tiempo leyendo con tus hijos o déjalos leer historias divertidas. Aquí encontrarás historias, poemas y cuentos populares que les gustarán a toda la familia. Comienza a leer, ¡y que comience el entretenimiento!"
+
+#: content/Default/apps/content.json.h:40
+msgctxt "title"
+msgid "Learn English Curriculum"
+msgstr "Aprende inglés"
+
+#: content/Default/apps/content.json.h:41
+msgctxt "subtitle"
+msgid "Primary English curriculum practice"
+msgstr ""
+
+#: content/Default/apps/content.json.h:42
+msgctxt "description"
+msgid ""
+"Practice your elementary English skills with this program. For each topic, "
+"there is a workbook with practice questions as well as answers to check your"
+" work. There are also audio clips so you can improve your listening skills. "
+"The resources in this program have a ton of information and practices to "
+"help you study and succeed in school. If you're a teacher, this app is "
+"perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:43
+msgctxt "title"
+msgid "Math Curriculum"
+msgstr ""
+
+#: content/Default/apps/content.json.h:44
+msgctxt "subtitle"
+msgid "Primary mathematics curriculum practice"
+msgstr ""
+
+#: content/Default/apps/content.json.h:45
+msgctxt "description"
+msgid ""
+"Practice your elementary math skills with this program. For each topic, "
+"there is a workbook with practice questions as well as answers to check your"
+" work. The resources in this program have a ton of information and practices"
+" to help you study and succeed in school. If you're a teacher, this app is "
+"perfect for guiding your class throughout the school year."
+msgstr ""
+
+#: content/Default/apps/content.json.h:46
+msgctxt "title"
+msgid "Cooking"
+msgstr "La cocina"
+
+#: content/Default/apps/content.json.h:47
+msgctxt "subtitle"
+msgid "Delicious recipes and tips for cooking"
+msgstr "Recetas deliciosas y consejos para cocinar mejor"
+
+#: content/Default/apps/content.json.h:48
+msgctxt "description"
+msgid ""
+"Looking to cook something great for your friends and family? This helpful "
+"app features basic cooking instructions and some great recipes. Get helpful "
+"tips about the kitchen, as well as information on how to eat healthily to "
+"keep your body in its best shape. Your loved ones will be glad to share your"
+" cooking creations, and will be impressed with your skills."
+msgstr "¿Quieres cocinar algo espectacular para tus amigos o tu familia? Deja que este programa de cocina sea tu compañera. Aprende técnicas básicas para cocinar y varias recetas deliciosas para practicarlas. Obtén consejos útiles sobre la cocina, e información sobre cómo comer saludablemente para mantener tu cuerpo de la mejor forma posible. Tus seres queridos estarán contentos de compartir tus creaciones culinarias, y los impresionarás con tus habilidades."
+
+#: content/Default/apps/content.json.h:49
+msgctxt "title"
+msgid "Creativity Center"
+msgstr "Centro de creatividad"
+
+#: content/Default/apps/content.json.h:50
+msgctxt "subtitle"
+msgid "Drawing, painting, music, and so much more"
+msgstr "Dibujos, pintura, música y mucho más"
+
+#: content/Default/apps/content.json.h:51
+msgctxt "description"
+msgid ""
+"Get ready to unleash your imagination. Use this app to uncover new skills "
+"and construct innovative objects. Your mind, your hands, and everyday "
+"materials will allow you to create useful tools and even works of art."
+msgstr "Prepárate para liberar tu imaginación. Utiliza este programa para descubrir nuevas habilidades y crear maravillosos objetos con materiales a tu alrededor. Tu mente, tus manos y las cosas que te rodean te permitirán crear herramientas útiles y obras de arte."
+
+#: content/Default/apps/content.json.h:52
+msgctxt "title"
+msgid "Dinosaurs"
+msgstr "Dinosaurios"
+
+#: content/Default/apps/content.json.h:53
+msgctxt "subtitle"
+msgid "Bringing prehistory back to life for you to discover anew"
+msgstr "Regresando la prehistoria a tu vida para que la puedas descubrir nuevamente"
+
+#: content/Default/apps/content.json.h:54
+msgctxt "description"
+msgid ""
+"Dinosaurs first appeared on Earth more than 230 million years ago. They "
+"ruled the planet for millions of years, until a catastrophic extinction "
+"event wiped out almost all of them. Fossils and other findings have taught "
+"us a great deal about these former inhabitants of Earth. This app will "
+"introduce you to these incredible prehistoric creatures. Learn about the "
+"different types of dinosaurs, from fierce carnivores to massive herbivores."
+msgstr "Los dinosaurios aparecieron por primera vez en la Tierra hace más de 230 millones de años. Reinaron en el planeta por millones de años, hasta que una extinción catastrófica los barrió a casi todos. Los fósiles y otros descubrimientos nos han enseñado mucho sobre estos primeros habitantes de la Tierra. Este programa te dará a conocer estas criaturas prehistóricas increíbles. Aprende sobre los diferentes tipos de dinosaurios, desde los feroces carnívoros hasta los herbívoros gigantescos."
+
+#: content/Default/apps/content.json.h:55
+msgctxt "title"
+msgid "Disabilities"
+msgstr "Neces. especiales"
+
+#: content/Default/apps/content.json.h:56
+msgctxt "subtitle"
+msgid "Learn how to provide the best care"
+msgstr "Aprende todo sobre capacidades especiales"
+
+#: content/Default/apps/content.json.h:57
+msgctxt "description"
+msgid ""
+"Learn about the common physical and mental disabilities, and how to take "
+"care of the people in your life who have them. From diagnosis and treatments"
+" to special devices and special care, you'll learn all about how to make the"
+" life of people you know with disabilities easier for them. There will be a "
+"lot of challenges, but with the right care and love, you'll all live a much "
+"happier and satisfying life. "
+msgstr "Aprende sobre las discapacidades físicas y mentales comunes, y de cómo cuidar a las personas en tu vida que las tienen. Desde el diagnóstico y los tratamientos a los dispositivos y cuidados especiales, aprenderás todo acerca de cómo hacer que la vida de las personas que conoces con discapacidades sea más fácil para ellos. Habrá una gran cantidad de desafíos, pero con el cuidado y el amor adecuado, todos van a vivir una vida mucho más feliz y satisfactoria."
+
+#: content/Default/apps/content.json.h:58
+msgctxt "title"
+msgid "DIY"
+msgstr "Manualidades"
+
+#: content/Default/apps/content.json.h:59
+msgctxt "subtitle"
+msgid "Guidelines to create a wide variety of items"
+msgstr "Instrucciones para crear gran variedad de objetos"
+
+#: content/Default/apps/content.json.h:60
+msgctxt "description"
+msgid ""
+"There is nothing you cannot do. With these guidelines your home can become "
+"your very own workshop. From practical tools to decorations and creative "
+"recipes, you can do it yourself! Simply follow these tutorials and create "
+"wonderful items that will surprise your family and friends."
+msgstr "No hay nada que no puedas hacer. Con estas guías, tu hogar se convertirá en tu propio taller. Desde herramientas prácticas hasta recetas creativas, todo lo puedes hacer tú mismo. Simplemente sigue las instrucciones para crear magníficas cosas que sorprenderán a tu familia y amigos.  "
+
+#: content/Default/apps/content.json.h:61
+msgctxt "title"
+msgid "EduCollections"
+msgstr "EduColecciones"
+
+#: content/Default/apps/content.json.h:62
+msgctxt "subtitle"
+msgid "All sorts of information to help better your life"
+msgstr "Todo tipo de información a tu dispocisión con un clic"
+
+#: content/Default/apps/content.json.h:63
+msgctxt "description"
+msgid ""
+"This app is full of reliable information sent directly from the Guatemalan "
+"government to help you live a healthier and more prosperous life. Find "
+"information about cultivating different kinds of crops, tips for mothers "
+"before and after pregnancy, tools for teachers preparing a curriculum, "
+"worksheets for students who want to supplement their classroom learning, "
+"texts to teach the Mayan language, and many great information. This source "
+"of knowledge is ready at your disposal, and can be a useful tool no matter "
+"your age."
+msgstr "Este programa está lleno de información recolectada por el gobierno de Guatemala para ayudarte a vivir una vida más sana y próspera. Encontrarás información sobre el cultivo de diferentes tipos de plantas, consejos para las madres antes y después del embarazo, herramientas útiles para la preparación de un plan de estudio, hojas de trabajo para los estudiantes, textos que enseñan la lengua maya y mucha más información. Esta fuente de conocimiento está disponible para cuando la necesites."
+
+#: content/Default/apps/content.json.h:64
+msgctxt "title"
+msgid "Encyclopedia"
+msgstr "Enciclopedia"
+
+#: content/Default/apps/content.json.h:65
+msgctxt "subtitle"
+msgid "The free encyclopedia that anyone can contribute to"
+msgstr "La enciclopedia más grande del mundo"
+
+#: content/Default/apps/content.json.h:66
+msgctxt "description"
+msgid ""
+"Whether you’re online or offline, you want access to the world’s biggest "
+"encyclopedia - Wikipedia. This app is an invaluable resource for students, "
+"teachers, and anyone who wants to learn more about the world around them. "
+"Use this app to research things for school, find out about world events, and"
+" much, much more. You’ll learn more than you ever thought possible with "
+"access to the Internet's greatest informational resource - and all for free!"
+msgstr "Accede a la mayor enciclopedia del mundo, Wikipedia, para aprender acerca de casi cualquier tema que te imagines, ¡con o sin conexión al Internet! Este programa es un recurso invaluable para estudiantes, maestros o cualquier persona que quiera aprender. Investiga cosas para tus tareas, aprende sobre eventos mundiales y mucho, mucho más. Sólo busca el tema que quieras y podrás leer artículos relacionados y seguir enlaces a otras páginas o temas relacionados. ¡Podrás aprender más de lo que jamás habías imaginado!"
+
+#: content/Default/apps/content.json.h:67
+msgctxt "title"
+msgid "Entrepreneurship"
+msgstr "Emprendedor"
+
+#: content/Default/apps/content.json.h:68
+msgctxt "subtitle"
+msgid "Business advice for your inner entrepreneur"
+msgstr "Consejos de negocios para emprendedores"
+
+#: content/Default/apps/content.json.h:69
+msgctxt "description"
+msgid ""
+"Interested in new ventures? Want to launch your own business? This app will "
+"help you learn about business plans and financing. You can also discover "
+"emerging entrepreneurial ideas, market trends, and the best practices to "
+"improve operations. Access these materials and transform your business ideas"
+" into reality."
+msgstr "¿Te interesan las ideas innovadoras? ¿Deseas comenzar tu propio negocio? Este programa te permitirá aprender acerca de planes de negocios y financiamiento. También te permitirá descubrir ideas emergentes, tendencias del mercado y maneras de mejorar operaciones. Accesa estos artículos y haz que tus ideas empresariales se vuelvan realidad."
+
+#: content/Default/apps/content.json.h:70
+msgctxt "title"
+msgid "Extra"
+msgstr ""
+
+#: content/Default/apps/content.json.h:71
+msgctxt "subtitle"
+msgid "News that affects your day to day"
+msgstr ""
+
+#: content/Default/apps/content.json.h:72
+msgctxt "description"
+msgid ""
+"The most important events and useful information for your day to day, as "
+"well as news about sports and television. The program is updated with the "
+"latest Extra newspaper website news whenever you are connected. The news are"
+" stored on your computer so you can access them whenever you want, even "
+"without internet."
+msgstr ""
+
+#: content/Default/apps/content.json.h:73
+msgctxt "title"
+msgid "Farming"
+msgstr "Agricultura"
+
+#: content/Default/apps/content.json.h:74
+msgctxt "subtitle"
+msgid "Learn about crops and raising animals"
+msgstr "Aprende sobre los cultivos y la cría de animales"
+
+#: content/Default/apps/content.json.h:75
+msgctxt "description"
+msgid ""
+"Farming is both an ancient tradition and a modern, bustling industry. Our "
+"world’s food supply comes from hardworking farmers around the globe. "
+"Learning about this sector of the economy can be fascinating and useful, "
+"especially if you’re interested in providing food for yourself and your "
+"community. This app includes information on farming techniques and "
+"equipment, different types of agriculture, and the careers that exist in "
+"this industry. You’ll learn so much about crops, livestock, and more!"
+msgstr "La agricultura es tanto una tradición antigua como una industria moderna. El suministro de comida del mundo viene de agricultores que trabajan duro alrededor del mundo. Puede ser interesante y útil aprender sobre este sector de la economía, especialmente si tienes interés en producir comida para tu familia y tu comunidad. Este programa contiene información sobre las técnicas, el equipo necesario, los diferentes tipos de agricultura y los empleos que existen dentro de la industria. ¡Aprenderás mucho sobre los cultivos, la ganadería y mucho más!"
+
 #: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "My Budget"
@@ -135,6 +545,528 @@ msgid ""
 "benefit from an organized, clear, and carefully managed financial plan."
 msgstr "Puede ser difícil monitorear y controlar las finanzas tuyas o las de tu familia, pero es extremadamente importante hacerlo. Este programa es el recurso que necesitas para mantener un presupuesto y entender como gastas tu dinero. Estas plantillas hacen la planificación de un presupuesto más fácil, y con los consejos sobre la administración del dinero, podrás hacer buenas decisiones sobre cómo gastar y ahorrar. Tú y tu familia verán la ventaja de tener un plan financiero organizado, claro y administrado con cuidado."
 
+#: content/Default/apps/content.json.h:79
+msgctxt "title"
+msgid "Fitness"
+msgstr "Estado Físico"
+
+#: content/Default/apps/content.json.h:80
+msgctxt "subtitle"
+msgid "Tips for excercise and healthy living"
+msgstr "Consejos para vivir una vida sana"
+
+#: content/Default/apps/content.json.h:81
+msgctxt "description"
+msgid ""
+"We all want to look and feel our best. With this app, you’ll learn how to "
+"exercise safely and effectively. With a range of exercises and routines, as "
+"well as information about keeping yourself safe and preventing injury, "
+"you’ll have your workout on track in no time. This app even features "
+"guidance on how to live a healthy lifestyle."
+msgstr "Todos queremos vernos y sentirnos de lo mejor. Con este programa, aprenderás a ejercitarte de buena forma. Este programa tiene una variedad de ejercicios y rutinas e información para ayudarte a ser sano sin dañarte. ¡Podrás planificar y comenzar tus ejercicios en muy poco tiempo! Este programa te ayudará a tener un estilo de vida muy saludable."
+
+#: content/Default/apps/content.json.h:82
+#: content/Default/apps/content.json.h:85
+#: content/Default/apps/content.json.h:133
+msgctxt "title"
+msgid "Library"
+msgstr "Biblioteca"
+
+#: content/Default/apps/content.json.h:83
+msgctxt "subtitle"
+msgid "Popular classics in foreign languages"
+msgstr "Cuentos clásicos en varios idiomas"
+
+#: content/Default/apps/content.json.h:84
+msgctxt "description"
+msgid ""
+"A collection of literature classics available in foreign languages, "
+"including such renowned authors as Lewis Carrol, Miguel de Cervantes, "
+"Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
+"categorized by language and include texts in English, Spanish, French, and "
+"Italian. "
+msgstr "Una colección de literatura clásica disponible en varios idiomas. Incluye autores renombrados como Lewis Carrol, Miguel de Cervantes, Charles Dickens, William Shakespeare, y Dante Alighieri. Las obras se clasifican por idioma e incluyen textos en inglés, español, francés e italiano."
+
+#: content/Default/apps/content.json.h:86
+msgctxt "subtitle"
+msgid "Classic books in portuguese children, teenagers, and adults"
+msgstr ""
+
+#: content/Default/apps/content.json.h:87
+msgctxt "description"
+msgid ""
+"A collection of literature classics covering more than 70 authors whose "
+"works are in the public domain, including Machado de Assis, Fernando Pessoa,"
+" Lima Barreto and Eça de Queirós. In this library, the PDF books are divided"
+" into the following categories: children, teenagers, classics, brazilian, "
+"and portuguese."
+msgstr ""
+
+#: content/Default/apps/content.json.h:88
+msgctxt "title"
+msgid "High School"
+msgstr "Escuela secundaria"
+
+#: content/Default/apps/content.json.h:89
+msgctxt "subtitle"
+msgid "Academic experiences to improve High School"
+msgstr "Experiencias académicas para mejorar la escuela secundaria"
+
+#: content/Default/apps/content.json.h:90
+msgctxt "description"
+msgid ""
+"In this set of videos produced by TV Escola, the public channel of the "
+"Ministry of Education, experts discuss, from successful experiences, how to "
+"improve the High School experience. In the series With Science, experiences "
+"are shown of how to teach chemistry, physics and biology in a more thought-"
+"provoking and attractive way for students. The program also includes videos "
+"from the series How To Do?, Teacher's Room, and Making School."
+msgstr "En esta colección de videos producidos por TV Escola, el canal público del Ministerio de Educación, los expertos discuten, a partir de experiencias exitosas, cómo mejorar la experiencia de la escuela secundaria. Por ejemplo, en una serie, se muestran experiencias sobre cómo enseñar química, física y biología de manera más estimulante y atractiva para los estudiantes."
+
+#: content/Default/apps/content.json.h:91
+msgctxt "title"
+msgid "History of Brazil"
+msgstr ""
+
+#: content/Default/apps/content.json.h:92
+msgctxt "subtitle"
+msgid "Documentaries about different periods of Brazilian history"
+msgstr ""
+
+#: content/Default/apps/content.json.h:93
+msgctxt "description"
+msgid ""
+"The program brings together a series of videos and programs presented by TV "
+"Escola, the public channel of the Ministry of Education, and which deal with"
+" different periods and aspects of the History of Brazil."
+msgstr ""
+
+#: content/Default/apps/content.json.h:94
+msgctxt "title"
+msgid "Literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:95
+msgctxt "subtitle"
+msgid ""
+"Storytelling for children and the stories of the great masters of literature"
+msgstr ""
+
+#: content/Default/apps/content.json.h:96
+msgctxt "description"
+msgid ""
+"The app brings together two TV Escola series on literature. In Animated "
+"Books, Vanessa Pascale tells different stories to children. The series "
+"Masters of Literature deals with the life and work of great Brazilian "
+"writers, such as Guimarães Rosa, Machado de Assis and Mário de Andrade."
+msgstr ""
+
+#: content/Default/apps/content.json.h:97
+msgctxt "title"
+msgid "Art and Mathematics"
+msgstr ""
+
+#: content/Default/apps/content.json.h:98
+msgctxt "subtitle"
+msgid "Mathematics and its applications in life and in the arts"
+msgstr ""
+
+#: content/Default/apps/content.json.h:99
+msgctxt "description"
+msgid ""
+"This program features videos of three different series produced by TV Escola"
+" and which have mathematics as the guiding thread. The Art and Mathematics "
+"series deals with the relationships between Visual Arts and Music and the "
+"numbers, patterns, shapes and proportions. In the episodes of the series "
+msgstr ""
+
+#: content/Default/apps/content.json.h:100
+msgctxt "title"
+msgid "Portuguese Language"
+msgstr ""
+
+#: content/Default/apps/content.json.h:101
+msgctxt "subtitle"
+msgid "The importance of reading and writing in society"
+msgstr ""
+
+#: content/Default/apps/content.json.h:102
+msgctxt "description"
+msgid ""
+"In this app you will find videos that deal with the importance of writing "
+"and reading to society, as well as practical tips for learning how to speak "
+"and write correctly. The program brings together classic series produced by "
+"TV Escola, the television channel of the Ministry of Education, such as "
+"Nossa Língua Portuguesa (with Professor Pasquale), Orto e Grafia (animation "
+"directed towards children) and programs with tips on teaching writing and "
+"reading for teachers, such as Living Letter and Reading Travel."
+msgstr ""
+
+#: content/Default/apps/content.json.h:103
+msgctxt "title"
+msgid "Where does it come from?"
+msgstr ""
+
+#: content/Default/apps/content.json.h:104
+msgctxt "subtitle"
+msgid "Curiosities about the world with the child character Kika"
+msgstr ""
+
+#: content/Default/apps/content.json.h:105
+msgctxt "description"
+msgid ""
+"In the series Where Does It Come From?, the character Kika has questions "
+"remaining about what happens around him. In a simple, fun and accessible "
+"language, the series produced by TV Escola responds to the girl's curious "
+"questions, who wants to understand the origin and function of electric "
+"power, crying, sneezing and everything else."
+msgstr ""
+
+#: content/Default/apps/content.json.h:106
+msgctxt "title"
+msgid "Geography"
+msgstr "Geografía"
+
+#: content/Default/apps/content.json.h:107
+msgctxt "subtitle"
+msgid "Learn about all the countries in the world"
+msgstr "Aprende acerca de todos los países del mundo"
+
+#: content/Default/apps/content.json.h:108
+msgctxt "description"
+msgid ""
+"The world is an amazing place, and with this app, you’ll learn all about it!"
+" Featuring information on every country in the world, this comprehensive "
+"resource covers major cities, regions, natural features, and more. Closer to"
+" home, you’ll find detailed information about your country, from its towns "
+"and cities to its rivers and mountains. Explore the wonders around you with "
+"this handy app!"
+msgstr "El mundo es un lugar increíble, y con este programa podrás aprender mucho sobre la Tierra. Con información completa de cada país del mundo, este recurso cubre las ciudades más grandes, las regiones, las características naturales y mucho más. Además, encontrarás información con más detalle sobre tu país, desde sus pueblos y ciudades hasta sus ríos y montañas. ¡Explora las maravillas del mundo que te rodean con este programa de geografía!"
+
+#: content/Default/apps/content.json.h:109
+msgctxt "title"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: content/Default/apps/content.json.h:110
+msgctxt "subtitle"
+msgid "Learn more about this beautiful country"
+msgstr "Aprende más sobre este bello país"
+
+#: content/Default/apps/content.json.h:111
+msgctxt "description"
+msgid ""
+"Guatemala has an ancient and fascinating history, but it’s also a modern, "
+"bustling nation with many attractions, cultural events, and important "
+"population centers. Explore articles showcasing areas of Guatemalan life, "
+"art, geography, and culture. You’ll deepen your knowledge of Guatemala so "
+"you can share it with friends and family alike!"
+msgstr "Sabías que el Popol Vuh fue escrito en el siglo XVI y aún se ha preservado? Aprende datos como este, y muchos más, sobre todos los aspectos de Guatemala. Explora el arte, la geografía, y la cultura de este bello país para que puedas compartir lo que aprendas con tus amigos y con tu familia."
+
+#: content/Default/apps/content.json.h:112
+msgctxt "title"
+msgid "Curriculum"
+msgstr "Currículo"
+
+#: content/Default/apps/content.json.h:113
+msgctxt "subtitle"
+msgid "From the Guatemalan Ministry of Education"
+msgstr "Del Ministerio de Educación de Guatemala"
+
+#: content/Default/apps/content.json.h:114
+msgctxt "description"
+msgid ""
+"Here you will find the core curriculum and guidelines for a specific grade, "
+"and find textbooks and worksheets that can guide you in a variety of "
+"subjects. Teachers and parents can read materials to learn how a child's "
+"education should be structured and the important subjects studied in school."
+" Students can find useful textbooks that can help them better understand "
+"what they are learning in class. This app is useful for both students and "
+"teachers, and can make a big difference in your child's life and in your "
+"own!"
+msgstr "Aquí encontrarás el plan básico de estudio y guías para un grado específico, además de libros de texto y cuadernos de ejercicios que te pueden guiar en diversas materias. Maestros y padres pueden leer materiales para aprender cómo debe ser la estructura de la educación de un niño y sobre los temas importantes estudiados en la escuela. Los estudiantes pueden encontrar libros de texto muy convenientes que les pueden ayudar a entender lo que estudian en clase. ¡Esta aplicación es muy útil para estudiantes y maestros, y puede marcar una gran diferencia en la vida de tu hijo y en la tuya! "
+
+#: content/Default/apps/content.json.h:115
+msgctxt "title"
+msgid "Handicrafts"
+msgstr "Artesanías"
+
+#: content/Default/apps/content.json.h:116
+msgctxt "subtitle"
+msgid "Learn how to make the most beautiful handicrafts"
+msgstr "Aprende como hacer las artesanías más bellas"
+
+#: content/Default/apps/content.json.h:117
+msgctxt "description"
+msgid ""
+"With these guides and your creativity you will soon be making the most "
+"beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave "
+"textiles, and more. You can even learn how to recycle materials from around "
+"your home to turn them into new and amazing handicrafts. Use this app to get"
+" started on a new creative project!"
+msgstr "¡Con estas guías y tu creatividad, pronto estarás haciendo las artesanías más bonitas! Aprende carpintería, cómo hacer joyería, cómo hacer textiles, y mucho más. Incluso podrás aprender a usar materiales reciclados que ya tienes en casa para convertirlos en artesanías increíbles. ¡Usa este programa para empezar un nuevo proyecto creativo!"
+
+#: content/Default/apps/content.json.h:118
+msgctxt "title"
+msgid "Health"
+msgstr "Salud"
+
+#: content/Default/apps/content.json.h:119
+msgctxt "subtitle"
+msgid "Keep yourself and loved ones healthy"
+msgstr "Cómo cuidarte a ti y a tus seres queridos"
+
+#: content/Default/apps/content.json.h:120
+msgctxt "description"
+msgid ""
+"Without your health, you can't have anything else. Learn all about various "
+"diseases, medicines, and tips for how to stay healthy by reading some of the"
+" articles in this app. You never know - some of the information here may "
+"help you save your own life or the life of someone you love!"
+msgstr "Sin tu salud, no puedes tener ninguna otra cosa. Aprenda todo acerca de varias enfermedades, medicamentos y consejos sobre cómo mantenerte saludable mediante la lectura de algunos de los artículos de este programa. Nunca se sabe - ¡parte de la información aquí puede ayudarte a salvar tu propia vida o la vida de alguien a quien amas!"
+
+#: content/Default/apps/content.json.h:121
+msgctxt "title"
+msgid "Healthy Living"
+msgstr "Buen Vivir"
+
+#: content/Default/apps/content.json.h:122
+msgctxt "subtitle"
+msgid "Discover what it takes to stay healthy"
+msgstr "Descubre cómo mantener buena salud"
+
+#: content/Default/apps/content.json.h:123
+msgctxt "description"
+msgid ""
+"How can you adopt a healthy lifestlye? There is much you can do for yourself"
+" and your family. This app gives you access to fitness routines, healthy "
+"recipes, nutrition facts, and nearby doctors. Get started today and pursue a"
+" healthier living!"
+msgstr "¿Cómo se puede mantener un estilo de vida saludable? Hay mucho que puedes hacer por ti y tu familia. Este programa ofrece acceso a rutinas de ejercicio, recetas sanas y doctores cercanos. Empieza hoy y consigue una vida más saludable."
+
+#: content/Default/apps/content.json.h:124
+msgctxt "title"
+msgid "Healthy Teeth"
+msgstr "Dientes sanos"
+
+#: content/Default/apps/content.json.h:125
+msgctxt "subtitle"
+msgid "Learn to take care of your teeth"
+msgstr "Aprende a cuidar tus dientes"
+
+#: content/Default/apps/content.json.h:126
+msgctxt "description"
+msgid ""
+"Have you ever had a toothache? Learn how to help make it feel better. Want "
+"to keep your teeth nice and white? Well, try out these tips. Whether it's "
+"learning about mouth diseases and how to prevent them, or just making sure "
+"to keep that beautiful smile, you'll find a lot of useful information in "
+"this app. Download it today and learn all about how to keep your mouth and "
+"teeth healthy and looking great!"
+msgstr "¿Alguna vez has tenido un dolor de muelas? Aprende cómo hacer para que te sientas mejor. ¿Quieres mantener tus dientes blancos y radiantes? Bueno, prueba estos consejos. Ya sea para aprender sobre las enfermedades de la boca y cómo prevenirlas, o simplemente para asegurarte de mantener esa hermosa sonrisa, encontrarás una gran cantidad de información útil en este programa. ¡Descárgalo hoy y aprende todo acerca de cómo mantener la boca y los dientes sanos y deslumbrantes! "
+
+#: content/Default/apps/content.json.h:127
+msgctxt "title"
+msgid "History"
+msgstr "Historia"
+
+#: content/Default/apps/content.json.h:128
+msgctxt "subtitle"
+msgid "Learn about the world's events and civilizations"
+msgstr "Aprende sobre eventos y las civilizaciones del mundo"
+
+#: content/Default/apps/content.json.h:129
+msgctxt "description"
+msgid ""
+"How much do you know about the fall of the Roman Empire? What about the Silk"
+" Road? Who lived in the Americas long ago, and what happened to them? Why "
+"did World War I begin? Download this app and answer every question you have "
+"about the events and personalities that have shaped our modern world, and "
+"learn about the cultures that came before us."
+msgstr "¿Cuánto sabes sobre la caída del Imperio Romano? ¿Y sobre la Ruta de la Seda? ¿Quién vivió en las Américas hace mucho tiempo, y qué les pasó? ¿Por qué empezó la Primera Guerra Mundial? Este programa puede contestar cada pregunta que tengas sobre los eventos y personajes que han cambiado nuestro mundo. También encontrarás información sobre las culturas que vinieron antes que nosotros y dejaron su legado."
+
+#: content/Default/apps/content.json.h:130
+msgctxt "title"
+msgid "How To"
+msgstr "Cómo se hace"
+
+#: content/Default/apps/content.json.h:131
+msgctxt "subtitle"
+msgid "How-to do just about anything by yourself"
+msgstr "Las guías paso a paso más útiles del mundo"
+
+#: content/Default/apps/content.json.h:132
+msgctxt "description"
+msgid ""
+"Are you interested in learning more about taking care of yourself or about "
+"fixing things at home on your own? Are you interested in refinishing "
+"furniture, getting rid of tough stains, growing a healthy vegetable garden, "
+"or learning yoga or other exercises on your own? Whatever you’ve dreamt of "
+"learning how to do, this is the app you need. From crafts to home "
+"improvement, event planning to self-help, you’ll find nearly every topic "
+"imaginable. Each how-to article is easy to access and understand. Soon, you "
+"won’t know how you managed before!"
+msgstr "¿Has querido aprender a tejer o a tener un jardín bello? ¿Tienes interés en restaurar algún mueble, en limpiar una mancha o en crear un plan de acción personalizado para tus metas? Esta es el programa que necesitas para lograr cualquier cosa que has soñado aprender. Oficios, arte, proyectos para mejorar la casa, desarrollo personal... podrás encontrar casi cualquier tema que te imagines. Cada artículo es fácil de encontrar y entender. ¡Pronto te preguntarás cómo podías vivir sin este programa!"
+
+#: content/Default/apps/content.json.h:134
+msgctxt "subtitle"
+msgid "Literary classics for all ages"
+msgstr ""
+
+#: content/Default/apps/content.json.h:135
+msgctxt "description"
+msgid ""
+"A complete library with the great classics of world literature. More than 70"
+" digital books, with options for small children, youth, and adults. You will"
+" have fun with fantastic stories like Gulliver's Travels (Jonathan Swift) or"
+" Around the World in 80 Days (Jules Verne) and the great works of the "
+"Portuguese language's greatest writers, like Machado de Assis and Fernando "
+"Pessoa."
+msgstr ""
+
+#: content/Default/apps/content.json.h:136
+msgctxt "title"
+msgid "Maternity"
+msgstr "Maternidad"
+
+#: content/Default/apps/content.json.h:137
+msgctxt "subtitle"
+msgid "Valuable information for new mothers"
+msgstr "Información valiosa para todas las madres"
+
+#: content/Default/apps/content.json.h:138
+msgctxt "description"
+msgid ""
+"Having a baby is one of the most magical experiences in the world, but it "
+"can also be pretty overwhelming if you don't have access to a doctor or if "
+"you are a new mother and don't know what to expect. Learn about signs that "
+"could be dangerous so you can avoid them, and also about things you should "
+"try through your pregnancy to ensure a healthy birth. Whether you are about "
+"to have your first child, are about to have your tenth child, or are a "
+"midwife that helps other women give birth, you will find relevant "
+"information here that can help!"
+msgstr "Tener un bebé es una de las experiencias más mágicas del mundo, pero también puede ser bastante abrumador si  no tienes acceso a un médico o si eres una madre primeriza y no sabes qué esperar. Aprende acerca de los signos que podrían ser peligrosos para que puedas evitarlos, y también acerca de las cosas que debes tratar a través de tu embarazo para asegurar un parto saludable. Ya sea que estés a punto de tener a tu primer hijo, a punto de tener tu décimo hijo, o eres una partera que ayuda a otras mujeres dar a luz, ¡aquí encontrarás información relevante que te pueda ayudar!"
+
+#: content/Default/apps/content.json.h:139
+msgctxt "title"
+msgid "Math"
+msgstr "Matemáticas"
+
+#: content/Default/apps/content.json.h:140
+msgctxt "subtitle"
+msgid "High school math made simple and accessible"
+msgstr "Matemáticas de educación secundaria accesible"
+
+#: content/Default/apps/content.json.h:141
+msgctxt "description"
+msgid ""
+"Studying high school math doesn’t have to be confusing or dull. This simple "
+"math app will help you master subjects like algebra, geometry, trigonometry,"
+" calculus, and statistics. Strengthen your mathematical reasoning skills and"
+" gain a deeper understanding of whatever math concepts you’re struggling "
+"with. With information for multiple courses all in one place, you can extend"
+" your learning and expand your mind!"
+msgstr "El estudio de las matemáticas de la escuela secundaria no tiene que ser confusa ni aburrida. Este programa de matemáticas te ayudará a dominar temas como álgebra, geometría, trigonometría, cálculo y estadística. Fortalece tus habilidades de razonamiento matemático y obtén una comprensión más profunda de conceptos matemáticos con los cuáles estás luchando. ¡Con información de múltiples cursos en un sólo lugar, puedes ampliar tu aprendizaje y tu mente!"
+
+#: content/Default/apps/content.json.h:142
+msgctxt "title"
+msgid "Mayan Languages"
+msgstr "Idiomas Maya"
+
+#: content/Default/apps/content.json.h:143
+msgctxt "subtitle"
+msgid "Stories and dictionaries in Mayan languages"
+msgstr "Cuentos y diccionarios en los idiomas Mayas"
+
+#: content/Default/apps/content.json.h:144
+msgctxt "description"
+msgid ""
+"Have you ever wanted to study and learn a Mayan language? Whether you're a "
+"beginner or are more advanced, this app contains many great resources. Here "
+"you can find stories, dictionaries, and grammar resources in different Mayan"
+" languages. Get ready to immerse yourself in Mayan culture through all the "
+"history and stories you'll find here!"
+msgstr "¿Alguna vez has querido estudiar y aprender un idioma Maya? Tanto si eres un principiante o un estudiante más avanzado, este programa contiene muchos recursos útiles. Aquí puedes encontrar cuentos, diccionarios y guías gramaticales en diferentes idiomas Mayas. ¡Prepárate para sumergirte en la cultura Maya a través de toda la historia y los cuentos que encontrarás aquí!"
+
+#: content/Default/apps/content.json.h:145
+msgctxt "title"
+msgid "Mental Health"
+msgstr "Salud Mental"
+
+#: content/Default/apps/content.json.h:146
+msgctxt "subtitle"
+msgid "Tips and tricks for living a healthier, happier life"
+msgstr "Consejos y trucos para vivir una vida más sana y feliz"
+
+#: content/Default/apps/content.json.h:147
+msgctxt "description"
+msgid ""
+"Have you ever wanted to be more confident? Feel less stressed? Be more "
+"efficient and productive? Now is your chance! Use this app to learn tips and"
+" tricks for self improvement. Read to discover how your mind works and how "
+"you can better your life."
+msgstr "¿Alguna vez has querido tener más confianza? ¿Sentirte menos estresado? ¿Ser más eficiente y productivo? ¡Ahora es tu oportunidad! Utiliza este programa para aprender consejos y trucos para una vida más sana y feliz. Lee para descubrir cómo funciona tu mente y cómo puedes mejorar tu vida."
+
+#: content/Default/apps/content.json.h:148
+msgctxt "title"
+msgid "Microenterprises"
+msgstr "Microempresas"
+
+#: content/Default/apps/content.json.h:149
+msgctxt "subtitle"
+msgid "Learn to run your own company"
+msgstr "Aprende a ejecutar tu propio negocio"
+
+#: content/Default/apps/content.json.h:150
+msgctxt "description"
+msgid ""
+"Have you dreamed of starting your own company? Learn all about what it will "
+"take to do so! As a small business owner, you'll need to learn how to take "
+"an idea you have and turn it into something profitable, how to manage a "
+"team, how to take care of all of the administrative aspects - and you'll "
+"find a little about all of that here in this app. Prepare yourself to enter "
+"into a world where you are your own boss!"
+msgstr "¿Has soñado con empezar tu propio negocio? ¡Aprende todo acerca de lo que se necesita para hacerlo! Como dueño de un negocio pequeño, tendrás que aprender a convertir una idea en algo beneficioso, cómo dirigir un equipo, cómo cuidar de todos los aspectos administrativos - y encontrarás un poco de todo sobre eso aquí en este programa. ¡Prepárate para entrar a un mundo en el que tú eres tu propio jefe!"
+
+#: content/Default/apps/content.json.h:151
+msgctxt "title"
+msgid "Myths & Legends"
+msgstr "Mitos y leyendas"
+
+#: content/Default/apps/content.json.h:152
+msgctxt "subtitle"
+msgid "Myths and legends from around the world"
+msgstr "Mitos y leyendas de todo el mundo"
+
+#: content/Default/apps/content.json.h:153
+msgctxt "description"
+msgid ""
+"Do you like reading myths, legends and scary stories? This app has some from"
+" all around the world! From Mayan legends to popular Japanese myths, and "
+"scary stories, you're sure to find something that will interest you. Read "
+"all about the creatures, myths, legends, and fables that have shaped "
+"cultures of the past and present all over the world!"
+msgstr "¿Te gusta leer sobre mitos, leyendas o historias de terror? Este programa contiene exactamente eso. Desde leyendas mayas a los mitos populares japoneses, y varias fábulas, podrás explorar textos de todo el mundo y encontrar algo que te interese. ¡Lee todo sobre las criaturas, mitos, leyendas y fábulas que han dado forma a las culturas del pasado y del presente por todo el mundo!"
+
+#: content/Default/apps/content.json.h:154
+msgctxt "title"
+msgid "La Constitución"
+msgstr "La Constitución"
+
+#: content/Default/apps/content.json.h:155
+msgctxt "subtitle"
+msgid "La entera Constitución de la República del Paraguay"
+msgstr "La entera Constitución de la República del Paraguay"
+
+#: content/Default/apps/content.json.h:156
+msgctxt "description"
+msgid ""
+"Con este programa puedes aprender sobre la Constitución de la República del "
+"Paraguay. Los 311 artículos están reproducidos aquí. Un programa perfecto "
+"para estudiantes, docentes y ciudadanos que quieran profundizar su "
+"conocimiento sobre los derechos fundamentales de la República del Paraguay."
+msgstr "Con este programa puedes aprender sobre la Constitución de la República del Paraguay. Los 311 artículos están reproducidos aquí. Un programa perfecto para estudiantes, docentes y ciudadanos que quieran profundizar su conocimiento sobre los derechos fundamentales de la República del Paraguay."
+
 #: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Photo Editor"
@@ -155,6 +1087,50 @@ msgid ""
 "your everyday life. With this handy app, you can post your creations "
 "directly to Facebook, so everyone can see your awesome pictures!"
 msgstr "¿Quieres modificar tus propias fotos como los profesionales y crear lindas imágenes para compartir con tus seres queridos? ¡Ahora puedes hacerlo en unos pocos pasos! Tenemos una variedad de filtros atractivos y artísticos para que personalices tus fotos y hagas obras de arte sobre tu vida diaria. ¡Y con este útil programa, puedes publicar tus fotos directamente en Facebook, para compartirlas con todos tus amigos!"
+
+#: content/Default/apps/content.json.h:160
+msgctxt "title"
+msgid "Physics"
+msgstr "Física"
+
+#: content/Default/apps/content.json.h:161
+msgctxt "subtitle"
+msgid "Learn about the physical world's mysteries"
+msgstr "Aprende sobre los misterios del mundo físico"
+
+#: content/Default/apps/content.json.h:162
+msgctxt "description"
+msgid ""
+"Do you find learning about physics to be difficult? You're not alone. "
+"Physics is one of the most fascinating and challenging scientific "
+"disciplines. Use this app to find exactly what you need to learn, and to "
+"make learning it easier. Whatever your level of understanding, you’ll find "
+"useful information presented in a format you can follow. The app includes "
+"exciting topics like mechanics, thermodynamics, electricity and magnetism, "
+"and even astrophysics. From the atoms to the stars, you’ll learn all about "
+"the world around you, and succeed in your physics education."
+msgstr "¿Piensas que la física es una materia difícil? Pues no eres el único. La física es una de las materias más fascinantes y desafiantes de todas las disciplinas científicas. Utiliza este programa para encontrar exactamente lo que necesitas aprender y hacer que el aprendizaje sea más fácil. Sea cual sea tu nivel de comprensión, encontrarás información útil y presentada en un formato que podrás seguir. El programa incluye temas interesantes, como la mecánica, termodinámica, electricidad y magnetismo, e incluso la astrofísica. Desde los átomos hasta las estrellas, aprenderás todo sobre el mundo que te rodea, y tendrás éxito sobre tu educación en física."
+
+#: content/Default/apps/content.json.h:163
+msgctxt "title"
+msgid "Prensa Libre"
+msgstr "Prensa Libre"
+
+#: content/Default/apps/content.json.h:164
+msgctxt "subtitle"
+msgid "All the news about Guatemala and the world"
+msgstr "Toda la información de Guatemala y el mundo"
+
+#: content/Default/apps/content.json.h:165
+msgctxt "description"
+msgid ""
+"All the latest news and information on sports, culture and entertainment, "
+"politics, and economics, from Guatemala and the world, produced by Prensa "
+"Libre. You will have access to hundreds of articles offline, and when you go"
+" online, you will receive the latest news available. The articles remain "
+"stored on your computer so you can access them later offline at your "
+"convenience."
+msgstr "Todas las últimas noticias e información sobre deporte, cultura, entretenimiento, política y economía de Guatemala y el mundo, producido por Prensa Libre. Tendrás cientos de artículos disponibles aún cuando no tengas internet, y cuando te conectes, se actualizará con todas las últimas noticias. Todos los nuevos artículos quedan almacenados en tu computadora para que puedas leerlos incluso sin conexión al internet, a tu conveniencia."
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -178,6 +1154,34 @@ msgid ""
 "your very own!"
 msgstr "¿Te gustan los videojuegos? ¿Entonces por qué no crear el tuyo? ¡Aprende a programar con este divertido programa que te permite cambiar las reglas de los videojuegos para hacerlos tuyos! Mira lo que sucede cuando cambias líneas de código y progresas a través de niveles para seguir aprendiendo más y más sobre cómo programar. Pronto te darás cuenta de que aprender a programar te permite no sólo cambiar el mundo dentro de tus juegos, ¡sino también el tuyo!"
 
+#: content/Default/apps/content.json.h:169
+msgctxt "title"
+msgid "Programming"
+msgstr "Programación"
+
+#: content/Default/apps/content.json.h:170
+msgctxt "subtitle"
+msgid "Learn the basics of front-end web development with this app"
+msgstr "Aprender a programar para web"
+
+#: content/Default/apps/content.json.h:171
+msgctxt "description"
+msgid ""
+"Have you ever wanted to make websites or explore programming? With this app "
+"you can! Learn the basics of front-end web development with HTML, CSS, and "
+"Javascript."
+msgstr "Aprende HTML, CSS, y JavaScript y programa para el futuro de la web. En este programa aprenderás los conceptos básicos de diseño y programación y estar en tu camino para hacer tu primer sitio web."
+
+#: content/Default/apps/content.json.h:172
+msgctxt "title"
+msgid "Publimetro"
+msgstr "Publimetro"
+
+#: content/Default/apps/content.json.h:173
+msgctxt "subtitle"
+msgid "The global newspaper about breaking news in Mexico and the world"
+msgstr "El periódico sobre noticias de última hora en México y en el mundo"
+
 #: content/Default/apps/content.json.h:177
 msgctxt "title"
 msgid "Résumé"
@@ -200,6 +1204,163 @@ msgid ""
 "your choice."
 msgstr "La mejor manera de impresionar a un potencial empleador es tener un excelente currículum. En este programa encontrarás plantillas útiles y atractivas para ayudarte a construir tu propio currículum. Aprende exactamente qué es un currículum y lo que debería contener, obtén consejos en cada sección, y recibe recomendaciones para prepararte para entrevistas de trabajo. Este programa te puede ayudar a acercarte más al empleo de tu elección."
 
+#: content/Default/apps/content.json.h:180
+msgctxt "title"
+msgid "Football"
+msgstr "Fútbol"
+
+#: content/Default/apps/content.json.h:181
+msgctxt "subtitle"
+msgid "Learn about your favorite team and players"
+msgstr "Aprende más de tu equipo y jugadores favoritos"
+
+#: content/Default/apps/content.json.h:182
+msgctxt "description"
+msgid ""
+"Football is a major sport with fans all around the world. Are you one of "
+"them? Then this is the app for you. It features everything you need to know "
+"about the world’s major teams, players, and competitions. Learn facts about "
+"the game and its history, discover more about the rules, and keep up to date"
+" with thousands of articles about your favorite sport!"
+msgstr "El fútbol es un deporte con aficionados en todo el mundo. ¿Eres uno de ellos? Este programa tiene todo lo que necesitas saber acerca de los mejores equipos del mundo, tus jugadores favoritos y todos los torneos en que participan. Aprende hechos acerca del juego y su historia, descubre la complejidad de las reglas, ¡y mantente al tanto con miles de artículos acerca de tu deporte favorito!"
+
+#: content/Default/apps/content.json.h:183
+msgctxt "title"
+msgid "Social Enterprises"
+msgstr "Empresas sociales"
+
+#: content/Default/apps/content.json.h:184
+msgctxt "subtitle"
+msgid "All about non-profit organizations"
+msgstr "Todo sobre las empresas sociales"
+
+#: content/Default/apps/content.json.h:185
+msgctxt "description"
+msgid ""
+"Have you thought of starting your own non-profit organization, or of joining"
+" one? Non-profits enjoy special tax benefits, and are generally created to "
+"make a real social impact. Read these guides to understand more about the "
+"non-profit structure and how to operate them so that you can begin making "
+"your impact in the world even larger!"
+msgstr "¿Has pensado en empezar tu propia empresa social, o de unirte a una? Las empresas sociales gozan de beneficios tributarios especiales, y se crean generalmente para hacer un impacto social. ¡Lee estas guías para entender más acerca de la estructura de empresas sociales y de cómo operarlas para que puedas comenzar a hacer que tu impacto en el mundo sea más grande!"
+
+#: content/Default/apps/content.json.h:186
+msgctxt "title"
+msgid "Social Sciences"
+msgstr "Ciencias sociales"
+
+#: content/Default/apps/content.json.h:187
+msgctxt "subtitle"
+msgid "Subjects that explore the individual and society"
+msgstr "Materias que exploran el individuo y la sociedad"
+
+#: content/Default/apps/content.json.h:188
+msgctxt "description"
+msgid ""
+"Human beings and the relationships and societies they form are complicated. "
+"This app will introduce you to many of the disciplines that examine human "
+"history, cultures, and interactions. You’ll have access to the basics of "
+"psychology, sociology, anthropology, political science, and more. "
+"Understanding the fundamentals of such disciplines will help you navigate "
+"the ways we interact and relate to each other. You’ll come away with a rich "
+"understanding of human behavior."
+msgstr "Los seres humanos y las relaciones y sociedades que forman son complejos. Este programa te dará a conocer muchas de las disciplinas que examinan la historia, las culturas y las interacciones de los seres humanos. Tendrás acceso a la información fundamental de la psicología, sociología, antropología, ciencia política y más. Entendiendo los fundamentos de cada disciplina te ayudará a navegar los modos en que interactuamos y nos relacionamos los unos con los otros. Saldrás con un profundo conocimiento del comportamiento de los seres humanos."
+
+#: content/Default/apps/content.json.h:189
+msgctxt "title"
+msgid "Noticias Soy502"
+msgstr "Noticias Soy502"
+
+#: content/Default/apps/content.json.h:190
+msgctxt "subtitle"
+msgid "Espacio informativo de referencia sobre Guatemala"
+msgstr "Espacio informativo de referencia sobre Guatemala"
+
+#: content/Default/apps/content.json.h:191
+msgctxt "description"
+msgid ""
+"502 es el código de área que identifica a Guatemala. Soy 502 es un espacio "
+"para guatemaltecos, los que viven en el país y los que estudian o trabajan "
+"en el extranjero pero no olvidan sus raíces. Información de referencia de "
+"actualidad y entretenimiento para todos los públicos."
+msgstr "502 es el código de área que identifica a Guatemala. Soy 502 es un espacio para guatemaltecos, los que viven en el país y los que estudian o trabajan en el extranjero pero no olvidan sus raíces. Información de referencia de actualidad y entretenimiento para todos los públicos."
+
+#: content/Default/apps/content.json.h:192
+msgctxt "title"
+msgid "Diccionario Guaraní"
+msgstr "Diccionario Guaraní"
+
+#: content/Default/apps/content.json.h:193
+msgctxt "subtitle"
+msgid "Diccionario bilingüe de Castellano-Guaraní y Guaraní-Castellano"
+msgstr "Diccionario bilingüe de Castellano-Guaraní"
+
+#: content/Default/apps/content.json.h:194
+msgctxt "description"
+msgid ""
+"Este diccionario bilingüe Castellano-Guaraní y Guaraní-Castellano es muy "
+"didáctico, pues está especialmente desarrollado para los estudiantes y "
+"docentes. Se rige por estrictas normas de la educación básica. Cuenta con "
+"indicación de la categoría gramatical (adj., s., v.,) y con 8.132 entradas."
+msgstr "Este diccionario bilingüe Castellano-Guaraní y Guaraní-Castellano es muy didáctico y está desarrollado tanto para estudiantes como para maestros. Cuenta con indicación de la categoría gramatical (adj., s., v.,) y con 8,132 entradas podrás encontrar casí cualquiera palabra que te imagines. "
+
+#: content/Default/apps/content.json.h:195
+msgctxt "title"
+msgid "Child Education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:196
+msgctxt "subtitle"
+msgid "Suggestions for classes for child education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:197
+msgctxt "description"
+msgid ""
+"Improve the class curriculum of child education with various suggestions for"
+" class plans produced by teachers from all across the country and delivered "
+"by the Professor Portal from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:198
+msgctxt "title"
+msgid "Professional Education"
+msgstr "Educación profesional"
+
+#: content/Default/apps/content.json.h:199
+msgctxt "subtitle"
+msgid "Suggestions for classes for professional education"
+msgstr ""
+
+#: content/Default/apps/content.json.h:200
+msgctxt "description"
+msgid ""
+"Enrich your Professional Education class with suggestions for elaborate "
+"lesson plans from teachers all across the country, using the collaborative "
+"Professor Portal platform from the Ministry of Education."
+msgstr ""
+
+#: content/Default/apps/content.json.h:201
+msgctxt "title"
+msgid "Textbooks"
+msgstr "Libros de texto"
+
+#: content/Default/apps/content.json.h:202
+msgctxt "subtitle"
+msgid "Math and science textbooks"
+msgstr "Libros de texto sobre matemáticas y ciencia"
+
+#: content/Default/apps/content.json.h:203
+msgctxt "description"
+msgid ""
+"Find information to help you with your homework, or learn about a subject "
+"you've always wanted to know more about! You can scroll through photos, "
+"tables, and graphs to learn more about each. Not only are these textbooks "
+"very thorough and informative, but they are also easy to read and helpful. "
+"Whether you’re a student, parent, teacher, or just someone eager to learn, "
+"you'll be sure to find something interesting and useful here!"
+msgstr "¡Encuentra información que te ayudará con tu tarea, o aprende acerca de un tema de que siempre has querido saber más! Puedes navegar por todas las fotografías, tablas, y gráficos para aprender más acerca de cada uno. Estos libros de texto no sólo son muy completos e informativos, pero también son fáciles de leer y útiles. Si eres estudiante, padre, maestro o simplemente alguien con ganas de aprender, ¡encontrarás algo interesante y útil aquí!"
+
 #: content/Default/apps/content.json.h:204
 msgctxt "title"
 msgid "Translate"
@@ -220,6 +1381,27 @@ msgid ""
 "use it to help you make new international connections – and even new friends"
 " – with the world’s languages at your fingertips.  **Requires internet"
 msgstr "Con este programa puedes entender y ser entendido en casi cualquier idioma con tan solo un clic. El programa requiere una conexión al Internet, pero es bella y muy fácil de usar. Accede a más información, y hasta a nuevas amistades al poder comunicarte en cualquier idioma del mundo.   **Requiere internet"
+
+#: content/Default/apps/content.json.h:207
+msgctxt "title"
+msgid "Travel"
+msgstr "¡Explora!"
+
+#: content/Default/apps/content.json.h:208
+msgctxt "subtitle"
+msgid "Travel around the world from your living room"
+msgstr "Explora los lugares más populares del mundo"
+
+#: content/Default/apps/content.json.h:209
+msgctxt "description"
+msgid ""
+"The world is an amazing and beautiful place! Start exploring it with this "
+"cool application that lets you see pictures and learn facts about areas from"
+" all over the world. It features information on major sites in places like "
+"the Americas, Europe, Asia and beyond. Learn about natural wonders, explore "
+"new cultures, and discover some of the most important and holy religious "
+"sites in the world!"
+msgstr "¡El mundo es un lugar bello y extraordinario! Comienza a explorarlo con este programa que te permite ver fotos y aprender acerca de lugares y monumentos de todas partes del mundo. Contiene información acerca de los mayores atractivos en las Américas, Europa, Asia y más. ¡Conoce las maravillas naturales, explora nuevas culturas y descubre algunos de los sitios más importantes del mundo!"
 
 #: content/Default/apps/content.json.h:210
 msgctxt "title"
@@ -242,6 +1424,25 @@ msgid ""
 "family, and the world!  ** Requires internet"
 msgstr "Buscar videos en la página web popular, YouTube, y compartirlos con familia y amigos ahora es más fácil que nunca. Ve videos de tus artistas favoritos, cursos para aprender casi cualquier cosa, chistes, animales lindos y mucho más. ¡Te divertirás por horas y podrás compartir todo lo que encuentres con tus amigos, familia y el mundo entero!  **Requiere internet"
 
+#: content/Default/apps/content.json.h:213
+msgctxt "title"
+msgid "Sanitation"
+msgstr "Saneamiento"
+
+#: content/Default/apps/content.json.h:214
+msgctxt "subtitle"
+msgid "All about clean water and sanitation"
+msgstr "Sobre el agua potable y el saneamiento"
+
+#: content/Default/apps/content.json.h:215
+msgctxt "description"
+msgid ""
+"Drinking clean water is essential for survival. There can often be terrible "
+"diseases that can infect you through bad water, or by having bad sanitation "
+"around you. Learn how to make sure you drink clean water, and how to ensure "
+"that you create a sanitary environment around you where you can thrive. "
+msgstr "Beber agua limpia es esencial para la supervivencia. A menudo hay terribles enfermedades que te pueden infectar a través de agua en mal estado, o por tener mal saneamiento a tu alrededor. Aprende cómo asegurarte de beber agua limpia, y cómo asegurarte de que se crea un ambiente limpio a tu alrededor donde se pueda prosperar."
+
 #: content/Default/apps/content.json.h:216
 msgctxt "title"
 msgid "Weather"
@@ -261,6 +1462,47 @@ msgid ""
 "rain? Is it a perfect day to spend outdoors? Learn all you need to know "
 "about the weather to take advantage of your day!  **Requires internet"
 msgstr "¿Cómo está el tiempo? Responde a esta pregunta fácilmente, todos los días, con un solo clic. Este sencillo programa te permite ver lo que está pasando justo afuera de tu casa. ¿Hará frío? ¿Debes prepararte para la lluvia? ¿Es un día perfecto para pasarlo al aire libre? ¡Infórmate sobre todo lo que necesitas saber acerca del clima para aprovechar tu día!  **Requiere internet"
+
+#: content/Default/apps/content.json.h:219
+msgctxt "title"
+msgid "World Literature"
+msgstr "Literatura"
+
+#: content/Default/apps/content.json.h:220
+msgctxt "subtitle"
+msgid "Read all of the world's great literature"
+msgstr "Lee toda la gran literatura del mundo"
+
+#: content/Default/apps/content.json.h:221
+msgctxt "description"
+msgid ""
+"Find some of your favorite books in this app! To begin browsing, open the "
+"folder, click the 'Index' file, and select the genre that interests you "
+"most. You'll find some of the most famous books written, including modern "
+"wonders that are sure to peak your interest. This virtual library has an "
+"astouding collection of novels, poems, biographies, stories, and other "
+"texts. Whether you find your favorite book or discover a new one, you'll be "
+"entertained for hours expanding your literary knowledge."
+msgstr "¡Encuentra algunos de tus libros favoritos en este programa! Para comenzar tu búsqueda, abre la carpeta, haz clic en el archivo 'Index', y selecciona el género que más te interese. Encontrarás algunos de los libros más famosos del mundo, incluyendo maravillas modernas que seguramente te interesarán. Esta biblioteca virtual tiene una colección estupenda de novelas, poemas, biografías, cuentos y otros textos. De seguro encontrarás tu libro favorito o descubrirás uno nuevo que te gustará. Te entretendrás durante horas y expandirás profundamente tu conocimiento literario."
+
+#: content/Default/apps/content.json.h:222
+msgctxt "title"
+msgid "Your Health"
+msgstr "Tu salud"
+
+#: content/Default/apps/content.json.h:223
+msgctxt "subtitle"
+msgid "Health, nutrition, and well-being in one click"
+msgstr ""
+
+#: content/Default/apps/content.json.h:224
+msgctxt "description"
+msgid ""
+"Health care for the whole family with information about disease prevention, "
+"nutrition, and well-being. This application also provides information about "
+"vaccination and how to use the services available in the Unified Health "
+"System. Content developed by the medical team at the sautil.com.br portal"
+msgstr ""
 
 #: content/Default/apps/content.json.h:225
 msgctxt "title"
