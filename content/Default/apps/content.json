@@ -5034,6 +5034,28 @@
     "tryexec": ""
   },
   {
+    "application-id": "org.mozilla.firefox",
+    "category": "Utility;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Firefox is one of the world's most popular web browsers. If you have trouble with websites that require Java support, try Firefox. ** Requires internet",
+    "displayShape": "b1",
+    "exec": "firefox-wrapper %u",
+    "featured_img": "",
+    "icon": "org.mozilla.firefox-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "org.mozilla.firefox-thumb.jpg",
+    "subtitle": "Mozilla's popular web browser",
+    "title": "Firefox",
+    "tryexec": "firefox"
+  },
+  {
     "application-id": "org.openarena.Openarena",
     "category": "Game;",
     "core": false,
@@ -5350,6 +5372,28 @@
     "subtitle": "A fun drawing app for kids",
     "title": "Tux Paint",
     "tryexec": ""
+  },
+  {
+    "application-id": "org.videolan.App",
+    "category": "AudioVideo;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
+    "displayShape": "b1",
+    "exec": "vlc.sh",
+    "featured_img": "",
+    "icon": "org.videolan.app-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "org.videolan.app-thumb.jpg",
+    "subtitle": "Media player from VideoLAN",
+    "title": "VLC",
+    "tryexec": "vlc"
   },
   {
     "application-id": "org.wesnoth.Wesnoth",

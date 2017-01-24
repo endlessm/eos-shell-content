@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=VLC
+Comment=Media player from VideoLAN
+Type=Application
+Exec=vlc.sh
+TryExec=vlc
+Icon=eos-app-org.videolan.App
+Categories=AudioVideo;
+X-Endless-LaunchMaximized=true

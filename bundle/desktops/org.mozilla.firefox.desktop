@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Firefox
+Comment=Mozilla's popular web browser
+Type=Application
+Exec=firefox-wrapper %u
+TryExec=firefox
+Icon=eos-app-org.mozilla.firefox
+Categories=Utility;
+X-Endless-LaunchMaximized=true
