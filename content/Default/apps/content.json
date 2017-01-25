@@ -5034,7 +5034,7 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.mozilla.firefox",
+    "application-id": "org.mozilla.Firefox",
     "category": "Utility;",
     "core": false,
     "custom-splash-screen": "",
@@ -5374,7 +5374,7 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.videolan.App",
+    "application-id": "org.videolan.VLC",
     "category": "AudioVideo;",
     "core": false,
     "custom-splash-screen": "",
@@ -5382,7 +5382,7 @@
     "displayShape": "b1",
     "exec": "vlc.sh",
     "featured_img": "",
-    "icon": "org.videolan.app-icon.png",
+    "icon": "org.videolan.vlc-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -5390,7 +5390,7 @@
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "org.videolan.app-thumb.jpg",
+    "square_img": "org.videolan.vlc-thumb.jpg",
     "subtitle": "Media player from VideoLAN",
     "title": "VLC",
     "tryexec": "vlc"

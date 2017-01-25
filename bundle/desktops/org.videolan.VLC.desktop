@@ -5,6 +5,6 @@ Comment=Media player from VideoLAN
 Type=Application
 Exec=vlc.sh
 TryExec=vlc
-Icon=eos-app-org.videolan.App
+Icon=eos-app-org.videolan.VLC
 Categories=AudioVideo;
 X-Endless-LaunchMaximized=true
