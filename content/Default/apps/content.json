@@ -2611,6 +2611,32 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.mojang.Minecraft",
+    "category": "Game;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Join people all of the world playing Minecraft, one of the most popular videogames around! Your own imagination is the limit in this fun game where you get to build the world around you. Play with friends, or alone, as you adventure, gather, build, and battle in an incredible land of your very own. For the best experience, we recommend you create an account and purchase online at https://minecraft.net/en-us/store/ before installing this app. ** Requires internet.",
+    "displayShape": "b1",
+    "exec": "minecraft",
+    "featured_img": "",
+    "icon": "com.mojang.minecraft-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.mojang.minecraft-screenshot1.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.mojang.minecraft-thumb.jpg",
+    "subtitle": "Create your own world in one of the most popular video games",
+    "title": "Minecraft",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.spotify.Client",
     "category": "AudioVideo;",
     "core": false,
@@ -5048,7 +5074,11 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "org.mozilla.firefox-screenshot1.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "org.mozilla.firefox-thumb.jpg",
     "subtitle": "Mozilla's popular web browser",
@@ -5378,9 +5408,9 @@
     "category": "AudioVideo;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
+    "description": "VLC is a free and open source multimedia player that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various internet streaming protocols. If you're having trouble viewing your videos on other multimedia players, try VLC since it has some of the best video playback support abilities out there.",
     "displayShape": "b1",
-    "exec": "vlc.sh",
+    "exec": "vlc",
     "featured_img": "",
     "icon": "org.videolan.vlc-icon.png",
     "is_featured": false,
@@ -5388,12 +5418,16 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "org.videolan.vlc-screenshot1.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "org.videolan.vlc-thumb.jpg",
-    "subtitle": "Media player from VideoLAN",
+    "subtitle": "Play videos with this popular media player",
     "title": "VLC",
-    "tryexec": "vlc"
+    "tryexec": ""
   },
   {
     "application-id": "org.wesnoth.Wesnoth",

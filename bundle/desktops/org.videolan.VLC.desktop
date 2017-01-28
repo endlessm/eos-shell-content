@@ -1,10 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Name=VLC
-Comment=Media player from VideoLAN
+Name[es]=VLC
+Name[pt_BR]=VLC
+Comment=Play videos with this popular media player
+Comment[es]=Un reproductor popular de videos
+Comment[pt_BR]=Programa popular para assistir à arquivos de vídeo
 Type=Application
-Exec=vlc.sh
-TryExec=vlc
+Exec=vlc
 Icon=eos-app-org.videolan.VLC
 Categories=AudioVideo;
 X-Endless-LaunchMaximized=true

@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Firefox
+Name[es]=Firefox
+Name[pt_BR]=Firefox
 Comment=Mozilla's popular web browser
+Comment[es]=El navegador popular de Mozilla
+Comment[pt_BR]=O famoso navegador da Mozilla
 Type=Application
 Exec=firefox-wrapper %u
 TryExec=firefox

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Minecraft
+Name[es]=Minecraft
+Name[pt_BR]=Minecraft
+Comment=Create your own world in one of the most popular video games
+Comment[es]=Crea tu propio mundo en este videojuego popular
+Comment[pt_BR]=Crie seu próprio mundo em um dos videogames mais populares
+Type=Application
+Exec=minecraft
+Icon=eos-app-com.mojang.Minecraft
+Categories=Game;
+X-Endless-LaunchMaximized=true
