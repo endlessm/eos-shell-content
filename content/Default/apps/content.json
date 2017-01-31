@@ -976,6 +976,138 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.fnde_mec_culture_studies",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In these two series that reflect the cultural plurality of Brazil, testimonies of Brazilian Indians and also of foreigners who chose to live in Brazil",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_culture_studies",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_culture_studies-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_culture_studies-thumb.jpg",
+    "subtitle": "Testimonials of Brazilian and foreign Indians living in Brazil",
+    "title": "Culture Studies",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_education",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This program brings together different series of videos that School TV shows that deal with school organization and planning. Topics such as school fellowship, the creation of student assemblies, parental involvement, and evaluations, among others, are dealt with from real examples and interviews with students and teachers.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_education",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_education-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_education-thumb.jpg",
+    "subtitle": "Organization and school planning in a series of videos for educators",
+    "title": "Escola Education",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_ethics",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In this series of programs presented by TV Escola, the public channel of the Ministry of Education, topics such as violence in schools, use of weapons, sexual violence and human rights are addressed.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_ethics",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_ethics-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_ethics-thumb.jpg",
+    "subtitle": "The series discusses problems caused by violence, arms, and drugs.",
+    "title": "Human Rights",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_future_education",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "In this application, you will be able to watch the episodes of the program Salto para o Futuro, from TV Escola, the public channel of the Ministry of Education. The program discusses with specialists and personalities the main issues related to Brazilian education and the daily life of schools, including successful experiences and innovative initiatives in the area of Education.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_future_education",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_future_education-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_future_education-thumb.jpg",
+    "subtitle": "Main topics related to Education in debate",
+    "title": "Jump to the Future Education",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_geography",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "S\u00e9rie TV shows the geographic and environmental wealth of Brazil, on a trip through some of its most important urban and natural landscapes.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_geography",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_geography-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_geography-thumb.jpg",
+    "subtitle": "Travel through the most beautiful landscapes of Brazil",
+    "title": "Momento Brasil",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_health",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "The Gera\u00e7\u00e3o Sa\u00fade series is aimed at youngsters of primary and secondary education and deals with health and prevention issues. In this first series, the focus is on skin health, addressing acne, sun effects, blemishes, skin cancer and leprosy. The series is enriched with the sequences of the Virtual Man Project (human body in 3D) on each of the themes presented. Gera\u00e7\u00e3o Sa\u00fade is a production of TV Escola in partnership with the Ministry of Health.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_health",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_health-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_health-thumb.jpg",
+    "subtitle": "Understand and learn how to prevent acne, sun spots and other skin diseases",
+    "title": "Health Generation",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.fnde_mec_high_school",
     "category": "Education;",
     "core": false,
@@ -1108,6 +1240,28 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.fnde_mec_physical_education",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "The School Sport Series gives tips on physical education and sports content for teachers in videos produced by TV Escola, the public channel of the Ministry of Education. The program also includes short videos about sports and movement produced by the Roquete Pinto Foundation.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_physical_education",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_physical_education-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_physical_education-thumb.jpg",
+    "subtitle": "Teacher-oriented program to enrich Physical Education classes",
+    "title": "Sports at School",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.fnde_mec_portuguese",
     "category": "Education;",
     "core": false,
@@ -1171,6 +1325,28 @@
     "square_img": "com.endlessm.fnde_mec_science-thumb.jpg",
     "subtitle": "Curiosities about the world with the child character Kika",
     "title": "Where does it come from?",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.fnde_mec_special_education",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "This program brings two series of videos produced by FNDE and shown by TV Escola, the public channel of the Ministry of Education: one about physical disabilities and another about intellectual disabilities. The topics are addressed through personal testimonies about challenges faced during the school career and life in general.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.fnde_mec_special_education",
+    "featured_img": "",
+    "icon": "com.endlessm.fnde_mec_special_education-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.fnde_mec_special_education-thumb.jpg",
+    "subtitle": "Challenges and opportunities for people with physical and intellectual disabilities.",
+    "title": "Special Education",
     "tryexec": ""
   },
   {
