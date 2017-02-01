@@ -2360,6 +2360,72 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.teachers_portal_fundamental_final",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Fundamental 2",
+    "displayShape": "b1",
+    "exec": "com.endlessm.teachers_portal_fundamental_final",
+    "featured_img": "",
+    "icon": "com.endlessm.teachers_portal_fundamental_final-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.teachers_portal_fundamental_final-thumb.jpg",
+    "subtitle": "Final elementary school",
+    "title": "Fundamental 2",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.teachers_portal_fundamental_initial",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": " Fundamental 1",
+    "displayShape": "b1",
+    "exec": "com.endlessm.teachers_portal_fundamental_initial",
+    "featured_img": "",
+    "icon": "com.endlessm.teachers_portal_fundamental_initial-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.teachers_portal_fundamental_initial-thumb.jpg",
+    "subtitle": "Elementary school",
+    "title": "Fundamental 1",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.teachers_portal_high_school",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Ideas of classes to complement the teaching of the disciplines of High School elaborated by professors of different parts of Brazil, through the collaborative platform of the Portal of the Teacher, of the Ministry of Education.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.teachers_portal_high_school",
+    "featured_img": "",
+    "icon": "com.endlessm.teachers_portal_high_school-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.teachers_portal_high_school-thumb.jpg",
+    "subtitle": "Suggestions for classes for high school subjects Suggestions Definitions of suggestion noun an idea ",
+    "title": "High School",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.teachers_portal_kindergarten",
     "category": "Education;",
     "core": false,
