@@ -1,0 +1,57 @@
+{
+  "desktop" : [
+    "chromium-browser.desktop",
+    "org.gnome.Nautilus.desktop",
+    "libreoffice-writer.desktop",
+    "rhythmbox.desktop",
+    "com.endlessm.photos.desktop",
+    "com.endlessm.encyclopedia.vi.desktop",
+    "net.minetest.Minetest.desktop",
+    "com.endlessm.videonet.desktop",
+    "eos-folder-media.directory",
+    "eos-folder-games.directory",
+    "eos-folder-work.directory",
+    "eos-folder-curiosity.directory",
+    "eos-folder-social.directory"
+  ],
+  "eos-folder-media.directory" : [
+    "shotwell.desktop",
+    "org.gnome.Totem.desktop",
+    "net.sourceforge.Audacity.desktop",
+    "org.tuxpaint.Tuxpaint.desktop",
+    "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-games.directory" : [
+    "net.sourceforge.Supertuxkart.desktop",
+    "de.billardgl.Billardgl.desktop",
+    "org.seul.Pingus.desktop",
+    "org.debian.alioth.tux4kids.Tuxmath.desktop",
+    "net.gcompris.Gcompris.desktop",
+    "org.debian.alioth.tux4kids.Tuxtype.desktop",
+    "kde4-org.kde.Ktuberling.desktop",
+    "org.maemo.Numptyphysics.desktop",
+    "org.debian.Tuxpuck.desktop",
+    "net.sourceforge.Rili.desktop",
+    "com.teeworlds.Teeworlds.desktop",
+    "net.sourceforge.Extremetuxracer.desktop",
+    "net.sourceforge.Warmux.desktop"
+  ],
+  "eos-folder-work.directory" : [
+    "libreoffice-calc.desktop",
+    "libreoffice-impress.desktop",
+    "gnome-calculator.desktop",
+    "com.endlessm.finance.desktop",
+    "com.endlessm.resume.desktop",
+    "com.endlessm.translation.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "kde4-org.kde.Marble.desktop",
+    "eos-link-duolingo.desktop"
+  ],
+  "eos-folder-social.directory" : [
+    "eos-link-facebook.desktop",
+    "eos-link-whatsapp.desktop",
+    "evolution.desktop",
+    "eos-link-gmail.desktop"
+  ]
+}
