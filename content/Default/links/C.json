@@ -490,8 +490,8 @@
         "linkSmall": "images/google.jpg",
         "linkSubtitle": "Search the world's information",
         "linkThumb": "thumbs/",
-        "linkThumbSize": "Square",
-        "linkUrl": "http://www.google.com/"
+        "linkThumbSize": "Horizontal rectangle",
+        "linkUrl": "https://www.google.com/"
       },
       {
         "linkCategory": "Entertainment",
@@ -533,7 +533,7 @@
         "linkSubtitle": "Capture and share pictures",
         "linkThumb": "thumbs/",
         "linkThumbSize": "Square",
-        "linkUrl": "http://instagram.com"
+        "linkUrl": "https://www.instagram.com/"
       },
       {
         "linkCategory": "Entertainment",
@@ -560,7 +560,7 @@
         "linkSmall": "images/nationalgeographic.jpg",
         "linkSubtitle": "Articles, photos & videos about the world",
         "linkThumb": "thumbs/",
-        "linkThumbSize": "Square",
+        "linkThumbSize": "Vertical rectangle",
         "linkUrl": "http://www.nationalgeographic.com"
       },
       {
@@ -589,7 +589,7 @@
         "linkSubtitle": "Discover ideas for your projects and interests",
         "linkThumb": "thumbs/",
         "linkThumbSize": "Square",
-        "linkUrl": "http://www.pinterest.com/"
+        "linkUrl": "https://www.pinterest.com/"
       },
       {
         "linkCategory": "Entertainment",
@@ -658,8 +658,8 @@
         "linkSmall": "images/youtube.jpg",
         "linkSubtitle": "Video",
         "linkThumb": "thumbs/",
-        "linkThumbSize": "Square",
-        "linkUrl": "http://www.youtube.com/"
+        "linkThumbSize": "Vertical rectangle",
+        "linkUrl": "https://www.youtube.com/"
       }
     ]
   }
