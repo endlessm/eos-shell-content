@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TaiLieu
+Comment=Thư viện tài liệu công cộng
+Type=Application
+Exec=gvfs-open http://tailieu.vn/
+Icon=eos-link-tailieu
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

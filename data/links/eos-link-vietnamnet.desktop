@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Vietnam Net
+Comment=Công bố thông tin thành lập lâu đời nhất của Việt Nam
+Type=Application
+Exec=gvfs-open http://vietnamnet.vn/
+Icon=eos-link-vietnamnet
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

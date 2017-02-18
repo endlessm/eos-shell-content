@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Khaosod
+Comment=ข่าวไทยและต่างประเทศที่แนะนำ
+Type=Application
+Exec=gvfs-open https://www.khaosod.co.th/
+Icon=eos-link-khaosod
+Categories=News;
+X-Endless-LaunchMaximized=true

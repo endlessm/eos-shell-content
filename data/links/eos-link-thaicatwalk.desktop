@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Thai Catwalk
+Comment=เว็บไซต์แฟชั่นอันดับหนึ่งในประเทศไทย
+Type=Application
+Exec=gvfs-open http://www.thaicatwalk.com/
+Icon=eos-link-thaicatwalk
+Categories=Local;
+X-Endless-LaunchMaximized=true

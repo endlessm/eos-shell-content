@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Tokopedia
+Comment=Membeli dan menjual online
+Type=Application
+Exec=gvfs-open https://www.tokopedia.com/
+Icon=eos-link-tokopedia
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

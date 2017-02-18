@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Karir
+Comment=Dapatkan peluang kerja dan karier terbaru
+Type=Application
+Exec=gvfs-open https://www.karir.com/
+Icon=eos-link-karir
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

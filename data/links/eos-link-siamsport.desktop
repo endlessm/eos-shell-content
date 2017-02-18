@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Siam Sport
+Comment=ข่าวและตารางการแข่งขันฟุตบอลนานาชาติ
+Type=Application
+Exec=gvfs-open http://siamsport.co.th/
+Icon=eos-link-siamsport
+Categories=Sports;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Thanh Niên
+Comment=Tin tức khoa học, y tế và cuộc sống ở Việt Nam
+Type=Application
+Exec=gvfs-open http://thanhnien.vn/
+Icon=eos-link-thanhnien
+Categories=News;
+X-Endless-LaunchMaximized=true

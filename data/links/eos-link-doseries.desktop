@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Doseries
+Comment=ดูหนังออนไลน์
+Type=Application
+Exec=gvfs-open https://www.doseries.com/
+Icon=eos-link-doseries
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

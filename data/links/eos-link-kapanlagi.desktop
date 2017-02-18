@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kapan Lagi
+Comment=Situs web hiburan terbesar di Indonesia
+Type=Application
+Exec=gvfs-open http://www.kapanlagi.com/
+Icon=eos-link-kapanlagi
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

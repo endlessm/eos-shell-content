@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kaskus
+Comment=Forum diskusi untuk komunitas online
+Type=Application
+Exec=gvfs-open https://www.kaskus.co.id/
+Icon=eos-link-kaskus
+Categories=News;
+X-Endless-LaunchMaximized=true

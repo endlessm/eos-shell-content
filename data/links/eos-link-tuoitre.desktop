@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Tuổi Trẻ
+Comment=Cập nhật tin tức hàng ngày liên tục
+Type=Application
+Exec=gvfs-open http://tuoitre.vn/
+Icon=eos-link-tuoitre
+Categories=News;
+X-Endless-LaunchMaximized=true

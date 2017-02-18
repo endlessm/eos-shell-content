@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kaidee
+Comment=ชมและซื้อสินค้าใหม่และสินค้ามือสอง
+Type=Application
+Exec=gvfs-open https://www.kaidee.com/
+Icon=eos-link-kaidee
+Categories=Local;
+X-Endless-LaunchMaximized=true

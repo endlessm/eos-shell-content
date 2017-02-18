@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Tin Thể Thao
+Comment=Tin tức thể thao hàng ngày ở Việt Nam và trên thế giới
+Type=Application
+Exec=gvfs-open http://www.tinthethao.com.vn/
+Icon=eos-link-tinthethao
+Categories=Sports;
+X-Endless-LaunchMaximized=true

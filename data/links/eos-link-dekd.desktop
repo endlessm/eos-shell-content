@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Dek-D
+Comment=แหล่งแฟชั่น ไลฟ์สไตล์และความบันเทิงสำหรับวัยรุ่น
+Type=Application
+Exec=gvfs-open https://www.dek-d.com/
+Icon=eos-link-dekd
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Lazada
+Comment=Belanja online barang elektronik dan mode
+Type=Application
+Exec=eos-exec-localized 'gvfs-open http://www.lazada.co.id/' th:'gvfs-open http://www.lazada.co.th/' vi:'gvfs-open http://www.lazada.vn/' 
+Icon=eos-link-lazada
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

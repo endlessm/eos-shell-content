@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Taimienphi
+Comment=Lời khuyên công nghệ và tải phần mềm miễn phí
+Type=Application
+Exec=gvfs-open http://taimienphi.vn/
+Icon=eos-link-taimienphi
+Categories=News;
+X-Endless-LaunchMaximized=true

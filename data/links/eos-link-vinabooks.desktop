@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Vina Books
+Comment=Nhà sách bán lẻ trực tuyến
+Type=Application
+Exec=gvfs-open http://www.vinabooks.vn/
+Icon=eos-link-vinabooks
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

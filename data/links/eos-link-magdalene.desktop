@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Magdalene
+Comment=Majalah web progresif tentang isu-isu sosial dan budaya
+Type=Application
+Exec=gvfs-open http://www.magdalene.co/
+Icon=eos-link-magdalene
+Categories=News;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Uỷ ban Olympic
+Comment=Tin tức thể thao cập nhật 24/7
+Type=Application
+Exec=gvfs-open http://voc.org.vn/
+Icon=eos-link-voc
+Categories=Sports;
+X-Endless-LaunchMaximized=true

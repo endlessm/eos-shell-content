@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Eva
+Comment=Thông tin về cuộc sống, tình yêu và gia đình
+Type=Application
+Exec=gvfs-open http://eva.vn/
+Icon=eos-link-eva
+Categories=News;
+X-Endless-LaunchMaximized=true

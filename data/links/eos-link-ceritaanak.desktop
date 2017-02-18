@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Cerita Anak
+Comment=Dongeng dan cerita sebelum tidur untuk anak-anak
+Type=Application
+Exec=gvfs-open http://www.ceritaanak.org/
+Icon=eos-link-ceritaanak
+Categories=Education;Health;
+X-Endless-LaunchMaximized=true

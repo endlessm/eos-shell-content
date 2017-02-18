@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Badminton Asia
+Comment=Berita badminton terbaru
+Type=Application
+Exec=gvfs-open http://www.badmintonasia.org/
+Icon=eos-link-badmintonasia
+Categories=Sports;
+X-Endless-LaunchMaximized=true

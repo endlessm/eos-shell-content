@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Tribun News
+Comment=Berita lokal terbaru
+Type=Application
+Exec=gvfs-open http://www.tribunnews.com/
+Icon=eos-link-tribunnews
+Categories=News;
+X-Endless-LaunchMaximized=true

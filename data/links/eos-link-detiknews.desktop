@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Detik News
+Comment=Berita terbaru tentang Indonesia dan dunia
+Type=Application
+Exec=gvfs-open http://news.detik.com/
+Icon=eos-link-detiknews
+Categories=News;
+X-Endless-LaunchMaximized=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Web Tretho
+Comment=Gia đình, làm đẹp, thời trang và nhiều điều khác
+Type=Application
+Exec=gvfs-open http://www.webtretho.com/
+Icon=eos-link-webtretho
+Categories=News;
+X-Endless-LaunchMaximized=true

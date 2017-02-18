@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Movie 2 Free
+Comment=ดูหนังออนไลน์
+Type=Application
+Exec=gvfs-open https://www.movie2free.com/
+Icon=eos-link-movie2free
+Categories=Entertainment;
+X-Endless-LaunchMaximized=true

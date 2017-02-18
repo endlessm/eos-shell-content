@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Arah
+Comment=Gaya hidup, informasi, dan berita komunitas berbasis video
+Type=Application
+Exec=gvfs-open http://www.arah.com/
+Icon=eos-link-arah
+Categories=News;
+X-Endless-LaunchMaximized=true
