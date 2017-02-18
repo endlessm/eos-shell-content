@@ -244,8 +244,8 @@ if __name__ == '__main__':
         convert(source_file, target_file, '')
 
     # Special handling of link locales for es vs. es_GT
-    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['es', 'es-mx'], ['pt-br'], ['zh-hans'], ['bn']]
-    link_languages = ['C', 'es', 'es_GT', 'es_MX', 'pt_BR', 'zh_CN', 'bn']
+    link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['es', 'es-mx'], ['pt-br'], ['zh-hans'], ['bn'], ['id'], ['th'], ['vi']]
+    link_languages = ['C', 'es', 'es_GT', 'es_MX', 'pt_BR', 'zh_CN', 'bn', 'id', 'th', 'vi']
 
     # Copy and rename the links json to the content folder
     source_dir = os.path.join(UNZIP_DIR, 'links')
