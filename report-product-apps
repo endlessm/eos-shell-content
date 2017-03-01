@@ -101,11 +101,13 @@ class Reporter(object):
 
         # Check the version number format
         version = self._args.os_version.split('.')
-        if len(version) != 3 \
+        if len(version) < 3 \
+           or len(version) > 4 \
            or not version[0].isdigit() \
            or not version[1].isdigit() \
-           or not version[2].isdigit():
-            exit_with_error('Invalid OS version number: %s (should be x.y.z)' %
+           or not version[2].isdigit() \
+           or (len(version) == 4 and not version[3].isdigit()):
+            exit_with_error('Invalid OS version number: %s (should be x.y.z or x.y.z.w)' %
                             self._args.os_version)
 
         # Check the architecture format
