@@ -343,9 +343,8 @@ class Reporter(object):
                     version = data[9]
                     json_row = self._get_json_row(app_id)
                     if json_row == ALREADY_USED:
-                        exit_with_error('Unexpected duplicate entry for %s' %
-                                        app_id)
-                    if json_row:
+                        warn('Discarding duplicate entry for %s' % app_id)
+                    elif json_row:
                         json_row['size'] = self._get_installed_size(app_id,
                                                                     version)
                         self._write_csv_row('Installed', app_id, version,
