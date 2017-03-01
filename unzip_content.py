@@ -174,6 +174,8 @@ if __name__ == '__main__':
         json_data = json.load(infile)
     for app_data in json_data:
         app_id = app_data['application-id']
+        if not app_data.get('category', None):
+            raise ValueError('No category for App ID %s' % app_id)
         categories = app_data['category'] + ';'
         extra_categories = EXTRA_CATEGORIES.get(app_id, [])
         for extra_category in extra_categories:
