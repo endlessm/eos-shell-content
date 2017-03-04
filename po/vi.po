@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -550,10 +550,8 @@ msgid ""
 msgstr "Tất cả chúng ta đều muốn có được vẻ bề ngoài và cảm nhận tốt nhất về mình. Với ứng dụng này, bạn sẽ tìm hiểu cách tập thể dục an toàn và hiệu quả. Với hàng loạt bài tập và chương trình, cũng như thông tin về việc tập luyện một cách an toàn và tránh gây chấn thương, bạn sẽ có thể nhanh chóng đưa việc luyện tập của mình vào quy củ. Ứng dụng này thậm chí còn có hướng dẫn hữu ích về lối sống lành mạnh."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
+msgid "MEC Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:83
@@ -569,6 +567,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "Bạn muốn tìm hiểu thêm về cách chăm sóc bản thân hoặc tự mình sửa chữa mọi thứ tại nhà của mình? Bạn muốn tự mình tân trang đồ nội thất, loại bỏ vết bẩn cứng đầu, trồng vườn rau sạch, học yoga hay các bài tập thể dục? Dù bạn đã từng ước ao được thực hiện bất kỳ điều gì, thì đây cũng chính là ứng dụng mà bạn cần. Từ đồ thủ công đến trang trí nhà cửa, thậm chí lập kế hoạch đến tự làm, bạn sẽ tìm thấy mọi chủ đề mà bạn có thể nghĩ ra. Mỗi bài viết hướng dẫn cách làm đều dễ xem và dễ hiểu. Bạn sẽ nhanh chóng chẳng còn nhớ việc trước kia phải tự xoay sở như thế nào!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

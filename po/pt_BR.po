@@ -12,16 +12,16 @@
 # Mariana Barbosa <mari@endlessm.com>, 2016
 # Martin Abente Lahaye <tch@sugarlabs.org>, 2016
 # Nuritzi Sanchez <ns@endlessm.com>, 2013
-# Philip Chimento <philip.chimento@gmail.com>, 2015-2016
+# Philip Chimento <philip.chimento@gmail.com>, 2015-2017
 # Renato Peixoto Pinto <renato@endlessm.com>, 2013,2015
 # Roddy Shuler <roddy@endlessm.com>, 2013,2017
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:06+0000\n"
+"Last-Translator: Philip Chimento <philip.chimento@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -561,11 +561,9 @@ msgid ""
 msgstr "Nós todos queremos nos parecer e nos sentir bem. Com este programa, você vai aprender como se exercitar com segurança e eficácia. Com uma gama de exercícios e rotinas, bem como manter-se seguro e informado  sobre lesão preventiva, você vai ter o seu treino na pista em nenhum momento. Este aplicativo ainda apresenta orientações sobre como viver uma vida saudável."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "Biblioteca"
+msgid "MEC Library"
+msgstr "MEC Library"
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -581,6 +579,11 @@ msgid ""
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
 msgstr "Uma coleção de clássicos da literatura disponíveis em língua estrangeira, incluindo autores consagrados como Lewis Carroll, Miguel de Cervantes, Charles Dickens, William Shakespeare e Dante Alighieri. As obras são classificadas por idioma e incluem textos em inglês, espanhol, francês e italiano."
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
+msgstr "MEC Biblioteca"
 
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
@@ -1061,6 +1064,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "Você está interessado em aprender mais sobre como cuidar de si mesmo ou sobre consertar alguma coisa em casa? Você está interessado em retocar móveis, se livrar de manchas difíceis, aprender ioga ou outros exercícios por conta própria? Seja lá o que você sempre quis aprender a fazer, este é o programa que você precisa. De artesanato para decorar a sua casa a planejamento de eventos de auto-ajuda. Você encontrará praticamente qualquer tópico que se possa imaginar. Cada como fazer é um artigo de fácil acesso e compreensão. Em breve você vai não vai saber como conseguiu viver sem isso antes! "
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "Biblioteca"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

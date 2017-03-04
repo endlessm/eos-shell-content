@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -551,10 +551,8 @@ msgid ""
 msgstr "เราทุกคนต้องการที่จะมองและรู้สึกที่ดีที่สุดของเรา ด้วยแอพนี้คุณจะได้เรียนรู้วิธีการออกกำลังกายอย่างปลอดภัยและมีประสิทธิภาพ กับช่วงของการออกกำลังกายและกิจวัตร เช่นเดียวกับข้อมูลเกี่ยวกับการรักษาตัวเองปลอดภัยและป้องกันการบาดเจ็บที่คุณจะต้องออกกำลังกายของคุณในการติดตามในเวลาไม่นาน แอพนี้ยังมีคำแนะนำเกี่ยวกับวิธีที่จะอยู่แบบมีสุขภาพชีวิตที่ดี"
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
+msgid "MEC Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:83
@@ -570,6 +568,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1051,6 +1054,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "คุณสนใจในการเรียนรู้เพิ่มเติมเกี่ยวกับการดูแลตัวเองหรือเกี่ยวกับการซ่อมของที่บ้านของคุณเองหรือไม่ คุณสนใจที่จะปรับเฟอร์นิเจอร์ใหม่ การกำจัดคราบฝังลึก ทำสวนผักที่ดีต่อสุขภาพหรือการเรียนรู้โยคะหรือออกกำลังกายอื่น ๆ ด้วยตัวคุณเองหรือไม่ สิ่งที่คุณเคยฝันถึงการเรียนรู้วิธีการทำ นี่เป็นแอพที่คุณต้องการ จากฝีมือการปรับปรุงบ้าน การวางแผนงานอีเวนท์ด้วยตัวเอง คุณจะพบเกือบทุกหัวข้อเท่า แต่ละวิธีการบทความเป็นเรื่องง่ายในการเข้าถึงและเข้าใจ  อีกไม่นานคุณจะไม่รู้เลยว่าเมื่อก่อนคุณเคยจัดการอย่างไร!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

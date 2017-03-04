@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Bengali (India) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/bn_IN/)\n"
 "MIME-Version: 1.0\n"
@@ -549,10 +549,8 @@ msgid ""
 msgstr ""
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
+msgid "MEC Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:83
@@ -568,6 +566,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1048,6 +1051,11 @@ msgid ""
 "improvement, event planning to self-help, you’ll find nearly every topic "
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
+msgstr ""
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:158

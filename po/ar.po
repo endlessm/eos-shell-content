@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -550,10 +550,8 @@ msgid ""
 msgstr "نريد جميعاً أن نبدو ونشعر بالأفضل لنا. مع هذا التطبيق، سوف تتعلم كيفية ممارسة الرياضة بشكل آمن وفعال. مع مجموعة من التمارين والروتينات، وكذلك معلومات حول الحفاظ على نفسك آمناً وحول الوقاية من الإصابات، سيسير تمرينك على على ما يرام في وقت لا يُذكر. بل ويبرز أيضاً هذا التطبيق الإرشادات بشأن كيفية العيش بأسلوب حياةٍ صحيٍ."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
+msgid "MEC Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:83
@@ -569,6 +567,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "هل أنت مهتم بمعرفة المزيد عن الاعتناء بنفسك أو عن إصلاح الأشياء في المنزل بنفسك؟ هل أنت مهتم بإعادة طلاء الأثاث، والتخلص من البقع الصعبة، وزرع حديقة نباتية صحية، أو تعلم اليوغا أو تمارين أخرى بمفردك؟ مهما كان ما قد حلمت بتعلم كيفية القيام به، هذا هو التطبيق التي تحتاج إليه. من الحرف إلى تحسين المنزل، وتخطيط الأحداث، ومساعدة نفسك، ستجد تقريباً كل موضوع يمكن تخيله. كل مقالة شارحة يسهل قرائتها وفهمها. قريباً، لن تدرك كيف تمكنت من التعامل من قبل!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Hindi (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -552,11 +552,9 @@ msgid ""
 msgstr "हम सभी अपना सर्वोत्तम देखना और महसूस करना चाहते हैं। इस ऐप के जरिए, आप सुरक्षित और असरकारी ढंग से व्यायाम करने की विधि सीखेंगे। विभिन्न प्रकार के व्यायामों और दिनचर्याओं के साथ, और साथ ही अपने आप को सुरक्षित रखने और जख्म के बचाने के बारे में जानकारी के साथ, आप बिना समय गंवाए अपने वर्कआउट को सुचारू रख पाएंगे। यहां तक कि यह ऐप यह भी बताता है कि स्वस्थ जीवनशैली कैसे अपनाएं।"
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "पुस्तकालय"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -571,6 +569,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1052,6 +1055,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "क्या आप खुद की देखभाल करने के बारे में या घर की चीजों को खुद से ठीक करने के बारे में अधिक जानना चाहते हैं? क्या आप खुद से फर्नीचर को परिष्कृत करने, जिद्दी दागों को हटाने, स्वस्थ सब्जी बागान तैयार करने में दिलचस्पी रखते हैं, या योग सीखने या अन्य व्यायाम सीखने में मजा आता है? आपका कुछ भी करने के बारे में सीखने का सपना क्यों न हो, आपको इस ऐप की जरूरत होगी। शिल्प से लेकर घर के सुधार तक, कार्यक्रम की योजना से लेकर स्वयं-सहायता तक, आप यहां लगभग सभी कल्पनीय विषय पाएंगे। प्रत्येक कैसे-करें लेख का प्रयोग करना और उसे समझना आसान है। जल्द ही, आप यह नहीं जान पाएंगे कि आपने पहले कैसे व्यवस्थित किया था!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "पुस्तकालय"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

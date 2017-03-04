@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-27 04:35+0000\n"
-"Last-Translator: Hartono <hartono.s10@gmail.com>\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
+"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -550,11 +550,9 @@ msgid ""
 msgstr "Kita semua ingin terlihat dan merasa dalam kondisi yang terbaik. Dengan aplikasi ini, Anda akan belajar cara berolahraga dengan aman dan efektif. Dengan berbagai jenis latihan dan rutin, serta informasi tentang bagaimana membuat Anda tetap aman dan mencegah cedera, Anda akan berolahraga dengan benar dalam waktu singkat. Aplikasi ini bahkan memiliki fitur panduan tentang bagaimana menjalani gaya hidup sehat."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "Perpustakaan"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -569,6 +567,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "Apakah Anda berminat mengetahui lebih banyak tentang cara merawat diri atau memperbaiki sendiri barang-barang di rumah Anda? Apakah Anda tertarik untuk mengecat ulang perabotan, menghilangkan noda membandel, menanam kebun sayur yang sehat, atau belajar yoga dan olahraga lainnya sendiri? Apa pun yang ingin Anda pelajari, ini adalah aplikasi yang Anda butuhkan. Mulai dari kerajinan tangan sampai perbaikan rumah, bahkan bantuan untuk diri sendiri, Anda akan menemukan hampir setiap topik yang dapat Anda bayangkan di sini. Artikel-artikel yang tersedia mudah diakses dan dipahami. Dalam waktu singkat, Anda pasti akan bertanya-tanya bagaimana Anda selama ini hidup tanpa aplikasi ini!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "Perpustakaan"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

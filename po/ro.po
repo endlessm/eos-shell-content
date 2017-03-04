@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -550,11 +550,9 @@ msgid ""
 msgstr "Cu toții vrem să aratam și să se simtim mai bine. Cu această aplicație, veți învăța cum să faceti exercitii în condiții de siguranță și în mod eficient. Cu o serie de exerciții și rutine, precum și informații cu privire la păstrarea în condiții de siguranță și de prevenire a accidentelor, veți avea antrenament bun în cel mai scurt timp. Această aplicație oferă chiar și îndrumări cu privire la modul de a trăi un stil de viață sănătos."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "Librarie"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -570,6 +568,11 @@ msgid ""
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
 msgstr "O colecție de clasici din literatura de specialitate disponibile în limbi străine, inclusiv  autori de renume precum Lewis Carrol, Miguel de Cervantes, Charles Dickens, William Shakespeare, Dante Alighieri. Lucrările sunt clasificate în funcție de limbă și includ texte în limba engleză, spaniolă, franceză și italiană."
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
+msgstr ""
 
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr " "
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "Librarie"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

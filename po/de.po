@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: German (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -550,11 +550,9 @@ msgid ""
 msgstr "Wir wollen alle gut aussehen und uns wohl fühlen. Mit diesem Programm kannst du lernen, wie man seinen Körper sicher und effektiv trainiert. Eine große Auswahl an Übungen und Hinweisen hilft dir ein sicheres üBungsprogramm auf die Beine zu stellen. Mit diesem Programm nimmst du den ersten Schritt zu einem gesünderen Leben."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "Bücherei"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -570,6 +568,11 @@ msgid ""
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
 msgstr "Eine Sammlung von Klassikern der Weltliteratur in ihr Originalsprache. Autoren wir Lewis Carrol, Miguel Cervantes, Charles Dickens, William Shakespeare oder Dante Alighieri erwarten dich. Ihre Werke sind nach Sprachen sortiert und beinhalten Werke in den Sprachen Englisch, Spanisch, Französisch und Italienisch."
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
+msgstr ""
 
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr ""
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "Bücherei"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -552,11 +552,9 @@ msgid ""
 msgstr "আমরা সবাই চাই সুন্দর দেখাতে এবং অনুভব করতে। এই এ্যাপের সাহায্যে, আপনি জানবেন নিরাপদে ও কার্যকরীভাবে ব্যায়াম করার উপায়। ব্যায়াম ও কলাকৌশলের বিভিন্ন ধরণ, সেই সাথে নিজেকে নিরাপদ রাখার  এবং আহত হওয়া থেকে বাঁচার উপায় শেখার মাধ্যমে আপনি আপনার ব্যায়াম চর্চাকে খুব অল্প সময়েই ঠিক করে ফেলতে পারবেন। এই এ্যাপে এমনকি স্বাস্থ্যকর জীবনযাপনের নির্দেশনাও পাবেন।"
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "পাঠাগার"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -571,6 +569,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1052,6 +1055,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "নিজের যত্ন নেয়া সম্পর্কে আরো জানতে চান কিংবা নিজেই বাড়ির বিভিন্ন জিনিসপত্র মেরামত করে ফেলতে চান? আসবাবপত্র মেরামত, কঠিন দাগ দূর করা, স্বাস্থ্যকর শাকসবজির বাগান করা, অথবা ইয়োগা বা অন্যান্য ব্যায়াম নিজে শেখা সম্পর্কে আগ্রহী? আপনি যা যা শিখতে চান সবকিছুর জন্য এই এ্যাপটাই আপনার প্রয়োজন। হ্স্তশিল্প থেকে বাড়ির মেরামত, অনুষ্ঠান পরিকল্পনা থেকে আত্মনির্ভরশীলতা পর্যন্ত যা যা ভাবা যায় প্রায় সব বিষয়ই আপনি এখানে পাবেন। প্রতিটি কীভাবে করবেন প্রবন্ধে সহজে প্রবেশাধিকার পাবেন ও সহজে বুঝতে পারবেন। শিগগিরই আপনি ভুলে যাবেন এই এ্যাপ ছাড়া আপনার আগে কীভাবে চলতো!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "পাঠাগার"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

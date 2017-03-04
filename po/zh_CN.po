@@ -16,8 +16,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -558,11 +558,9 @@ msgid ""
 msgstr "我们都想看到并感受到自己最好的状态。有了这个APP，您将学会如何安全运动，有效运动。经过一系列定期训练，以及了解如何保证安全，避免受伤的知识之后，您将马上步入锻炼正轨。这个APP更向您展示如何拥有一个健康的生活方式。"
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "图书馆"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -577,6 +575,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1058,6 +1061,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "您是否有兴趣了解更多关于照顾自己的信息，或是自己动手在家修理？您是否有兴趣自己动手重饰家具，清除顽固污渍，养育健康菜园或是学习瑜伽之类的运动？如果您梦想去学习如何做的方法，这款APP就是为您打造的。从工艺品制作到家居装饰，从活动策划到自助式，您几乎可以找到想到的任何主题。每一篇关于如何的文章都能轻松获取并理解。很快，您将忘记之前是如何安排的。"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "图书馆"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

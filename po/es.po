@@ -24,8 +24,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -566,11 +566,9 @@ msgid ""
 msgstr "Todos queremos vernos y sentirnos de lo mejor. Con este programa, aprenderás a ejercitarte de buena forma. Este programa tiene una variedad de ejercicios y rutinas e información para ayudarte a ser sano sin dañarte. ¡Podrás planificar y comenzar tus ejercicios en muy poco tiempo! Este programa te ayudará a tener un estilo de vida muy saludable."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
-msgstr "Biblioteca"
+msgid "MEC Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
@@ -586,6 +584,11 @@ msgid ""
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
 msgstr "Una colección de literatura clásica disponible en varios idiomas. Incluye autores renombrados como Lewis Carrol, Miguel de Cervantes, Charles Dickens, William Shakespeare, y Dante Alighieri. Las obras se clasifican por idioma e incluyen textos en inglés, español, francés e italiano."
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
+msgstr ""
 
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
@@ -1066,6 +1069,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "¿Has querido aprender a tejer o a tener un jardín bello? ¿Tienes interés en restaurar algún mueble, en limpiar una mancha o en crear un plan de acción personalizado para tus metas? Esta es el programa que necesitas para lograr cualquier cosa que has soñado aprender. Oficios, arte, proyectos para mejorar la casa, desarrollo personal... podrás encontrar casi cualquier tema que te imagines. Cada artículo es fácil de encontrar y entender. ¡Pronto te preguntarás cómo podías vivir sin este programa!"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr "Biblioteca"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-02-21 03:18+0000\n"
-"PO-Revision-Date: 2017-02-21 03:19+0000\n"
+"POT-Creation-Date: 2017-03-04 01:01+0000\n"
+"PO-Revision-Date: 2017-03-04 01:03+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -550,10 +550,8 @@ msgid ""
 msgstr "Nous voulons tous avoir l'air et nous sentir au mieux de nous-mêmes. Avec cette app, vous apprendrez comment faire de l'exercice en toute sécurité et efficacement. Avec toute une gamme d'exercices et de routines, ainsi que des informations pour rester en sécurité et empêcher les blessures, vous mettrez votre séance d'entraînement en place en un rien de temps. Cette app contient même des instructions pour adopter un mode de vie plus sain."
 
 #: content/Default/apps/content.json.h:82
-#: content/Default/apps/content.json.h:85
-#: content/Default/apps/content.json.h:157
 msgctxt "title"
-msgid "Library"
+msgid "MEC Library"
 msgstr ""
 
 #: content/Default/apps/content.json.h:83
@@ -569,6 +567,11 @@ msgid ""
 "Charles Dickens, William Shakespeare, and Dante Alighieri. The works are "
 "categorized by language and include texts in English, Spanish, French, and "
 "Italian. "
+msgstr ""
+
+#: content/Default/apps/content.json.h:85
+msgctxt "title"
+msgid "MEC Biblioteca"
 msgstr ""
 
 #: content/Default/apps/content.json.h:86
@@ -1050,6 +1053,11 @@ msgid ""
 "imaginable. Each how-to article is easy to access and understand. Soon, you "
 "won’t know how you managed before!"
 msgstr "Souhaitez-vous en savoir plus sur les façons de prendre soin de vous ou de réparer vous-même les choses à la maison ? Vous intéressez-vous à la finition de meubles, à l’éradication des taches tenaces, à la culture d’un potager de légumes sains, ou à l’apprentissage du yoga et autres exercices de par vous-même ? Quel que soit votre rêve d’apprentissage, c’est l’application dont vous avez besoin. De l’artisanat aux améliorations de votre intérieur, en passant par la planification d’événements et l’entraide, vous trouverez à peu près tous les sujets imaginables. Chaque article vous explique comment faire de façon accessible et claire. Bientôt, vous ne saurez même plus comment vous vous en êtes sorti jusqu’à maintenant !"
+
+#: content/Default/apps/content.json.h:157
+msgctxt "title"
+msgid "Library"
+msgstr ""
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
