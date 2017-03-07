@@ -2317,6 +2317,50 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.sinadep_curso5_educacionPaz",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "The specific learning modules for this course are: Module I. What Is Violence?; Module II. Educational Focus for Peace; Module III. Educational Practices for Peace in Mexico; and Module IV. Proactive Actions for Peace",
+    "displayShape": "b1",
+    "exec": "com.endlessm.sinadep_curso5_educacionPaz",
+    "featured_img": "",
+    "icon": "com.endlessm.sinadep_curso5_educacionpaz-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Mexico"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.sinadep_curso5_educacionpaz-thumb.jpg",
+    "subtitle": "This course from SINADEP explores the concept of education for peace.",
+    "title": "Education for Peace",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.sinadep_curso6_usoDelExcel",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "The specific learning modules for this course are: Module I. Description of the Environment, Data Dump and Format to Excel Cells; Module II. Management of Basic and Advanced Formulas; Module III. Document Handling and Integration",
+    "displayShape": "b1",
+    "exec": "com.endlessm.sinadep_curso6_usoDelExcel",
+    "featured_img": "",
+    "icon": "com.endlessm.sinadep_curso6_usodelexcel-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Mexico"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.sinadep_curso6_usodelexcel-thumb.jpg",
+    "subtitle": "This course from SINADEP discusses the basic knowledge of Excel",
+    "title": "Using Excel",
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.soccer",
     "category": "Reference;Family;",
     "core": false,
