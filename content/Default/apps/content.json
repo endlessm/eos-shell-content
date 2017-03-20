@@ -3048,41 +3048,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.steampowered.Steam",
-    "category": "Game;",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
-    "displayShape": "b1",
-    "exec": "steam",
-    "featured_img": "",
-    "icon": "com.steampowered.steam-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.steampowered.steam-screenshot1.jpg",
-        "com.steampowered.steam-screenshot2.jpg"
-      ],
-      "es": [
-        "com.steampowered.steam-screenshot1.jpg",
-        "com.steampowered.steam-screenshot2.jpg"
-      ],
-      "pt": [
-        "com.steampowered.steam-screenshot1.jpg",
-        "com.steampowered.steam-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "com.steampowered.steam-thumb.jpg",
-    "subtitle": "Online store with popular video games",
-    "title": "Steam",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.sublimetext.three",
     "category": "Office;",
     "core": false,
@@ -3131,6 +3096,41 @@
     "subtitle": "Exciting multi-player shooting game",
     "title": "Teeworlds",
     "tryexec": "teeworlds"
+  },
+  {
+    "application-id": "com.valvesoftware.Steam",
+    "category": "Game;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
+    "displayShape": "b1",
+    "exec": "steam",
+    "featured_img": "",
+    "icon": "com.valvesoftware.steam-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "com.valvesoftware.steam-screenshot1.jpg",
+        "com.valvesoftware.steam-screenshot2.jpg"
+      ],
+      "es": [
+        "com.valvesoftware.steam-screenshot1.jpg",
+        "com.valvesoftware.steam-screenshot2.jpg"
+      ],
+      "pt": [
+        "com.valvesoftware.steam-screenshot1.jpg",
+        "com.valvesoftware.steam-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.valvesoftware.steam-thumb.jpg",
+    "subtitle": "Online store with popular video games",
+    "title": "Steam",
+    "tryexec": ""
   },
   {
     "application-id": "de.billardgl.Billardgl",
