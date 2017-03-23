@@ -6,6 +6,7 @@
 import os
 import argparse
 import polib
+import re
 
 PO_DIR = 'po'
 LINGUAS_FILE = os.path.join(PO_DIR, 'LINGUAS')
@@ -58,7 +59,15 @@ def translate_dir(in_dir):
     desktop_in_files = [filename for filename in os.listdir(in_dir)
                         if 'desktop.in' in filename
                         or 'directory.in' in filename]
+
+    locale_regex = re.compile('^com\.endlessm\..+\.[a-z]{2,3}_?[A-Z]{0,2}.desktop$')
+    
     for desktop_in_file in desktop_in_files:
+
+        # don't translate already-localized content
+        if locale_regex.match(desktop_in_file):
+            continue
+
         in_path = os.path.join(in_dir, desktop_in_file)
         in_file = open(in_path, 'r')
         in_file_lines = in_file.read().splitlines()

@@ -1,3 +1,4 @@
+#include <glib.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -27,6 +28,9 @@ parse_content_array (JsonArray  *array,
 
   g_string_append_printf (buffer, "\n/* Extracted from %s */\n", path);
 
+  GRegex *regex = g_regex_new ("^com\\.endlessm\\..+\\.[a-z]{2,3}_?[A-Z]{0,2}$",
+			       0, 0, NULL);
+
   for (guint i = 0; i < n_elements; i++)
     {
       JsonNode *element = json_array_get_element (array, i);
@@ -35,6 +39,13 @@ parse_content_array (JsonArray  *array,
         continue;
 
       JsonObject *obj = json_node_get_object (element);
+
+      if (json_object_has_member (obj, "application-id"))
+	{
+	  const char *appid = json_object_get_string_member (obj, "application-id");
+	  if (g_regex_match (regex, appid, 0, NULL))
+	    continue;
+	}
 
       for (guint j = 0; j < n_translatable_keys; j++)
         {
@@ -47,6 +58,8 @@ parse_content_array (JsonArray  *array,
           g_string_append_printf (buffer, "\nC_(\"%s\", \"%s\");", key, value);
         }
     }
+
+  g_regex_unref (regex);
 }
 
 int
