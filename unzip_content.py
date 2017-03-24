@@ -218,6 +218,8 @@ if __name__ == '__main__':
             # For now, we need to replace the CMS locale with generic language
             # in the folder names
             source_dir = os.path.join(UNZIP_DIR, 'apps', 'screenshots', locales[i])
+            if not os.path.isdir(source_dir):
+                continue
             target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources',
                                       'screenshots', languages[i])
             os.makedirs(target_dir)
