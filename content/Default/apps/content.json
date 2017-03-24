@@ -138,41 +138,144 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.animals",
-    "category": "Education;Reference;Family;",
+    "application-id": "com.endlessm.animals.bn_BD",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.animals-splash.jpg",
-    "description": "Animals are simply amazing. From the majestic lion to the bizarre and fascinating platypus, there is so much to learn about the creatures that inhabit our world. Unlock the entire animal kingdom with this app! The whole family, from small children to curious adults, will love to learn about animals\u2019 features, habits, and environments. It\u2019s especially important to study the animal kingdom today, when so many species are threatened or endangered.",
-    "displayShape": "b2h",
+    "custom-splash-screen": "com.endlessm.animals.bn_bd-splash.jpg",
+    "description": "\u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf\u09b0\u09be \u098f\u0995 \u0995\u09a5\u09be\u09df \u09ac\u09bf\u09b8\u09cd\u09ae\u09df\u0995\u09b0\u0964 \u09b0\u09be\u099c\u0995\u09c0\u09df \u09b8\u09bf\u0982\u09b9 \u09a5\u09c7\u0995\u09c7 \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u0993 \u099a\u09ae\u0995\u09aa\u09cd\u09b0\u09a6 \u09aa\u09cd\u09b2\u09be\u099f\u09bf\u09aa\u09be\u09b8 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4, \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09aa\u09c3\u09a5\u09bf\u09ac\u09c0\u09a4\u09c7 \u09ac\u09b8\u09ac\u09be\u09b8\u0995\u09be\u09b0\u09c0 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09aa\u09cd\u09b0\u09be\u09a3\u09c0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7\u0987 \u0985\u09a8\u09c7\u0995 \u0995\u09bf\u099b\u09c1 \u099c\u09be\u09a8\u09ac\u09be\u09b0 \u0986\u099b\u09c7\u0964 \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09aa\u09c1\u09b0\u09cb \u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf\u09b0 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09ac\u09bf\u09b8\u09cd\u09ae\u09df\u0995\u09b0 \u09a6\u09b0\u099c\u09be\u099f\u09bf\u09b0 \u099a\u09be\u09ac\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09b9\u09be\u09a4\u09c7\u09b0 \u09ae\u09c1\u09a0\u09cb\u09df! \u099b\u09cb\u099f\u09cd\u099f \u09b6\u09bf\u09b6\u09c1 \u09a5\u09c7\u0995\u09c7 \u0995\u09cc\u09a4\u09c1\u09b9\u09b2\u09c0 \u09ac\u09dc \u09ae\u09be\u09a8\u09c1\u09b7\u099f\u09bf \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4, \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u09c7\u09b0 \u09b8\u0995\u09b2\u09c7\u0987 \u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf\u09a6\u09c7\u09b0 \u09ac\u09c8\u09b6\u09bf\u09b7\u09cd\u099f\u09cd\u09af, \u0985\u09ad\u09cd\u09af\u09be\u09b8 \u0993 \u09aa\u09b0\u09bf\u09ac\u09c7\u09b6 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09a4\u09c7 \u0986\u0997\u09cd\u09b0\u09b9\u09c0 \u09b9\u09ac\u09c7\u0964 \u098f\u0987 \u09b8\u09ae\u09df\u09c7 \u09aa\u09cd\u09b0\u09be\u09a3\u09c0 \u09b0\u09be\u099c\u09cd\u09af \u09b8\u09ae\u09cd\u09ac\u09a8\u09cd\u09a7\u09c7 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u0997\u09ac\u09c7\u09b7\u09a3\u09be \u0995\u09b0\u09be \u09ac\u09bf\u09b6\u09c7\u09b7\u09ad\u09be\u09ac\u09c7 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3, \u09af\u0996\u09a8 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09bf\u09a8 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8\u09b0\u0995\u09ae \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09bf \u09b9\u09c1\u09ae\u0995\u09bf\u09b0 \u09ae\u09c1\u0996\u09c7 \u09aa\u09dc\u099b\u09c7 \u0985\u09a5\u09ac\u09be \u09b9\u09be\u09b0\u09bf\u09df\u09c7 \u09af\u09be\u099a\u09cd\u099b\u09c7 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u099c\u0997\u09a4 \u09a5\u09c7\u0995\u09c7\u0964",
+    "displayShape": "b1",
     "exec": "eos-animals",
-    "featured_img": "com.endlessm.animals-featured.jpg",
-    "icon": "com.endlessm.animals-icon.png",
+    "featured_img": "",
+    "icon": "com.endlessm.animals.bn_bd-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Bangladesh"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.animals-screenshot1.jpg",
-        "com.endlessm.animals-screenshot2.jpg",
-        "com.endlessm.animals-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.animals-screenshot1.jpg",
-        "com.endlessm.animals-screenshot2.jpg",
-        "com.endlessm.animals-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.animals-screenshot1.jpg",
-        "com.endlessm.animals-screenshot2.jpg",
-        "com.endlessm.animals-screenshot3.jpg"
+        "com.endlessm.animals.bn_bd-screenshot1.jpg",
+        "com.endlessm.animals.bn_bd-screenshot2.jpg",
+        "com.endlessm.animals.bn_bd-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.animals-thumb.jpg",
+    "square_img": "com.endlessm.animals.bn_bd-thumb.jpg",
+    "subtitle": "\u09aa\u09c3\u09a5\u09bf\u09ac\u09c0\u09b0 \u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.animals.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.animals.en-splash.jpg",
+    "description": "Animals are simply amazing. From the majestic lion to the bizarre and fascinating platypus, there is so much to learn about the creatures that inhabit our world. Unlock the entire animal kingdom with this app! The whole family, from small children to curious adults, will love to learn about animals\u2019 features, habits, and environments. It\u2019s especially important to study the animal kingdom today, when so many species are threatened or endangered.",
+    "displayShape": "b2h",
+    "exec": "eos-animals",
+    "featured_img": "com.endlessm.animals.en-featured.jpg",
+    "icon": "com.endlessm.animals.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.animals.en-screenshot1.jpg",
+        "com.endlessm.animals.en-screenshot2.jpg",
+        "com.endlessm.animals.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.animals.en-thumb.jpg",
     "subtitle": "Learn about all of Earth's creatures",
     "title": "Animals",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.animals.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.animals.es-splash.jpg",
+    "description": "Los animales son incre\u00edbles. Desde el majestuoso le\u00f3n hasta el extra\u00f1o y fascinante ornitorrinco, hay mucho que aprender sobre las criaturas que habitan nuestro mundo. Conoce todo el reino animal con este programa. A toda la familia le encantar\u00e1 aprender sobre las caracter\u00edsticas, h\u00e1bitos y ambientes de los animales, tanto a peque\u00f1os como grandes. Es especialmente importante estudiar el reino animal ahora que tantas especies est\u00e1n en peligro de extinci\u00f3n.",
+    "displayShape": "b1",
+    "exec": "eos-animals",
+    "featured_img": "",
+    "icon": "com.endlessm.animals.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish",
+      "Mexico"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.animals.es-screenshot1.jpg",
+        "com.endlessm.animals.es-screenshot2.jpg",
+        "com.endlessm.animals.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.animals.es-thumb.jpg",
+    "subtitle": "Aprende acerca de las criaturas de la Tierra",
+    "title": "Animales",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.animals.es_GT",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.animals.es_gt-splash.jpg",
+    "description": "Los animales son incre\u00edbles. Desde el majestuoso le\u00f3n hasta el extra\u00f1o y fascinante ornitorrinco, hay mucho que aprender sobre las criaturas que habitan nuestro mundo. Conoce todo el reino animal con este programa. A toda la familia le encantar\u00e1 aprender sobre las caracter\u00edsticas, h\u00e1bitos y ambientes de los animales, tanto a peque\u00f1os como grandes. Es especialmente importante estudiar el reino animal ahora que tantas especies est\u00e1n en peligro de extinci\u00f3n.",
+    "displayShape": "b1",
+    "exec": "eos-animals",
+    "featured_img": "",
+    "icon": "com.endlessm.animals.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.animals.es_gt-screenshot1.jpg",
+        "com.endlessm.animals.es_gt-screenshot2.jpg",
+        "com.endlessm.animals.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.animals.es_gt-thumb.jpg",
+    "subtitle": "Aprende acerca de las criaturas de la Tierra",
+    "title": "Animales",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.animals.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.animals.pt-splash.jpg",
+    "description": "Animais s\u00e3o simplesmente incr\u00edveis. Do majestoso le\u00e3o ao bizarro e fascinante ornitorrinco, h\u00e1 muita coisa para aprender sobre as criaturas que habitam nosso mundo. Descubra o mundo animal inteiro com esse programa! Toda a fam\u00edlia, desde crian\u00e7as at\u00e9 adultos curiosos, vai gostar de conhecer as caracter\u00edsticas, h\u00e1bitos e ambientes dos animais. O estudo do reino animal \u00e9 especialmente importante atualmente, quando tantas esp\u00e9cies est\u00e3o amea\u00e7adas ou em perigo.",
+    "displayShape": "b1",
+    "exec": "eos-animals",
+    "featured_img": "",
+    "icon": "com.endlessm.animals.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.animals.pt-screenshot1.jpg",
+        "com.endlessm.animals.pt-screenshot2.jpg",
+        "com.endlessm.animals.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.animals.pt-thumb.jpg",
+    "subtitle": "Aprenda mais sobre todas as criaturas da Terra.",
+    "title": "Animais",
     "tryexec": ""
   },
   {
@@ -673,7 +776,7 @@
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "This app is full of reliable information sent directly from the Guatemalan government to help you live a healthier and more prosperous life. Find information about cultivating different kinds of crops, tips for mothers before and after pregnancy, tools for teachers preparing a curriculum, worksheets for students who want to supplement their classroom learning, texts to teach the Mayan language, and many great information. This source of knowledge is ready at your disposal, and can be a useful tool no matter your age.",
+    "description": "Este programa est\u00e1 lleno de informaci\u00f3n recolectada por el gobierno de Guatemala para ayudarte a vivir una vida m\u00e1s sana y pr\u00f3spera. Encontrar\u00e1s informaci\u00f3n sobre el cultivo de diferentes tipos de plantas, consejos para las madres antes y despu\u00e9s del embarazo, herramientas \u00fatiles para la preparaci\u00f3n de un plan de estudio, hojas de trabajo para los estudiantes, textos que ense\u00f1an la lengua maya y mucha m\u00e1s informaci\u00f3n. Esta fuente de conocimiento est\u00e1 disponible para cuando la necesites.",
     "displayShape": "b1",
     "exec": "com.endlessm.edu_collections.es_GT",
     "featured_img": "",
@@ -688,17 +791,12 @@
         "com.endlessm.edu_collections.es_gt-screenshot1.jpg",
         "com.endlessm.edu_collections.es_gt-screenshot2.jpg",
         "com.endlessm.edu_collections.es_gt-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.edu_collections.es_gt-screenshot1.jpg",
-        "com.endlessm.edu_collections.es_gt-screenshot2.jpg",
-        "com.endlessm.edu_collections.es_gt-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "None",
     "square_img": "com.endlessm.edu_collections.es_gt-thumb.jpg",
-    "subtitle": "All sorts of information to help better your life",
-    "title": "EduCollections",
+    "subtitle": "Todo tipo de informaci\u00f3n a tu dispocisi\u00f3n con un cl",
+    "title": "EduColecciones",
     "tryexec": ""
   },
   {
@@ -910,15 +1008,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_foreign_library",
+    "application-id": "com.endlessm.fnde_foreign_library.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "A collection of literature classics available in foreign languages, including such renowned authors as Lewis Carrol, Miguel de Cervantes, Charles Dickens, William Shakespeare, and Dante Alighieri. The works are categorized by language and include texts in English, Spanish, French, and Italian. ",
+    "description": "Uma cole\u00e7\u00e3o de cl\u00e1ssicos da literatura dispon\u00edveis em l\u00edngua estrangeira, incluindo autores consagrados como Lewis Carroll, Miguel de Cervantes, Charles Dickens, William Shakespeare e Dante Alighieri. As obras s\u00e3o classificadas por idioma e incluem textos em ingl\u00eas, espanhol, franc\u00eas e italiano.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_foreign_library",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_foreign_library-icon.png",
+    "icon": "com.endlessm.fnde_foreign_library.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -926,32 +1024,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_foreign_library-screenshot1.jpg",
-        "com.endlessm.fnde_foreign_library-screenshot2.jpg",
-        "com.endlessm.fnde_foreign_library-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_foreign_library-screenshot1.jpg",
-        "com.endlessm.fnde_foreign_library-screenshot2.jpg",
-        "com.endlessm.fnde_foreign_library-screenshot3.jpg"
+        "com.endlessm.fnde_foreign_library.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_foreign_library.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_foreign_library.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_foreign_library-thumb.jpg",
-    "subtitle": "Popular classics in foreign languages",
+    "square_img": "com.endlessm.fnde_foreign_library.pt_br-thumb.jpg",
+    "subtitle": "MEC - Biblioteca com mais de 500 cl\u00e1ssicos populares em l\u00edngua estrangeira",
     "title": "MEC Library",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_library",
+    "application-id": "com.endlessm.fnde_library.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "A collection of literature classics covering more than 70 authors whose works are in the public domain, including Machado de Assis, Fernando Pessoa, Lima Barreto and E\u00e7a de Queir\u00f3s. In this library, the PDF books are divided into the following categories: children, teenagers, classics, brazilian, and portuguese.",
+    "description": "Uma cole\u00e7\u00e3o de cl\u00e1ssicos da literatura com mais de 70 autores cujas obras est\u00e3o em dom\u00ednio p\u00fablico. A lista inclui, entre outros grandes autores, Machado de Assis, Fernando Pessoa, Lima Barreto e E\u00e7a de Queir\u00f3s. Nesta biblioteca, os livros s\u00e3o divididos nas categorias Infantil, Jovem, Cl\u00e1ssica, Brasileira e Portuguesa.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_library",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_library-icon.png",
+    "icon": "com.endlessm.fnde_library.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -959,32 +1052,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_library-screenshot1.jpg",
-        "com.endlessm.fnde_library-screenshot2.jpg",
-        "com.endlessm.fnde_library-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_library-screenshot1.jpg",
-        "com.endlessm.fnde_library-screenshot2.jpg",
-        "com.endlessm.fnde_library-screenshot3.jpg"
+        "com.endlessm.fnde_library.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_library.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_library.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_library-thumb.jpg",
-    "subtitle": "Classic books in portuguese children, teenagers, and adults",
+    "square_img": "com.endlessm.fnde_library.pt_br-thumb.jpg",
+    "subtitle": "MEC - Biblioteca com aproximadamente 1000 livros cl\u00e1ssicos em portug\u00eas para crian\u00e7as, jovens e adult",
     "title": "MEC Biblioteca",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_culture_studies",
+    "application-id": "com.endlessm.fnde_mec_culture_studies.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In these two series that reflect the cultural plurality of Brazil, testimonies of Brazilian Indians and also of foreigners who chose to live in Brazil",
+    "description": "Nestas duas s\u00e9ries que traduzem a pluralidade cultural do Brasil, depoimentos de \u00edndios brasileiros e tamb\u00e9m de estrangeiros que escolheram viver no Brasil.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_culture_studies",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_culture_studies-icon.png",
+    "icon": "com.endlessm.fnde_mec_culture_studies.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -992,32 +1080,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_culture_studies-screenshot1.jpg",
-        "com.endlessm.fnde_mec_culture_studies-screenshot2.jpg",
-        "com.endlessm.fnde_mec_culture_studies-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_culture_studies-screenshot1.jpg",
-        "com.endlessm.fnde_mec_culture_studies-screenshot2.jpg",
-        "com.endlessm.fnde_mec_culture_studies-screenshot3.jpg"
+        "com.endlessm.fnde_mec_culture_studies.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_culture_studies.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_culture_studies.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_culture_studies-thumb.jpg",
-    "subtitle": "Testimonials of Brazilian and foreign Indians living in Brazil",
-    "title": "Culture Studies",
+    "square_img": "com.endlessm.fnde_mec_culture_studies.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Depoimentos de \u00edndios brasileiros e estrangeiros que vivem no Brasil",
+    "title": "Pluralidade Cultural",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_education",
+    "application-id": "com.endlessm.fnde_mec_education.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "This program brings together different series of videos that School TV shows that deal with school organization and planning. Topics such as school fellowship, the creation of student assemblies, parental involvement, and evaluations, among others, are dealt with from real examples and interviews with students and teachers.",
+    "description": "Este programa re\u00fane diferentes s\u00e9ries de v\u00eddeos exibidos pela TV Escola e que tratam da organiza\u00e7\u00e3o e do planejamento escolar. Temas como conv\u00edvio escolar, a cria\u00e7\u00e3o de assembleias de alunos, participa\u00e7\u00e3o dos pais, avalia\u00e7\u00f5es, entre outros, s\u00e3o tratados a partir de exemplos reais e entrevistas com alunos e professores.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_education",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_education-icon.png",
+    "icon": "com.endlessm.fnde_mec_education.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1025,32 +1108,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_education-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_education-screenshot3.jpg"
+        "com.endlessm.fnde_mec_education.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_education.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_education.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_education-thumb.jpg",
-    "subtitle": "Organization and school planning in a series of videos for educators",
-    "title": "Escola Education",
+    "square_img": "com.endlessm.fnde_mec_education.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: A organiza\u00e7\u00e3o e o planejamento escolar em uma s\u00e9rie de v\u00eddeos para educadores",
+    "title": "Escola Educa\u00e7\u00e3o",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_ethics",
+    "application-id": "com.endlessm.fnde_mec_ethics.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In this series of programs presented by TV Escola, the public channel of the Ministry of Education, topics such as violence in schools, use of weapons, sexual violence and human rights are addressed.",
+    "description": "Nesta s\u00e9rie de programas exibidos pela TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o, s\u00e3o abordados temas como viol\u00eancia nas escolas, uso de armas, viol\u00eancia sexual e direitos humanos.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_ethics",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_ethics-icon.png",
+    "icon": "com.endlessm.fnde_mec_ethics.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1058,32 +1136,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_ethics-screenshot1.jpg",
-        "com.endlessm.fnde_mec_ethics-screenshot2.jpg",
-        "com.endlessm.fnde_mec_ethics-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_ethics-screenshot1.jpg",
-        "com.endlessm.fnde_mec_ethics-screenshot2.jpg",
-        "com.endlessm.fnde_mec_ethics-screenshot3.jpg"
+        "com.endlessm.fnde_mec_ethics.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_ethics.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_ethics.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_ethics-thumb.jpg",
-    "subtitle": "The series discusses problems caused by violence, arms, and drugs.",
-    "title": "Human Rights",
+    "square_img": "com.endlessm.fnde_mec_ethics.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: S\u00e9rie discute problemas causados por viol\u00eancia, armas e drogas",
+    "title": "Direitos Humanos",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_future_education",
+    "application-id": "com.endlessm.fnde_mec_future_education.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In this application, you will be able to watch the episodes of the program Salto para o Futuro, from TV Escola, the public channel of the Ministry of Education. The program discusses with specialists and personalities the main issues related to Brazilian education and the daily life of schools, including successful experiences and innovative initiatives in the area of Education.",
+    "description": "Neste aplicativo, voc\u00ea poder\u00e1 assistir aos epis\u00f3dios do programa Salto para o Futuro, da TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o. O programa discute com especialistas e personalidades os principais assuntos relacionados \u00e0 educa\u00e7\u00e3o brasileira e ao contidiano das escolas, incluindo experi\u00eancias bem-sucedidas e iniciativas inovadoras na \u00e1rea da Educa\u00e7\u00e3o.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_future_education",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_future_education-icon.png",
+    "icon": "com.endlessm.fnde_mec_future_education.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1091,32 +1164,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_future_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_future_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_future_education-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_future_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_future_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_future_education-screenshot3.jpg"
+        "com.endlessm.fnde_mec_future_education.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_future_education.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_future_education.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_future_education-thumb.jpg",
-    "subtitle": "Main topics related to Education in debate",
-    "title": "Jump to the Future Education",
+    "square_img": "com.endlessm.fnde_mec_future_education.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Principais temas relacionados \u00e0 Educa\u00e7\u00e3o em debate",
+    "title": "Salto para o Futuro Educa\u00e7\u00e3o",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_geography",
+    "application-id": "com.endlessm.fnde_mec_geography.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "S\u00e9rie TV shows the geographic and environmental wealth of Brazil, on a trip through some of its most important urban and natural landscapes.",
+    "description": "S\u00e9rie da TV Escola mostra a riqueza geogr\u00e1fica e ambiental do Brasil, numa viagem por algumas de suas mais importantes paisagens, urbanas e naturais.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_geography",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_geography-icon.png",
+    "icon": "com.endlessm.fnde_mec_geography.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1124,32 +1192,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_geography-screenshot1.jpg",
-        "com.endlessm.fnde_mec_geography-screenshot2.jpg",
-        "com.endlessm.fnde_mec_geography-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_geography-screenshot1.jpg",
-        "com.endlessm.fnde_mec_geography-screenshot2.jpg",
-        "com.endlessm.fnde_mec_geography-screenshot3.jpg"
+        "com.endlessm.fnde_mec_geography.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_geography.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_geography.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_geography-thumb.jpg",
-    "subtitle": "Travel through the most beautiful landscapes of Brazil",
+    "square_img": "com.endlessm.fnde_mec_geography.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Viaje pelas mais belas paisagens do Brasil",
     "title": "Momento Brasil",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_health",
+    "application-id": "com.endlessm.fnde_mec_health.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The Gera\u00e7\u00e3o Sa\u00fade series is aimed at youngsters of primary and secondary education and deals with health and prevention issues. In this first series, the focus is on skin health, addressing acne, sun effects, blemishes, skin cancer and leprosy. The series is enriched with the sequences of the Virtual Man Project (human body in 3D) on each of the themes presented. Gera\u00e7\u00e3o Sa\u00fade is a production of TV Escola in partnership with the Ministry of Health.",
+    "description": "A s\u00e9rie Gera\u00e7\u00e3o Sa\u00fade \u00e9 voltada para jovens dos ensinos fundamental e m\u00e9dio e trata sobre temas de sa\u00fade e preven\u00e7\u00e3o. Nesta primeira s\u00e9rie, o foco \u00e9 a sa\u00fade da pele, abordando acne, efeitos do sol, manchas, c\u00e2ncer de pele e hansen\u00edase. A s\u00e9rie \u00e9 enriquecida com as sequ\u00eancias do Projeto Homem Virtual (corpo humano em 3D) sobre cada um dos temas apresentados. Gera\u00e7\u00e3o Sa\u00fade \u00e9 uma produ\u00e7\u00e3o da TV Escola em parceria com o Minist\u00e9rio da Sa\u00fade. ",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_health",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_health-icon.png",
+    "icon": "com.endlessm.fnde_mec_health.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1157,32 +1220,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_health-screenshot1.jpg",
-        "com.endlessm.fnde_mec_health-screenshot2.jpg",
-        "com.endlessm.fnde_mec_health-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_health-screenshot1.jpg",
-        "com.endlessm.fnde_mec_health-screenshot2.jpg",
-        "com.endlessm.fnde_mec_health-screenshot3.jpg"
+        "com.endlessm.fnde_mec_health.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_health.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_health.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_health-thumb.jpg",
-    "subtitle": "Understand and learn how to prevent acne, sun spots and other skin diseases",
-    "title": "Health Generation",
+    "square_img": "com.endlessm.fnde_mec_health.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Entenda e aprenda a prevenir acne, manchas de sol e outras doen\u00e7as de pele",
+    "title": "Gera\u00e7\u00e3o Sa\u00fade",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_high_school",
+    "application-id": "com.endlessm.fnde_mec_high_school.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In this set of videos produced by TV Escola, the public channel of the Ministry of Education, experts discuss, from successful experiences, how to improve the High School experience. In the series With Science, experiences are shown of how to teach chemistry, physics and biology in a more thought-provoking and attractive way for students. The program also includes videos from the series How To Do?, Teacher's Room, and Making School.",
+    "description": "Nesse conjunto de v\u00eddeos produzidos pela TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o, especialistas discutem, a partir de experi\u00eancias bem sucedidas, com melhorar o Ensino M\u00e9dio. Na s\u00e9rie Com Ci\u00eancia, experi\u00eancias de como ensinar qu\u00edmica, f\u00edsica e biologia de forma mais instigante e atraente para os alunos. O programa inclui ainda v\u00eddeos das s\u00e9ries Como Fazer?, Sala do Professor e Fazendo Escola.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_high_school",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_high_school-icon.png",
+    "icon": "com.endlessm.fnde_mec_high_school.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1190,32 +1248,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_high_school-screenshot1.jpg",
-        "com.endlessm.fnde_mec_high_school-screenshot2.jpg",
-        "com.endlessm.fnde_mec_high_school-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_high_school-screenshot1.jpg",
-        "com.endlessm.fnde_mec_high_school-screenshot2.jpg",
-        "com.endlessm.fnde_mec_high_school-screenshot3.jpg"
+        "com.endlessm.fnde_mec_high_school.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_high_school.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_high_school.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_high_school-thumb.jpg",
-    "subtitle": "Academic experiences to improve High School",
-    "title": "High School",
+    "square_img": "com.endlessm.fnde_mec_high_school.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Experi\u00eancias escolare para aprimorar o Ensino M\u00e9dio",
+    "title": "Ensino M\u00e9dio",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_history",
+    "application-id": "com.endlessm.fnde_mec_history.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The program brings together a series of videos and programs presented by TV Escola, the public channel of the Ministry of Education, and which deal with different periods and aspects of the History of Brazil.",
+    "description": "O programa re\u00fane uma s\u00e9rie de v\u00eddeos e programas exibidos pela TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o, e que abordam diferentes per\u00edodos e aspectos da Hist\u00f3ria do Brasil.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_history",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_history-icon.png",
+    "icon": "com.endlessm.fnde_mec_history.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1223,32 +1276,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_history-screenshot1.jpg",
-        "com.endlessm.fnde_mec_history-screenshot2.jpg",
-        "com.endlessm.fnde_mec_history-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_history-screenshot1.jpg",
-        "com.endlessm.fnde_mec_history-screenshot2.jpg",
-        "com.endlessm.fnde_mec_history-screenshot3.jpg"
+        "com.endlessm.fnde_mec_history.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_history.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_history.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_history-thumb.jpg",
-    "subtitle": "Documentaries about different periods of Brazilian history",
-    "title": "History of Brazil",
+    "square_img": "com.endlessm.fnde_mec_history.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Document\u00e1rios sobre diferentes per\u00edodos da Hist\u00f3ria do Brasil",
+    "title": "Hist\u00f3ria do Brasil",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_literature",
+    "application-id": "com.endlessm.fnde_mec_literature.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The app brings together two TV Escola series on literature. In Animated Books, Vanessa Pascale tells different stories to children. The series Masters of Literature deals with the life and work of great Brazilian writers, such as Guimar\u00e3es Rosa, Machado de Assis and M\u00e1rio de Andrade.",
+    "description": "O app re\u00fane duas s\u00e9ries da TV Escola sobre Literatura. Em Livros Animados, Vanessa Pascale conta diferentes hist\u00f3rias para as crian\u00e7as. J\u00e1 a s\u00e9rie Mestres da Literatura trata da vida e da obra de grandes escritores brasileiros, como Guimar\u00e3es Rosa, Machado de Assis e M\u00e1rio de Andrade.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_literature",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_literature-icon.png",
+    "icon": "com.endlessm.fnde_mec_literature.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1256,32 +1304,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_literature-screenshot1.jpg",
-        "com.endlessm.fnde_mec_literature-screenshot2.jpg",
-        "com.endlessm.fnde_mec_literature-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_literature-screenshot1.jpg",
-        "com.endlessm.fnde_mec_literature-screenshot2.jpg",
-        "com.endlessm.fnde_mec_literature-screenshot3.jpg"
+        "com.endlessm.fnde_mec_literature.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_literature.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_literature.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_literature-thumb.jpg",
-    "subtitle": "Storytelling for children and the stories of the great masters of literature",
-    "title": "Literature",
+    "square_img": "com.endlessm.fnde_mec_literature.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Conta\u00e7\u00e3o de hist\u00f3rias para crian\u00e7as e as hist\u00f3rias dos grandes mestres da Literatur",
+    "title": "Literatura",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_mathematics",
+    "application-id": "com.endlessm.fnde_mec_mathematics.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "This program features videos of three different series produced by TV Escola and which have mathematics as the guiding thread. The Art and Mathematics series deals with the relationships between Visual Arts and Music and the numbers, patterns, shapes and proportions. In the episodes of the series \"Hand in the Form\", the presenter Norma helps to understand geometry by means of jokes with the forms of the nature, trying to demystify the complicated side of the discipline. Finally, in Mathematics in Life, mathematical problems are presented in a practical way, with examples from everyday life.",
+    "description": "Este programa apresenta v\u00eddeos de tr\u00eas s\u00e9ries diferentes produzidas pela TV Escola e que t\u00eam a matem\u00e1tica como fio condutor. A s\u00e9rie Matem\u00e1tica trata das rela\u00e7\u00f5es entre Artes Visuais e M\u00fasica e os n\u00fameros, padr\u00f5es, formas e propor\u00e7\u00f5es. Nos epis\u00f3dios da s\u00e9rie M\u00e3o na Forma, a apresentadora Norma ajuda a entender geometria por meio de brincadeiras com as formas da natureza, tentando desmistificar o lado complicado da disciplina. Por fim, em Matem\u00e1tica na Vida, os problemas matem\u00e1ticos s\u00e3o apresentados de forma pr\u00e1tica, com exemplos do dia a dia.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_mathematics",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_mathematics-icon.png",
+    "icon": "com.endlessm.fnde_mec_mathematics.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1289,32 +1332,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_mathematics-screenshot1.jpg",
-        "com.endlessm.fnde_mec_mathematics-screenshot2.jpg",
-        "com.endlessm.fnde_mec_mathematics-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_mathematics-screenshot1.jpg",
-        "com.endlessm.fnde_mec_mathematics-screenshot2.jpg",
-        "com.endlessm.fnde_mec_mathematics-screenshot3.jpg"
+        "com.endlessm.fnde_mec_mathematics.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_mathematics.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_mathematics.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_mathematics-thumb.jpg",
-    "subtitle": "Mathematics and its applications in life and in the arts",
-    "title": "Art and Mathematics",
+    "square_img": "com.endlessm.fnde_mec_mathematics.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: A matem\u00e1tica e suas aplica\u00e7\u00f5es na vida e nas artes",
+    "title": "Matem\u00e1tica",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_physical_education",
+    "application-id": "com.endlessm.fnde_mec_physical_education.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The School Sport Series gives tips on physical education and sports content for teachers in videos produced by TV Escola, the public channel of the Ministry of Education. The program also includes short videos about sports and movement produced by the Roquete Pinto Foundation.",
+    "description": "A S\u00e9rie Esporte na Escola d\u00e1 dicas de aulas de educa\u00e7\u00e3o f\u00edsica e conte\u00fado sobre esportes para professores, em v\u00eddeos produzidos pela TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o. O programa inclui ainda v\u00eddeos de curta dura\u00e7\u00e3o sobre esporte e movimento produzidos pela Funda\u00e7\u00e3o Roquete Pinto.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_physical_education",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_physical_education-icon.png",
+    "icon": "com.endlessm.fnde_mec_physical_education.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1322,32 +1360,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_physical_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_physical_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_physical_education-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_physical_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_physical_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_physical_education-screenshot3.jpg"
+        "com.endlessm.fnde_mec_physical_education.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_physical_education.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_physical_education.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_physical_education-thumb.jpg",
-    "subtitle": "Teacher-oriented program to enrich Physical Education classes",
-    "title": "Sports at School",
+    "square_img": "com.endlessm.fnde_mec_physical_education.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Programa voltado para professores para enriquecer as aulas de Educa\u00e7\u00e3o F\u00edsica",
+    "title": "Esporte na Escola",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_portuguese",
+    "application-id": "com.endlessm.fnde_mec_portuguese.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In this app you will find videos that deal with the importance of writing and reading to society, as well as practical tips for learning how to speak and write correctly. The program brings together classic series produced by TV Escola, the television channel of the Ministry of Education, such as Nossa L\u00edngua Portuguesa (with Professor Pasquale), Orto e Grafia (animation directed towards children) and programs with tips on teaching writing and reading for teachers, such as Living Letter and Reading Travel.",
+    "description": "Neste app voc\u00ea vai encontrar v\u00eddeos que tratam da import\u00e2ncia da escrita e da leitura para a sociedade, bem como dicas pr\u00e1ticas para aprender a falar e a escrever corretamente. O programa re\u00fane s\u00e9ries cl\u00e1ssicas produzidas pela TV Escola, o canal de televis\u00e3o do Minist\u00e9rio da Educa\u00e7\u00e3o, como Nossa L\u00edngua Portuguesa (com o professor Pasquale), Orto e Grafia (anima\u00e7\u00e3o voltada para crian\u00e7as) e programas com dicas sobre o ensino da escrita e da leitura para professores, como Letra Viva e Viagens de Leitura.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_portuguese",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_portuguese-icon.png",
+    "icon": "com.endlessm.fnde_mec_portuguese.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1355,32 +1388,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_portuguese-screenshot1.jpg",
-        "com.endlessm.fnde_mec_portuguese-screenshot2.jpg",
-        "com.endlessm.fnde_mec_portuguese-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_portuguese-screenshot1.jpg",
-        "com.endlessm.fnde_mec_portuguese-screenshot2.jpg",
-        "com.endlessm.fnde_mec_portuguese-screenshot3.jpg"
+        "com.endlessm.fnde_mec_portuguese.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_portuguese.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_portuguese.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_portuguese-thumb.jpg",
-    "subtitle": "The importance of reading and writing in society",
-    "title": "Portuguese Language",
+    "square_img": "com.endlessm.fnde_mec_portuguese.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: A import\u00e2ncia da escrita e da leitura da sociedade",
+    "title": "Lingua Portuguesa",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_science",
+    "application-id": "com.endlessm.fnde_mec_science.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "In the series Where Does It Come From?, the character Kika has questions remaining about what happens around him. In a simple, fun and accessible language, the series produced by TV Escola responds to the girl's curious questions, who wants to understand the origin and function of electric power, crying, sneezing and everything else.",
+    "description": "Na s\u00e9rie De Onde Vem?, a personagem Kika tem perguntas de sobra sobre o que acontece ao seu redor. Em uma linguagem simples, divertida e acess\u00edvel, a s\u00e9rie produzida pela TV Escola responde \u00e0s perguntas curiosas da menina, que quer saber como funcionam e de onde v\u00eam a onda, a energia el\u00e9trica, o choro, o espirro e tudo o mais.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_science",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_science-icon.png",
+    "icon": "com.endlessm.fnde_mec_science.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1388,32 +1416,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_science-screenshot1.jpg",
-        "com.endlessm.fnde_mec_science-screenshot2.jpg",
-        "com.endlessm.fnde_mec_science-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_science-screenshot1.jpg",
-        "com.endlessm.fnde_mec_science-screenshot2.jpg",
-        "com.endlessm.fnde_mec_science-screenshot3.jpg"
+        "com.endlessm.fnde_mec_science.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_science.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_science.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_science-thumb.jpg",
-    "subtitle": "Curiosities about the world with the child character Kika",
-    "title": "Where does it come from?",
+    "square_img": "com.endlessm.fnde_mec_science.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Curiosidades sobre o mundo com a personagem infantil Kika",
+    "title": "De onde vem?",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.fnde_mec_special_education",
+    "application-id": "com.endlessm.fnde_mec_special_education.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "This program brings two series of videos produced by FNDE and shown by TV Escola, the public channel of the Ministry of Education: one about physical disabilities and another about intellectual disabilities. The topics are addressed through personal testimonies about challenges faced during the school career and life in general.",
+    "description": "Este programa traz duas s\u00e9ries de v\u00eddeos produzidos pelo FNDE e exibidos pela TV Escola, o canal p\u00fablico do Minist\u00e9rio da Educa\u00e7\u00e3o: uma sobre defici\u00eancias f\u00edsicas e outra sobre defici\u00eancias intelectuais. Os temas s\u00e3o abordados por meio de depoimentos pessoais sobre desafios enfrentados durante a trajet\u00f3ria escolar e na vida em geral.",
     "displayShape": "b1",
     "exec": "com.endlessm.fnde_mec_special_education",
     "featured_img": "",
-    "icon": "com.endlessm.fnde_mec_special_education-icon.png",
+    "icon": "com.endlessm.fnde_mec_special_education.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -1421,20 +1444,15 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.fnde_mec_special_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_special_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_special_education-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.fnde_mec_special_education-screenshot1.jpg",
-        "com.endlessm.fnde_mec_special_education-screenshot2.jpg",
-        "com.endlessm.fnde_mec_special_education-screenshot3.jpg"
+        "com.endlessm.fnde_mec_special_education.pt_br-screenshot1.jpg",
+        "com.endlessm.fnde_mec_special_education.pt_br-screenshot2.jpg",
+        "com.endlessm.fnde_mec_special_education.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.fnde_mec_special_education-thumb.jpg",
-    "subtitle": "Challenges and opportunities for people with physical and intellectual disabilities",
-    "title": "Special Education",
+    "square_img": "com.endlessm.fnde_mec_special_education.pt_br-thumb.jpg",
+    "subtitle": "TV Escola - MEC: Desafios e oportuidades para pessoas com defici\u00eancia f\u00edsica e intelectual",
+    "title": "Educa\u00e7\u00e3o Especial",
     "tryexec": ""
   },
   {
@@ -2503,15 +2521,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.teachers_portal_fundamental_final",
+    "application-id": "com.endlessm.teachers_portal_fundamental_final.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Suggestions for lesson plans to enrich the teaching of Primary School subjects 2 by teachers from different parts of Brazil, through the collaborative platform of the Portal do Professor, of the Ministry of Education.",
+    "description": "Sugest\u00f5es de planos de aulas para enriquecer o ensino das disciplinas do Ensino Fundamental final elaboradas por professores de diferentes partes do Brasil, por meio da plataforma colaborativa do Portal do Professor, do Minist\u00e9rio da Educa\u00e7\u00e3o.",
     "displayShape": "b1",
     "exec": "com.endlessm.teachers_portal_fundamental_final",
     "featured_img": "",
-    "icon": "com.endlessm.teachers_portal_fundamental_final-icon.png",
+    "icon": "com.endlessm.teachers_portal_fundamental_final.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2519,21 +2537,21 @@
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.teachers_portal_fundamental_final-thumb.jpg",
-    "subtitle": "Suggestions for classes for Elementary School 2",
+    "square_img": "com.endlessm.teachers_portal_fundamental_final.pt_br-thumb.jpg",
+    "subtitle": "Sugest\u00f5es de aulas para o Ensino fundamental final retiradas do Portal do Professor - MEC",
     "title": "Fundamental 2",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.teachers_portal_fundamental_initial",
+    "application-id": "com.endlessm.teachers_portal_fundamental_initial.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Plans of classes to enrich the teaching of the subjects of Elementary School 1 elaborated by professors of different parts of Brazil, through the collaborative platform of the Portal of the Teacher, of the Ministry of Education.",
+    "description": "Planos de aulas para enriquecer o ensino das disciplinas do Ensino Fundamental inicial elaboradas por professores de diferentes partes do Brasil, por meio da plataforma colaborativa do Portal do Professor, do Minist\u00e9rio da Educa\u00e7\u00e3o.",
     "displayShape": "b1",
     "exec": "com.endlessm.teachers_portal_fundamental_initial",
     "featured_img": "",
-    "icon": "com.endlessm.teachers_portal_fundamental_initial-icon.png",
+    "icon": "com.endlessm.teachers_portal_fundamental_initial.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2541,21 +2559,21 @@
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.teachers_portal_fundamental_initial-thumb.jpg",
-    "subtitle": "Suggestions for lessons for Elementary School 1",
+    "square_img": "com.endlessm.teachers_portal_fundamental_initial.pt_br-thumb.jpg",
+    "subtitle": "Sugest\u00f5es de aulas para o Ensino fundamental inicial retiradas do Portal do Professor - MEC",
     "title": "Fundamental 1",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.teachers_portal_high_school",
+    "application-id": "com.endlessm.teachers_portal_high_school.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Ideas of classes to complement the teaching of the disciplines of High School elaborated by professors of different parts of Brazil, through the collaborative platform of the Portal of the Teacher, of the Ministry of Education.",
+    "description": "Ideias de aulas para complementar o ensino das disciplinas do Ensino M\u00e9dio elaboradas por professores de diferentes partes do Brasil, por meio da plataforma colaborativa do Portal do Professor, do Minist\u00e9rio da Educa\u00e7\u00e3o.",
     "displayShape": "b1",
     "exec": "com.endlessm.teachers_portal_high_school",
     "featured_img": "",
-    "icon": "com.endlessm.teachers_portal_high_school-icon.png",
+    "icon": "com.endlessm.teachers_portal_high_school.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2563,21 +2581,21 @@
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.teachers_portal_high_school-thumb.jpg",
-    "subtitle": "Suggestions for classes for high school subjects Suggestions Definitions of suggestion noun an idea ",
-    "title": "High School",
+    "square_img": "com.endlessm.teachers_portal_high_school.pt_br-thumb.jpg",
+    "subtitle": "Sugest\u00f5es de aulas para as disciplinas do Ensino M\u00e9dio retiradas do Portal do Professor - MEC",
+    "title": "Ensino M\u00e9dio",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.teachers_portal_kindergarten",
+    "application-id": "com.endlessm.teachers_portal_kindergarten.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Improve the class curriculum of child education with various suggestions for class plans produced by teachers from all across the country and delivered by the Professor Portal from the Ministry of Education.",
+    "description": "Diversas sugest\u00f5es de planos de aulas de Educa\u00e7\u00e3o Infantil produzidas por professores de diferentes partes do Brasil por meio do Portal do Professor, do Minist\u00e9rio da Educa\u00e7\u00e3o.",
     "displayShape": "b1",
     "exec": "com.endlessm.teachers_portal_kindergarten",
     "featured_img": "",
-    "icon": "com.endlessm.teachers_portal_kindergarten-icon.png",
+    "icon": "com.endlessm.teachers_portal_kindergarten.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2585,32 +2603,27 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.teachers_portal_kindergarten-screenshot1.jpg",
-        "com.endlessm.teachers_portal_kindergarten-screenshot2.jpg",
-        "com.endlessm.teachers_portal_kindergarten-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.teachers_portal_kindergarten-screenshot1.jpg",
-        "com.endlessm.teachers_portal_kindergarten-screenshot2.jpg",
-        "com.endlessm.teachers_portal_kindergarten-screenshot3.jpg"
+        "com.endlessm.teachers_portal_kindergarten.pt_br-screenshot1.jpg",
+        "com.endlessm.teachers_portal_kindergarten.pt_br-screenshot2.jpg",
+        "com.endlessm.teachers_portal_kindergarten.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.teachers_portal_kindergarten-thumb.jpg",
-    "subtitle": "Suggestions for classes for child education",
-    "title": "Child Education",
+    "square_img": "com.endlessm.teachers_portal_kindergarten.pt_br-thumb.jpg",
+    "subtitle": "Sugest\u00f5es de aulas para professores de Educa\u00e7\u00e3o Infantil retiradas do Portal do Professor - MEC ",
+    "title": "Educa\u00e7\u00e3o Infantil",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.teachers_portal_professional",
+    "application-id": "com.endlessm.teachers_portal_professional.pt_BR",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Enrich your Professional Education class with suggestions for elaborate lesson plans from teachers all across the country, using the collaborative Professor Portal platform from the Ministry of Education.",
+    "description": "Sugest\u00f5es de planos de aula de Educa\u00e7\u00e3o Profissional elaborados por professores de todo o pa\u00eds, por meio da plataforma colaborativa do Portal do Professor, do Minist\u00e9rio da Educa\u00e7\u00e3o brasileiro. ",
     "displayShape": "b1",
     "exec": "com.endlessm.teachers_portal_professional",
     "featured_img": "",
-    "icon": "com.endlessm.teachers_portal_professional-icon.png",
+    "icon": "com.endlessm.teachers_portal_professional.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2618,20 +2631,15 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.teachers_portal_professional-screenshot1.jpg",
-        "com.endlessm.teachers_portal_professional-screenshot2.jpg",
-        "com.endlessm.teachers_portal_professional-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.teachers_portal_professional-screenshot1.jpg",
-        "com.endlessm.teachers_portal_professional-screenshot2.jpg",
-        "com.endlessm.teachers_portal_professional-screenshot3.jpg"
+        "com.endlessm.teachers_portal_professional.pt_br-screenshot1.jpg",
+        "com.endlessm.teachers_portal_professional.pt_br-screenshot2.jpg",
+        "com.endlessm.teachers_portal_professional.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.teachers_portal_professional-thumb.jpg",
-    "subtitle": "Suggestions for classes for professional education",
-    "title": "Professional Education",
+    "square_img": "com.endlessm.teachers_portal_professional.pt_br-thumb.jpg",
+    "subtitle": "Sugest\u00f5es de aulas para cursos de Educa\u00e7\u00e3o Profissional retiradas do Portal do Professor - MEC",
+    "title": "Educa\u00e7\u00e3o Profissional",
     "tryexec": ""
   },
   {
