@@ -279,53 +279,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.astronomy",
-    "category": "Education;Reference;Family;",
+    "application-id": "com.endlessm.astronomy.en",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.astronomy-splash.jpg",
+    "custom-splash-screen": "com.endlessm.astronomy.en-splash.jpg",
     "description": "Is there anything more incredible than outer space? This app will introduce you to the cosmos and will teach you about our own solar system and far beyond. Learn about planets, stars, galaxies, and even the mysteries of black holes! Understand our sun and moon, and think about the possibility of life elsewhere in the universe. You\u2019ll want to take off in a rocket ship after exploring this app!",
     "displayShape": "b2h",
     "exec": "eos-astronomy",
-    "featured_img": "com.endlessm.astronomy-featured.jpg",
-    "icon": "com.endlessm.astronomy-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.astronomy-screenshot1.jpg",
-        "com.endlessm.astronomy-screenshot2.jpg",
-        "com.endlessm.astronomy-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.astronomy-screenshot1.jpg",
-        "com.endlessm.astronomy-screenshot2.jpg",
-        "com.endlessm.astronomy-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.astronomy-screenshot1.jpg",
-        "com.endlessm.astronomy-screenshot2.jpg",
-        "com.endlessm.astronomy-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.astronomy-thumb.jpg",
-    "subtitle": "Learn about the universe and all it contains",
-    "title": "Astronomy",
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.bengali_curriculum",
-    "category": "Education;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.bengali_curriculum-splash.jpg",
-    "description": "Learn about Bengali, Mathematics, Science, Social Studies, Religion, English, and more with this program that covers Class I through Class X. Each subject contains a textbook with lots of information and practice exercises to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.bengali_curriculum",
-    "featured_img": "",
-    "icon": "com.endlessm.bengali_curriculum-icon.png",
+    "featured_img": "com.endlessm.astronomy.en-featured.jpg",
+    "icon": "com.endlessm.astronomy.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -333,58 +295,183 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.bengali_curriculum-screenshot1.jpg",
-        "com.endlessm.bengali_curriculum-screenshot2.jpg",
-        "com.endlessm.bengali_curriculum-screenshot3.jpg"
-      ],
-      "bn": [
-        "com.endlessm.bengali_curriculum-screenshot1.jpg",
-        "com.endlessm.bengali_curriculum-screenshot2.jpg",
-        "com.endlessm.bengali_curriculum-screenshot3.jpg"
+        "com.endlessm.astronomy.en-screenshot1.jpg",
+        "com.endlessm.astronomy.en-screenshot2.jpg",
+        "com.endlessm.astronomy.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.bengali_curriculum-thumb.jpg",
-    "subtitle": "National curriculum for Class I through Class X in all subjects",
-    "title": "Bangladesh National Curriculum",
+    "square_img": "com.endlessm.astronomy.en-thumb.jpg",
+    "subtitle": "Learn about the universe and all it contains",
+    "title": "Astronomy",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.biology",
-    "category": "Education;Reference;",
+    "application-id": "com.endlessm.astronomy.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.biology-splash.jpg",
-    "description": "Studying biology is an exciting pursuit because it gives us an understanding of what it means to be a living creature. This app covers everything from cells and tiny organisms to plants and animals. You can use this app to study many sub-disciplines of biology, or simply to gain a better understanding of the subject as a whole. Whether you want to study for a test or just learn more about this subject, download this app today to get started!",
-    "displayShape": "b2v",
-    "exec": "eos-biology",
-    "featured_img": "com.endlessm.biology-featured.jpg",
-    "icon": "com.endlessm.biology-icon.png",
+    "custom-splash-screen": "com.endlessm.astronomy.es-splash.jpg",
+    "description": "\u00bfHay algo m\u00e1s impresionante e incre\u00edble que el espacio exterior? Este programa te dar\u00e1 a conocer el gran cosmos, ense\u00f1\u00e1ndote sobre tu propio sistema solar y m\u00e1s all\u00e1. Aprende sobre los planetas, las estrellas, las galaxias y los misteriosos agujeros negros. Entiende nuestro sol y luna y considera la posibilidad de vida en otras partes del universo. \u00a1Querr\u00e1s salir en tu propia nave espacial despu\u00e9s de explorar este programa!",
+    "displayShape": "b1",
+    "exec": "eos-astronomy",
+    "featured_img": "",
+    "icon": "com.endlessm.astronomy.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.biology-screenshot1.jpg",
-        "com.endlessm.biology-screenshot2.jpg",
-        "com.endlessm.biology-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.biology-screenshot1.jpg",
-        "com.endlessm.biology-screenshot2.jpg",
-        "com.endlessm.biology-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.biology-screenshot1.jpg",
-        "com.endlessm.biology-screenshot2.jpg",
-        "com.endlessm.biology-screenshot3.jpg"
+        "com.endlessm.astronomy.es-screenshot1.jpg",
+        "com.endlessm.astronomy.es-screenshot2.jpg",
+        "com.endlessm.astronomy.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.biology-thumb.jpg",
+    "square_img": "com.endlessm.astronomy.es-thumb.jpg",
+    "subtitle": "Explora el universo y todo lo que contiene",
+    "title": "Astronom\u00eda",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.astronomy.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.astronomy.pt-splash.jpg",
+    "description": "Existe coisa mais incr\u00edvel que o espa\u00e7o sideral? Esse programa vai te apresentar ao cosmos, te ensinar sobre nosso sistema solar e muito mais. Aprenda sobre os planetas, estrelas, gal\u00e1xias e at\u00e9 mesmo os mist\u00e9rios dos buracos negros! Entenda o sol e a lua e pense sobre a possibilidade de vida em outros lugares do universo. Voc\u00ea vai querer decolar em um foguete depois que de explorar este programa!",
+    "displayShape": "b1",
+    "exec": "eos-astronomy",
+    "featured_img": "",
+    "icon": "com.endlessm.astronomy.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.astronomy.pt-screenshot1.jpg",
+        "com.endlessm.astronomy.pt-screenshot2.jpg",
+        "com.endlessm.astronomy.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.astronomy.pt-thumb.jpg",
+    "subtitle": "Aprenda sobre o universo e tudo que cont\u00e9m nele",
+    "title": "Astronomia",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.bengali_curriculum.bn_BD",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.bengali_curriculum.bn_bd-splash.jpg",
+    "description": "\u098f\u0987 \u0985\u09cd\u09af\u09be\u09aa\u099f\u09bf \u09a5\u09c7\u0995\u09c7 \u09b6\u09c7\u0996\u09be \u09af\u09be\u09ac\u09c7 \u09aa\u09cd\u09b0\u09a5\u09ae \u09b6\u09cd\u09b0\u09c7\u09a3\u09c0 \u09a5\u09c7\u0995\u09c7 \u09a8\u09ac\u09ae \u09b6\u09cd\u09b0\u09c7\u09a3\u09c0 \u0989\u09aa\u09af\u09cb\u0997\u09c0 \u09ac\u09be\u0982\u09b2\u09be, \u0985\u0999\u09cd\u0995, \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8, \u09b8\u09ae\u09be\u099c \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8, \u09a7\u09b0\u09cd\u09ae, \u0987\u0982\u09b0\u09c7\u099c\u09bf \u098f\u09ac\u0982 \u0986\u09b0\u0993 \u0985\u09a8\u09c7\u0995 \u09ac\u09bf\u09b7\u09df\u0964 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09be \u09ac\u09bf\u09b7\u09df\u09c7\u09b0 \u0989\u09aa\u09b0 \u0986\u099b\u09c7 \u09aa\u09b0\u09cd\u09af\u09be\u09aa\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u0993 \u0985\u09a8\u09c1\u09b6\u09c0\u09b2\u09a8 \u09af\u09be \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df\u09c7 \u09b8\u09ab\u09b2 \u09b9\u09a4\u09c7 \u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af \u0995\u09b0\u09ac\u09c7\u0964 \u0986\u09aa\u09a8\u09bf \u09af\u09a6\u09bf \u09b6\u09bf\u0995\u09cd\u09b7\u0995 \u09b9\u09a8, \u09a4\u09ac\u09c7 \u09aa\u09c1\u09b0\u09cb \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09ac\u09b0\u09cd\u09b7 \u098f\u0987 \u0985\u09cd\u09af\u09be\u09aa\u099f\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7\u09a8\u0964",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bengali_curriculum",
+    "featured_img": "",
+    "icon": "com.endlessm.bengali_curriculum.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.bengali_curriculum.bn_bd-screenshot1.jpg",
+        "com.endlessm.bengali_curriculum.bn_bd-screenshot2.jpg",
+        "com.endlessm.bengali_curriculum.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.bengali_curriculum.bn_bd-thumb.jpg",
+    "subtitle": "\u09b8\u09ac \u09ac\u09bf\u09b7\u09af\u09bc\u09c7 \u099c\u09be\u09a4\u09c0\u09af\u09bc \u09aa\u09be\u09a0\u09cd\u09af\u09aa\u09c1\u09b8\u09cd\u09a4\u0995",
+    "title": "\u099c\u09be\u09a4\u09c0\u09df \u09aa\u09be\u09a0\u09cd\u09af\u09aa\u09c1\u09b8\u09cd\u09a4\u0995",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.biology.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.biology.en-splash.jpg",
+    "description": "Studying biology is an exciting pursuit because it gives us an understanding of what it means to be a living creature. This app covers everything from cells and tiny organisms to plants and animals. You can use this app to study many sub-disciplines of biology, or simply to gain a better understanding of the subject as a whole. Whether you want to study for a test or just learn more about this subject, download this app today to get started!",
+    "displayShape": "b2v",
+    "exec": "eos-biology",
+    "featured_img": "com.endlessm.biology.en-featured.jpg",
+    "icon": "com.endlessm.biology.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.biology.en-screenshot1.jpg",
+        "com.endlessm.biology.en-screenshot2.jpg",
+        "com.endlessm.biology.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.biology.en-thumb.jpg",
     "subtitle": "Learn all about the living world around you",
     "title": "Biology",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.biology.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.biology.es-splash.jpg",
+    "description": "El estudio de la biolog\u00eda es emocionante porque te ayuda a entender qu\u00e9 es lo que significa ser un ser vivo. Este programa tiene mucha informaci\u00f3n, desde art\u00edculos sobre las c\u00e9lulas y los organismos min\u00fasculos hasta de las plantas y animales. Puedes utilizar este programa para estudiar muchas sub-disciplinas de la biolog\u00eda, o simplemente para aprender m\u00e1s sobre la materia. Si quieres estudiar para un examen o simplemente aprender m\u00e1s sobre este tema, \u00a1descarga este programa!",
+    "displayShape": "b1",
+    "exec": "eos-biology",
+    "featured_img": "",
+    "icon": "com.endlessm.biology.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.biology.es-screenshot1.jpg",
+        "com.endlessm.biology.es-screenshot2.jpg",
+        "com.endlessm.biology.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.biology.es-thumb.jpg",
+    "subtitle": "Aprende sobre la vida en el mundo que te rodea",
+    "title": "Biolog\u00eda",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.biology.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.biology.pt-splash.jpg",
+    "description": "Estudar a biologia \u00e9 um exerc\u00edcio emocionante porque nos d\u00e1 uma compreens\u00e3o do que significa ser uma criatura viva. Este programa abrange desde as c\u00e9lulas e organismos min\u00fasculos \u00e0 plantas e animais. Voc\u00ea pode usar este programa para estudar muitas sub-disciplinas de biologia, ou simplesmente para obter um melhor entendimento do assunto como um todo. Se voc\u00ea quer estudar para um teste ou apenas saber mais sobre este assunto, baixe este programa hoje mesmo para come\u00e7ar!",
+    "displayShape": "b1",
+    "exec": "eos-biology",
+    "featured_img": "",
+    "icon": "com.endlessm.biology.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.biology.pt-screenshot1.jpg",
+        "com.endlessm.biology.pt-screenshot2.jpg",
+        "com.endlessm.biology.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.biology.pt-thumb.jpg",
+    "subtitle": "Aprenda tudo sobre o mundo vivo ao seu redor",
+    "title": "Biologia",
     "tryexec": ""
   },
   {
@@ -454,41 +541,143 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.celebrities",
+    "application-id": "com.endlessm.celebrities.bn_BD",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.celebrities-splash.jpg",
+    "custom-splash-screen": "com.endlessm.celebrities.bn_bd-splash.jpg",
+    "description": "\u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09df \u09ae\u09c1\u09ad\u09bf \u0985\u09a5\u09ac\u09be \u09b8\u0999\u09cd\u0997\u09c0\u09a4 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a4\u09cd\u09ac\u09c7\u09b0 \u099c\u09c0\u09ac\u09a8 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09a4\u09c7 \u099a\u09be\u09a8, \u0985\u09a5\u09ac\u09be \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 \u0995\u09cb\u09a8 \u09b0\u09be\u099c\u09a8\u09c8\u09a4\u09bf\u0995 \u09a8\u09c7\u09a4\u09be\u09b0 \u09aa\u09c7\u099b\u09a8\u09c7\u09b0 \u0987\u09a4\u09bf\u09b9\u09be\u09b8 \u09ac\u09be \u0997\u09a0\u09a8\u0995\u09be\u09b0\u09c0 \u09ac\u099b\u09b0\u0997\u09c1\u09b2\u09cb \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0986\u0997\u09cd\u09b0\u09b9\u09c0, \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa\u09cd\u09b2\u09bf\u0995\u09c7\u09b6\u09a8 \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u09aa\u09a5 \u09a6\u09c7\u0996\u09bf\u09df\u09c7 \u09a8\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u0997\u09a8\u09cd\u09a4\u09ac\u09cd\u09af\u09c7\u0964 \u09ae\u099c\u09be \u0995\u09b0\u09c1\u09a8, \u099a\u09ae\u0995\u09aa\u09cd\u09b0\u09a6 \u0993 \u09a6\u09be\u09b0\u09c1\u09a3 \u09b8\u09ac \u09a4\u09a5\u09cd\u09af \u099c\u09be\u09a8\u09c1\u09a8, \u098f\u09ac\u0982 \u09ac\u09bf\u0996\u09cd\u09af\u09be\u09a4 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a6\u09c7\u09b0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u099c\u09cd\u099e\u09be\u09a8 \u09ac\u09a8\u09cd\u09a7\u09c1\u09a6\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09ad\u09be\u0997 \u0995\u09b0\u09c7 \u09a8\u09bf\u09a8!",
+    "displayShape": "b1",
+    "exec": "eos-celebrities",
+    "featured_img": "",
+    "icon": "com.endlessm.celebrities.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities.bn_bd-screenshot1.jpg",
+        "com.endlessm.celebrities.bn_bd-screenshot2.jpg",
+        "com.endlessm.celebrities.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.celebrities.bn_bd-thumb.jpg",
+    "subtitle": "\u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09df \u0995\u09c0\u09b0\u09cd\u09a4\u09bf\u09ae\u09be\u09a8 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a6\u09c7\u09b0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0986\u09b0\u09cb \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u0995\u09c0\u09b0\u09cd\u09a4\u09bf\u09ae\u09be\u09a8 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a4\u09cd\u09ac",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.celebrities.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.celebrities.en-splash.jpg",
     "description": "Whether you\u2019re wondering about the life of your favorite movie or pop star, or want to know more about the background and formative years of an important politician, this application can be your guide. Have fun, learn interesting and juicy facts, and share your knowledge of famous people with all of your friends!",
     "displayShape": "b1",
     "exec": "eos-celebrities",
     "featured_img": "",
-    "icon": "com.endlessm.celebrities-icon.png",
+    "icon": "com.endlessm.celebrities.en-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.celebrities-screenshot1.jpg",
-        "com.endlessm.celebrities-screenshot2.jpg",
-        "com.endlessm.celebrities-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.celebrities-screenshot1.jpg",
-        "com.endlessm.celebrities-screenshot2.jpg",
-        "com.endlessm.celebrities-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.celebrities-screenshot1.jpg",
-        "com.endlessm.celebrities-screenshot2.jpg",
-        "com.endlessm.celebrities-screenshot3.jpg"
+        "com.endlessm.celebrities.en-screenshot1.jpg",
+        "com.endlessm.celebrities.en-screenshot2.jpg",
+        "com.endlessm.celebrities.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.celebrities-thumb.jpg",
+    "square_img": "com.endlessm.celebrities.en-thumb.jpg",
     "subtitle": "Learn more about your favorite celebrities",
     "title": "Celebrities",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.celebrities.es",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.celebrities.es-splash.jpg",
+    "description": "\u00bfTe fascina la vida de los famosos? Ahora podr\u00e1s saber m\u00e1s de tus estrellas favoritas y mantenerte al tanto de lo que hacen. Ya sea que te preguntes sobre la vida de tu estrella de cine favorita o de tu m\u00fasico favorito, o quieras saber m\u00e1s sobre los or\u00edgenes y juventud de un pol\u00edtico importante, este programa puede ser tu gu\u00eda. \u00a1Divi\u00e9rtete, conoce hechos importantes, noticias jugosas y comparte tus conocimientos sobre los famosos con todos tus amigos!",
+    "displayShape": "b1",
+    "exec": "eos-celebrities",
+    "featured_img": "",
+    "icon": "com.endlessm.celebrities.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities.es-screenshot1.jpg",
+        "com.endlessm.celebrities.es-screenshot2.jpg",
+        "com.endlessm.celebrities.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.celebrities.es-thumb.jpg",
+    "subtitle": "Informaci\u00f3n y chisme sobre los m\u00e1s famosos",
+    "title": "Celebridades",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.celebrities.es_GT",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.celebrities.es_gt-splash.jpg",
+    "description": "\u00bfTe fascina la vida de los famosos? Ahora podr\u00e1s saber m\u00e1s de tus estrellas favoritas y mantenerte al tanto de lo que hacen. Ya sea que te preguntes sobre la vida de tu estrella de cine favorita o de tu m\u00fasico favorito, o quieras saber m\u00e1s sobre los or\u00edgenes y juventud de un pol\u00edtico importante, este programa puede ser tu gu\u00eda. \u00a1Divi\u00e9rtete, conoce hechos importantes, noticias jugosas y comparte tus conocimientos sobre los famosos con todos tus amigos!",
+    "displayShape": "b1",
+    "exec": "eos-celebrities",
+    "featured_img": "",
+    "icon": "com.endlessm.celebrities.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities.es_gt-screenshot1.jpg",
+        "com.endlessm.celebrities.es_gt-screenshot2.jpg",
+        "com.endlessm.celebrities.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.celebrities.es_gt-thumb.jpg",
+    "subtitle": "Informaci\u00f3n y chisme sobre los m\u00e1s famosos",
+    "title": "Celebridades",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.celebrities.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.celebrities.pt-splash.jpg",
+    "description": "Se voc\u00ea est\u00e1 querendo saber mais sobre o seu filme ou artista preferido, ou quer saber mais sobre o que est\u00e1 por tr\u00e1s da forma\u00e7\u00e3o de um pol\u00edtico importante, este programa pode ser o seu guia. Divirta-se e fique por dentro dos acontecimentos curiosos e interessantes e compartilhe o seu conhecimento sobre os famosos com todos os seus amigos!",
+    "displayShape": "b1",
+    "exec": "eos-celebrities",
+    "featured_img": "",
+    "icon": "com.endlessm.celebrities.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities.pt-screenshot1.jpg",
+        "com.endlessm.celebrities.pt-screenshot2.jpg",
+        "com.endlessm.celebrities.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.celebrities.pt-thumb.jpg",
+    "subtitle": "Saiba mais sobre suas celebridades favoritas",
+    "title": "Celebridades",
     "tryexec": ""
   },
   {
@@ -2291,91 +2480,91 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.sinadep_curso3",
+    "application-id": "com.endlessm.sinadep_curso3.es",
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The specific learning modules for this course are: Module I. Using CamScanner to digitilize evidence; Module II. Argumentation of the evidence (statements 1,2,3); y Module III. Argumentation of the evidence (statements 4-12)",
+    "description": "Este curso de SINADEP demuestra c\u00f3mo usar una aplicaci\u00f3n m\u00f3vil para digitalizar el aprendizaje de los estudiantes y dar sentido a esa informaci\u00f3n.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Uso de aplicaci\u00f3n CamScanner para la digitalizaci\u00f3n de evidencias; M\u00f3dulo II. Argumentaci\u00f3n de las evidencias (enunciados 1,2,3); y M\u00f3dulo III. Argumentaci\u00f3n de las evidencias (enunciados del 4 al 12).",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso3",
     "featured_img": "",
-    "icon": "com.endlessm.sinadep_curso3-icon.png",
+    "icon": "com.endlessm.sinadep_curso3.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Spanish"
+      "SINADEP"
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.sinadep_curso3-thumb.jpg",
-    "subtitle": "This course from SINADEP demonstrates how to use a mobile application to digitize student learning a",
-    "title": "Evidence Log",
+    "square_img": "com.endlessm.sinadep_curso3.es-thumb.jpg",
+    "subtitle": "Este curso de SINADEP demuestra c\u00f3mo usar una aplicaci\u00f3n m\u00f3vil para digitalizar el aprendizaje",
+    "title": "Expediente de Evidencias",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.sinadep_curso4",
+    "application-id": "com.endlessm.sinadep_curso4.es",
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The specific learning modules for this course are: Module I. Design of Didactic Planning; and Module II. Argumentation of Didactic Planning",
+    "description": "Este curso de SINADEP discute el ejercicio cotidiano de la pr\u00e1ctica profesional docente que se dise\u00f1a y promueve ambientes que garantizan el alcance de los aprendizajes para todos de los estudiantes.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Dise\u00f1o de la Planeaci\u00f3n Did\u00e1ctica; y M\u00f3dulo II. Argumentaci\u00f3n de la Planeaci\u00f3n Did\u00e1ctica.",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso4",
     "featured_img": "",
-    "icon": "com.endlessm.sinadep_curso4-icon.png",
+    "icon": "com.endlessm.sinadep_curso4.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Spanish"
+      "SINADEP"
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.sinadep_curso4-thumb.jpg",
-    "subtitle": "This course from SINADEP discusses the daily practice of professional teaching practice that designs",
-    "title": "Didactic Planning",
+    "square_img": "com.endlessm.sinadep_curso4.es-thumb.jpg",
+    "subtitle": "Este curso de SINADEP discute el ejercicio cotidiano de la pr\u00e1ctica profesional docente",
+    "title": "Planeaci\u00f3n did\u00e1ctica",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.sinadep_curso5_educacionPaz",
+    "application-id": "com.endlessm.sinadep_curso5_educacionPaz.es",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The specific learning modules for this course are: Module I. What Is Violence?; Module II. Educational Focus for Peace; Module III. Educational Practices for Peace in Mexico; and Module IV. Proactive Actions for Peace",
+    "description": "Este curso de SINADEP explora el concepto de educaci\u00f3n para la paz, as\u00ed como sus or\u00edgenes, su evoluci\u00f3n, su estado actual y sus pr\u00e1cticas, aterrizando a nuestro pa\u00eds a trav\u00e9s de actividades pr\u00e1cticas que implican la reflexi\u00f3n de ustedes.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. \u00bfQu\u00e9 es la violencia?; M\u00f3dulo II. Enfoques de Educaci\u00f3n para la Paz; M\u00f3dulo III. Pr\u00e1cticas de Educaci\u00f3n para la Paz en M\u00e9xico; y M\u00f3dulo IV. Acciones Proactivas hacia la Paz.",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso5_educacionPaz",
     "featured_img": "",
-    "icon": "com.endlessm.sinadep_curso5_educacionpaz-icon.png",
+    "icon": "com.endlessm.sinadep_curso5_educacionpaz.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Mexico"
+      "SINADEP"
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.sinadep_curso5_educacionpaz-thumb.jpg",
-    "subtitle": "This course from SINADEP explores the concept of education for peace.",
-    "title": "Education for Peace",
+    "square_img": "com.endlessm.sinadep_curso5_educacionpaz.es-thumb.jpg",
+    "subtitle": "Este curso de SINADEP explora el concepto de educaci\u00f3n para la paz",
+    "title": "Educaci\u00f3n para la Paz",
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.sinadep_curso6_usoDelExcel",
+    "application-id": "com.endlessm.sinadep_curso6_usoDelExcel.es",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "The specific learning modules for this course are: Module I. Description of the Environment, Data Dump and Format to Excel Cells; Module II. Management of Basic and Advanced Formulas; Module III. Document Handling and Integration",
+    "description": "Este curso de SINADEP discute los conocimientos b\u00e1sicos de Excel que permite la generaci\u00f3n de libros, con listas de alumnos para el manejo de datos cuantitativos, estudios estad\u00edsticos, formato de tablas, gr\u00e1ficos de resultados y funciones que permiten agilizar los procesos despu\u00e9s del vaciado de datos, entre otros manejos.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Descripci\u00f3n del Entorno, Vaciado de Datos y Formato a Celdas en Excel; M\u00f3dulo II. Manejo de F\u00f3rmulas B\u00e1sica y Avanzadas; M\u00f3dulo III. Manejo de Gr\u00e1ficas e Integraci\u00f3n de Documento.",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso6_usoDelExcel",
     "featured_img": "",
-    "icon": "com.endlessm.sinadep_curso6_usodelexcel-icon.png",
+    "icon": "com.endlessm.sinadep_curso6_usodelexcel.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Mexico"
+      "SINADEP"
     ],
     "screenshots": [],
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.sinadep_curso6_usodelexcel-thumb.jpg",
-    "subtitle": "This course from SINADEP discusses the basic knowledge of Excel",
-    "title": "Using Excel",
+    "square_img": "com.endlessm.sinadep_curso6_usodelexcel.es-thumb.jpg",
+    "subtitle": "Este curso de SINADEP discute los conocimientos b\u00e1sicos de Excel",
+    "title": "El uso del excel",
     "tryexec": ""
   },
   {
@@ -2535,7 +2724,13 @@
     "personalities": [
       "Brazil"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.teachers_portal_fundamental_final.pt_br-screenshot1.jpg",
+        "com.endlessm.teachers_portal_fundamental_final.pt_br-screenshot2.jpg",
+        "com.endlessm.teachers_portal_fundamental_final.pt_br-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.teachers_portal_fundamental_final.pt_br-thumb.jpg",
     "subtitle": "Sugest\u00f5es de aulas para o Ensino fundamental final retiradas do Portal do Professor - MEC",
@@ -2557,7 +2752,13 @@
     "personalities": [
       "Brazil"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.teachers_portal_fundamental_initial.pt_br-screenshot1.jpg",
+        "com.endlessm.teachers_portal_fundamental_initial.pt_br-screenshot2.jpg",
+        "com.endlessm.teachers_portal_fundamental_initial.pt_br-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.teachers_portal_fundamental_initial.pt_br-thumb.jpg",
     "subtitle": "Sugest\u00f5es de aulas para o Ensino fundamental inicial retiradas do Portal do Professor - MEC",
@@ -2579,7 +2780,13 @@
     "personalities": [
       "Brazil"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.teachers_portal_high_school.pt_br-screenshot1.jpg",
+        "com.endlessm.teachers_portal_high_school.pt_br-screenshot2.jpg",
+        "com.endlessm.teachers_portal_high_school.pt_br-screenshot3.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.teachers_portal_high_school.pt_br-thumb.jpg",
     "subtitle": "Sugest\u00f5es de aulas para as disciplinas do Ensino M\u00e9dio retiradas do Portal do Professor - MEC",
