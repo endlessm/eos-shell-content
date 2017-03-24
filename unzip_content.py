@@ -230,6 +230,9 @@ if __name__ == '__main__':
     # (for convenience in manually reviewing the file),
     # and with extra categories included (and with trailing
     # semicolon to match the freedesktop spec)
+    # Also, if there is only one screenshot language,
+    # let's force it to be "C" so that we have a fallback
+    # for all locales
     with open(target) as infile:
         json_data = json.load(infile)
     for app_data in json_data:
@@ -241,6 +244,21 @@ if __name__ == '__main__':
         for extra_category in extra_categories:
             categories += extra_category + ';'
         app_data['category'] = categories
+        screenshots = app_data['screenshots']
+        if len(screenshots) == 1:
+            locale = list(screenshots.keys())[0]
+            if locale != 'C':
+                new_screenshots = dict()
+                screenshot_list = screenshots[locale]
+                new_screenshots['C'] = screenshot_list
+                app_data['screenshots'] = new_screenshots
+                source_dir = os.path.join(CONTENT_DIR, 'apps', 'resources',
+                                          'screenshots', locale)
+                target_dir = os.path.join(CONTENT_DIR, 'apps', 'resources',
+                                          'screenshots', 'C')
+                for fname in screenshot_list:
+                    shutil.move(os.path.join(source_dir, fname),
+                                os.path.join(target_dir, fname))
     sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
 
     with open(target, 'w') as outfile:
