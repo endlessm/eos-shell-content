@@ -145,47 +145,6 @@ if __name__ == '__main__':
     # until the CMS is reworked
     languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar', 'bn']
 
-    # Copy the app json to the content folder
-    # with tweaks to the json content
-    source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
-    target_dir = os.path.join(CONTENT_DIR, 'apps')
-    target = os.path.join(target_dir, 'content.json')
-    os.makedirs(target_dir)
-    infile = open(source, 'r')
-    outfile = open(target, 'w')
-    for line in infile:
-        for i in range(0, len(locales)):
-            if languages[i]:
-                from_string = '"' + locales[i] + '"'
-                to_string = '"' + languages[i] + '"'
-                line = line.replace(from_string, to_string)
-        if (line.find('-screenshot') >= 0):
-            line = line.replace('.png', '.jpg')
-        outfile.write(line)
-    infile.close()
-    outfile.close()
-
-    # Re-write the JSON file sorted alphabetically by id,
-    # and with keys sorted so that application-id is first
-    # (for convenience in manually reviewing the file),
-    # and with extra categories included (and with trailing
-    # semicolon to match the freedesktop spec)
-    with open(target) as infile:
-        json_data = json.load(infile)
-    for app_data in json_data:
-        app_id = app_data['application-id']
-        if not app_data.get('category', None):
-            raise ValueError('No category for App ID %s' % app_id)
-        categories = app_data['category'] + ';'
-        extra_categories = EXTRA_CATEGORIES.get(app_id, [])
-        for extra_category in extra_categories:
-            categories += extra_category + ';'
-        app_data['category'] = categories
-    sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
-
-    with open(target, 'w') as outfile:
-        json.dump(sorted_json, outfile, indent=2, sort_keys=True)
-
     # Copy the thumbnail images to the content folder
     # with tweaked compression
     source_dir = os.path.join(UNZIP_DIR, 'apps', 'thumbs')
@@ -246,6 +205,46 @@ if __name__ == '__main__':
         source_file = os.path.join(source_dir, source)
         target_file = os.path.join(target_dir, target)
         convert(source_file, target_file, '')
+
+    # Copy the app json to the content folder
+    # with tweaks to the json content
+    source = os.path.join(UNZIP_DIR, 'apps', 'content.json')
+    target_dir = os.path.join(CONTENT_DIR, 'apps')
+    target = os.path.join(target_dir, 'content.json')
+    infile = open(source, 'r')
+    outfile = open(target, 'w')
+    for line in infile:
+        for i in range(0, len(locales)):
+            if languages[i]:
+                from_string = '"' + locales[i] + '"'
+                to_string = '"' + languages[i] + '"'
+                line = line.replace(from_string, to_string)
+        if (line.find('-screenshot') >= 0):
+            line = line.replace('.png', '.jpg')
+        outfile.write(line)
+    infile.close()
+    outfile.close()
+
+    # Re-write the JSON file sorted alphabetically by id,
+    # and with keys sorted so that application-id is first
+    # (for convenience in manually reviewing the file),
+    # and with extra categories included (and with trailing
+    # semicolon to match the freedesktop spec)
+    with open(target) as infile:
+        json_data = json.load(infile)
+    for app_data in json_data:
+        app_id = app_data['application-id']
+        if not app_data.get('category', None):
+            raise ValueError('No category for App ID %s' % app_id)
+        categories = app_data['category'] + ';'
+        extra_categories = EXTRA_CATEGORIES.get(app_id, [])
+        for extra_category in extra_categories:
+            categories += extra_category + ';'
+        app_data['category'] = categories
+    sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
+
+    with open(target, 'w') as outfile:
+        json.dump(sorted_json, outfile, indent=2, sort_keys=True)
 
     # Special handling of link locales for es vs. es_GT
     link_locales = [['en-us'], ['es'], ['es', 'es-gt'], ['es', 'es-mx'], ['pt-br'], ['zh-hans'], ['bn'], ['id'], ['th'], ['vi']]
