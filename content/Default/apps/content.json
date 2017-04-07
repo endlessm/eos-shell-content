@@ -507,15 +507,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.capacitate_services",
+    "application-id": "com.endlessm.capacitate_services.es",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Capac\u00edtate Para El Empleo is a job skills and work readiness educational platform published by the Carlos Slim Foundation. Choose from one of ten courses in the field of Servicio al Cliente, such as bartender or housecleaner, and complete the series of videos and readings to be on your way to a new career!",
+    "description": "\"Capac\u00edtate para el empleo\" es una plataforma educativa de preparaci\u00f3n para el trabajo publicada por la Fundaci\u00f3n Carlos Slim. Elije entre diez cursos en el campo de Servicio al Cliente, como cursos para aprender a ser mesero o cajero, y completa la serie de videos y lecturas para estar en camino a una nueva carrera.",
     "displayShape": "b1",
     "exec": "com.endlessm.capacitate_services",
     "featured_img": "",
-    "icon": "com.endlessm.capacitate_services-icon.png",
+    "icon": "com.endlessm.capacitate_services.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -523,34 +523,29 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.capacitate_services-screenshot1.jpg",
-        "com.endlessm.capacitate_services-screenshot2.jpg",
-        "com.endlessm.capacitate_services-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.capacitate_services-screenshot1.jpg",
-        "com.endlessm.capacitate_services-screenshot2.jpg",
-        "com.endlessm.capacitate_services-screenshot3.jpg"
+        "com.endlessm.capacitate_services.es-screenshot1.jpg",
+        "com.endlessm.capacitate_services.es-screenshot2.jpg",
+        "com.endlessm.capacitate_services.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.capacitate_services-thumb.jpg",
-    "subtitle": "Learn the necessary skills for a job in Servicio al Cliente",
-    "title": "Client Services Courses",
+    "square_img": "com.endlessm.capacitate_services.es-thumb.jpg",
+    "subtitle": "Aprende las habilidades necesarias para un trabajo en Servicio al Cliente",
+    "title": "Cursos de Servicio al Cliente",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.capacitate_technology",
+    "application-id": "com.endlessm.capacitate_technology.es",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.capacitate_technology-splash.jpg",
-    "description": "Capac\u00edtate Para El Empleo is a job skills and work readiness educational platform published by the Carlos Slim Foundation. Choose from one of nineteen courses in the field of Tecnologia, such as web developer or database administrator, and complete the series of videos and readings to be on your way to a new career!",
+    "custom-splash-screen": "com.endlessm.capacitate_technology.es-splash.jpg",
+    "description": "\"Capac\u00edtate para el empleo\" es una plataforma educativa de preparaci\u00f3n para el trabajo publicada por la Fundaci\u00f3n Carlos Slim. Elije entre diez cursos en el campo de tecnolog\u00eda, como cursos para aprender a ser desarrollador o t\u00e9cnico en inform\u00e1tica, y completa la serie de videos y lecturas para estar en camino a una nueva carrera.",
     "displayShape": "b1",
     "exec": "com.endlessm.capacitate_technology",
     "featured_img": "",
-    "icon": "com.endlessm.capacitate_technology-icon.png",
+    "icon": "com.endlessm.capacitate_technology.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -558,20 +553,15 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.capacitate_technology-screenshot1.jpg",
-        "com.endlessm.capacitate_technology-screenshot2.jpg",
-        "com.endlessm.capacitate_technology-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.capacitate_technology-screenshot1.jpg",
-        "com.endlessm.capacitate_technology-screenshot2.jpg",
-        "com.endlessm.capacitate_technology-screenshot3.jpg"
+        "com.endlessm.capacitate_technology.es-screenshot1.jpg",
+        "com.endlessm.capacitate_technology.es-screenshot2.jpg",
+        "com.endlessm.capacitate_technology.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.capacitate_technology-thumb.jpg",
-    "subtitle": "Learn the necessary skills for a career in tecnolog\u00eda.",
-    "title": "Technology courses",
+    "square_img": "com.endlessm.capacitate_technology.es-thumb.jpg",
+    "subtitle": "Aprende las habilidades necesarias para una carrera en tecnolog\u00eda",
+    "title": "Cursos de tecnolog\u00eda",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -727,50 +717,45 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.childrens_collection",
-    "category": "Reference;Education;",
+    "application-id": "com.endlessm.childrens_collection.es",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.childrens_collection-splash.jpeg",
-    "description": "Read away! Uncover mysteries, laugh, and embark on adventures. Spend time reading with your children, or let them choose some fun stories to read on their own. Here you will find stories, poems, and folk tales that everyone in your family will enjoy. Start reading and let the entertainment unfold.",
+    "custom-splash-screen": "com.endlessm.childrens_collection.es-splash.jpeg",
+    "description": "\u00a1A leer! Resuelve misterios, r\u00ede o emb\u00e1rcate en aventuras. Aprovecha el tiempo leyendo con tus hijos o d\u00e9jalos leer historias divertidas. Aqu\u00ed encontrar\u00e1s historias, poemas y cuentos populares que les gustar\u00e1n a toda la familia. Comienza a leer, \u00a1y que comience el entretenimiento!",
     "displayShape": "b1",
     "exec": "eos-childrens-collection",
     "featured_img": "",
-    "icon": "com.endlessm.childrens_collection-icon.png",
+    "icon": "com.endlessm.childrens_collection.es-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.childrens_collection-screenshot1.jpg",
-        "com.endlessm.childrens_collection-screenshot2.jpg",
-        "com.endlessm.childrens_collection-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.childrens_collection-screenshot1.jpg",
-        "com.endlessm.childrens_collection-screenshot2.jpg",
-        "com.endlessm.childrens_collection-screenshot3.jpg"
+        "com.endlessm.childrens_collection.es-screenshot1.jpg",
+        "com.endlessm.childrens_collection.es-screenshot2.jpg",
+        "com.endlessm.childrens_collection.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.childrens_collection-thumb.jpg",
-    "subtitle": "Short stories that will delight the whole family",
-    "title": "Children's Collection",
+    "square_img": "com.endlessm.childrens_collection.es-thumb.jpg",
+    "subtitle": "Cuentos cortos que les encantar\u00e1n a toda la familia",
+    "title": "Colecci\u00f3n infantil",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.chinese_curriculum_english",
+    "application-id": "com.endlessm.chinese_curriculum_english.zh_CN",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.chinese_curriculum_english-splash.jpg",
-    "description": "Practice your elementary English skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. There are also audio clips so you can improve your listening skills. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
+    "custom-splash-screen": "com.endlessm.chinese_curriculum_english.zh_cn-splash.jpg",
+    "description": "\u672c\u5e94\u7528\uff08\u5c0f\u5b66\u82f1\u8bed\uff09\u7531\u6559\u5b66\u4e00\u7ebf\u7684\u4f18\u79c0\u8001\u5e08\u5171\u540c\u53c2\u4e0e\u7f16\u5199\uff0c\u5438\u53d6\u4e86\u65b0\u8bfe\u7a0b\u6539\u9769\u7684\u6700\u65b0\u6210\u679c\uff0c\u6253\u7834\u4f20\u7edf\u7684\u7f16\u5199\u601d\u8def\uff0c\u535a\u91c7\u4f17\u5bb6\u4e4b\u957f\u3002\u5176\u5185\u5bb9\u7d27\u6263\u4eba\u6559\u7248\u8bfe\u672c\uff0c\u4ee5\u8bfe\u65f6\u4e3a\u7f16\u5199\u5355\u4f4d\uff0c\u4e0e\u8bfe\u5802\u6559\u5b66\u540c\u6b65\uff0c\u65e2\u65b9\u4fbf\u8001\u5e08\u6559\u5b66\uff0c\u53c8\u5229\u4e8e\u5b66\u751f\u53ca\u65f6\u5de9\u56fa\u590d\u4e60\u3002",
     "displayShape": "b1",
     "exec": "com.endlessm.chinese_curriculum_english",
     "featured_img": "",
-    "icon": "com.endlessm.chinese_curriculum_english-icon.png",
+    "icon": "com.endlessm.chinese_curriculum_english.zh_cn-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -778,34 +763,29 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.chinese_curriculum_english-screenshot1.jpg",
-        "com.endlessm.chinese_curriculum_english-screenshot2.jpg",
-        "com.endlessm.chinese_curriculum_english-screenshot3.jpg"
-      ],
-      "zh_CN": [
-        "com.endlessm.chinese_curriculum_english-screenshot1.jpg",
-        "com.endlessm.chinese_curriculum_english-screenshot2.jpg",
-        "com.endlessm.chinese_curriculum_english-screenshot3.jpg"
+        "com.endlessm.chinese_curriculum_english.zh_cn-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_english.zh_cn-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_english.zh_cn-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.chinese_curriculum_english-thumb.jpg",
-    "subtitle": "Primary English curriculum practice",
-    "title": "Learn English Curriculum",
+    "square_img": "com.endlessm.chinese_curriculum_english.zh_cn-thumb.jpg",
+    "subtitle": "\u5c0f\u5b66\u82f1\u8bed\u4eba\u6559\u7248\u540c\u6b65\u7cbe\u7ec3",
+    "title": "\u5c0f\u5b66\u82f1\u8bed",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.chinese_curriculum_math",
+    "application-id": "com.endlessm.chinese_curriculum_math.zh_CN",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.chinese_curriculum_math-splash.jpg",
-    "description": "Practice your elementary math skills with this program. For each topic, there is a workbook with practice questions as well as answers to check your work. The resources in this program have a ton of information and practices to help you study and succeed in school. If you're a teacher, this app is perfect for guiding your class throughout the school year.",
+    "custom-splash-screen": "com.endlessm.chinese_curriculum_math.zh_cn-splash.jpg",
+    "description": "\u672c\u5e94\u7528\uff08\u5c0f\u5b66\u6570\u5b66\uff09\u7531\u6559\u5b66\u4e00\u7ebf\u7684\u4f18\u79c0\u8001\u5e08\u5171\u540c\u53c2\u4e0e\u7f16\u5199\uff0c\u5438\u53d6\u4e86\u65b0\u8bfe\u7a0b\u6539\u9769\u7684\u6700\u65b0\u6210\u679c\uff0c\u6253\u7834\u4f20\u7edf\u7684\u7f16\u5199\u601d\u8def\uff0c\u535a\u91c7\u4f17\u5bb6\u4e4b\u957f\u3002\u5176\u5185\u5bb9\u7d27\u6263\u4eba\u6559\u7248\u8bfe\u672c\uff0c\u4ee5\u8bfe\u65f6\u4e3a\u7f16\u5199\u5355\u4f4d\uff0c\u4e0e\u8bfe\u5802\u6559\u5b66\u540c\u6b65\uff0c\u65e2\u65b9\u4fbf\u8001\u5e08\u6559\u5b66\uff0c\u53c8\u5229\u4e8e\u5b66\u751f\u53ca\u65f6\u5de9\u56fa\u590d\u4e60\u3002",
     "displayShape": "b1",
     "exec": "com.endlessm.chinese_curriculum_math",
     "featured_img": "",
-    "icon": "com.endlessm.chinese_curriculum_math-icon.png",
+    "icon": "com.endlessm.chinese_curriculum_math.zh_cn-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -813,63 +793,103 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.chinese_curriculum_math-screenshot1.jpg",
-        "com.endlessm.chinese_curriculum_math-screenshot2.jpg",
-        "com.endlessm.chinese_curriculum_math-screenshot3.jpg"
-      ],
-      "zh_CN": [
-        "com.endlessm.chinese_curriculum_math-screenshot1.jpg",
-        "com.endlessm.chinese_curriculum_math-screenshot2.jpg",
-        "com.endlessm.chinese_curriculum_math-screenshot3.jpg"
+        "com.endlessm.chinese_curriculum_math.zh_cn-screenshot1.jpg",
+        "com.endlessm.chinese_curriculum_math.zh_cn-screenshot2.jpg",
+        "com.endlessm.chinese_curriculum_math.zh_cn-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.chinese_curriculum_math-thumb.jpg",
-    "subtitle": "Primary mathematics curriculum practice",
-    "title": "Math Curriculum",
+    "square_img": "com.endlessm.chinese_curriculum_math.zh_cn-thumb.jpg",
+    "subtitle": "\u5c0f\u5b66\u6570\u5b66\u4eba\u6559\u7248\u540c\u6b65\u7cbe\u7ec3",
+    "title": "\u5c0f\u5b66\u6570\u5b66",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.cooking",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.cooking.ar",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.cooking-splash.jpg",
-    "description": "Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
-    "displayShape": "b2h",
+    "custom-splash-screen": "com.endlessm.cooking.ar-splash.jpg",
+    "description": "\u062a\u062a\u0637\u0644\u0639 \u0644\u0637\u0647\u064a \u0634\u064a\u0621\u064d \u0639\u0638\u064a\u0645\u064d \u0644\u0623\u0635\u062f\u0642\u0627\u0626\u0643 \u0648\u0639\u0627\u0626\u0644\u062a\u0643\u061f \u064a\u062d\u062a\u0648\u064a \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0639\u0644\u0649 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0637\u0628\u062e \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0648\u0628\u0639\u0636 \u0627\u0644\u0648\u0635\u0641\u0627\u062a \u0627\u0644\u0639\u0638\u064a\u0645\u0629. \u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u0646\u0635\u0627\u0626\u062d \u0645\u0641\u064a\u062f\u0629 \u062d\u0648\u0644 \u0627\u0644\u0645\u0637\u0628\u062e\u060c \u0648\u0643\u0630\u0644\u0643 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062d\u0648\u0644 \u0643\u064a\u0641\u064a\u0629 \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u0637\u0639\u0627\u0645 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u064d \u0644\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u062c\u0633\u0645\u0643 \u0641\u064a \u0623\u0641\u0636\u0644 \u0635\u0648\u0631\u0647. \u0633\u0648\u0641 \u064a\u0633\u0631 \u0623\u062d\u0628\u0627\u0626\u0643 \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0625\u0628\u062f\u0627\u0639\u0627\u062a \u0637\u0628\u062e\u0643\u060c \u0648\u0633\u0648\u0641 \u064a\u0639\u062c\u0628\u0648\u0646 \u0628\u0645\u0647\u0627\u0631\u0627\u062a\u0643.",
+    "displayShape": "b1",
     "exec": "eos-cooking",
-    "featured_img": "com.endlessm.cooking-featured.jpg",
-    "icon": "com.endlessm.cooking-icon.png",
+    "featured_img": "",
+    "icon": "com.endlessm.cooking.ar-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "All"
+      "Arabic"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.cooking-screenshot1.jpg",
-        "com.endlessm.cooking-screenshot2.jpg",
-        "com.endlessm.cooking-screenshot3.jpg"
-      ],
-      "ar": [
-        "com.endlessm.cooking-screenshot1.jpg",
-        "com.endlessm.cooking-screenshot2.jpg",
-        "com.endlessm.cooking-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.cooking-screenshot1.jpg",
-        "com.endlessm.cooking-screenshot2.jpg",
-        "com.endlessm.cooking-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.cooking-screenshot1.jpg",
-        "com.endlessm.cooking-screenshot2.jpg",
-        "com.endlessm.cooking-screenshot3.jpg"
+        "com.endlessm.cooking.ar-screenshot1.jpg",
+        "com.endlessm.cooking.ar-screenshot2.jpg",
+        "com.endlessm.cooking.ar-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.cooking-thumb.jpg",
+    "square_img": "com.endlessm.cooking.ar-thumb.jpg",
+    "subtitle": "\u0648\u0635\u0641\u0627\u062a \u0644\u0630\u064a\u0630\u0629 \u0648\u0646\u0635\u0627\u0626\u062d \u0644\u0644\u0637\u0628\u062e",
+    "title": "\u0627\u0644\u0637\u0628\u062e",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.cooking.bn_BD",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.cooking.bn_bd-splash.jpg",
+    "description": "\u0986\u09aa\u09a8\u09be\u09b0 \u09ac\u09a8\u09cd\u09a7\u09c1 \u0993 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09be\u09b0\u09c1\u09a3 \u0995\u09bf\u099b\u09c1 \u09b0\u09be\u09a8\u09cd\u09a8\u09be\u09b0 \u0995\u09a5\u09be \u09ad\u09be\u09ac\u099b\u09c7\u09a8? \u098f\u0987 \u0989\u09aa\u0995\u09be\u09b0\u09c0 \u098f\u09cd\u09af\u09be\u09aa\u09c7 \u0986\u09aa\u09a8\u09bf \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995 \u09b8\u09cd\u09a4\u09b0\u09c7\u09b0 \u09b0\u09be\u09a8\u09cd\u09a8\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09a8\u09be \u09aa\u09be\u09ac\u09c7\u09a8 \u098f\u09ac\u0982 \u09b8\u09be\u09a5\u09c7 \u0995\u09bf\u099b\u09c1 \u0985\u09b8\u09be\u09a7\u09be\u09b0\u09a3 \u09b0\u09c7\u09b8\u09bf\u09aa\u09bf\u0964 \u09b0\u09be\u09a8\u09cd\u09a8\u09be\u0998\u09b0 \u09a8\u09bf\u09df\u09c7 \u0989\u09aa\u0995\u09be\u09b0\u09c0 \u09ac\u09c1\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09ac\u09c7\u09a8, \u09b8\u09c7\u0987 \u09b8\u09be\u09a5\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09b6\u09b0\u09c0\u09b0\u0995\u09c7 \u09b8\u09b0\u09cd\u09ac\u09cb\u09a4\u09cd\u09a4\u09ae \u09b0\u09be\u0996\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u0995\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09a4\u09a5\u09cd\u09af\u0964 \u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09be\u099b\u09c7\u09b0 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0\u09be \u0986\u09aa\u09a8\u09be\u09b0 \u09b0\u09a8\u09cd\u09a7\u09a8 \u09b6\u09bf\u09b2\u09cd\u09aa \u09ad\u09be\u0997 \u0995\u09b0\u09c7 \u09a8\u09bf\u09a4\u09c7 \u0986\u0997\u09cd\u09b0\u09b9\u09c0 \u09b9\u09ac\u09c7, \u098f\u09ac\u0982 \u0986\u09aa\u09a8\u09be\u09b0 \u09a6\u0995\u09cd\u09b7\u09a4\u09be\u09df \u09ae\u09c1\u0997\u09cd\u09a7 \u09b9\u09ac\u09c7\u0964",
+    "displayShape": "b1",
+    "exec": "eos-cooking",
+    "featured_img": "",
+    "icon": "com.endlessm.cooking.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.cooking.bn_bd-screenshot1.jpg",
+        "com.endlessm.cooking.bn_bd-screenshot2.jpg",
+        "com.endlessm.cooking.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.cooking.bn_bd-thumb.jpg",
+    "subtitle": "\u09b8\u09c1\u09b8\u09cd\u09ac\u09be\u09a6\u09c1 \u09b0\u09c7\u09b8\u09bf\u09aa\u09bf \u098f\u09ac\u0982 \u09b0\u09be\u09a8\u09cd\u09a8\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09ac\u09c1\u09a6\u09cd\u09a7\u09bf",
+    "title": "\u09b0\u09be\u09a8\u09cd\u09a8\u09be",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.cooking.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.cooking.en-splash.jpg",
+    "description": "Looking to cook something great for your friends and family? This helpful app features basic cooking instructions and some great recipes. Get helpful tips about the kitchen, as well as information on how to eat healthily to keep your body in its best shape. Your loved ones will be glad to share your cooking creations, and will be impressed with your skills.",
+    "displayShape": "b2h",
+    "exec": "eos-cooking",
+    "featured_img": "com.endlessm.cooking.en-featured.jpg",
+    "icon": "com.endlessm.cooking.en-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.cooking.en-screenshot1.jpg",
+        "com.endlessm.cooking.en-screenshot2.jpg",
+        "com.endlessm.cooking.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.cooking.en-thumb.jpg",
     "subtitle": "Delicious recipes and tips for cooking",
     "title": "Cooking",
     "translation_id": null,
@@ -877,74 +897,149 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.creativity_center",
-    "category": "Reference;Education;Family;",
+    "application-id": "com.endlessm.cooking.es",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.creativity_center-splash.jpeg",
-    "description": "Get ready to unleash your imagination. Use this app to uncover new skills and construct innovative objects. Your mind, your hands, and everyday materials will allow you to create useful tools and even works of art.",
+    "custom-splash-screen": "com.endlessm.cooking.es-splash.jpg",
+    "description": "\u00bfQuieres cocinar algo espectacular para tus amigos o tu familia? Deja que este programa de cocina sea tu compa\u00f1era. Aprende t\u00e9cnicas b\u00e1sicas para cocinar y varias recetas deliciosas para practicarlas. Obt\u00e9n consejos \u00fatiles sobre la cocina, e informaci\u00f3n sobre c\u00f3mo comer saludablemente para mantener tu cuerpo de la mejor forma posible. Tus seres queridos estar\u00e1n contentos de compartir tus creaciones culinarias, y los impresionar\u00e1s con tus habilidades.",
     "displayShape": "b1",
-    "exec": "eos-creativity-center",
+    "exec": "eos-cooking",
     "featured_img": "",
-    "icon": "com.endlessm.creativity_center-icon.png",
+    "icon": "com.endlessm.cooking.es-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.creativity_center-screenshot1.jpg",
-        "com.endlessm.creativity_center-screenshot2.jpg",
-        "com.endlessm.creativity_center-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.creativity_center-screenshot1.jpg",
-        "com.endlessm.creativity_center-screenshot2.jpg",
-        "com.endlessm.creativity_center-screenshot3.jpg"
+        "com.endlessm.cooking.es-screenshot1.jpg",
+        "com.endlessm.cooking.es-screenshot2.jpg",
+        "com.endlessm.cooking.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.creativity_center-thumb.jpg",
-    "subtitle": "Drawing, painting, music, and so much more",
-    "title": "Creativity Center",
+    "square_img": "com.endlessm.cooking.es-thumb.jpg",
+    "subtitle": "Recetas deliciosas y consejos para cocinar mejor",
+    "title": "La cocina",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.dinosaurs",
-    "category": "Education;Reference;",
+    "application-id": "com.endlessm.cooking.es_GT",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.dinosaurs-splash.jpg",
+    "custom-splash-screen": "com.endlessm.cooking.es_gt-splash.jpg",
+    "description": "\u00bfQuieres cocinar algo espectacular para tus amigos o tu familia? Deja que este programa de cocina sea tu compa\u00f1era. Aprende t\u00e9cnicas b\u00e1sicas para cocinar y varias recetas deliciosas para practicarlas. Obt\u00e9n consejos \u00fatiles sobre la cocina, e informaci\u00f3n sobre c\u00f3mo comer saludablemente para mantener tu cuerpo de la mejor forma posible. Tus seres queridos estar\u00e1n contentos de compartir tus creaciones culinarias, y los impresionar\u00e1s con tus habilidades.",
+    "displayShape": "b1",
+    "exec": "eos-cooking",
+    "featured_img": "",
+    "icon": "com.endlessm.cooking.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.cooking.es_gt-screenshot1.jpg",
+        "com.endlessm.cooking.es_gt-screenshot2.jpg",
+        "com.endlessm.cooking.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.cooking.es_gt-thumb.jpg",
+    "subtitle": "Recetas deliciosas y consejos para cocinar mejor",
+    "title": "La cocina",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.cooking.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.cooking.pt-splash.jpg",
+    "description": "Quer impressionar seus amigos e fam\u00edlia na cozinha? Deixe este programa ser a sua companhia. Este conveniente programa oferece instru\u00e7\u00f5es b\u00e1sicas de cozinha e muitas receitas deliciosas. Obtenha dicas \u00fateis sobre culin\u00e1ria e informa\u00e7\u00f5es sobre como se alimentar com sa\u00fade para manter o seu corpo na melhor forma. Os seus convidados ficar\u00e3o felizes em compartilhar suas cria\u00e7\u00f5es na cozinha e v\u00e3o ficar impressionados com suas habilidades.",
+    "displayShape": "b1",
+    "exec": "eos-cooking",
+    "featured_img": "",
+    "icon": "com.endlessm.cooking.pt-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.cooking.pt-screenshot1.jpg",
+        "com.endlessm.cooking.pt-screenshot2.jpg",
+        "com.endlessm.cooking.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.cooking.pt-thumb.jpg",
+    "subtitle": "Truques e dicas de cozinha para compartilhar com a fam\u00edlia e amigos",
+    "title": "Cozinha",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.creativity_center.es",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.creativity_center.es-splash.jpeg",
+    "description": "Prep\u00e1rate para liberar tu imaginaci\u00f3n. Utiliza este programa para descubrir nuevas habilidades y crear maravillosos objetos con materiales a tu alrededor. Tu mente, tus manos y las cosas que te rodean te permitir\u00e1n crear herramientas \u00fatiles y obras de arte.",
+    "displayShape": "b1",
+    "exec": "eos-creativity-center",
+    "featured_img": "",
+    "icon": "com.endlessm.creativity_center.es-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.creativity_center.es-screenshot1.jpg",
+        "com.endlessm.creativity_center.es-screenshot2.jpg",
+        "com.endlessm.creativity_center.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.creativity_center.es-thumb.jpg",
+    "subtitle": "Dibujos, pintura, m\u00fasica y mucho m\u00e1s",
+    "title": "Centro de creatividad",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.dinosaurs.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.dinosaurs.en-splash.jpg",
     "description": "Dinosaurs first appeared on Earth more than 230 million years ago. They ruled the planet for millions of years, until a catastrophic extinction event wiped out almost all of them. Fossils and other findings have taught us a great deal about these former inhabitants of Earth. This app will introduce you to these incredible prehistoric creatures. Learn about the different types of dinosaurs, from fierce carnivores to massive herbivores.",
     "displayShape": "b1",
     "exec": "eos-dinosaurs",
     "featured_img": "",
-    "icon": "com.endlessm.dinosaurs-icon.png",
+    "icon": "com.endlessm.dinosaurs.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.dinosaurs-screenshot1.jpg",
-        "com.endlessm.dinosaurs-screenshot2.jpg",
-        "com.endlessm.dinosaurs-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.dinosaurs-screenshot1.jpg",
-        "com.endlessm.dinosaurs-screenshot2.jpg",
-        "com.endlessm.dinosaurs-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.dinosaurs-screenshot1.jpg",
-        "com.endlessm.dinosaurs-screenshot2.jpg",
-        "com.endlessm.dinosaurs-screenshot3.jpg"
+        "com.endlessm.dinosaurs.en-screenshot1.jpg",
+        "com.endlessm.dinosaurs.en-screenshot2.jpg",
+        "com.endlessm.dinosaurs.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.dinosaurs-thumb.jpg",
+    "square_img": "com.endlessm.dinosaurs.en-thumb.jpg",
     "subtitle": "Bringing prehistory back to life for you to discover anew",
     "title": "Dinosaurs",
     "translation_id": null,
@@ -952,34 +1047,89 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.disabilities",
-    "category": "Education;Family;",
+    "application-id": "com.endlessm.dinosaurs.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.disabilities-splash.jpg",
+    "custom-splash-screen": "com.endlessm.dinosaurs.es-splash.jpg",
+    "description": "Los dinosaurios aparecieron por primera vez en la Tierra hace m\u00e1s de 230 millones de a\u00f1os. Reinaron en el planeta por millones de a\u00f1os, hasta que una extinci\u00f3n catastr\u00f3fica los barri\u00f3 a casi todos. Los f\u00f3siles y otros descubrimientos nos han ense\u00f1ado mucho sobre estos primeros habitantes de la Tierra. Este programa te dar\u00e1 a conocer estas criaturas prehist\u00f3ricas incre\u00edbles. Aprende sobre los diferentes tipos de dinosaurios, desde los feroces carn\u00edvoros hasta los herb\u00edvoros gigantescos.",
+    "displayShape": "b1",
+    "exec": "eos-dinosaurs",
+    "featured_img": "",
+    "icon": "com.endlessm.dinosaurs.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.dinosaurs.es-screenshot1.jpg",
+        "com.endlessm.dinosaurs.es-screenshot2.jpg",
+        "com.endlessm.dinosaurs.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.dinosaurs.es-thumb.jpg",
+    "subtitle": "Regresando la prehistoria a tu vida para que la puedas descubrir nuevamente",
+    "title": "Dinosaurios",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.dinosaurs.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.dinosaurs.pt-splash.jpg",
+    "description": "Os dinossauros apareceram pela primeira vez na Terra h\u00e1 mais de 230 milh\u00f5es de anos atr\u00e1s. Eles governaram o planeta at\u00e9 que um evento catastr\u00f3fico eliminou quase todos eles. Os f\u00f3sseis e outros achados nos ensinaram muito sobre esses antigos habitantes da Terra. Este programa ir\u00e1 apresentar-lhe estas criaturas pr\u00e9-hist\u00f3ricas incr\u00edveis. Saiba mais sobre os diferentes tipos de dinossauros, de carn\u00edvoros ferozes \u00e0 herb\u00edvoros enormes.",
+    "displayShape": "b1",
+    "exec": "eos-dinosaurs",
+    "featured_img": "",
+    "icon": "com.endlessm.dinosaurs.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.dinosaurs.pt-screenshot1.jpg",
+        "com.endlessm.dinosaurs.pt-screenshot2.jpg",
+        "com.endlessm.dinosaurs.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.dinosaurs.pt-thumb.jpg",
+    "subtitle": "Trazendo a pr\u00e9-hist\u00f3ria de volta \u00e0 vida para voc\u00ea descobrir de novo",
+    "title": "Dinossauros",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.disabilities.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.disabilities.en-splash.jpg",
     "description": "Learn about the common physical and mental disabilities, and how to take care of the people in your life who have them. From diagnosis and treatments to special devices and special care, you'll learn all about how to make the life of people you know with disabilities easier for them. There will be a lot of challenges, but with the right care and love, you'll all live a much happier and satisfying life. ",
     "displayShape": "b1",
     "exec": "eos-disabilities",
     "featured_img": "",
-    "icon": "com.endlessm.disabilities-icon.png",
+    "icon": "com.endlessm.disabilities.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.disabilities-screenshot1.jpg",
-        "com.endlessm.disabilities-screenshot2.jpg",
-        "com.endlessm.disabilities-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.disabilities-screenshot1.jpg",
-        "com.endlessm.disabilities-screenshot2.jpg",
-        "com.endlessm.disabilities-screenshot3.jpg"
+        "com.endlessm.disabilities.en-screenshot1.jpg",
+        "com.endlessm.disabilities.en-screenshot2.jpg",
+        "com.endlessm.disabilities.en-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.disabilities-thumb.jpg",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.disabilities.en-thumb.jpg",
     "subtitle": "Learn how to provide the best care",
     "title": "Disabilities",
     "translation_id": null,
@@ -987,37 +1137,31 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.diy",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.disabilities.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.diy-splash.jpeg",
-    "description": "There is nothing you cannot do. With these guidelines your home can become your very own workshop. From practical tools to decorations and creative recipes, you can do it yourself! Simply follow these tutorials and create wonderful items that will surprise your family and friends.",
+    "custom-splash-screen": "com.endlessm.disabilities.es-splash.jpg",
+    "description": "Aprende sobre las discapacidades f\u00edsicas y mentales comunes, y de c\u00f3mo cuidar a las personas en tu vida que las tienen. Desde el diagn\u00f3stico y los tratamientos a los dispositivos y cuidados especiales, aprender\u00e1s todo acerca de c\u00f3mo hacer que la vida de las personas que conoces con discapacidades sea m\u00e1s f\u00e1cil para ellos. Habr\u00e1 una gran cantidad de desaf\u00edos, pero con el cuidado y el amor adecuado, todos van a vivir una vida mucho m\u00e1s feliz y satisfactoria.",
     "displayShape": "b1",
-    "exec": "eos-diy",
+    "exec": "eos-disabilities",
     "featured_img": "",
-    "icon": "com.endlessm.diy-icon.png",
+    "icon": "com.endlessm.disabilities.es-icon.png",
     "is_featured": false,
-    "is_offline": true,
+    "is_offline": false,
     "personalities": [
-      "Guatemala",
-      "Mexico"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.diy-screenshot1.jpg",
-        "com.endlessm.diy-screenshot2.jpg",
-        "com.endlessm.diy-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.diy-screenshot1.jpg",
-        "com.endlessm.diy-screenshot2.jpg",
-        "com.endlessm.diy-screenshot3.jpg"
+        "com.endlessm.disabilities.es-screenshot1.jpg",
+        "com.endlessm.disabilities.es-screenshot2.jpg",
+        "com.endlessm.disabilities.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.diy-thumb.jpg",
-    "subtitle": "Guidelines to create a wide variety of items",
-    "title": "DIY",
+    "square_img": "com.endlessm.disabilities.es-thumb.jpg",
+    "subtitle": "Aprende todo sobre capacidades especiales",
+    "title": "Neces. especiales",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1093,51 +1237,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.entrepreneurship",
-    "category": "Reference;Education;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.entrepreneurship-splash.jpeg",
-    "description": "Interested in new ventures? Want to launch your own business? This app will help you learn about business plans and financing. You can also discover emerging entrepreneurial ideas, market trends, and the best practices to improve operations. Access these materials and transform your business ideas into reality.",
-    "displayShape": "b1",
-    "exec": "eos-entrepreneurship",
-    "featured_img": "",
-    "icon": "com.endlessm.entrepreneurship-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Guatemala",
-      "Mexico"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.entrepreneurship-screenshot1.jpg",
-        "com.endlessm.entrepreneurship-screenshot2.jpg",
-        "com.endlessm.entrepreneurship-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.entrepreneurship-screenshot1.jpg",
-        "com.endlessm.entrepreneurship-screenshot2.jpg",
-        "com.endlessm.entrepreneurship-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.entrepreneurship-thumb.jpg",
-    "subtitle": "Business advice for your inner entrepreneur",
-    "title": "Entrepreneurship",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.extra",
+    "application-id": "com.endlessm.extra.pt_BR",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.extra-splash.jpg",
-    "description": "The most important events and useful information for your day to day, as well as news about sports and television. The program is updated with the latest Extra newspaper website news whenever you are connected. The news are stored on your computer so you can access them whenever you want, even without internet.",
+    "custom-splash-screen": "com.endlessm.extra.pt_br-splash.jpg",
+    "description": "Os acontecimentos mais importantes e informa\u00e7\u00f5es \u00fateis para o seu dia a dia, al\u00e9m de novidades sobre esportes e televis\u00e3o. O programa \u00e9 atualizado com as \u00faltimas not\u00edcias do site do jornal Extra sempre que voc\u00ea estiver conectado. As not\u00edcias ficam armazenadas no seu computador para que voc\u00ea possa acess\u00e1-las quando quiser, mesmo sem internet.",
     "displayShape": "b1",
     "exec": "eos-extra",
     "featured_img": "",
-    "icon": "com.endlessm.extra-icon.png",
+    "icon": "com.endlessm.extra.pt_br-icon.png",
     "is_featured": true,
     "is_offline": false,
     "personalities": [
@@ -1145,54 +1253,134 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.extra-screenshot1.jpg",
-        "com.endlessm.extra-screenshot2.jpg"
+        "com.endlessm.extra.pt_br-screenshot1.jpg",
+        "com.endlessm.extra.pt_br-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.extra-thumb.jpg",
-    "subtitle": "News that affects your day to day",
-    "title": "Extra",
+    "square_img": "com.endlessm.extra.pt_br-thumb.jpg",
+    "subtitle": "Not\u00edcias que afetam o seu dia a dia",
+    "title": "Jornal Extra",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.farming",
-    "category": "Reference;Education;",
+    "application-id": "com.endlessm.farming.bn_BD",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.farming-splash.jpg",
+    "custom-splash-screen": "com.endlessm.farming.bn_bd-splash.jpg",
+    "description": "\u0995\u09c3\u09b7\u09bf\u0995\u09be\u099c \u098f\u0995\u099f\u09bf \u0986\u09a6\u09bf \u0990\u09a4\u09bf\u09b9\u09cd\u09af \u098f\u09ac\u0982 \u098f\u0995\u0987\u09b8\u09be\u09a5\u09c7 \u098f\u0995\u099f\u09bf \u09ac\u09cd\u09af\u09b8\u09cd\u09a4 \u0986\u09a7\u09c1\u09a8\u09bf\u0995 \u09b6\u09bf\u09b2\u09cd\u09aa\u0964 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0\u09c7\u09b0 \u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u0986\u09b8\u09c7 \u09b8\u09be\u09b0\u09be \u09aa\u09c3\u09a5\u09bf\u09ac\u09c0 \u099c\u09c1\u09dc\u09c7 \u09a5\u09be\u0995\u09be \u09aa\u09b0\u09bf\u09b6\u09cd\u09b0\u09ae\u09c0 \u0995\u09c3\u09b7\u0995\u09a6\u09c7\u09b0 \u0995\u09be\u099b \u09a5\u09c7\u0995\u09c7\u0964 \u0985\u09b0\u09cd\u09a5\u09a8\u09c0\u09a4\u09bf\u09b0 \u098f\u0987 \u09ac\u09bf\u09ad\u09be\u0997 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09be\u099f\u09be \u099a\u09ae\u0995\u09aa\u09cd\u09b0\u09a6 \u098f\u09ac\u0982 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u09c0\u09df \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7, \u09ac\u09bf\u09b6\u09c7\u09b7\u09a4 \u09af\u09a6\u09bf \u0986\u09aa\u09a8\u09bf \u09a8\u09bf\u099c\u09c7\u09b0 \u098f\u09ac\u0982 \u0986\u09aa\u09a8\u09be\u09b0 \u09b8\u09ae\u09be\u099c\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0996\u09be\u09ac\u09be\u09b0 \u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u09ac\u09bf\u09b7\u09df\u09c7 \u099c\u09be\u09a8\u09a4\u09c7 \u099a\u09be\u09a8\u0964 \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa\u09c7 \u0995\u09c3\u09b7\u09bf \u09ac\u09bf\u09b7\u09df\u0995 \u0995\u09cc\u09b6\u09b2 \u098f\u09ac\u0982 \u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u09aa\u09be\u09a4\u09bf, \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09b0\u0995\u09ae \u0995\u09c3\u09b7\u09bf\u0995\u09be\u099c, \u098f\u09ac\u0982 \u098f\u0987 \u09b6\u09bf\u09b2\u09cd\u09aa\u09c7 \u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8\u09c7 \u09ac\u09bf\u09a6\u09cd\u09af\u09ae\u09be\u09a8 \u0995\u09be\u099c\u09c7\u09b0 \u09aa\u09b0\u09bf\u09a7\u09bf \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09a4\u09a5\u09cd\u09af\u09be\u09a6\u09bf \u09aa\u09be\u0993\u09df\u09be \u09af\u09be\u09ac\u09c7\u0964 \u0986\u09aa\u09a8\u09bf \u09b6\u09b8\u09cd\u09af, \u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf \u098f\u09ac\u0982 \u0986\u09b0\u09cb \u0985\u09a8\u09c7\u0995 \u0995\u09bf\u099b\u09c1\u09b0 \u09b8\u09ae\u09cd\u09ac\u09a8\u09cd\u09a7\u09c7 \u09a6\u09be\u09b0\u09c1\u09a3 \u099c\u09cd\u099e\u09be\u09a8 \u0985\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7\u09a8!",
+    "displayShape": "b1",
+    "exec": "eos-farming",
+    "featured_img": "",
+    "icon": "com.endlessm.farming.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.farming.bn_bd-screenshot1.jpg",
+        "com.endlessm.farming.bn_bd-screenshot2.jpg",
+        "com.endlessm.farming.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.farming.bn_bd-thumb.jpg",
+    "subtitle": "\u09b6\u09b8\u09cd\u09af \u098f\u09ac\u0982 \u09aa\u09b6\u09c1\u09aa\u09be\u0996\u09bf \u09aa\u09be\u09b2\u09a8 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u0995\u09c3\u09b7\u09bf\u0995\u09be\u099c",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.farming.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.farming.en-splash.jpg",
     "description": "Farming is both an ancient tradition and a modern, bustling industry. Our world\u2019s food supply comes from hardworking farmers around the globe. Learning about this sector of the economy can be fascinating and useful, especially if you\u2019re interested in providing food for yourself and your community. This app includes information on farming techniques and equipment, different types of agriculture, and the careers that exist in this industry. You\u2019ll learn so much about crops, livestock, and more!",
     "displayShape": "b1",
     "exec": "eos-farming",
     "featured_img": "",
-    "icon": "com.endlessm.farming-icon.png",
+    "icon": "com.endlessm.farming.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.farming-screenshot1.jpg",
-        "com.endlessm.farming-screenshot2.jpg",
-        "com.endlessm.farming-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.farming-screenshot1.jpg",
-        "com.endlessm.farming-screenshot2.jpg",
-        "com.endlessm.farming-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.farming-screenshot1.jpg",
-        "com.endlessm.farming-screenshot2.jpg",
-        "com.endlessm.farming-screenshot3.jpg"
+        "com.endlessm.farming.en-screenshot1.jpg",
+        "com.endlessm.farming.en-screenshot2.jpg",
+        "com.endlessm.farming.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.farming-thumb.jpg",
+    "square_img": "com.endlessm.farming.en-thumb.jpg",
     "subtitle": "Learn about crops and raising animals",
     "title": "Farming",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.farming.es_GT",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.farming.es_gt-splash.jpg",
+    "description": "La agricultura es tanto una tradici\u00f3n antigua como una industria moderna. El suministro de comida del mundo viene de agricultores que trabajan duro alrededor del mundo. Puede ser interesante y \u00fatil aprender sobre este sector de la econom\u00eda, especialmente si tienes inter\u00e9s en producir comida para tu familia y tu comunidad. Este programa contiene informaci\u00f3n sobre las t\u00e9cnicas, el equipo necesario, los diferentes tipos de agricultura y los empleos que existen dentro de la industria. \u00a1Aprender\u00e1s mucho sobre los cultivos, la ganader\u00eda y mucho m\u00e1s!",
+    "displayShape": "b1",
+    "exec": "eos-farming",
+    "featured_img": "",
+    "icon": "com.endlessm.farming.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.farming.es_gt-screenshot1.jpg",
+        "com.endlessm.farming.es_gt-screenshot2.jpg",
+        "com.endlessm.farming.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.farming.es_gt-thumb.jpg",
+    "subtitle": "Aprende sobre los cultivos y la cr\u00eda de animales",
+    "title": "Agricultura",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.farming.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.farming.pt-splash.jpg",
+    "description": "A agricultura \u00e9 tanto uma tradi\u00e7\u00e3o antiga como tamb\u00e9m uma ind\u00fastria movimentada e moderna. Nosso abastecimento alimentar vem de agricultores que trabalham duro em todo o mundo. Aprender sobre este setor da economia pode ser fascinante e \u00fatil, especialmente se voc\u00ea estiver interessado em produzir alimentos para si ou para a sua comunidade. Este programa inclui informa\u00e7\u00f5es sobre t\u00e9cnicas e equipamentos agr\u00edcolas, diferentes tipos de agricultura, e as carreiras que existem neste setor. Voc\u00ea vai aprender muito sobre colheitas, gado e muito mais!",
+    "displayShape": "b1",
+    "exec": "eos-farming",
+    "featured_img": "",
+    "icon": "com.endlessm.farming.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.farming.pt-screenshot1.jpg",
+        "com.endlessm.farming.pt-screenshot2.jpg",
+        "com.endlessm.farming.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.farming.pt-thumb.jpg",
+    "subtitle": "Saiba mais sobre lavouras e cria\u00e7\u00e3o de animais",
+    "title": "Agricultura",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1233,41 +1421,6 @@
     "square_img": "com.endlessm.finance-thumb.jpg",
     "subtitle": "Learn how to create your own budget and save",
     "title": "My Budget",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.fitness",
-    "category": "Reference;Family;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.fitness-splash.jpeg",
-    "description": "We all want to look and feel our best. With this app, you\u2019ll learn how to exercise safely and effectively. With a range of exercises and routines, as well as information about keeping yourself safe and preventing injury, you\u2019ll have your workout on track in no time. This app even features guidance on how to live a healthy lifestyle.",
-    "displayShape": "b1",
-    "exec": "eos-fitness",
-    "featured_img": "",
-    "icon": "com.endlessm.fitness-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.fitness-screenshot1.jpg",
-        "com.endlessm.fitness-screenshot2.jpg",
-        "com.endlessm.fitness-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.fitness-screenshot1.jpg",
-        "com.endlessm.fitness-screenshot2.jpg",
-        "com.endlessm.fitness-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.fitness-thumb.jpg",
-    "subtitle": "Tips for excercise and healthy living",
-    "title": "Fitness",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1753,39 +1906,59 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.geography",
+    "application-id": "com.endlessm.geography.bn_BD",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.geography-splash.jpg",
+    "custom-splash-screen": "com.endlessm.geography.bn_bd-splash.jpg",
+    "description": "\u098f\u0987 \u09ac\u09bf\u09b6\u09cd\u09ac \u098f\u0995\u099f\u09bf \u09ac\u09bf\u09b8\u09cd\u09ae\u09df\u0995\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u0964 \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7, \u0986\u09aa\u09a8\u09bf \u098f\u0987 \u09ac\u09bf\u09b8\u09cd\u09ae\u09df\u0995\u09c7 \u099c\u09be\u09a8\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7\u09a8! \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09b8\u0995\u09b2 \u09a6\u09c7\u09b6 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09a4\u09a5\u09cd\u09af \u09a6\u09c7\u09ac\u09be\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf, \u098f\u0987 \u09ac\u09bf\u09b8\u09cd\u09a4\u09c0\u09b0\u09cd\u09a3 \u09a4\u09a5\u09cd\u09af\u09ad\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09c7 \u09ac\u09dc \u09ac\u09dc \u09b6\u09b9\u09b0, \u0985\u099e\u09cd\u099a\u09b2, \u099c\u09be\u09a4\u09c0\u09df \u09b8\u09ae\u09cd\u09aa\u09a6 \u098f\u09ac\u0982 \u0986\u09b0\u09cb \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09ac\u09bf\u09b7\u09df\u09c7 \u09a4\u09a5\u09cd\u09af \u09aa\u09be\u09ac\u09c7\u09a8\u0964 \u0986\u09aa\u09a8\u09be\u09b0 \u09b6\u09b9\u09b0 \u09a5\u09c7\u0995\u09c7 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c7 \u0997\u09cd\u09b0\u09be\u09ae, \u09a8\u09a6\u09c0 \u098f\u09ac\u0982 \u09aa\u09be\u09b9\u09be\u09dc\u09b8\u09b9 \u0986\u09aa\u09a8\u09be\u09b0 \u09a6\u09c7\u09b6\u09c7\u09b0 \u09ac\u09cd\u09af\u09be\u09aa\u09be\u09b0\u09c7 \u09ac\u09bf\u09b6\u09a6 \u09a4\u09a5\u09cd\u09af \u099c\u09be\u09a8\u09c1\u09a8 \u0998\u09b0\u09c7 \u09ac\u09b8\u09c7\u0964 \u098f\u0987 \u0989\u09aa\u0995\u09be\u09b0\u09c0 \u098f\u09cd\u09af\u09be\u09aa\u099f\u09bf\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u099a\u09be\u09b0\u09aa\u09be\u09b6\u09c7\u09b0 \u099a\u09ae\u0995\u09aa\u09cd\u09b0\u09a6 \u09ac\u09bf\u09b7\u09df\u0997\u09c1\u09b2\u09cb \u0985\u09a8\u09c1\u09b8\u09a8\u09cd\u09a7\u09be\u09a8 \u0995\u09b0\u09c1\u09a8!",
+    "displayShape": "b1",
+    "exec": "eos-geography",
+    "featured_img": "",
+    "icon": "com.endlessm.geography.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.geography.bn_bd-screenshot1.jpg",
+        "com.endlessm.geography.bn_bd-screenshot2.jpg",
+        "com.endlessm.geography.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.geography.bn_bd-thumb.jpg",
+    "subtitle": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09b8\u0995\u09b2 \u09a6\u09c7\u09b6 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u09ad\u09c2\u0997\u09cb\u09b2",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.geography.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.geography.en-splash.jpg",
     "description": "The world is an amazing place, and with this app, you\u2019ll learn all about it! Featuring information on every country in the world, this comprehensive resource covers major cities, regions, natural features, and more. Closer to home, you\u2019ll find detailed information about your country, from its towns and cities to its rivers and mountains. Explore the wonders around you with this handy app!",
     "displayShape": "b1",
     "exec": "eos-geography",
     "featured_img": "",
-    "icon": "com.endlessm.geography-icon.png",
+    "icon": "com.endlessm.geography.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.geography-screenshot1.jpg",
-        "com.endlessm.geography-screenshot2.jpg",
-        "com.endlessm.geography-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.geography-screenshot1.jpg",
-        "com.endlessm.geography-screenshot2.jpg",
-        "com.endlessm.geography-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.geography-screenshot1.jpg",
-        "com.endlessm.geography-screenshot2.jpg",
-        "com.endlessm.geography-screenshot3.jpg"
+        "com.endlessm.geography.en-screenshot1.jpg",
+        "com.endlessm.geography.en-screenshot2.jpg",
+        "com.endlessm.geography.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.geography-thumb.jpg",
+    "square_img": "com.endlessm.geography.en-thumb.jpg",
     "subtitle": "Learn about all the countries in the world",
     "title": "Geography",
     "translation_id": null,
@@ -1793,108 +1966,181 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.guatemala",
-    "category": "Education;Reference;Family;",
+    "application-id": "com.endlessm.geography.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.guatemala-splash.jpg",
-    "description": "Guatemala has an ancient and fascinating history, but it\u2019s also a modern, bustling nation with many attractions, cultural events, and important population centers. Explore articles showcasing areas of Guatemalan life, art, geography, and culture. You\u2019ll deepen your knowledge of Guatemala so you can share it with friends and family alike!",
+    "custom-splash-screen": "com.endlessm.geography.es-splash.jpg",
+    "description": "El mundo es un lugar incre\u00edble, y con este programa podr\u00e1s aprender mucho sobre la Tierra. Con informaci\u00f3n completa de cada pa\u00eds del mundo, este recurso cubre las ciudades m\u00e1s grandes, las regiones, las caracter\u00edsticas naturales y mucho m\u00e1s. Adem\u00e1s, encontrar\u00e1s informaci\u00f3n con m\u00e1s detalle sobre tu pa\u00eds, desde sus pueblos y ciudades hasta sus r\u00edos y monta\u00f1as. \u00a1Explora las maravillas del mundo que te rodean con este programa de geograf\u00eda!",
     "displayShape": "b1",
-    "exec": "eos-guatemala",
+    "exec": "eos-geography",
     "featured_img": "",
-    "icon": "com.endlessm.guatemala-icon.png",
+    "icon": "com.endlessm.geography.es-icon.png",
     "is_featured": false,
-    "is_offline": true,
+    "is_offline": false,
     "personalities": [
-      "Global",
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.geography.es-screenshot1.jpg",
+        "com.endlessm.geography.es-screenshot2.jpg",
+        "com.endlessm.geography.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.geography.es-thumb.jpg",
+    "subtitle": "Aprende acerca de todos los pa\u00edses del mundo",
+    "title": "Geograf\u00eda",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.geography.es_GT",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.geography.es_gt-splash.jpg",
+    "description": "El mundo es un lugar incre\u00edble, y con este programa podr\u00e1s aprender mucho sobre la Tierra. Con informaci\u00f3n completa de cada pa\u00eds del mundo, este recurso cubre las ciudades m\u00e1s grandes, las regiones, las caracter\u00edsticas naturales y mucho m\u00e1s. Adem\u00e1s, encontrar\u00e1s informaci\u00f3n con m\u00e1s detalle sobre tu pa\u00eds, desde sus pueblos y ciudades hasta sus r\u00edos y monta\u00f1as. \u00a1Explora las maravillas del mundo que te rodean con este programa de geograf\u00eda!",
+    "displayShape": "b1",
+    "exec": "eos-geography",
+    "featured_img": "",
+    "icon": "com.endlessm.geography.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
       "Guatemala"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.guatemala-screenshot1.jpg",
-        "com.endlessm.guatemala-screenshot2.jpg",
-        "com.endlessm.guatemala-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.guatemala-screenshot1.jpg",
-        "com.endlessm.guatemala-screenshot2.jpg",
-        "com.endlessm.guatemala-screenshot3.jpg"
+        "com.endlessm.geography.es_gt-screenshot1.jpg",
+        "com.endlessm.geography.es_gt-screenshot2.jpg",
+        "com.endlessm.geography.es_gt-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.guatemala-thumb.jpg",
-    "subtitle": "Learn more about this beautiful country",
+    "square_img": "com.endlessm.geography.es_gt-thumb.jpg",
+    "subtitle": "Aprende acerca de todos los pa\u00edses del mundo",
+    "title": "Geograf\u00eda",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.geography.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.geography.pt-splash.jpg",
+    "description": "O mundo \u00e9 um lugar incr\u00edvel, e com este programa, voc\u00ea vai aprender tudo sobre ele! Com informa\u00e7\u00f5es sobre todos os pa\u00edses do mundo, este recurso abrange as principais cidades, regi\u00f5es, caracter\u00edsticas naturais, entre outros. Mais perto de casa, voc\u00ea vai encontrar informa\u00e7\u00f5es detalhadas sobre o seu pa\u00eds a partir de suas cidades, rios e montanhas. Explore as maravilhas ao seu redor com este pr\u00e1tico programa!",
+    "displayShape": "b1",
+    "exec": "eos-geography",
+    "featured_img": "",
+    "icon": "com.endlessm.geography.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.geography.pt-screenshot1.jpg",
+        "com.endlessm.geography.pt-screenshot2.jpg",
+        "com.endlessm.geography.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.geography.pt-thumb.jpg",
+    "subtitle": "Saiba mais sobre todos os pa\u00edses do mundo",
+    "title": "Geografia",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.guatemala.es_GT",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.guatemala.es_gt-splash.jpg",
+    "description": "Sab\u00edas que el Popol Vuh fue escrito en el siglo XVI y a\u00fan se ha preservado? Aprende datos como este, y muchos m\u00e1s, sobre todos los aspectos de Guatemala. Explora el arte, la geograf\u00eda, y la cultura de este bello pa\u00eds para que puedas compartir lo que aprendas con tus amigos y con tu familia.",
+    "displayShape": "b1",
+    "exec": "eos-guatemala",
+    "featured_img": "",
+    "icon": "com.endlessm.guatemala.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.guatemala.es_gt-screenshot1.jpg",
+        "com.endlessm.guatemala.es_gt-screenshot2.jpg",
+        "com.endlessm.guatemala.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.guatemala.es_gt-thumb.jpg",
+    "subtitle": "Aprende m\u00e1s sobre este bello pa\u00eds",
     "title": "Guatemala",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.guatemalan_curriculum",
-    "category": "Education;Reference;",
+    "application-id": "com.endlessm.guatemalan_curriculum.es_GT",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.guatemalan_curriculum-splash.jpg",
-    "description": "Here you will find the core curriculum and guidelines for a specific grade, and find textbooks and worksheets that can guide you in a variety of subjects. Teachers and parents can read materials to learn how a child's education should be structured and the important subjects studied in school. Students can find useful textbooks that can help them better understand what they are learning in class. This app is useful for both students and teachers, and can make a big difference in your child's life and in your own!",
+    "custom-splash-screen": "com.endlessm.guatemalan_curriculum.es_gt-splash.jpg",
+    "description": "Aqu\u00ed encontrar\u00e1s el plan b\u00e1sico de estudio y gu\u00edas para un grado espec\u00edfico, adem\u00e1s de libros de texto y cuadernos de ejercicios que te pueden guiar en diversas materias. Maestros y padres pueden leer materiales para aprender c\u00f3mo debe ser la estructura de la educaci\u00f3n de un ni\u00f1o y sobre los temas importantes estudiados en la escuela. Los estudiantes pueden encontrar libros de texto muy convenientes que les pueden ayudar a entender lo que estudian en clase. \u00a1Esta aplicaci\u00f3n es muy \u00fatil para estudiantes y maestros, y puede marcar una gran diferencia en la vida de tu hijo y en la tuya!",
     "displayShape": "b1",
     "exec": "eos-guatemalan-curriculum",
     "featured_img": "",
-    "icon": "com.endlessm.guatemalan_curriculum-icon.png",
+    "icon": "com.endlessm.guatemalan_curriculum.es_gt-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Guatemala"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.guatemalan_curriculum-screenshot1.jpg",
-        "com.endlessm.guatemalan_curriculum-screenshot2.jpg",
-        "com.endlessm.guatemalan_curriculum-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.guatemalan_curriculum-screenshot1.jpg",
-        "com.endlessm.guatemalan_curriculum-screenshot2.jpg",
-        "com.endlessm.guatemalan_curriculum-screenshot3.jpg"
+        "com.endlessm.guatemalan_curriculum.es_gt-screenshot1.jpg",
+        "com.endlessm.guatemalan_curriculum.es_gt-screenshot2.jpg",
+        "com.endlessm.guatemalan_curriculum.es_gt-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Default",
-    "square_img": "com.endlessm.guatemalan_curriculum-thumb.jpg",
-    "subtitle": "From the Guatemalan Ministry of Education",
-    "title": "Curriculum",
+    "square_img": "com.endlessm.guatemalan_curriculum.es_gt-thumb.jpg",
+    "subtitle": "Del Ministerio de Educaci\u00f3n de Guatemala",
+    "title": "Curr\u00edculo",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.handicrafts",
+    "application-id": "com.endlessm.handicrafts.es",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.handicrafts-splash.jpeg",
-    "description": "With these guides and your creativity you will soon be making the most beautiful handicrafts! Learn carpentry, how to make jewelery, how to weave textiles, and more. You can even learn how to recycle materials from around your home to turn them into new and amazing handicrafts. Use this app to get started on a new creative project!",
+    "custom-splash-screen": "com.endlessm.handicrafts.es-splash.jpeg",
+    "description": "\u00a1Con estas gu\u00edas y tu creatividad, pronto estar\u00e1s haciendo las artesan\u00edas m\u00e1s bonitas! Aprende carpinter\u00eda, c\u00f3mo hacer joyer\u00eda, c\u00f3mo hacer textiles, y mucho m\u00e1s. Incluso podr\u00e1s aprender a usar materiales reciclados que ya tienes en casa para convertirlos en artesan\u00edas incre\u00edbles. \u00a1Usa este programa para empezar un nuevo proyecto creativo!",
     "displayShape": "b1",
     "exec": "eos-handicrafts",
     "featured_img": "",
-    "icon": "com.endlessm.handicrafts-icon.png",
+    "icon": "com.endlessm.handicrafts.es-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "Guatemala",
-      "Mexico"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.handicrafts-screenshot1.jpg",
-        "com.endlessm.handicrafts-screenshot2.jpg",
-        "com.endlessm.handicrafts-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.handicrafts-screenshot1.jpg",
-        "com.endlessm.handicrafts-screenshot2.jpg",
-        "com.endlessm.handicrafts-screenshot3.jpg"
+        "com.endlessm.handicrafts.es-screenshot1.jpg",
+        "com.endlessm.handicrafts.es-screenshot2.jpg",
+        "com.endlessm.handicrafts.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.handicrafts-thumb.jpg",
-    "subtitle": "Learn how to make the most beautiful handicrafts",
-    "title": "Handicrafts",
+    "square_img": "com.endlessm.handicrafts.es-thumb.jpg",
+    "subtitle": "Aprende como hacer las artesan\u00edas m\u00e1s bellas",
+    "title": "Artesan\u00edas",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1935,41 +2181,6 @@
     "square_img": "com.endlessm.health-thumb.jpg",
     "subtitle": "Keep yourself and loved ones healthy",
     "title": "Health",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.healthy_living",
-    "category": "Reference;Family;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.healthy_living-splash.jpeg",
-    "description": "How can you adopt a healthy lifestlye? There is much you can do for yourself and your family. This app gives you access to fitness routines, healthy recipes, nutrition facts, and nearby doctors. Get started today and pursue a healthier living!",
-    "displayShape": "b1",
-    "exec": "eos-healthy-living",
-    "featured_img": "",
-    "icon": "com.endlessm.healthy_living-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.healthy_living-screenshot1.jpg",
-        "com.endlessm.healthy_living-screenshot2.jpg",
-        "com.endlessm.healthy_living-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.healthy_living-screenshot1.jpg",
-        "com.endlessm.healthy_living-screenshot2.jpg",
-        "com.endlessm.healthy_living-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.healthy_living-thumb.jpg",
-    "subtitle": "Discover what it takes to stay healthy",
-    "title": "Healthy Living",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2226,42 +2437,6 @@
     "square_img": "com.endlessm.mayan_languages-thumb.jpg",
     "subtitle": "Stories and dictionaries in Mayan languages",
     "title": "Mayan Languages",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.mental_health",
-    "category": "Reference;Family;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.mental_health-splash.jpeg",
-    "description": "Have you ever wanted to be more confident? Feel less stressed? Be more efficient and productive? Now is your chance! Use this app to learn tips and tricks for self improvement. Read to discover how your mind works and how you can better your life.",
-    "displayShape": "b1",
-    "exec": "eos-mental-health",
-    "featured_img": "",
-    "icon": "com.endlessm.mental_health-icon.png",
-    "is_featured": false,
-    "is_offline": true,
-    "personalities": [
-      "Guatemala",
-      "Mexico"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.mental_health-screenshot1.jpg",
-        "com.endlessm.mental_health-screenshot2.jpg",
-        "com.endlessm.mental_health-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.mental_health-screenshot1.jpg",
-        "com.endlessm.mental_health-screenshot2.jpg",
-        "com.endlessm.mental_health-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.mental_health-thumb.jpg",
-    "subtitle": "Tips and tricks for living a healthier, happier life",
-    "title": "Mental Health",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2640,7 +2815,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Este curso de SINADEP demuestra c\u00f3mo usar una aplicaci\u00f3n m\u00f3vil para digitalizar el aprendizaje de los estudiantes y dar sentido a esa informaci\u00f3n.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Uso de aplicaci\u00f3n CamScanner para la digitalizaci\u00f3n de evidencias; M\u00f3dulo II. Argumentaci\u00f3n de las evidencias (enunciados 1,2,3); y M\u00f3dulo III. Argumentaci\u00f3n de las evidencias (enunciados del 4 al 12).",
+    "description": "Este curso de SINADEP te ense\u00f1a c\u00f3mo usar una aplicaci\u00f3n m\u00f3vil para digitalizar varios aspectos del aprendizaje escolar y te explica porque es importante hacerlo. \r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Uso de aplicaci\u00f3n CamScanner para la digitalizaci\u00f3n de evidencias; M\u00f3dulo II. Argumentaci\u00f3n de las evidencias (enunciados 1,2,3); y M\u00f3dulo III. Argumentaci\u00f3n de las evidencias (enunciados del 4 al 12)",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso3",
     "featured_img": "",
@@ -2653,7 +2828,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.sinadep_curso3.es-thumb.jpg",
-    "subtitle": "Este curso de SINADEP demuestra c\u00f3mo usar una aplicaci\u00f3n m\u00f3vil para digitalizar el aprendizaje",
+    "subtitle": "Utiliza aplicaciones m\u00f3viles para facilitar el aprendizaje",
     "title": "Expediente de Evidencias",
     "translation_id": null,
     "translation_type": null,
@@ -2664,7 +2839,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Este curso de SINADEP discute el ejercicio cotidiano de la pr\u00e1ctica profesional docente que se dise\u00f1a y promueve ambientes que garantizan el alcance de los aprendizajes para todos de los estudiantes.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Dise\u00f1o de la Planeaci\u00f3n Did\u00e1ctica; y M\u00f3dulo II. Argumentaci\u00f3n de la Planeaci\u00f3n Did\u00e1ctica.",
+    "description": "Este curso de SINADEP abarca la pr\u00e1ctica profesional de dise\u00f1ar y promover ambientes que garantizan el alcance de aprendizaje para todos los estudiantes. \r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Dise\u00f1o de la Planeaci\u00f3n Did\u00e1ctica; y M\u00f3dulo II. Argumentaci\u00f3n de la Planeaci\u00f3n Did\u00e1ctica. \r\n",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso4",
     "featured_img": "",
@@ -2677,7 +2852,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.sinadep_curso4.es-thumb.jpg",
-    "subtitle": "Este curso de SINADEP discute el ejercicio cotidiano de la pr\u00e1ctica profesional docente",
+    "subtitle": "Crea ambientes ideales de aprendizaje",
     "title": "Planeaci\u00f3n did\u00e1ctica",
     "translation_id": null,
     "translation_type": null,
@@ -2688,7 +2863,7 @@
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Este curso de SINADEP explora el concepto de educaci\u00f3n para la paz, as\u00ed como sus or\u00edgenes, su evoluci\u00f3n, su estado actual y sus pr\u00e1cticas, aterrizando a nuestro pa\u00eds a trav\u00e9s de actividades pr\u00e1cticas que implican la reflexi\u00f3n de ustedes.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. \u00bfQu\u00e9 es la violencia?; M\u00f3dulo II. Enfoques de Educaci\u00f3n para la Paz; M\u00f3dulo III. Pr\u00e1cticas de Educaci\u00f3n para la Paz en M\u00e9xico; y M\u00f3dulo IV. Acciones Proactivas hacia la Paz.",
+    "description": "Este curso de SINADEP explora el concepto de educaci\u00f3n para la paz. Aprende acerca de sus or\u00edgenes, su evoluci\u00f3n, su estado actual y sus pr\u00e1cticas a trav\u00e9s de actividades pr\u00e1cticas. \r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. \u00bfQu\u00e9 es la violencia?; M\u00f3dulo II. Enfoques de Educaci\u00f3n para la Paz; M\u00f3dulo III. Pr\u00e1cticas de Educaci\u00f3n para la Paz en M\u00e9xico; y M\u00f3dulo IV. Acciones Proactivas hacia la Paz\r\n",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso5_educacionPaz",
     "featured_img": "",
@@ -2701,7 +2876,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.sinadep_curso5_educacionpaz.es-thumb.jpg",
-    "subtitle": "Este curso de SINADEP explora el concepto de educaci\u00f3n para la paz",
+    "subtitle": "Casos de estudio y ejemplos pr\u00e1cticos",
     "title": "Educaci\u00f3n para la Paz",
     "translation_id": null,
     "translation_type": null,
@@ -2712,7 +2887,7 @@
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Este curso de SINADEP discute los conocimientos b\u00e1sicos de Excel que permite la generaci\u00f3n de libros, con listas de alumnos para el manejo de datos cuantitativos, estudios estad\u00edsticos, formato de tablas, gr\u00e1ficos de resultados y funciones que permiten agilizar los procesos despu\u00e9s del vaciado de datos, entre otros manejos.\r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Descripci\u00f3n del Entorno, Vaciado de Datos y Formato a Celdas en Excel; M\u00f3dulo II. Manejo de F\u00f3rmulas B\u00e1sica y Avanzadas; M\u00f3dulo III. Manejo de Gr\u00e1ficas e Integraci\u00f3n de Documento.",
+    "description": "Este curso de SINADEP discute los conocimientos b\u00e1sicos de Excel. Aprende acerca de la generaci\u00f3n de libros de datos cuantitativos, estudios estad\u00edsticos, el formato de tablas, gr\u00e1ficos de resultados y funciones que permiten agilizar los procesos despu\u00e9s del vaciado de datos, entre otros manejos. \r\n\r\nLos m\u00f3dulos de aprendizaje espec\u00edficos para este curso son: M\u00f3dulo I. Descripci\u00f3n del Entorno, Vaciado de Datos y Formato a Celdas en Excel; M\u00f3dulo II. Manejo de F\u00f3rmulas B\u00e1sica y Avanzadas; M\u00f3dulo III. Manejo de Gr\u00e1ficas e Integraci\u00f3n de Documento\r\n",
     "displayShape": "b1",
     "exec": "com.endlessm.sinadep_curso6_usoDelExcel",
     "featured_img": "",
@@ -2725,7 +2900,7 @@
     "screenshots": [],
     "splash-screen-type": "Default",
     "square_img": "com.endlessm.sinadep_curso6_usodelexcel.es-thumb.jpg",
-    "subtitle": "Este curso de SINADEP discute los conocimientos b\u00e1sicos de Excel",
+    "subtitle": "Utiliza Excel para el manejo de tus clases",
     "title": "El uso del excel",
     "translation_id": null,
     "translation_type": null,
