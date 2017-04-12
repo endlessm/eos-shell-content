@@ -3,6 +3,8 @@ EXTRA_DIST =
 CLEANFILES =
 DISTCLEANFILES =
 
+python_PYTHON = eosshellcontent.py
+
 # extract-content-strings is a small utility that runs on the build system
 noinst_PROGRAMS = \
 	extract-content-strings \
