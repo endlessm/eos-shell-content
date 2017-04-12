@@ -104,7 +104,7 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	next if not $desktop;
 
 	verbose_print("Updating desktop file $desktop");
-	doit("eos-content-merge -i $content_id $desktop");
+	doit("eos-content-merge -i $content_id -d $desktop");
 }
 
 =head1 SEE ALSO
