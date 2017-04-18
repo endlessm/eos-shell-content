@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Diccionario Guaraní
+Name[es]=Diccionario Guaraní
+Name[pt_BR]=Dicionário Guarani
+Name[ro]= 
+Comment=Diccionario bilingüe de Castellano-Guaraní y Guaraní-Castellano
+Comment[es]=Diccionario bilingüe de Castellano-Guaraní
+Comment[pt_BR]=Dicionário bilíngue de Castelhano-Garani e Guarani-Castelhano
+Comment[ro]= 
+Type=Application
+Exec=com.endlessm.spanish_guarani_dictionary
+Icon=eos-app-com.endlessm.spanish_guarani_dictionary.es_PY
+Categories=Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.spanish_guarani_dictionary.es_py-splash.jpg

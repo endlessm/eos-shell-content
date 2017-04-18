@@ -2146,39 +2146,59 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.health",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.health.ar",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.health-splash.jpg",
+    "custom-splash-screen": "com.endlessm.health.ar-splash.jpg",
+    "description": "\u0628\u062f\u0648\u0646 \u0635\u062d\u062a\u0643\u060c \u0644\u0627 \u064a\u0645\u0643\u0646\u0643 \u0627\u0645\u062a\u0644\u0627\u0643 \u0623\u064a \u0634\u064a\u0621 \u0622\u062e\u0631. \u062a\u0639\u0644\u0645 \u0643\u0644 \u0634\u064a\u0621 \u0639\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0623\u0645\u0631\u0627\u0636\u060c \u0648\u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0648\u0646\u0635\u0627\u0626\u062d \u0639\u0646 \u0643\u064a\u0641\u064a\u0629 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u062d\u0627\u0644\u0629 \u0635\u062d\u064a\u0629 \u062c\u064a\u062f\u0629\u060c \u0648\u0630\u0644\u0643 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0642\u0631\u0627\u0621\u0629 \u0628\u0639\u0636 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642. \u0644\u0627 \u0623\u062d\u062f \u064a\u062f\u0631\u064a - \u0641\u0631\u0628\u0645\u0627 \u062a\u0633\u0627\u0639\u062f\u0643 \u0628\u0639\u0636 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0647\u0646\u0627 \u0639\u0644\u0649 \u0625\u0646\u0642\u0627\u0630 \u062d\u064a\u0627\u062a\u0643 \u0623\u0648 \u062d\u064a\u0627\u0629 \u0634\u062e\u0635 \u0622\u062e\u0631 \u062a\u062d\u0628\u0647!",
+    "displayShape": "b1",
+    "exec": "eos-health",
+    "featured_img": "",
+    "icon": "com.endlessm.health.ar-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Arabic"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.health.ar-screenshot1.jpg",
+        "com.endlessm.health.ar-screenshot2.jpg",
+        "com.endlessm.health.ar-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.health.ar-thumb.jpg",
+    "subtitle": "\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0646\u0641\u0633\u0643 \u0648\u0645\u0646 \u062a\u062d\u0628 \u0641\u064a \u0635\u062d\u0629\u064d \u062c\u064a\u062f\u0629\u064d",
+    "title": "\u0627\u0644\u0635\u062d\u0629",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.health.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.health.en-splash.jpg",
     "description": "Without your health, you can't have anything else. Learn all about various diseases, medicines, and tips for how to stay healthy by reading some of the articles in this app. You never know - some of the information here may help you save your own life or the life of someone you love!",
     "displayShape": "b1",
     "exec": "eos-health",
     "featured_img": "",
-    "icon": "com.endlessm.health-icon.png",
+    "icon": "com.endlessm.health.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.health-screenshot1.jpg",
-        "com.endlessm.health-screenshot2.jpg",
-        "com.endlessm.health-screenshot3.jpg"
-      ],
-      "ar": [
-        "com.endlessm.health-screenshot1.jpg",
-        "com.endlessm.health-screenshot2.jpg",
-        "com.endlessm.health-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.health-screenshot1.jpg",
-        "com.endlessm.health-screenshot2.jpg",
-        "com.endlessm.health-screenshot3.jpg"
+        "com.endlessm.health.en-screenshot1.jpg",
+        "com.endlessm.health.en-screenshot2.jpg",
+        "com.endlessm.health.en-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.health-thumb.jpg",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.health.en-thumb.jpg",
     "subtitle": "Keep yourself and loved ones healthy",
     "title": "Health",
     "translation_id": null,
@@ -2186,34 +2206,59 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.healthy_teeth",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.health.es",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.healthy_teeth-splash.jpg",
+    "custom-splash-screen": "com.endlessm.health.es-splash.jpg",
+    "description": "Sin tu salud, no puedes tener ninguna otra cosa. Aprenda todo acerca de varias enfermedades, medicamentos y consejos sobre c\u00f3mo mantenerte saludable mediante la lectura de algunos de los art\u00edculos de este programa. Nunca se sabe - \u00a1parte de la informaci\u00f3n aqu\u00ed puede ayudarte a salvar tu propia vida o la vida de alguien a quien amas!",
+    "displayShape": "b1",
+    "exec": "eos-health",
+    "featured_img": "",
+    "icon": "com.endlessm.health.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.health.es-screenshot1.jpg",
+        "com.endlessm.health.es-screenshot2.jpg",
+        "com.endlessm.health.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.health.es-thumb.jpg",
+    "subtitle": "C\u00f3mo cuidarte a ti y a tus seres queridos",
+    "title": "Salud",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.healthy_teeth.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.healthy_teeth.en-splash.jpg",
     "description": "Have you ever had a toothache? Learn how to help make it feel better. Want to keep your teeth nice and white? Well, try out these tips. Whether it's learning about mouth diseases and how to prevent them, or just making sure to keep that beautiful smile, you'll find a lot of useful information in this app. Download it today and learn all about how to keep your mouth and teeth healthy and looking great!",
     "displayShape": "b1",
     "exec": "eos-healthy-teeth",
     "featured_img": "",
-    "icon": "com.endlessm.healthy_teeth-icon.png",
+    "icon": "com.endlessm.healthy_teeth.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.healthy_teeth-screenshot1.jpg",
-        "com.endlessm.healthy_teeth-screenshot2.jpg",
-        "com.endlessm.healthy_teeth-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.healthy_teeth-screenshot1.jpg",
-        "com.endlessm.healthy_teeth-screenshot2.jpg",
-        "com.endlessm.healthy_teeth-screenshot3.jpg"
+        "com.endlessm.healthy_teeth.en-screenshot1.jpg",
+        "com.endlessm.healthy_teeth.en-screenshot2.jpg",
+        "com.endlessm.healthy_teeth.en-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.healthy_teeth-thumb.jpg",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.healthy_teeth.en-thumb.jpg",
     "subtitle": "Learn to take care of your teeth",
     "title": "Healthy Teeth",
     "translation_id": null,
@@ -2221,39 +2266,89 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.history",
-    "category": "Education;",
+    "application-id": "com.endlessm.healthy_teeth.es",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.history-splash.jpg",
-    "description": "How much do you know about the fall of the Roman Empire? What about the Silk Road? Who lived in the Americas long ago, and what happened to them? Why did World War I begin? Download this app and answer every question you have about the events and personalities that have shaped our modern world, and learn about the cultures that came before us.",
-    "displayShape": "b2h",
-    "exec": "eos-history",
-    "featured_img": "com.endlessm.history-featured.jpg",
-    "icon": "com.endlessm.history-icon.png",
+    "custom-splash-screen": "com.endlessm.healthy_teeth.es-splash.jpg",
+    "description": "\u00bfAlguna vez has tenido un dolor de muelas? Aprende c\u00f3mo hacer para que te sientas mejor. \u00bfQuieres mantener tus dientes blancos y radiantes? Bueno, prueba estos consejos. Ya sea para aprender sobre las enfermedades de la boca y c\u00f3mo prevenirlas, o simplemente para asegurarte de mantener esa hermosa sonrisa, encontrar\u00e1s una gran cantidad de informaci\u00f3n \u00fatil en este programa. \u00a1Desc\u00e1rgalo hoy y aprende todo acerca de c\u00f3mo mantener la boca y los dientes sanos y deslumbrantes!",
+    "displayShape": "b1",
+    "exec": "eos-healthy-teeth",
+    "featured_img": "",
+    "icon": "com.endlessm.healthy_teeth.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.history-screenshot1.jpg",
-        "com.endlessm.history-screenshot2.jpg",
-        "com.endlessm.history-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.history-screenshot1.jpg",
-        "com.endlessm.history-screenshot2.jpg",
-        "com.endlessm.history-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.history-screenshot1.jpg",
-        "com.endlessm.history-screenshot2.jpg",
-        "com.endlessm.history-screenshot3.jpg"
+        "com.endlessm.healthy_teeth.es-screenshot1.jpg",
+        "com.endlessm.healthy_teeth.es-screenshot2.jpg",
+        "com.endlessm.healthy_teeth.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.history-thumb.jpg",
+    "square_img": "com.endlessm.healthy_teeth.es-thumb.jpg",
+    "subtitle": "Aprende a cuidar tus dientes",
+    "title": "Dientes sanos",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.history.bn_BD",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.history.bn_bd-splash.jpg",
+    "description": "\u09b0\u09cb\u09ae\u09be\u09a8 \u09b8\u09be\u09ae\u09cd\u09b0\u09be\u099c\u09cd\u09af \u09aa\u09a4\u09a8\u09c7\u09b0 \u09ac\u09bf\u09b7\u09df\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u099c\u09cd\u099e\u09be\u09a8 \u0995\u09a4\u09cb\u099f\u09c1\u0995\u09c1? \u09b8\u09bf\u09b2\u09cd\u0995 \u09b0\u09cb\u09a1 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0995\u09c0 \u099c\u09be\u09a8\u09c7\u09a8 \u0986\u09aa\u09a8\u09bf? \u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a4\u09c7 \u0985\u09a8\u09c7\u0995 \u0986\u0997\u09c7 \u0995\u09be\u09b0\u09be \u09a5\u09be\u0995\u09a4\u09cb, \u0986\u09b0 \u09a4\u09be\u09a6\u09c7\u09b0 \u0995\u09c0 \u09b9\u09b2\u09cb? \u09aa\u09cd\u09b0\u09a5\u09ae \u09ac\u09bf\u09b6\u09cd\u09ac\u09af\u09c1\u09a6\u09cd\u09a7 \u0995\u09c7\u09a8 \u09b6\u09c1\u09b0\u09c1 \u09b9\u09df\u09c7\u099b\u09bf\u09b2? \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa \u09a1\u09be\u0989\u09a8\u09b2\u09cb\u09a1 \u0995\u09b0\u09c1\u09a8 \u098f\u09ac\u0982 \u098f\u09b8\u09ac \u0998\u099f\u09a8\u09be\u09ac\u09b2\u09c0 \u0993 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a4\u09cd\u09ac \u09af\u09be \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u0986\u09a7\u09c1\u09a8\u09bf\u0995 \u09ac\u09bf\u09b6\u09cd\u09ac\u0995\u09c7 \u0997\u09dc\u09c7 \u09a4\u09c1\u09b2\u09c7\u099b\u09bf\u09b2 \u09b8\u09c7\u09b8\u09ac \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09aa\u09cd\u09b0\u09b6\u09cd\u09a8\u09c7\u09b0 \u0989\u09a4\u09cd\u09a4\u09b0 \u0996\u09c1\u0981\u099c\u09c7 \u09a8\u09bf\u09a8\u0964 \u098f\u09ac\u0982 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09aa\u09c2\u09b0\u09cd\u09ac\u09c7 \u09af\u09be\u09b0\u09be \u099b\u09bf\u09b2\u09c7\u09a8 \u09a4\u09be\u09a6\u09c7\u09b0 \u09b8\u0982\u09b8\u09cd\u0995\u09c3\u09a4\u09bf \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09cd\u099e\u09be\u09a8\u09be\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09c1\u09a8\u0964",
+    "displayShape": "b1",
+    "exec": "eos-history",
+    "featured_img": "",
+    "icon": "com.endlessm.history.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.history.bn_bd-screenshot1.jpg",
+        "com.endlessm.history.bn_bd-screenshot2.jpg",
+        "com.endlessm.history.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.history.bn_bd-thumb.jpg",
+    "subtitle": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u0998\u099f\u09a8\u09be\u09ac\u09b2\u09c0 \u0993 \u09b8\u09ad\u09cd\u09af\u09a4\u09be \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u0987\u09a4\u09bf\u09b9\u09be\u09b8",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.history.en",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.history.en-splash.jpg",
+    "description": "How much do you know about the fall of the Roman Empire? What about the Silk Road? Who lived in the Americas long ago, and what happened to them? Why did World War I begin? Download this app and answer every question you have about the events and personalities that have shaped our modern world, and learn about the cultures that came before us.",
+    "displayShape": "b2h",
+    "exec": "eos-history",
+    "featured_img": "com.endlessm.history.en-featured.jpg",
+    "icon": "com.endlessm.history.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.history.en-screenshot1.jpg",
+        "com.endlessm.history.en-screenshot2.jpg",
+        "com.endlessm.history.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.history.en-thumb.jpg",
     "subtitle": "Learn about the world's events and civilizations",
     "title": "History",
     "translation_id": null,
@@ -2261,55 +2356,75 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.howto",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.history.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.howto-splash.jpg",
-    "description": "Are you interested in learning more about taking care of yourself or about fixing things at home on your own? Are you interested in refinishing furniture, getting rid of tough stains, growing a healthy vegetable garden, or learning yoga or other exercises on your own? Whatever you\u2019ve dreamt of learning how to do, this is the app you need. From crafts to home improvement, event planning to self-help, you\u2019ll find nearly every topic imaginable. Each how-to article is easy to access and understand. Soon, you won\u2019t know how you managed before!",
+    "custom-splash-screen": "com.endlessm.history.es-splash.jpg",
+    "description": "\u00bfCu\u00e1nto sabes sobre la ca\u00edda del Imperio Romano? \u00bfY sobre la Ruta de la Seda? \u00bfQui\u00e9n vivi\u00f3 en las Am\u00e9ricas hace mucho tiempo, y qu\u00e9 les pas\u00f3? \u00bfPor qu\u00e9 empez\u00f3 la Primera Guerra Mundial? Este programa puede contestar cada pregunta que tengas sobre los eventos y personajes que han cambiado nuestro mundo. Tambi\u00e9n encontrar\u00e1s informaci\u00f3n sobre las culturas que vinieron antes que nosotros y dejaron su legado.",
     "displayShape": "b1",
-    "exec": "eos-howto",
+    "exec": "eos-history",
     "featured_img": "",
-    "icon": "com.endlessm.howto-icon.png",
+    "icon": "com.endlessm.history.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.howto-screenshot1.jpg",
-        "com.endlessm.howto-screenshot2.jpg",
-        "com.endlessm.howto-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.howto-screenshot1.jpg",
-        "com.endlessm.howto-screenshot2.jpg",
-        "com.endlessm.howto-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.howto-screenshot1.jpg",
-        "com.endlessm.howto-screenshot2.jpg",
-        "com.endlessm.howto-screenshot3.jpg"
+        "com.endlessm.history.es-screenshot1.jpg",
+        "com.endlessm.history.es-screenshot2.jpg",
+        "com.endlessm.history.es-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.howto-thumb.jpg",
-    "subtitle": "How-to do just about anything by yourself",
-    "title": "How To",
+    "square_img": "com.endlessm.history.es-thumb.jpg",
+    "subtitle": "Aprende sobre eventos y las civilizaciones del mundo",
+    "title": "Historia",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.library",
-    "category": "Reference;Education;",
+    "application-id": "com.endlessm.history.es_GT",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.library-splash.jpg",
-    "description": "A complete library with the great classics of world literature. More than 70 digital books, with options for small children, youth, and adults. You will have fun with fantastic stories like Gulliver's Travels (Jonathan Swift) or Around the World in 80 Days (Jules Verne) and the great works of the Portuguese language's greatest writers, like Machado de Assis and Fernando Pessoa.",
+    "custom-splash-screen": "com.endlessm.history.es_gt-splash.jpg",
+    "description": "\u00bfCu\u00e1nto sabes sobre la ca\u00edda del Imperio Romano? \u00bfY sobre la Ruta de la Seda? \u00bfQui\u00e9n vivi\u00f3 en las Am\u00e9ricas hace mucho tiempo, y qu\u00e9 les pas\u00f3? \u00bfPor qu\u00e9 empez\u00f3 la Primera Guerra Mundial? Este programa puede contestar cada pregunta que tengas sobre los eventos y personajes que han cambiado nuestro mundo. Tambi\u00e9n encontrar\u00e1s informaci\u00f3n sobre las culturas que vinieron antes que nosotros y dejaron su legado.",
     "displayShape": "b1",
-    "exec": "com.endlessm.library",
+    "exec": "eos-history",
     "featured_img": "",
-    "icon": "com.endlessm.library-icon.png",
+    "icon": "com.endlessm.history.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.history.es_gt-screenshot1.jpg",
+        "com.endlessm.history.es_gt-screenshot2.jpg",
+        "com.endlessm.history.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.history.es_gt-thumb.jpg",
+    "subtitle": "Aprende sobre eventos y las civilizaciones del mundo",
+    "title": "Historia",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.history.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.history.pt-splash.jpg",
+    "description": "Quanto voc\u00ea sabe sobre a queda do Imp\u00e9rio Romano? E sobre a Rota da Seda? Quem viveu nas Am\u00e9ricas h\u00e1 muito tempo e o que aconteceu com eles? Por que a Primeira Guerra Mundial come\u00e7ou? Baixe este programa e responda  a todas as perguntas que voc\u00ea tem sobre os acontecimentos e personalidades que moldaram nosso mundo moderno, e aprenda sobre as culturas que vieram antes de n\u00f3s.",
+    "displayShape": "b1",
+    "exec": "eos-history",
+    "featured_img": "",
+    "icon": "com.endlessm.history.pt-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2317,34 +2432,149 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.library-screenshot1.jpg",
-        "com.endlessm.library-screenshot2.jpg",
-        "com.endlessm.library-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.library-screenshot1.jpg",
-        "com.endlessm.library-screenshot2.jpg",
-        "com.endlessm.library-screenshot3.jpg"
+        "com.endlessm.history.pt-screenshot1.jpg",
+        "com.endlessm.history.pt-screenshot2.jpg",
+        "com.endlessm.history.pt-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.library-thumb.jpg",
-    "subtitle": "Literary classics for all ages",
-    "title": "Library",
+    "square_img": "com.endlessm.history.pt-thumb.jpg",
+    "subtitle": "Saiba mais sobre acontecimentos e civiliza\u00e7\u00f5es do mundo",
+    "title": "Hist\u00f3ria",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.maternity",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.howto.en",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.maternity-splash.jpg",
+    "custom-splash-screen": "com.endlessm.howto.en-splash.jpg",
+    "description": "Are you interested in learning more about taking care of yourself or about fixing things at home on your own? Are you interested in refinishing furniture, getting rid of tough stains, growing a healthy vegetable garden, or learning yoga or other exercises on your own? Whatever you\u2019ve dreamt of learning how to do, this is the app you need. From crafts to home improvement, event planning to self-help, you\u2019ll find nearly every topic imaginable. Each how-to article is easy to access and understand. Soon, you won\u2019t know how you managed before!",
+    "displayShape": "b1",
+    "exec": "eos-howto",
+    "featured_img": "",
+    "icon": "com.endlessm.howto.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.howto.en-screenshot1.jpg",
+        "com.endlessm.howto.en-screenshot2.jpg",
+        "com.endlessm.howto.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.howto.en-thumb.jpg",
+    "subtitle": "How-to do just about anything by yourself",
+    "title": "How To",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.howto.es",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.howto.es-splash.jpg",
+    "description": "\u00bfHas querido aprender a tejer o a tener un jard\u00edn bello? \u00bfTienes inter\u00e9s en restaurar alg\u00fan mueble, en limpiar una mancha o en crear un plan de acci\u00f3n personalizado para tus metas? Esta es el programa que necesitas para lograr cualquier cosa que has so\u00f1ado aprender. Oficios, arte, proyectos para mejorar la casa, desarrollo personal... podr\u00e1s encontrar casi cualquier tema que te imagines. Cada art\u00edculo es f\u00e1cil de encontrar y entender. \u00a1Pronto te preguntar\u00e1s c\u00f3mo pod\u00edas vivir sin este programa!",
+    "displayShape": "b1",
+    "exec": "eos-howto",
+    "featured_img": "",
+    "icon": "com.endlessm.howto.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.howto.es-screenshot1.jpg",
+        "com.endlessm.howto.es-screenshot2.jpg",
+        "com.endlessm.howto.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.howto.es-thumb.jpg",
+    "subtitle": "Las gu\u00edas paso a paso m\u00e1s \u00fatiles del mundo",
+    "title": "C\u00f3mo se hace",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.howto.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.howto.pt-splash.jpg",
+    "description": "Voc\u00ea est\u00e1 interessado em aprender mais sobre como cuidar de si mesmo ou sobre consertar alguma coisa em casa? Voc\u00ea est\u00e1 interessado em retocar m\u00f3veis, se livrar de manchas dif\u00edceis, aprender ioga ou outros exerc\u00edcios por conta pr\u00f3pria? Seja l\u00e1 o que voc\u00ea sempre quis aprender a fazer, este \u00e9 o programa que voc\u00ea precisa. De artesanato para decorar a sua casa a planejamento de eventos de auto-ajuda. Voc\u00ea encontrar\u00e1 praticamente qualquer t\u00f3pico que se possa imaginar. Cada como fazer \u00e9 um artigo de f\u00e1cil acesso e compreens\u00e3o. Em breve voc\u00ea vai n\u00e3o vai saber como conseguiu viver sem isso antes!",
+    "displayShape": "b1",
+    "exec": "eos-howto",
+    "featured_img": "",
+    "icon": "com.endlessm.howto.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.howto.pt-screenshot1.jpg",
+        "com.endlessm.howto.pt-screenshot2.jpg",
+        "com.endlessm.howto.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.howto.pt-thumb.jpg",
+    "subtitle": "Como fazer praticamente qualquer coisa por conta pr\u00f3pria",
+    "title": "Como Fazer",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.library.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.library.pt-splash.jpg",
+    "description": "Uma biblioteca completa com os grandes cl\u00e1ssicos da literatura mundial. S\u00e3o mais de 70 livros digitalizados, com op\u00e7\u00f5es para crian\u00e7as pequenas, jovens e adultos. Voc\u00ea vai se divertir com com hist\u00f3rias fant\u00e5sticas como As Viagens de Gulliver (Jonathan Swift) ou A Volta ao Mundo em 80 dias (Julio Verne) e as grandes obras dos maiores autores de l\u00edngua portuguesa, como Machado de Assis e Fernando Pessoa.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.library",
+    "featured_img": "",
+    "icon": "com.endlessm.library.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.library.pt-screenshot1.jpg",
+        "com.endlessm.library.pt-screenshot2.jpg",
+        "com.endlessm.library.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.library.pt-thumb.jpg",
+    "subtitle": "Cl\u00e1ssicos da literatura para todas as idades",
+    "title": "Biblioteca",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.maternity.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.maternity.en-splash.jpg",
     "description": "Having a baby is one of the most magical experiences in the world, but it can also be pretty overwhelming if you don't have access to a doctor or if you are a new mother and don't know what to expect. Learn about signs that could be dangerous so you can avoid them, and also about things you should try through your pregnancy to ensure a healthy birth. Whether you are about to have your first child, are about to have your tenth child, or are a midwife that helps other women give birth, you will find relevant information here that can help!",
     "displayShape": "b1",
     "exec": "eos-maternity",
     "featured_img": "",
-    "icon": "com.endlessm.maternity-icon.png",
+    "icon": "com.endlessm.maternity.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2352,18 +2582,13 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.maternity-screenshot1.jpg",
-        "com.endlessm.maternity-screenshot2.jpg",
-        "com.endlessm.maternity-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.maternity-screenshot1.jpg",
-        "com.endlessm.maternity-screenshot2.jpg",
-        "com.endlessm.maternity-screenshot3.jpg"
+        "com.endlessm.maternity.en-screenshot1.jpg",
+        "com.endlessm.maternity.en-screenshot2.jpg",
+        "com.endlessm.maternity.en-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.maternity-thumb.jpg",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.maternity.en-thumb.jpg",
     "subtitle": "Valuable information for new mothers",
     "title": "Maternity",
     "translation_id": null,
@@ -2371,39 +2596,59 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.math",
+    "application-id": "com.endlessm.maternity.es",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.maternity.es-splash.jpg",
+    "description": "Tener un beb\u00e9 es una de las experiencias m\u00e1s m\u00e1gicas del mundo, pero tambi\u00e9n puede ser bastante abrumador si  no tienes acceso a un m\u00e9dico o si eres una madre primeriza y no sabes qu\u00e9 esperar. Aprende acerca de los signos que podr\u00edan ser peligrosos para que puedas evitarlos, y tambi\u00e9n acerca de las cosas que debes tratar a trav\u00e9s de tu embarazo para asegurar un parto saludable. Ya sea que est\u00e9s a punto de tener a tu primer hijo, a punto de tener tu d\u00e9cimo hijo, o eres una partera que ayuda a otras mujeres dar a luz, \u00a1aqu\u00ed encontrar\u00e1s informaci\u00f3n relevante que te pueda ayudar!",
+    "displayShape": "b1",
+    "exec": "eos-maternity",
+    "featured_img": "",
+    "icon": "com.endlessm.maternity.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.maternity.es-screenshot1.jpg",
+        "com.endlessm.maternity.es-screenshot2.jpg",
+        "com.endlessm.maternity.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.maternity.es-thumb.jpg",
+    "subtitle": "Informaci\u00f3n valiosa para todas las madres",
+    "title": "Maternidad",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.math.en",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.math-splash.jpg",
+    "custom-splash-screen": "com.endlessm.math.en-splash.jpg",
     "description": "Studying high school math doesn\u2019t have to be confusing or dull. This simple math app will help you master subjects like algebra, geometry, trigonometry, calculus, and statistics. Strengthen your mathematical reasoning skills and gain a deeper understanding of whatever math concepts you\u2019re struggling with. With information for multiple courses all in one place, you can extend your learning and expand your mind!",
     "displayShape": "b1",
     "exec": "eos-math",
     "featured_img": "",
-    "icon": "com.endlessm.math-icon.png",
+    "icon": "com.endlessm.math.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.math-screenshot1.jpg",
-        "com.endlessm.math-screenshot2.jpg",
-        "com.endlessm.math-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.math-screenshot1.jpg",
-        "com.endlessm.math-screenshot2.jpg",
-        "com.endlessm.math-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.math-screenshot1.jpg",
-        "com.endlessm.math-screenshot2.jpg",
-        "com.endlessm.math-screenshot3.jpg"
+        "com.endlessm.math.en-screenshot1.jpg",
+        "com.endlessm.math.en-screenshot2.jpg",
+        "com.endlessm.math.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.math-thumb.jpg",
+    "square_img": "com.endlessm.math.en-thumb.jpg",
     "subtitle": "High school math made simple and accessible",
     "title": "Math",
     "translation_id": null,
@@ -2411,15 +2656,75 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.mayan_languages",
-    "category": "Education;Reference;Family;",
+    "application-id": "com.endlessm.math.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.mayan_languages-splash.jpg",
-    "description": "Have you ever wanted to study and learn a Mayan language? Whether you're a beginner or are more advanced, this app contains many great resources. Here you can find stories, dictionaries, and grammar resources in different Mayan languages. Get ready to immerse yourself in Mayan culture through all the history and stories you'll find here!",
+    "custom-splash-screen": "com.endlessm.math.es-splash.jpg",
+    "description": "El estudio de las matem\u00e1ticas de la escuela secundaria no tiene que ser confusa ni aburrida. Este programa de matem\u00e1ticas te ayudar\u00e1 a dominar temas como \u00e1lgebra, geometr\u00eda, trigonometr\u00eda, c\u00e1lculo y estad\u00edstica. Fortalece tus habilidades de razonamiento matem\u00e1tico y obt\u00e9n una comprensi\u00f3n m\u00e1s profunda de conceptos matem\u00e1ticos con los cu\u00e1les est\u00e1s luchando. \u00a1Con informaci\u00f3n de m\u00faltiples cursos en un s\u00f3lo lugar, puedes ampliar tu aprendizaje y tu mente!",
+    "displayShape": "b1",
+    "exec": "eos-math",
+    "featured_img": "",
+    "icon": "com.endlessm.math.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.math.es-screenshot1.jpg",
+        "com.endlessm.math.es-screenshot2.jpg",
+        "com.endlessm.math.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.math.es-thumb.jpg",
+    "subtitle": "Matem\u00e1ticas de educaci\u00f3n secundaria accesible",
+    "title": "Matem\u00e1ticas",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.math.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.math.pt-splash.jpg",
+    "description": "Estudar matem\u00e1tica no ensino m\u00e9dio n\u00e3o precisa ser confuso ou ma\u00e7ante. Este simples programa de matem\u00e1tica ir\u00e1 ajud\u00e1-lo em assuntos chave como \u00e1lgebra, geometria, trigonometria, c\u00e1lculo e estat\u00edsticas. Fortale\u00e7a suas habilidades de racioc\u00ednio matem\u00e1tico e adquira uma compreens\u00e3o mais profunda sobre os conceitos da matem\u00e1tica que voc\u00ea est\u00e1 estudando. Com informa\u00e7\u00f5es de v\u00e1rios cursos em um s\u00f3 lugar, voc\u00ea pode estender a sua aprendizagem e expandir sua mente!",
+    "displayShape": "b1",
+    "exec": "eos-math",
+    "featured_img": "",
+    "icon": "com.endlessm.math.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.math.pt-screenshot1.jpg",
+        "com.endlessm.math.pt-screenshot2.jpg",
+        "com.endlessm.math.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.math.pt-thumb.jpg",
+    "subtitle": "Matem\u00e1tica do ensino m\u00e9dio de forma simples e acess\u00edvel",
+    "title": "Matem\u00e1tica",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.mayan_languages.es_GT",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.mayan_languages.es_gt-splash.jpg",
+    "description": "\u00bfAlguna vez has querido estudiar y aprender un idioma Maya? Tanto si eres un principiante o un estudiante m\u00e1s avanzado, este programa contiene muchos recursos \u00fatiles. Aqu\u00ed puedes encontrar cuentos, diccionarios y gu\u00edas gramaticales en diferentes idiomas Mayas. \u00a1Prep\u00e1rate para sumergirte en la cultura Maya a trav\u00e9s de toda la historia y los cuentos que encontrar\u00e1s aqu\u00ed!",
     "displayShape": "b1",
     "exec": "eos-mayan-languages",
     "featured_img": "",
-    "icon": "com.endlessm.mayan_languages-icon.png",
+    "icon": "com.endlessm.mayan_languages.es_gt-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
@@ -2427,89 +2732,73 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.mayan_languages-screenshot1.jpg",
-        "com.endlessm.mayan_languages-screenshot2.jpg",
-        "com.endlessm.mayan_languages-screenshot3.jpg"
-      ],
-      "es": []
+        "com.endlessm.mayan_languages.es_gt-screenshot1.jpg",
+        "com.endlessm.mayan_languages.es_gt-screenshot2.jpg",
+        "com.endlessm.mayan_languages.es_gt-screenshot3.jpg"
+      ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.mayan_languages-thumb.jpg",
-    "subtitle": "Stories and dictionaries in Mayan languages",
-    "title": "Mayan Languages",
+    "square_img": "com.endlessm.mayan_languages.es_gt-thumb.jpg",
+    "subtitle": "Cuentos y diccionarios en los idiomas Mayas",
+    "title": "Idiomas Maya",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.microenterprises",
+    "application-id": "com.endlessm.microenterprises.es_GT",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.microenterprises-splash.jpg",
-    "description": "Have you dreamed of starting your own company? Learn all about what it will take to do so! As a small business owner, you'll need to learn how to take an idea you have and turn it into something profitable, how to manage a team, how to take care of all of the administrative aspects - and you'll find a little about all of that here in this app. Prepare yourself to enter into a world where you are your own boss!",
+    "custom-splash-screen": "com.endlessm.microenterprises.es_gt-splash.jpg",
+    "description": "\u00bfHas so\u00f1ado con empezar tu propio negocio? \u00a1Aprende todo acerca de lo que se necesita para hacerlo! Como due\u00f1o de un negocio peque\u00f1o, tendr\u00e1s que aprender a convertir una idea en algo beneficioso, c\u00f3mo dirigir un equipo, c\u00f3mo cuidar de todos los aspectos administrativos - y encontrar\u00e1s un poco de todo sobre eso aqu\u00ed en este programa. \u00a1Prep\u00e1rate para entrar a un mundo en el que t\u00fa eres tu propio jefe!",
     "displayShape": "b1",
     "exec": "eos-microenterprises",
     "featured_img": "",
-    "icon": "com.endlessm.microenterprises-icon.png",
+    "icon": "com.endlessm.microenterprises.es_gt-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Guatemala"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.microenterprises-screenshot1.jpg",
-        "com.endlessm.microenterprises-screenshot2.jpg",
-        "com.endlessm.microenterprises-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.microenterprises-screenshot1.jpg",
-        "com.endlessm.microenterprises-screenshot2.jpg",
-        "com.endlessm.microenterprises-screenshot3.jpg"
+        "com.endlessm.microenterprises.es_gt-screenshot1.jpg",
+        "com.endlessm.microenterprises.es_gt-screenshot2.jpg",
+        "com.endlessm.microenterprises.es_gt-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.microenterprises-thumb.jpg",
-    "subtitle": "Learn to run your own company",
-    "title": "Microenterprises",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.microenterprises.es_gt-thumb.jpg",
+    "subtitle": " Aprende a ejecutar tu propio negocio",
+    "title": "Microempresas",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.myths",
-    "category": "Education;Reference;Family;",
+    "application-id": "com.endlessm.myths.en",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.myths-splash.jpg",
+    "custom-splash-screen": "com.endlessm.myths.en-splash.jpg",
     "description": "Do you like reading myths, legends and scary stories? This app has some from all around the world! From Mayan legends to popular Japanese myths, and scary stories, you're sure to find something that will interest you. Read all about the creatures, myths, legends, and fables that have shaped cultures of the past and present all over the world!",
     "displayShape": "b1",
     "exec": "eos-myths",
     "featured_img": "",
-    "icon": "com.endlessm.myths-icon.png",
+    "icon": "com.endlessm.myths.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.myths-screenshot1.jpg",
-        "com.endlessm.myths-screenshot2.jpg",
-        "com.endlessm.myths-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.myths-screenshot1.jpg",
-        "com.endlessm.myths-screenshot2.jpg",
-        "com.endlessm.myths-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.myths-screenshot1.jpg",
-        "com.endlessm.myths-screenshot2.jpg",
-        "com.endlessm.myths-screenshot3.jpg"
+        "com.endlessm.myths.en-screenshot1.jpg",
+        "com.endlessm.myths.en-screenshot2.jpg",
+        "com.endlessm.myths.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.myths-thumb.jpg",
+    "square_img": "com.endlessm.myths.en-thumb.jpg",
     "subtitle": "Myths and legends from around the world",
     "title": "Myths & Legends",
     "translation_id": null,
@@ -2517,15 +2806,75 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.paraguayan_constitution",
+    "application-id": "com.endlessm.myths.es",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.paraguayan_constitution-splash.jpg",
+    "custom-splash-screen": "com.endlessm.myths.es-splash.jpg",
+    "description": "\u00bfTe gusta leer sobre mitos, leyendas o historias de terror? Este programa contiene exactamente eso. Desde leyendas mayas a los mitos populares japoneses, y varias f\u00e1bulas, podr\u00e1s explorar textos de todo el mundo y encontrar algo que te interese. \u00a1Lee todo sobre las criaturas, mitos, leyendas y f\u00e1bulas que han dado forma a las culturas del pasado y del presente por todo el mundo!",
+    "displayShape": "b1",
+    "exec": "eos-myths",
+    "featured_img": "",
+    "icon": "com.endlessm.myths.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.myths.es-screenshot1.jpg",
+        "com.endlessm.myths.es-screenshot2.jpg",
+        "com.endlessm.myths.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.myths.es-thumb.jpg",
+    "subtitle": "Mitos y leyendas de todo el mundo",
+    "title": "Mitos y leyendas",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.myths.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.myths.pt-splash.jpg",
+    "description": "Voc\u00ea gosta de ler sobre mitos, lendas e hist\u00f3rias de terror? Este programa tem alguns de todo o mundo! De lendas maias a mitos japoneses populares e hist\u00f3rias de terror. Certamente voc\u00ea encontrar\u00e1 algo que vai lhe interessar. Leia tudo sobre as criaturas, mitos, lendas e f\u00e1bulas que moldaram as culturas do passado e do presente em todo o mundo!",
+    "displayShape": "b1",
+    "exec": "eos-myths",
+    "featured_img": "",
+    "icon": "com.endlessm.myths.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.myths.pt-screenshot1.jpg",
+        "com.endlessm.myths.pt-screenshot2.jpg",
+        "com.endlessm.myths.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.myths.pt-thumb.jpg",
+    "subtitle": "Mitos e lendas de todo o mundo",
+    "title": "Mitos e Lendas",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.paraguayan_constitution.es_PY",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.paraguayan_constitution.es_py-splash.jpg",
     "description": "Con este programa puedes aprender sobre la Constituci\u00f3n de la Rep\u00fablica del Paraguay. Los 311 art\u00edculos est\u00e1n reproducidos aqu\u00ed. Un programa perfecto para estudiantes, docentes y ciudadanos que quieran profundizar su conocimiento sobre los derechos fundamentales de la Rep\u00fablica del Paraguay.",
     "displayShape": "b1",
     "exec": "com.endlessm.paraguayan_constitution",
     "featured_img": "",
-    "icon": "com.endlessm.paraguayan_constitution-icon.png",
+    "icon": "com.endlessm.paraguayan_constitution.es_py-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2533,18 +2882,13 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.paraguayan_constitution-screenshot1.jpg",
-        "com.endlessm.paraguayan_constitution-screenshot2.jpg",
-        "com.endlessm.paraguayan_constitution-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.paraguayan_constitution-screenshot1.jpg",
-        "com.endlessm.paraguayan_constitution-screenshot2.jpg",
-        "com.endlessm.paraguayan_constitution-screenshot3.jpg"
+        "com.endlessm.paraguayan_constitution.es_py-screenshot1.jpg",
+        "com.endlessm.paraguayan_constitution.es_py-screenshot2.jpg",
+        "com.endlessm.paraguayan_constitution.es_py-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.paraguayan_constitution-thumb.jpg",
+    "square_img": "com.endlessm.paraguayan_constitution.es_py-thumb.jpg",
     "subtitle": "La entera Constituci\u00f3n de la Rep\u00fablica del Paraguay",
     "title": "La Constituci\u00f3n",
     "translation_id": null,
@@ -2592,39 +2936,29 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.physics",
+    "application-id": "com.endlessm.physics.en",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.physics-splash.jpg",
+    "custom-splash-screen": "com.endlessm.physics.en-splash.jpg",
     "description": "Do you find learning about physics to be difficult? You're not alone. Physics is one of the most fascinating and challenging scientific disciplines. Use this app to find exactly what you need to learn, and to make learning it easier. Whatever your level of understanding, you\u2019ll find useful information presented in a format you can follow. The app includes exciting topics like mechanics, thermodynamics, electricity and magnetism, and even astrophysics. From the atoms to the stars, you\u2019ll learn all about the world around you, and succeed in your physics education.",
     "displayShape": "b2v",
     "exec": "eos-physics",
-    "featured_img": "com.endlessm.physics-featured.jpg",
-    "icon": "com.endlessm.physics-icon.png",
+    "featured_img": "com.endlessm.physics.en-featured.jpg",
+    "icon": "com.endlessm.physics.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.physics-screenshot1.jpg",
-        "com.endlessm.physics-screenshot2.jpg",
-        "com.endlessm.physics-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.physics-screenshot1.jpg",
-        "com.endlessm.physics-screenshot2.jpg",
-        "com.endlessm.physics-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.physics-screenshot1.jpg",
-        "com.endlessm.physics-screenshot2.jpg",
-        "com.endlessm.physics-screenshot3.jpg"
+        "com.endlessm.physics.en-screenshot1.jpg",
+        "com.endlessm.physics.en-screenshot2.jpg",
+        "com.endlessm.physics.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.physics-thumb.jpg",
+    "square_img": "com.endlessm.physics.en-thumb.jpg",
     "subtitle": "Learn about the physical world's mysteries",
     "title": "Physics",
     "translation_id": null,
@@ -2632,15 +2966,75 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.prensa_libre",
+    "application-id": "com.endlessm.physics.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.physics.es-splash.jpg",
+    "description": "\u00bfPiensas que la f\u00edsica es una materia dif\u00edcil? Pues no eres el \u00fanico. La f\u00edsica es una de las materias m\u00e1s fascinantes y desafiantes de todas las disciplinas cient\u00edficas. Utiliza este programa para encontrar exactamente lo que necesitas aprender y hacer que el aprendizaje sea m\u00e1s f\u00e1cil. Sea cual sea tu nivel de comprensi\u00f3n, encontrar\u00e1s informaci\u00f3n \u00fatil y presentada en un formato que podr\u00e1s seguir. El programa incluye temas interesantes, como la mec\u00e1nica, termodin\u00e1mica, electricidad y magnetismo, e incluso la astrof\u00edsica. Desde los \u00e1tomos hasta las estrellas, aprender\u00e1s todo sobre el mundo que te rodea, y tendr\u00e1s \u00e9xito sobre tu educaci\u00f3n en f\u00edsica.",
+    "displayShape": "b1",
+    "exec": "eos-physics",
+    "featured_img": "",
+    "icon": "com.endlessm.physics.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.physics.es-screenshot1.jpg",
+        "com.endlessm.physics.es-screenshot2.jpg",
+        "com.endlessm.physics.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.physics.es-thumb.jpg",
+    "subtitle": "Aprende sobre los misterios del mundo f\u00edsico",
+    "title": "F\u00edsica",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.physics.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.physics.pt-splash.jpg",
+    "description": "Voc\u00ea acha dif\u00edcil aprender f\u00edsica? Voc\u00ea n\u00e3o est\u00e1 sozinho! A f\u00edsica \u00e9 uma das disciplinas cient\u00edficas mais fascinantes e desafiadoras. Use este programa para encontrar exatamente o que voc\u00ea precisa para aprender e para tornar o aprendizado mais f\u00e1cil. Seja qual for o seu n\u00edvel de conhecimento, voc\u00ea vai encontrar informa\u00e7\u00f5es \u00fateis apresentadas em um formato que voc\u00ea pode acompanhar. O programa inclui temas interessantes, como mec\u00e2nica, termodin\u00e2mica, eletricidade e magnetismo, e at\u00e9 mesmo astrof\u00edsica. Dos \u00e1tomos \u00e0s estrelas, voc\u00ea vai aprender tudo sobre o mundo ao seu redor, e ter sucesso em seu aprendizado sobre f\u00edsica.",
+    "displayShape": "b1",
+    "exec": "eos-physics",
+    "featured_img": "",
+    "icon": "com.endlessm.physics.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.physics.pt-screenshot1.jpg",
+        "com.endlessm.physics.pt-screenshot2.jpg",
+        "com.endlessm.physics.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.physics.pt-thumb.jpg",
+    "subtitle": "Saiba mais sobre os mist\u00e9rios do mundo da f\u00edsica",
+    "title": "F\u00edsica",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.prensa_libre.es_GT",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.prensa_libre-splash.jpg",
-    "description": "All the latest news and information on sports, culture and entertainment, politics, and economics, from Guatemala and the world, produced by Prensa Libre. You will have access to hundreds of articles offline, and when you go online, you will receive the latest news available. The articles remain stored on your computer so you can access them later offline at your convenience.",
+    "custom-splash-screen": "com.endlessm.prensa_libre.es_gt-splash.jpg",
+    "description": "Todas las \u00faltimas noticias e informaci\u00f3n sobre deporte, cultura, entretenimiento, pol\u00edtica y econom\u00eda de Guatemala y el mundo, producido por Prensa Libre. Tendr\u00e1s cientos de art\u00edculos disponibles a\u00fan cuando no tengas internet, y cuando te conectes, se actualizar\u00e1 con todas las \u00faltimas noticias. Todos los nuevos art\u00edculos quedan almacenados en tu computadora para que puedas leerlos incluso sin conexi\u00f3n al internet, a tu conveniencia.",
     "displayShape": "b2h",
     "exec": "eos-prensa-libre",
-    "featured_img": "com.endlessm.prensa_libre-featured.jpg",
-    "icon": "com.endlessm.prensa_libre-icon.png",
+    "featured_img": "com.endlessm.prensa_libre.es_gt-featured.jpg",
+    "icon": "com.endlessm.prensa_libre.es_gt-icon.png",
     "is_featured": true,
     "is_offline": false,
     "personalities": [
@@ -2648,14 +3042,14 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.prensa_libre-screenshot1.jpg",
-        "com.endlessm.prensa_libre-screenshot2.jpg",
-        "com.endlessm.prensa_libre-screenshot3.jpg"
+        "com.endlessm.prensa_libre.es_gt-screenshot1.jpg",
+        "com.endlessm.prensa_libre.es_gt-screenshot2.jpg",
+        "com.endlessm.prensa_libre.es_gt-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.prensa_libre-thumb.jpg",
-    "subtitle": "All the news about Guatemala and the world",
+    "square_img": "com.endlessm.prensa_libre.es_gt-thumb.jpg",
+    "subtitle": "Toda la informaci\u00f3n de Guatemala y el mundo",
     "title": "Prensa Libre",
     "translation_id": null,
     "translation_type": null,
@@ -2702,39 +3096,29 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.programming_guide",
+    "application-id": "com.endlessm.programming_guide.en",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.programming_guide-splash.jpg",
+    "custom-splash-screen": "com.endlessm.programming_guide.en-splash.jpg",
     "description": "Have you ever wanted to make websites or explore programming? With this app you can! Learn the basics of front-end web development with HTML, CSS, and Javascript.",
     "displayShape": "b1",
     "exec": "com.endlessm.programming_guide",
     "featured_img": "",
-    "icon": "com.endlessm.programming_guide-icon.png",
+    "icon": "com.endlessm.programming_guide.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.programming_guide-screenshot1.jpg",
-        "com.endlessm.programming_guide-screenshot2.jpg",
-        "com.endlessm.programming_guide-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.programming_guide-screenshot1.jpg",
-        "com.endlessm.programming_guide-screenshot2.jpg",
-        "com.endlessm.programming_guide-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.programming_guide-screenshot1.jpg",
-        "com.endlessm.programming_guide-screenshot2.jpg",
-        "com.endlessm.programming_guide-screenshot3.jpg"
+        "com.endlessm.programming_guide.en-screenshot1.jpg",
+        "com.endlessm.programming_guide.en-screenshot2.jpg",
+        "com.endlessm.programming_guide.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.programming_guide-thumb.jpg",
+    "square_img": "com.endlessm.programming_guide.en-thumb.jpg",
     "subtitle": "Learn the basics of front-end web development with this app",
     "title": "Programming",
     "translation_id": null,
@@ -2742,15 +3126,75 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.publimetro",
+    "application-id": "com.endlessm.programming_guide.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.programming_guide.es-splash.jpg",
+    "description": "Aprende HTML, CSS, y JavaScript y programa para el futuro de la web. En este programa aprender\u00e1s los conceptos b\u00e1sicos de dise\u00f1o y programaci\u00f3n y estar en tu camino para hacer tu primer sitio web.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.programming_guide",
+    "featured_img": "",
+    "icon": "com.endlessm.programming_guide.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.programming_guide.es-screenshot1.jpg",
+        "com.endlessm.programming_guide.es-screenshot2.jpg",
+        "com.endlessm.programming_guide.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.programming_guide.es-thumb.jpg",
+    "subtitle": "Aprender a programar para web",
+    "title": "Programaci\u00f3n",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.programming_guide.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.programming_guide.pt-splash.jpg",
+    "description": "Aprenda HTML, CSS e JavaScript e programe a internet do futuro. Veja boas pr\u00e1ticas como performance e design responsivo, e frameworks modernos como jQuery e Bootstrap.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.programming_guide",
+    "featured_img": "",
+    "icon": "com.endlessm.programming_guide.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.programming_guide.pt-screenshot1.jpg",
+        "com.endlessm.programming_guide.pt-screenshot2.jpg",
+        "com.endlessm.programming_guide.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.programming_guide.pt-thumb.jpg",
+    "subtitle": "Aprenda a programar para web",
+    "title": "Programa\u00e7\u00e3o",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.publimetro.es_MX",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.publimetro-splash.jpg",
-    "description": "Breaking news portal from Mexico and the world, focused on information about the country, DF, world, technology, sports, entertainment and viral news.\r\nThe program is updated with the latest Publimetro newspaper website news whenever you are connected.\r\nThe news are stored on your computer so you can access them whenever you want, even without internet.",
+    "custom-splash-screen": "com.endlessm.publimetro.es_mx-splash.jpg",
+    "description": "El portal de noticias de M\u00e9xico y el mundo, centrado en informaci\u00f3n sobre el D.F., el pa\u00eds, el mundo, tecnolog\u00eda, deportes, entretenimiento y noticias virales.",
     "displayShape": "b1",
     "exec": "eos-publimetro",
     "featured_img": "",
-    "icon": "com.endlessm.publimetro-icon.png",
+    "icon": "com.endlessm.publimetro.es_mx-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -2758,13 +3202,13 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.publimetro-screenshot1.jpg",
-        "com.endlessm.publimetro-screenshot2.jpg"
+        "com.endlessm.publimetro.es_mx-screenshot1.jpg",
+        "com.endlessm.publimetro.es_mx-screenshot2.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.publimetro-thumb.jpg",
-    "subtitle": "The global newspaper about breaking news in Mexico and the world",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.publimetro.es_mx-thumb.jpg",
+    "subtitle": "El peri\u00f3dico sobre noticias de \u00faltima hora en M\u00e9xico y en el mundo",
     "title": "Publimetro",
     "translation_id": null,
     "translation_type": null,
@@ -2907,39 +3351,59 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.soccer",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.soccer.bn_BD",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.soccer-splash.jpg",
+    "custom-splash-screen": "com.endlessm.soccer.bn_bd-splash.jpg",
+    "description": "\ufffc\u09ab\u09c1\u099f\u09ac\u09b2 \u098f\u09ae\u09a8 \u098f\u0995 \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09b6\u09cd\u09ac \u099c\u09c1\u09dc\u09c7 \u09af\u09be\u09b0 \u09ad\u0995\u09cd\u09a4 \u099b\u09dc\u09bf\u09df\u09c7 \u0986\u099b\u09c7\u0964 \u0986\u09aa\u09a8\u09bf \u0995\u09bf \u09a4\u09be\u09a6\u09c7\u09b0 \u098f\u0995\u099c\u09a8? \u09a4\u09be\u09b9\u09b2\u09c7 \u098f\u0987 \u098f\u09cd\u09af\u09be\u09aa\u099f\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u099c\u09a8\u09cd\u09af\u0987\u0964 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8 \u09a6\u09b2\u0997\u09c1\u09b2\u09cb, \u09a4\u09be\u09a6\u09c7\u09b0 \u0996\u09c7\u09b2\u09cb\u09df\u09be\u09dc \u0986\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09b0 \u09ac\u09cd\u09af\u09be\u09aa\u09be\u09b0\u09c7 \u09af\u09be \u099c\u09be\u09a8\u09be\u09b0 \u09a6\u09b0\u0995\u09be\u09b0 \u09b8\u09ac \u0986\u09aa\u09a8\u09bf \u098f\u0996\u09be\u09a8\u09c7 \u09aa\u09be\u09ac\u09c7\u09a8\u0964 \u098f\u0987 \u0996\u09c7\u09b2\u09be \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09a4\u09a5\u09cd\u09af \u0986\u09b0 \u098f\u09b0 \u0987\u09a4\u09bf\u09b9\u09be\u09b8 \u099c\u09be\u09a8\u09c1\u09a8, \u09a8\u09bf\u09df\u09ae\u09a8\u09c0\u09a4\u09bf \u09a8\u09bf\u09df\u09c7 \u0986\u09b0\u09cb \u0996\u09c1\u0981\u099f\u09bf\u09a8\u09be\u099f\u09bf \u0986\u09ac\u09bf\u09b7\u09cd\u0995\u09be\u09b0 \u0995\u09b0\u09c1\u09a8, \u098f\u09ac\u0982 \u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09df \u0996\u09c7\u09b2\u09be \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09b9\u09be\u09b2\u09a8\u09be\u0997\u09be\u09a6 \u09a5\u09be\u0995\u09c1\u09a8 \u09b9\u09be\u099c\u09be\u09b0\u09c7\u09b0\u0993 \u09ac\u09c7\u09b6\u09bf \u0986\u09b0\u09cd\u099f\u09bf\u0995\u09c7\u09b2\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7!",
+    "displayShape": "b1",
+    "exec": "eos-soccer",
+    "featured_img": "",
+    "icon": "com.endlessm.soccer.bn_bd-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Bangladesh"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.soccer.bn_bd-screenshot1.jpg",
+        "com.endlessm.soccer.bn_bd-screenshot2.jpg",
+        "com.endlessm.soccer.bn_bd-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.soccer.bn_bd-thumb.jpg",
+    "subtitle": "\u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09df \u09a6\u09b2 \u098f\u09ac\u0982 \u0996\u09c7\u09b2\u09cb\u09df\u09be\u09dc\u09a6\u09c7\u09b0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u099c\u09be\u09a8\u09c1\u09a8",
+    "title": "\u09ab\u09c1\u099f\u09ac\u09b2",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.soccer.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.soccer.en-splash.jpg",
     "description": "Football is a major sport with fans all around the world. Are you one of them? Then this is the app for you. It features everything you need to know about the world\u2019s major teams, players, and competitions. Learn facts about the game and its history, discover more about the rules, and keep up to date with thousands of articles about your favorite sport!",
     "displayShape": "b1",
     "exec": "eos-soccer",
     "featured_img": "",
-    "icon": "com.endlessm.soccer-icon.png",
+    "icon": "com.endlessm.soccer.en-icon.png",
     "is_featured": false,
     "is_offline": true,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.soccer-screenshot1.jpg",
-        "com.endlessm.soccer-screenshot2.jpg",
-        "com.endlessm.soccer-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.soccer-screenshot1.jpg",
-        "com.endlessm.soccer-screenshot2.jpg",
-        "com.endlessm.soccer-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.soccer-screenshot1.jpg",
-        "com.endlessm.soccer-screenshot2.jpg",
-        "com.endlessm.soccer-screenshot3.jpg"
+        "com.endlessm.soccer.en-screenshot1.jpg",
+        "com.endlessm.soccer.en-screenshot2.jpg",
+        "com.endlessm.soccer.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.soccer-thumb.jpg",
+    "square_img": "com.endlessm.soccer.en-thumb.jpg",
     "subtitle": "Learn about your favorite team and players",
     "title": "Football",
     "translation_id": null,
@@ -2947,74 +3411,149 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.social_enterprises",
+    "application-id": "com.endlessm.soccer.es",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.social_enterprises-splash.jpg",
-    "description": "Have you thought of starting your own non-profit organization, or of joining one? Non-profits enjoy special tax benefits, and are generally created to make a real social impact. Read these guides to understand more about the non-profit structure and how to operate them so that you can begin making your impact in the world even larger!",
+    "custom-splash-screen": "com.endlessm.soccer.es-splash.jpg",
+    "description": "El f\u00fatbol es un deporte con aficionados en todo el mundo. \u00bfEres uno de ellos? Este programa tiene todo lo que necesitas saber acerca de los mejores equipos del mundo, tus jugadores favoritos y todos los torneos en que participan. Aprende hechos acerca del juego y su historia, descubre la complejidad de las reglas, \u00a1y mantente al tanto con miles de art\u00edculos acerca de tu deporte favorito!",
     "displayShape": "b1",
-    "exec": "eos-social-enterprises",
+    "exec": "eos-soccer",
     "featured_img": "",
-    "icon": "com.endlessm.social_enterprises-icon.png",
+    "icon": "com.endlessm.soccer.es-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Spanish"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.social_enterprises-screenshot1.jpg",
-        "com.endlessm.social_enterprises-screenshot2.jpg",
-        "com.endlessm.social_enterprises-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.social_enterprises-screenshot1.jpg",
-        "com.endlessm.social_enterprises-screenshot2.jpg",
-        "com.endlessm.social_enterprises-screenshot3.jpg"
+        "com.endlessm.soccer.es-screenshot1.jpg",
+        "com.endlessm.soccer.es-screenshot2.jpg",
+        "com.endlessm.soccer.es-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.social_enterprises-thumb.jpg",
-    "subtitle": "All about non-profit organizations",
-    "title": "Social Enterprises",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.soccer.es-thumb.jpg",
+    "subtitle": "Aprende m\u00e1s de tu equipo y jugadores favoritos",
+    "title": "F\u00fatbol",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.socialsciences",
+    "application-id": "com.endlessm.soccer.es_GT",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.soccer.es_gt-splash.jpg",
+    "description": "\ufffcEl f\u00fatbol es un deporte con aficionados en todo el mundo. \u00bfEres uno de ellos? Este programa tiene todo lo que necesitas saber acerca de los mejores equipos del mundo, tus jugadores favoritos y todos los torneos en que participan. Aprende hechos acerca del juego y su historia, descubre la complejidad de las reglas, \u00a1y mantente al tanto con miles de art\u00edculos acerca de tu deporte favorito!",
+    "displayShape": "b1",
+    "exec": "eos-soccer",
+    "featured_img": "",
+    "icon": "com.endlessm.soccer.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.soccer.es_gt-screenshot1.jpg",
+        "com.endlessm.soccer.es_gt-screenshot2.jpg",
+        "com.endlessm.soccer.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.soccer.es_gt-thumb.jpg",
+    "subtitle": "Aprende m\u00e1s de tu equipo y jugadores favoritos",
+    "title": "F\u00fatbol",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.soccer.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.soccer.pt-splash.jpg",
+    "description": "\ufffcFutebol \u00e9 um esporte de grande import\u00e2ncia que agrega f\u00e3s em todo o mundo. Voc\u00ea \u00e9 um deles? Ent\u00e3o este programa \u00e9 para voc\u00ea. Ele apresenta tudo o que voc\u00ea precisa saber sobre os maiores times do mundo, jogadores e campeonatos. Saiba sobre os acontecimentos do esporte e sua hist\u00f3ria, descubra as complexidades das regras e fique atualizado com artigos sobre o seu esporte favorito!",
+    "displayShape": "b1",
+    "exec": "eos-soccer",
+    "featured_img": "",
+    "icon": "com.endlessm.soccer.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.soccer.pt-screenshot1.jpg",
+        "com.endlessm.soccer.pt-screenshot2.jpg",
+        "com.endlessm.soccer.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.soccer.pt-thumb.jpg",
+    "subtitle": "Mantenha-se atualizado sobre os seus times de futebol, leia sobre jogadores famosos e  conhe\u00e7a as re",
+    "title": "Futebol",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.social_enterprises.es_GT",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.social_enterprises.es_gt-splash.jpg",
+    "description": "\u00bfHas pensado en empezar tu propia empresa social, o de unirte a una? Las empresas sociales gozan de beneficios tributarios especiales, y se crean generalmente para hacer un impacto social. \u00a1Lee estas gu\u00edas para entender m\u00e1s acerca de la estructura de empresas sociales y de c\u00f3mo operarlas para que puedas comenzar a hacer que tu impacto en el mundo sea m\u00e1s grande!",
+    "displayShape": "b1",
+    "exec": "eos-social-enterprises",
+    "featured_img": "",
+    "icon": "com.endlessm.social_enterprises.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.social_enterprises.es_gt-screenshot1.jpg",
+        "com.endlessm.social_enterprises.es_gt-screenshot2.jpg",
+        "com.endlessm.social_enterprises.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.social_enterprises.es_gt-thumb.jpg",
+    "subtitle": "Todo sobre las empresas sociales",
+    "title": "Empresas sociales",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.socialsciences.en",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.socialsciences-splash.jpg",
+    "custom-splash-screen": "com.endlessm.socialsciences.en-splash.jpg",
     "description": "Human beings and the relationships and societies they form are complicated. This app will introduce you to many of the disciplines that examine human history, cultures, and interactions. You\u2019ll have access to the basics of psychology, sociology, anthropology, political science, and more. Understanding the fundamentals of such disciplines will help you navigate the ways we interact and relate to each other. You\u2019ll come away with a rich understanding of human behavior.",
     "displayShape": "b1",
     "exec": "eos-socialsciences",
     "featured_img": "",
-    "icon": "com.endlessm.socialsciences-icon.png",
+    "icon": "com.endlessm.socialsciences.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.socialsciences-screenshot1.jpg",
-        "com.endlessm.socialsciences-screenshot2.jpg",
-        "com.endlessm.socialsciences-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.socialsciences-screenshot1.jpg",
-        "com.endlessm.socialsciences-screenshot2.jpg",
-        "com.endlessm.socialsciences-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.socialsciences-screenshot1.jpg",
-        "com.endlessm.socialsciences-screenshot2.jpg",
-        "com.endlessm.socialsciences-screenshot3.jpg"
+        "com.endlessm.socialsciences.en-screenshot1.jpg",
+        "com.endlessm.socialsciences.en-screenshot2.jpg",
+        "com.endlessm.socialsciences.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.socialsciences-thumb.jpg",
+    "square_img": "com.endlessm.socialsciences.en-thumb.jpg",
     "subtitle": "Subjects that explore the individual and society",
     "title": "Social Sciences",
     "translation_id": null,
@@ -3022,15 +3561,105 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.spanish_guarani_dictionary",
-    "category": "Reference;Education;",
+    "application-id": "com.endlessm.socialsciences.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.spanish_guarani_dictionary-splash.jpg",
+    "custom-splash-screen": "com.endlessm.socialsciences.es-splash.jpg",
+    "description": "Los seres humanos y las relaciones y sociedades que forman son complejos. Este programa te dar\u00e1 a conocer muchas de las disciplinas que examinan la historia, las culturas y las interacciones de los seres humanos. Tendr\u00e1s acceso a la informaci\u00f3n fundamental de la psicolog\u00eda, sociolog\u00eda, antropolog\u00eda, ciencia pol\u00edtica y m\u00e1s. Entendiendo los fundamentos de cada disciplina te ayudar\u00e1 a navegar los modos en que interactuamos y nos relacionamos los unos con los otros. Saldr\u00e1s con un profundo conocimiento del comportamiento de los seres humanos.",
+    "displayShape": "b1",
+    "exec": "eos-socialsciences",
+    "featured_img": "",
+    "icon": "com.endlessm.socialsciences.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.socialsciences.es-screenshot1.jpg",
+        "com.endlessm.socialsciences.es-screenshot2.jpg",
+        "com.endlessm.socialsciences.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.socialsciences.es-thumb.jpg",
+    "subtitle": "Materias que exploran el individuo y la sociedad",
+    "title": "Ciencias sociales",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.socialsciences.es_GT",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.socialsciences.es_gt-splash.jpg",
+    "description": "Los seres humanos y las relaciones y sociedades que forman son complejos. Este programa te dar\u00e1 a conocer muchas de las disciplinas que examinan la historia, las culturas y las interacciones de los seres humanos. Tendr\u00e1s acceso a la informaci\u00f3n fundamental de la psicolog\u00eda, sociolog\u00eda, antropolog\u00eda, ciencia pol\u00edtica y m\u00e1s. Entendiendo los fundamentos de cada disciplina te ayudar\u00e1 a navegar los modos en que interactuamos y nos relacionamos los unos con los otros. Saldr\u00e1s con un profundo conocimiento del comportamiento de los seres humanos.",
+    "displayShape": "b1",
+    "exec": "eos-socialsciences",
+    "featured_img": "",
+    "icon": "com.endlessm.socialsciences.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.socialsciences.es_gt-screenshot1.jpg",
+        "com.endlessm.socialsciences.es_gt-screenshot2.jpg",
+        "com.endlessm.socialsciences.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.socialsciences.es_gt-thumb.jpg",
+    "subtitle": "Materias que exploran el individuo y la sociedad",
+    "title": "Ciencias sociales",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.socialsciences.pt",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.socialsciences.pt-splash.jpg",
+    "description": "\ufffcOs seres humanos, as rela\u00e7\u00f5es e as sociedades que eles formam s\u00e3o complicadas. Este programa ir\u00e1 apresentar-lhe muitas das disciplinas que examinam a hist\u00f3ria humana, culturas e intera\u00e7\u00f5es. Voc\u00ea ter\u00e1 acesso \u00e0s no\u00e7\u00f5es b\u00e1sicas de psicologia, sociologia, antropologia, ci\u00eancia pol\u00edtica, e muito mais. Compreender os fundamentos de tais disciplinas ir\u00e1 ajud\u00e1-lo a entender as maneiras como eles interagem e se relacionam entre si. Voc\u00ea vai sair com uma rica compreens\u00e3o do comportamento humano.",
+    "displayShape": "b1",
+    "exec": "eos-socialsciences",
+    "featured_img": "",
+    "icon": "com.endlessm.socialsciences.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.socialsciences.pt-screenshot1.jpg",
+        "com.endlessm.socialsciences.pt-screenshot2.jpg",
+        "com.endlessm.socialsciences.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.socialsciences.pt-thumb.jpg",
+    "subtitle": "Temas que exploram sobre o indiv\u00edduo e a sociedade",
+    "title": "Ci\u00eancias Sociais",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.spanish_guarani_dictionary.es_PY",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.spanish_guarani_dictionary.es_py-splash.jpg",
     "description": "Este diccionario biling\u00fce Castellano-Guaran\u00ed y Guaran\u00ed-Castellano es muy did\u00e1ctico, pues est\u00e1 especialmente desarrollado para los estudiantes y docentes. Se rige por estrictas normas de la educaci\u00f3n b\u00e1sica. Cuenta con indicaci\u00f3n de la categor\u00eda gramatical (adj., s., v.,) y con 8.132 entradas.",
     "displayShape": "b1",
     "exec": "com.endlessm.spanish_guarani_dictionary",
     "featured_img": "",
-    "icon": "com.endlessm.spanish_guarani_dictionary-icon.png",
+    "icon": "com.endlessm.spanish_guarani_dictionary.es_py-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -3038,18 +3667,13 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.spanish_guarani_dictionary-screenshot1.jpg",
-        "com.endlessm.spanish_guarani_dictionary-screenshot2.jpg",
-        "com.endlessm.spanish_guarani_dictionary-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.spanish_guarani_dictionary-screenshot1.jpg",
-        "com.endlessm.spanish_guarani_dictionary-screenshot2.jpg",
-        "com.endlessm.spanish_guarani_dictionary-screenshot3.jpg"
+        "com.endlessm.spanish_guarani_dictionary.es_py-screenshot1.jpg",
+        "com.endlessm.spanish_guarani_dictionary.es_py-screenshot2.jpg",
+        "com.endlessm.spanish_guarani_dictionary.es_py-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.spanish_guarani_dictionary-thumb.jpg",
+    "square_img": "com.endlessm.spanish_guarani_dictionary.es_py-thumb.jpg",
     "subtitle": "Diccionario biling\u00fce de Castellano-Guaran\u00ed y Guaran\u00ed-Castellano",
     "title": "Diccionario Guaran\u00ed",
     "translation_id": null,
@@ -3207,15 +3831,15 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.textbooks",
+    "application-id": "com.endlessm.textbooks.en",
     "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.textbooks-splash.jpg",
+    "custom-splash-screen": "com.endlessm.textbooks.en-splash.jpg",
     "description": "Find information to help you with your homework, or learn about a subject you've always wanted to know more about! You can scroll through photos, tables, and graphs to learn more about each. Not only are these textbooks very thorough and informative, but they are also easy to read and helpful. Whether you\u2019re a student, parent, teacher, or just someone eager to learn, you'll be sure to find something interesting and useful here!",
     "displayShape": "b1",
     "exec": "eos-textbooks",
     "featured_img": "",
-    "icon": "com.endlessm.textbooks-icon.png",
+    "icon": "com.endlessm.textbooks.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -3223,22 +3847,17 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.textbooks-screenshot1.jpg",
-        "com.endlessm.textbooks-screenshot2.jpg",
-        "com.endlessm.textbooks-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.textbooks-screenshot1.jpg",
-        "com.endlessm.textbooks-screenshot2.jpg",
-        "com.endlessm.textbooks-screenshot3.jpg"
+        "com.endlessm.textbooks.en-screenshot1.jpg",
+        "com.endlessm.textbooks.en-screenshot2.jpg",
+        "com.endlessm.textbooks.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.textbooks-thumb.jpg",
+    "square_img": "com.endlessm.textbooks.en-thumb.jpg",
     "subtitle": "Math and science textbooks",
     "title": "Textbooks",
-    "translation_id": "eos-subscriptions-apps",
-    "translation_type": "gettext",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
@@ -3276,43 +3895,153 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.travel",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.travel.bn_BD",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.travel-splash.jpg",
-    "description": "The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
-    "displayShape": "b2v",
+    "custom-splash-screen": "com.endlessm.travel.bn_bd-splash.jpg",
+    "description": "\ufffc\u098f\u0987 \u09aa\u09c3\u09a5\u09bf\u09ac\u09c0 \u098f\u0995\u099f\u09bf \u0985\u09b8\u09be\u09a7\u09be\u09b0\u09a3 \u0993 \u09b8\u09c1\u09a6\u09c3\u09b6\u09cd\u09af \u09b8\u09cd\u09a5\u09be\u09a8! \u098f\u0987 \u09a6\u09be\u09b0\u09c1\u09a3 \u098f\u09cd\u09af\u09be\u09aa\u09cd\u09b2\u09bf\u0995\u09c7\u09b6\u09a8\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u0985\u09a8\u09c1\u09b8\u09a8\u09cd\u09a7\u09be\u09a8 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c1\u09a8 \u098f\u09ac\u0982 \u09a6\u09c7\u0996\u09c1\u09a8 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u099a\u09be\u09b0\u09aa\u09be\u09b6 \u09a5\u09c7\u0995\u09c7 \u09a4\u09c1\u09b2\u09c7 \u0986\u09a8\u09be \u099b\u09ac\u09bf \u098f\u09ac\u0982 \u099c\u09be\u09a8\u09c1\u09a8 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09b0\u0995\u09ae \u09a4\u09a5\u09cd\u09af\u0964 \u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be, \u0987\u0989\u09b0\u09cb\u09aa, \u098f\u09b6\u09bf\u09df\u09be\u09b8\u09b9 \u0986\u09b0\u09cb \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u099c\u09be\u09df\u0997\u09be\u09b0 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8 \u09b8\u09cd\u09a5\u09be\u09a8\u0997\u09c1\u09b2\u09cb \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u09a4\u09a5\u09cd\u09af \u0986\u099b\u09c7 \u098f\u0996\u09be\u09a8\u09c7\u0964 \u099c\u09be\u09a8\u09c1\u09a8 \u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u09ac\u09bf\u09b8\u09cd\u09ae\u09df\u0997\u09c1\u09b2\u09cb \u09a8\u09bf\u09df\u09c7, \u09a8\u09a4\u09c1\u09a8 \u09b8\u0982\u09b8\u09cd\u0995\u09c3\u09a4\u09bf \u0985\u09a8\u09c1\u09b8\u09a8\u09cd\u09a7\u09be\u09a8 \u0995\u09b0\u09c1\u09a8 \u098f\u09ac\u0982 \u0986\u09ac\u09bf\u09b7\u09cd\u0995\u09be\u09b0 \u0995\u09b0\u09c1\u09a8 \u09aa\u09c3\u09a5\u09bf\u09ac\u09c0\u09b0 \u0995\u09bf\u099b\u09c1 \u0985\u09a8\u09cd\u09af\u09a4\u09ae \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 \u0993 \u09aa\u09ac\u09bf\u09a4\u09cd\u09b0 \u09a7\u09b0\u09cd\u09ae\u09c0\u09df \u09b8\u09cd\u09a5\u09be\u09a8!",
+    "displayShape": "b1",
     "exec": "eos-travel",
-    "featured_img": "com.endlessm.travel-featured.jpg",
-    "icon": "com.endlessm.travel-icon.png",
+    "featured_img": "",
+    "icon": "com.endlessm.travel.bn_bd-icon.png",
     "is_featured": false,
-    "is_offline": true,
+    "is_offline": false,
     "personalities": [
-      "All"
+      "Bangladesh"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.travel-screenshot1.jpg",
-        "com.endlessm.travel-screenshot2.jpg",
-        "com.endlessm.travel-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.travel-screenshot1.jpg",
-        "com.endlessm.travel-screenshot2.jpg",
-        "com.endlessm.travel-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.travel-screenshot1.jpg",
-        "com.endlessm.travel-screenshot2.jpg",
-        "com.endlessm.travel-screenshot3.jpg"
+        "com.endlessm.travel.bn_bd-screenshot1.jpg",
+        "com.endlessm.travel.bn_bd-screenshot2.jpg",
+        "com.endlessm.travel.bn_bd-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.travel-thumb.jpg",
+    "square_img": "com.endlessm.travel.bn_bd-thumb.jpg",
+    "subtitle": "\u0986\u09aa\u09a8\u09be\u09b0 \u0998\u09b0\u09c7 \u09ac\u09b8\u09c7\u0987 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u099a\u09be\u09b0\u09a6\u09bf\u0995\u09c7 \u09ad\u09cd\u09b0\u09ae\u09a3 \u0995\u09b0\u09c7 \u0986\u09b8\u09c1\u09a8",
+    "title": "\u09ad\u09cd\u09b0\u09ae\u09a3",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.travel.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.travel.en-splash.jpg",
+    "description": "The world is an amazing and beautiful place! Start exploring it with this cool application that lets you see pictures and learn facts about areas from all over the world. It features information on major sites in places like the Americas, Europe, Asia and beyond. Learn about natural wonders, explore new cultures, and discover some of the most important and holy religious sites in the world!",
+    "displayShape": "b2v",
+    "exec": "eos-travel",
+    "featured_img": "com.endlessm.travel.en-featured.jpg",
+    "icon": "com.endlessm.travel.en-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "Global"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.travel.en-screenshot1.jpg",
+        "com.endlessm.travel.en-screenshot2.jpg",
+        "com.endlessm.travel.en-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.travel.en-thumb.jpg",
     "subtitle": "Travel around the world from your living room",
     "title": "Travel",
-    "translation_id": "eos-subscriptions-apps",
-    "translation_type": "gettext",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.travel.es",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.travel.es-splash.jpg",
+    "description": "\u00a1El mundo es un lugar bello y extraordinario! Comienza a explorarlo con este programa que te permite ver fotos y aprender acerca de lugares y monumentos de todas partes del mundo. Contiene informaci\u00f3n acerca de los mayores atractivos en las Am\u00e9ricas, Europa, Asia y m\u00e1s. \u00a1Conoce las maravillas naturales, explora nuevas culturas y descubre algunos de los sitios m\u00e1s importantes del mundo!",
+    "displayShape": "b1",
+    "exec": "eos-travel",
+    "featured_img": "",
+    "icon": "com.endlessm.travel.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.travel.es-screenshot1.jpg",
+        "com.endlessm.travel.es-screenshot2.jpg",
+        "com.endlessm.travel.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.travel.es-thumb.jpg",
+    "subtitle": "Explora los lugares m\u00e1s populares del mundo",
+    "title": "\u00a1Explora!",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.travel.es_GT",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.travel.es_gt-splash.jpg",
+    "description": "\ufffc\u00a1El mundo es un lugar bello y extraordinario! Comienza a explorarlo con este programa que te permite ver fotos y aprender acerca de lugares y monumentos de todas partes del mundo. Contiene informaci\u00f3n acerca de los mayores atractivos en las Am\u00e9ricas, Europa, Asia y m\u00e1s. \u00a1Conoce las maravillas naturales, explora nuevas culturas y descubre algunos de los sitios m\u00e1s importantes del mundo!",
+    "displayShape": "b1",
+    "exec": "eos-travel",
+    "featured_img": "",
+    "icon": "com.endlessm.travel.es_gt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Guatemala"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.travel.es_gt-screenshot1.jpg",
+        "com.endlessm.travel.es_gt-screenshot2.jpg",
+        "com.endlessm.travel.es_gt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.travel.es_gt-thumb.jpg",
+    "subtitle": "Explora los lugares m\u00e1s populares del mundo",
+    "title": "\u00a1Explora!",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.travel.pt",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.travel.pt-splash.jpg",
+    "description": "\ufffcO mundo \u00e9 um lugar surpreendente e lindo! Comece a explor\u00e1-lo com este programa irado que permite ver fotos e saber sobre acontecimentos de regi\u00f5es de todo o mundo. Ele apresenta informa\u00e7\u00f5es sobre os principais lugares como as Am\u00e9ricas, Europa, \u00c1sia e mais. Aprenda sobre as maravilhas naturais, explore novas culturas e descubra alguns dos lugares sagrados mais importantes do mundo!",
+    "displayShape": "b1",
+    "exec": "eos-travel",
+    "featured_img": "",
+    "icon": "com.endlessm.travel.pt-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.travel.pt-screenshot1.jpg",
+        "com.endlessm.travel.pt-screenshot2.jpg",
+        "com.endlessm.travel.pt-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.travel.pt-thumb.jpg",
+    "subtitle": "Explore sites online de todo o mundo direto da sua sala-de-estar",
+    "title": "Viagem",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
@@ -3356,36 +4085,61 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.water_and_sanitation",
-    "category": "Education;Family;",
+    "application-id": "com.endlessm.water_and_sanitation.en",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.water_and_sanitation-splash.jpg",
+    "custom-splash-screen": "com.endlessm.water_and_sanitation.en-splash.jpg",
     "description": "Drinking clean water is essential for survival. There can often be terrible diseases that can infect you through bad water, or by having bad sanitation around you. Learn how to make sure you drink clean water, and how to ensure that you create a sanitary environment around you where you can thrive. ",
     "displayShape": "b1",
     "exec": "eos-water-and-sanitation",
     "featured_img": "",
-    "icon": "com.endlessm.water_and_sanitation-icon.png",
+    "icon": "com.endlessm.water_and_sanitation.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.water_and_sanitation-screenshot1.jpg",
-        "com.endlessm.water_and_sanitation-screenshot2.jpg",
-        "com.endlessm.water_and_sanitation-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.water_and_sanitation-screenshot1.jpg",
-        "com.endlessm.water_and_sanitation-screenshot2.jpg",
-        "com.endlessm.water_and_sanitation-screenshot3.jpg"
+        "com.endlessm.water_and_sanitation.en-screenshot1.jpg",
+        "com.endlessm.water_and_sanitation.en-screenshot2.jpg",
+        "com.endlessm.water_and_sanitation.en-screenshot3.jpg"
       ]
     },
-    "splash-screen-type": "Default",
-    "square_img": "com.endlessm.water_and_sanitation-thumb.jpg",
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.water_and_sanitation.en-thumb.jpg",
     "subtitle": "All about clean water and sanitation",
     "title": "Sanitation",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.water_and_sanitation.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.water_and_sanitation.es-splash.jpg",
+    "description": "\ufffcBeber agua limpia es esencial para la supervivencia. A menudo hay terribles enfermedades que te pueden infectar a trav\u00e9s de agua en mal estado, o por tener mal saneamiento a tu alrededor. Aprende c\u00f3mo asegurarte de beber agua limpia, y c\u00f3mo asegurarte de que se crea un ambiente limpio a tu alrededor donde se pueda prosperar.",
+    "displayShape": "b1",
+    "exec": "eos-water-and-sanitation",
+    "featured_img": "",
+    "icon": "com.endlessm.water_and_sanitation.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.water_and_sanitation.es-screenshot1.jpg",
+        "com.endlessm.water_and_sanitation.es-screenshot2.jpg",
+        "com.endlessm.water_and_sanitation.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.water_and_sanitation.es-thumb.jpg",
+    "subtitle": "Sobre el agua potable y el saneamiento",
+    "title": "Saneamiento",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3427,7 +4181,7 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.world_literature",
+    "application-id": "com.endlessm.world_literature.en",
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
@@ -3435,28 +4189,21 @@
     "displayShape": "b1",
     "exec": "eos-world-literature",
     "featured_img": "",
-    "icon": "com.endlessm.world_literature-icon.png",
+    "icon": "com.endlessm.world_literature.en-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global",
-      "Guatemala",
-      "Mexico"
+      "Global"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.world_literature-screenshot1.jpg",
-        "com.endlessm.world_literature-screenshot2.jpg",
-        "com.endlessm.world_literature-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.world_literature-screenshot1.jpg",
-        "com.endlessm.world_literature-screenshot2.jpg",
-        "com.endlessm.world_literature-screenshot3.jpg"
+        "com.endlessm.world_literature.en-screenshot1.jpg",
+        "com.endlessm.world_literature.en-screenshot2.jpg",
+        "com.endlessm.world_literature.en-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "None",
-    "square_img": "com.endlessm.world_literature-thumb.jpg",
+    "square_img": "com.endlessm.world_literature.en-thumb.jpg",
     "subtitle": "Read all of the world's great literature",
     "title": "World Literature",
     "translation_id": null,
@@ -3464,15 +4211,45 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.your_health",
-    "category": "Reference;Family;",
+    "application-id": "com.endlessm.world_literature.es",
+    "category": "Education;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.your_health-splash.jpg",
-    "description": "Health care for the whole family with information about disease prevention, nutrition, and well-being. This application also provides information about vaccination and how to use the services available in the Unified Health System. Content developed by the medical team at the sautil.com.br portal",
+    "custom-splash-screen": "",
+    "description": "\u00a1Encuentra algunos de tus libros favoritos en este programa! Para comenzar tu b\u00fasqueda, abre la carpeta, haz clic en el archivo 'Index', y selecciona el g\u00e9nero que m\u00e1s te interese. Encontrar\u00e1s algunos de los libros m\u00e1s famosos del mundo, incluyendo maravillas modernas que seguramente te interesar\u00e1n. Esta biblioteca virtual tiene una colecci\u00f3n estupenda de novelas, poemas, biograf\u00edas, cuentos y otros textos. De seguro encontrar\u00e1s tu libro favorito o descubrir\u00e1s uno nuevo que te gustar\u00e1. Te entretendr\u00e1s durante horas y expandir\u00e1s profundamente tu conocimiento literario.",
+    "displayShape": "b1",
+    "exec": "eos-world-literature",
+    "featured_img": "",
+    "icon": "com.endlessm.world_literature.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Spanish"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.world_literature.es-screenshot1.jpg",
+        "com.endlessm.world_literature.es-screenshot2.jpg",
+        "com.endlessm.world_literature.es-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "None",
+    "square_img": "com.endlessm.world_literature.es-thumb.jpg",
+    "subtitle": "Lee toda la gran literatura del mundo",
+    "title": "Literatura",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.your_health.pt_BR",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.your_health.pt_br-splash.jpg",
+    "description": "Cuide da sa\u00fade de toda a fam\u00edlia com informa\u00e7\u00f5es sobre preven\u00e7\u00e3o de doen\u00e7as, alimenta\u00e7\u00e3o e bem-estar. Este aplicativo traz ainda informa\u00e7\u00f5es sobre vacina\u00e7\u00e3o e sobre como utilizar os servi\u00e7os dispon\u00edveis no SUS (Sistema \u00danico de Sa\u00fade). Conte\u00fado elaborado pela equipe m\u00e9dica do portal Sautil.com.br",
     "displayShape": "b1",
     "exec": "com.endlessm.your_health",
     "featured_img": "",
-    "icon": "com.endlessm.your_health-icon.png",
+    "icon": "com.endlessm.your_health.pt_br-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
@@ -3480,22 +4257,17 @@
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.your_health-screenshot1.jpg",
-        "com.endlessm.your_health-screenshot2.jpg",
-        "com.endlessm.your_health-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.your_health-screenshot1.jpg",
-        "com.endlessm.your_health-screenshot2.jpg",
-        "com.endlessm.your_health-screenshot3.jpg"
+        "com.endlessm.your_health.pt_br-screenshot1.jpg",
+        "com.endlessm.your_health.pt_br-screenshot2.jpg",
+        "com.endlessm.your_health.pt_br-screenshot3.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.your_health-thumb.jpg",
-    "subtitle": "Health, nutrition, and well-being in one click",
-    "title": "Your Health",
-    "translation_id": "eos-subscriptions-apps",
-    "translation_type": "gettext",
+    "square_img": "com.endlessm.your_health.pt_br-thumb.jpg",
+    "subtitle": "Sa\u00fade, alimenta\u00e7\u00e3o e bem-estar em um clique",
+    "title": "Sua Sa\u00fade",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
