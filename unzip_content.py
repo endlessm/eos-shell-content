@@ -29,6 +29,7 @@ from desktop_object import LinkObject, AppObject, FolderObject
 from extra_categories import EXTRA_CATEGORIES
 from extra_desktop_entries import EXTRA_DESKTOP_ENTRIES
 from translate_desktop_files import translate_dir
+from update_translation_info import merge_translation_info
 
 ZIP_FILENAME = 'appstore.zip'
 UNZIP_DIR = 'unzipped'
@@ -39,7 +40,6 @@ LINKS_DIR = os.path.join(DATA_DIR, 'links')
 BUNDLE_APPS_DIR = os.path.join(BUNDLE_DIR, 'desktops')
 FOLDERS_DIR = os.path.join(DATA_DIR, 'folders')
 BUNDLE_MANIFESTS_DIR = os.path.join(BUNDLE_DIR, 'manifests')
-BUNDLE_TRANSLATIONS_FILENAME = os.path.join(BUNDLE_DIR, 'translations.json')
 BUNDLE_ICON_DIR = os.path.join('icons', 'bundle', '64x64', 'apps')
 CORE_ICON_DIR = os.path.join('icons', 'core', '64x64', 'apps')
 ICON_MASK = '/tmp/icon_mask.png'
@@ -231,12 +231,9 @@ if __name__ == '__main__':
     # manually reviewing the file), and with extra categories included
     # (and with trailing semicolon to match the freedesktop spec) Also,
     # if there is only one screenshot language, let's force it to be "C"
-    # so that we have a fallback for all locales. Merge in translation
-    # information to be used in AppData.
+    # so that we have a fallback for all locales.
     with open(target) as infile:
         json_data = json.load(infile)
-    with open(BUNDLE_TRANSLATIONS_FILENAME) as transfile:
-        trans_data = json.load(transfile)
     for app_data in json_data:
         app_id = app_data['application-id']
         if not app_data.get('category', None):
@@ -262,13 +259,8 @@ if __name__ == '__main__':
                     shutil.move(os.path.join(source_dir, fname),
                                 os.path.join(target_dir, fname))
 
-        # Merge in translation information if available
-        translation_id = translation_type = None
-        if app_id in trans_data:
-            translation_id = trans_data[app_id].get('translation_id')
-            translation_type = trans_data[app_id].get('translation_type')
-        app_data['translation_id'] = translation_id
-        app_data['translation_type'] = translation_type
+    # Merge in translation information to be used in AppData
+    merge_translation_info(json_data)
 
     sorted_json = sorted(json_data, key=operator.itemgetter('application-id'))
 

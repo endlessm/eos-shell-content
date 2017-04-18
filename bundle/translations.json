@@ -11,6 +11,22 @@
         "translation_id": "eos-subscriptions-apps",
         "translation_type": "gettext"
     },
+    "com.endlessm.finance": {
+        "translation_id": "eos-finance",
+        "translation_type": "gettext"
+    },
+    "com.endlessm.photos": {
+        "translation_id": "eos-photos",
+        "translation_type": "gettext"
+    },
+    "com.endlessm.programming": {
+        "translation_id": "eos-programming",
+        "translation_type": "gettext"
+    },
+    "com.endlessm.resume": {
+        "translation_id": "eos-resume",
+        "translation_type": "gettext"
+    },
     "com.endlessm.textbooks": {
         "translation_id": "eos-subscriptions-apps",
         "translation_type": "gettext"
@@ -35,6 +51,26 @@
         "translation_id": "eos-subscriptions-apps",
         "translation_type": "gettext"
     },
+    "com.transmissionbt.Transmission": {
+        "translation_id": "transmission-gtk",
+        "translation_type": "gettext"
+    },
+    "net.gcompris.Gcompris": {
+        "translation_id": "gcompris",
+        "translation_type": "gettext"
+    },
+    "net.minetest.Minetest": {
+        "translation_id": "minetest",
+        "translation_type": "gettext"
+    },
+    "net.sourceforge.Audacity": {
+        "translation_id": "audacity",
+        "translation_type": "gettext"
+    },
+    "net.sourceforge.ChromiumBSU": {
+        "translation_id": "chromium-bsu",
+        "translation_type": "gettext"
+    },
     "net.sourceforge.Tuxfootball": {
         "translation_id": "tuxfootball",
         "translation_type": "gettext"
@@ -55,6 +91,42 @@
         "translation_id": "tuxtype",
         "translation_type": "gettext"
     },
+    "org.freeciv.Freeciv": {
+        "translation_id": "freeciv",
+        "translation_type": "gettext"
+    },
+    "org.gimp.Gimp": {
+        "translation_id": "gimp20",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Builder": {
+        "translation_id": "gnome-builder",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Freecell": {
+        "translation_id": "aisleriot",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Genius": {
+        "translation_id": "genius",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Gnote": {
+        "translation_id": "gnote",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Iagno": {
+        "translation_id": "iagno",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Quadrapassel": {
+        "translation_id": "quadrapassel",
+        "translation_type": "gettext"
+    },
+    "org.gnome.Solitaire": {
+        "translation_id": "aisleriot",
+        "translation_type": "gettext"
+    },
     "org.gnome.Terminal": {
         "translation_id": "gnome-terminal",
         "translation_type": "gettext"
@@ -67,8 +139,20 @@
         "translation_id": "totem",
         "translation_type": "gettext"
     },
+    "org.inkscape.Inkscape": {
+        "translation_id": "inkscape",
+        "translation_type": "gettext"
+    },
     "org.pitivi.Pitivi": {
         "translation_id": "pitivi",
+        "translation_type": "gettext"
+    },
+    "org.squeakland.Etoys": {
+        "translation_id": "etoys",
+        "translation_type": "gettext"
+    },
+    "org.stellarium.Stellarium": {
+        "translation_id": "stellarium",
         "translation_type": "gettext"
     },
     "org.sugarlabs.Turtleblocks": {
@@ -77,6 +161,14 @@
     },
     "org.tuxfamily.Xmoto": {
         "translation_id": "xmoto",
+        "translation_type": "gettext"
+    },
+    "org.tuxpaint.Tuxpaint": {
+        "translation_id": "tuxpaint",
+        "translation_type": "gettext"
+    },
+    "org.wesnoth.Wesnoth": {
+        "translation_id": "wesnoth",
         "translation_type": "gettext"
     }
 }
