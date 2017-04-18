@@ -80,6 +80,30 @@ sub app_desktop_file {
 	return $desktop if (-e $desktop);
 }
 
+sub app_appdata_file {
+	my $app_id=shift;
+	my $prefix=shift;
+	my $tmp=shift;
+
+	# See if this package has the appdata file
+	my $appdata = $tmp . $prefix . '/share/appdata/' . $app_id
+	    . '.appdata.xml';
+	verbose_print("Checking for app-data file $appdata");
+	if (-l $appdata) {
+		my $link = readlink($appdata);
+		if ($link =~ /^\//) {
+			# If the symlink is absolute, make it relative
+			# to the tmpdir
+			$appdata = $tmp . $link;
+		} else {
+			# Resolve it to an absolute path
+			$appdata = abs_path($desktop);
+		}
+		verbose_print("Resolved symlink to $appdata");
+	}
+	return $appdata if (-e $appdata);
+}
+
 foreach my $package (@{$dh{DOPACKAGES}}) {
 	my $tmp=tmpdir($package);
 	my $app_id=package_eos_app_id($package);
@@ -101,10 +125,16 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	}
 
 	$desktop = app_desktop_file($app_id, $prefix, $tmp);
-	next if not $desktop;
+	if ($desktop) {
+		verbose_print("Updating desktop file $desktop");
+		doit("eos-content-merge -i $content_id -d $desktop");
+	}
 
-	verbose_print("Updating desktop file $desktop");
-	doit("eos-content-merge -i $content_id $desktop");
+	$appdata = app_appdata_file($app_id, $prefix, $tmp);
+	if ($appdata) {
+		verbose_print("Updating appdata file $appdata");
+		doit("eos-content-merge -i $content_id -a $appdata");
+	}
 }
 
 =head1 SEE ALSO
