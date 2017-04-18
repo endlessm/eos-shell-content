@@ -1,7 +1,23 @@
 [Desktop Entry]
 Version=1.0
 Name=Sublime Text
+Name[ar]=مُحرّر سابليم تكست
+Name[fr]=Sublime Text
+Name[hi]=सबलाइम पाठ
+Name[id]=Sublime Text
+Name[th]=Sublime Text
+Name[vi]=Sublime Text
+Name[zh_CN]=Sublime Text
+Name[zh_TW]=Sublime Text
 Comment=Sophisticated text editor for code, markup, and prose
+Comment[ar]=مُحرّر نص متطور لكتابة الأكواد والترميز والنثر
+Comment[fr]=Éditeur de texte sophistiqué pour code, balisage et prose
+Comment[hi]=कोड, मार्कअप और गद्य के लिए परिष्कृत पाठ संपादक
+Comment[id]=Text editor canggih untuk coding, markup, dan prosa.
+Comment[th]=โปรแกรมแก้ไขข้อความสุดทันสมัยและสลับซับซ้อนที่ใช้เพื่อการเขียนโปรแกรม ภาษามาร์กอัป และความเรียง
+Comment[vi]=Trình chỉnh sửa văn bản tiên tiến cho các đoạn mã, đánh dấu và văn xuôi
+Comment[zh_CN]=一款用于编写代码、标记和文章的复杂文本编辑器
+Comment[zh_TW]=適合編寫程式碼、標記和寫作的強大文字編輯工具
 Type=Application
 Exec=com.sublimetext.three
 Icon=eos-app-com.sublimetext.three
