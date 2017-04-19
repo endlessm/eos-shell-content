@@ -110,6 +110,7 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	my $content_id;
 	my $prefix='/usr';
 	my $app_data;
+	my $app_data_file;
 	my $desktop;
 
 	next if not defined $app_id;
@@ -130,10 +131,10 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 		doit("eos-content-merge -i $content_id -d $desktop");
 	}
 
-	$appdata = app_appdata_file($app_id, $prefix, $tmp);
-	if ($appdata) {
-		verbose_print("Updating appdata file $appdata");
-		doit("eos-content-merge -i $content_id -a $appdata");
+	$app_data_file = app_appdata_file($app_id, $prefix, $tmp);
+	if ($app_data_file) {
+		verbose_print("Updating appdata file $app_data_file");
+		doit("eos-content-merge -i $content_id -a $app_data_file");
 	}
 }
 
