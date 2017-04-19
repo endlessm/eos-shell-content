@@ -42,7 +42,8 @@ Depends: eos-shell-content (= ${binary:Version}),
          gir1.2-appstreamglib-1.0,
          libjson-perl,
          python3,
-         python3-gi
+         python3-gi,
+         python3-polib
 Description: Endless OS Shell Content installation package - dev files
  This package will install the content to build bundles for the app
  store.
