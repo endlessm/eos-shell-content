@@ -97,7 +97,7 @@ sub app_appdata_file {
 			$appdata = $tmp . $link;
 		} else {
 			# Resolve it to an absolute path
-			$appdata = abs_path($desktop);
+			$appdata = abs_path($appdata);
 		}
 		verbose_print("Resolved symlink to $appdata");
 	}
