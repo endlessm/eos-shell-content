@@ -27,6 +27,7 @@ import glob
 import json
 import os
 import polib
+import re
 import sys
 import xml.dom.minidom
 import xml.etree.ElementTree as ET
@@ -51,6 +52,8 @@ class ShellContent:
 
     def __init__(self):
         self._translations, self._langs = self._get_translations_dict()
+        # Regex for matching anything starting with a <tag> like format
+        self._tag_expression = re.compile('^\s*\<\w+\>.*')
 
     def _get_translations_dict(self):
         """Get translations dictionary and list of languages.
@@ -105,6 +108,17 @@ class ShellContent:
             return ''
         return messages.get((msg, field), '')
 
+    def _add_paragraph_tags_if_needed(self, text):
+        if not text:
+            return ''
+
+        # Check if the parameter already looks like it's already formatted
+        if self._tag_expression.match(text):
+            return text
+
+        # Otherwise format the text
+        return '<p>{}</p>'.format(text)
+
     def _translate_app(self, app):
         for locale in self._langs:
             name = self._translate_field(locale, 'title', app.get_name('C'))
@@ -118,7 +132,7 @@ class ShellContent:
             if summary:
                 app.set_comment(locale, summary)
             if description:
-                app.set_description(locale, description)
+                app.set_description(locale, self._add_paragraph_tags_if_needed(description))
 
     def _get_screenshot_url(self, app_id, locale, image):
         return '{bucket}/screenshots/{app_id}/{locale}/{image}'.format(bucket=CMS_GS_BUCKET_URL,
@@ -139,7 +153,8 @@ class ShellContent:
 
         app.set_name('C', metadata['title'])
         app.set_comment('C', metadata['subtitle'])
-        app.set_description('C', metadata['description'])
+        description = metadata['description']
+        app.set_description('C', description)
 
         categories = metadata.get('category')
         for category in categories.split(';'):
@@ -157,6 +172,9 @@ class ShellContent:
             app.add_screenshot(screenshot)
 
         self._translate_app(app)
+        # We only format the description now otherwise it would not
+        # match the translations
+        app.set_description('C', self._add_paragraph_tags_if_needed(description))
 
     def _remove_unneeded_screenshots(self, xml_root):
         images = xml_root.findall('./screenshots/screenshot/image')
