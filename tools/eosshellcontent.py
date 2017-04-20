@@ -19,6 +19,7 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
+import collections
 import gi
 gi.require_version('AppStreamGlib', '1.0')
 from gi.repository import AppStreamGlib
@@ -160,15 +161,30 @@ class ShellContent:
         for category in categories.split(';'):
             app.add_category(category)
 
-        screenshot = AppStreamGlib.Screenshot()
+        # Screenshots in the metadata are arranged as 'language' -> ['image', ...]
+        # but we need to group the same images in the same screenshot (with a
+        # different language each), so we invert the arrangement as:
+        # 'image' -> ['language', ...]
+        #
+        # Use an OrderedDict so we maintain the order of the screenshots as found
+        # in the metadata which can be important.
+        screenshots = collections.OrderedDict()
         for locale, images in metadata.get('screenshots', {}).items():
             for image in images:
+                screenshots.setdefault(image, []).append(locale)
+
+        for image, locales in screenshots.items():
+            screenshot = AppStreamGlib.Screenshot()
+            for locale in locales:
                 as_img = AppStreamGlib.Image()
+                # We need to add the screenshots as source, otherwise, without a
+                # caption and other elements, AppStreamGlib discards the screenshots
+                # as duplicates...
+                as_img.set_kind(AppStreamGlib.ImageKind.SOURCE)
                 as_img.set_url(self._get_screenshot_url(app_id, locale, image))
                 if locale != 'C':
                     as_img.set_locale(locale)
                 screenshot.add_image(as_img)
-        if screenshot.get_images():
             app.add_screenshot(screenshot)
 
         self._translate_app(app)
