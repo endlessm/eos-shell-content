@@ -4390,6 +4390,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.slack.Slack",
+    "category": "Utility;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Slack offers chat rooms organized by topic, private groups, and direct messaging capabilities to facilitate conversation and help your team get things done. All content inside Slack is searchable, including files, conversations, and people, so it's easy to stay organized. Integration with several third-party services allows use of their features directly within your Slack discussions. ** Requires Internet",
+    "displayShape": "b1",
+    "exec": "slack",
+    "featured_img": "",
+    "icon": "com.slack.slack-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Default",
+    "square_img": "com.slack.slack-thumb.jpg",
+    "subtitle": "Chat with your team",
+    "title": "Slack",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.spotify.Client",
     "category": "AudioVideo;",
     "core": false,
