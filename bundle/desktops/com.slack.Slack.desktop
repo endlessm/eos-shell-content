@@ -1,7 +1,27 @@
 [Desktop Entry]
 Version=1.0
 Name=Slack
+Name[ar]=Slack
+Name[es]=Slack
+Name[fr]=Slack
+Name[hi]=Slack
+Name[id]=Slack
+Name[pt_BR]=Slack
+Name[th]=Slack
+Name[vi]=Slack
+Name[zh_CN]=Slack
+Name[zh_TW]=Slack
 Comment=Chat with your team
+Comment[ar]=دردش مع أعضاء فريقك
+Comment[es]=Chatea con tu equipo
+Comment[fr]=Discutez avec votre équipe
+Comment[hi]=अपनी टीम के साथ चैट करें
+Comment[id]=Mengobrol dengan tim Anda.
+Comment[pt_BR]=Converse com o seu time
+Comment[th]=แชตกับเพื่อนร่วมทีมของคุณ
+Comment[vi]=Trò chuyện với đội của bạn
+Comment[zh_CN]=与团队聊天
+Comment[zh_TW]=與您的團隊聊天
 Type=Application
 Exec=slack
 Icon=eos-app-com.slack.Slack
