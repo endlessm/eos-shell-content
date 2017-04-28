@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram
+Comment=A new era of messaging
+Type=Application
+Exec=gvfs-open webapp://web.telegram.org@https://web.telegram.org/
+Icon=eos-link-telegram
+Categories=Entertainment;
+StartupWMClass=web.telegram.org
+X-Endless-LaunchMaximized=true
