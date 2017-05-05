@@ -4461,7 +4461,11 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.sublimetext.three-screenshot1.jpg"
+      ]
+    },
     "splash-screen-type": "Default",
     "square_img": "com.sublimetext.three-thumb.jpg",
     "subtitle": "Sophisticated text editor for code, markup, and prose",
@@ -5151,7 +5155,7 @@
     "splash-screen-type": "Default",
     "square_img": "net.sourceforge.frostwire-thumb.jpg",
     "subtitle": "Download nearly anything or share your own files",
-    "title": "FrostTorrent",
+    "title": "FrostWire",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
