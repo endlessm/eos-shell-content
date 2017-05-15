@@ -1,7 +1,6 @@
 AudioVideo:
 brasero
 cheese
-com.endlessm.videonet
 com.spotify.Client
 net.sourceforge.Audacity
 org.gnome.Totem
@@ -14,14 +13,24 @@ com.endlessm.animals.bn_BD
 com.endlessm.animals.en
 com.endlessm.animals.es
 com.endlessm.animals.es_GT
+com.endlessm.animals.id
 com.endlessm.animals.pt
 com.endlessm.astronomy.en
 com.endlessm.astronomy.es
+com.endlessm.astronomy.id
 com.endlessm.astronomy.pt
 com.endlessm.bengali_curriculum.bn_BD
 com.endlessm.biology.en
 com.endlessm.biology.es
+com.endlessm.biology.id
 com.endlessm.biology.pt
+com.endlessm.campeche_ciencias1.es
+com.endlessm.campeche_ciencias2.es
+com.endlessm.campeche_ciencias3.es
+com.endlessm.campeche_matematicas1.es
+com.endlessm.campeche_matematicas2.es
+com.endlessm.campeche_matematicas3.es
+com.endlessm.campeche_phet_es_mx.es
 com.endlessm.capacitate_services.es
 com.endlessm.capacitate_technology.es
 com.endlessm.chinese_curriculum_english.zh_CN
@@ -53,6 +62,7 @@ com.endlessm.geography.bn_BD
 com.endlessm.geography.en
 com.endlessm.geography.es
 com.endlessm.geography.es_GT
+com.endlessm.geography.id
 com.endlessm.geography.pt
 com.endlessm.guatemala.es_GT
 com.endlessm.guatemalan_curriculum.es_GT
@@ -60,6 +70,7 @@ com.endlessm.history.bn_BD
 com.endlessm.history.en
 com.endlessm.history.es
 com.endlessm.history.es_GT
+com.endlessm.history.id
 com.endlessm.history.pt
 com.endlessm.math.en
 com.endlessm.math.es
@@ -71,6 +82,7 @@ com.endlessm.myths.pt
 com.endlessm.paraguayan_constitution.es_PY
 com.endlessm.physics.en
 com.endlessm.physics.es
+com.endlessm.physics.id
 com.endlessm.physics.pt
 com.endlessm.programming
 com.endlessm.programming_guide.en
@@ -81,6 +93,7 @@ com.endlessm.sinadep_curso6_usoDelExcel.es
 com.endlessm.socialsciences.en
 com.endlessm.socialsciences.es
 com.endlessm.socialsciences.es_GT
+com.endlessm.socialsciences.id
 com.endlessm.socialsciences.pt
 com.endlessm.teachers_portal_fundamental_final.pt_BR
 com.endlessm.teachers_portal_fundamental_initial.pt_BR
@@ -89,7 +102,6 @@ com.endlessm.teachers_portal_kindergarten.pt_BR
 com.endlessm.teachers_portal_professional.pt_BR
 com.endlessm.textbooks.en
 com.endlessm.translation
-com.endlessm.videonet
 com.endlessm.water_and_sanitation.en
 com.endlessm.water_and_sanitation.es
 com.endlessm.world_literature.en
@@ -114,7 +126,6 @@ Family:
 com.endlessm.finance
 com.endlessm.resume
 com.endlessm.translation
-com.endlessm.videonet
 com.endlessm.weather
 
 Game:
@@ -193,10 +204,13 @@ libreoffice-impress
 libreoffice-writer
 
 Reference:
+com.endlessm.all_that_is_interesting.en
+com.endlessm.alodita.id
 com.endlessm.celebrities.bn_BD
 com.endlessm.celebrities.en
 com.endlessm.celebrities.es
 com.endlessm.celebrities.es_GT
+com.endlessm.celebrities.id
 com.endlessm.celebrities.pt
 com.endlessm.childrens_collection.es
 com.endlessm.cooking.ar
@@ -219,13 +233,17 @@ com.endlessm.health.en
 com.endlessm.health.es
 com.endlessm.healthy_teeth.en
 com.endlessm.healthy_teeth.es
+com.endlessm.hipwee.id
 com.endlessm.howto.en
 com.endlessm.howto.es
 com.endlessm.howto.pt
 com.endlessm.library.pt
+com.endlessm.living_loving.id
 com.endlessm.maternity.en
 com.endlessm.maternity.es
 com.endlessm.microenterprises.es_GT
+com.endlessm.okezone.id
+com.endlessm.pergidulu.id
 com.endlessm.prensa_libre.es_GT
 com.endlessm.publimetro.es_MX
 com.endlessm.resume
@@ -235,6 +253,7 @@ com.endlessm.soccer.bn_BD
 com.endlessm.soccer.en
 com.endlessm.soccer.es
 com.endlessm.soccer.es_GT
+com.endlessm.soccer.id
 com.endlessm.soccer.pt
 com.endlessm.social_enterprises.es_GT
 com.endlessm.spanish_guarani_dictionary.es_PY
@@ -242,8 +261,11 @@ com.endlessm.travel.bn_BD
 com.endlessm.travel.en
 com.endlessm.travel.es
 com.endlessm.travel.es_GT
+com.endlessm.travel.id
 com.endlessm.travel.pt
+com.endlessm.voa.id
 com.endlessm.weather
+com.endlessm.wowshack.id
 com.endlessm.your_health.pt_BR
 
 Utility:
