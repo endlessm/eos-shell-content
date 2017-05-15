@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Astronomi
+Comment=Pelajari tentang alam semesta dan semua yang ada di dalamnya
+Type=Application
+Exec=eos-astronomy
+Icon=eos-app-com.endlessm.astronomy.id
+Categories=Education;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.astronomy.id-splash.jpg

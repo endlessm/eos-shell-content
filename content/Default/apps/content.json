@@ -146,6 +146,58 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.all_that_is_interesting.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.all_that_is_interesting.en-splash.jpg",
+    "description": "All that is Interesting description pending ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.all_that_is_interesting.en",
+    "featured_img": "",
+    "icon": "com.endlessm.all_that_is_interesting.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.all_that_is_interesting.en-thumb.jpg",
+    "subtitle": "All that is Interesting subtitle pending",
+    "title": " All that is Interesting",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.alodita.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.alodita.id-splash.jpg",
+    "description": "Description for Alodita App pending",
+    "displayShape": "b1",
+    "exec": "com.endlessm.alodita",
+    "featured_img": "",
+    "icon": "com.endlessm.alodita.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.alodita.id-thumb.jpg",
+    "subtitle": "Subtitle for Alodita App pending",
+    "title": "Alodita",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.animals.bn_BD",
     "category": "Education;",
     "core": false,
@@ -267,6 +319,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.animals.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.animals.id-splash.jpg",
+    "description": "Hewan adalah makhluk yang sangat menakjubkan. Mulai dari singa yang gagah hingga platipus yang unik dan menarik, ada begitu banyak yang bisa dipelajari tentang makhluk yang mendiami dunia kita. Singkap seluruh dunia hewan dengan aplikasi ini! Seluruh keluarga, mulai dari anak kecil hingga orang dewasa yang penasaran akan senang belajar tentang wajah, kebiasaan, dan lingkungan hewan. Mempelajari hewan adalah penting terutama karena ada begitu banyak spesies yang terancam atau hampir punah.",
+    "displayShape": "b1",
+    "exec": "eos-animals",
+    "featured_img": "",
+    "icon": "com.endlessm.animals.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.animals.id-screenshot1.jpg",
+        "com.endlessm.animals.id-screenshot2.jpg",
+        "com.endlessm.animals.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.animals.id-thumb.jpg",
+    "subtitle": "Pelajari tentang semua makhluk Bumi",
+    "title": "Binatang",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.animals.pt",
     "category": "Education;",
     "core": false,
@@ -352,6 +434,36 @@
     "square_img": "com.endlessm.astronomy.es-thumb.jpg",
     "subtitle": "Explora el universo y todo lo que contiene",
     "title": "Astronom\u00eda",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.astronomy.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.astronomy.id-splash.jpg",
+    "description": "Apakah ada yang lebih mengagumkan dari luar angkasa? Aplikasi ini akan memperkenalkan Anda kepada alam semesta dan mengajari Anda tentang sistem tata surya kita dan jauh melampauinya. Pelajari tentang planet, bintang, galaksi, dan bahkan misteri lubang hitam! Cari tahu tentang matahari dan bulan, dan pikirkan tentang kemungkinan adanya bentuk kehidupan di suatu tempat di alam semesta. Setelah menjelajahi aplikasi ini, Anda pasti akan ingin terbang naik roket!",
+    "displayShape": "b1",
+    "exec": "eos-astronomy",
+    "featured_img": "",
+    "icon": "com.endlessm.astronomy.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.astronomy.id-screenshot1.jpg",
+        "com.endlessm.astronomy.id-screenshot2.jpg",
+        "com.endlessm.astronomy.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.astronomy.id-thumb.jpg",
+    "subtitle": "Pelajari tentang alam semesta dan semua yang ada di dalamnya",
+    "title": "Astronomi",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -477,6 +589,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.biology.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.biology.id-splash.jpg",
+    "description": "Belajar biologi adalah pengejaran yang menarik karena memberikan kita pemahaman tentang apa maknanya menjadi makhluk hidup. Aplikasi ini mencakup segala sesuatu dari sel dan organisme kecil hingga tanaman dan hewan. Anda dapat menggunakan aplikasi ini untuk mempelajari banyak subdisiplin biologi, atau hanya untuk mendapatkan pemahaman yang lebih baik dari subjek ini secara keseluruhan. Entah Anda ingin belajar untuk ujian atau hanya ingin mempelajari lebih lanjut tentang subjek ini, unduhlah aplikasi ini hari ini untuk memulainya!",
+    "displayShape": "b1",
+    "exec": "eos-biology",
+    "featured_img": "",
+    "icon": "com.endlessm.biology.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.biology.id-screenshot1.jpg",
+        "com.endlessm.biology.id-screenshot2.jpg",
+        "com.endlessm.biology.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.biology.id-thumb.jpg",
+    "subtitle": "Belajar mengenai dunia yang hidup di sekitar Anda",
+    "title": "Biologi",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.biology.pt",
     "category": "Education;",
     "core": false,
@@ -502,6 +644,188 @@
     "square_img": "com.endlessm.biology.pt-thumb.jpg",
     "subtitle": "Aprenda tudo sobre o mundo vivo ao seu redor",
     "title": "Biologia",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_ciencias1.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_ciencias1.es-splash.jpg",
+    "description": "Este programa contiene herramienta para facilitar la planeaci\u00f3n did\u00e1ctica del docente que muestra los contenidos de la curricula oficial con los contenidos incluidos en Endless. El programa contiene los temas de la asignatura de Ciencias con \u00e9nfasis en Biolog\u00eda.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_ciencias1",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_ciencias1.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_ciencias1.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Ciencias I",
+    "title": "Secundaria Ciencias 1",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_ciencias2.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_ciencias2.es-splash.jpg",
+    "description": "Este programa contiene herramienta para facilitar la planeaci\u00f3n did\u00e1ctica del docente que muestra los contenidos de la curricula oficial con los contenidos incluidos en Endless. El programa contiene los temas de la asignatura de Ciencias con \u00e9nfasis en F\u00edsica.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_ciencias2",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_ciencias2.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_ciencias2.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Ciencias II",
+    "title": "Secundaria Ciencias 2",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_ciencias3.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_ciencias3.es-splash.jpg",
+    "description": "Este programa contiene herramienta para facilitar la planeaci\u00f3n did\u00e1ctica del docente que muestra los contenidos de la curricula oficial con los contenidos incluidos en Endless. El programa contiene los temas de la asignatura de Ciencias con \u00e9nfasis en Qu\u00edmica",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_ciencias3",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_ciencias3.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_ciencias3.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Ciencias III",
+    "title": "Secundaria Ciencias 3",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_matematicas1.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_matematicas1.es-splash.jpg",
+    "description": "Este programa ayudar\u00e1 a docentes de secundaria con la planeaci\u00f3n didactica del sujeto Matem\u00e1ticas 1. Se debe usar esta herramienta junto con la curricula oficial incluida en Endless. Incluye los ejes: sentido num\u00e9rico y pensamiento algebraico, formas, espacio y medida, y manejo de la informaci\u00f3n.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_matematicas1",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_matematicas1.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_matematicas1.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Matem\u00e1ticas I",
+    "title": "Secundaria Matem\u00e1ticas 1",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_matematicas2.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_matematicas2.es-splash.jpg",
+    "description": "Este programa ayudar\u00e1 a docentes de secundaria con la planeaci\u00f3n did\u00e1ctica del sujeto Matem\u00e1ticas 2. Se debe usar est herramienta junto con la curricula oficial incluida en Endless. Incluye los ejes: sentido num\u00e9rico y pensamiento algebraico, formas, espacio y medida, y manejo de la informaci\u00f3n.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_matematicas2",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_matematicas2.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_matematicas2.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Matem\u00e1ticas II",
+    "title": "Secundaria Matem\u00e1ticas 2",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_matematicas3.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.campeche_matematicas3.es-splash.jpg",
+    "description": "Este programa ayudar\u00e1 a docentes de secundaria con la planeaci\u00f3n did\u00e1ctica del sujeto Matem\u00e1ticas 3. Se debe usar esta herramienta junto con la curricula oficial incluida en Endless. Incluye los ejes: sentido num\u00e9rico y pensamiento algebraico, formas, espacio y medida, y manejo de la informaci\u00f3n.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_matematicas3",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_matematicas3.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.campeche_matematicas3.es-thumb.jpg",
+    "subtitle": "Contenido curricular para Matem\u00e1ticas III",
+    "title": "Secundaria Matem\u00e1ticas 3",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.campeche_phet_es_mx.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Las simulaciones interactivas de PhET se basan en investigaci\u00f3n educativa extensiva e involucran a los estudiantes mediante un ambiente intuitivo y similar a un juego, en donde aprenden explorando y descubriendo. \u00a1Interact\u00faa, descubre y aprende!",
+    "displayShape": "b1",
+    "exec": "com.endlessm.campeche_phet_es_mx",
+    "featured_img": "",
+    "icon": "com.endlessm.campeche_phet_es_mx.es-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Campeche"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.campeche_phet_es_mx.es-thumb.jpg",
+    "subtitle": "Simulaciones interactivas para ciencias y matem\u00e1ticas.",
+    "title": "PhET",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -682,6 +1006,36 @@
     "square_img": "com.endlessm.celebrities.es_gt-thumb.jpg",
     "subtitle": "Informaci\u00f3n y chisme sobre los m\u00e1s famosos",
     "title": "Celebridades",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.celebrities.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.celebrities.id-splash.jpg",
+    "description": "Mau tahu tentang kehidupan bintang film atau penyanyi favoritmu, atau tahu lebih banyak tentang latar belakang dan tahun-tahun asal seorang politisi penting? Aplikasi ini bisa menjadi panduan untuk itu. Seru-seruan di sini, belajar fakta-fakta menarik dan segar, juga berbagi pengetahuan tentang orang-orang terkenal dengan semua teman!",
+    "displayShape": "b1",
+    "exec": "eos-celebrities",
+    "featured_img": "",
+    "icon": "com.endlessm.celebrities.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.celebrities.id-screenshot1.jpg",
+        "com.endlessm.celebrities.id-screenshot2.jpg",
+        "com.endlessm.celebrities.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.celebrities.id-thumb.jpg",
+    "subtitle": "Ketahui lebih banyak tentang selebriti favorit Anda",
+    "title": "Selebriti",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2026,6 +2380,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.geography.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.geography.id-splash.jpg",
+    "description": "Dunia merupakan tempat yang menakjubkan, dan dengan aplikasi ini Anda akan mempelajari semua tentang hal itu! Menampilkan informasi setiap negara di dunia, sumber informasi komprehensif ini mencakup kota-kota utama dunia, wilayah, ciri alamiah, dan lainnya. Mendekati negara asal, Anda akan menemukan informasi rinci tentang negara Anda, dari kota besar dan kecil hingga sungai dan pegunungannya. Jelajahi keajaiban di sekitar Anda dengan aplikasi praktis ini!",
+    "displayShape": "b1",
+    "exec": "eos-geography",
+    "featured_img": "",
+    "icon": "com.endlessm.geography.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.geography.id-screenshot1.jpg",
+        "com.endlessm.geography.id-screenshot2.jpg",
+        "com.endlessm.geography.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.geography.id-thumb.jpg",
+    "subtitle": "Belajar tentang seluruh negara di dunia",
+    "title": "Geografi",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.geography.pt",
     "category": "Education;",
     "core": false,
@@ -2296,6 +2680,32 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.hipwee.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.hipwee.id-splash.jpg",
+    "description": "Description for hipwee pending",
+    "displayShape": "b1",
+    "exec": "com.endlessm.hipwee",
+    "featured_img": "",
+    "icon": "com.endlessm.hipwee.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.hipwee.id-thumb.jpg",
+    "subtitle": "Subtitle for Hipwee pending",
+    "title": "Hipwee",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.history.bn_BD",
     "category": "Education;",
     "core": false,
@@ -2411,6 +2821,36 @@
     "square_img": "com.endlessm.history.es_gt-thumb.jpg",
     "subtitle": "Aprende sobre eventos y las civilizaciones del mundo",
     "title": "Historia",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.history.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.history.id-splash.jpg",
+    "description": "Berapa banyakkah yang Anda ketahui mengenai keruntuhan Kekaisaran Romawi? Bagaimana dengan Jalur Sutra? Siapa yang tinggal di Amerika di zaman dahulu kala dan apa yang terjadi kepada mereka? Apa yang menyebabkan pecahnya Perang Dunia I? Unduh aplikasi ini dan jawab setiap pertanyaan yang Anda miliki tentang berbagai peristiwa dan tokoh yang telah membentuk dunia modern kita saat ini, dan cari tahu tentang budaya-budaya yang ada sebelum kita.",
+    "displayShape": "b1",
+    "exec": "eos-history",
+    "featured_img": "",
+    "icon": "com.endlessm.history.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.history.id-screenshot1.jpg",
+        "com.endlessm.history.id-screenshot2.jpg",
+        "com.endlessm.history.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.history.id-thumb.jpg",
+    "subtitle": "Pelajari kejadian-kejadian dan peradaban di dunia",
+    "title": "Sejarah",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2561,6 +3001,32 @@
     "square_img": "com.endlessm.library.pt-thumb.jpg",
     "subtitle": "Cl\u00e1ssicos da literatura para todas as idades",
     "title": "Biblioteca",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.living_loving.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.living_loving.id-splash.jpg",
+    "description": "Living Loving description Pending",
+    "displayShape": "b1",
+    "exec": "com.endlessm.living_loving",
+    "featured_img": "",
+    "icon": "com.endlessm.living_loving.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.living_loving.id-thumb.jpg",
+    "subtitle": "Living Loving subtitle pending",
+    "title": "Living Loving",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2866,6 +3332,32 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.okezone.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.okezone.id-splash.jpg",
+    "description": "Description for Okezone pending. ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.okezone",
+    "featured_img": "",
+    "icon": "com.endlessm.okezone.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.okezone.id-thumb.jpg",
+    "subtitle": "Subtitle for Okezone pending",
+    "title": "Okezone",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.paraguayan_constitution.es_PY",
     "category": "Education;",
     "core": false,
@@ -2891,6 +3383,32 @@
     "square_img": "com.endlessm.paraguayan_constitution.es_py-thumb.jpg",
     "subtitle": "La entera Constituci\u00f3n de la Rep\u00fablica del Paraguay",
     "title": "La Constituci\u00f3n",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.pergidulu.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.pergidulu.id-splash.jpg",
+    "description": "Description for Pergidulu pending",
+    "displayShape": "b1",
+    "exec": "com.endlessm.pergidulu",
+    "featured_img": "",
+    "icon": "com.endlessm.pergidulu.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.pergidulu.id-thumb.jpg",
+    "subtitle": "Subtitle for Pergidulu pending",
+    "title": "Pergidulu",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2991,6 +3509,36 @@
     "square_img": "com.endlessm.physics.es-thumb.jpg",
     "subtitle": "Aprende sobre los misterios del mundo f\u00edsico",
     "title": "F\u00edsica",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.physics.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.physics.id-splash.jpg",
+    "description": "Anda mengalami kesulitan mempelajari tentang fisika? Anda tidak sendirian. Fisika merupakan salah satu disiplin ilmu pengetahuan yang paling menarik dan menantang. Gunakan aplikasi ini untuk menemukan yang harus Anda pelajari secara tepat, dan mempermudah mempelajarinya. Apa pun tingkat pemahamannya, Anda akan menemukan informasi bermanfaat yang disajikan dengan format yang dapat Anda ikuti. Aplikasi ini menyertakan topik menarik seperti mekanika, termodinamika, kelistrikan dan kemagnetan. Dari atom hingga bintang. Anda akan mempelajari semua tentang dunia di sekitar Anda, dan berhasil dalam pendidikan fisika Anda.",
+    "displayShape": "b1",
+    "exec": "eos-physics",
+    "featured_img": "",
+    "icon": "com.endlessm.physics.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.physics.id-screenshot1.jpg",
+        "com.endlessm.physics.id-screenshot2.jpg",
+        "com.endlessm.physics.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.physics.id-thumb.jpg",
+    "subtitle": "Pelajari misteri dunia fisik",
+    "title": "Fisika",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3471,6 +4019,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.soccer.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.soccer.id-splash.jpg",
+    "description": "Sepak bola adalah olahraga utama dengan penggemar yang berasal dari seluruh dunia. Apakah Anda adalah salah satunya? Kalau begitu, ini adalah aplikasi yang tepat untuk Anda. Aplikasi ini menyediakan segala yang perlu Anda ketahui tentang tim, pemain, dan kompetisi-kompetisi terbesar di dunia. Ketahui fakta-fakta menarik tentang pertandingan dan sejarahnya, cari tahu selengkapnya tentang aturan main, dan dapatkan berita-berita terbaru dengan ribuan artikel seputar olahraga favorit Anda!",
+    "displayShape": "b1",
+    "exec": "eos-soccer",
+    "featured_img": "",
+    "icon": "com.endlessm.soccer.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.soccer.id-screenshot1.jpg",
+        "com.endlessm.soccer.id-screenshot2.jpg",
+        "com.endlessm.soccer.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.soccer.id-thumb.jpg",
+    "subtitle": "Pelajari tim dan pemain favorit Anda",
+    "title": "Sepak Bola",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.soccer.pt",
     "category": "Reference;",
     "core": false,
@@ -3616,6 +4194,36 @@
     "square_img": "com.endlessm.socialsciences.es_gt-thumb.jpg",
     "subtitle": "Materias que exploran el individuo y la sociedad",
     "title": "Ciencias sociales",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.socialsciences.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.socialsciences.id-splash.jpg",
+    "description": "Manusia dan hubungan serta peradaban yang mereka bangun amatlah kompleks. Aplikasi ini akan memperkenalkan kepada Anda bermacam-macam disiplin ilmu yang mengkaji sejarah manusia, budaya, dan interaksinya. Anda akan memperoleh akses ke dasar-dasar ilmu psikologi, sosiologi, antropologi, sains politik, dan banyak lagi. Memahami dasar dari disiplin ilmu ini akan membantu Anda menguasai cara berinteraksi dan membangun hubungan dengan orang lain. Anda akan mendapatkan pemahaman yang mendalam mengenai perilaku manusia.",
+    "displayShape": "b1",
+    "exec": "eos-socialsciences",
+    "featured_img": "",
+    "icon": "com.endlessm.socialsciences.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.socialsciences.id-screenshot1.jpg",
+        "com.endlessm.socialsciences.id-screenshot2.jpg",
+        "com.endlessm.socialsciences.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.socialsciences.id-thumb.jpg",
+    "subtitle": "Subjek yang membahas tentang individu dan masyarakat",
+    "title": "Ilmu Sosial",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -4015,6 +4623,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.travel.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.travel.id-splash.jpg",
+    "description": "Dunia merupakan tempat yang menakjubkan dan indah! Mulailah menjelajahinya dengan aplikasi keren ini yang memungkinkan Anda melihat gambar dan mempelajari fakta tentang daerah-daerah dari seluruh dunia. Aplikasi ini menampilkan lokasi utama di beberapa tempat seperti Amerika, Eropa, Asia dan seterusnya. Pelajari tentang keajaiban alam, jelajahi budaya baru, dan temukan beberapa lokasi terpenting dan situs keagamaan yang suci di dunia!",
+    "displayShape": "b1",
+    "exec": "eos-travel",
+    "featured_img": "",
+    "icon": "com.endlessm.travel.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.travel.id-screenshot1.jpg",
+        "com.endlessm.travel.id-screenshot2.jpg",
+        "com.endlessm.travel.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.travel.id-thumb.jpg",
+    "subtitle": "Keliling dunia dari ruang tamu",
+    "title": "Jalan-jalan",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.travel.pt",
     "category": "Reference;",
     "core": false,
@@ -4045,43 +4683,29 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.videonet",
-    "category": "AudioVideo;Education;Family;",
+    "application-id": "com.endlessm.voa.id",
+    "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.videonet-splash.jpg",
-    "description": "This app makes finding videos on the popular video site, YouTube, and sharing ones you make, easier in a beautiful new way! Watch videos of your favorite musical artists, tutorials that teach you how to do almost anything, funny or cute videos, and so much more. You'll have hours of fun, and will be able to share all the cool stuff you find or make with friends, family, and the world!  ** Requires internet",
+    "custom-splash-screen": "com.endlessm.voa.id-splash.jpg",
+    "description": "Description for VOA pending",
     "displayShape": "b1",
-    "exec": "eos-videonet",
+    "exec": "com.endlessm.voa",
     "featured_img": "",
-    "icon": "com.endlessm.videonet-icon.png",
-    "is_featured": true,
+    "icon": "com.endlessm.voa.id-icon.png",
+    "is_featured": false,
     "is_offline": false,
     "personalities": [
       "All"
     ],
     "screenshots": {
-      "C": [
-        "com.endlessm.videonet-screenshot1.jpg",
-        "com.endlessm.videonet-screenshot2.jpg",
-        "com.endlessm.videonet-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.videonet-screenshot1.jpg",
-        "com.endlessm.videonet-screenshot2.jpg",
-        "com.endlessm.videonet-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.videonet-screenshot1.jpg",
-        "com.endlessm.videonet-screenshot2.jpg",
-        "com.endlessm.videonet-screenshot3.jpg"
-      ]
+      "C": []
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.videonet-thumb.jpg",
-    "subtitle": "Discover and share great videos online",
-    "title": "VideoNet",
-    "translation_id": "eos-videonet",
-    "translation_type": "gettext",
+    "square_img": "com.endlessm.voa.id-thumb.jpg",
+    "subtitle": "Subtitle for VOA pending",
+    "title": "Voices of America",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
@@ -4236,6 +4860,32 @@
     "square_img": "com.endlessm.world_literature.es-thumb.jpg",
     "subtitle": "Lee toda la gran literatura del mundo",
     "title": "Literatura",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.wowshack.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.wowshack.id-splash.jpg",
+    "description": "Description for WowShack pending",
+    "displayShape": "b1",
+    "exec": "com.endlessm.wowshack",
+    "featured_img": "",
+    "icon": "com.endlessm.wowshack.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.wowshack.id-thumb.jpg",
+    "subtitle": "Subtitle for WowShack pending",
+    "title": "WowShack",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
