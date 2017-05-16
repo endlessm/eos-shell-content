@@ -319,36 +319,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.animals.id",
-    "category": "Education;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.animals.id-splash.jpg",
-    "description": "Hewan adalah makhluk yang sangat menakjubkan. Mulai dari singa yang gagah hingga platipus yang unik dan menarik, ada begitu banyak yang bisa dipelajari tentang makhluk yang mendiami dunia kita. Singkap seluruh dunia hewan dengan aplikasi ini! Seluruh keluarga, mulai dari anak kecil hingga orang dewasa yang penasaran akan senang belajar tentang wajah, kebiasaan, dan lingkungan hewan. Mempelajari hewan adalah penting terutama karena ada begitu banyak spesies yang terancam atau hampir punah.",
-    "displayShape": "b1",
-    "exec": "eos-animals",
-    "featured_img": "",
-    "icon": "com.endlessm.animals.id-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Indonesian"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.animals.id-screenshot1.jpg",
-        "com.endlessm.animals.id-screenshot2.jpg",
-        "com.endlessm.animals.id-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.animals.id-thumb.jpg",
-    "subtitle": "Pelajari tentang semua makhluk Bumi",
-    "title": "Binatang",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.animals.pt",
     "category": "Education;",
     "core": false,
@@ -1035,7 +1005,7 @@
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.celebrities.id-thumb.jpg",
     "subtitle": "Ketahui lebih banyak tentang selebriti favorit Anda",
-    "title": "Selebriti",
+    "title": "Selebritis",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -4623,36 +4593,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.travel.id",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.travel.id-splash.jpg",
-    "description": "Dunia merupakan tempat yang menakjubkan dan indah! Mulailah menjelajahinya dengan aplikasi keren ini yang memungkinkan Anda melihat gambar dan mempelajari fakta tentang daerah-daerah dari seluruh dunia. Aplikasi ini menampilkan lokasi utama di beberapa tempat seperti Amerika, Eropa, Asia dan seterusnya. Pelajari tentang keajaiban alam, jelajahi budaya baru, dan temukan beberapa lokasi terpenting dan situs keagamaan yang suci di dunia!",
-    "displayShape": "b1",
-    "exec": "eos-travel",
-    "featured_img": "",
-    "icon": "com.endlessm.travel.id-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Indonesian"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.travel.id-screenshot1.jpg",
-        "com.endlessm.travel.id-screenshot2.jpg",
-        "com.endlessm.travel.id-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.travel.id-thumb.jpg",
-    "subtitle": "Keliling dunia dari ruang tamu",
-    "title": "Jalan-jalan",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.travel.pt",
     "category": "Reference;",
     "core": false,
@@ -4766,42 +4706,6 @@
     "title": "Saneamiento",
     "translation_id": null,
     "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.weather",
-    "category": "Reference;Utility;Family;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.weather-splash.jpg",
-    "description": "\u201cHow\u2019s the weather out there?\u201d Answer this question easily, every day, with the click of a button. This simple weather app allows you to see what\u2019s happening right outside your door. Will it be chilly? Should you plan for rain? Is it a perfect day to spend outdoors? Learn all you need to know about the weather to take advantage of your day!  **Requires internet",
-    "displayShape": "b2h",
-    "exec": "eos-weather",
-    "featured_img": "com.endlessm.weather-featured.jpg",
-    "icon": "com.endlessm.weather-icon.png",
-    "is_featured": true,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.weather-screenshot1.jpg"
-      ],
-      "es": [
-        "com.endlessm.weather-screenshot1.jpg"
-      ],
-      "pt": [
-        "com.endlessm.weather-screenshot1.jpg",
-        "com.endlessm.weather-screenshot2.jpg",
-        "com.endlessm.weather-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.weather-thumb.jpg",
-    "subtitle": "Get daily local forecasts from trusted sources",
-    "title": "Weather",
-    "translation_id": "eos-weather",
-    "translation_type": "gettext",
     "tryexec": ""
   },
   {
@@ -5101,7 +5005,7 @@
     "category": "Office;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Sophisticated text editor for code, markup, and prose",
+    "description": "Sublime Text offers a great user experience and amazing performance. Powerful features like Multiple Selections, Goto Anything, and Split Editing help you be more productive than ever. And the best thing is, you can customize nearly anything within the app to make it your own. ** Requires a paid license for continued use. For more info visit: https://www.sublimetext.com/buy",
     "displayShape": "b1",
     "exec": "com.sublimetext.three",
     "featured_img": "",
@@ -5118,7 +5022,7 @@
     },
     "splash-screen-type": "Default",
     "square_img": "com.sublimetext.three-thumb.jpg",
-    "subtitle": "Sophisticated text editor for code, markup, and prose",
+    "subtitle": "A sophisticated text editor for code, markup, and prose",
     "title": "Sublime Text",
     "translation_id": null,
     "translation_type": null,
