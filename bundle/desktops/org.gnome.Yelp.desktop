@@ -30,6 +30,6 @@ Comment[zh_CN]=学会如何使用Endless
 Comment[zh_TW]=學習如何使用無盡
 Type=Application
 Exec=yelp %u
-Icon=eos-app-yelp
+Icon=eos-app-org.gnome.Yelp
 Categories=Utility;
 X-Endless-LaunchMaximized=true

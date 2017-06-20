@@ -150,7 +150,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.all_that_is_interesting.en-splash.jpg",
-    "description": "All that is Interesting description pending ",
+    "description": "Covering a broad range of subjects through dynamic mediums, All That Is Interesting is the premiere creator of fascinating content that is as substantive as it is shareworthy It\u2019s your world; we help you get to know it a little better.",
     "displayShape": "b1",
     "exec": "com.endlessm.all_that_is_interesting.en",
     "featured_img": "",
@@ -165,8 +165,8 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.all_that_is_interesting.en-thumb.jpg",
-    "subtitle": "All that is Interesting subtitle pending",
-    "title": " All that is Interesting",
+    "subtitle": "From the bizarre to the beautiful, All That Is Interesting publishes the most interesting stories on",
+    "title": "All that is interesting",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -176,7 +176,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.alodita.id-splash.jpg",
-    "description": "Description for Alodita App pending",
+    "description": "Alodita adalah blog tentang gaya hidup, kecantikan, dan kehidupan sehari-hari yang ditulis oleh Andra Alodita. Ingin tips tentang bagaimana cara merawat kulit muka supaya bisa mulus? Ingin tahu bagaimana caranya supaya kita bisa mengatur keuangan dan menambah jumlah tabungan? Temukan jawabannya disini. Blog ini juga memiliki topik menarik lainnya seperti pengalaman menjadi orang tua baru dan program bayi tabung. Tulisannya yang bernarasi akan membuat Anda merasa santai dan senang.",
     "displayShape": "b1",
     "exec": "com.endlessm.alodita",
     "featured_img": "",
@@ -184,14 +184,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.alodita.id-thumb.jpg",
-    "subtitle": "Subtitle for Alodita App pending",
+    "subtitle": "Blog kecantikan dan gaya hidup",
     "title": "Alodita",
     "translation_id": null,
     "translation_type": null,
@@ -499,6 +499,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.beritagar.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.beritagar.id-splash.jpg",
+    "description": "Beritagar.id adalah situs berita pertama di Indonesia yang memanfaatkan teknologi dalam mengumpulkan dan menganalisis beragam konten untuk pemberitaan. Beritagar.id mengumpulkan berita dan konten yang ada di internet, lalu mengalisa dan menyunting mana berita yang menarik untuk disajikan. Beritagar.id juga menyajikan laporan berbasis data yang dikemas dalam bentuk tulisan, infografik, maupun videografik. Baca Beritagar untuk mendapatkan berita yang pasti.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.beritagar",
+    "featured_img": "",
+    "icon": "com.endlessm.beritagar.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.beritagar.id-thumb.jpg",
+    "subtitle": "Aplikasi berita terkini",
+    "title": "Beritagar",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.biology.en",
     "category": "Education;",
     "core": false,
@@ -614,6 +638,30 @@
     "square_img": "com.endlessm.biology.pt-thumb.jpg",
     "subtitle": "Aprenda tudo sobre o mundo vivo ao seu redor",
     "title": "Biologia",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.bola_net.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.bola_net.id-splash.jpg",
+    "description": "Ikuti perjalanan tim sepak bola favoritmu menjadi tim terbaik di dunia. Apakah taktik baru sang pelatih akan mampu mengangkat posisi tim ke puncak klasemen? Apakah pemain favoritmu akan memanfaatkan kesempatan untuk berpindah ke tim lain pada jendela transfer mendatang? Bola Net memiliki seluruh informasi seputar sepak bola dunia dan Indonesia. Penggemar bola wajib membaca aplikasi ini.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bola_net",
+    "featured_img": "",
+    "icon": "com.endlessm.bola_net.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.bola_net.id-thumb.jpg",
+    "subtitle": "Berita tentang sepakbola",
+    "title": "Bola Net",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1341,6 +1389,54 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.detik_news.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.detik_news.id-splash.jpg",
+    "description": "Detik News adalah sebuah portal web yang berisi berita dan artikel daring dan merupakan salah satu situs berita paling populer di Indonesia. Dapatkan info berita baik peristiwa, kecelakaan, kriminal, hukum, berita unik, politik, dan liputan khusus di Indonesia dan Internasional. Detik News merupakan yang terdepan dalam hal berita-berita baru (breaking news). Jangan lupa memulai hari Anda dengan membaca Detik News.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.detik_news",
+    "featured_img": "",
+    "icon": "com.endlessm.detik_news.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.detik_news.id-thumb.jpg",
+    "subtitle": "Aplikasi berita terkini",
+    "title": "Detik News",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.dianarikasari.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.dianarikasari.id-splash.jpg",
+    "description": "Diana Rikasari telah aktif di dunia blogging sejak tahun 2007 dan juga merupakan blogger fesyen pertama di Indonesia. Blognya membahas banyak hal tentang fesyen dan gaya hidup. Kecerian dari isi blog ini akan menginspirasi Anda menjadi kreatif dan selalu mengikuti isi hati Anda. Diana Rikasari adalah salah satu blogger ternama di Indonesia dan telah menerbitkan banyak buku.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.dianarikasari",
+    "featured_img": "",
+    "icon": "com.endlessm.dianarikasari.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.dianarikasari.id-thumb.jpg",
+    "subtitle": "Blog fesyen dan gaya hidup",
+    "title": "Hot Cholocate & Mint",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.dinosaurs.en",
     "category": "Education;",
     "core": false,
@@ -1486,6 +1582,30 @@
     "square_img": "com.endlessm.disabilities.es-thumb.jpg",
     "subtitle": "Aprende todo sobre capacidades especiales",
     "title": "Neces. especiales",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.duet_diary.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.duet_diary.th-splash.jpg",
+    "description": "\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e42\u0e14\u0e22\u0e40\u0e15\u0e49\u0e41\u0e25\u0e30\u0e21\u0e34\u0e49\u0e21 \u0e14\u0e39\u0e40\u0e2d\u0e17 \u0e44\u0e14\u0e2d\u0e32\u0e23\u0e35\u0e48 \u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e04\u0e39\u0e48\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2d\u0e2d\u0e01\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e48\u0e2d\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e17\u0e31\u0e49\u0e07\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19 \u0e41\u0e25\u0e30\u0e17\u0e35\u0e48\u0e2d\u0e37\u0e48\u0e19 \u0e46 \u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e2a\u0e16\u0e32\u0e19\u0e17\u0e35\u0e48\u0e2d\u0e31\u0e19\u0e0b\u0e35\u0e19 \u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e2d\u0e23\u0e48\u0e2d\u0e22 \u0e41\u0e25\u0e30\u0e40\u0e04\u0e25\u0e47\u0e14\u0e25\u0e31\u0e1a\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e41\u0e1f\u0e0a\u0e31\u0e48\u0e19 \u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e44\u0e15\u0e25\u0e4c \u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e07\u0e32\u0e21",
+    "displayShape": "b1",
+    "exec": "com.endlessm.duet_diary",
+    "featured_img": "",
+    "icon": "com.endlessm.duet_diary.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.duet_diary.th-thumb.jpg",
+    "subtitle": "\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e17\u0e48\u0e2d\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27 \u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e44\u0e15\u0e25\u0e4c \u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e07\u0e32\u0e21",
+    "title": "\u0e14\u0e39\u0e40\u0e2d\u0e17 \u0e44\u0e14\u0e2d\u0e32\u0e23\u0e35\u0e48",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -2654,7 +2774,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.hipwee.id-splash.jpg",
-    "description": "Description for hipwee pending",
+    "description": "Hipwee adalah sebuah perusahaan media Indonesia yang diluncurkan pada bulan April 2014. Hipwee merupakan media online berkonsep sumber berita sosial yang menyajikan konten yang berpotensi menjadi viral di media sosial. Hipwee memiliki banyak artikel yang berhubungan dengan topik pengembangan diri, hubungan personal, dan peningkatan produktivitas. Hipwee memiliki banyak artikel menarik yang pasti akan menghibur Anda.",
     "displayShape": "b1",
     "exec": "com.endlessm.hipwee",
     "featured_img": "",
@@ -2662,14 +2782,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.hipwee.id-thumb.jpg",
-    "subtitle": "Subtitle for Hipwee pending",
+    "subtitle": "Berita hiburan dan gaya hidup",
     "title": "Hipwee",
     "translation_id": null,
     "translation_type": null,
@@ -2946,6 +3066,54 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.kahosod.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.kahosod.th-splash.jpg",
+    "description": "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e22\u0e2d\u0e14\u0e19\u0e34\u0e22\u0e21\u0e43\u0e19\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e21\u0e15\u0e34\u0e0a\u0e19 \u0e1e\u0e31\u0e1a\u0e25\u0e34\u0e0a\u0e0a\u0e34\u0e48\u0e07 \u0e01\u0e23\u0e38\u0e4a\u0e1b \u0e19\u0e33\u0e40\u0e2a\u0e19\u0e2d\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e43\u0e19\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e44\u0e17\u0e22 \u0e1a\u0e31\u0e19\u0e40\u0e17\u0e34\u0e07 \u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 \u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 \u0e41\u0e25\u0e30\u0e01\u0e35\u0e2c\u0e32",
+    "displayShape": "b1",
+    "exec": "com.endlessm.kahosod",
+    "featured_img": "",
+    "icon": "com.endlessm.kahosod.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.kahosod.th-thumb.jpg",
+    "subtitle": "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+    "title": "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.kapan_lagi.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.kapan_lagi.id-splash.jpg",
+    "description": "KapanLagi.com adalah situs web di Indonesia yang berfokus pada berita infotainment. Ingin tahu film terbaru apa yang akan dibintangi aktris favoritmu? Apa yang sedang terjadi di dalam kehidupan penyanyi kesukaanmu? Jangan ketinggalan gosip terbaru seputar selebritis favoritmu dan dapatkan informasi mengenai dunia entertainment Indonesia, Korea, Hollywood, dan lainnya melalui Kapan Lagi.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.kapan_lagi",
+    "featured_img": "",
+    "icon": "com.endlessm.kapan_lagi.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.kapan_lagi.id-thumb.jpg",
+    "subtitle": "Kabar selebritis dan dunia hiburan",
+    "title": "Kapan Lagi",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.library.pt",
     "category": "Reference;",
     "core": false,
@@ -2980,7 +3148,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.living_loving.id-splash.jpg",
-    "description": "Living Loving description Pending",
+    "description": "Berawal dari terbatasnya referensi blog lokal yang sesuai dengan kebutuhan dan minat seputar dekorasi rumah dan inspirasi kreatif, Miranti Andi Kasim (Miranti) dan Nike Prima Dewi (Nike) membuat blog Living Loving yang diluncurkan bulan Februari 2013. Blog ini memiliki banyak artikel mengenai hal-hal inspiratif yang mereka temukan sehari-hari. Mulai dari ide dekorasi rumah, cerita perjalanan, proyek DIY (Do It Yourself), profil figur kreatif, sampai rekomendasi tempat menarik.",
     "displayShape": "b1",
     "exec": "com.endlessm.living_loving",
     "featured_img": "",
@@ -2988,15 +3156,39 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.living_loving.id-thumb.jpg",
-    "subtitle": "Living Loving subtitle pending",
+    "subtitle": "Blog tentang semua hal yang indah",
     "title": "Living Loving",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.mamomomomo.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.mamomomomo.th-splash.jpg",
+    "description": "\u0e21\u0e30\u0e42\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e19\u0e31\u0e01\u0e27\u0e32\u0e14\u0e20\u0e32\u0e1e\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e2d\u0e34\u0e2a\u0e23\u0e30\u0e41\u0e25\u0e30\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e14\u0e49\u0e32\u0e19\u0e41\u0e1f\u0e0a\u0e31\u0e48\u0e19\u0e41\u0e25\u0e30\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e44\u0e15\u0e25\u0e4c\u0e08\u0e32\u0e01\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f \u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e0a\u0e31\u0e48\u0e19 \u0e01\u0e32\u0e41\u0e1f \u0e41\u0e25\u0e30\u0e40\u0e1a\u0e40\u0e01\u0e34\u0e25 \u0e40\u0e18\u0e2d\u0e40\u0e02\u0e35\u0e22\u0e19\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e48\u0e32\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+    "displayShape": "b1",
+    "exec": "com.endlessm.mamomomomo",
+    "featured_img": "",
+    "icon": "com.endlessm.mamomomomo.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.mamomomomo.th-thumb.jpg",
+    "subtitle": "\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e41\u0e1f\u0e0a\u0e31\u0e48\u0e19\u0e41\u0e25\u0e30\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e44\u0e15\u0e25\u0e4c",
+    "title": "\u0e21\u0e30\u0e42\u0e21 \u0e1a\u0e25\u0e47\u0e2d\u0e01",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3147,6 +3339,30 @@
     "square_img": "com.endlessm.math.pt-thumb.jpg",
     "subtitle": "Matem\u00e1tica do ensino m\u00e9dio de forma simples e acess\u00edvel",
     "title": "Matem\u00e1tica",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.matichon.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.matichon.th-splash.jpg",
+    "description": "\u0e21\u0e15\u0e34\u0e0a\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e23\u0e32\u0e22\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e2d\u0e48\u0e32\u0e19\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e14\u0e49\u0e27\u0e22\u0e22\u0e2d\u0e14\u0e02\u0e32\u0e22\u0e01\u0e27\u0e48\u0e32 900,000 \u0e09\u0e1a\u0e31\u0e1a\u0e15\u0e48\u0e2d\u0e27\u0e31\u0e19 \u0e21\u0e35\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e25\u0e38\u0e21\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e02\u0e48\u0e32\u0e27\u0e43\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e0a\u0e2a\u0e33\u0e19\u0e31\u0e01 \u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 \u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21 \u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32 \u0e2a\u0e31\u0e07\u0e04\u0e21 \u0e01\u0e35\u0e2c\u0e32 \u0e44\u0e1b\u0e08\u0e19\u0e16\u0e36\u0e07\u0e02\u0e48\u0e32\u0e27\u0e23\u0e2d\u0e1a\u0e42\u0e25\u0e01",
+    "displayShape": "b1",
+    "exec": "com.endlessm.matichon",
+    "featured_img": "",
+    "icon": "com.endlessm.matichon.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.matichon.th-thumb.jpg",
+    "subtitle": "\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e23\u0e32\u0e22\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e2d\u0e48\u0e32\u0e19\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e44\u0e17\u0e22",
+    "title": "\u0e21\u0e15\u0e34\u0e0a\u0e19 \u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3306,7 +3522,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.okezone.id-splash.jpg",
-    "description": "Description for Okezone pending. ",
+    "description": "Okezone.com adalah portal online berita dan hiburan berbahasa Indonesia. Okezone memberitakan hal-hal umum seperti: politik, peristiwa, internasional, ekonomi, gaya hidup, selebriti, olahraga, bola, auto, teknologi, bisnis, keuangan dan lainya. Penasaran dengan apa yang sedang terjadi di dunia sekitar Anda? Baca Okezone dan puaskan rasa ingin tahu Anda.",
     "displayShape": "b1",
     "exec": "com.endlessm.okezone",
     "featured_img": "",
@@ -3314,14 +3530,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.okezone.id-thumb.jpg",
-    "subtitle": "Subtitle for Okezone pending",
+    "subtitle": "Aplikasi berita terkini",
     "title": "Okezone",
     "translation_id": null,
     "translation_type": null,
@@ -3362,7 +3578,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.pergidulu.id-splash.jpg",
-    "description": "Description for Pergidulu pending",
+    "description": "Adam dan Susan adalah pasangan suami istri yang telah pergi traveling tanpa berhenti sejak tahun 2012. Blog ini menceritakan seluruh perjalanan yang mereka lakukan selama ini. Blog Pergi Dulu penuh dengan tips & trick yang sangat berguna saat Anda pergi traveling. Ikuti petualangan mereka dan jangan lupa baca blog ini sebelum jalan-jalan, Anda pasti akan mempelajari hal baru yang dapat membuat liburan Anda lebih berkesan.",
     "displayShape": "b1",
     "exec": "com.endlessm.pergidulu",
     "featured_img": "",
@@ -3370,14 +3586,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.pergidulu.id-thumb.jpg",
-    "subtitle": "Subtitle for Pergidulu pending",
+    "subtitle": "Blog travel penuh dengan tips",
     "title": "Pergidulu",
     "translation_id": null,
     "translation_type": null,
@@ -3728,6 +3944,30 @@
     "square_img": "com.endlessm.publimetro.es_mx-thumb.jpg",
     "subtitle": "El peri\u00f3dico sobre noticias de \u00faltima hora en M\u00e9xico y en el mundo",
     "title": "Publimetro",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.rappler.ph",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.rappler.ph-splash.jpg",
+    "description": "Rappler is a social news network where stories from all around the world are published to inspire community engagement and action for social change. ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.rappler",
+    "featured_img": "",
+    "icon": "com.endlessm.rappler.ph-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Philippines"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.rappler.ph-thumb.jpg",
+    "subtitle": "Social issues from around the world",
+    "title": "Rappler",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -4623,32 +4863,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.voa.id",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.voa.id-splash.jpg",
-    "description": "Description for VOA pending",
-    "displayShape": "b1",
-    "exec": "com.endlessm.voa",
-    "featured_img": "",
-    "icon": "com.endlessm.voa.id-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": []
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.voa.id-thumb.jpg",
-    "subtitle": "Subtitle for VOA pending",
-    "title": "Voices of America",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.water_and_sanitation.en",
     "category": "Education;",
     "core": false,
@@ -4713,7 +4927,7 @@
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "Find some of your favorite books in this app! To begin browsing, open the folder, click the 'Index' file, and select the genre that interests you most. You'll find some of the most famous books written, including modern wonders that are sure to peak your interest. This virtual library has an astouding collection of novels, poems, biographies, stories, and other texts. Whether you find your favorite book or discover a new one, you'll be entertained for hours expanding your literary knowledge.",
+    "description": "Find some of your favorite books in this app! To begin browsing, open the folder, click the 'Index' file, and select the genre that interests you most. You'll find some of the most famous books written, including modern wonders that are sure to pique your interest. This virtual library has an astounding collection of novels, poems, biographies, stories, and other texts. Whether you find your favorite book or discover a new one, you'll be entertained for hours expanding your literary knowledge.",
     "displayShape": "b1",
     "exec": "eos-world-literature",
     "featured_img": "",
@@ -4773,7 +4987,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.wowshack.id-splash.jpg",
-    "description": "Description for WowShack pending",
+    "description": "Indonesia adalah negara yang sangat indah dan menarik, namun konten tentang Indonesia jarang disebarkan di media sosial. Oleh karena itu, WowShack memulai sebuah website yang memiliki segala macam konten mengenai Indonesia yang lucu, aneh, dan informatif, sehingga berita-berita ini bisa menjadi viral. Konten WowShack menggunakan Bahasa Inggris, sehingga Anda bisa belajar Bahasa Inggris sambil mengetahui hal baru tentang Indonesia. Topik apa saja ada, mulai dari tentang makanan, tempat jalan-jalan, kesenian, sampai sejarah Indonesia. Jangan lupa bagikan konten ini ke teman dan keluarga!",
     "displayShape": "b1",
     "exec": "com.endlessm.wowshack",
     "featured_img": "",
@@ -4781,14 +4995,14 @@
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "All"
+      "Indonesian"
     ],
     "screenshots": {
       "C": []
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.wowshack.id-thumb.jpg",
-    "subtitle": "Subtitle for WowShack pending",
+    "subtitle": "Website lucu tentang Indonesia",
     "title": "WowShack",
     "translation_id": null,
     "translation_type": null,
@@ -5063,7 +5277,7 @@
     "category": "Game;",
     "core": false,
     "custom-splash-screen": "",
-    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games such as Team Fortress 2 are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. You will need to agree to Steam's own policies, including their refund policy, if you decide to make a purchase. Endless is separate from Steam and cannot refund your games or be held accountable for any purchases you make via Steam.  ** Requires internet",
+    "description": "If you like playing video games, you're going to have a great time exploring Valve's online Steam Store! Many games require an online purchase, but some popular games, such as Team Fortress 2, are free to play. When searching in the store, be sure to narrow results by the Linux / SteamOS operating system. Not all Linux games are compatible with Endless, so make sure you check the system requirements before purchasing games. When using games on the Steam platform, you must comply with Valve Corporation's Terms of Service, as well as their refund policy. Endless is a separate corporate entity from Valve Corporation, and cannot refund games or be held accountable for purchases made on the Steam platform. ** Requires internet",
     "displayShape": "b1",
     "exec": "steam",
     "featured_img": "",
@@ -6515,6 +6729,43 @@
     "translation_id": "totem",
     "translation_type": "gettext",
     "tryexec": "totem"
+  },
+  {
+    "application-id": "org.gnome.Yelp",
+    "category": "Utility;",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Do you have questions about how to use Endless? Now you can have the answers to your questions be just a click away! We've created the Help Center for both new and advanced users, so that you can learn how to use Endless at the level you need. If you can't find the answer to your questions - let us know! You help to make Endless better by giving us your feedback, and by asking us questions.",
+    "displayShape": "b1",
+    "exec": "yelp %u",
+    "featured_img": "",
+    "icon": "org.gnome.yelp-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.yelp-screenshot1.jpg",
+        "org.gnome.yelp-screenshot2.jpg"
+      ],
+      "es": [
+        "org.gnome.yelp-screenshot1.jpg",
+        "org.gnome.yelp-screenshot2.jpg"
+      ],
+      "pt": [
+        "org.gnome.yelp-screenshot1.jpg",
+        "org.gnome.yelp-screenshot2.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.yelp-thumb.jpg",
+    "subtitle": "Learn how to use Endless",
+    "title": "Help Center",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
   },
   {
     "application-id": "org.gnome.gedit",
@@ -8139,41 +8390,6 @@
     "square_img": "vinagre-thumb.jpg",
     "subtitle": "Manage your desktop from afar",
     "title": "Remote Desktop",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "yelp",
-    "category": "Utility;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Do you have questions about how to use Endless? Now you can have the answers to your questions be just a click away! We've created the Help Center for both new and advanced users, so that you can learn how to use Endless at the level you need. If you can't find the answer to your questions - let us know! You help to make Endless better by giving us your feedback, and by asking us questions.",
-    "displayShape": "b1",
-    "exec": "yelp %u",
-    "featured_img": "",
-    "icon": "yelp-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "yelp-screenshot1.jpg",
-        "yelp-screenshot2.jpg",
-        "yelp-screenshot3.jpg"
-      ],
-      "es": [
-        "yelp-screenshot1.jpg",
-        "yelp-screenshot2.jpg",
-        "yelp-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "yelp-thumb.jpg",
-    "subtitle": "Learn how to use Endless",
-    "title": "Help Center",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
