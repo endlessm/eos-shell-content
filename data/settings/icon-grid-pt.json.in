@@ -3,23 +3,39 @@
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
     "libreoffice-writer.desktop",
-    "rhythmbox.desktop",
-    "com.endlessm.photos.desktop",
+    "libreoffice-calc.desktop",
+    "libreoffice-impress.desktop",
     "com.endlessm.encyclopedia.pt.desktop",
-    "net.minetest.Minetest.desktop",
+    "eos-link-facebook.desktop",
+    "eos-link-whatsapp.desktop",
     "eos-link-youtube.desktop",
     "eos-folder-media.directory",
-    "eos-folder-games.directory",
-    "eos-folder-work.directory",
     "eos-folder-curiosity.directory",
-    "eos-folder-social.directory"
+    "eos-folder-games.directory",
+    "eos-folder-social.directory",
+    "net.minetest.Minetest.desktop",
+    "com.endlessm.cooking.pt.desktop",
+    "rhythmbox.desktop"
   ],
   "eos-folder-media.directory" : [
+    "com.endlessm.photos.desktop",
     "shotwell.desktop",
     "org.gnome.Totem.desktop",
-    "net.sourceforge.Audacity.desktop",
     "org.tuxpaint.Tuxpaint.desktop",
+    "net.sourceforge.Audacity.desktop",
+    "com.endlessm.library.pt.desktop",
     "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.myths.pt.desktop",
+    "com.endlessm.math.pt.desktop",
+    "com.endlessm.howto.pt.desktop",
+    "com.endlessm.travel.pt.desktop",
+    "com.endlessm.health.pt.desktop",
+    "com.endlessm.maternity.pt.desktop",
+    "com.endlessm.dinosaurs.pt.desktop",
+    "com.endlessm.translation.desktop",
+    "eos-link-duolingo.desktop"
   ],
   "eos-folder-games.directory" : [
     "net.sourceforge.Supertuxkart.desktop",
@@ -36,28 +52,9 @@
     "net.sourceforge.Extremetuxracer.desktop",
     "net.sourceforge.Warmux.desktop"
   ],
-  "eos-folder-work.directory" : [
-    "libreoffice-calc.desktop",
-    "libreoffice-impress.desktop",
-    "gnome-calculator.desktop",
-    "com.endlessm.finance.desktop",
-    "com.endlessm.resume.desktop",
-    "com.endlessm.translation.desktop"
-  ],
-  "eos-folder-curiosity.directory" : [
-    "com.endlessm.myths.pt.desktop",
-    "com.endlessm.math.pt.desktop",
-    "com.endlessm.howto.pt.desktop",
-    "com.endlessm.travel.pt.desktop",
-    "com.endlessm.health.pt.desktop",
-    "kde4-org.kde.Marble.desktop",
-    "eos-link-duolingo.desktop",
-    "com.endlessm.maternity.pt.desktop"
-  ],
   "eos-folder-social.directory" : [
-    "eos-link-facebook.desktop",
+    "com.endlessm.extra.pt_BR.desktop",
     "eos-link-twitter.desktop",
-    "eos-link-whatsapp.desktop",
     "evolution.desktop",
     "eos-link-gmail.desktop"
   ]
