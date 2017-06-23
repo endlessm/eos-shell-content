@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2017-05-15 22:45-0700\n"
-"PO-Revision-Date: 2017-05-16 05:46+0000\n"
+"POT-Creation-Date: 2017-06-23 14:51-0700\n"
+"PO-Revision-Date: 2017-06-23 21:51+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Assamese (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/as/)\n"
 "MIME-Version: 1.0\n"
@@ -405,14 +405,14 @@ msgctxt "description"
 msgid ""
 "If you like playing video games, you're going to have a great time exploring"
 " Valve's online Steam Store! Many games require an online purchase, but some"
-" popular games such as Team Fortress 2 are free to play. When searching in "
-"the store, be sure to narrow results by the Linux / SteamOS operating "
+" popular games, such as Team Fortress 2, are free to play. When searching in"
+" the store, be sure to narrow results by the Linux / SteamOS operating "
 "system. Not all Linux games are compatible with Endless, so make sure you "
-"check the system requirements before purchasing games. You will need to "
-"agree to Steam's own policies, including their refund policy, if you decide "
-"to make a purchase. Endless is separate from Steam and cannot refund your "
-"games or be held accountable for any purchases you make via Steam.  ** "
-"Requires internet"
+"check the system requirements before purchasing games. When using games on "
+"the Steam platform, you must comply with Valve Corporation's Terms of "
+"Service, as well as their refund policy. Endless is a separate corporate "
+"entity from Valve Corporation, and cannot refund games or be held "
+"accountable for purchases made on the Steam platform. ** Requires internet"
 msgstr ""
 
 #: content/Default/apps/content.json.h:61
@@ -1306,15 +1306,36 @@ msgstr ""
 
 #: content/Default/apps/content.json.h:193
 msgctxt "title"
-msgid "Gedit"
+msgid "Help Center"
 msgstr ""
 
 #: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
-msgid "A simple text editor for all of your text editing needs"
+msgid "Learn how to use Endless"
 msgstr ""
 
 #: content/Default/apps/content.json.h:195
+msgctxt "description"
+msgid ""
+"Do you have questions about how to use Endless? Now you can have the answers"
+" to your questions be just a click away! We've created the Help Center for "
+"both new and advanced users, so that you can learn how to use Endless at the"
+" level you need. If you can't find the answer to your questions - let us "
+"know! You help to make Endless better by giving us your feedback, and by "
+"asking us questions."
+msgstr ""
+
+#: content/Default/apps/content.json.h:196
+msgctxt "title"
+msgid "Gedit"
+msgstr ""
+
+#: content/Default/apps/content.json.h:197
+msgctxt "subtitle"
+msgid "A simple text editor for all of your text editing needs"
+msgstr ""
+
+#: content/Default/apps/content.json.h:198
 msgctxt "description"
 msgid ""
 "Use this simple app to create and edit files that require plain text inputs."
@@ -1323,17 +1344,17 @@ msgid ""
 "should be perfect for all of your text editing needs."
 msgstr ""
 
-#: content/Default/apps/content.json.h:196
+#: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "Mind Maps"
 msgstr ""
 
-#: content/Default/apps/content.json.h:197
+#: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
 msgstr ""
 
-#: content/Default/apps/content.json.h:198
+#: content/Default/apps/content.json.h:201
 msgctxt "description"
 msgid ""
 "Do you ever have a complicated idea, but have trouble organizing it? If so, "
@@ -1342,17 +1363,17 @@ msgid ""
 " create all kinds of cool diagrams that you can save and share."
 msgstr ""
 
-#: content/Default/apps/content.json.h:199
+#: content/Default/apps/content.json.h:202
 msgctxt "title"
 msgid "Inkscape"
 msgstr ""
 
-#: content/Default/apps/content.json.h:200
+#: content/Default/apps/content.json.h:203
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
 msgstr ""
 
-#: content/Default/apps/content.json.h:201
+#: content/Default/apps/content.json.h:204
 msgctxt "description"
 msgid ""
 "This app is for intermediate and advanced graphic designers who need to "
@@ -1363,17 +1384,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:202
+#: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "Kalzium"
 msgstr ""
 
-#: content/Default/apps/content.json.h:203
+#: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
 msgstr ""
 
-#: content/Default/apps/content.json.h:204
+#: content/Default/apps/content.json.h:207
 msgctxt "description"
 msgid ""
 "The periodic table of the elements is one of the basic building blocks of "
@@ -1386,17 +1407,17 @@ msgid ""
 "simple, and informative app."
 msgstr ""
 
-#: content/Default/apps/content.json.h:205
+#: content/Default/apps/content.json.h:208
 msgctxt "title"
 msgid "Kapman"
 msgstr ""
 
-#: content/Default/apps/content.json.h:206
+#: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
 msgstr ""
 
-#: content/Default/apps/content.json.h:207
+#: content/Default/apps/content.json.h:210
 msgctxt "description"
 msgid ""
 "If you love Pac-Man, then you you'll love this game too! Eat dots to gain "
@@ -1406,17 +1427,17 @@ msgid ""
 "and family, from kids to grandparents, will love the game, too!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:208
+#: content/Default/apps/content.json.h:211
 msgctxt "title"
 msgid "KAtomic"
 msgstr ""
 
-#: content/Default/apps/content.json.h:209
+#: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
 msgstr ""
 
-#: content/Default/apps/content.json.h:210
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "If you’re struggling with concepts in chemistry, or simply looking for a way"
@@ -1428,17 +1449,17 @@ msgid ""
 " a ton!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:211
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KBlocks"
 msgstr ""
 
-#: content/Default/apps/content.json.h:212
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:213
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "This game is similar to Tetris, so if you love that game, you will love this"
@@ -1447,17 +1468,17 @@ msgid ""
 " lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:214
+#: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KBounce"
 msgstr ""
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
 msgstr ""
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:219
 msgctxt "description"
 msgid ""
 "This is a fun game with a simple goal: you must build walls to decrease the "
@@ -1467,17 +1488,17 @@ msgid ""
 "It requires quick thinking and fast reflexes!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:220
 msgctxt "title"
 msgid "KBruch"
 msgstr ""
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr ""
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:222
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -1489,17 +1510,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:220
+#: content/Default/apps/content.json.h:223
 msgctxt "title"
 msgid "KDiamond"
 msgstr ""
 
-#: content/Default/apps/content.json.h:221
+#: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
 msgstr ""
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:225
 msgctxt "description"
 msgid ""
 "In this fast-paced game, your job is to build lines of three diamonds of the"
@@ -1510,17 +1531,17 @@ msgid ""
 "many age levels."
 msgstr ""
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:226
 msgctxt "title"
 msgid "KGeography"
 msgstr ""
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr ""
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -1531,17 +1552,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr ""
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr ""
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:231
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -1551,17 +1572,17 @@ msgid ""
 " through any trapdoors!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "KHangMan"
 msgstr ""
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr ""
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -1573,17 +1594,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "Kigo"
 msgstr ""
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr ""
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -1595,17 +1616,17 @@ msgid ""
 "too!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "Killbots"
 msgstr ""
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -1615,17 +1636,17 @@ msgid ""
 "tell the tale!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr ""
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr ""
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -1640,17 +1661,17 @@ msgid ""
 " toes! "
 msgstr ""
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr ""
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "This game is so fun and addicting, you’ll never want to stop playing. The "
@@ -1661,17 +1682,17 @@ msgid ""
 "possible; you lose if it fills up completely!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "Battleships"
 msgstr ""
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
 msgstr ""
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Try to guess where your enemies ships are to blow them out of the water "
@@ -1682,17 +1703,17 @@ msgid ""
 "Arrr you ready for some great naval fun?"
 msgstr ""
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "KNetwalk"
 msgstr ""
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
 "Who knew building computer networks could be fun? You'll need to create the "
@@ -1703,17 +1724,17 @@ msgid ""
 "enjoyable and competitive game you’ll love to play."
 msgstr ""
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "KSame"
 msgstr ""
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -1723,17 +1744,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "KSquares"
 msgstr ""
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "Based on a popular old game, this fun app lets you stretch your mind and "
@@ -1744,17 +1765,17 @@ msgid ""
 "entertainment. Be careful – you just might become addicted!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "Sudoku"
 msgstr ""
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "Are you better than your friend is at puzzles? Find out by playing this fun "
@@ -1766,17 +1787,17 @@ msgid ""
 "Sudoku, or are an experienced player, you'll love this app!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "Potato Guy"
 msgstr ""
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
 msgstr ""
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "This is a silly game for children and their parents to play together. Based "
@@ -1786,17 +1807,17 @@ msgid ""
 "lots of laughter. Make the goofiest face you can!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Kubrick"
 msgstr ""
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
 msgstr ""
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "This puzzling game has lots of options to keep your brain working! Modeled "
@@ -1808,17 +1829,17 @@ msgid ""
 "even design your very own challenge!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr ""
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
 msgstr ""
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "Learning new words is a great way to speak and write more clearly, but "
@@ -1829,17 +1850,17 @@ msgid ""
 "learning all you want."
 msgstr ""
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "Maps"
 msgstr ""
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "Maps of the entire world"
 msgstr ""
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
 "Where do players from FC Barcelona or Real Madrid live? How far away are you"
@@ -1850,17 +1871,17 @@ msgid ""
 "has changed over time!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Palapeli"
 msgstr ""
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:276
 msgctxt "description"
 msgid ""
 "If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
@@ -1870,17 +1891,17 @@ msgid ""
 "rewarding, and as true to life as can be."
 msgstr ""
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "Virtual School"
 msgstr ""
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
 msgstr ""
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:279
 msgctxt "description"
 msgid ""
 "Learning is easy and fun with video courses on subjects like math, biology, "
@@ -1892,17 +1913,17 @@ msgid ""
 " this app and these videos can help you succeed in school and in life!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "Numpty Physics"
 msgstr ""
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
 msgstr ""
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:282
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -1913,17 +1934,17 @@ msgid ""
 "learning."
 msgstr ""
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr ""
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "A shooting game in space"
 msgstr ""
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:285
 msgctxt "description"
 msgid ""
 "In the year 3547, civilizations across the galaxy have settled their own "
@@ -1936,17 +1957,17 @@ msgid ""
 "keep playing until you succeed in returning peace to your planet!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "MegaGlest"
 msgstr ""
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
 msgstr ""
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
 "Kings, castles, and dragons all unite in this awesome strategy game that "
@@ -1956,34 +1977,34 @@ msgid ""
 "you desire!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "Firefox"
 msgstr ""
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Mozilla's popular web browser"
 msgstr ""
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Firefox is one of the world's most popular web browsers. If you have trouble"
 " with websites that require Java support, try Firefox. ** Requires internet"
 msgstr ""
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Open Arena"
 msgstr ""
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:294
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -1993,17 +2014,17 @@ msgid ""
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "3D CAD"
 msgstr ""
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
 msgstr ""
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:297
 msgctxt "description"
 msgid ""
 "This app is made for programmers who want to create 3D CAD models. The app "
@@ -2016,17 +2037,17 @@ msgid ""
 " you do, this app is a great way to build the 3D models you need."
 msgstr ""
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "Video Editor"
 msgstr ""
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "Hundreds of transitions, effects, and filters to edit your videos"
 msgstr ""
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:300
 msgctxt "description"
 msgid ""
 "Create videos for projects, friends, family, or just for fun! Look through "
@@ -2036,17 +2057,17 @@ msgid ""
 "yourself, this video editor will help you do it!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "Pingus"
 msgstr ""
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
 msgstr ""
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:303
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -2056,17 +2077,17 @@ msgid ""
 " them in order to avoid an untimely end."
 msgstr ""
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "Etoys"
 msgstr ""
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Learn with visual programming"
 msgstr ""
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:306
 msgctxt "description"
 msgid ""
 "This app is a great way for kids to learn how to program while learning "
@@ -2080,17 +2101,17 @@ msgid ""
 "college-aged students alike!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "Scratch"
 msgstr ""
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Learn basic computer programming"
 msgstr ""
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:309
 msgctxt "description"
 msgid ""
 "Do you love computer games and applications? Why not learn how to make your "
@@ -2102,18 +2123,18 @@ msgid ""
 "will you someday make? "
 msgstr ""
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "Stellarium"
 msgstr ""
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr ""
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:312
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -2124,17 +2145,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Turtle Blocks"
 msgstr ""
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Visually program with turtle art"
 msgstr ""
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
 "Learn the basics of computer programming while creating beautiful artwork! "
@@ -2144,17 +2165,17 @@ msgid ""
 "of computer programming."
 msgstr ""
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "X-Moto"
 msgstr ""
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:318
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
@@ -2164,17 +2185,17 @@ msgid ""
 "time in this fast-paced, exciting test of speed!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:319
 msgctxt "title"
 msgid "Tux Paint"
 msgstr ""
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:320
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr ""
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:321
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -2185,17 +2206,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:322
 msgctxt "title"
 msgid "VLC"
 msgstr ""
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:323
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
 msgstr ""
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:324
 msgctxt "description"
 msgid ""
 "VLC is a free and open source multimedia player that plays most multimedia "
@@ -2205,17 +2226,17 @@ msgid ""
 "abilities out there."
 msgstr ""
 
-#: content/Default/apps/content.json.h:322
+#: content/Default/apps/content.json.h:325
 msgctxt "title"
 msgid "Wesnoth"
 msgstr ""
 
-#: content/Default/apps/content.json.h:323
+#: content/Default/apps/content.json.h:326
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr ""
 
-#: content/Default/apps/content.json.h:324
+#: content/Default/apps/content.json.h:327
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -2224,17 +2245,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr ""
 
-#: content/Default/apps/content.json.h:325
+#: content/Default/apps/content.json.h:328
 msgctxt "title"
 msgid "Music"
 msgstr ""
 
-#: content/Default/apps/content.json.h:326
+#: content/Default/apps/content.json.h:329
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
 msgstr ""
 
-#: content/Default/apps/content.json.h:327
+#: content/Default/apps/content.json.h:330
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -2244,17 +2265,17 @@ msgid ""
 "in one convenient app."
 msgstr ""
 
-#: content/Default/apps/content.json.h:328
+#: content/Default/apps/content.json.h:331
 msgctxt "title"
 msgid "Photos"
 msgstr ""
 
-#: content/Default/apps/content.json.h:329
+#: content/Default/apps/content.json.h:332
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
 msgstr ""
 
-#: content/Default/apps/content.json.h:330
+#: content/Default/apps/content.json.h:333
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -2265,17 +2286,17 @@ msgid ""
 "networks, like Facebook."
 msgstr ""
 
-#: content/Default/apps/content.json.h:331
+#: content/Default/apps/content.json.h:334
 msgctxt "title"
 msgid "Simple Scan"
 msgstr ""
 
-#: content/Default/apps/content.json.h:332
+#: content/Default/apps/content.json.h:335
 msgctxt "subtitle"
 msgid "Make a digital copy of your photos and documents"
 msgstr ""
 
-#: content/Default/apps/content.json.h:333
+#: content/Default/apps/content.json.h:336
 msgctxt "description"
 msgid ""
 "Preserving your photos and important documents by making digital copies has "
@@ -2286,43 +2307,22 @@ msgid ""
 "sure the things you scan are clear, straight, and in any format you need!"
 msgstr ""
 
-#: content/Default/apps/content.json.h:334
+#: content/Default/apps/content.json.h:337
 msgctxt "title"
 msgid "Remote Desktop"
 msgstr ""
 
-#: content/Default/apps/content.json.h:335
-msgctxt "subtitle"
-msgid "Manage your desktop from afar"
-msgstr ""
-
-#: content/Default/apps/content.json.h:336
-msgctxt "description"
-msgid ""
-"Now you can manage your own computer, or a family member's, without being in"
-" front of it. This is great for people who want to help someone troubleshoot"
-" their computer from afar, or manage their computer from another computer."
-msgstr ""
-
-#: content/Default/apps/content.json.h:337
-msgctxt "title"
-msgid "Help Center"
-msgstr ""
-
 #: content/Default/apps/content.json.h:338
 msgctxt "subtitle"
-msgid "Learn how to use Endless"
+msgid "Manage your desktop from afar"
 msgstr ""
 
 #: content/Default/apps/content.json.h:339
 msgctxt "description"
 msgid ""
-"Do you have questions about how to use Endless? Now you can have the answers"
-" to your questions be just a click away! We've created the Help Center for "
-"both new and advanced users, so that you can learn how to use Endless at the"
-" level you need. If you can't find the answer to your questions - let us "
-"know! You help to make Endless better by giving us your feedback, and by "
-"asking us questions."
+"Now you can manage your own computer, or a family member's, without being in"
+" front of it. This is great for people who want to help someone troubleshoot"
+" their computer from afar, or manage their computer from another computer."
 msgstr ""
 
 #: content/folders.json.h:4
