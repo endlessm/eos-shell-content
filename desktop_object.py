@@ -226,15 +226,13 @@ class FolderObject(DesktopObject):
 
     json_keys = {
         'Id': 'folderId',
-        'Name': 'folderName',
-        'Icon': 'folderIcon'
+        'Name': 'folderName'
     }
 
     def __init__(self, data, desktop_dir):
         super(FolderObject, self).__init__(data)
         self._desktop_dir = desktop_dir
         self._prefix = 'eos-folder-'
-        self._icon_prefix = 'eos-folder-'
         self._suffix = '.directory.in'
         self.defaults['Type'] = 'Directory'
 
@@ -242,6 +240,7 @@ class FolderObject(DesktopObject):
         if key in ['Comment',
                    'Exec',
                    'TryExec',
+                   'Icon',
                    'Categories',
                    'X-Endless-LaunchMaximized',
                    'X-Endless-SplashBackground']:
