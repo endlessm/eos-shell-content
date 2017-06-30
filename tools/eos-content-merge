@@ -116,6 +116,10 @@ class App(object):
                 # will fall back to our preferred English name instead
                 if item[1].lower() != origname.lower():
                     names.update([item])
+            elif item[0].startswith('Icon['):
+                # Exclude any localized icons so as not to
+                # override the Endless-provided icon
+                pass
             else:
                 others.update([item])
         names = OrderedDict(sorted(names.items(), key=lambda t: t[0]))
