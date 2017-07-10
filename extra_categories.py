@@ -25,7 +25,5 @@ EXTRA_CATEGORIES = {
     'com.endlessm.myths': ['Reference'],
     'com.endlessm.programming': ['Game'],
     'com.endlessm.spanish_guarani_dictionary': ['Education'],
-    'com.endlessm.translation': ['Office'],
-    'com.endlessm.videonet': ['Education'],
-    'com.endlessm.weather': ['Utility']
+    'com.endlessm.translation': ['Office']
 }
