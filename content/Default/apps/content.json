@@ -150,7 +150,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.all_that_is_interesting.en-splash.jpg",
-    "description": "Covering a broad range of subjects through dynamic mediums, All That Is Interesting is the premiere creator of fascinating content that is as substantive as it is shareworthy It\u2019s your world; we help you get to know it a little better.",
+    "description": "You'll find a wide range of stories and articles in this app, with great photos and interesting facts that you'll want to share with all of your friends. It's your world; we help you get to know it a little better. ",
     "displayShape": "b1",
     "exec": "com.endlessm.all_that_is_interesting.en",
     "featured_img": "",
@@ -165,7 +165,7 @@
     },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.all_that_is_interesting.en-thumb.jpg",
-    "subtitle": "From the bizarre to the beautiful, All That Is Interesting publishes the most interesting stories on",
+    "subtitle": "Bizarre, beautiful, and interesting stories",
     "title": "All that is interesting",
     "translation_id": null,
     "translation_type": null,
@@ -643,6 +643,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.blogazine.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.blogazine.th-splash.jpg",
+    "description": "\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e01\u0e32\u0e0b\u0e35\u0e19 (\u0e1a\u0e25\u0e47\u0e2d\u0e01+\u0e41\u0e21\u0e01\u0e01\u0e32\u0e0b\u0e35\u0e19) \u0e40\u0e1b\u0e47\u0e19\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e23\u0e27\u0e21\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e35\u0e48\u0e40\u0e02\u0e35\u0e22\u0e19\u0e42\u0e14\u0e22\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e42\u0e14\u0e22 \u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e44\u0e17 \u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e2d\u0e34\u0e2a\u0e23\u0e30\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e01\u0e32\u0e0b\u0e35\u0e19\u0e19\u0e33\u0e40\u0e2a\u0e19\u0e2d\u0e07\u0e32\u0e19\u0e40\u0e02\u0e35\u0e22\u0e19\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d\u0e41\u0e25\u0e30\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e32\u0e01\u0e2b\u0e25\u0e32\u0e22 \u0e42\u0e14\u0e22\u0e40\u0e19\u0e49\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e14\u0e47\u0e19\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e17\u0e31\u0e49\u0e07\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e41\u0e25\u0e30\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01",
+    "displayShape": "b1",
+    "exec": "com.endlessm.blogazine",
+    "featured_img": "",
+    "icon": "com.endlessm.blogazine.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.blogazine.th-thumb.jpg",
+    "subtitle": "\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e23\u0e27\u0e21\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "title": "\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e01\u0e32\u0e0b\u0e35\u0e19",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.bola_net.id",
     "category": "Reference;",
     "core": false,
@@ -662,6 +686,54 @@
     "square_img": "com.endlessm.bola_net.id-thumb.jpg",
     "subtitle": "Berita tentang sepakbola",
     "title": "Bola Net",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.bollywoodlife.hi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.bollywoodlife.hi-splash.jpg",
+    "description": "Bollywoodlife is a news portal that will keep you posted with the latest movie reviews and all the best updates on your favorite actors and actresses from Bollywood and beyond.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bollywoodlife",
+    "featured_img": "",
+    "icon": "com.endlessm.bollywoodlife.hi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "India"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.bollywoodlife.hi-thumb.jpg",
+    "subtitle": "Bollywood news and gossip",
+    "title": "Bollywoodlife",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.bong_da.vi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.bong_da.vi-splash.jpg",
+    "description": "\u1ee8ng d\u1ee5ng B\u00f3ng \u0111\u00e1 cung c\u1ea5p cho b\u1ea1n to\u00e0n b\u1ed9 tin t\u1ee9c v\u1ec1 b\u00f3ng \u0111\u00e1. C\u1eadp nh\u1eadt nh\u1eefng k\u1ebft qu\u1ea3 v\u00e0 th\u00f4ng tin m\u1edbi nh\u1ea5t v\u1ec1 c\u00e1c gi\u1ea3i v\u00f4 \u0111\u1ecbch t\u1ea1i Vi\u1ec7t Nam, Ch\u00e2u  u v\u00e0 tr\u00ean th\u1ebf gi\u1edbi.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bong_da",
+    "featured_img": "",
+    "icon": "com.endlessm.bong_da.vi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Vietnamese"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.bong_da.vi-thumb.jpg",
+    "subtitle": "Th\u00f4ng tin v\u00e0 tin t\u1ee9c b\u00f3ng \u0111\u00e1",
+    "title": "B\u00f3ng d\u00e1",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -1389,6 +1461,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.cricbuzz.hi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.cricbuzz.hi-splash.jpg",
+    "description": "From the Indian Premier League to the ICC Champions Trophy, Cricbuzz brings you all the latested scores and information about India's most popular sport.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.cricbuzz",
+    "featured_img": "",
+    "icon": "com.endlessm.cricbuzz.hi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "India"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.cricbuzz.hi-thumb.jpg",
+    "subtitle": "Cricket news, scores, and more",
+    "title": "Cricbuzz",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.detik_news.id",
     "category": "Reference;",
     "core": false,
@@ -1831,7 +1927,7 @@
   },
   {
     "application-id": "com.endlessm.finance",
-    "category": "Reference;Family;",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
     "description": "It can be challenging to keep track of your own or your family\u2019s finances, but it\u2019s also extremely important. This app provides the resources you need to keep a budget and understand how you spend your money. Easy templates make budgeting easier, and tips about money management and wise spending will help you make good choices with your funds. You and your family will benefit from an organized, clear, and carefully managed financial plan.",
@@ -3066,6 +3162,54 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.indiechine.vi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.indiechine.vi-splash.jpg",
+    "description": "Kh\u00e1m ph\u00e1 nh\u1eefng h\u00ecnh \u1ea3nh \u0111\u1eb9p v\u1ec1 Vi\u1ec7t Nam v\u00e0 c\u00f4ng th\u1ee9c n\u1ea5u nh\u1eefng m\u00f3n \u0103n ngon c\u1ee7a Linh Nguy\u1ec5n, t\u00e1c gi\u1ea3 cu\u1ed1n \u201cS\u1ea3, G\u1eebng v\u00e0 B\u1ea1c h\u00e0\u201d. Sau khi d\u00e0nh th\u1eddi gian \u0111\u1ecdc l\u01b0\u1edbt qua \u1ee9ng d\u1ee5ng n\u00e0y, b\u1ea1n ch\u1eafc h\u1eb3n s\u1ebd r\u1ea5t n\u00f3ng l\u00f2ng mu\u1ed1n t\u00ecm hi\u1ec3u th\u1ebf gi\u1edbi xung quanh theo m\u1ed9t c\u00e1ch m\u1edbi \u0111\u1ea7y t\u01b0\u01a1i \u0111\u1eb9p cho d\u00f9 b\u1ea1n \u0111ang s\u1ed1ng \u1edf \u0111\u00e2u \u0111i ch\u0103ng n\u1eefa.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.indiechine",
+    "featured_img": "",
+    "icon": "com.endlessm.indiechine.vi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Vietnamese"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.indiechine.vi-thumb.jpg",
+    "subtitle": "Blog v\u1ec1 \u0111\u1ed3 \u0103n v\u00e0 phong c\u00e1ch s\u1ed1ng Vi\u1ec7t Nam",
+    "title": "Indiechine",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.inquirer.ph",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.inquirer.ph-splash.jpg",
+    "description": "Inquirer.net features breaking news 24/7 and the latest on national issues and current events. Read highlights and compelling commentaries on Politics, Entertainment, Sports, Lifestyle, Business, and Technology, as well as stories from around the world.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.inquirer",
+    "featured_img": "",
+    "icon": "com.endlessm.inquirer.ph-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Philippines"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.inquirer.ph-thumb.jpg",
+    "subtitle": "News from the Phillippines and abroad",
+    "title": "Inquirer",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.kahosod.th",
     "category": "Reference;",
     "core": false,
@@ -3109,6 +3253,30 @@
     "square_img": "com.endlessm.kapan_lagi.id-thumb.jpg",
     "subtitle": "Kabar selebritis dan dunia hiburan",
     "title": "Kapan Lagi",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.khaosod_english.th",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.khaosod_english.th-splash.jpg",
+    "description": "\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e23\u0e27\u0e21\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e21\u0e32\u0e01\u0e21\u0e32\u0e22\u0e08\u0e32\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e41\u0e25\u0e30\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 \u0e40\u0e1c\u0e22\u0e41\u0e1e\u0e23\u0e48\u0e42\u0e14\u0e22\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e22\u0e2d\u0e14\u0e19\u0e34\u0e22\u0e21 \u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e2d\u0e48\u0e32\u0e19\u0e43\u0e19\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a\u0e20\u0e32\u0e29\u0e32\u0e2d\u0e31\u0e07\u0e01\u0e24\u0e29",
+    "displayShape": "b1",
+    "exec": "com.endlessm.khaosod_english",
+    "featured_img": "",
+    "icon": "com.endlessm.khaosod_english.th-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Thai"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.khaosod_english.th-thumb.jpg",
+    "subtitle": "\u0e02\u0e48\u0e32\u0e27\u0e08\u0e32\u0e01\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e43\u0e19\u0e20\u0e32\u0e04\u0e20\u0e32\u0e29\u0e32\u0e2d\u0e31\u0e07\u0e01\u0e24\u0e29",
+    "title": "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e20\u0e32\u0e29\u0e32\u0e2d\u0e31\u0e07\u0e01\u0e24\u0e29",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3189,6 +3357,30 @@
     "square_img": "com.endlessm.mamomomomo.th-thumb.jpg",
     "subtitle": "\u0e1a\u0e25\u0e47\u0e2d\u0e01\u0e41\u0e1f\u0e0a\u0e31\u0e48\u0e19\u0e41\u0e25\u0e30\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e44\u0e15\u0e25\u0e4c",
     "title": "\u0e21\u0e30\u0e42\u0e21 \u0e1a\u0e25\u0e47\u0e2d\u0e01",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.marischka_prudence.id",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.marischka_prudence.id-splash.jpg",
+    "description": "Marischka memulai rasa cintanya terhadap traveling saat menjadi seorang reporter di sebuah stasiun TV. Sejak saat itu dia selalu mencari kesempatan untuk traveling dan mendokumentasinya perjalanannya melalui blog ini. Anda akan merasakan turut ikut serta dalam petualangan Marischka melalui foto-fotonya yang indah. Blog ini dijamin akan membuat Anda ingin pergi jalan-jalan saat ini juga.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.marischka_prudence",
+    "featured_img": "",
+    "icon": "com.endlessm.marischka_prudence.id-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.marischka_prudence.id-thumb.jpg",
+    "subtitle": "Blog travel dengan foto-foto indah",
+    "title": "Marischka Prudence",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3518,6 +3710,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.ndtv_sports.hi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.ndtv_sports.hi-splash.jpg",
+    "description": "The Sports website from NDTV (New Delhi Television) covers all the latest news about Cricket, Football, Formula 1,Tennis, Hockey, Badminton, Golf and NBA ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.ndtv_sports",
+    "featured_img": "",
+    "icon": "com.endlessm.ndtv_sports.hi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "India"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.ndtv_sports.hi-thumb.jpg",
+    "subtitle": "All the sports news from NDTV",
+    "title": "NDTV Sports",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.okezone.id",
     "category": "Reference;",
     "core": false,
@@ -3637,6 +3853,30 @@
     "title": "Photo Editor",
     "translation_id": "eos-photos",
     "translation_type": "gettext",
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.phu_nu.vi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.phu_nu.vi-splash.jpg",
+    "description": "Ph\u1ee5 N\u1eef cung c\u1ea5p cho b\u1ea1n nh\u1eefng m\u1eb9o v\u1eb7t v\u00e0 th\u00f4ng tin m\u1edbi nh\u1ea5t v\u1ec1 phong c\u00e1ch s\u1ed1ng, l\u00e0m \u0111\u1eb9p, s\u1ee9c kh\u1ecfe, th\u1eddi trang, trang tr\u00ed nh\u00e0 c\u1eeda, n\u1ea5u \u0103n v\u00e0 l\u00e0m cha m\u1eb9. C\u1ed5ng tin t\u1ee9c c\u0169ng cung c\u1ea5p nh\u1eefng tin t\u1ee9c li\u00ean quan v\u1ec1 Vi\u1ec7t Nam v\u00e0 th\u1ebf gi\u1edbi.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.phu_nu",
+    "featured_img": "",
+    "icon": "com.endlessm.phu_nu.vi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Vietnamese"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.phu_nu.vi-thumb.jpg",
+    "subtitle": "C\u1ed5ng tin t\u1ee9c d\u00e0nh cho ph\u1ee5 n\u1eef",
+    "title": "Ph\u1ee5 N\u1eef",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
@@ -3785,6 +4025,30 @@
     "square_img": "com.endlessm.prensa_libre.es_gt-thumb.jpg",
     "subtitle": "Toda la informaci\u00f3n de Guatemala y el mundo",
     "title": "Prensa Libre",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.primer.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.primer.en-splash.jpg",
+    "description": "Philippine Primer is a free lifestyle magazine published every month. It is an indispensible guide for foreigners living in the Philippines. With tips and a city guide, it brings all the latest information about restaurants, hotels, travel destinations, cultural events.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.primer",
+    "featured_img": "",
+    "icon": "com.endlessm.primer.en-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Philippines"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.primer.en-thumb.jpg",
+    "subtitle": "Tips, guides, and more",
+    "title": "Philippine Primer",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -3974,7 +4238,7 @@
   },
   {
     "application-id": "com.endlessm.resume",
-    "category": "Reference;Family;",
+    "category": "Reference;",
     "core": false,
     "custom-splash-screen": "",
     "description": "The best way to make a great impression on a potential employer is to have an outstanding resume, and this app is here to help you do just that. With handy, attractive templates, you have plenty of models to use as you build your own stellar resume. Learn exactly what a resume is and what it should contain, get tips on each section, and even receive guidance on how to prepare for job interviews. This app can help you move closer to the job of your choice.",
@@ -4679,8 +4943,56 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.thanh_nien.vi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.thanh_nien.vi-splash.jpg",
+    "description": "Thanh Ni\u00ean l\u00e0 m\u1ed9t t\u1edd b\u00e1o Vi\u1ec7t Nam c\u00f3 tr\u1ee5 s\u1edf t\u1ea1i th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh. \u0110\u00e2y l\u00e0 m\u1ed9t trong nh\u1eefng t\u1edd b\u00e1o \u0111\u01b0\u1ee3c \u0111\u00f3n \u0111\u1ecdc nhi\u1ec1u nh\u1ea5t t\u1ea1i Vi\u1ec7t nam v\u00e0 do H\u1ed9i Li\u00ean hi\u1ec7p Thanh ni\u00ean Vi\u1ec7t Nam xu\u1ea5t b\u1ea3n.\r\n",
+    "displayShape": "b1",
+    "exec": "com.endlessm.thanh_nien",
+    "featured_img": "",
+    "icon": "com.endlessm.thanh_nien.vi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Vietnamese"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.thanh_nien.vi-thumb.jpg",
+    "subtitle": " Tin t\u1ee9c v\u1ec1 Vi\u1ec7t Nam v\u00e0 th\u1ebf gi\u1edbi",
+    "title": "Thanh Ni\u00ean",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.times_of_india.hi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.times_of_india.hi-splash.jpg",
+    "description": "Get all the latest news and information from all over India. The Times of India is the best-selling English-speaking newspaper from India and now you'll be able to access the articles whenever is most convenient for you, even when you're not connected to the internet. ",
+    "displayShape": "b1",
+    "exec": "com.endlessm.times_of_india",
+    "featured_img": "",
+    "icon": "com.endlessm.times_of_india.hi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "India"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.times_of_india.hi-thumb.jpg",
+    "subtitle": "Latest news from India ",
+    "title": "Times of India",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.translation",
-    "category": "Education;Office;Family;",
+    "category": "Education;Office;",
     "core": false,
     "custom-splash-screen": "com.endlessm.translation-splash.jpg",
     "description": "Download this app to help you understand and be understood in virtually any language. This app requires an internet connection, and is very simple to use. \u00a1You can make translations with just a click of the button! Help teach yourself a new language by learning the translations of what you write, or use it to help you make new international connections \u2013 and even new friends \u2013 with the world\u2019s languages at your fingertips.  **Requires internet",
@@ -4858,6 +5170,30 @@
     "square_img": "com.endlessm.travel.pt-thumb.jpg",
     "subtitle": "Explore sites online de todo o mundo direto da sua sala-de-estar",
     "title": "Viagem",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.vtv.vi",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.vtv.vi-splash.jpg",
+    "description": "C\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 nh\u1eefng tin t\u1ee9c m\u1edbi nh\u1ea5t t\u1eeb Vi\u1ec7t Nam v\u00e0 tr\u00ean th\u1ebf gi\u1edbi tr\u1ef1c ti\u1ebfp t\u1eeb ph\u00f2ng tin t\u1ee9c c\u1ee7a \u0110\u00e0i truy\u1ec1n h\u00ecnh Vi\u1ec7t Nam. V\u1edbi k\u00eanh th\u00f4ng tin ngo\u1ea1i tuy\u1ebfn n\u00e0y, b\u1ea1n c\u00f3 th\u1ec3 ti\u1ebfp c\u1eadn nh\u1eefng th\u00f4ng tin m\u00ecnh mu\u1ed1n b\u1ea5t c\u1ee9 khi n\u00e0o thu\u1eadn ti\u1ec7n nh\u1ea5t.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.vtv",
+    "featured_img": "",
+    "icon": "com.endlessm.vtv.vi-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Vietnamese"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.vtv.vi-thumb.jpg",
+    "subtitle": "C\u1ed5ng tin t\u1ee9c truy\u1ec1n h\u00ecnh d\u00e0nh cho Vi\u1ec7t Nam",
+    "title": "VTV",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -5182,6 +5518,30 @@
     "square_img": "com.slack.slack-thumb.jpg",
     "subtitle": "Chat with your team",
     "title": "Slack",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.spin.ph",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.spin.ph-splash.jpg",
+    "description": "Sports Interactive Network (SPIN.PH) delivers the latest sports news from the world as well as in-depth features, columns, videos, and podcasts. With a wide variety of featured sports, you're sure to find news on all of your favorites.",
+    "displayShape": "b1",
+    "exec": "com.spin",
+    "featured_img": "",
+    "icon": "com.spin.ph-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Philippines"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.spin.ph-thumb.jpg",
+    "subtitle": "All sports all news",
+    "title": "Spin",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
