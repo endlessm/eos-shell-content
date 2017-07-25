@@ -60,6 +60,20 @@ REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
 EXCLUDED = {'com.endlessm.EknServices',
             'gnome-apps'}
 
+GNOME_EXCLUDED = {'org.freedesktop.GlxInfo',
+                  'org.gnome.Builder',
+                  'org.gnome.Calculator',
+                  'org.gnome.Documents',
+                  'org.gnome.Evince',
+                  'org.gnome.Maps',
+                  'org.gnome.Nautilus',
+                  'org.gnome.Rhythmbox3',
+                  'org.gnome.Totem',
+                  'org.gnome.clocks',
+                  'org.gnome.eog',
+                  'org.gnome.gedit',
+                  'org.gnome.iagno'}
+
 ALREADY_USED = 'used'
 
 class Color:
@@ -152,6 +166,17 @@ class Reporter(object):
                 if app_id in EXCLUDED:
                     continue
                 self._server_flatpaks.append([app_id, fields[3]])
+
+        # Include the gnome repo, too
+        process = subprocess.Popen(['flatpak', 'remote-ls', '-d', 'gnome-apps'],
+                                   stdout=subprocess.PIPE)
+        entries = process.communicate()[0].decode('utf8').rstrip().split('\n')
+        for entry in entries:
+            fields = entry.split()[0].split('/')
+            app_id = fields[1]
+            if app_id in GNOME_EXCLUDED:
+                continue
+            self._server_flatpaks.append([app_id, fields[3]])
 
     def _print_debug(self, message):
         if self._args.debug:
