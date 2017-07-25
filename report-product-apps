@@ -151,7 +151,7 @@ class Reporter(object):
                 app_id = fields[1]
                 if app_id in EXCLUDED:
                     continue
-                self._server_flatpaks.append(app_id)
+                self._server_flatpaks.append([app_id, fields[3]])
 
     def _print_debug(self, message):
         if self._args.debug:
@@ -394,7 +394,7 @@ class Reporter(object):
                             % (self._args.apps_file, err))
 
     def _list_available_bundles(self):
-        for app_id in self._server_flatpaks:
+        for app_id, version in self._server_flatpaks:
             base_id = strip_locale(app_id)
             if base_id:
                 # App id is localized -- check if our locale matches
@@ -403,7 +403,6 @@ class Reporter(object):
                 if app_locale not in LOCALES[self._args.locale]['app_locales']:
                     continue
             # TODO: implement proper version and size info
-            version = 'eos3'
             size = 'N/A'
             json_row, already_used = self._get_json_row(app_id)
             if already_used:
