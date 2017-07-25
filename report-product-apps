@@ -348,7 +348,10 @@ class Reporter(object):
                     if app_id in EXCLUDED:
                         continue
                     # For now, we just use 'eos3' as the version for flatpaks
-                    version = data[9]
+                    try:
+                        version = data[9]
+                    except:
+                        version = 'unknown'
                     json_row = self._get_json_row(app_id)
                     if json_row == ALREADY_USED:
                         warn('Discarding duplicate entry for %s' % app_id)
