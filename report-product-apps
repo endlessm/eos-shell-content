@@ -192,8 +192,16 @@ class Reporter(object):
         self._print_debug('No data found for %s' % app_id)
         return None, False
 
-    def _translate(self, val):
-        entry = self._po.find(val)
+    def _translate(self, val, lang=None):
+        if lang:
+            try:
+                po_file = os.path.join(PO_DIR, lang + '.po')
+                po = polib.pofile(po_file)
+                entry = po.find(val)
+            except:
+                entry = None
+        else:
+            entry = self._po.find(val)
         if entry:
             translation = entry.msgstr
         else:
@@ -240,6 +248,14 @@ class Reporter(object):
         subtitle = json_row['subtitle']
         description = json_row['description']
         csv_row = []
+        # Special case to get translations for encyclopedias
+        # in southeast Asia image
+        if self._lang == 'C' and \
+           strip_locale(app_id) == 'com.endlessm.encyclopedia':
+            lang = app_id[app_id.rfind('.') + 1:]
+            title = self._translate(title, lang) or title
+            subtitle = self._translate(subtitle, lang) or subtitle
+            description = self._translate(description, lang) or description
         csv_row.append(app_type)
         csv_row.append(category)
         csv_row.append(app_id)
