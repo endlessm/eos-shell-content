@@ -235,27 +235,34 @@ class Reporter(object):
         self._csv_file.close()
 
     def _write_csv_row(self, app_type, app_id, version, json_row):
-        category = json_row['category']
-        size = json_row['size']
-        if isinstance(size, str):
-            size_string = size
-        elif size == 0:
-            size_string = 'Unknown'
+        if json_row:
+            category = json_row['category']
+            size = json_row['size']
+            if isinstance(size, str):
+                size_string = size
+            elif size == 0:
+                size_string = 'Unknown'
+            else:
+                # Convert to MB and round to 1 decimal place
+                size_string = '%.1f' % (size / 1000000)
+            title = json_row['title']
+            subtitle = json_row['subtitle']
+            description = json_row['description']
+            # Special case to get translations for encyclopedias
+            # in southeast Asia image
+            if self._lang == 'C' and \
+               strip_locale(app_id) == 'com.endlessm.encyclopedia':
+                lang = app_id[app_id.rfind('.') + 1:]
+                title = self._translate(title, lang) or title
+                subtitle = self._translate(subtitle, lang) or subtitle
+                description = self._translate(description, lang) or description
         else:
-            # Convert to MB and round to 1 decimal place
-            size_string = '%.1f' % (size / 1000000)
-        title = json_row['title']
-        subtitle = json_row['subtitle']
-        description = json_row['description']
+            category = ''
+            size_string = ''
+            title = ''
+            subtitle = ''
+            description = ''
         csv_row = []
-        # Special case to get translations for encyclopedias
-        # in southeast Asia image
-        if self._lang == 'C' and \
-           strip_locale(app_id) == 'com.endlessm.encyclopedia':
-            lang = app_id[app_id.rfind('.') + 1:]
-            title = self._translate(title, lang) or title
-            subtitle = self._translate(subtitle, lang) or subtitle
-            description = self._translate(description, lang) or description
         csv_row.append(app_type)
         csv_row.append(category)
         csv_row.append(app_id)
@@ -377,10 +384,9 @@ class Reporter(object):
                     if json_row:
                         json_row['size'] = self._get_installed_size(app_id,
                                                                     version)
-                        self._write_csv_row('Installed', app_id, version,
-                                            json_row)
                     else:
                         warn('Missing content json for installed app %s' % app_id)
+                    self._write_csv_row('Installed', app_id, version, json_row)
 
         except IOError as err:
             exit_with_error('Could not open apps file %s:\n%s'
@@ -403,10 +409,9 @@ class Reporter(object):
                 continue
             if json_row:
                 json_row['size'] = size
-                self._write_csv_row('Available', app_id, version,
-                                    json_row)
             else:
                 warn('Missing content json for available app %s' % app_id)
+            self._write_csv_row('Available', app_id, version, json_row)
 
     def generate(self):
         self._open_csv_file()
