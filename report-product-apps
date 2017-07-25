@@ -355,9 +355,10 @@ class Reporter(object):
                     except:
                         version = 'unknown'
                     json_row, already_used = self._get_json_row(app_id)
-                    if already_used:
-                        warn('Discarding duplicate entry for %s' % app_id)
-                    elif json_row:
+                    # Here we ignore if already_used, as that merely means
+                    # that we found multiple locale versions of an app installed
+                    # (e.g., encyclopedias for southeast Asia)
+                    if json_row:
                         json_row['size'] = self._get_installed_size(app_id,
                                                                     version)
                         self._write_csv_row('Installed', app_id, version,
