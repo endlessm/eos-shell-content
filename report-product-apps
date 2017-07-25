@@ -161,34 +161,36 @@ class Reporter(object):
         return 'N/A'
         
     def _do_get_json_row(self, app_id):
+        already_used = False
         for json_row in self._json_data:
             if json_row['application-id'] == app_id:
                 if ALREADY_USED in json_row:
-                    return ALREADY_USED
+                    already_used = True
                 json_row[ALREADY_USED] = True
-                return json_row
+                return json_row, already_used
+        return None, False
         
     def _get_json_row(self, app_id):
-        json_row = self._do_get_json_row(app_id)
-        if json_row == ALREADY_USED:
-            self._print_debug('Already used data for %s' % app_id)
-            return ALREADY_USED
+        json_row, already_used = self._do_get_json_row(app_id)
         if json_row:
-            self._print_debug('Found data for %s' % app_id)
-            return json_row
+            if already_used:
+                self._print_debug('Already used data for %s' % app_id)
+            else:
+                self._print_debug('Found data for %s' % app_id)
+            return json_row, already_used
         generic_id = strip_locale(app_id)
         if generic_id:
-            json_row = self._do_get_json_row(generic_id)
-            if json_row == ALREADY_USED:
-                self._print_debug('Already used data for %s as %s' %
-                                  (app_id, generic_id))
-                return ALREADY_USED
+            json_row, already_used = self._do_get_json_row(generic_id)
             if json_row:
-                self._print_debug('Found data for %s as %s' %
-                                  (app_id, generic_id))
-                return json_row
+                if already_used:
+                    self._print_debug('Already used data for %s as %s' %
+                                      (app_id, generic_id))
+                else:
+                    self._print_debug('Found data for %s as %s' %
+                                      (app_id, generic_id))
+                return json_row, already_used
         self._print_debug('No data found for %s' % app_id)
-        return None
+        return None, False
 
     def _translate(self, val):
         entry = self._po.find(val)
@@ -312,8 +314,8 @@ class Reporter(object):
                     package_name = data[0]
                     report_id, json_id = self._package_to_app_ids(package_name)
                     version = data[1]
-                    json_row = self._get_json_row(json_id)
-                    if json_row == ALREADY_USED:
+                    json_row, already_used = self._get_json_row(json_id)
+                    if already_used:
                         exit_with_error('Unexpected duplicate entry for %s' %
                                         json_id)
                     if json_row:
@@ -352,8 +354,8 @@ class Reporter(object):
                         version = data[9]
                     except:
                         version = 'unknown'
-                    json_row = self._get_json_row(app_id)
-                    if json_row == ALREADY_USED:
+                    json_row, already_used = self._get_json_row(app_id)
+                    if already_used:
                         warn('Discarding duplicate entry for %s' % app_id)
                     elif json_row:
                         json_row['size'] = self._get_installed_size(app_id,
@@ -379,8 +381,8 @@ class Reporter(object):
             # TODO: implement proper version and size info
             version = 'eos3'
             size = 'N/A'
-            json_row = self._get_json_row(app_id)
-            if json_row == ALREADY_USED:
+            json_row, already_used = self._get_json_row(app_id)
+            if already_used:
                 continue
             if json_row:
                 json_row['size'] = size
