@@ -57,7 +57,8 @@ REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
                 'totem'            : {'id': 'org.gnome.Totem',
                                       'first_version': '2.6.0'}}
 
-EXCLUDED = {'com.endlessm.EknServices'}
+EXCLUDED = {'com.endlessm.EknServices',
+            'gnome-apps'}
 
 ALREADY_USED = 'used'
 
