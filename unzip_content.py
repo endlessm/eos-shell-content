@@ -68,6 +68,17 @@ def get_icon_path(linkJSON):
         return None
     return linkJSON['linkIcon']
 
+# For Endless apps, try removing the trailing locale ('.xx' or '.xx_YY')
+# from the app id
+def strip_locale(app_id):
+    if not app_id.startswith('com.endlessm.'):
+        return None
+    if app_id[len(app_id) - 3] == '.':
+        return app_id[0 : len(app_id) - 3]
+    if app_id[len(app_id) - 3] == '_' and app_id[len(app_id) - 6] == '.':
+        return app_id[0 : len(app_id) - 6]
+    return None
+
 if __name__ == '__main__':
 
     from argparse import ArgumentParser
@@ -240,6 +251,10 @@ if __name__ == '__main__':
             raise ValueError('No category for App ID %s' % app_id)
         categories = app_data['category'] + ';'
         extra_categories = EXTRA_CATEGORIES.get(app_id, [])
+        if not extra_categories:
+            generic_id = strip_locale(app_id)
+            if generic_id:
+                extra_categories = EXTRA_CATEGORIES.get(generic_id, [])
         for extra_category in extra_categories:
             categories += extra_category + ';'
         app_data['category'] = categories
