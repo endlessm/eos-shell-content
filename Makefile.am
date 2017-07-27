@@ -15,6 +15,7 @@ install-data-local:
 	cp -r $(srcdir)/bundle $(DESTDIR)$(pkgdatadir)
 	chmod -R +w $(DESTDIR)$(pkgdatadir)/bundle
 	cp -r $(srcdir)/acknowledgements $(DESTDIR)$(datadir)/eos-acknowledgements
+	chmod -R +w $(DESTDIR)$(datadir)/eos-acknowledgements
 
 uninstall-local:
 	rm -rf $(DESTDIR)$(pkgdatadir)/bundle

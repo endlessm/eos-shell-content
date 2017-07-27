@@ -17,6 +17,11 @@ extract_content_strings_LDADD = \
 	$(EOS_SHELL_CONTENT_LIBS) \
 	$(NULL)
 
+# extract-content-strings needs to be run during dist but not actually
+# distributed. This allows "make dist" to succeed without previously
+# running "make".
+dist-hook: extract-content-strings$(EXEEXT)
+
 dist_bin_SCRIPTS = \
 	eos-content-merge \
 	dh_eoscontent \

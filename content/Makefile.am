@@ -2,6 +2,7 @@ NULL =
 EXTRA_DIST =
 CLEANFILES =
 DISTCLEANFILES =
+MAINTAINERCLEANFILES =
 
 default_app_json = \
 	Default/apps/content.json \
@@ -26,17 +27,18 @@ default_links_images := $(shell cd $(srcdir); for file in `find Default/links/im
 
 EXTRA_DIST += $(default_links_images)
 
-# we need to generate the json.h header because gettext does not know how
-# to extract strings from custom JSON.
+# we need to generate the json.h header because gettext does not know
+# how to extract strings from custom JSON. Generate them in the source
+# directory since the po rules expect to find POTFILES there.
 content_files = $(default_app_json) $(default_links_json) $(default_folders_json)
 content_headers = $(content_files:.json=.json.h)
-%.json.h: %.json $(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT)
-	$(AM_V_GEN) $(MKDIR_P) $(@D) && \
-	$(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT) $< $@
+%.json.h: %.json
+	$(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT) $< $(srcdir)/$@
 
-all-local: $(content_headers)
-
-CLEANFILES += $(content_headers)
+# Distribute the json.h files so they don't need to be regenerated at
+# build time
+EXTRA_DIST += $(content_headers)
+MAINTAINERCLEANFILES += $(content_headers)
 
 eos-app-store-link-content.gresource.xml: Makefile $(default_links_json) $(default_links_images)
 	$(AM_V_GEN) ( echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" ; \
