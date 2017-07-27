@@ -19,6 +19,7 @@
     "com.endlessm.detik.id.desktop",
     "com.endlessm.hipwee.id.desktop",
     "eos-folder-media.directory",
+    "eos-folder-curiosity.directory",
     "eos-folder-games.directory",
     "eos-folder-social.directory",
     "net.minetest.Minetest.desktop",
@@ -31,6 +32,17 @@
     "org.tuxpaint.Tuxpaint.desktop",
     "net.sourceforge.Audacity.desktop",
     "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.celebrities.id.desktop",
+    "com.endlessm.astronomy.id.desktop",
+    "com.endlessm.biology.id.desktop",
+    "com.endlessm.geography.id.desktop",
+    "com.endlessm.physics.id.desktop",
+    "com.endlessm.soccer.id.desktop",
+    "com.endlessm.socialsciences.id.desktop",
+    "com.endlessm.translation.desktop",
+    "eos-link-duolingo.desktop"
   ],
   "eos-folder-games.directory" : [
     "net.sourceforge.Supertuxkart.desktop",
