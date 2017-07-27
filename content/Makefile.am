@@ -32,7 +32,7 @@ EXTRA_DIST += $(default_links_images)
 # directory since the po rules expect to find POTFILES there.
 content_files = $(default_app_json) $(default_links_json) $(default_folders_json)
 content_headers = $(content_files:.json=.json.h)
-%.json.h: %.json $(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT)
+%.json.h: %.json
 	$(top_builddir)/tools/extract-content-strings$(BUILD_EXEEXT) $< $(srcdir)/$@
 
 # Distribute the json.h files so they don't need to be regenerated at
