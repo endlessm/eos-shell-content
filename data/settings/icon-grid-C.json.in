@@ -6,6 +6,7 @@
     "libreoffice-calc.desktop",
     "libreoffice-impress.desktop",
     "com.endlessm.encyclopedia.en.desktop",
+    "eos-vlc.desktop",
     "eos-link-facebook.desktop",
     "eos-link-whatsapp.desktop",
     "eos-link-youtube.desktop",
@@ -20,6 +21,7 @@
   "eos-folder-media.directory" : [
     "com.endlessm.photos.desktop",
     "shotwell.desktop",
+    "eos-spotify.desktop",
     "org.gnome.Totem.desktop",
     "org.tuxpaint.Tuxpaint.desktop",
     "net.sourceforge.Audacity.desktop",
@@ -55,6 +57,7 @@
   "eos-folder-social.directory" : [
     "eos-link-twitter.desktop",
     "evolution.desktop",
+    "eos-skype.desktop",
     "eos-link-gmail.desktop"
   ]
 }
