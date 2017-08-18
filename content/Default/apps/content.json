@@ -3282,6 +3282,30 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.ingles_con_rodrigo.es",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.ingles_con_rodrigo.es-splash.jpg",
+    "description": "Este programa ayudar\u00e1 a principiantes a aprender ingl\u00e9s. Rodrigo te ayudar\u00e1 a aprender aunque nunca hayas visto ninguna palabra de ingl\u00e9s en tu vida. \u00a1Pr\u00e1ctica el alfabeto, la pronunciaci\u00f3n, la gram\u00e1tica, el vocabulario, y m\u00e1s!",
+    "displayShape": "b1",
+    "exec": "com.endlessm.ingles_con_rodrigo",
+    "featured_img": "",
+    "icon": "com.endlessm.ingles_con_rodrigo.es-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": [],
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.ingles_con_rodrigo.es-thumb.jpg",
+    "subtitle": "Aprenda Ingl\u00e9s f\u00e1cilmente con Rodrigo.",
+    "title": "Ingl\u00e9s con Rodrigo",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.inquirer.en",
     "category": "Reference;",
     "core": false,
@@ -5415,6 +5439,32 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.vroom.en",
+    "category": "Reference;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.vroom.en-splash.jpg",
+    "description": "Vroom",
+    "displayShape": "b1",
+    "exec": "com.endlessm.vroom",
+    "featured_img": "",
+    "icon": "com.endlessm.vroom.en-icon.png",
+    "is_featured": false,
+    "is_offline": true,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": []
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.vroom.en-thumb.jpg",
+    "subtitle": "Vroom",
+    "title": "Vroom",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.vtv.vi",
     "category": "Reference;",
     "core": false,
@@ -5503,7 +5553,7 @@
     "category": "Reference;",
     "core": false,
     "custom-splash-screen": "com.endlessm.wiki_art.en-splash.jpg",
-    "description": "The Visual Arts Encyclopedia, by the Wiki-Art project, includes the greatest visual artists of all times together with their most famous works of art. The original works of art are in museums, universities, town halls, and other civic buildings around the world, and most are not available for the public to view -- so this app will give you special access!",
+    "description": "The Visual Arts Encyclopedia, by the Wiki-Art project, includes the greatest visual artists of all time together with their most famous works of art. The original works of art are in museums, universities, town halls, and other civic buildings around the world, and most are not available for the public to view -- so this app will give you special access!",
     "displayShape": "b1",
     "exec": "com.endlessm.wiki_art",
     "featured_img": "",
