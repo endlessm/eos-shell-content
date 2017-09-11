@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=สัตว์
+Comment=เรียนรู้เรื่องสัตว์โลกทุกชนิด
+Type=Application
+Exec=eos-animals
+TryExec=eos-animals
+Icon=eos-app-com.endlessm.animals.th
+Categories=Education;Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.animals.th-splash.jpg
