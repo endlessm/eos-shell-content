@@ -149,13 +149,13 @@ if __name__ == '__main__':
     # For now, we need to convert specific locales to personalities,
     # including duplication of en-us as both default and Global,
     # until the CMS is reworked
-    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN', 'ar', 'bn']
-    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China', 'Arabic', 'Bengali']
+    locales = ['en-us', 'en-us', 'es-gt', 'pt-br', 'zh_CN', 'ar', 'bn', 'id', 'th', 'vi']
+    personalities = ['default', 'Global', 'Guatemala', 'Brazil', 'China', 'Arabic', 'Bengali', 'Indonesia', 'Thailand', 'Vietnam']
 
     # For now, we also need to convert specific locales to general languages
     # (with 'C' as the fallback for English) and personalities,
     # until the CMS is reworked
-    languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar', 'bn']
+    languages = [None, 'C', 'es', 'pt', 'zh_CN', 'ar', 'bn', 'id', 'th', 'vi']
 
     # Copy the thumbnail images to the content folder
     # with tweaked compression
