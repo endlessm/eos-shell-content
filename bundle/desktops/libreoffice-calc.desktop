@@ -32,4 +32,4 @@ Type=Application
 Exec=libreoffice --calc %U
 Icon=eos-app-libreoffice-calc
 Categories=Office;
-X-Endless-LaunchMaximized=true
+X-Endless-LaunchMaximized=false

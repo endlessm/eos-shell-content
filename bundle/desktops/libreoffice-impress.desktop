@@ -32,4 +32,4 @@ Type=Application
 Exec=libreoffice --impress %U
 Icon=eos-app-libreoffice-impress
 Categories=Office;
-X-Endless-LaunchMaximized=true
+X-Endless-LaunchMaximized=false

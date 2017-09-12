@@ -32,4 +32,4 @@ Type=Application
 Exec=libreoffice --writer %U
 Icon=eos-app-libreoffice-writer
 Categories=Office;
-X-Endless-LaunchMaximized=true
+X-Endless-LaunchMaximized=false
