@@ -138,7 +138,7 @@ class LinkObject(DesktopObject):
         # If this link is white-listed as a web app,
         # include the appropriate command
         if self.get('Id') in self._web_apps:
-            webapp_prefix = 'webapp://' +  self._get_startup_wmclass() + '@'
+            webapp_prefix = 'webapp:' +  self._get_startup_wmclass() + '@'
         else:
             webapp_prefix = ''
 
