@@ -145,17 +145,17 @@ class LinkObject(DesktopObject):
         # If there's only one URL for this link,
         # just return an exec which opens that url in the browser.
         if len(self._url_locales) == 0:
-            return 'gvfs-open ' + webapp_prefix + self._default_url
+            return 'gio open ' + webapp_prefix + self._default_url
 
         # Otherwise, send each url with its respective locale 
         # to eos-exec-localized.
         exec_str = 'eos-exec-localized '
-        exec_str += '\'gvfs-open ' + webapp_prefix + self._default_url + '\' '
+        exec_str += '\'gio open ' + webapp_prefix + self._default_url + '\' '
 
         # Process locales in the same order they were appended
         for locale in self._url_locales:
             url = self._localized_urls[locale]
-            exec_str += locale + ':\'gvfs-open ' + webapp_prefix + url + '\' '
+            exec_str += locale + ':\'gio open ' + webapp_prefix + url + '\' '
 
         return exec_str
 
