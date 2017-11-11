@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Hartono <hartono.s10@gmail.com>, 2016-2017
+# Kukuh Syafaat <syafaatkukuh@gmail.com>, 2017
 # Roddy Shuler <roddy@endlessm.com>, 2017
 # Septira Taruna <septira@endlessm.com>, 2017
 msgid ""
@@ -11,8 +12,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2017-06-23 14:51-0700\n"
-"PO-Revision-Date: 2017-08-03 16:22+0000\n"
-"Last-Translator: Septira Taruna <septira@endlessm.com>\n"
+"PO-Revision-Date: 2017-11-09 09:40+0000\n"
+"Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/eos-shell-content/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgstr "Brasero"
 #: content/Default/apps/content.json.h:5
 msgctxt "subtitle"
 msgid "Burn your own CDs and DVDs"
-msgstr "Burn CD dan DVD Anda sendiri"
+msgstr "Bakar CD dan DVD Anda sendiri"
 
 #: content/Default/apps/content.json.h:6
 msgctxt "description"
@@ -36,7 +37,7 @@ msgid ""
 "Making your own CDs or DVDs has never been easier! This app lets you burn, "
 "copy, and erase CDs and DVDs so you can make your own audio and video "
 "masterpieces, or just transfer the files and data you need!"
-msgstr "Membuat CD atau DVD Anda sendiri dengan cara yang sangat mudah! Aplikasi ini memungkinkan Anda melakukan burn, menyalin, dan menghapus CD dan DVD sehingga Anda dapat menciptakan karya audio dan video Anda sendiri, atau sekadar mentransfer file dan data yang Anda butuhkan!"
+msgstr "Membuat CD atau DVD Anda sendiri dengan cara yang sangat mudah! Aplikasi ini memungkinkan Anda membakar, menyalin, dan menghapus CD dan DVD sehingga Anda dapat menciptakan karya audio dan video Anda sendiri, atau sekadar mentransfer berkas dan data yang Anda butuhkan!"
 
 #: content/Default/apps/content.json.h:7
 msgctxt "title"
@@ -86,7 +87,7 @@ msgstr "Dropbox"
 #: content/Default/apps/content.json.h:14
 msgctxt "subtitle"
 msgid "Access your files from any computer"
-msgstr "Mengakses file dari komputer mana saja"
+msgstr "Mengakses berkas dari komputer mana saja"
 
 #: content/Default/apps/content.json.h:15
 msgctxt "description"
@@ -98,7 +99,7 @@ msgid ""
 "share photos or collaborate on a project by sharing a Dropbox folder with "
 "whomever you’d like. Create a free account and start saving and sharing "
 "today!  ** Requires internet"
-msgstr "Perlu menyimpan dengan aman seluruh dokumen, foto, lagu, dan file penting Anda? Mudah! Dengan aplikasi ini Anda dapat menggunakan internet untuk menyimpan segala hal yang penting bagi Anda. Selanjutnya, Anda dapat mengakses file-file itu dari komputer manapun yang memiliki sambungan internet. Gunakan layanan ini untuk membuat cadangan file-file Anda, berbagi foto, atau berkolaborasi dalam proyek dengan cara berbagi folder Dropbox bersama siapapun yang Anda inginkan. Buatlah akun gratis dan mulailah menyimpan dan berbagi hari ini juga!  **Memerlukan koneksi Internet"
+msgstr "Perlu menyimpan dengan aman seluruh dokumen, foto, lagu, dan berkas penting Anda? Mudah! Dengan aplikasi ini Anda dapat menggunakan internet untuk menyimpan segala hal yang penting bagi Anda. Selanjutnya, Anda dapat mengakses berkas-berkas itu dari komputer manapun yang memiliki sambungan internet. Gunakan layanan ini untuk membuat cadangan berkas-berkas Anda, berbagi foto, atau berkolaborasi dalam proyek dengan cara berbagi folder Dropbox bersama siapapun yang Anda inginkan. Buatlah akun gratis dan mulailah menyimpan dan berbagi hari ini juga!  **Memerlukan koneksi Internet"
 
 #: content/Default/apps/content.json.h:16
 msgctxt "title"
@@ -119,7 +120,7 @@ msgid ""
 "Use this app to research things for school, find out about world events, and"
 " much, much more. You’ll learn more than you ever thought possible with "
 "access to the Internet's greatest informational resource - and all for free!"
-msgstr "Anda bisa mengakses ensiklopedia terbesar di dunia baik secara online atau offline - Wikipedia. Aplikasi ini merupakan sumber informasi tak ternilai bagi siswa, guru, dan semua orang yang ingin mempelajari lebih jauh tentang dunia di sekitar mereka. Gunakan aplikasi ini untuk melakukan penelitian hal-hal untuk tugas sekolah, belajar tentang peristiwa di dunia, dan masih banyak lagi. Anda akan mempelajari lebih dari yang mungkin pernah dibayangkan serta akses ke sumber informasi terbaik di Internet - dan semuanya gratis!"
+msgstr "Anda bisa mengakses ensiklopedia terbesar di dunia baik secara daring atau luring - Wikipedia. Aplikasi ini merupakan sumber informasi tak ternilai bagi siswa, guru, dan semua orang yang ingin mempelajari lebih jauh tentang dunia di sekitar mereka. Gunakan aplikasi ini untuk melakukan penelitian hal-hal untuk tugas sekolah, belajar tentang peristiwa di dunia, dan masih banyak lagi. Anda akan mempelajari lebih dari yang mungkin pernah dibayangkan serta akses ke sumber informasi terbaik di Internet - dan semuanya gratis!"
 
 #: content/Default/apps/content.json.h:19
 msgctxt "title"
@@ -145,12 +146,12 @@ msgstr "Melacak keuangan Anda atau keluarga Anda dapat menjadi hal yang menantan
 #: content/Default/apps/content.json.h:22
 msgctxt "title"
 msgid "Photo Editor"
-msgstr "Editor Foto"
+msgstr "Penyunting Foto"
 
 #: content/Default/apps/content.json.h:23
 msgctxt "subtitle"
 msgid "Easily edit and share all of your favorite photos"
-msgstr "Mengedit dan membagikan semua foto favorit Anda secara mudah"
+msgstr "Menyunting dan membagikan semua foto favorit Anda secara mudah"
 
 #: content/Default/apps/content.json.h:24
 msgctxt "description"
@@ -161,17 +162,17 @@ msgid ""
 " you can customize your photos and create one-of-a-kind works of art from "
 "your everyday life. With this handy app, you can post your creations "
 "directly to Facebook, so everyone can see your awesome pictures!"
-msgstr "Pernahkah Anda ingin dapat mengedit foto-foto Anda layaknya seorang profesional dan menciptakan gambar-gambar indah yang bisa Anda bagikan dengan orang-orang yang Anda kasihi? Sekarang Anda bisa melakukannya hanya dalam beberapa langkah! Kami menyediakan bermacam-macam filter yang indah dan berseni agar Anda dapat mengedit foto Anda dan menciptakan sebuah karya seni yang memukau dari kehidupan sehari-hari Anda. Dengan aplikasi yang berguna ini, Anda dapat mengirimkan hasil kreasi Anda langsung ke Facebook agar semua orang bisa melihat gambar-gambar Anda yang mengagumkan!"
+msgstr "Pernahkah Anda ingin dapat menyunting foto-foto Anda layaknya seorang profesional dan menciptakan gambar-gambar indah yang bisa Anda bagikan dengan orang-orang yang Anda kasihi? Sekarang Anda bisa melakukannya hanya dalam beberapa langkah! Kami menyediakan bermacam-macam filter yang indah dan berseni agar Anda dapat menyunting foto Anda dan menciptakan sebuah karya seni yang memukau dari kehidupan sehari-hari Anda. Dengan aplikasi yang berguna ini, Anda dapat mengirimkan hasil kreasi Anda langsung ke Facebook agar semua orang bisa melihat gambar-gambar Anda yang mengagumkan!"
 
 #: content/Default/apps/content.json.h:25
 msgctxt "title"
 msgid "Coding Fun"
-msgstr "Coding Fun"
+msgstr "Koding yang Menyenangkan"
 
 #: content/Default/apps/content.json.h:26
 msgctxt "subtitle"
 msgid "Learn to create your own video games"
-msgstr "Pelajari cara membuat video game Anda sendiri"
+msgstr "Pelajari cara membuat permainan Anda sendiri"
 
 #: content/Default/apps/content.json.h:27
 msgctxt "description"
@@ -183,7 +184,7 @@ msgid ""
 "more and more about how to code. You'll soon find out that learning how to "
 "program allows you not only to change the world inside your games, but also "
 "your very own!"
-msgstr "Apakah Anda suka bermain video game? Kalau begitu, mengapa tidak membuat video game Anda sendiri? Pelajari kemampuan programming dan coding yang berharga dengan aplikasi seru ini yang memungkinkan Anda untuk mengubah aturan main dalam video game dan menjadikannya ciptaan Anda sendiri! Lihat yang terjadi saat Anda mengubah kode dan maju melewati level demi level untuk terus belajar lebih banyak tentang kode. Anda akan segera mendapati bahwa dengan progamming Anda tidak hanya dapat mengubah dunia di dalam game Anda, tetapi juga dunia Anda sendiri!"
+msgstr "Apakah Anda suka bermain permainan? Kalau begitu, mengapa tidak membuat permainan Anda sendiri? Pelajari kemampuan memprogram dan koding yang berharga dengan aplikasi seru ini yang memungkinkan Anda untuk mengubah aturan main dalam permainan dan menjadikannya ciptaan Anda sendiri! Lihat yang terjadi saat Anda mengubah kode dan maju melewati level demi level untuk terus belajar lebih banyak tentang kode. Anda akan segera mendapati bahwa dengan memprogram Anda tidak hanya dapat mengubah dunia di dalam permainan Anda, tetapi juga dunia Anda sendiri!"
 
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
@@ -236,7 +237,7 @@ msgstr "Ketapel"
 #: content/Default/apps/content.json.h:35
 msgctxt "subtitle"
 msgid "A shooting strategy game set in space"
-msgstr "Game strategi tembak-menembak di luar angkasa"
+msgstr "Permainan strategi tembak-menembak di luar angkasa"
 
 #: content/Default/apps/content.json.h:36
 msgctxt "description"
@@ -255,7 +256,7 @@ msgstr "Google Chrome"
 #: content/Default/apps/content.json.h:38
 msgctxt "subtitle"
 msgid "Google's popular web browser"
-msgstr "Penjelajah web populer dari Google"
+msgstr "Peramban web populer dari Google"
 
 #: content/Default/apps/content.json.h:39
 msgctxt "description"
@@ -264,7 +265,7 @@ msgid ""
 "trouble watching videos online with other browsers, try Google Chrome since "
 "it has built-in support for the most common video-streaming service "
 "websites. ** Requires internet"
-msgstr "Google Chrome adalah salah satu penjelajah web paling populer di dunia. Jika Anda memiliki masalah ketika menyaksikan video online menggunakan peramban lain, cobalah Google Chrome karena penjelajah web ini memiliki dukungan terpadu untuk berbagai layanan video streaming yang paling umum. **Membutuhkan koneksi internet"
+msgstr "Google Chrome adalah salah satu peramban web paling populer di dunia. Jika Anda memiliki masalah ketika menyaksikan video daring menggunakan peramban lain, cobalah Google Chrome karena peramban web ini memiliki dukungan terpadu untuk berbagai layanan video streaming yang paling umum. **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:40
 msgctxt "title"
@@ -293,7 +294,7 @@ msgstr "Minecraft"
 #: content/Default/apps/content.json.h:44
 msgctxt "subtitle"
 msgid "Create your own world in one of the most popular video games"
-msgstr "Ciptakan duniamu sendiri di salah satu video game paling populer ini."
+msgstr "Ciptakan duniamu sendiri di salah satu permainan paling populer ini."
 
 #: content/Default/apps/content.json.h:45
 msgctxt "description"
@@ -305,7 +306,7 @@ msgid ""
 " For the best experience, we recommend you create an account and purchase "
 "online at https://minecraft.net/en-us/store/ before installing this app. ** "
 "Requires internet."
-msgstr "Bergabung dengan orang lain di dunia yang juga memainkan Minecraft, salah satu game yang paling populer di dunia. Anda bisa membangun dunia sendiri di game seru ini, satu-satunya batasan adalah imajinasi Anda. Bermain bersama dengan teman, atau sendiri, dimana Anda bisa berpetualang, mengumpulkan, membangun, dan bertarung di tanah ciptaan Anda sendiri. Untuk pengalaman yang paling optimal, sebelum mengunduh game ini, kami sarankan Anda membuat akun dan membeli game ini di https://minecraft.net/en-us/store/. **Membutuhkan koneksi internet"
+msgstr "Bergabung dengan orang lain di dunia yang juga memainkan Minecraft, salah satu permainan yang paling populer di dunia. Anda bisa membangun dunia sendiri di game seru ini, satu-satunya batasan adalah imajinasi Anda. Bermain bersama dengan teman, atau sendiri, dimana Anda bisa berpetualang, mengumpulkan, membangun, dan bertarung di tanah ciptaan Anda sendiri. Untuk pengalaman yang paling optimal, sebelum mengunduh game ini, kami sarankan Anda membuat akun dan membeli permainan ini di https://minecraft.net/en-us/store/. **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
@@ -326,7 +327,7 @@ msgid ""
 "conversations, and people, so it's easy to stay organized. Integration with "
 "several third-party services allows use of their features directly within "
 "your Slack discussions. ** Requires Internet"
-msgstr "Slack menyediakan fungsi ruang obrolan berdasarkan topik, grup tertutup, dan mengirim pesan langsung supaya tim Anda bisa berkomunikasi dan berkolaborasi lebih baik dalam menyelesaikan pekerjaan. Semua yang terdapat di dalam Slack dapat dicari, termasuk file, percakapan, dan anggota. Integrasi dengan beberapa layanan tambahan dari pihak ketiga membuat Slack Anda menjadi lebih hebat."
+msgstr "Slack menyediakan fungsi ruang obrolan berdasarkan topik, grup tertutup, dan mengirim pesan langsung supaya tim Anda bisa berkomunikasi dan berkolaborasi lebih baik dalam menyelesaikan pekerjaan. Semua yang terdapat di dalam Slack dapat dicari, termasuk berkas, percakapan, dan anggota. Integrasi dengan beberapa layanan tambahan dari pihak ketiga membuat Slack Anda menjadi lebih hebat."
 
 #: content/Default/apps/content.json.h:49
 msgctxt "title"
@@ -348,7 +349,7 @@ msgid ""
 "listening to, and then save the songs to your own playlists. Spotify is the "
 "best way to have access to millions of songs, and all the latest hits.  "
 "**Requires internet"
-msgstr "Akses seluruh musik favorit Anda, termukan lagu-lagu baru, dan bagi musik online bersama teman-teman, semua di satu tempat. Buat daftar putar bersama atau berbagi lagu dengan teman-teman Facebook Anda dengan satu klik. Ikuti artis atau teman favorit untuk mengetahui apa yang mereka dengarkan dan simpan lagu-lagu tersebut ke daftar putar Anda. Spotify adalah cara terbaik untuk mengakses jutaan lagu dan semua hit terkini.  **Membutuhkan koneksi internet"
+msgstr "Akses seluruh musik favorit Anda, termukan lagu-lagu baru, dan bagi musik daring bersama teman-teman, semua di satu tempat. Buat daftar putar bersama atau berbagi lagu dengan teman-teman Facebook Anda dengan satu klik. Ikuti artis atau teman favorit untuk mengetahui apa yang mereka dengarkan dan simpan lagu-lagu tersebut ke daftar putar Anda. Spotify adalah cara terbaik untuk mengakses jutaan lagu dan semua hit terkini.  **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
@@ -358,7 +359,7 @@ msgstr "Sublime Text"
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "A sophisticated text editor for code, markup, and prose"
-msgstr "Text editor canggih untuk coding, markup, dan prosa"
+msgstr "Penyunting teks canggih untuk koding, markup, dan prosa"
 
 #: content/Default/apps/content.json.h:54
 msgctxt "description"
@@ -401,7 +402,7 @@ msgstr "Steam"
 #: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Online store with popular video games"
-msgstr "Toko online untuk video game populer"
+msgstr "Toko daring untuk permainan populer"
 
 #: content/Default/apps/content.json.h:60
 msgctxt "description"
@@ -416,7 +417,7 @@ msgid ""
 "Service, as well as their refund policy. Endless is a separate corporate "
 "entity from Valve Corporation, and cannot refund games or be held "
 "accountable for purchases made on the Steam platform. ** Requires internet"
-msgstr "Bila Anda suka bermain game, Anda akan suka menjelajahi toko online Steam dari Valve! Banyak game membutuhkan pembelian online, tetapi beberapa game popular seperti Team Fortress 2 bisa dimainkan secara gratis. Ketika mencari di dalam toko online, persempit hasilnya menurut sistem operasi Linux/SteamOS. Tidak semua game linux kompatibel dengan Endless, jadi periksalah persyaratan sebelum membeli game apapun. Jika Anda memutuskan membeli game, Anda harus menyetujui kebijakan Steam, termasuk kebijakan pengembalian dana mereka. Endless bersifat terpisah dari Steam dan tidak bisa mengembalikan uang game yang Anda beli, atau bertanggung jawab untuk setiap pembelian melalui Steam. **Membutuhkan koneksi internet."
+msgstr "Bila Anda suka bermain permainan, Anda akan suka menjelajahi toko daring Steam dari Valve! Banyak permainan membutuhkan pembelian daring, tetapi beberapa permainan popular seperti Team Fortress 2 bisa dimainkan secara gratis. Ketika mencari di dalam toko daring, persempit hasilnya menurut sistem operasi Linux/SteamOS. Tidak semua permainan linux kompatibel dengan Endless, jadi periksalah persyaratan sebelum membeli permainan apapun. Jika Anda memutuskan membeli permainan, Anda harus menyetujui kebijakan Steam, termasuk kebijakan pengembalian dana mereka. Endless bersifat terpisah dari Steam dan tidak bisa mengembalikan uang permainan yang Anda beli, atau bertanggung jawab untuk setiap pembelian melalui Steam. **Membutuhkan koneksi internet."
 
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
@@ -426,7 +427,7 @@ msgstr "Biliar"
 #: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
-msgstr "Game biliar 3D seru"
+msgstr "Permainan biliar 3D seru"
 
 #: content/Default/apps/content.json.h:63
 msgctxt "description"
@@ -441,12 +442,12 @@ msgstr "Apakah Anda suka bermain biliar, atau pernah ingin belajar cara memainka
 #: content/Default/apps/content.json.h:64
 msgctxt "title"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "Surel"
 
 #: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
 msgid "Your e-mail, address book and calendar in one place"
-msgstr "Email, buku alamat, dan kalender di satu tempat"
+msgstr "Surel, buku alamat, dan kalender di satu tempat"
 
 #: content/Default/apps/content.json.h:66
 msgctxt "description"
@@ -457,7 +458,7 @@ msgid ""
 "vocabulary, or news, and even handle important matters – all via email. When"
 " you need to check your email quickly and simply, this app is there for you."
 "  **Requires internet"
-msgstr "Menjalin hubungan adalah bagian yang penting dari kehidupan modern, dan email telah menjadi salah satu cara terbaik untuk melakukannya. Anda pasti menerima email dari teman-teman atau keluarga, baik jauh atau dekat, mengakses email tentang cerita humor harian, kosakata baru, berita, bahkan hal-hal penting. Semua ini dilakukan dari email. Untuk cara cepat dan simpel untuk memeriksa email, gunakan aplikasi ini.  **Membutuhkan koneksi internet"
+msgstr "Menjalin hubungan adalah bagian yang penting dari kehidupan modern, dan surel telah menjadi salah satu cara terbaik untuk melakukannya. Anda pasti menerima surel dari teman-teman atau keluarga, baik jauh atau dekat, mengakses surel tentang cerita humor harian, kosakata baru, berita, bahkan hal-hal penting. Semua ini dilakukan dari surel. Untuk cara cepat dan simpel untuk memeriksa surel, gunakan aplikasi ini.  **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:67
 msgctxt "title"
@@ -499,7 +500,7 @@ msgid ""
 "background image, change the brightness of your screen if it's getting late,"
 " or if you want to do something like add a new printer, it'll be easier than"
 " ever with this cool shortcut!"
-msgstr "Jika Anda ingin selalu mengubah pengaturan komputer Anda, sekarang Anda bisa melakukannya dengan satu klik! Baik untuk mengubah gambar latar desktop, mengubah kecerahan layar jika sudah malam, atau ingin melakukan sesuatu seperti menambahkan printer baru, semua itu akan menjadi lebih mudah dari sebelumnya dengan pengaturan ini!"
+msgstr "Jika Anda ingin selalu mengubah pengaturan komputer Anda, sekarang Anda bisa melakukannya dengan satu klik! Baik untuk mengubah gambar latar destop, mengubah kecerahan layar jika sudah malam, atau ingin melakukan sesuatu seperti menambahkan pencetak baru, semua itu akan menjadi lebih mudah dari sebelumnya dengan pengaturan ini!"
 
 #: content/Default/apps/content.json.h:73
 msgctxt "title"
@@ -539,7 +540,7 @@ msgid ""
 "calculations. Spreadsheets are used in many careers throughout the world, so"
 " getting the hang of this app can also help you gain valuable skills for the"
 " job market."
-msgstr "Apa pun yang Anda perlukan untuk melacak, aplikasi lembar lajur dapat membantu Anda melakukannya. Lembar lajur yang canggih dan mudah digunakan ini memiliki sesuatu untuk semua orang: layout sederhana yang mudah dipahami, ditambah kemampuan untuk melakukan penghitungan yang rumit. Lembar Lajur digunakan dalam banyak karier di seluruh dunia, sehingga kemampuan menggunakan aplikasi ini juga dapat membantu Anda memperoleh keterampilan yang berharga untuk mencari pekerjaan."
+msgstr "Apa pun yang Anda perlukan untuk melacak, aplikasi lembar lajur dapat membantu Anda melakukannya. Lembar lajur yang canggih dan mudah digunakan ini memiliki sesuatu untuk semua orang: tata letak sederhana yang mudah dipahami, ditambah kemampuan untuk melakukan penghitungan yang rumit. Lembar Lajur digunakan dalam banyak karier di seluruh dunia, sehingga kemampuan menggunakan aplikasi ini juga dapat membantu Anda memperoleh keterampilan yang berharga untuk mencari pekerjaan."
 
 #: content/Default/apps/content.json.h:79
 msgctxt "title"
@@ -582,7 +583,7 @@ msgid ""
 "professional enough to present to employers, teachers, or other important "
 "people. Use this app to compose your next masterpiece or to take great "
 "notes; either way, you’ll have simple yet powerful tools available."
-msgstr "Aplikasi ini akan memberikan kepada Anda semua fitur terbaik aplikasi pengolah kata dan kompatibel dengan Microsoft Office. Buat dan edit dokumen dengan mudah, buat catatan singkat dan tulisan yang lebih panjang dengan penjelasan dan diagram. Semua itu mungkin dilakukan dengan aplikasi ini. Dokumen Anda akan terlihat profesional untuk diperlihatkan ke atasan, guru, atau orang-orang penting lainnya. Gunakan aplikasi ini untuk menyusun karya tulisan Anda berikutnya atau mencatat hal-hal penting; apa pun keperluannya, Anda akan memiliki alat yang sederhana namun andal."
+msgstr "Aplikasi ini akan memberikan kepada Anda semua fitur terbaik aplikasi pengolah kata dan kompatibel dengan Microsoft Office. Buat dan sunting dokumen dengan mudah, buat catatan singkat dan tulisan yang lebih panjang dengan penjelasan dan diagram. Semua itu mungkin dilakukan dengan aplikasi ini. Dokumen Anda akan terlihat profesional untuk diperlihatkan ke atasan, guru, atau orang-orang penting lainnya. Gunakan aplikasi ini untuk menyusun karya tulisan Anda berikutnya atau mencatat hal-hal penting; apa pun keperluannya, Anda akan memiliki alat yang sederhana namun andal."
 
 #: content/Default/apps/content.json.h:85
 msgctxt "title"
@@ -592,7 +593,7 @@ msgstr "BlockOut 2"
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
 msgid "3D Tetris-style game"
-msgstr "Game ala Tetris 3D"
+msgstr "Permainan ala Tetris 3D"
 
 #: content/Default/apps/content.json.h:87
 msgctxt "description"
@@ -602,17 +603,17 @@ msgid ""
 "blocks together and create whole layers of blocks to get points, all before "
 "the blocks stack up too high and you lose! It’s great for the brain, and "
 "tons of fun."
-msgstr "Suka dengan game puzzle? Pasti Anda akan suka BlockOut 2. Game Tetris 3D ini serba cepat dan seru! Cari cara untuk menumpuk balok-balok yang berbeda bentuk dan membuat lapisan blok untuk mendapatkan poin. Lakukan sebelum lapisan balok menjadi terlalu tinggi sehingga Anda kalah! Game seru ini cocok sebagai sarana melatih otak."
+msgstr "Suka dengan permainan puzzle? Pasti Anda akan suka BlockOut 2. Game Tetris 3D ini serba cepat dan seru! Cari cara untuk menumpuk balok-balok yang berbeda bentuk dan membuat lapisan blok untuk mendapatkan poin. Lakukan sebelum lapisan balok menjadi terlalu tinggi sehingga Anda kalah! Permainan seru ini cocok sebagai sarana melatih otak."
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
 msgid "EduGames"
-msgstr "EduGames"
+msgstr "Permainan Edukasi"
 
 #: content/Default/apps/content.json.h:89
 msgctxt "subtitle"
 msgid "Puzzles, memory games, and more for kids"
-msgstr "Puzzle, game memori, dan game lainnya untuk anak-anak"
+msgstr "Puzzle, permainan memori, dan permainan lainnya untuk anak-anak"
 
 #: content/Default/apps/content.json.h:90
 msgctxt "description"
@@ -627,7 +628,7 @@ msgstr "Aplikasi ini membuat belajar menyenangkan bagi anak-anak dengan lebih da
 #: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "EduGames Admin"
-msgstr "Admin EduGames"
+msgstr "Admin Permainan Edukasi"
 
 #: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
@@ -643,7 +644,7 @@ msgid ""
 "just the games that you want them to. To begin, download this app and the "
 "EduGames app from the 'Games' section of the app store. They'll have so much"
 " fun that they'll want to spend hours doing just what you want them to!"
-msgstr "Gunakan aplikasi ini untuk mengonfigurasi aplikasi EduGames dan menciptakan pengalaman belajar tepat seperti yang Anda inginkan untuk murid-murid Anda! Anda bisa mengubah daftar aktivitas, atau mengubah kontrol aplikasi agar mereka tetap berfokus hanya pada permainan yang Anda berikan. Untuk memulai, unduh aplikasi ini dan aplikasi EduGames pada kategori 'Permainan' di App Center. Murid-murid Anda akan sangat senang sampai mereka ingin menghabiskan waktu berjam-jam melakukan apa yang Anda ingin mereka lakukan!"
+msgstr "Gunakan aplikasi ini untuk mengonfigurasi aplikasi Permainan Edukasi dan menciptakan pengalaman belajar tepat seperti yang Anda inginkan untuk murid-murid Anda! Anda bisa mengubah daftar aktivitas, atau mengubah kontrol aplikasi agar mereka tetap berfokus hanya pada permainan yang Anda berikan. Untuk memulai, unduh aplikasi ini dan aplikasi Permainan Edukasi pada kategori 'Permainan' di App Center. Murid-murid Anda akan sangat senang sampai mereka ingin menghabiskan waktu berjam-jam melakukan apa yang Anda ingin mereka lakukan!"
 
 #: content/Default/apps/content.json.h:94
 msgctxt "title"
@@ -703,17 +704,17 @@ msgid ""
 "shields and weapons to wipe out the opposition. Win this exciting game and "
 "you'll be a true battle-hardened commander, lose and feel the wrath of your "
 "adversary."
-msgstr "Musnahkan tank lain untuk mendapatkan uang, lalu beli perisai dan senjata yang lebih besar dan lebih baik untuk melenyapkan lawan. Menangkan game menarik ini dan jadilah komandan perang yang terlatih. Bila kalah, Anda harus merasakan murka dari sang musuh."
+msgstr "Musnahkan tank lain untuk mendapatkan uang, lalu beli perisai dan senjata yang lebih besar dan lebih baik untuk melenyapkan lawan. Menangkan permainan menarik ini dan jadilah komandan perang yang terlatih. Bila kalah, Anda harus merasakan murka dari sang musuh."
 
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Audio Editor"
-msgstr "Editor Audio"
+msgstr "Penyunting Audio"
 
 #: content/Default/apps/content.json.h:104
 msgctxt "subtitle"
 msgid "Audio editor for recording, slicing, and mixing audio"
-msgstr "Editor audio untuk merekam, memotong, dan menggabungkan audio"
+msgstr "Penyunting audio untuk merekam, memotong, dan menggabungkan audio"
 
 #: content/Default/apps/content.json.h:105
 msgctxt "description"
@@ -789,7 +790,7 @@ msgstr "FrostWire"
 #: content/Default/apps/content.json.h:116
 msgctxt "subtitle"
 msgid "Download nearly anything or share your own files"
-msgstr "Unduh hampir segala jenis file atau berbagi file Anda sendiri."
+msgstr "Unduh hampir segala jenis berkas atau berbagi berkas Anda sendiri."
 
 #: content/Default/apps/content.json.h:117
 msgctxt "description"
@@ -801,7 +802,7 @@ msgid ""
 "files from millions of users online. This app even includes a built-in video"
 " player so that you can easily view all of the media you download.  "
 "**Requires Internet"
-msgstr "Akses, unduh, dan bagikan hampir semua berkas yang Anda inginkan dengan aplikasi peer to peer online yang berguna ini. Dengan aplikasi ini, Anda dapat membagikan berkas dengan pengguna lainnya yang juga terhubung ke jaringan BitTorrent. Mulai dari musik, video, dan permainan, sampai unduhan yang lebih kompleks seperti perangkat lunak, Anda akan dapat mengakses berkas yang dibagikan oleh jutaan pengguna online. Aplikasi ini juga memiliki pemutar video yang terpasang agar Anda dapat dengan mudah menampilkan semua media yang Anda unduh. **Membutuhkan koneksi internet"
+msgstr "Akses, unduh, dan bagikan hampir semua berkas yang Anda inginkan dengan aplikasi peer to peer daring yang berguna ini. Dengan aplikasi ini, Anda dapat membagikan berkas dengan pengguna lainnya yang juga terhubung ke jaringan BitTorrent. Mulai dari musik, video, dan permainan, sampai unduhan yang lebih kompleks seperti perangkat lunak, Anda akan dapat mengakses berkas yang dibagikan oleh jutaan pengguna daring. Aplikasi ini juga memiliki pemutar video yang terpasang agar Anda dapat dengan mudah menampilkan semua media yang Anda unduh. **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:118
 msgctxt "title"
@@ -999,7 +1000,7 @@ msgid ""
 "to use these technologies well will only grow more important in the future. "
 "Start them off with a great foundation by downloading this app and "
 "encouraging them to play!"
-msgstr "Aplikasi yang menyenangkan ini adalah cara yang bagus untuk anak-anak dan bahkan orang dewasa untuk belajar cara mengetik! Pelajari dasar-dasarnya, atau tingkatkan keterampilan Anda dengan bermain permainan yang mengajarkan Anda bagaimana menggunakan keyboard bahkan tanpa melihatnya. Anak-anak masa kini tumbuh dikelilingi oleh komputer dan perangkat mobile, dan mengetahui cara menggunakan teknologi tersebut dengan baik akan menjadi modal yang penting bagi masa depan. Persiapkan mereka dengan dasar-dasar yang baik dengan mengunduh aplikasi ini dan mendorong mereka untuk bermain sambil belajar!"
+msgstr "Aplikasi yang menyenangkan ini adalah cara yang bagus untuk anak-anak dan bahkan orang dewasa untuk belajar cara mengetik! Pelajari dasar-dasarnya, atau tingkatkan keterampilan Anda dengan bermain permainan yang mengajarkan Anda bagaimana menggunakan keyboard bahkan tanpa melihatnya. Anak-anak masa kini tumbuh dikelilingi oleh komputer dan perangkat bergerak, dan mengetahui cara menggunakan teknologi tersebut dengan baik akan menjadi modal yang penting bagi masa depan. Persiapkan mereka dengan dasar-dasar yang baik dengan mengunduh aplikasi ini dan mendorong mereka untuk bermain sambil belajar!"
 
 #: content/Default/apps/content.json.h:148
 msgctxt "title"
@@ -1070,7 +1071,7 @@ msgstr "GIMP"
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "Advanced image editing tool similar to Photoshop"
-msgstr "Peranti lunak untuk mengedit gambar canggih yang serupa dengan Photoshop"
+msgstr "Peranti lunak untuk menyunting gambar canggih yang serupa dengan Photoshop"
 
 #: content/Default/apps/content.json.h:159
 msgctxt "description"
@@ -1082,7 +1083,7 @@ msgid ""
 " formats of files and apply a variety of retouching and filtering tools to "
 "create works of art. There are so many possibilities for how to create cool "
 "images once you get the hang of this helpful editing app!"
-msgstr "Jadikan foto Anda karya seni yang jauh lebih indah dengan editor foto canggih ini. Kompatibel dengan Adobe Photoshop, yaitu editor foto keluaran Adobe yang populer. Untuk pengguna awam, aplikasi ini dapat berfungsi sebagai program menggambar dasar. Pengguna mahir dapat melakukan banyak hal seperti mengkonversi format file atau memberikan sentuhan ulang dan peralatan filter untuk menciptakan banyak karya seni. Sekali Anda menguasai aplikasi editing ini, akan ada banyak cara untuk membuat gambar-gambar keren!"
+msgstr "Jadikan foto Anda karya seni yang jauh lebih indah dengan penyunting foto canggih ini. Kompatibel dengan Adobe Photoshop, yaitu penyunting foto keluaran Adobe yang populer. Untuk pengguna awam, aplikasi ini dapat berfungsi sebagai program menggambar dasar. Pengguna mahir dapat melakukan banyak hal seperti mengkonversi format berkas atau memberikan sentuhan ulang dan peralatan filter untuk menciptakan banyak karya seni. Sekali Anda menguasai aplikasi penyunting ini, akan ada banyak cara untuk membuat gambar-gambar keren!"
 
 #: content/Default/apps/content.json.h:160
 msgctxt "title"
@@ -1175,7 +1176,7 @@ msgstr "Dokumen"
 #: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Access all of your documents and files"
-msgstr "Akses semua dokumen dan file Anda"
+msgstr "Akses semua dokumen dan berkas Anda"
 
 #: content/Default/apps/content.json.h:174
 msgctxt "description"
@@ -1186,7 +1187,7 @@ msgid ""
 " stay on top of your pictures, videos, and documents. With this app, you can"
 " store everything in one place and you’ll never lose that important file or "
 "special photo again."
-msgstr "Organisasi semua file dan dokumen Anda dengan aplikasi ini, baik file baru maupun lama. Kelola segalanya dengan cara yang mudah diingat, menambah dan mengubah nama folder dengan cara yang akan membantu Anda mengingat lokasi gambar, video, dan dokumen. Simpan semuanya dalam satu tempat dengan aplikasi ini. Anda tak akan akan lagi kehilangan file penting atau foto spesial."
+msgstr "Organisasikan semua berkas dan dokumen Anda dengan aplikasi ini, baik berkas baru maupun lama. Kelola segalanya dengan cara yang mudah diingat, menambah dan mengubah nama folder dengan cara yang akan membantu Anda mengingat lokasi gambar, video, dan dokumen. Simpan semuanya dalam satu tempat dengan aplikasi ini. Anda tak akan akan lagi kehilangan berkas penting atau foto spesial."
 
 #: content/Default/apps/content.json.h:175
 msgctxt "title"
@@ -1196,7 +1197,7 @@ msgstr "Quadrapassel"
 #: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
-msgstr "Game puzzle seperti tetris"
+msgstr "Permainan puzzle seperti tetris"
 
 #: content/Default/apps/content.json.h:177
 msgctxt "description"
@@ -1212,12 +1213,12 @@ msgstr "Anda harus cepat jika ingin memenangkan permainan ini! Ubah bentuk poton
 #: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Screenshot"
-msgstr "Screenshot"
+msgstr "Cuplikan Layar"
 
 #: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
-msgstr "Mengambil screenshot dari layar untuk disimpan"
+msgstr "Mengambil cuplikan layar untuk disimpan"
 
 #: content/Default/apps/content.json.h:180
 msgctxt "description"
@@ -1226,7 +1227,7 @@ msgid ""
 "you can, with this easy-to-use screenshot app. You can choose to take a shot"
 " of your entire screen, or of just one of your windows. That way, you can "
 "make sure to save just what you need and nothing more."
-msgstr "Apakah Anda ingin dapat menyimpan tampilan layar Anda? Sekarang Anda dapat melakukannya, dengan aplikasi penyimpan layar yang mudah dipakai ini. Anda dapat memilih untuk menyimpan tampilan seluruh layar, salah satu jendela aplikasi, atau sebagian dari layar. Dengan begitu, Anda dapat memastikan menyimpan hanya yang Anda perlukan dan tidak lebih."
+msgstr "Apakah Anda ingin dapat menyimpan tampilan layar Anda? Sekarang Anda dapat melakukannya, dengan aplikasi pencuplik layar yang mudah dipakai ini. Anda dapat memilih untuk menyimpan tampilan seluruh layar, salah satu jendela aplikasi, atau sebagian dari layar. Dengan begitu, Anda dapat memastikan menyimpan hanya yang Anda perlukan dan tidak lebih."
 
 #: content/Default/apps/content.json.h:181
 msgctxt "title"
@@ -1336,7 +1337,7 @@ msgstr "Gedit"
 #: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
-msgstr "Editor teks sederhana untuk seluruh kebutuhan penyuntingan teks Anda"
+msgstr "Penyunting teks sederhana untuk seluruh kebutuhan penyuntingan teks Anda"
 
 #: content/Default/apps/content.json.h:198
 msgctxt "description"
@@ -1345,7 +1346,7 @@ msgid ""
 " If you are a programmer or an aspiring programmer, you will need this app. "
 "With robust functionality and an easy-to-use interface, this text editor "
 "should be perfect for all of your text editing needs."
-msgstr "Gunakan aplikasi simpel ini untuk membuat dan mengedit file yang memerlukan input teks biasa. Jika Anda seorang programmer atau calon programmer, aplikasi ini wajib dimiliki. Dengan fungsi yang mumpuni dan antarmuka yang mudah digunakan, editor teks ini sempurna untuk kebutuhan editing teks."
+msgstr "Gunakan aplikasi sederhana ini untuk membuat dan menyunting berkas yang memerlukan masukan teks biasa. Jika Anda seorang pemrogram atau calon pemrogram, aplikasi ini wajib dimiliki. Dengan fungsi yang mumpuni dan antarmuka yang mudah digunakan, peyunting teks ini sempurna untuk kebutuhan penyuntingan teks."
 
 #: content/Default/apps/content.json.h:199
 msgctxt "title"
@@ -1418,7 +1419,7 @@ msgstr "Kapman"
 #: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
-msgstr "Game hantu dan labirin klasik"
+msgstr "Permainan hantu dan labirin klasik"
 
 #: content/Default/apps/content.json.h:210
 msgctxt "description"
@@ -1583,7 +1584,7 @@ msgstr "KHangMan"
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
-msgstr "Salah satu game kata terseru di dunia"
+msgstr "Salah satu permainan kata terseru di dunia"
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
@@ -1605,7 +1606,7 @@ msgstr "Kigo"
 #: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
-msgstr "Game keterampilan kuno, diperbarui untuk permainan modern"
+msgstr "Permainan keterampilan kuno, diperbarui untuk permainan modern"
 
 #: content/Default/apps/content.json.h:237
 msgctxt "description"
@@ -1766,7 +1767,7 @@ msgid ""
 "while trying to block your opponents’ squares. This game requires "
 "geometrical thinking as well as strategy, and is sure to provide hours of "
 "entertainment. Be careful – you just might become addicted!"
-msgstr "Diangkat dari game kuno populer, pada aplikasi seru ini Anda dapat meregangkan pikiran dan memecahkan puzzle. Tujuannya adalah menyelesaikan lebih banyak kotak di kisi daripada lawan. Gambar garis di antara titik secara bergiliran, bentuk kotak sambil mencoba memblokir kotak lawan. Game ini membutuhkan pemikiran geometris serta strategi, jadi pasti akan menyediakan hiburan selama berjam-jam. Hati-hati... Anda bisa kecanduan!"
+msgstr "Diangkat dari permainan kuno populer, pada aplikasi seru ini Anda dapat meregangkan pikiran dan memecahkan puzzle. Tujuannya adalah menyelesaikan lebih banyak kotak di kisi daripada lawan. Gambar garis di antara titik secara bergiliran, bentuk kotak sambil mencoba memblokir kotak lawan. Permainan ini membutuhkan pemikiran geometris serta strategi, jadi pasti akan menyediakan hiburan selama berjam-jam. Hati-hati... Anda bisa kecanduan!"
 
 #: content/Default/apps/content.json.h:259
 msgctxt "title"
@@ -1924,7 +1925,7 @@ msgstr "Numpty Fisika"
 #: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
-msgstr "Game puzzle fisika yang seru"
+msgstr "Permainan puzzle fisika yang seru"
 
 #: content/Default/apps/content.json.h:282
 msgctxt "description"
@@ -1958,7 +1959,7 @@ msgid ""
 "has a multiplayer option, allows you to choose from a variety of weapons to "
 "fight, and even allows you to customize your own spaceship. You'll want to "
 "keep playing until you succeed in returning peace to your planet!"
-msgstr "Pada tahun 3547, seluruh peradaban di galaksi telah mendiami planet mereka sendiri-sendiri. Kaum Anda hidup damai dan harmonis. Tetapi sebuah perang besar tengah berkecamuk di luar planet Anda yang damai. Anda adalah pejuang terkenal yang dikenal dengan kemuliaan dan keahlian tingkat tinggi, dan Anda harus melindungi planet dari tetangga cemburu yang ingin menghancurkannya! Game ini punya opsi multi pemain sehingga Anda dapat memilih berbagai senjata untuk melawan, dan bahkan memodifikasi pesawat ruang angkasa sendiri. Anda pasti ingin terus bermain sampai berhasil mengembalikan perdamaian!"
+msgstr "Pada tahun 3547, seluruh peradaban di galaksi telah mendiami planet mereka sendiri-sendiri. Kaum Anda hidup damai dan harmonis. Tetapi sebuah perang besar tengah berkecamuk di luar planet Anda yang damai. Anda adalah pejuang terkenal yang dikenal dengan kemuliaan dan keahlian tingkat tinggi, dan Anda harus melindungi planet dari tetangga cemburu yang ingin menghancurkannya! Permainan ini punya opsi multi pemain sehingga Anda dapat memilih berbagai senjata untuk melawan, dan bahkan memodifikasi pesawat ruang angkasa sendiri. Anda pasti ingin terus bermain sampai berhasil mengembalikan perdamaian!"
 
 #: content/Default/apps/content.json.h:286
 msgctxt "title"
@@ -1988,14 +1989,14 @@ msgstr "Firefox"
 #: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Mozilla's popular web browser"
-msgstr "Penjelajah web populer dari Mozilla"
+msgstr "Peramban web populer dari Mozilla"
 
 #: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Firefox is one of the world's most popular web browsers. If you have trouble"
 " with websites that require Java support, try Firefox. ** Requires internet"
-msgstr "Firefox adalah salah satu penjelajah web yang paling populer. Jika Anda  menemukan masalah dengan website yang membutuhkan dukungan Java, gunakan Firefox. **Membutuhkan koneksi internet"
+msgstr "Firefox adalah salah satu peramban web yang paling populer. Jika Anda  menemukan masalah dengan situs web yang membutuhkan dukungan Java, gunakan Firefox. **Membutuhkan koneksi internet"
 
 #: content/Default/apps/content.json.h:292
 msgctxt "title"
@@ -2038,17 +2039,17 @@ msgid ""
 " can easily change any step and create the configurable designs you desire. "
 "You'll need to have a deep understanding of how to create CAD models, and if"
 " you do, this app is a great way to build the 3D models you need."
-msgstr "Aplikasi ini dibuat bagi para programer yang ingin membuat model CAD 3D. Aplikasi ini tidak berfokus pada aspek artistik dari pemodelan 3D, tetapi lebih kepada elemen-elemen CAD. Oleh karena itu, aplikasi ini paling cocok digunakan contohnya oleh mereka yang ingin menciptakan bagian-bagian mesin, dan bukan model 3D untuk film. Untuk para programer, Anda akan memiliki kendali penuh atas proses pemodelan sehingga Anda dapat dengan mudah mengubah langkah mana saja dan menciptakan rancangan yang dapat dikonfigurasikan sesuai dengan yang Anda inginkan. Jika Anda memiliki pemahaman yang mendalam tentang cara menciptakan model CAD, maka aplikasi ini adalah cara yang luar biasa untuk membangun model 3D yang Anda butuhkan."
+msgstr "Aplikasi ini dibuat bagi para pemrogram yang ingin membuat model CAD 3D. Aplikasi ini tidak berfokus pada aspek artistik dari pemodelan 3D, tetapi lebih kepada elemen-elemen CAD. Oleh karena itu, aplikasi ini paling cocok digunakan contohnya oleh mereka yang ingin menciptakan bagian-bagian mesin, dan bukan model 3D untuk film. Untuk para pemrogram, Anda akan memiliki kendali penuh atas proses pemodelan sehingga Anda dapat dengan mudah mengubah langkah mana saja dan menciptakan rancangan yang dapat dikonfigurasikan sesuai dengan yang Anda inginkan. Jika Anda memiliki pemahaman yang mendalam tentang cara menciptakan model CAD, maka aplikasi ini adalah cara yang luar biasa untuk membangun model 3D yang Anda butuhkan."
 
 #: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "Video Editor"
-msgstr "Editor Video"
+msgstr "Penyunting Video"
 
 #: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "Hundreds of transitions, effects, and filters to edit your videos"
-msgstr "Ratusan transisi, efek, dan filter untuk mengedit video Anda"
+msgstr "Ratusan transisi, efek, dan filter untuk menyunting video Anda"
 
 #: content/Default/apps/content.json.h:300
 msgctxt "description"
@@ -2058,7 +2059,7 @@ msgid ""
 "make your video just right. Whether you want to tell a story, make a gift "
 "for a friend, create a professional-looking video, or just want to express "
 "yourself, this video editor will help you do it!"
-msgstr "Ciptakan video untuk proyek, ditampilkan kepada teman-teman dan keluarga, atau hanya untuk hobi! Tersedia ratusan transisi, efek video, efek audio, dan filter untuk membuat video Anda jadi mengesankan. Baik jika Anda ingin menyampaikan cerita, membuat hadiah untuk teman, membuat video dengan tampilan profesional, atau hanya ingin mengungkapkan perasaan diri, editor video ini akan membantu Anda melakukannya!"
+msgstr "Ciptakan video untuk proyek, ditampilkan kepada teman-teman dan keluarga, atau hanya untuk hobi! Tersedia ratusan transisi, efek video, efek audio, dan filter untuk membuat video Anda jadi mengesankan. Baik jika Anda ingin menyampaikan cerita, membuat hadiah untuk teman, membuat video dengan tampilan profesional, atau hanya ingin mengungkapkan perasaan diri, penyunting video ini akan membantu Anda melakukannya!"
 
 #: content/Default/apps/content.json.h:301
 msgctxt "title"
@@ -2088,7 +2089,7 @@ msgstr "Etoys"
 #: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Learn with visual programming"
-msgstr "Belajar dengan programming visual"
+msgstr "Belajar dengan pemrograman visual"
 
 #: content/Default/apps/content.json.h:306
 msgctxt "description"
@@ -2102,7 +2103,7 @@ msgid ""
 "originally designed for students who are 8 - 13 years old, teachers have "
 "found that this app has helped students of all ages, from young learners to "
 "college-aged students alike!"
-msgstr "Aplikasi ini adalah cara yang bagus bagi anak-anak untuk belajar cara memprogram sembari mempelajari mata pelajaran yang lain dan bergembira! Ciptakan gambar, cerita, model, dan permainan interaktif dengan antarmuka seret-dan-letakkan yang membantu mencegah kesalahan syntax yang seringkali menjengkelkan programer pemula. Aplikasi ini mendorong rasa ingin tahu dan kebiasaan eksplorasi, dan dapat digunakan untuk membuat segala sesuatu dari gambar sederhana hingga model dunia nyata yang rumit. Meskipun pada awalnya dirancang untuk siswa yang berumur 8 - 13 tahun, para guru telah mendapati bahwa aplikasi ini telah membantu siswa dari segala umur, dari siswa muda hingga pelajar di perguruan tinggi!"
+msgstr "Aplikasi ini adalah cara yang bagus bagi anak-anak untuk belajar cara memprogram sembari mempelajari mata pelajaran yang lain dan bergembira! Ciptakan gambar, cerita, model, dan permainan interaktif dengan antarmuka seret-dan-letakkan yang membantu mencegah kesalahan syntax yang seringkali menjengkelkan pemrogram pemula. Aplikasi ini mendorong rasa ingin tahu dan kebiasaan eksplorasi, dan dapat digunakan untuk membuat segala sesuatu dari gambar sederhana hingga model dunia nyata yang rumit. Meskipun pada awalnya dirancang untuk siswa yang berumur 8 - 13 tahun, para guru telah mendapati bahwa aplikasi ini telah membantu siswa dari segala umur, dari siswa muda hingga pelajar di perguruan tinggi!"
 
 #: content/Default/apps/content.json.h:307
 msgctxt "title"
@@ -2112,7 +2113,7 @@ msgstr "Scratch"
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Learn basic computer programming"
-msgstr "Belajar dasar programming komputer"
+msgstr "Belajar dasar pemrograman komputer"
 
 #: content/Default/apps/content.json.h:309
 msgctxt "description"
@@ -2124,7 +2125,7 @@ msgid ""
 "advanced, you'll see that you can make almost anything you want come to life"
 " on the screen by putting in the right instructions. What cool video game "
 "will you someday make? "
-msgstr "Apakah Anda menyukai permainan komputer dan aplikasi? Mengapa tidak belajar membuatnya sendiri? Aplikasi ini akan mengajarkan Anda dasar-dasar programming komputer dengan cara yang menyenangkan dan mudah untuk dipelajari. Anda dapat memilih karakter dan objek-objek yang Anda sukai lalu kemudian menambahkan instruksi sehingga mereka akan melakukan apa yang Anda inginkan. Sejalan dengan perkembangan Anda, Anda akan melihat bahwa Anda dapat membuat hampir segala yang Anda inginkan menjadi kenyataan di layar dengan memasukkan instruksi yang tepat. Permainan video keren apakah yang suatu hari akan Anda buat?"
+msgstr "Apakah Anda menyukai permainan komputer dan aplikasi? Mengapa tidak belajar membuatnya sendiri? Aplikasi ini akan mengajarkan Anda dasar-dasar pemrograman komputer dengan cara yang menyenangkan dan mudah untuk dipelajari. Anda dapat memilih karakter dan objek-objek yang Anda sukai lalu kemudian menambahkan instruksi sehingga mereka akan melakukan apa yang Anda inginkan. Sejalan dengan perkembangan Anda, Anda akan melihat bahwa Anda dapat membuat hampir segala yang Anda inginkan menjadi kenyataan di layar dengan memasukkan instruksi yang tepat. Permainan video keren apakah yang suatu hari akan Anda buat?"
 
 #: content/Default/apps/content.json.h:310
 msgctxt "title"
@@ -2166,7 +2167,7 @@ msgid ""
 "the turtle moves, it will draw colorful lines behind it. You can change the "
 "colors, and start to design your masterpiece, all while learning the basics "
 "of computer programming."
-msgstr "Pelajari dasar-dasar pemrograman komputer sembari menciptakan karya seni yang indah! Terlebih dahulu seret dan letakkan perintah agar diikuti kura-kura Anda dari menu. Saat kura-kura bergerak, gerakan ini akan menggambar garis berwarna-warni di belakangnya. Anda dapat mengubah warna, dan mulai merancang maha karya Anda, semuanya sambil mempelajari dasar-dasar pemrograman komputer."
+msgstr "Pelajari dasar-dasar pemrograman komputer sembari menciptakan karya seni yang indah! Terlebih dahulu seret dan jatuhkan perintah agar diikuti kura-kura Anda dari menu. Saat kura-kura bergerak, gerakan ini akan menggambar garis berwarna-warni di belakangnya. Anda dapat mengubah warna, dan mulai merancang maha karya Anda, semuanya sambil mempelajari dasar-dasar pemrograman komputer."
 
 #: content/Default/apps/content.json.h:316
 msgctxt "title"
@@ -2227,7 +2228,7 @@ msgid ""
 "protocols. If you're having trouble viewing your videos on other multimedia "
 "players, try VLC since it has some of the best video playback support "
 "abilities out there."
-msgstr "VLC adalah aplikasi gratis dan open source yang dapat memutar segalam macam format media, termasuk DVD, CD lagu, VCD, dan protokol streaming internet lainnya. Jika Anda mengalami kesulitan memutar video di aplikasi lain, gunakan VLC karena aplikasi ini merupakan salah satu pemutar video terbaik yang ada."
+msgstr "VLC adalah aplikasi bebas dan terbuka yang dapat memutar segalam macam format media, termasuk DVD, CD audio, VCD, dan protokol streaming internet lainnya. Jika Anda mengalami kesulitan memutar video di aplikasi lain, gunakan VLC karena aplikasi ini merupakan salah satu pemutar video terbaik yang ada."
 
 #: content/Default/apps/content.json.h:325
 msgctxt "title"
@@ -2266,7 +2267,7 @@ msgid ""
 "art and even songs' lyrics. This app also supports Internet radio streaming "
 "and audio visualizations. Enjoy all your favorite songs, stored and sorted "
 "in one convenient app."
-msgstr "Selain untuk mendengarkan musik favorit Anda, dengan aplikasi ini Anda juga bisa mencari musik dalam pustaka Anda, membuat daftar putar, memutar dan menuliskan data ke CD, serta menampilkan seni album dan lirik lagu. Aplikasi ini juga mendukung streaming radio online dan visualisasi audio. Nikmati semua lagu favorit Anda, simpan, dan atur koleksi Anda dalam satu aplikasi yang mudah digunakan."
+msgstr "Selain untuk mendengarkan musik favorit Anda, dengan aplikasi ini Anda juga bisa mencari musik dalam pustaka Anda, membuat daftar putar, memutar dan menuliskan data ke CD, serta menampilkan seni album dan lirik lagu. Aplikasi ini juga mendukung streaming radio daring dan visualisasi audio. Nikmati semua lagu favorit Anda, simpan, dan atur koleksi Anda dalam satu aplikasi yang mudah digunakan."
 
 #: content/Default/apps/content.json.h:331
 msgctxt "title"
@@ -2276,7 +2277,7 @@ msgstr "Foto"
 #: content/Default/apps/content.json.h:332
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
-msgstr "Mengedit, mengatur, dan membagi foto dengan mudah."
+msgstr "Menyunting, mengatur, dan membagi foto dengan mudah."
 
 #: content/Default/apps/content.json.h:333
 msgctxt "description"
@@ -2287,12 +2288,12 @@ msgid ""
 "seamlessly. You can then arrange them into albums, edit them for maximum "
 "beauty and effect, and of course, display them on your favorite social "
 "networks, like Facebook."
-msgstr "Kita semua suka mengambil foto kehidupan kita sehari-hari, terutama mengunduh ke komputer sehingga kita dapat mengedit dan membagikannya melalui media sosial. Aplikasi ini memungkinkan Anda mengimpor foto dari kamera digital atau ponsel dengan mulus. Anda kemudian dapat menyimpan foto ke dalam album, mengedit agar terlihat lebih indah, dan tentu saja, menampilkan mereka di jaringan sosial favorit Anda, seperti Facebook."
+msgstr "Kita semua suka mengambil foto kehidupan kita sehari-hari, terutama mengunduh ke komputer sehingga kita dapat menyunting dan membagikannya melalui media sosial. Aplikasi ini memungkinkan Anda mengimpor foto dari kamera digital atau ponsel dengan mulus. Anda kemudian dapat menyimpan foto ke dalam album, menyunting agar terlihat lebih indah, dan tentu saja, menampilkan mereka di jaringan sosial favorit Anda, seperti Facebook."
 
 #: content/Default/apps/content.json.h:334
 msgctxt "title"
 msgid "Simple Scan"
-msgstr "Simple Scan"
+msgstr "Pemindai Ringkas"
 
 #: content/Default/apps/content.json.h:335
 msgctxt "subtitle"
@@ -2308,17 +2309,17 @@ msgid ""
 " is as easy as sending them via email, uploading them to your favorite "
 "social network, or putting them on a USB memory. This app will let you make "
 "sure the things you scan are clear, straight, and in any format you need!"
-msgstr "Merawat foto dan dokumen-dokumen penting Anda dengan membuat salinan digitalnya belum pernah lebih mudah! Cukup hubungkan scanner ke komputer Anda, buka aplikasi ini, dan mulailah scan. Setelah dokumen atau foto didigitalisasi, membagikannya menjadi semudah mengirimkannya melalui email, mengunggah ke media sosial favorit Anda, atau menyalinnya ke dalam stik USB. Aplikasi ini akan memungkinkan Anda memastikan segala yang Anda scan jelas, rapi, dan dalam format apa pun yang Anda butuhkan!"
+msgstr "Merawat foto dan dokumen-dokumen penting Anda dengan membuat salinan digitalnya belum pernah lebih mudah! Cukup hubungkan pemindai ke komputer Anda, buka aplikasi ini, dan mulailah memindai. Setelah dokumen atau foto didigitalisasi, membagikannya menjadi semudah mengirimkannya melalui surel, mengunggah ke media sosial favorit Anda, atau menyalinnya ke dalam stik USB. Aplikasi ini akan memungkinkan Anda memastikan segala yang Anda pindai jelas, rapi, dan dalam format apa pun yang Anda butuhkan!"
 
 #: content/Default/apps/content.json.h:337
 msgctxt "title"
 msgid "Remote Desktop"
-msgstr "Remote Desktop"
+msgstr "Penampil Destop Jauh"
 
 #: content/Default/apps/content.json.h:338
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
-msgstr "Terhubung ke dan kelola desktop Anda dari jauh"
+msgstr "Terhubung ke dan kelola destop Anda dari jauh"
 
 #: content/Default/apps/content.json.h:339
 msgctxt "description"
