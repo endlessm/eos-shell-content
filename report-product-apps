@@ -158,14 +158,17 @@ class Reporter(object):
         entries = process.communicate()[0].decode('utf8').rstrip().split('\n')
         self._server_flatpaks = []
         for entry in entries:
-            fields = entry.split()[0].split('/')
-            # Filter out only the eos3 apps, as flatpak returns
-            # details for all branches
-            if fields[3] == 'eos3':
-                app_id = fields[1]
-                if app_id in EXCLUDED:
-                    continue
-                self._server_flatpaks.append([app_id, fields[3]])
+            try:
+                fields = entry.split()[0].split('/')
+                # Filter out only the eos3 apps, as flatpak returns
+                # details for all branches
+                if fields[3] == 'eos3':
+                    app_id = fields[1]
+                    if app_id in EXCLUDED:
+                        continue
+                    self._server_flatpaks.append([app_id, fields[3]])
+            except:
+                warn("Invalid entry:", entry)
 
         # Include the gnome repo, too
         process = subprocess.Popen(['flatpak', 'remote-ls', '-d', 'gnome-apps'],
