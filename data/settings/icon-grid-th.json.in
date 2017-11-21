@@ -12,6 +12,7 @@
     "eos-link-youtube.desktop",
     "com.endlessm.duet_diary.th.desktop",
     "eos-folder-media.directory",
+    "eos-folder-curiosity.directory",
     "eos-folder-games.directory",
     "eos-folder-social.directory",
     "net.minetest.Minetest.desktop",
@@ -24,6 +25,17 @@
     "org.tuxpaint.Tuxpaint.desktop",
     "net.sourceforge.Audacity.desktop",
     "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.celebrities.th.desktop",
+    "com.endlessm.animals.th.desktop",
+    "com.endlessm.biology.th.desktop",
+    "com.endlessm.geography.th.desktop",
+    "com.endlessm.history.th.desktop",
+    "com.endlessm.soccer.th.desktop",
+    "com.endlessm.socialsciences.th.desktop",
+    "com.endlessm.translation.desktop",
+    "eos-link-duolingo.desktop"
   ],
   "eos-folder-games.directory" : [
     "net.sourceforge.Supertuxkart.desktop",
