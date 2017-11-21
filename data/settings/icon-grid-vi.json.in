@@ -11,10 +11,10 @@
     "eos-link-whatsapp.desktop",
     "eos-link-youtube.desktop",
     "eos-folder-media.directory",
+    "eos-folder-curiosity.directory",
     "eos-folder-games.directory",
     "eos-folder-social.directory",
     "net.minetest.Minetest.desktop",
-    "com.endlessm.cooking.en.desktop",
     "rhythmbox.desktop"
   ],
   "eos-folder-media.directory" : [
@@ -24,6 +24,19 @@
     "org.tuxpaint.Tuxpaint.desktop",
     "net.sourceforge.Audacity.desktop",
     "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-curiosity.directory" : [
+    "com.endlessm.celebrities.vi.desktop",
+    "com.endlessm.animals.vi.desktop",
+    "com.endlessm.astronomy.vi.desktop",
+    "com.endlessm.biology.vi.desktop",
+    "com.endlessm.geography.vi.desktop",
+    "com.endlessm.history.vi.desktop",
+    "com.endlessm.physics.vi.desktop",
+    "com.endlessm.soccer.vi.desktop",
+    "com.endlessm.socialsciences.vi.desktop",
+    "com.endlessm.translation.desktop",
+    "eos-link-duolingo.desktop"
   ],
   "eos-folder-games.directory" : [
     "net.sourceforge.Supertuxkart.desktop",
