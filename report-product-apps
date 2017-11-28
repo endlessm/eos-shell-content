@@ -60,19 +60,19 @@ REMAPPED_IDS = {'eos-file-manager' : {'id': 'org.gnome.Nautilus',
 EXCLUDED = {'com.endlessm.EknServices',
             'gnome-apps'}
 
-GNOME_EXCLUDED = {'org.freedesktop.GlxInfo',
-                  'org.gnome.Builder',
-                  'org.gnome.Calculator',
-                  'org.gnome.Documents',
-                  'org.gnome.Evince',
-                  'org.gnome.Maps',
-                  'org.gnome.Nautilus',
-                  'org.gnome.Rhythmbox3',
-                  'org.gnome.Totem',
-                  'org.gnome.clocks',
-                  'org.gnome.eog',
-                  'org.gnome.gedit',
-                  'org.gnome.iagno'}
+FLATHUB_EXCLUDED = {'org.freedesktop.GlxInfo',
+                    'org.gnome.Builder',
+                    'org.gnome.Calculator',
+                    'org.gnome.Documents',
+                    'org.gnome.Evince',
+                    'org.gnome.Maps',
+                    'org.gnome.Nautilus',
+                    'org.gnome.Rhythmbox3',
+                    'org.gnome.Totem',
+                    'org.gnome.clocks',
+                    'org.gnome.eog',
+                    'org.gnome.gedit',
+                    'org.gnome.iagno'}
 
 ALREADY_USED = 'used'
 
@@ -170,16 +170,17 @@ class Reporter(object):
             except:
                 warn("Invalid entry:", entry)
 
-        # Include the gnome repo, too
-        process = subprocess.Popen(['flatpak', 'remote-ls', '-d', 'gnome-apps'],
-                                   stdout=subprocess.PIPE)
-        entries = process.communicate()[0].decode('utf8').rstrip().split('\n')
-        for entry in entries:
-            fields = entry.split()[0].split('/')
-            app_id = fields[1]
-            if app_id in GNOME_EXCLUDED:
-                continue
-            self._server_flatpaks.append([app_id, fields[3]])
+        if self._args.flathub:
+            # Include the Flathub repo, too
+            process = subprocess.Popen(['flatpak', 'remote-ls', '-d', 'flathub'],
+                                       stdout=subprocess.PIPE)
+            entries = process.communicate()[0].decode('utf8').rstrip().split('\n')
+            for entry in entries:
+                fields = entry.split()[0].split('/')
+                app_id = fields[1]
+                if app_id in FLATHUB_EXCLUDED:
+                    continue
+                self._server_flatpaks.append([app_id, fields[3]])
 
     def _print_debug(self, message):
         if self._args.debug:
@@ -472,6 +473,10 @@ if __name__ == '__main__':
 
     parser.add_argument('--debug', \
             help='Enable debugging output', \
+            action='store_true')
+
+    parser.add_argument('--flathub', \
+            help='Include available apps/runtimes from Flathub', \
             action='store_true')
 
     args = AttributeDict(vars(parser.parse_args()))
