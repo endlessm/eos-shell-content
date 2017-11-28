@@ -398,6 +398,8 @@ class Reporter(object):
                         return
                     if not 'flatpak install --app' in line:
                         continue
+                    if 'eib_retry' in line:
+                        continue
                     data = line.split()
                     app_id = data[7]
                     if app_id in EXCLUDED:
