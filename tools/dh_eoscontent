@@ -111,22 +111,29 @@ sub app_appdata_file {
 	my $tmp=shift;
 
 	# See if this package has the appdata file
-	my $appdata = $tmp . '/usr/share/appdata/' . $app_id
-	    . '.appdata.xml';
-	verbose_print("Checking for app-data file $appdata");
-	if (-l $appdata) {
-		my $link = readlink($appdata);
-		if ($link =~ /^\//) {
-			# If the symlink is absolute, make it relative
-			# to the tmpdir
-			$appdata = $tmp . $link;
-		} else {
-			# Resolve it to an absolute path
-			$appdata = abs_path($appdata);
+	my @appdata_dirs = ('metainfo', 'appdata');
+	foreach my $appdata_dir (@{appdata_dirs}) {
+		my $appdata = $tmp . '/usr/share/' . $appdata_dir . '/' . $app_id
+		    . '.appdata.xml';
+		verbose_print("Checking for app-data file $appdata");
+
+		next unless (-e $appdata);
+
+		if (-l $appdata) {
+			my $link = readlink($appdata);
+			if ($link =~ /^\//) {
+				# If the symlink is absolute, make it relative
+				# to the tmpdir
+				$appdata = $tmp . $link;
+			} else {
+				# Resolve it to an absolute path
+				$appdata = abs_path($appdata);
+			}
 		}
+
 		verbose_print("Resolved symlink to $appdata");
+		return $appdata;
 	}
-	return $appdata if (-e $appdata);
 }
 
 foreach my $package (@{$dh{DOPACKAGES}}) {
