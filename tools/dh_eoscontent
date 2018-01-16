@@ -10,6 +10,7 @@ dh_eoscontent - merge Endless content into packages
 use strict;
 use Cwd 'abs_path';
 use Debian::Debhelper::Dh_Lib;
+use Dpkg::Control::Info;
 use JSON;
 
 =head1 SYNOPSIS
@@ -36,6 +37,32 @@ my $json_text = do {
 };
 my $content = JSON->new->utf8->decode($json_text);
 
+# Parse debian/control file
+my $pkg_info = Dpkg::Control::Info->new();
+
+# Find the app ID from the Eos-Appid control field
+sub eos_app_id {
+	my $name=shift;
+
+	# Get the package, main package and source package stanzas
+	my $pkg=$pkg_info->get_pkg_by_name($name);
+	my $main=$pkg_info->get_pkg_by_idx(1);
+	my $src=$pkg_info->get_source();
+
+	# The app ID is can be found from the Eos-Appid field starting
+	# in the current package, then the main package and finally the
+	# source package. If none are found, the package name is used.
+	# Search for both a real field and a custom field (prefixed with
+	# X[CBS]*-).
+	return $pkg->{'Eos-Appid'} ||
+	    $pkg->get_custom_field('Eos-Appid') ||
+	    $main->{'Eos-Appid'} ||
+	    $main->get_custom_field('Eos-Appid') ||
+	    $src->{'Eos-Appid'} ||
+	    $src->get_custom_field('Eos-Appid') ||
+	    $pkg->{'Package'};
+}
+
 sub app_content {
 	my $app_id=shift;
 	my $package=shift;
@@ -58,11 +85,10 @@ sub app_content {
 
 sub app_desktop_file {
 	my $app_id=shift;
-	my $prefix=shift;
 	my $tmp=shift;
 
 	# See if this package has the desktop file
-	my $desktop = $tmp . $prefix . '/share/applications/' . $app_id
+	my $desktop = $tmp . '/usr/share/applications/' . $app_id
 	    . '.desktop';
 	verbose_print("Checking for desktop file $desktop");
 	if (-l $desktop) {
@@ -82,11 +108,10 @@ sub app_desktop_file {
 
 sub app_appdata_file {
 	my $app_id=shift;
-	my $prefix=shift;
 	my $tmp=shift;
 
 	# See if this package has the appdata file
-	my $appdata = $tmp . $prefix . '/share/appdata/' . $app_id
+	my $appdata = $tmp . '/usr/share/appdata/' . $app_id
 	    . '.appdata.xml';
 	verbose_print("Checking for app-data file $appdata");
 	if (-l $appdata) {
@@ -106,9 +131,8 @@ sub app_appdata_file {
 
 foreach my $package (@{$dh{DOPACKAGES}}) {
 	my $tmp=tmpdir($package);
-	my $app_id=package_eos_app_id($package);
+	my $app_id=eos_app_id($package);
 	my $content_id;
-	my $prefix='/usr';
 	my $app_data;
 	my $app_data_file;
 	my $desktop;
@@ -120,18 +144,13 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	$content_id = $app_data->{'application-id'};
 	verbose_print("Found content for app $content_id");
 
-	if (get_buildprofile("eos-app")) {
-		# Get the app prefix.
-		$prefix = "/endless/" . $app_id;
-	}
-
-	$desktop = app_desktop_file($app_id, $prefix, $tmp);
+	$desktop = app_desktop_file($app_id, $tmp);
 	if ($desktop) {
 		verbose_print("Updating desktop file $desktop");
 		doit("eos-content-merge -i $content_id -d $desktop");
 	}
 
-	$app_data_file = app_appdata_file($app_id, $prefix, $tmp);
+	$app_data_file = app_appdata_file($app_id, $tmp);
 	if ($app_data_file) {
 		verbose_print("Updating appdata file $app_data_file");
 		doit("eos-content-merge -i $content_id -a $app_data_file");
