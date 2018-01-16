@@ -10,6 +10,7 @@ dh_eoscontent - merge Endless content into packages
 use strict;
 use Cwd 'abs_path';
 use Debian::Debhelper::Dh_Lib;
+use Dpkg::Control::Info;
 use JSON;
 
 =head1 SYNOPSIS
@@ -35,6 +36,32 @@ my $json_text = do {
 	<CONTENT>;
 };
 my $content = JSON->new->utf8->decode($json_text);
+
+# Parse debian/control file
+my $pkg_info = Dpkg::Control::Info->new();
+
+# Find the app ID from the Eos-Appid control field
+sub eos_app_id {
+	my $name=shift;
+
+	# Get the package, main package and source package stanzas
+	my $pkg=$pkg_info->get_pkg_by_name($name);
+	my $main=$pkg_info->get_pkg_by_idx(1);
+	my $src=$pkg_info->get_source();
+
+	# The app ID is can be found from the Eos-Appid field starting
+	# in the current package, then the main package and finally the
+	# source package. If none are found, the package name is used.
+	# Search for both a real field and a custom field (prefixed with
+	# X[CBS]*-).
+	return $pkg->{'Eos-Appid'} ||
+	    $pkg->get_custom_field('Eos-Appid') ||
+	    $main->{'Eos-Appid'} ||
+	    $main->get_custom_field('Eos-Appid') ||
+	    $src->{'Eos-Appid'} ||
+	    $src->get_custom_field('Eos-Appid') ||
+	    $pkg->{'Package'};
+}
 
 sub app_content {
 	my $app_id=shift;
@@ -104,7 +131,7 @@ sub app_appdata_file {
 
 foreach my $package (@{$dh{DOPACKAGES}}) {
 	my $tmp=tmpdir($package);
-	my $app_id=package_eos_app_id($package);
+	my $app_id=eos_app_id($package);
 	my $content_id;
 	my $app_data;
 	my $app_data_file;
