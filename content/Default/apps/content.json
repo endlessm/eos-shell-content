@@ -3694,7 +3694,7 @@
     "category": "Education;",
     "core": false,
     "custom-splash-screen": "com.endlessm.ingles_con_rodrigo.es-splash.jpg",
-    "description": "Este programa ayudar\u00e1 a principiantes a aprender ingl\u00e9s. Rodrigo te ayudar\u00e1 a aprender aunque nunca hayas visto ninguna palabra de ingl\u00e9s en tu vida. \u00a1Pr\u00e1ctica el alfabeto, la pronunciaci\u00f3n, la gram\u00e1tica, el vocabulario, y m\u00e1s!",
+    "description": "Este programa ayudar\u00e1 a principiantes a aprender ingl\u00e9s. Rodrigo te ayudar\u00e1 a aprender aunque nunca hayas visto ninguna palabra de ingl\u00e9s en tu vida. \u00a1Pr\u00e1ctica el alfabeto, la pronunciaci\u00f3n, la gram\u00e1tica, el vocabulario, y mucho m\u00e1s!",
     "displayShape": "b1",
     "exec": "com.endlessm.ingles_con_rodrigo",
     "featured_img": "",
@@ -3704,10 +3704,15 @@
     "personalities": [
       "All"
     ],
-    "screenshots": [],
+    "screenshots": {
+      "C": [
+        "com.endlessm.ingles_con_rodrigo.es-screenshot1.jpg",
+        "com.endlessm.ingles_con_rodrigo.es-screenshot2.jpg"
+      ]
+    },
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.ingles_con_rodrigo.es-thumb.jpg",
-    "subtitle": "Aprenda Ingl\u00e9s f\u00e1cilmente con Rodrigo.",
+    "subtitle": "Aprende Ingl\u00e9s f\u00e1cilmente con Rodrigo.",
     "title": "Ingl\u00e9s con Rodrigo",
     "translation_id": null,
     "translation_type": null,
