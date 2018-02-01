@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Kids
+Name[es]=Niños
+Comment=Kids will love these videos
+Comment[es]=Videos que encantarán a los niños
+Comment[pt_BR]=As crianças vão amar esses videos
+Type=Application
+Exec=com.endlessm.video_kids
+Icon=eos-app-com.endlessm.video_kids
+Categories=Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.video_kids-splash.jpg

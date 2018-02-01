@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Funny Videos
+Name[es]=Videos divertidos
+Name[pt_BR]=Vídeos divertidos
+Comment=Laughter is the best medicine
+Comment[es]=La risa es el mejor remedio
+Comment[pt_BR]=Rir ainda é o melhor remédio
+Type=Application
+Exec=com.endlessm.video_funny_videos
+Icon=eos-app-com.endlessm.video_funny_videos
+Categories=Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.video_funny_videos-splash.jpg

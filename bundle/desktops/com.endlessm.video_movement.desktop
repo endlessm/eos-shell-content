@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Movement
+Name[es]=Cuerpo en movimiento
+Name[pt_BR]=Corpo em movimento
+Comment=Find videos about your favorite sport
+Comment[es]=Encuentra tu deporte favorito
+Comment[pt_BR]=Encontre seu esporte favorito
+Type=Application
+Exec=com.endlessm.video_movement
+Icon=eos-app-com.endlessm.video_movement
+Categories=Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.video_movement-splash.jpg

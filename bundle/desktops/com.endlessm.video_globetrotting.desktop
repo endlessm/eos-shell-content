@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Globetrotting
+Name[es]=La vuelta al mundo
+Name[pt_BR]=Giro pelo mundo
+Comment=Travel the world without leaving home
+Comment[es]=Viaja por el mundo sin salir de casa
+Comment[pt_BR]=Viaje pelo mundo sem sair de casa
+Comment[th]=ท่องโลกโดยไม่ต้องออกเดินทาง
+Comment[vi]=Du lịch vòng quanh thế giới tại nhà
+Type=Application
+Exec=com.endlessm.video_globetrotting
+Icon=eos-app-com.endlessm.video_globetrotting
+Categories=Reference;
+X-Endless-LaunchMaximized=true
+X-Endless-SplashBackground=com.endlessm.video_globetrotting-splash.jpg

@@ -3761,7 +3761,7 @@
     "splash-screen-type": "Custom",
     "square_img": "com.endlessm.just_lia.pt-thumb.jpg",
     "subtitle": "Um blog com dicas sobre estilo de vida, moda e viagem",
-    "title": " Just Lia",
+    "title": "Just Lia",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
@@ -5772,28 +5772,28 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_animal_kingdom.en",
+    "application-id": "com.endlessm.video_animal_kingdom",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_animal_kingdom.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_animal_kingdom-splash.jpg",
     "description": "Awesome videos showing animals from the fluffiest to the wildest beasts of the animal kingdom.",
     "displayShape": "b1",
     "exec": "com.endlessm.video_animal_kingdom",
     "featured_img": "",
-    "icon": "com.endlessm.video_animal_kingdom.en-icon.png",
+    "icon": "com.endlessm.video_animal_kingdom-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_animal_kingdom.en-screenshot1.jpg",
-        "com.endlessm.video_animal_kingdom.en-screenshot2.jpg"
+        "com.endlessm.video_animal_kingdom-screenshot1.jpg",
+        "com.endlessm.video_animal_kingdom-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animal_kingdom.en-thumb.jpg",
+    "square_img": "com.endlessm.video_animal_kingdom-thumb.jpg",
     "subtitle": "All about animals",
     "title": "Animal Kingdom",
     "translation_id": null,
@@ -5801,76 +5801,28 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_animal_kingdom.es",
+    "application-id": "com.endlessm.video_animations",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_animal_kingdom.es-splash.jpg",
-    "description": "El mundo animal es fant\u00e1stico. Sorpr\u00e9ndete con estos incre\u00edbles videos, desde los animales m\u00e1s lindos hasta los m\u00e1s salvajes. ",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_animal_kingdom",
-    "featured_img": "",
-    "icon": "com.endlessm.video_animal_kingdom.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animal_kingdom.es-thumb.jpg",
-    "subtitle": "Todo sobre animales",
-    "title": "Mundo animal",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_animal_kingdom.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_animal_kingdom.pt-splash.jpg",
-    "description": "O mundo animal \u00e9 fant\u00e1stico. Surpreenda-se com esses v\u00eddeos bel\u00edssimos dos animais mais fofos at\u00e9 os mais selvagens. ",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_animal_kingdom",
-    "featured_img": "",
-    "icon": "com.endlessm.video_animal_kingdom.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animal_kingdom.pt-thumb.jpg",
-    "subtitle": "Veja mais sobre o universo animal",
-    "title": "Mundo animal",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_animations.en",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_animations.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_animations-splash.jpg",
     "description": "Videos with funny and clever animations for the whole family.",
     "displayShape": "b1",
     "exec": "com.endlessm.video_animations",
     "featured_img": "",
-    "icon": "com.endlessm.video_animations.en-icon.png",
+    "icon": "com.endlessm.video_animations-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_animations.en-screenshot1.jpg",
-        "com.endlessm.video_animations.en-screenshot2.jpg"
+        "com.endlessm.video_animations-screenshot1.jpg",
+        "com.endlessm.video_animations-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animations.en-thumb.jpg",
+    "square_img": "com.endlessm.video_animations-thumb.jpg",
     "subtitle": "Images are worth more than words",
     "title": "Animations",
     "translation_id": null,
@@ -5878,100 +5830,28 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_animations.es",
+    "application-id": "com.endlessm.video_funny_videos",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_animations.es-splash.jpg",
-    "description": "Videos de animaciones inteligentes y divertidas para toda la familia. ",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_animations",
-    "featured_img": "",
-    "icon": "com.endlessm.video_animations.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animations.es-thumb.jpg",
-    "subtitle": "Im\u00e1genes valen m\u00e1s que mil palabras",
-    "title": "Animaciones",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_animations.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_animations.pt-splash.jpg",
-    "description": "Esses v\u00eddeos de anima\u00e7\u00f5es inteligentes e divertidas v\u00e3o agradar \u00e0 toda a fam\u00edlia.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_animations",
-    "featured_img": "",
-    "icon": "com.endlessm.video_animations.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animations.pt-thumb.jpg",
-    "subtitle": "Imagens valem mais do que palavras",
-    "title": "Anima\u00e7\u00f5es",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_animations.vi",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_animations.vi-splash.jpg",
-    "description": "Video v\u1edbi h\u00ecnh \u1ea3nh \u0111\u1ed9ng h\u00e0i h\u01b0\u1edbc v\u00e0 th\u00f4ng minh cho c\u1ea3 gia \u0111\u00ecnh.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_animations",
-    "featured_img": "",
-    "icon": "com.endlessm.video_animations.vi-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Vietnamese"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_animations.vi-thumb.jpg",
-    "subtitle": "Tr\u0103m nghe kh\u00f4ng b\u1eb1ng m\u1eaft th\u1ea5y",
-    "title": "Animations",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_funny_videos.en",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_funny_videos.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_funny_videos-splash.jpg",
     "description": "These funny videos will help you share a good laugh with the whole family. ",
     "displayShape": "b1",
     "exec": "com.endlessm.video_funny_videos",
     "featured_img": "",
-    "icon": "com.endlessm.video_funny_videos.en-icon.png",
+    "icon": "com.endlessm.video_funny_videos-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_funny_videos.en-screenshot1.jpg",
-        "com.endlessm.video_funny_videos.en-screenshot2.jpg"
+        "com.endlessm.video_funny_videos-screenshot1.jpg",
+        "com.endlessm.video_funny_videos-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_funny_videos.en-thumb.jpg",
+    "square_img": "com.endlessm.video_funny_videos-thumb.jpg",
     "subtitle": "Laughter is the best medicine",
     "title": "Funny Videos",
     "translation_id": null,
@@ -5979,76 +5859,28 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_funny_videos.es",
+    "application-id": "com.endlessm.video_globetrotting",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_funny_videos.es-splash.jpg",
-    "description": "Videos divertidos para compartir y divertirse con toda la familia. ",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_funny_videos",
-    "featured_img": "",
-    "icon": "com.endlessm.video_funny_videos.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_funny_videos.es-thumb.jpg",
-    "subtitle": "La risa es el mejor remedio",
-    "title": "Videos divertidos",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_funny_videos.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_funny_videos.pt-splash.jpg",
-    "description": "V\u00eddeos engra\u00e7ados para voc\u00ea soltar boas risadas e se divertir com toda a fam\u00edlia.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_funny_videos",
-    "featured_img": "",
-    "icon": "com.endlessm.video_funny_videos.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_funny_videos.pt-thumb.jpg",
-    "subtitle": "Rir ainda \u00e9 o melhor rem\u00e9dio",
-    "title": "V\u00eddeos divertidos",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_globetrotting.en",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_globetrotting.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_globetrotting-splash.jpg",
     "description": "Navigate through the most beautiful landscapes, from snowy mountains to sunny beaches. This video app will allow you to travel the world from the tips of your fingers.",
     "displayShape": "b1",
     "exec": "com.endlessm.video_globetrotting",
     "featured_img": "",
-    "icon": "com.endlessm.video_globetrotting.en-icon.png",
+    "icon": "com.endlessm.video_globetrotting-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_globetrotting.en-screenshot1.jpg",
-        "com.endlessm.video_globetrotting.en-screenshot2.jpg"
+        "com.endlessm.video_globetrotting-screenshot1.jpg",
+        "com.endlessm.video_globetrotting-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_globetrotting.en-thumb.jpg",
+    "square_img": "com.endlessm.video_globetrotting-thumb.jpg",
     "subtitle": "Travel the world without leaving home",
     "title": "Globetrotting",
     "translation_id": null,
@@ -6056,124 +5888,28 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_globetrotting.es",
+    "application-id": "com.endlessm.video_kids",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_globetrotting.es-splash.jpg",
-    "description": "Este programa incluye videos que te llevan por lugares incre\u00edbles del mundo entero. Disfruta con los paisajes m\u00e1s bellos desde la playa a la nieve sin salir de casa. ",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_globetrotting",
-    "featured_img": "",
-    "icon": "com.endlessm.video_globetrotting.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_globetrotting.es-thumb.jpg",
-    "subtitle": "Viaja por el mundo sin salir de casa",
-    "title": "La vuelta al mundo",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_globetrotting.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_globetrotting.pt-splash.jpg",
-    "description": "Esse aplicativo traz v\u00eddeos que te levam a lugares incr\u00edveis no mundo inteiro e voc\u00ea nem precisa sair da sua casa! Se encante com as mais belas paisagens, da praia \u00e0 neve!",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_globetrotting",
-    "featured_img": "",
-    "icon": "com.endlessm.video_globetrotting.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_globetrotting.pt-thumb.jpg",
-    "subtitle": "Viaje pelo mundo sem sair de casa",
-    "title": "Giro pelo mundo",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_globetrotting.th",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_globetrotting.th-splash.jpg",
-    "description": "\u0e2d\u0e2d\u0e01\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e20\u0e39\u0e21\u0e34\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 \u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e17\u0e37\u0e2d\u0e01\u0e40\u0e02\u0e32\u0e17\u0e35\u0e48\u0e1b\u0e01\u0e04\u0e25\u0e38\u0e21\u0e14\u0e49\u0e27\u0e22\u0e2b\u0e34\u0e21\u0e30 \u0e44\u0e1b\u0e08\u0e19\u0e16\u0e36\u0e07\u0e0a\u0e32\u0e22\u0e2b\u0e32\u0e14\u0e2a\u0e30\u0e17\u0e49\u0e2d\u0e19\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e22\u0e41\u0e14\u0e14\u0e2a\u0e14\u0e43\u0e2a \u0e41\u0e2d\u0e1b\u0e2f \u0e27\u0e34\u0e14\u0e35\u0e42\u0e2d\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01\u0e44\u0e14\u0e49\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e1b\u0e25\u0e32\u0e22\u0e19\u0e34\u0e49\u0e27",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_globetrotting",
-    "featured_img": "",
-    "icon": "com.endlessm.video_globetrotting.th-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Thai"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_globetrotting.th-thumb.jpg",
-    "subtitle": "\u0e17\u0e48\u0e2d\u0e07\u0e42\u0e25\u0e01\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e2d\u0e2d\u0e01\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07",
-    "title": "Globetrotting",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_globetrotting.vi",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_globetrotting.vi-splash.jpg",
-    "description": "Du ngo\u1ea1n qua nh\u1eefng phong c\u1ea3nh \u0111\u1eb9p nh\u1ea5t, t\u1eeb nh\u1eefng \u0111\u1ec9nh n\u00fai ph\u1ee7 \u0111\u1ea7y tuy\u1ebft \u0111\u1ebfn nh\u1eefng b\u00e3i bi\u1ec3n tr\u00e0n ng\u1eadp n\u1eafng. \u1ee8ng d\u1ee5ng video n\u00e0y s\u1ebd cho ph\u00e9p b\u1ea1n du l\u1ecbch kh\u1eafp th\u1ebf gi\u1edbi ch\u1ec9 v\u1edbi m\u1ed9t v\u00e0i thao t\u00e1c ch\u1ea1m tay \u0111\u01a1n gi\u1ea3n.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_globetrotting",
-    "featured_img": "",
-    "icon": "com.endlessm.video_globetrotting.vi-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Vietnamese"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_globetrotting.vi-thumb.jpg",
-    "subtitle": "Du l\u1ecbch v\u00f2ng quanh th\u1ebf gi\u1edbi t\u1ea1i nh\u00e0",
-    "title": "Globetrotting",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_kids.en",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_kids.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_kids-splash.jpg",
     "description": "Keep kids entertained with this video app. Fun guaranteed!",
     "displayShape": "b1",
     "exec": "com.endlessm.video_kids",
     "featured_img": "",
-    "icon": "com.endlessm.video_kids.en-icon.png",
+    "icon": "com.endlessm.video_kids-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_kids.en-screenshot1.jpg",
-        "com.endlessm.video_kids.en-screenshot2.jpg"
+        "com.endlessm.video_kids-screenshot1.jpg",
+        "com.endlessm.video_kids-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_kids.en-thumb.jpg",
+    "square_img": "com.endlessm.video_kids-thumb.jpg",
     "subtitle": "Kids will love these videos",
     "title": "Kids",
     "translation_id": null,
@@ -6181,126 +5917,30 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.video_kids.es",
+    "application-id": "com.endlessm.video_movement",
     "category": "Reference;",
     "core": false,
-    "custom-splash-screen": "com.endlessm.video_kids.es-splash.jpg",
-    "description": "Mant\u00e9n a los ni\u00f1os entretenidos con estos videos. \u00a1La diversi\u00f3n est\u00e1 garantizada!",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_kids",
-    "featured_img": "",
-    "icon": "com.endlessm.video_kids.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_kids.es-thumb.jpg",
-    "subtitle": "Videos que encantar\u00e1n a los ni\u00f1os",
-    "title": "Ni\u00f1os",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_kids.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_kids.pt-splash.jpg",
-    "description": "Mantenha as crian\u00e7as entretidas com estes v\u00eddeos. A divers\u00e3o \u00e9 garantida!",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_kids",
-    "featured_img": "",
-    "icon": "com.endlessm.video_kids.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_kids.pt-thumb.jpg",
-    "subtitle": "As crian\u00e7as v\u00e3o amar esses videos",
-    "title": "Kids",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_movement.en",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_movement.en-splash.jpg",
+    "custom-splash-screen": "com.endlessm.video_movement-splash.jpg",
     "description": "Be inspired watching videos about the incredible records and achievements of the greatest sports personalities of all time.",
     "displayShape": "b1",
     "exec": "com.endlessm.video_movement",
     "featured_img": "",
-    "icon": "com.endlessm.video_movement.en-icon.png",
+    "icon": "com.endlessm.video_movement-icon.png",
     "is_featured": false,
     "is_offline": false,
     "personalities": [
-      "Global"
+      "All"
     ],
     "screenshots": {
       "C": [
-        "com.endlessm.video_movement.en-screenshot1.jpg",
-        "com.endlessm.video_movement.en-screenshot2.jpg"
+        "com.endlessm.video_movement-screenshot1.jpg",
+        "com.endlessm.video_movement-screenshot2.jpg"
       ]
     },
     "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_movement.en-thumb.jpg",
+    "square_img": "com.endlessm.video_movement-thumb.jpg",
     "subtitle": "Find videos about your favorite sport",
     "title": "Movement",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_movement.es",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_movement.es-splash.jpg",
-    "description": "Insp\u00edrate viendo videos de incre\u00edbles r\u00e9cords y grandes deportistas de todos los tiempos.",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_movement",
-    "featured_img": "",
-    "icon": "com.endlessm.video_movement.es-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Spanish"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_movement.es-thumb.jpg",
-    "subtitle": "Encuentra tu deporte favorito",
-    "title": "Cuerpo en movimiento",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
-    "application-id": "com.endlessm.video_movement.pt",
-    "category": "Reference;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.video_movement.pt-splash.jpg",
-    "description": "Se inspire com v\u00eddeos de grandes esportistas e seus recordes. Depois \u00e9 s\u00f3 praticar \u00e0 vontade!",
-    "displayShape": "b1",
-    "exec": "com.endlessm.video_movement",
-    "featured_img": "",
-    "icon": "com.endlessm.video_movement.pt-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "Brazil"
-    ],
-    "screenshots": [],
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.video_movement.pt-thumb.jpg",
-    "subtitle": "Encontre seu esporte favorito",
-    "title": "Corpo em movimento",
     "translation_id": null,
     "translation_type": null,
     "tryexec": ""
