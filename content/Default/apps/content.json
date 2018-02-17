@@ -3743,6 +3743,126 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.inibudi_profesi.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.inibudi_profesi.id-splash.png",
+    "description": "Aplikasi ini memiliki kumpulan video profesi dan karier, perkembangan pribadi, dan kisah inspirasional dari Inibudi.org. Tujuan dari kumpulan video ini adalah untuk menumbuhkan potensi siswa secara utuh dengan cara membuka pikiran tentang keberagaman profesi yang tersedia untuk masa depan mereka. Inibudi adalah inisiatif pendidikan yang membuat dan membagikan materi digital berupa video belajar berkualitas. Semua video Inibudi dirancang oleh guru dan orang-orang yang kompeten di bidangnya, yang disesuaikan dengan tujuan dan materi kurikulum nasional.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.inibudi_profesi",
+    "featured_img": "",
+    "icon": "com.endlessm.inibudi_profesi.id-icon.jpg",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.inibudi_profesi.id-screenshot1.jpg",
+        "com.endlessm.inibudi_profesi.id-screenshot2.jpg",
+        "com.endlessm.inibudi_profesi.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.inibudi_profesi.id-thumb.jpg",
+    "subtitle": "Video inspirasi dari Inibudi.org",
+    "title": "Profesi dan Inspirasi",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.inibudi_sd.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.inibudi_sd.id-splash.png",
+    "description": "Aplikasi ini memiliki kumpulan video pelajaran untuk tingat Sekolah Dasar dari Inibudi.org. Inibudi adalah inisiatif pendidikan yang membuat dan membagikan materi digital berupa video belajar berkualitas. Semua video Inibudi dirancang oleh guru yang disesuaikan dengan tujuan dan materi kurikulum nasional. Video Inibudi dapat menjadi tugas mandiri siswa sebelum belajar, alternatif sumber belajar untuk menjelaskan di kelas, atau untuk mengulang dan menguatkan materi di rumah sehingga orangtua pun dapat terlibat dalam proses belajar anak. Video Inibudi bisa digunakan sebagai bagian dari proses belajar dan mengajar yang menyenangkan dan menantang karena menggunakan audio visual yang menarik, dengan isi yang mengaitkan aplikasi pelajaran ke kehidupan sehari-hari.\r\n",
+    "displayShape": "b1",
+    "exec": "com.endlessm.inibudi_sd",
+    "featured_img": "",
+    "icon": "com.endlessm.inibudi_sd.id-icon.jpg",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.inibudi_sd.id-screenshot1.jpg",
+        "com.endlessm.inibudi_sd.id-screenshot2.jpg",
+        "com.endlessm.inibudi_sd.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.inibudi_sd.id-thumb.jpg",
+    "subtitle": "Video pelajaran untuk tingkat SD",
+    "title": "Pelajaran SD",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.inibudi_sma.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.inibudi_sma.id-splash.png",
+    "description": "Aplikasi ini memiliki kumpulan video pelajaran untuk tingat Sekolah Menengah Atas dari Inibudi.org. Inibudi adalah inisiatif pendidikan yang membuat dan membagikan materi digital berupa video belajar berkualitas. Semua video Inibudi dirancang oleh guru yang disesuaikan dengan tujuan dan materi kurikulum nasional. Video Inibudi dapat menjadi tugas mandiri siswa sebelum belajar, alternatif sumber belajar untuk menjelaskan di kelas, atau untuk mengulang dan menguatkan materi di rumah sehingga orangtua pun dapat terlibat dalam proses belajar anak. Video Inibudi bisa digunakan sebagai bagian dari proses belajar dan mengajar yang menyenangkan dan menantang karena menggunakan audio visual yang menarik, dengan isi yang mengaitkan aplikasi pelajaran ke kehidupan sehari-hari.\r\n",
+    "displayShape": "b1",
+    "exec": "com.endlessm.inibudi_sma",
+    "featured_img": "",
+    "icon": "com.endlessm.inibudi_sma.id-icon.jpg",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.inibudi_sma.id-screenshot1.jpg",
+        "com.endlessm.inibudi_sma.id-screenshot2.jpg",
+        "com.endlessm.inibudi_sma.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.inibudi_sma.id-thumb.jpg",
+    "subtitle": "Video pelajaran untuk tingkat SMA",
+    "title": "Pelajaran SMA",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
+    "application-id": "com.endlessm.inibudi_smp.id",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "com.endlessm.inibudi_smp.id-splash.png",
+    "description": "Aplikasi ini memiliki kumpulan video pelajaran untuk tingat Sekolah Menengah Pertama dari Inibudi.org. Inibudi adalah inisiatif pendidikan yang membuat dan membagikan materi digital berupa video belajar berkualitas. Semua video Inibudi dirancang oleh guru yang disesuaikan dengan tujuan dan materi kurikulum nasional. Video Inibudi dapat menjadi tugas mandiri siswa sebelum belajar, alternatif sumber belajar untuk menjelaskan di kelas, atau untuk mengulang dan menguatkan materi di rumah sehingga orangtua pun dapat terlibat dalam proses belajar anak. Video Inibudi bisa digunakan sebagai bagian dari proses belajar dan mengajar yang menyenangkan dan menantang karena menggunakan audio visual yang menarik, dengan isi yang mengaitkan aplikasi pelajaran ke kehidupan sehari-hari.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.inibudi_smp",
+    "featured_img": "",
+    "icon": "com.endlessm.inibudi_smp.id-icon.jpg",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Indonesian"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.inibudi_smp.id-screenshot1.jpg",
+        "com.endlessm.inibudi_smp.id-screenshot2.jpg",
+        "com.endlessm.inibudi_smp.id-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Custom",
+    "square_img": "com.endlessm.inibudi_smp.id-thumb.jpg",
+    "subtitle": "Video pelajaran untuk tingkat SMP",
+    "title": "Pelajaran SMP",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.just_lia.pt",
     "category": "Reference;",
     "core": false,
