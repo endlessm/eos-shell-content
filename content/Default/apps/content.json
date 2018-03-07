@@ -561,6 +561,36 @@
     "tryexec": ""
   },
   {
+    "application-id": "com.endlessm.bibliotecas_embrapa.pt_BR",
+    "category": "Education;",
+    "core": false,
+    "custom-splash-screen": "",
+    "description": "Uma colet\u00e2nea de publica\u00e7\u00f5es dispon\u00edveis que ofertam a diversidade de informa\u00e7\u00f5es relativas \u00e0 produ\u00e7\u00e3o de alimentos, \u00e0 produtividade e a seguran\u00e7a alimentar.",
+    "displayShape": "b1",
+    "exec": "com.endlessm.bibliotecas_embrapa",
+    "featured_img": "",
+    "icon": "com.endlessm.bibliotecas_embrapa.pt_br-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "Brazil"
+    ],
+    "screenshots": {
+      "C": [
+        "com.endlessm.bibliotecas_embrapa.pt_br-screenshot1.jpg",
+        "com.endlessm.bibliotecas_embrapa.pt_br-screenshot2.jpg",
+        "com.endlessm.bibliotecas_embrapa.pt_br-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "com.endlessm.bibliotecas_embrapa.pt_br-thumb.jpg",
+    "subtitle": "Publica\u00e7\u00f5es Embrapa",
+    "title": "Bibliotecas Embrapa",
+    "translation_id": null,
+    "translation_type": null,
+    "tryexec": ""
+  },
+  {
     "application-id": "com.endlessm.biology.en",
     "category": "Education;Reference;",
     "core": false,
