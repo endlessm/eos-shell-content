@@ -2,9 +2,9 @@
   "desktop" : [
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
-    "libreoffice-writer.desktop",
-    "libreoffice-calc.desktop",
-    "libreoffice-impress.desktop",
+    "org.libreoffice.LibreOffice-writer.desktop",
+    "org.libreoffice.LibreOffice-calc.desktop",
+    "org.libreoffice.LibreOffice-impress.desktop",
     "com.endlessm.encyclopedia.pt.desktop",
     "eos-vlc.desktop",
     "eos-link-facebook.desktop",
