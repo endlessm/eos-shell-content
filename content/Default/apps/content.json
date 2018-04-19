@@ -34,46 +34,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "cheese",
-    "category": "AudioVideo;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Say cheese! Use a webcam and this awesome photobooth app to take pictures, apply filters, and share your creations with your friends and family. Try turning yourself green, or making yourself have two faces - you'll have hours of fun playing around and creating funny, cool and beautiful pictures!",
-    "displayShape": "b1",
-    "exec": "cheese",
-    "featured_img": "",
-    "icon": "cheese-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "cheese-screenshot1.jpg",
-        "cheese-screenshot2.jpg",
-        "cheese-screenshot3.jpg"
-      ],
-      "es": [
-        "cheese-screenshot1.jpg",
-        "cheese-screenshot2.jpg",
-        "cheese-screenshot3.jpg"
-      ],
-      "pt": [
-        "cheese-screenshot1.jpg",
-        "cheese-screenshot2.jpg",
-        "cheese-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "cheese-thumb.jpg",
-    "subtitle": "Take funny pictures of yourself and your friends",
-    "title": "Selfie",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "chromium-browser",
     "category": "Utility;",
     "core": true,
@@ -7700,6 +7660,46 @@
     "title": "GIMP",
     "translation_id": "gimp20",
     "translation_type": "gettext",
+    "tryexec": ""
+  },
+  {
+    "application-id": "org.gnome.Cheese",
+    "category": "AudioVideo;",
+    "core": true,
+    "custom-splash-screen": "",
+    "description": "Say cheese! Use a webcam and this awesome photobooth app to take pictures, apply filters, and share your creations with your friends and family. Try turning yourself green, or making yourself have two faces - you'll have hours of fun playing around and creating funny, cool and beautiful pictures!",
+    "displayShape": "b1",
+    "exec": "cheese",
+    "featured_img": "",
+    "icon": "org.gnome.cheese-icon.png",
+    "is_featured": false,
+    "is_offline": false,
+    "personalities": [
+      "All"
+    ],
+    "screenshots": {
+      "C": [
+        "org.gnome.cheese-screenshot1.jpg",
+        "org.gnome.cheese-screenshot2.jpg",
+        "org.gnome.cheese-screenshot3.jpg"
+      ],
+      "es": [
+        "org.gnome.cheese-screenshot1.jpg",
+        "org.gnome.cheese-screenshot2.jpg",
+        "org.gnome.cheese-screenshot3.jpg"
+      ],
+      "pt": [
+        "org.gnome.cheese-screenshot1.jpg",
+        "org.gnome.cheese-screenshot2.jpg",
+        "org.gnome.cheese-screenshot3.jpg"
+      ]
+    },
+    "splash-screen-type": "Default",
+    "square_img": "org.gnome.cheese-thumb.jpg",
+    "subtitle": "Take funny pictures of yourself and your friends",
+    "title": "Selfie",
+    "translation_id": null,
+    "translation_type": null,
     "tryexec": ""
   },
   {
