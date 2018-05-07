@@ -1,13 +1,27 @@
 [Desktop Entry]
 Version=1.0
 Name=Funny Videos
+Name[ar]=فيديوهات مرحة
 Name[es]=Videos divertidos
+Name[fr]=Vidéos humoristiques
+Name[hi]=मज़ेदार वीडियो
 Name[id]=Video-Video Lucu
 Name[pt_BR]=Vídeos divertidos
+Name[th]=วิดีโอตลก
+Name[vi]=Video Hài hước
+Name[zh_CN]=有趣视频
+Name[zh_TW]=有趣影片
 Comment=Laughter is the best medicine
+Comment[ar]=الضحك هو أفضل دواء
 Comment[es]=La risa es el mejor remedio
+Comment[fr]=Rire est le meilleur remède.
+Comment[hi]=हंसी सर्वोत्तम दवा है
 Comment[id]=Tertawa adalah obat terbaik
 Comment[pt_BR]=Rir ainda é o melhor remédio
+Comment[th]=การหัวเราะเป็นยาที่ดีที่สุด
+Comment[vi]=Tiếng cười là liều thuốc tốt nhất
+Comment[zh_CN]=笑是最佳良药
+Comment[zh_TW]=一笑治百病
 Type=Application
 Exec=com.endlessm.video_funny_videos
 Icon=eos-app-com.endlessm.video_funny_videos
