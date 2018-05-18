@@ -4495,46 +4495,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "com.endlessm.photos",
-    "category": "Graphics;",
-    "core": false,
-    "custom-splash-screen": "com.endlessm.photos-splash.jpg",
-    "description": "Have you ever wanted to edit your own photos like the pros and create beautiful images you can share with those you love? Well, now you can do that in just a few steps! We have a variety of attractive, artful filters so you can customize your photos and create one-of-a-kind works of art from your everyday life. With this handy app, you can post your creations directly to Facebook, so everyone can see your awesome pictures!",
-    "displayShape": "b1",
-    "exec": "eos-photos %f",
-    "featured_img": "",
-    "icon": "com.endlessm.photos-icon.png",
-    "is_featured": true,
-    "is_offline": true,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "com.endlessm.photos-screenshot1.jpg",
-        "com.endlessm.photos-screenshot2.jpg",
-        "com.endlessm.photos-screenshot3.jpg"
-      ],
-      "es": [
-        "com.endlessm.photos-screenshot1.jpg",
-        "com.endlessm.photos-screenshot2.jpg",
-        "com.endlessm.photos-screenshot3.jpg"
-      ],
-      "pt": [
-        "com.endlessm.photos-screenshot1.jpg",
-        "com.endlessm.photos-screenshot2.jpg",
-        "com.endlessm.photos-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Custom",
-    "square_img": "com.endlessm.photos-thumb.jpg",
-    "subtitle": "Easily edit and share all of your favorite photos",
-    "title": "Photo Editor",
-    "translation_id": "eos-photos",
-    "translation_type": "gettext",
-    "tryexec": ""
-  },
-  {
     "application-id": "com.endlessm.physics.en",
     "category": "Education;",
     "core": false,
