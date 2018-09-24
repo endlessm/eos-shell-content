@@ -1,5 +1,5 @@
 {
-  "desktop" : [
+  "desktop": [
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
     "org.libreoffice.LibreOffice-writer.desktop",
@@ -18,19 +18,7 @@
     "eos-dropbox.desktop",
     "rhythmbox.desktop"
   ],
-  "eos-folder-media.directory" : [
-    "com.endlessm.photos.desktop",
-    "shotwell.desktop",
-    "eos-vlc.desktop",
-    "eos-spotify.desktop",
-    "org.gnome.Totem.desktop",
-    "org.tuxpaint.Tuxpaint.desktop",
-    "net.sourceforge.Audacity.desktop",
-    "com.endlessm.world_literature.es.desktop",
-    "org.gimp.Gimp.desktop",
-    "eos-link-youtube.desktop"
-  ],
-  "eos-folder-curiosity.directory" : [
+  "eos-folder-curiosity.directory": [
     "com.endlessm.prensa_libre.es_GT.desktop",
     "com.endlessm.cooking.es_GT.desktop",
     "com.endlessm.celebrities.es_GT.desktop",
@@ -42,22 +30,34 @@
     "com.endlessm.translation.desktop",
     "eos-link-duolingo.desktop"
   ],
-  "eos-folder-games.directory" : [
-    "net.sourceforge.Supertuxkart.desktop",
+  "eos-folder-games.directory": [
+    "net.supertuxkart.SuperTuxKart.desktop",
     "de.billardgl.Billardgl.desktop",
-    "org.seul.Pingus.desktop",
-    "org.debian.alioth.tux4kids.Tuxmath.desktop",
-    "net.gcompris.Gcompris.desktop",
-    "org.debian.alioth.tux4kids.Tuxtype.desktop",
+    "org.seul.pingus.desktop",
+    "com.tux4kids.tuxmath.desktop",
+    "org.kde.gcompris.desktop",
+    "com.tux4kids.tuxtype.desktop",
     "kde4-org.kde.Ktuberling.desktop",
-    "org.maemo.Numptyphysics.desktop",
-    "org.debian.Tuxpuck.desktop",
-    "net.sourceforge.Rili.desktop",
+    "io.thp.numptyphysics.desktop",
+    "org.debian.TuxPuck.desktop",
+    "net.sourceforge.Ri-li.desktop",
     "com.teeworlds.Teeworlds.desktop",
-    "net.sourceforge.Extremetuxracer.desktop",
-    "net.sourceforge.Warmux.desktop"
+    "net.sourceforge.ExtremeTuxRacer.desktop",
+    "org.gna.Warmux.desktop"
   ],
-  "eos-folder-social.directory" : [
+  "eos-folder-media.directory": [
+    "com.endlessm.photos.desktop",
+    "shotwell.desktop",
+    "eos-vlc.desktop",
+    "eos-spotify.desktop",
+    "org.gnome.Totem.desktop",
+    "org.tuxpaint.Tuxpaint.desktop",
+    "org.audacityteam.Audacity.desktop",
+    "com.endlessm.world_literature.es.desktop",
+    "org.gimp.GIMP.desktop",
+    "eos-link-youtube.desktop"
+  ],
+  "eos-folder-social.directory": [
     "eos-link-twitter.desktop",
     "evolution.desktop",
     "eos-link-gmail.desktop"

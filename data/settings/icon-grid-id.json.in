@@ -1,5 +1,5 @@
 {
-  "desktop" : [
+  "desktop": [
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
     "org.libreoffice.LibreOffice-writer.desktop",
@@ -24,24 +24,7 @@
     "com.endlessm.video_animal_kingdom.desktop",
     "net.minetest.Minetest.desktop"
   ],
-  "eos-folder-media.directory" : [
-    "com.endlessm.photos.desktop",
-    "shotwell.desktop",
-    "eos-spotify.desktop",
-    "org.gnome.Totem.desktop",
-    "org.tuxpaint.Tuxpaint.desktop",
-    "net.sourceforge.Audacity.desktop",
-    "org.kde.krita.desktop",
-    "rhythmbox.desktop",
-    "org.gimp.Gimp.desktop"
-  ],
-  "eos-folder-news.directory" : [
-    "com.endlessm.detik_news.id.desktop",
-    "com.endlessm.hipwee.id.desktop",
-    "com.endlessm.kapan_lagi.id.desktop",
-    "com.endlessm.bola_net.id.desktop"
-  ],
-  "eos-folder-curiosity.directory" : [
+  "eos-folder-curiosity.directory": [
     "com.endlessm.celebrities.id.desktop",
     "com.endlessm.astronomy.id.desktop",
     "com.endlessm.biology.id.desktop",
@@ -62,22 +45,39 @@
     "com.endlessm.video_movement.desktop",
     "com.endlessm.video_animations.desktop"
   ],
-  "eos-folder-games.directory" : [
-    "net.sourceforge.Supertuxkart.desktop",
+  "eos-folder-games.directory": [
+    "net.supertuxkart.SuperTuxKart.desktop",
     "de.billardgl.Billardgl.desktop",
-    "org.seul.Pingus.desktop",
-    "org.debian.alioth.tux4kids.Tuxmath.desktop",
-    "net.gcompris.Gcompris.desktop",
-    "org.debian.alioth.tux4kids.Tuxtype.desktop",
+    "org.seul.pingus.desktop",
+    "com.tux4kids.tuxmath.desktop",
+    "org.kde.gcompris.desktop",
+    "com.tux4kids.tuxtype.desktop",
     "kde4-org.kde.Ktuberling.desktop",
-    "org.maemo.Numptyphysics.desktop",
-    "org.debian.Tuxpuck.desktop",
-    "net.sourceforge.Rili.desktop",
+    "io.thp.numptyphysics.desktop",
+    "org.debian.TuxPuck.desktop",
+    "net.sourceforge.Ri-li.desktop",
     "com.teeworlds.Teeworlds.desktop",
-    "net.sourceforge.Extremetuxracer.desktop",
-    "net.sourceforge.Warmux.desktop"
+    "net.sourceforge.ExtremeTuxRacer.desktop",
+    "org.gna.Warmux.desktop"
   ],
-  "eos-folder-social.directory" : [
+  "eos-folder-media.directory": [
+    "com.endlessm.photos.desktop",
+    "shotwell.desktop",
+    "eos-spotify.desktop",
+    "org.gnome.Totem.desktop",
+    "org.tuxpaint.Tuxpaint.desktop",
+    "org.audacityteam.Audacity.desktop",
+    "org.kde.krita.desktop",
+    "rhythmbox.desktop",
+    "org.gimp.GIMP.desktop"
+  ],
+  "eos-folder-news.directory": [
+    "com.endlessm.detik_news.id.desktop",
+    "com.endlessm.hipwee.id.desktop",
+    "com.endlessm.kapan_lagi.id.desktop",
+    "com.endlessm.bola_net.id.desktop"
+  ],
+  "eos-folder-social.directory": [
     "eos-link-twitter.desktop",
     "evolution.desktop",
     "eos-skype.desktop",
