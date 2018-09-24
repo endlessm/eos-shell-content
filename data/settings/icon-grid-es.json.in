@@ -1,5 +1,5 @@
 {
-  "desktop" : [
+  "desktop": [
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
     "org.libreoffice.LibreOffice-writer.desktop",
@@ -18,17 +18,7 @@
     "com.endlessm.cooking.es.desktop",
     "rhythmbox.desktop"
   ],
-  "eos-folder-media.directory" : [
-    "com.endlessm.photos.desktop",
-    "shotwell.desktop",
-    "eos-spotify.desktop",
-    "org.gnome.Totem.desktop",
-    "org.tuxpaint.Tuxpaint.desktop",
-    "net.sourceforge.Audacity.desktop",
-    "com.endlessm.world_literature.es.desktop",
-    "org.gimp.Gimp.desktop"
-  ],
-  "eos-folder-curiosity.directory" : [
+  "eos-folder-curiosity.directory": [
     "com.endlessm.myths.es.desktop",
     "com.endlessm.math.es.desktop",
     "com.endlessm.howto.es.desktop",
@@ -39,7 +29,7 @@
     "com.endlessm.translation.desktop",
     "eos-link-duolingo.desktop"
   ],
-  "eos-folder-games.directory" : [
+  "eos-folder-games.directory": [
     "net.sourceforge.Supertuxkart.desktop",
     "de.billardgl.Billardgl.desktop",
     "org.seul.Pingus.desktop",
@@ -54,7 +44,17 @@
     "net.sourceforge.Extremetuxracer.desktop",
     "net.sourceforge.Warmux.desktop"
   ],
-  "eos-folder-social.directory" : [
+  "eos-folder-media.directory": [
+    "com.endlessm.photos.desktop",
+    "shotwell.desktop",
+    "eos-spotify.desktop",
+    "org.gnome.Totem.desktop",
+    "org.tuxpaint.Tuxpaint.desktop",
+    "net.sourceforge.Audacity.desktop",
+    "com.endlessm.world_literature.es.desktop",
+    "org.gimp.Gimp.desktop"
+  ],
+  "eos-folder-social.directory": [
     "eos-link-twitter.desktop",
     "evolution.desktop",
     "eos-skype.desktop",

@@ -1,5 +1,5 @@
 {
-  "desktop" : [
+  "desktop": [
     "chromium-browser.desktop",
     "org.gnome.Nautilus.desktop",
     "eos-folder-curiosity.directory",
@@ -12,27 +12,11 @@
     "kde4-org.kde.Kbruch.desktop",
     "gnome-control-center.desktop"
   ],
-  "eos-folder-curiosity.directory" : [
+  "eos-folder-curiosity.directory": [
     "com.endlessm.chinese_curriculum_math.zh_CN.desktop",
     "com.endlessm.chinese_curriculum_english.zh_CN.desktop"
   ],
-  "eos-folder-work.directory" : [
-    "org.libreoffice.LibreOffice-writer.desktop",
-    "org.libreoffice.LibreOffice-calc.desktop",
-    "org.libreoffice.LibreOffice-impress.desktop"
-  ],
-  "eos-folder-tools.directory" : [
-    "rhythmbox.desktop",
-    "org.gnome.Totem.desktop",
-    "net.sourceforge.Audacity.desktop",
-    "shotwell.desktop",
-    "com.endlessm.photos.desktop",
-    "org.gimp.Gimp.desktop",
-    "gnome-calculator.desktop",
-    "eos-link-baidudict.desktop",
-    "eos-link-bingdict.desktop"
-  ],
-  "eos-folder-games.directory" : [
+  "eos-folder-games.directory": [
     "net.sourceforge.Supertuxkart.desktop",
     "de.billardgl.Billardgl.desktop",
     "net.minetest.Minetest.desktop",
@@ -48,10 +32,26 @@
     "net.sourceforge.Extremetuxracer.desktop",
     "net.sourceforge.Warmux.desktop"
   ],
-  "eos-folder-social.directory" : [
+  "eos-folder-social.directory": [
     "eos-link-wechat.desktop",
     "eos-link-qq.desktop",
     "eos-link-whatsapp.desktop",
     "evolution.desktop"
+  ],
+  "eos-folder-tools.directory": [
+    "rhythmbox.desktop",
+    "org.gnome.Totem.desktop",
+    "net.sourceforge.Audacity.desktop",
+    "shotwell.desktop",
+    "com.endlessm.photos.desktop",
+    "org.gimp.Gimp.desktop",
+    "gnome-calculator.desktop",
+    "eos-link-baidudict.desktop",
+    "eos-link-bingdict.desktop"
+  ],
+  "eos-folder-work.directory": [
+    "org.libreoffice.LibreOffice-writer.desktop",
+    "org.libreoffice.LibreOffice-calc.desktop",
+    "org.libreoffice.LibreOffice-impress.desktop"
   ]
 }
