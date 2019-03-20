@@ -154,13 +154,13 @@ foreach my $package (@{$dh{DOPACKAGES}}) {
 	$desktop = app_desktop_file($app_id, $tmp);
 	if ($desktop) {
 		verbose_print("Updating desktop file $desktop");
-		doit("eos-content-merge -i $content_id -d $desktop");
+		doit("eos-content-merge", "-i", $content_id, "-d", $desktop);
 	}
 
 	$app_data_file = app_appdata_file($app_id, $tmp);
 	if ($app_data_file) {
 		verbose_print("Updating appdata file $app_data_file");
-		doit("eos-content-merge -i $content_id -a $app_data_file");
+		doit("eos-content-merge", "-i", $content_id, "-a", $app_data_file);
 	}
 }
 
