@@ -38,6 +38,8 @@ else:
 # Strip out blacklisted apps
 cpu_blacklist = blacklist.get(args.cpu, [])
 for app in cpu_blacklist:
+    if app in grid:
+        del grid[app]
     for sect, apps in grid.items():
         if app in apps:
             grid[sect].remove(app)
