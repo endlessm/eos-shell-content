@@ -44,6 +44,14 @@ for app in cpu_blacklist:
         if app in apps:
             grid[sect].remove(app)
 
+# Check that all directories are in the top-level "desktop" pseudo-directory
+desktop = grid["desktop"]
+for directory in grid:
+    if directory != "desktop" and directory not in desktop:
+        raise ValueError(
+            '"{}" defined but not in "desktop" directory'.format(directory)
+        )
+
 # Write out the new json, keeping the indentation, separators and
 # trailing newline from the original. If successful, rename the
 # temporary file to the final name.
