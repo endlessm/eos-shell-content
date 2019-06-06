@@ -22,6 +22,8 @@
     "rhythmbox.desktop"
   ],
   "eos-folder-curiosity.directory": [
+    "com.endlessnetwork.sciencesnacks.desktop",
+    "com.endlessnetwork.shortfilms.desktop",
     "com.endlessm.celebrities.en.desktop",
     "com.endlessm.myths.en.desktop",
     "com.endlessm.math.en.desktop",
@@ -61,13 +63,11 @@
     "eos-unity.desktop"
   ],
   "eos-folder-learn-to-code.directory": [
+    "com.endlessnetwork.arduinoprojects.desktop",
     "com.endlessnetwork.csstutorials.desktop",
     "com.endlessnetwork.htmltutorials.desktop",
-    "com.endlessnetwork.blendertutorials.desktop",
-    "com.endlessnetwork.shortfilms.desktop",
-    "com.endlessnetwork.sciencesnacks.desktop",
-    "com.endlessnetwork.arduinoprojects.desktop",
-    "com.endlessnetwork.raspberrypiprojects.desktop"
+    "com.endlessnetwork.raspberrypiprojects.desktop",
+    "com.endlessnetwork.videogamestutorials.desktop"
   ],
   "eos-folder-media.directory": [
     "com.endlessm.photos.desktop",
@@ -77,7 +77,9 @@
     "org.tuxpaint.Tuxpaint.desktop",
     "org.audacityteam.Audacity.desktop",
     "com.endlessm.world_literature.en.desktop",
-    "org.gimp.GIMP.desktop"
+    "org.gimp.GIMP.desktop",
+    "com.endlessnetwork.blendertutorials.desktop",
+    "com.endlessnetwork.drawingtutorials.desktop"
   ],
   "eos-folder-social.directory": [
     "eos-link-twitter.desktop",
