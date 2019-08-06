@@ -9,9 +9,6 @@
 # flatpaks from upstream repos.
 
 EXTRA_CATEGORIES = {
-    'com.endlessm.animals': ['Reference'],
-    'com.endlessm.astronomy': ['Reference'],
-    'com.endlessm.biology': ['Reference'],
     'com.endlessm.childrens_collection': ['Education'],
     'com.endlessm.creativity_center': ['Education'],
     'com.endlessm.dinosaurs': ['Reference'],
@@ -22,7 +19,6 @@ EXTRA_CATEGORIES = {
     'com.endlessm.guatemalan_curriculum': ['Reference'],
     'com.endlessm.library': ['Education'],
     'com.endlessm.mayan_languages': ['Reference'],
-    'com.endlessm.myths': ['Reference'],
     'com.endlessm.programming': ['Game'],
     'com.endlessm.spanish_guarani_dictionary': ['Education'],
     'com.endlessm.translation': ['Office']
