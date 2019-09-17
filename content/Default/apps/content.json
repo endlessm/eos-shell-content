@@ -6654,40 +6654,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "gnome-calculator",
-    "category": "Utility;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Do you ever consider how often you need to do basic or even complex math in daily life? From calculating a budget to converting measurements in a recipe to figuring out taxes, you probably use equations more regularly than you think. That\u2019s why this calculator app comes in handy. Perform simple arithmetic quickly, or allow the calculator to do more advanced work, depending on your needs. You\u2019ll never struggle to perform mathematical tasks again as long as you have this calculator app!",
-    "displayShape": "b1",
-    "exec": "gnome-calculator",
-    "featured_img": "",
-    "icon": "gnome-calculator-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "gnome-calculator-screenshot1.jpg"
-      ],
-      "es": [
-        "gnome-calculator-screenshot1.jpg"
-      ],
-      "pt": [
-        "gnome-calculator-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "gnome-calculator-thumb.jpg",
-    "subtitle": "A scientific calculator with many bonus tools",
-    "title": "Calculator",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "gnome-control-center",
     "category": "Utility;",
     "core": true,
