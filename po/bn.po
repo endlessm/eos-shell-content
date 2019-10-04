@@ -5,6 +5,7 @@
 # Translators:
 # Aditi Kabir <aditi.kabir@gmail.com>, 2016
 # cyrus adhikari <adhikari@mpower-social.com>, 2017
+# Farhan Nayeem <farhannayeem.8@gmail.com>, 2019
 # Mohammed Zunaid <zunaid@mpower-social.com>, 2017
 # Philip Chimento <philip.chimento@gmail.com>, 2016
 # Shimon Sharmin <oparthib@gmail.com>, 2016
@@ -13,8 +14,8 @@ msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
 "POT-Creation-Date: 2019-03-29 20:33+0000\n"
-"PO-Revision-Date: 2019-03-30 12:28+0000\n"
-"Last-Translator: Will Thompson <wjt@endlessm.com>\n"
+"PO-Revision-Date: 2019-08-01 13:07+0000\n"
+"Last-Translator: Farhan Nayeem <farhannayeem.8@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-os/eos-shell-content/language/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -193,60 +194,60 @@ msgstr "যেকোনো ভাষায় নিজের ভাবনা প�
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
 msgid "Animal Kingdom"
-msgstr ""
+msgstr "প্রানীররাজ্য"
 
 #: content/Default/apps/content.json.h:29
 msgctxt "subtitle"
 msgid "All about animals"
-msgstr ""
+msgstr "সমস্ত প্রানী সম্পর্কে"
 
 #: content/Default/apps/content.json.h:30
 msgctxt "description"
 msgid ""
 "Awesome videos showing animals from the fluffiest to the wildest beasts of "
 "the animal kingdom."
-msgstr ""
+msgstr "প্রাণিদের কিংডমের তুলতুলে থেকে বন্য প্রাণীদের দেখানো দুর্দান্ত ভিডিও।"
 
 #: content/Default/apps/content.json.h:31
 msgctxt "title"
 msgid "Animations"
-msgstr ""
+msgstr "অ্যানিমেশন"
 
 #: content/Default/apps/content.json.h:32
 msgctxt "subtitle"
 msgid "Images are worth more than words"
-msgstr ""
+msgstr "চিত্র শব্দের চেয়ে বেশি মূল্যবান"
 
 #: content/Default/apps/content.json.h:33
 msgctxt "description"
 msgid "Videos with funny and clever animations for the whole family."
-msgstr ""
+msgstr "পুরো পরিবারের জন্য মজার এবং চতুর অ্যানিমেশন সহ ভিডিও।"
 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
 msgid "Funny Videos"
-msgstr ""
+msgstr "মজার ভিডিও"
 
 #: content/Default/apps/content.json.h:35
 msgctxt "subtitle"
 msgid "Laughter is the best medicine"
-msgstr ""
+msgstr "হাসি সব থেকে ভাল ঔষধ"
 
 #: content/Default/apps/content.json.h:36
 msgctxt "description"
 msgid ""
 "These funny videos will help you share a good laugh with the whole family. "
-msgstr ""
+msgstr "এই মজার ভিডিওগুলি আপনাকে পুরো পরিবারের সাথে একটি ভাল হাসি ভাগ করতে সহায়তা করবে।"
 
 #: content/Default/apps/content.json.h:37
 msgctxt "title"
 msgid "Globetrotting"
-msgstr ""
+msgstr "পৃথিবী অন্বেষণ করা"
 
 #: content/Default/apps/content.json.h:38
 msgctxt "subtitle"
 msgid "Travel the world without leaving home"
-msgstr ""
+msgstr "ঘর না ছেড়ে বিশ্ব ভ্রমণ কর"
 
 #: content/Default/apps/content.json.h:39
 msgctxt "description"
@@ -254,39 +255,39 @@ msgid ""
 "Navigate through the most beautiful landscapes, from snowy mountains to "
 "sunny beaches. This video app will allow you to travel the world from the "
 "tips of your fingers."
-msgstr ""
+msgstr "তুষারময় পাহাড় থেকে রৌদ্র সমুদ্র সৈকত পর্যন্ত সর্বাধিক সুন্দর ল্যান্ডস্কেপ নেভিগেট করুন। এই ভিডিও অ্যাপ্লিকেশন আপনাকে আপনার আঙ্গুলের পরামর্শ থেকে বিশ্ব ভ্রমণ করার অনুমতি দেবে।"
 
 #: content/Default/apps/content.json.h:40
 msgctxt "title"
 msgid "Kids"
-msgstr ""
+msgstr "শিশুদের"
 
 #: content/Default/apps/content.json.h:41
 msgctxt "subtitle"
 msgid "Kids will love these videos"
-msgstr ""
+msgstr "বাচ্চারা এই ভিডিওগুলি ভালবাসবে"
 
 #: content/Default/apps/content.json.h:42
 msgctxt "description"
 msgid "Keep kids entertained with this video app. Fun guaranteed!"
-msgstr ""
+msgstr "বাচ্চাদের এই ভিডিও অ্যাপটি দিয়ে বিনোদন দিন। মজাদার নিশ্চয়তা!"
 
 #: content/Default/apps/content.json.h:43
 msgctxt "title"
 msgid "Movement"
-msgstr ""
+msgstr "নড়াচড়া"
 
 #: content/Default/apps/content.json.h:44
 msgctxt "subtitle"
 msgid "Find videos about your favorite sport"
-msgstr ""
+msgstr "আপনার প্রিয় খেলা সম্পর্কে ভিডিও সন্ধান করুন"
 
 #: content/Default/apps/content.json.h:45
 msgctxt "description"
 msgid ""
 "Be inspired watching videos about the incredible records and achievements of"
 " the greatest sports personalities of all time."
-msgstr ""
+msgstr "অবিশ্বাস্য রেকর্ড এবং সর্বকালের সেরা ক্রীড়া ব্যক্তিত্বের অর্জন সম্পর্কে ভিডিও দেখে অনুপ্রাণিত হন।"
 
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
@@ -315,7 +316,7 @@ msgstr "গুগল ক্রোম"
 #: content/Default/apps/content.json.h:50
 msgctxt "subtitle"
 msgid "Google's popular web browser"
-msgstr ""
+msgstr "গুগলের জনপ্রিয় ওয়েব ব্রাউজার"
 
 #: content/Default/apps/content.json.h:51
 msgctxt "description"
@@ -353,7 +354,7 @@ msgstr "মাইনক্রাফ্ট"
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
 msgid "Create your own world in one of the most popular video games"
-msgstr ""
+msgstr "একটি জনপ্রিয় ভিডিও গেম এর মধ্যে নিজস্ব বিশ্ব তৈরি করুন "
 
 #: content/Default/apps/content.json.h:57
 msgctxt "description"
@@ -375,7 +376,7 @@ msgstr "স্ল্যাক"
 #: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Chat with your team"
-msgstr ""
+msgstr "আপনার দলের সাথে আলাপচারি করুন"
 
 #: content/Default/apps/content.json.h:60
 msgctxt "description"
@@ -413,7 +414,7 @@ msgstr "আপনার পছন্দের সব গান শুনুন, 
 #: content/Default/apps/content.json.h:64
 msgctxt "title"
 msgid "Sublime Text"
-msgstr ""
+msgstr "মহিমান্বিত পাঠ"
 
 #: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
@@ -1147,7 +1148,7 @@ msgstr "এই অগ্রবর্তী ফটো সম্পাদনা �
 #: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Selfie"
-msgstr ""
+msgstr "সেলফি"
 
 #: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
@@ -2067,7 +2068,7 @@ msgstr "ফায়ার ফক্স"
 #: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Mozilla's popular web browser"
-msgstr ""
+msgstr "মজিলার জনপ্রিয় ওয়েব ব্রাউজার"
 
 #: content/Default/apps/content.json.h:306
 msgctxt "description"
