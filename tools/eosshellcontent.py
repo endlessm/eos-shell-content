@@ -85,8 +85,8 @@ class ShellContent:
                 return metadata
 
             # Take into account "localized" IDs for Endless applications.
-            # E.g. and app ID of "com.endlessm.animals" in the metadata is a valid
-            # metadata for "com.endlessm.animals.en"
+            # E.g. and app ID of "com.endlessm.howto" in the metadata is a valid
+            # metadata for "com.endlessm.howto.en"
             components = app_id.rsplit('.', 1)
             unlocalized_id = components[0]
             try:
