@@ -11,6 +11,7 @@
     "eos-folder-media.directory",
     "eos-folder-curiosity.directory",
     "eos-folder-games.directory",
+    "eos-folder-learn-to-code.directory",
     "eos-folder-games-to-hack.directory",
     "eos-folder-social.directory",
     "net.minetest.Minetest.desktop",
@@ -76,5 +77,9 @@
     "eos-link-twitter.desktop",
     "evolution.desktop",
     "eos-link-gmail.desktop"
+  ],
+  "eos-folder-learn-to-code.directory": [
+    "edu.mit.Scratch.desktop",
+    "org.laptop.TurtleArtActivity.desktop"
   ]
 }
