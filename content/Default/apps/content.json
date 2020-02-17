@@ -4663,34 +4663,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.debian.Tuxpuck",
-    "category": "Game;",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "An air hockey game in which you try to knock the puck past your opponent's defense. This is a great game for the whole family! Test your skill and reflexes to win this fast paced match!  (While the game is running, press F5 or F6 to adjust your paddle speed.)",
-    "displayShape": "b1",
-    "exec": "resfix tuxpuck",
-    "featured_img": "",
-    "icon": "org.debian.tuxpuck-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.debian.tuxpuck-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.debian.tuxpuck-thumb.jpg",
-    "subtitle": "Exciting air hockey game for you and your friends",
-    "title": "Tux Puck",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": "tuxpuck"
-  },
-  {
     "application-id": "org.debian.alioth.tux4kids.Tuxmath",
     "category": "Education;",
     "core": false,
