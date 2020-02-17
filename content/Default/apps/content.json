@@ -6537,40 +6537,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.squeakland.Scratch",
-    "category": "Education;",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Do you love computer games and applications? Why not learn how to make your own? This app teaches you the basics of computer programming in a fun and easy-to-learn way. You can pick characters and objects that you like and then add instructions so that they do what you want. As you become more advanced, you'll see that you can make almost anything you want come to life on the screen by putting in the right instructions. What cool video game will you someday make? ",
-    "displayShape": "b1",
-    "exec": "scratch %f",
-    "featured_img": "",
-    "icon": "org.squeakland.scratch-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.squeakland.scratch-screenshot1.jpg"
-      ],
-      "es": [
-        "org.squeakland.scratch-screenshot1.jpg"
-      ],
-      "pt": [
-        "org.squeakland.scratch-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.squeakland.scratch-thumb.jpg",
-    "subtitle": "Learn basic computer programming",
-    "title": "Scratch",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "org.stellarium.Stellarium",
     "category": "Education;",
     "core": false,
