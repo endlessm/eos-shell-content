@@ -6462,40 +6462,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.pitivi.Pitivi",
-    "category": "AudioVideo;",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Create videos for projects, friends, family, or just for fun! Look through hundreds of transitions, video effects, audio effects, and filters to help make your video just right. Whether you want to tell a story, make a gift for a friend, create a professional-looking video, or just want to express yourself, this video editor will help you do it!",
-    "displayShape": "b1",
-    "exec": "pitivi",
-    "featured_img": "",
-    "icon": "org.pitivi.pitivi-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.pitivi.pitivi-screenshot1.jpg"
-      ],
-      "es": [
-        "org.pitivi.pitivi-screenshot1.jpg"
-      ],
-      "pt": [
-        "org.pitivi.pitivi-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.pitivi.pitivi-thumb.jpg",
-    "subtitle": "Hundreds of transitions, effects, and filters to edit your videos",
-    "title": "Video Editor",
-    "translation_id": "pitivi",
-    "translation_type": "gettext",
-    "tryexec": ""
-  },
-  {
     "application-id": "org.seul.Pingus",
     "category": "Game;",
     "core": false,
