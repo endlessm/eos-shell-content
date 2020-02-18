@@ -6635,46 +6635,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.sugarlabs.Turtleblocks",
-    "category": "Education;",
-    "core": false,
-    "custom-splash-screen": "",
-    "description": "Learn the basics of computer programming while creating beautiful artwork! First, drag and drop commands for your turtle to follow from the menu. As the turtle moves, it will draw colorful lines behind it. You can change the colors, and start to design your masterpiece, all while learning the basics of computer programming.",
-    "displayShape": "b1",
-    "exec": "turtleblocks",
-    "featured_img": "",
-    "icon": "org.sugarlabs.turtleblocks-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.sugarlabs.turtleblocks-screenshot1.jpg",
-        "org.sugarlabs.turtleblocks-screenshot2.jpg",
-        "org.sugarlabs.turtleblocks-screenshot3.jpg"
-      ],
-      "es": [
-        "org.sugarlabs.turtleblocks-screenshot1.jpg",
-        "org.sugarlabs.turtleblocks-screenshot2.jpg",
-        "org.sugarlabs.turtleblocks-screenshot3.jpg"
-      ],
-      "pt": [
-        "org.sugarlabs.turtleblocks-screenshot1.jpg",
-        "org.sugarlabs.turtleblocks-screenshot2.jpg",
-        "org.sugarlabs.turtleblocks-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "org.sugarlabs.turtleblocks-thumb.jpg",
-    "subtitle": "Visually program with turtle art",
-    "title": "Turtle Blocks",
-    "translation_id": "org.laptop.TurtleArtActivity",
-    "translation_type": "gettext",
-    "tryexec": ""
-  },
-  {
     "application-id": "org.tuxfamily.Xmoto",
     "category": "Game;",
     "core": false,
