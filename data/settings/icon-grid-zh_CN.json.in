@@ -6,6 +6,7 @@
     "eos-folder-work.directory",
     "eos-folder-tools.directory",
     "eos-folder-games.directory",
+    "eos-folder-learn-to-code.directory",
     "eos-folder-games-to-hack.directory",
     "eos-folder-social.directory",
     "eos-link-duolingo.desktop",
@@ -39,10 +40,12 @@
   "eos-folder-games-to-hack.directory": [
     "com.endlessnetwork.aqueducts.desktop",
     "com.endlessnetwork.dragonsapprentice.desktop",
+    "com.endlessnetwork.fablemaker.desktop",
     "com.endlessnetwork.frogsquash.desktop",
+    "com.endlessnetwork.MidnightmareTeddy.desktop",
     "com.endlessnetwork.passage.desktop",
     "com.endlessnetwork.tankwarriors.desktop",
-    "com.endlessnetwork.MidnightmareTeddy.desktop",
+    "com.endlessnetwork.whitehouse.desktop",
     "eos-unity.desktop"
   ],
   "eos-folder-social.directory": [
@@ -58,13 +61,20 @@
     "shotwell.desktop",
     "com.endlessm.photos.desktop",
     "org.gimp.GIMP.desktop",
+    "org.inkscape.Inkscape.desktop",
+    "org.pitivi.Pitivi.desktop",
+    "org.blender.Blender.desktop",
     "org.gnome.Calculator.desktop",
     "eos-link-baidudict.desktop",
     "eos-link-bingdict.desktop"
   ],
   "eos-folder-work.directory": [
-    "org.libreoffice.LibreOffice-writer.desktop",
-    "org.libreoffice.LibreOffice-calc.desktop",
-    "org.libreoffice.LibreOffice-impress.desktop"
+    "org.libreoffice.LibreOffice.writer.desktop",
+    "org.libreoffice.LibreOffice.calc.desktop",
+    "org.libreoffice.LibreOffice.impress.desktop"
+  ],
+  "eos-folder-learn-to-code.directory": [
+    "edu.mit.Scratch.desktop",
+    "org.laptop.TurtleArtActivity.desktop"
   ]
 }
