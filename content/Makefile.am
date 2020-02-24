@@ -37,7 +37,7 @@ content_headers = $(content_files:.json=.json.h)
 
 # Distribute the json.h files so they don't need to be regenerated at
 # build time
-EXTRA_DIST += $(content_headers)
+dist_noinst_DATA = $(content_headers)
 MAINTAINERCLEANFILES += $(content_headers)
 
 eos-app-store-link-content.gresource.xml: Makefile $(default_links_json) $(default_links_images)
