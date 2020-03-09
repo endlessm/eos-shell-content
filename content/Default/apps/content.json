@@ -1,6 +1,7 @@
 [
   {
     "application-id": "brasero",
+    "project-group": "GNOME",
     "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
@@ -3919,6 +3920,7 @@
   },
   {
     "application-id": "evolution",
+    "project-group": "GNOME",
     "category": "Office;",
     "core": true,
     "custom-splash-screen": "",
@@ -3954,6 +3956,7 @@
   },
   {
     "application-id": "gnome-control-center",
+    "project-group": "GNOME",
     "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
@@ -4702,6 +4705,7 @@
   },
   {
     "application-id": "org.gimp.Gimp",
+    "project-group": "GNOME",
     "category": "Graphics;",
     "core": false,
     "custom-splash-screen": "",
@@ -6527,6 +6531,7 @@
   },
   {
     "application-id": "rhythmbox",
+    "project-group": "GNOME",
     "category": "AudioVideo;",
     "core": true,
     "custom-splash-screen": "",
@@ -6564,6 +6569,7 @@
   },
   {
     "application-id": "shotwell",
+    "project-group": "GNOME",
     "category": "Graphics;",
     "core": true,
     "custom-splash-screen": "",
@@ -6601,6 +6607,7 @@
   },
   {
     "application-id": "simple-scan",
+    "project-group": "GNOME",
     "category": "Graphics;",
     "core": true,
     "custom-splash-screen": "",
@@ -6635,6 +6642,7 @@
   },
   {
     "application-id": "vinagre",
+    "project-group": "GNOME",
     "category": "Utility;",
     "core": true,
     "custom-splash-screen": "",
