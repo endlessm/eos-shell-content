@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the eos-shell-content package.
 # 
 # Translators:
+# bela erdei <bela@dandre.hu>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-03-02 03:46+0000\n"
-"PO-Revision-Date: 2020-02-24 23:34+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-03-09 02:46+0000\n"
+"PO-Revision-Date: 2020-03-08 14:31+0000\n"
+"Last-Translator: bela erdei <bela@dandre.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/endless-os/eos-shell-content/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:5
 msgctxt "subtitle"
 msgid "Burn your own CDs and DVDs"
-msgstr ""
+msgstr "Írd meg a saját CD-idet és DVD-idet"
 
 #: content/Default/apps/content.json.h:6
 msgctxt "description"
@@ -33,17 +34,17 @@ msgid ""
 "Making your own CDs or DVDs has never been easier! This app lets you burn, "
 "copy, and erase CDs and DVDs so you can make your own audio and video "
 "masterpieces, or just transfer the files and data you need!"
-msgstr ""
+msgstr "Elkészíteni a saját CD-d vagy DVD-d sosem volt egyszerübb. Ezzel az alkalmazás írhatsz, másolhatsz, törölhetsz CD-t és DVD-t, vagy akár létrehozhatsz vele zenés és videós mesterműveket, vagy csupán csak mozgathatsz vele fileokat és adatokat amire csak szükséged lehet."
 
 #: content/Default/apps/content.json.h:7
 msgctxt "title"
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: content/Default/apps/content.json.h:8
 msgctxt "subtitle"
 msgid "Browse the Web"
-msgstr ""
+msgstr "A világháló böngészése"
 
 #: content/Default/apps/content.json.h:9
 msgctxt "description"
@@ -59,12 +60,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 #: content/Default/apps/content.json.h:11
 msgctxt "subtitle"
 msgid "Access your files from any computer"
-msgstr ""
+msgstr "Érd el a filejaidat bármelyik számítógépről"
 
 #: content/Default/apps/content.json.h:12
 msgctxt "description"
@@ -81,7 +82,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:13
 msgctxt "title"
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Enciklópédia"
 
 #: content/Default/apps/content.json.h:14
 msgctxt "subtitle"
@@ -167,7 +168,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:25
 msgctxt "title"
 msgid "Translate"
-msgstr ""
+msgstr "Fordítás"
 
 #: content/Default/apps/content.json.h:26
 msgctxt "subtitle"
@@ -259,7 +260,7 @@ msgstr "Gyerekjátékok"
 #: content/Default/apps/content.json.h:41
 msgctxt "subtitle"
 msgid "Kids will love these videos"
-msgstr ""
+msgstr "A kölkök szeretni fogják ezeket a videókat"
 
 #: content/Default/apps/content.json.h:42
 msgctxt "description"
@@ -269,12 +270,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:43
 msgctxt "title"
 msgid "Movement"
-msgstr ""
+msgstr "Mozgalom"
 
 #: content/Default/apps/content.json.h:44
 msgctxt "subtitle"
 msgid "Find videos about your favorite sport"
-msgstr ""
+msgstr "Keressen videókat a kedvenc sportoddal kapcsolatban"
 
 #: content/Default/apps/content.json.h:45
 msgctxt "description"
@@ -324,12 +325,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "Free internet calls with cheap rates to phones"
-msgstr ""
+msgstr "Ingyenes internetes hívások és olcsó díjak telefonok irányában"
 
 #: content/Default/apps/content.json.h:54
 msgctxt "description"
@@ -343,7 +344,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
@@ -386,12 +387,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
-msgstr ""
+msgstr "Hallgass zenét a Spotify-vel"
 
 #: content/Default/apps/content.json.h:63
 msgctxt "description"
@@ -2142,7 +2143,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "Scratch"
-msgstr ""
+msgstr "Scratch"
 
 #: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
