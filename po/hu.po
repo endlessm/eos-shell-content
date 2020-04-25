@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-04-18 18:24+0000\n"
-"PO-Revision-Date: 2020-04-18 18:24+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-04-25 18:24+0000\n"
+"PO-Revision-Date: 2020-04-24 13:20+0000\n"
+"Last-Translator: Zoltan Hoppar <hopparz@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/endless-os/eos-shell-content/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -452,7 +452,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
@@ -1122,7 +1122,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Documents"
-msgstr ""
+msgstr "Dokumentumok"
 
 #: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
@@ -1242,7 +1242,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Videos"
-msgstr ""
+msgstr "Videók"
 
 #: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
@@ -2085,7 +2085,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
@@ -2124,7 +2124,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Music"
-msgstr ""
+msgstr "Zene"
 
 #: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
@@ -2144,7 +2144,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "Photos"
-msgstr ""
+msgstr "Fotók"
 
 #: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
@@ -2183,7 +2183,7 @@ msgstr ""
 #: content/folders.json.h:4
 msgctxt "folderName"
 msgid "Curiosity"
-msgstr ""
+msgstr "Kiváncsiság"
 
 #: content/folders.json.h:5
 msgctxt "folderName"
@@ -2203,7 +2203,7 @@ msgstr ""
 #: content/folders.json.h:8
 msgctxt "folderName"
 msgid "Media"
-msgstr ""
+msgstr "Adathordozó"
 
 #: content/folders.json.h:9
 msgctxt "folderName"
@@ -2223,4 +2223,4 @@ msgstr ""
 #: content/folders.json.h:12
 msgctxt "folderName"
 msgid "Work"
-msgstr ""
+msgstr "Munka"

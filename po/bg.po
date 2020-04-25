@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-04-18 18:24+0000\n"
-"PO-Revision-Date: 2020-04-18 18:24+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-04-25 18:24+0000\n"
+"PO-Revision-Date: 2020-04-24 13:20+0000\n"
+"Last-Translator: Roddy Shuler <roddy@stanfordalumni.org>\n"
 "Language-Team: Bulgarian (http://www.transifex.com/endless-os/eos-shell-content/language/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +59,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 #: content/Default/apps/content.json.h:11
 msgctxt "subtitle"
@@ -254,7 +254,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:40
 msgctxt "title"
 msgid "Kids"
-msgstr ""
+msgstr "За деца"
 
 #: content/Default/apps/content.json.h:41
 msgctxt "subtitle"
@@ -324,7 +324,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
@@ -386,7 +386,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
@@ -451,7 +451,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
@@ -517,7 +517,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:79
 msgctxt "title"
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: content/Default/apps/content.json.h:80
 msgctxt "subtitle"
@@ -1121,7 +1121,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Documents"
-msgstr ""
+msgstr "Документи"
 
 #: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
@@ -1163,7 +1163,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Screenshot"
-msgstr ""
+msgstr "Снимка на екрана"
 
 #: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
@@ -1241,7 +1241,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Videos"
-msgstr ""
+msgstr "Видео клипове"
 
 #: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
@@ -2084,7 +2084,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
@@ -2123,7 +2123,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
@@ -2182,12 +2182,12 @@ msgstr ""
 #: content/folders.json.h:4
 msgctxt "folderName"
 msgid "Curiosity"
-msgstr ""
+msgstr "Любопитство"
 
 #: content/folders.json.h:5
 msgctxt "folderName"
 msgid "Games"
-msgstr ""
+msgstr "Игри"
 
 #: content/folders.json.h:6
 msgctxt "folderName"
@@ -2202,12 +2202,12 @@ msgstr ""
 #: content/folders.json.h:8
 msgctxt "folderName"
 msgid "Media"
-msgstr ""
+msgstr "Медиа"
 
 #: content/folders.json.h:9
 msgctxt "folderName"
 msgid "News"
-msgstr ""
+msgstr "Новини"
 
 #: content/folders.json.h:10
 msgctxt "folderName"
@@ -2222,4 +2222,4 @@ msgstr ""
 #: content/folders.json.h:12
 msgctxt "folderName"
 msgid "Work"
-msgstr ""
+msgstr "Работа"
