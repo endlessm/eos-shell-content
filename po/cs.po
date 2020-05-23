@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the eos-shell-content package.
 # 
 # Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-04-25 18:24+0000\n"
-"PO-Revision-Date: 2020-04-24 13:20+0000\n"
-"Last-Translator: Martin Jelen <marty.jelen@seznam.cz>\n"
+"POT-Creation-Date: 2020-05-23 18:24+0000\n"
+"PO-Revision-Date: 2020-05-23 18:22+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/endless-os/eos-shell-content/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,7 +39,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:7
 msgctxt "title"
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: content/Default/apps/content.json.h:8
 msgctxt "subtitle"
@@ -59,7 +60,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 #: content/Default/apps/content.json.h:11
 msgctxt "subtitle"
@@ -102,12 +103,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:16
 msgctxt "title"
 msgid "My Budget"
-msgstr ""
+msgstr "Můj rozpočet"
 
 #: content/Default/apps/content.json.h:17
 msgctxt "subtitle"
 msgid "Learn how to create your own budget and save"
-msgstr ""
+msgstr "Naučte se jak vytvářet vlastní rozpočet a spořit"
 
 #: content/Default/apps/content.json.h:18
 msgctxt "description"
@@ -123,12 +124,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:19
 msgctxt "title"
 msgid "Coding Fun"
-msgstr ""
+msgstr "Zábavné programování"
 
 #: content/Default/apps/content.json.h:20
 msgctxt "subtitle"
 msgid "Learn to create your own video games"
-msgstr ""
+msgstr "Naučte se vytvářet své vlastní videohry"
 
 #: content/Default/apps/content.json.h:21
 msgctxt "description"
@@ -145,12 +146,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:22
 msgctxt "title"
 msgid "Résumé"
-msgstr ""
+msgstr "Životopis"
 
 #: content/Default/apps/content.json.h:23
 msgctxt "subtitle"
 msgid "Write a great resume and prepare for interviews"
-msgstr ""
+msgstr "Vytvořte si skvělý životopis a připravte se na pohovory"
 
 #: content/Default/apps/content.json.h:24
 msgctxt "description"
@@ -162,17 +163,17 @@ msgid ""
 "contain, get tips on each section, and even receive guidance on how to "
 "prepare for job interviews. This app can help you move closer to the job of "
 "your choice."
-msgstr ""
+msgstr "Nejlepší způsob, jak udělat dobrý dojem na potenciálního zaměstnavatele je mít vynikající životopis. Tato aplikace vám k tomu pomůže. Pomocí šikovných, atraktivních šablon, máte bezpočet modelů, které můžete použít pro vytvoření vašeho vlastního hvězdného životopisu. Zjistěte, co přesně je profesní životopis a co by měl obsahovat, získejte rady pro každou z jeho sekcí a dokonce doporučení jak se připravit na pracovní pohovory. Tato aplikace vám může pomoci se přiblížit práci, kterou chcete."
 
 #: content/Default/apps/content.json.h:25
 msgctxt "title"
 msgid "Translate"
-msgstr ""
+msgstr "Překládání"
 
 #: content/Default/apps/content.json.h:26
 msgctxt "subtitle"
 msgid "Translate text between many languages instantly"
-msgstr ""
+msgstr "Pohotově si přeložte text mezi mnoha jazyky"
 
 #: content/Default/apps/content.json.h:27
 msgctxt "description"
@@ -188,12 +189,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
 msgid "Animal Kingdom"
-msgstr ""
+msgstr "Království zvířat"
 
 #: content/Default/apps/content.json.h:29
 msgctxt "subtitle"
 msgid "All about animals"
-msgstr ""
+msgstr "Vše o zvířatech"
 
 #: content/Default/apps/content.json.h:30
 msgctxt "description"
@@ -205,7 +206,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:31
 msgctxt "title"
 msgid "Animations"
-msgstr ""
+msgstr "Animace"
 
 #: content/Default/apps/content.json.h:32
 msgctxt "subtitle"
@@ -305,12 +306,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:49
 msgctxt "title"
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 #: content/Default/apps/content.json.h:50
 msgctxt "subtitle"
 msgid "Google's popular web browser"
-msgstr ""
+msgstr "Oblíbený webový prohlížeč od Google"
 
 #: content/Default/apps/content.json.h:51
 msgctxt "description"
@@ -324,7 +325,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
@@ -343,7 +344,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
@@ -365,12 +366,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:58
 msgctxt "title"
 msgid "Slack"
-msgstr ""
+msgstr "Slack"
 
 #: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Chat with your team"
-msgstr ""
+msgstr "Dopisujte si se svým týmem"
 
 #: content/Default/apps/content.json.h:60
 msgctxt "description"
@@ -386,12 +387,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
-msgstr ""
+msgstr "Poslouchejte hudbu pomocí Spotify"
 
 #: content/Default/apps/content.json.h:63
 msgctxt "description"
@@ -429,12 +430,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:67
 msgctxt "title"
 msgid "Teeworlds"
-msgstr ""
+msgstr "Teeworlds"
 
 #: content/Default/apps/content.json.h:68
 msgctxt "subtitle"
 msgid "Exciting multi-player shooting game"
-msgstr ""
+msgstr "Vzrušující střílečka pro více hráčů"
 
 #: content/Default/apps/content.json.h:69
 msgctxt "description"
@@ -451,12 +452,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
 msgid "Online store with popular video games"
-msgstr ""
+msgstr "Internetový obchod s oblíbenými videohrami"
 
 #: content/Default/apps/content.json.h:72
 msgctxt "description"
@@ -2084,7 +2085,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
@@ -2182,7 +2183,7 @@ msgstr ""
 #: content/folders.json.h:4
 msgctxt "folderName"
 msgid "Curiosity"
-msgstr ""
+msgstr "Zvědavost"
 
 #: content/folders.json.h:5
 msgctxt "folderName"
@@ -2222,4 +2223,4 @@ msgstr ""
 #: content/folders.json.h:12
 msgctxt "folderName"
 msgid "Work"
-msgstr ""
+msgstr "Práce"
