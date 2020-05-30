@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-05-23 18:24+0000\n"
-"PO-Revision-Date: 2020-05-23 18:22+0000\n"
+"POT-Creation-Date: 2020-05-30 18:24+0000\n"
+"PO-Revision-Date: 2020-05-23 20:11+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/endless-os/eos-shell-content/language/cs/)\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:4
 msgctxt "title"
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #: content/Default/apps/content.json.h:5
 msgctxt "subtitle"
@@ -44,7 +44,7 @@ msgstr "Internet"
 #: content/Default/apps/content.json.h:8
 msgctxt "subtitle"
 msgid "Browse the Web"
-msgstr ""
+msgstr "Procházejte web"
 
 #: content/Default/apps/content.json.h:9
 msgctxt "description"
@@ -65,7 +65,7 @@ msgstr "Dropbox"
 #: content/Default/apps/content.json.h:11
 msgctxt "subtitle"
 msgid "Access your files from any computer"
-msgstr ""
+msgstr "Přistupujte ke svým souborům z kteréhokoli počítače"
 
 #: content/Default/apps/content.json.h:12
 msgctxt "description"
@@ -82,12 +82,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:13
 msgctxt "title"
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Encyklopedie"
 
 #: content/Default/apps/content.json.h:14
 msgctxt "subtitle"
 msgid "The free encyclopedia that anyone can contribute to"
-msgstr ""
+msgstr "Svobodná encyklopedie, do které může kdokoli přispívat"
 
 #: content/Default/apps/content.json.h:15
 msgctxt "description"
@@ -184,7 +184,7 @@ msgid ""
 "yourself a new language by learning the translations of what you write, or "
 "use it to help you make new international connections – and even new friends"
 " – with the world’s languages at your fingertips.  **Requires internet"
-msgstr ""
+msgstr "Stáhněte si tuto aplikaci aby vám pomohla rozumět a aby i vám rozuměli ostatní ve virtuálně libovolném jazyce. Tato aplikace vyžaduje připojení k Internetu a velice snadno se používá. Pro přeložení stačí pouze kliknout na tlačítko! Pomozte si k naučení se nového jazyka učením se překladům toho, co napíšete, nebo ji použijte pro vytvoření nových mezinárodních kontaktů – a třeba i nových přátel – pomocí světových jazyků ve vašich službách.\n**Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
@@ -211,22 +211,22 @@ msgstr "Animace"
 #: content/Default/apps/content.json.h:32
 msgctxt "subtitle"
 msgid "Images are worth more than words"
-msgstr ""
+msgstr "Obrázky jsou výmluvnější než slova"
 
 #: content/Default/apps/content.json.h:33
 msgctxt "description"
 msgid "Videos with funny and clever animations for the whole family."
-msgstr ""
+msgstr "Videa se zábavnými a chytrými animacemi pro celou rodinu."
 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
 msgid "Funny Videos"
-msgstr ""
+msgstr "Zábavná videa"
 
 #: content/Default/apps/content.json.h:35
 msgctxt "subtitle"
 msgid "Laughter is the best medicine"
-msgstr ""
+msgstr "Smích je nejlepší lék"
 
 #: content/Default/apps/content.json.h:36
 msgctxt "description"
@@ -242,7 +242,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:38
 msgctxt "subtitle"
 msgid "Travel the world without leaving home"
-msgstr ""
+msgstr "Cestujte po celém světě aniž byste opustili domov"
 
 #: content/Default/apps/content.json.h:39
 msgctxt "description"
@@ -260,22 +260,22 @@ msgstr "Dětské"
 #: content/Default/apps/content.json.h:41
 msgctxt "subtitle"
 msgid "Kids will love these videos"
-msgstr ""
+msgstr "Děti budou tato videa milovat"
 
 #: content/Default/apps/content.json.h:42
 msgctxt "description"
 msgid "Keep kids entertained with this video app. Fun guaranteed!"
-msgstr ""
+msgstr "Zabavte děti touto videoaplikací. Zábava zaručena!"
 
 #: content/Default/apps/content.json.h:43
 msgctxt "title"
 msgid "Movement"
-msgstr ""
+msgstr "Pohyb"
 
 #: content/Default/apps/content.json.h:44
 msgctxt "subtitle"
 msgid "Find videos about your favorite sport"
-msgstr ""
+msgstr "Najděte videa s vaším oblíbeným sportem"
 
 #: content/Default/apps/content.json.h:45
 msgctxt "description"
@@ -287,12 +287,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
 msgid "Slingshot"
-msgstr ""
+msgstr "Slingshot"
 
 #: content/Default/apps/content.json.h:47
 msgctxt "subtitle"
 msgid "A shooting strategy game set in space"
-msgstr ""
+msgstr "Strategická střílečka zasazená do vesmíru"
 
 #: content/Default/apps/content.json.h:48
 msgctxt "description"
@@ -330,7 +330,7 @@ msgstr "Skype"
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "Free internet calls with cheap rates to phones"
-msgstr ""
+msgstr "Bezplatná volání přes Internet s levnou tarifikací volání na běžné telefony"
 
 #: content/Default/apps/content.json.h:54
 msgctxt "description"
@@ -349,7 +349,7 @@ msgstr "Minecraft"
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
 msgid "Create your own world in one of the most popular video games"
-msgstr ""
+msgstr "Vytvořte váš vlastní svět v jedné z nejoblíbenějších videoher"
 
 #: content/Default/apps/content.json.h:57
 msgctxt "description"
@@ -409,12 +409,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:64
 msgctxt "title"
 msgid "Sublime Text"
-msgstr ""
+msgstr "Sublime Text"
 
 #: content/Default/apps/content.json.h:65
 msgctxt "subtitle"
 msgid "A sophisticated text editor for code, markup, and prose"
-msgstr ""
+msgstr "Sofistikovaný textový editor pro úpravy zdrojových kódů, značkovacích jazyků a prózy"
 
 #: content/Default/apps/content.json.h:66
 msgctxt "description"
@@ -477,12 +477,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:73
 msgctxt "title"
 msgid "Billiards"
-msgstr ""
+msgstr "Kulečník"
 
 #: content/Default/apps/content.json.h:74
 msgctxt "subtitle"
 msgid "Fun 3D billiards game"
-msgstr ""
+msgstr "Zábavný trojrozměrný kulečník"
 
 #: content/Default/apps/content.json.h:75
 msgctxt "description"
@@ -497,12 +497,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:76
 msgctxt "title"
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: content/Default/apps/content.json.h:77
 msgctxt "subtitle"
 msgid "Your e-mail, address book and calendar in one place"
-msgstr ""
+msgstr "Váš e-mail, adresář kontaktů a kalendář na jednom místě"
 
 #: content/Default/apps/content.json.h:78
 msgctxt "description"
@@ -523,7 +523,7 @@ msgstr "Nastavení"
 #: content/Default/apps/content.json.h:80
 msgctxt "subtitle"
 msgid "Easily change your computer's settings"
-msgstr ""
+msgstr "Snadno změňte nastavení svého počítače"
 
 #: content/Default/apps/content.json.h:81
 msgctxt "description"
@@ -538,12 +538,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:82
 msgctxt "title"
 msgid "Super Tux"
-msgstr ""
+msgstr "Super Tux"
 
 #: content/Default/apps/content.json.h:83
 msgctxt "subtitle"
 msgid "Jump your way through different levels to win"
-msgstr ""
+msgstr "Proskákejte se různými úrovněmi a vyhrajte"
 
 #: content/Default/apps/content.json.h:84
 msgctxt "description"
@@ -557,12 +557,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:85
 msgctxt "title"
 msgid "BlockOut 2"
-msgstr ""
+msgstr "BlockOut 2"
 
 #: content/Default/apps/content.json.h:86
 msgctxt "subtitle"
 msgid "3D Tetris-style game"
-msgstr ""
+msgstr "Hra ve stylu 3D tetrisu"
 
 #: content/Default/apps/content.json.h:87
 msgctxt "description"
@@ -577,12 +577,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
 msgid "EduGames"
-msgstr ""
+msgstr "EduGames"
 
 #: content/Default/apps/content.json.h:89
 msgctxt "subtitle"
 msgid "Puzzles, memory games, and more for kids"
-msgstr ""
+msgstr "Pucle, hry na paměť a další pro děti"
 
 #: content/Default/apps/content.json.h:90
 msgctxt "description"
@@ -597,12 +597,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "EduGames Admin"
-msgstr ""
+msgstr "EduGames Admin"
 
 #: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
 msgid "For teachers to help their students learn"
-msgstr ""
+msgstr "Pro učitele aby pomohli svým studentům ve výuce"
 
 #: content/Default/apps/content.json.h:93
 msgctxt "description"
@@ -623,7 +623,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:95
 msgctxt "subtitle"
 msgid "Create your dream world"
-msgstr ""
+msgstr "Vytvořte si svůj snový svět"
 
 #: content/Default/apps/content.json.h:96
 msgctxt "description"
@@ -640,12 +640,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:97
 msgctxt "title"
 msgid "Kobo Deluxe"
-msgstr ""
+msgstr "Kobo Deluxe"
 
 #: content/Default/apps/content.json.h:98
 msgctxt "subtitle"
 msgid "Destroy enemy bases in space"
-msgstr ""
+msgstr "Zničte nepřátelské základny ve vesmíru"
 
 #: content/Default/apps/content.json.h:99
 msgctxt "description"
@@ -659,7 +659,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:100
 msgctxt "title"
 msgid "Atomic Tanks"
-msgstr ""
+msgstr "Atomic Tanks"
 
 #: content/Default/apps/content.json.h:101
 msgctxt "subtitle"
@@ -678,12 +678,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
 msgid "Audio Editor"
-msgstr ""
+msgstr "Editor zvuku"
 
 #: content/Default/apps/content.json.h:104
 msgctxt "subtitle"
 msgid "Audio editor for recording, slicing, and mixing audio"
-msgstr ""
+msgstr "Editor zvuku pro nahrávání, stříhání a smíchávání zvuku"
 
 #: content/Default/apps/content.json.h:105
 msgctxt "description"
@@ -697,12 +697,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:106
 msgctxt "title"
 msgid "Battle Tanks"
-msgstr ""
+msgstr "Bitevní tanky"
 
 #: content/Default/apps/content.json.h:107
 msgctxt "subtitle"
 msgid "A fast-paced battle game to play with friends"
-msgstr ""
+msgstr "Rychlá bojová hra pro hraní s přáteli"
 
 #: content/Default/apps/content.json.h:108
 msgctxt "description"
@@ -715,12 +715,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:109
 msgctxt "title"
 msgid "Chromium BSU"
-msgstr ""
+msgstr "Chromium BSU"
 
 #: content/Default/apps/content.json.h:110
 msgctxt "subtitle"
 msgid "Command your spaceship and battle with robots"
-msgstr ""
+msgstr "Velte své vesmírné lodi a bojujte s roboty"
 
 #: content/Default/apps/content.json.h:111
 msgctxt "description"
@@ -735,12 +735,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:112
 msgctxt "title"
 msgid "Tux Racer"
-msgstr ""
+msgstr "Tux Racer"
 
 #: content/Default/apps/content.json.h:113
 msgctxt "subtitle"
 msgid "Race down icy mountains"
-msgstr ""
+msgstr "Sjíždějte ledové hory"
 
 #: content/Default/apps/content.json.h:114
 msgctxt "description"
@@ -754,12 +754,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:115
 msgctxt "title"
 msgid "FrostWire"
-msgstr ""
+msgstr "FrostWire"
 
 #: content/Default/apps/content.json.h:116
 msgctxt "subtitle"
 msgid "Download nearly anything or share your own files"
-msgstr ""
+msgstr "Stahujte skoro cokoli nebo sdílejte své vlastní soubory"
 
 #: content/Default/apps/content.json.h:117
 msgctxt "description"
@@ -776,12 +776,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:118
 msgctxt "title"
 msgid "Tux Kart"
-msgstr ""
+msgstr "Tux Kart"
 
 #: content/Default/apps/content.json.h:119
 msgctxt "subtitle"
 msgid "Race alone or against your friends and family"
-msgstr ""
+msgstr "Závoďte sami nebo proti svým přátelům a členům rodiny"
 
 #: content/Default/apps/content.json.h:120
 msgctxt "description"
@@ -797,7 +797,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:121
 msgctxt "title"
 msgid "TORCS"
-msgstr ""
+msgstr "TORCS"
 
 #: content/Default/apps/content.json.h:122
 msgctxt "subtitle"
@@ -818,12 +818,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:124
 msgctxt "title"
 msgid "Tux Football"
-msgstr ""
+msgstr "Tux Football"
 
 #: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
 msgid "A fun soccer game starring Tux the penguin"
-msgstr ""
+msgstr "Zábavná fotbalová hra ve které vystupuje tučňák Tux"
 
 #: content/Default/apps/content.json.h:126
 msgctxt "description"
@@ -837,7 +837,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:127
 msgctxt "title"
 msgid "Warmux"
-msgstr ""
+msgstr "Warmux"
 
 #: content/Default/apps/content.json.h:128
 msgctxt "subtitle"
@@ -856,12 +856,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:130
 msgctxt "title"
 msgid "Warzone 2100"
-msgstr ""
+msgstr "Warzone 2100"
 
 #: content/Default/apps/content.json.h:131
 msgctxt "subtitle"
 msgid "Lead your troops to rebuild the world"
-msgstr ""
+msgstr "Veďte své jednotky a znovu vybudujte svět"
 
 #: content/Default/apps/content.json.h:132
 msgctxt "description"
@@ -876,12 +876,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:133
 msgctxt "title"
 msgid "Armagetron"
-msgstr ""
+msgstr "Armagetron"
 
 #: content/Default/apps/content.json.h:134
 msgctxt "subtitle"
 msgid "Race 3D light motorcycles like in the movie Tron"
-msgstr ""
+msgstr "Závod 3D světelných motorek jako ve filmu Tron"
 
 #: content/Default/apps/content.json.h:135
 msgctxt "description"
@@ -895,12 +895,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:136
 msgctxt "title"
 msgid "Tux Math"
-msgstr ""
+msgstr "Tux Math"
 
 #: content/Default/apps/content.json.h:137
 msgctxt "subtitle"
 msgid "Math games for kids"
-msgstr ""
+msgstr "Matematické hry pro děti"
 
 #: content/Default/apps/content.json.h:138
 msgctxt "description"
@@ -915,12 +915,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:139
 msgctxt "title"
 msgid "Tux Typing"
-msgstr ""
+msgstr "Tux Typing"
 
 #: content/Default/apps/content.json.h:140
 msgctxt "subtitle"
 msgid "Learn to type by playing games"
-msgstr ""
+msgstr "Naučte se psát na klávesnici hraním her"
 
 #: content/Default/apps/content.json.h:141
 msgctxt "description"
@@ -937,12 +937,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:142
 msgctxt "title"
 msgid "FreeCiv"
-msgstr ""
+msgstr "FreeCiv"
 
 #: content/Default/apps/content.json.h:143
 msgctxt "subtitle"
 msgid "Guide your own civilization to greatness"
-msgstr ""
+msgstr "Doveďte svou vlastní civilizaci k velkoleposti"
 
 #: content/Default/apps/content.json.h:144
 msgctxt "description"
@@ -959,12 +959,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:145
 msgctxt "title"
 msgid "FreeCol"
-msgstr ""
+msgstr "FreeCol"
 
 #: content/Default/apps/content.json.h:146
 msgctxt "subtitle"
 msgid "Create your own country and conquer the world"
-msgstr ""
+msgstr "Vytvořte si vlastní stát a dobuďte svět"
 
 #: content/Default/apps/content.json.h:147
 msgctxt "description"
@@ -979,12 +979,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:148
 msgctxt "title"
 msgid "Frozen Bubbles"
-msgstr ""
+msgstr "Frozen Bubbles"
 
 #: content/Default/apps/content.json.h:149
 msgctxt "subtitle"
 msgid "Pop bubbles before they all come crashing down"
-msgstr ""
+msgstr "Propíchejte bubliny než spadnou dolů"
 
 #: content/Default/apps/content.json.h:150
 msgctxt "description"
@@ -998,12 +998,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:151
 msgctxt "title"
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #: content/Default/apps/content.json.h:152
 msgctxt "subtitle"
 msgid "Advanced image editing tool similar to Photoshop"
-msgstr ""
+msgstr "Pokročilý nástroj pro úpravu obrázků podobný aplikaci Photoshop"
 
 #: content/Default/apps/content.json.h:153
 msgctxt "description"
@@ -1020,12 +1020,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:154
 msgctxt "title"
 msgid "Selfie"
-msgstr ""
+msgstr "Selfie"
 
 #: content/Default/apps/content.json.h:155
 msgctxt "subtitle"
 msgid "Take funny pictures of yourself and your friends"
-msgstr ""
+msgstr "Pořizujte zábavné obrázky vás a vašich přátel"
 
 #: content/Default/apps/content.json.h:156
 msgctxt "description"
@@ -1039,12 +1039,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Freecell"
-msgstr ""
+msgstr "Freecell"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "Solitare based single player card game"
-msgstr ""
+msgstr "Karetní hra pro jednoho hráče založená na soliteru"
 
 #: content/Default/apps/content.json.h:159
 msgctxt "description"
@@ -1059,12 +1059,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Math Plotting"
-msgstr ""
+msgstr "Matematické vykreslování"
 
 #: content/Default/apps/content.json.h:161
 msgctxt "subtitle"
 msgid "Interactive computation and data visualization tool"
-msgstr ""
+msgstr "Nástroj pro interaktivní výpočty a vizualizaci dat"
 
 #: content/Default/apps/content.json.h:162
 msgctxt "description"
@@ -1080,12 +1080,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:163
 msgctxt "title"
 msgid "Notes"
-msgstr ""
+msgstr "Poznámky"
 
 #: content/Default/apps/content.json.h:164
 msgctxt "subtitle"
 msgid "Never lose a note again"
-msgstr ""
+msgstr "Nikdy už neztraťte žádnou poznámku"
 
 #: content/Default/apps/content.json.h:165
 msgctxt "description"
@@ -1127,7 +1127,7 @@ msgstr "Dokumenty"
 #: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Access all of your documents and files"
-msgstr ""
+msgstr "Přistupujte ke všem svým dokumentům a souborům"
 
 #: content/Default/apps/content.json.h:171
 msgctxt "description"
@@ -1148,7 +1148,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
-msgstr ""
+msgstr "Logická hra podobná jako tetris"
 
 #: content/Default/apps/content.json.h:174
 msgctxt "description"
@@ -1169,7 +1169,7 @@ msgstr "Snímek obrazovky"
 #: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
-msgstr ""
+msgstr "Pořiďte snímek obsahu obrazovky pro uložení"
 
 #: content/Default/apps/content.json.h:177
 msgctxt "description"
@@ -1183,12 +1183,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Solitaire"
-msgstr ""
+msgstr "Soliter"
 
 #: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "The classic single player card game"
-msgstr ""
+msgstr "Klasická karetní hra pro jednoho hráče"
 
 #: content/Default/apps/content.json.h:180
 msgctxt "description"
@@ -1203,12 +1203,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminál"
 
 #: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "Use the command line"
-msgstr ""
+msgstr "Používejte příkazový řádek"
 
 #: content/Default/apps/content.json.h:183
 msgctxt "description"
@@ -1247,7 +1247,7 @@ msgstr "Videa"
 #: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "Full function video and media player"
-msgstr ""
+msgstr "Plnohodnotný přehrávač videa a multimédií"
 
 #: content/Default/apps/content.json.h:189
 msgctxt "description"
@@ -1262,12 +1262,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:190
 msgctxt "title"
 msgid "Help Center"
-msgstr ""
+msgstr "Centrum nápovědy"
 
 #: content/Default/apps/content.json.h:191
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
-msgstr ""
+msgstr "Naučte se používat Endless"
 
 #: content/Default/apps/content.json.h:192
 msgctxt "description"
@@ -1283,12 +1283,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:193
 msgctxt "title"
 msgid "Gedit"
-msgstr ""
+msgstr "Gedit"
 
 #: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
-msgstr ""
+msgstr "Jednoduchý textový editor pro upravování neformátovaného textu"
 
 #: content/Default/apps/content.json.h:195
 msgctxt "description"
@@ -1302,12 +1302,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "Mind Maps"
-msgstr ""
+msgstr "Myšlenkové mapy"
 
 #: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
-msgstr ""
+msgstr "Vytvářejte myšlenkové mapy s textem, obrázky a kresbami"
 
 #: content/Default/apps/content.json.h:198
 msgctxt "description"
@@ -1316,17 +1316,17 @@ msgid ""
 "try mind mapping! A mind-map is a diagram used to represent words, ideas, "
 "tasks or other items linked to a central key word or idea. You'll be able to"
 " create all kinds of cool diagrams that you can save and share."
-msgstr ""
+msgstr "Měli jste někdy složitý nápad, ale potíže s tím, uspořádat si myšlenky o něm? Pokud ano, vyzkoušejte mapování mysli! Myšlenková mapa je diagram, sloužící pro představení slov, nápadů, úkolů a dalších položek propojených s centrálním klíčovým slovem nebo myšlenkou. Budete moci vytvářet všechny druhy prima diagramů, které si můžete ukládat a sdílet je."
 
 #: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
-msgstr ""
+msgstr "Pokročilý nástroj pro grafický design"
 
 #: content/Default/apps/content.json.h:201
 msgctxt "description"
@@ -1342,12 +1342,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:202
 msgctxt "title"
 msgid "Kalzium"
-msgstr ""
+msgstr "Kalzium"
 
 #: content/Default/apps/content.json.h:203
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
-msgstr ""
+msgstr "Zábavná interaktivní periodická tabulka prvků"
 
 #: content/Default/apps/content.json.h:204
 msgctxt "description"
@@ -1365,12 +1365,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "Kapman"
-msgstr ""
+msgstr "Kapman"
 
 #: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
-msgstr ""
+msgstr "Klasická hra s duchy a bludišti"
 
 #: content/Default/apps/content.json.h:207
 msgctxt "description"
@@ -1385,12 +1385,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:208
 msgctxt "title"
 msgid "KAtomic"
-msgstr ""
+msgstr "KAtomic"
 
 #: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
-msgstr ""
+msgstr "Zábavný způsob jak se učit chemii"
 
 #: content/Default/apps/content.json.h:210
 msgctxt "description"
@@ -1426,12 +1426,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KBounce"
-msgstr ""
+msgstr "KBounce"
 
 #: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
-msgstr ""
+msgstr "Hra s odrážejícími se míčky, která vás určitě chytí"
 
 #: content/Default/apps/content.json.h:216
 msgctxt "description"
@@ -1446,12 +1446,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KBruch"
-msgstr ""
+msgstr "KBruch"
 
 #: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
-msgstr ""
+msgstr "Naučte se zlomky, procenta a další"
 
 #: content/Default/apps/content.json.h:219
 msgctxt "description"
@@ -1468,12 +1468,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:220
 msgctxt "title"
 msgid "KDiamond"
-msgstr ""
+msgstr "KDiamond"
 
 #: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
-msgstr ""
+msgstr "Vytvořte řadu třech diamantů"
 
 #: content/Default/apps/content.json.h:222
 msgctxt "description"
@@ -1489,12 +1489,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:223
 msgctxt "title"
 msgid "KGeography"
-msgstr ""
+msgstr "KGeography"
 
 #: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
-msgstr ""
+msgstr "Staňte se expertem na zeměpis a přitom se bavte"
 
 #: content/Default/apps/content.json.h:225
 msgctxt "description"
@@ -1510,12 +1510,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:226
 msgctxt "title"
 msgid "KGoldrunner"
-msgstr ""
+msgstr "KGoldrunner"
 
 #: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
-msgstr ""
+msgstr "Hledejte poklady a skrývejte se před nepřáteli"
 
 #: content/Default/apps/content.json.h:228
 msgctxt "description"
@@ -1530,12 +1530,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "KHangMan"
-msgstr ""
+msgstr "KHangMan"
 
 #: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
-msgstr ""
+msgstr "Jedna z nejzábavnějších slovních her na zemi"
 
 #: content/Default/apps/content.json.h:231
 msgctxt "description"
@@ -1552,7 +1552,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Kigo"
-msgstr ""
+msgstr "Kigo"
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
@@ -1574,12 +1574,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "Killbots"
-msgstr ""
+msgstr "Killbots"
 
 #: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
-msgstr ""
+msgstr "Přechytračte vraždící roboty a vyhrajte"
 
 #: content/Default/apps/content.json.h:237
 msgctxt "description"
@@ -1594,7 +1594,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "KJumpingCube"
-msgstr ""
+msgstr "KJumpingCube"
 
 #: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
@@ -1619,7 +1619,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Kolor Lines"
-msgstr ""
+msgstr "Kolor Lines"
 
 #: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
@@ -1661,12 +1661,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "KNetwalk"
-msgstr ""
+msgstr "KNetwalk"
 
 #: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
-msgstr ""
+msgstr "Propojte správné kabely a vyhrajte"
 
 #: content/Default/apps/content.json.h:249
 msgctxt "description"
@@ -1682,12 +1682,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "KSame"
-msgstr ""
+msgstr "KSame"
 
 #: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
-msgstr ""
+msgstr "Zbavte se všech kuliček a vyhrajte"
 
 #: content/Default/apps/content.json.h:252
 msgctxt "description"
@@ -1702,7 +1702,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "KSquares"
-msgstr ""
+msgstr "KSquares"
 
 #: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
@@ -1745,12 +1745,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "Potato Guy"
-msgstr ""
+msgstr "Potato Guy"
 
 #: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
-msgstr ""
+msgstr "Dejte své bramboře zábavný obličej"
 
 #: content/Default/apps/content.json.h:261
 msgctxt "description"
@@ -1787,12 +1787,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "KWordQuiz"
-msgstr ""
+msgstr "KWordQuiz"
 
 #: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
-msgstr ""
+msgstr "Rozšiřte si svůj slovník a vyzkoušejte, co jste se naučili"
 
 #: content/Default/apps/content.json.h:267
 msgctxt "description"
@@ -1808,12 +1808,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Maps"
-msgstr ""
+msgstr "Mapy"
 
 #: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "Maps of the entire world"
-msgstr ""
+msgstr "Mapy celého světa"
 
 #: content/Default/apps/content.json.h:270
 msgctxt "description"
@@ -1829,12 +1829,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "Palapeli"
-msgstr ""
+msgstr "Palapeli"
 
 #: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
-msgstr ""
+msgstr "Zábavné pucle"
 
 #: content/Default/apps/content.json.h:273
 msgctxt "description"
@@ -1849,12 +1849,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Virtual School"
-msgstr ""
+msgstr "Virtuální škola"
 
 #: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
-msgstr ""
+msgstr "Bezplatná výuková videa o téměř libovolných tématech"
 
 #: content/Default/apps/content.json.h:276
 msgctxt "description"
@@ -1871,12 +1871,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "Numpty Physics"
-msgstr ""
+msgstr "Numpty Physics"
 
 #: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
-msgstr ""
+msgstr "Zábavná logická hra s fyzikou"
 
 #: content/Default/apps/content.json.h:279
 msgctxt "description"
@@ -1892,12 +1892,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "M.A.R.S."
-msgstr ""
+msgstr "M.A.R.S."
 
 #: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "A shooting game in space"
-msgstr ""
+msgstr "Střílečka ve vesmíru"
 
 #: content/Default/apps/content.json.h:282
 msgctxt "description"
@@ -1915,12 +1915,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "MegaGlest"
-msgstr ""
+msgstr "MegaGlest"
 
 #: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
-msgstr ""
+msgstr "Fantazijní svět s králi, královnami a magií"
 
 #: content/Default/apps/content.json.h:285
 msgctxt "description"
@@ -1935,12 +1935,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "Open Arena"
-msgstr ""
+msgstr "Open Arena"
 
 #: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
-msgstr ""
+msgstr "Prostřílejte se svými potížemi v této zábavné hře"
 
 #: content/Default/apps/content.json.h:288
 msgctxt "description"
@@ -1955,12 +1955,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "3D CAD"
-msgstr ""
+msgstr "3D CAD"
 
 #: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
-msgstr ""
+msgstr "Vytvářejte 3D CAD modely"
 
 #: content/Default/apps/content.json.h:291
 msgctxt "description"
@@ -1978,12 +1978,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Pingus"
-msgstr ""
+msgstr "Pingus"
 
 #: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
-msgstr ""
+msgstr "Zachraňte své tučňáčí přátele před pádem do vody"
 
 #: content/Default/apps/content.json.h:294
 msgctxt "description"
@@ -1998,12 +1998,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "Etoys"
-msgstr ""
+msgstr "Etoys"
 
 #: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid "Learn with visual programming"
-msgstr ""
+msgstr "Učte se pomocí vizuálního programování"
 
 #: content/Default/apps/content.json.h:297
 msgctxt "description"
@@ -2022,13 +2022,13 @@ msgstr ""
 #: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "Stellarium"
-msgstr ""
+msgstr "Stellarium"
 
 #: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
-msgstr ""
+msgstr "Softwarové planetárium, které vám ukáže, co vidíte, když se díváte na hvězdy"
 
 #: content/Default/apps/content.json.h:300
 msgctxt "description"
@@ -2044,12 +2044,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "X-Moto"
-msgstr ""
+msgstr "X-Moto"
 
 #: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
-msgstr ""
+msgstr "Závodní hra s motorkou"
 
 #: content/Default/apps/content.json.h:303
 msgctxt "description"
@@ -2064,12 +2064,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "Tux Paint"
-msgstr ""
+msgstr "Tux Paint"
 
 #: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
-msgstr ""
+msgstr "Zábavná kreslící aplikace pro děti"
 
 #: content/Default/apps/content.json.h:306
 msgctxt "description"
@@ -2090,7 +2090,7 @@ msgstr "VLC"
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
-msgstr ""
+msgstr "Přehrávejte videa s tímto oblíbeným přehrávačem médií"
 
 #: content/Default/apps/content.json.h:309
 msgctxt "description"
@@ -2105,12 +2105,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "Wesnoth"
-msgstr ""
+msgstr "Wesnoth"
 
 #: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
-msgstr ""
+msgstr "Fantazijní tahová strategická hra"
 
 #: content/Default/apps/content.json.h:312
 msgctxt "description"
@@ -2129,7 +2129,7 @@ msgstr "Hudba"
 #: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
-msgstr ""
+msgstr "Poslouchejte všechnu vaši hudbu a rádio"
 
 #: content/Default/apps/content.json.h:315
 msgctxt "description"
@@ -2149,7 +2149,7 @@ msgstr "Fotografie"
 #: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
-msgstr ""
+msgstr "Snadno upravujte, uspořádávejte a sdílejte fotky"
 
 #: content/Default/apps/content.json.h:318
 msgctxt "description"
@@ -2165,12 +2165,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:319
 msgctxt "title"
 msgid "Remote Desktop"
-msgstr ""
+msgstr "Vzdálená plocha"
 
 #: content/Default/apps/content.json.h:320
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
-msgstr ""
+msgstr "Spravujte svůj desktop na dálku"
 
 #: content/Default/apps/content.json.h:321
 msgctxt "description"
@@ -2198,7 +2198,7 @@ msgstr ""
 #: content/folders.json.h:7
 msgctxt "folderName"
 msgid "Learn to Code"
-msgstr ""
+msgstr "Naučte se programovat"
 
 #: content/folders.json.h:8
 msgctxt "folderName"
@@ -2213,12 +2213,12 @@ msgstr "Zprávy"
 #: content/folders.json.h:10
 msgctxt "folderName"
 msgid "Social"
-msgstr ""
+msgstr "Sociální sítě"
 
 #: content/folders.json.h:11
 msgctxt "folderName"
 msgid "Tools"
-msgstr ""
+msgstr "Nástroje"
 
 #: content/folders.json.h:12
 msgctxt "folderName"
