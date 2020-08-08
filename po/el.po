@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-06-27 18:24+0000\n"
-"PO-Revision-Date: 2020-04-24 13:20+0000\n"
-"Last-Translator: Roddy Shuler <roddy@stanfordalumni.org>\n"
+"POT-Creation-Date: 2020-08-08 18:24+0000\n"
+"PO-Revision-Date: 2020-08-05 15:46+0000\n"
+"Last-Translator: Efstathios Iosifidis <iefstathios@gmail.com>\n"
 "Language-Team: Greek (http://www.transifex.com/endless-os/eos-shell-content/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +59,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 #: content/Default/apps/content.json.h:11
 msgctxt "subtitle"
@@ -324,7 +324,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
@@ -343,7 +343,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
@@ -386,7 +386,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: content/Default/apps/content.json.h:62
 msgctxt "subtitle"
@@ -451,7 +451,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #: content/Default/apps/content.json.h:71
 msgctxt "subtitle"
@@ -2084,7 +2084,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
@@ -2182,7 +2182,7 @@ msgstr ""
 #: content/folders.json.h:4
 msgctxt "folderName"
 msgid "Curiosity"
-msgstr ""
+msgstr "Περιέργεια"
 
 #: content/folders.json.h:5
 msgctxt "folderName"
@@ -2222,4 +2222,4 @@ msgstr ""
 #: content/folders.json.h:12
 msgctxt "folderName"
 msgid "Work"
-msgstr ""
+msgstr "Εργασία"
