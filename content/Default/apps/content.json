@@ -4915,37 +4915,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "org.gnome.Nautilus",
-    "category": "Utility;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "Get organized with this app, which helps you find all of your documents and files, no matter how long ago you saved them. Organize things in a way that makes sense to you, adding and re-naming folders in a way that will help you stay on top of your pictures, videos, and documents. With this app, you can store everything in one place and you\u2019ll never lose that important file or special photo again.",
-    "displayShape": "b1",
-    "exec": "eos-file-manager %U",
-    "featured_img": "",
-    "icon": "org.gnome.nautilus-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "org.gnome.nautilus-screenshot1.jpg"
-      ],
-      "es": [
-        "org.gnome.nautilus-screenshot1.jpg"
-      ]
-    },
-    "splash-screen-type": "None",
-    "square_img": "org.gnome.nautilus-thumb.jpg",
-    "subtitle": "Access all of your documents and files",
-    "title": "Documents",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "org.gnome.Quadrapassel",
     "category": "Game;",
     "core": false,
