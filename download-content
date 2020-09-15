@@ -1,5 +1,4 @@
 #!/bin/bash -e
 
-# Get the current appstore.zip. To regenerate the content, go to
-# http://cms.endlessm.com/admin/generator/appstore
-wget http://cms.endlessm.com/sites/default/files/jsons/zip/appstore.zip
+# Get the latest version of appstore.zip from a backup in S3.
+aws s3 cp s3://backups-endlessm-com/eos-cms-2020-09-15/appstore.zip ./
