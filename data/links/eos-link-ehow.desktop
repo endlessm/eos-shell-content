@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=eHow
-Comment=Discover the expert in you
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.ehow.com' es:'gio open http://www.ehowenespanol.com/' 
-Icon=eos-link-ehow
-Categories=Entertainment;
-X-Endless-LaunchMaximized=true

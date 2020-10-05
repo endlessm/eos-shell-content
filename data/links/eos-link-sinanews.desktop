@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=新浪新闻
-Comment=24小时滚动报道国内、国际及社会新闻
-Type=Application
-Exec=gio open http://news.sina.com.cn/
-Icon=eos-link-sinanews
-Categories=News;
-X-Endless-LaunchMaximized=true

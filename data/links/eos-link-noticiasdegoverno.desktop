@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Portal Brasil
-Comment=Portal de Notícias do Governo
-Type=Application
-Exec=gio open http://www.brasil.gov.br/
-Icon=eos-link-noticiasdegoverno
-Categories=News;
-X-Endless-LaunchMaximized=true

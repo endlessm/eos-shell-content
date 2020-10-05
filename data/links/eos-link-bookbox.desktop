@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=BookBox
-Comment=English story books for children
-Type=Application
-Exec=gio open http://www.bookbox.com/
-Icon=eos-link-bookbox
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

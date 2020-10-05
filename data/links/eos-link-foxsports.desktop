@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=FOX Sports
-Comment=Sports news
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.foxsports.com/' es:'gio open http://www.foxsportsla.com/gt/' pt:'gio open http://www.foxsports.com.br/' 
-Icon=eos-link-foxsports
-Categories=Sports;
-X-Endless-LaunchMaximized=true

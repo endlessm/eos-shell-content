@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Radios de Guate
-Comment=Radio en línea
-Type=Application
-Exec=gio open http://www.emisoras.com.gt/
-Icon=eos-link-radiosdeguatemala
-Categories=Entertainment;
-X-Endless-LaunchMaximized=true

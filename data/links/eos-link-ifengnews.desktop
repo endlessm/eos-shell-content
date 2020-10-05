@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=凤凰网
-Comment=综合门户网站，与凤凰无线、凤凰宽频形成三屏联动
-Type=Application
-Exec=gio open http://news.ifeng.com/
-Icon=eos-link-ifengnews
-Categories=News;
-X-Endless-LaunchMaximized=true

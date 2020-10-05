@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=deGuate
-Comment=Directorio electrónico de Guatemala
-Type=Application
-Exec=gio open http://www.deguate.com.gt/
-Icon=eos-link-deguate
-Categories=Local;
-X-Endless-LaunchMaximized=true

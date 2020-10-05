@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Stack Overflow
-Comment=Hỏi & Đáp về lập trình nguồn lực
-Type=Application
-Exec=gio open http://stackoverflow.com/
-Icon=eos-link-stackoverflow
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

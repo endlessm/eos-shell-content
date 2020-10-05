@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Brainly
-Comment=Menanyakan apa pun, menjawab apa pun
-Type=Application
-Exec=eos-exec-localized 'gio open https://brainly.co.id/' th:'gio open https://brainly-thailand.com/' 
-Icon=eos-link-brainly
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true
