@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-09-05 18:24+0000\n"
-"PO-Revision-Date: 2020-04-18 18:24+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-10-08 21:33+0000\n"
+"PO-Revision-Date: 2020-10-08 21:33+0000\n"
+"Last-Translator: endlessmobile_build <admin@endlessos.org>\n"
 "Language-Team: Romanian (http://www.transifex.com/endless-os/eos-shell-content/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1122,36 +1122,15 @@ msgstr "Intoarce piesele din fata ta pentru ca acestea sa fie de aceeazi culoare
 
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
-msgid "Documents"
-msgstr "Documente"
-
-#: content/Default/apps/content.json.h:170
-msgctxt "subtitle"
-msgid "Access all of your documents and files"
-msgstr "Acceseaza toate documentele si fisierele"
-
-#: content/Default/apps/content.json.h:171
-msgctxt "description"
-msgid ""
-"Get organized with this app, which helps you find all of your documents and "
-"files, no matter how long ago you saved them. Organize things in a way that "
-"makes sense to you, adding and re-naming folders in a way that will help you"
-" stay on top of your pictures, videos, and documents. With this app, you can"
-" store everything in one place and you’ll never lose that important file or "
-"special photo again."
-msgstr "Fii mai organizat cu aceasta aplicatie,care te ajuta sa gasesti toate documentele si fisierele indiferent de cat de vechi sunt,Organizeaza lucruri intr-un mod care are sens pentru tine,adaugand si redenumind foldere intr-un mod care te va ajuta sa stai deasupra pozelor,clipurilo si documentelor.Cu aceasta aplicatie,poti stoca absolut tot intr-un singur loc si nu vei mai pierde fisiere importante sau imagini speciale vreodata."
-
-#: content/Default/apps/content.json.h:172
-msgctxt "title"
 msgid "Quadrapassel"
 msgstr "Quadrepassel"
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
 msgstr "Un joc de puzzle gen tetris"
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "You'll need to be quick if you want to win this game! Change the shape of "
@@ -1162,17 +1141,17 @@ msgid ""
 "challenge!"
 msgstr "Va trebuie sa fii foarte rapid daca vrei sa castigi acest joc!Schimba forma pieselor care cad de sus pentru a potrivi culori si a le face sa dispara.Daca nu faci destule blocuri sa dispara,vei vedea ca ecranul se va umple foarte repede si va trebui sa incerci din nou.Si chiar cand te gandeai ca esti destul de rapid,jocul va fi mai rapid,deci fii pregatit pentru provocari!"
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Screenshot"
 msgstr "Screenshot"
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
 msgstr "Fa o poza ecranului pentru a o salva"
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Do you ever wish you could take a picture of your screen to save? Well now "
@@ -1181,17 +1160,17 @@ msgid ""
 "make sure to save just what you need and nothing more."
 msgstr "Ti-ai drit vreodata sa poti face o poza a ecranului pentru a o salva?Acum poti,cu aceasta aplicatie de screenhhot.Poti alege sa faci o captura a intregului ecran sau doar a unei ferestre.In acest mod,poti avea grija ca salvezi doar ce ai nevoie si nu altceva."
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Solitaire"
 msgstr "Solitaire"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "The classic single player card game"
 msgstr "Clasicul joc de carti cu un singur jucator"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:177
 msgctxt "description"
 msgid ""
 "Solitaire is a classic card game that is fun for people of all ages. It’s "
@@ -1201,17 +1180,17 @@ msgid ""
 "entertain you, hour after hour."
 msgstr "Solitaire este un joc clasic de carti care este distractiv pentru toate varstele.Este usor de folosit,dar ai nevoie de timp pentru a fi un profesionist adevarat.Acest joc captivant este cu siguranta sigur aici pentru a vă distra, oră după oră."
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Terminal"
 msgstr "Terminal"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Use the command line"
 msgstr "Foloseste linia de comanda"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch"
@@ -1221,17 +1200,17 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made."
 msgstr "Daca esti un utilizator avansat si vrei sa afisezi informatii despre sistem si sa lansezi aplicatii fara a folosi mouse-ul,acum poti face asta cu aceasta aplicatie terminal.Cu acest terminal modern,poti vedea toate comenzile scrise in culori diferite si te poate ajuta sa le scrii corect,identificand greselile facute."
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Tetravex"
 msgstr "Tetravex"
 
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
 msgstr "Intrece ceasul intr-un joc de puzzle numeric"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:183
 msgctxt "description"
 msgid ""
 "Try to match up all of the same numbers on the blocks to win this tricky "
@@ -1240,17 +1219,17 @@ msgid ""
 "beat your or your friends' best time!"
 msgstr "Încercați să se potriviti toate aceleași numere de pe blocuri pentru a câștiga acest joc complicat. Va trebui să va gânditi cu atenție, dar repede, pentru a termina puzzle. Vei fi cronometrat, deci asigura-te că vei fi foarte rapid, în scopul de a bate cel mai bun timp sau prietenii tai!"
 
-#: content/Default/apps/content.json.h:187
+#: content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Videos"
 msgstr "Video"
 
-#: content/Default/apps/content.json.h:188
+#: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr "Un media player complet functional"
 
-#: content/Default/apps/content.json.h:189
+#: content/Default/apps/content.json.h:186
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -1260,17 +1239,17 @@ msgid ""
 "your family and friends to join you in watching all of your favorite movies!"
 msgstr "Iti place sa vizionezi filme?Fa asta acum cu aceasta aplicatie care iti permite sa vizionezi filmele descarcate in modul full-screen.Cu această aplicație veți dori să invitati toată familia și prietenii să vi se alăture în vizionarea filmelor  preferate!"
 
-#: content/Default/apps/content.json.h:190
+#: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Help Center"
 msgstr "Centru de ajutor"
 
-#: content/Default/apps/content.json.h:191
+#: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Invata cum sa folosesti Endless"
 
-#: content/Default/apps/content.json.h:192
+#: content/Default/apps/content.json.h:189
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
@@ -1281,17 +1260,17 @@ msgid ""
 "asking us questions."
 msgstr "Aveți întrebări cu privire la modul de utilizare a sistemului Endless ? Acum puteți avea răspunsuri la întrebările dvs. doar la un clic distanță! Am creat Centrul de ajutor atât pentru utilizatorii noi și avansati, astfel încât să puteți învăța cum să folositi Endless la nivelul la care aveți nevoie. În cazul în care nu puteți găsi răspunsul la întrebările dvs. - să ne spuneti! Va ajuta sa faceti Endless mai bun oferindu-ne feedback-ul dvs., și cerându-ne întrebări."
 
-#: content/Default/apps/content.json.h:193
+#: content/Default/apps/content.json.h:190
 msgctxt "title"
 msgid "Gedit"
 msgstr "Gedit"
 
-#: content/Default/apps/content.json.h:194
+#: content/Default/apps/content.json.h:191
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
 msgstr "Un editor de text simplu pentru toate editarile de care ai nevoie"
 
-#: content/Default/apps/content.json.h:195
+#: content/Default/apps/content.json.h:192
 msgctxt "description"
 msgid ""
 "Use this simple app to create and edit files that require plain text inputs."
@@ -1300,17 +1279,17 @@ msgid ""
 "should be perfect for all of your text editing needs."
 msgstr "Folositi aceasta aplicatie simpla pentru a creea si edita fisiere care necesita intrări de text simplu.Daca esti un programator,ai nevoie de aceasta aplicatie.Aceasta aplicatie este perfecta pentru editarea oricarui text."
 
-#: content/Default/apps/content.json.h:196
+#: content/Default/apps/content.json.h:193
 msgctxt "title"
 msgid "Mind Maps"
 msgstr "Mind Maps"
 
-#: content/Default/apps/content.json.h:197
+#: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
 msgstr "Creeaza harti ale mintii cu texte,imagini,si desene"
 
-#: content/Default/apps/content.json.h:198
+#: content/Default/apps/content.json.h:195
 msgctxt "description"
 msgid ""
 "Do you ever have a complicated idea, but have trouble organizing it? If so, "
@@ -1319,17 +1298,17 @@ msgid ""
 " create all kinds of cool diagrams that you can save and share."
 msgstr "Ai avut vreodata o idee complicata,dar ai avut probleme cu organizarea ei?Daca da,incearca cartografierea in minte!O minte-hartă este o diagramă utilizată pentru a reprezenta cuvinte, idei, sarcini sau alte elemente legate de un cuvânt cheie sau a unei idei. Vei fi capabil de a crea tot felul de diagrame interesante pe care le puteți salva și partaja."
 
-#: content/Default/apps/content.json.h:199
+#: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: content/Default/apps/content.json.h:200
+#: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
 msgstr "Unealta de design grafic avansata"
 
-#: content/Default/apps/content.json.h:201
+#: content/Default/apps/content.json.h:198
 msgctxt "description"
 msgid ""
 "This app is for intermediate and advanced graphic designers who need to "
@@ -1340,17 +1319,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr "Aceasta aplicatie este pentru designeri intermediari și avansați care au nevoie dea crea și edita grafice și imaginile lor. Această aplicație vă oferă funcții avansate și este comparabila cu Adobe InDesign. De exemplu, vă permite să creați SVGs (Scalable Vector Graphics), care permite ca grafica să rămână de înaltă calitate, indiferent de marimea ei. Creați anunțuri, broșuri, prezentări și opere de artă cu această mare aplicație grafică gratuit!"
 
-#: content/Default/apps/content.json.h:202
+#: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "Kalzium"
 msgstr "Kalzium"
 
-#: content/Default/apps/content.json.h:203
+#: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
 msgstr "Tabelul periodic al elementelor mai amuzant"
 
-#: content/Default/apps/content.json.h:204
+#: content/Default/apps/content.json.h:201
 msgctxt "description"
 msgid ""
 "The periodic table of the elements is one of the basic building blocks of "
@@ -1363,17 +1342,17 @@ msgid ""
 "simple, and informative app."
 msgstr "Tabelul periodic al elementelor este una dintre componentele de bază ale științei, iar acum îl puteți avea la îndemână. Această aplicație oferă un tabel periodic cu coduri de culori, care face ca fiecare element de învățare mai ușor și mai distractiv. Selectați elemente pentru a afla informații de bază despre ele, cum ar fi punctele lor de topire, în masă, și multe altele. Mai multe informații complexe, cum ar fi vizualizarea liniilor spectrale elemente , face ca această aplicație perfectă pentru descoperirea științifică. Nu o să crezi cât de mult  puteți învăța cu această aplicație frumoasa, simpla și informativa."
 
-#: content/Default/apps/content.json.h:205
+#: content/Default/apps/content.json.h:202
 msgctxt "title"
 msgid "Kapman"
 msgstr "Kapman"
 
-#: content/Default/apps/content.json.h:206
+#: content/Default/apps/content.json.h:203
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
 msgstr "Un joc oc clasic de labirint"
 
-#: content/Default/apps/content.json.h:207
+#: content/Default/apps/content.json.h:204
 msgctxt "description"
 msgid ""
 "If you love Pac-Man, then you you'll love this game too! Eat dots to gain "
@@ -1383,17 +1362,17 @@ msgid ""
 "and family, from kids to grandparents, will love the game, too!"
 msgstr "Daca va place Pac-Man, atunci vei iubi acest joc! Mânca puncte pentru a câștiga puncte, dar nu fi prins de fantome sau vei pierde. Pe măsură ce obții abilități și treci nivelure, viteza de joc creste, oferind o provocare mult mai interesanta. Nu vei dori vreodată să se oprească  jocul, iar prietenii și familia, de la copii la bunici, le va placea jocul de asemenea!"
 
-#: content/Default/apps/content.json.h:208
+#: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "KAtomic"
 msgstr "KAtomic"
 
-#: content/Default/apps/content.json.h:209
+#: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
 msgstr "O cale distractiva sa inveti chimie"
 
-#: content/Default/apps/content.json.h:210
+#: content/Default/apps/content.json.h:207
 msgctxt "description"
 msgid ""
 "If you’re struggling with concepts in chemistry, or simply looking for a way"
@@ -1405,17 +1384,17 @@ msgid ""
 " a ton!"
 msgstr "Dacă sunteți în luptă cu concepte din chimie, sau pur și simplu în căutarea unei modalitati de a consolida înțelegerea dumneavoastră, atunci ați găsit aplicația potrivită care să vă ajute! Acest joc provocator va ajuta să creați molecule de atomi - modul perfect de a învăța în timp ce te distrezi! Ecranul vă va arăta cum ar trebui sa arate molecula ta , și vă puteți muta atomii în jur pentru a face molecula corectă. Acest joc necesită strategie și gândire rapidă!"
 
-#: content/Default/apps/content.json.h:211
+#: content/Default/apps/content.json.h:208
 msgctxt "title"
 msgid "KBlocks"
 msgstr "KBlocks"
 
-#: content/Default/apps/content.json.h:212
+#: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
 msgstr "Potriveste blocuri ca sa le distrugi si sa castigi"
 
-#: content/Default/apps/content.json.h:213
+#: content/Default/apps/content.json.h:210
 msgctxt "description"
 msgid ""
 "This game is similar to Tetris, so if you love that game, you will love this"
@@ -1424,17 +1403,17 @@ msgid ""
 " lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr "Acest joc este similar cu Tetris! Sa potriviti formele de bloc, în scopul de a le face să dispară și să aveti grija la umplerea ecranului. Veți avea nevoie să fiti foarte rapid sau altfel veti pierde!"
 
-#: content/Default/apps/content.json.h:214
+#: content/Default/apps/content.json.h:211
 msgctxt "title"
 msgid "KBounce"
 msgstr "KBounce"
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
 msgstr "O bila saritoare menita sa te atraga"
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "This is a fun game with a simple goal: you must build walls to decrease the "
@@ -1444,17 +1423,17 @@ msgid ""
 "It requires quick thinking and fast reflexes!"
 msgstr "Acesta este un joc distractiv cu un obiectiv simplu: trebuie să vă construiti ziduri pentru a micșora zona în care o minge care cade de pe ecran se poate deplasa. După ce umpleti cea mai mare parte a ecranului cu pereți, veți putea trece la nivelul următor. Acest joc are un element de rezolvare a puzzle-ului, și este ditractiv și de divertisment. Este nevoie de gândire rapidă și reflexe rapide!"
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KBruch"
 msgstr "KBrunch"
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr "Invata despre fractii,procente si multe altele"
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -1466,17 +1445,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr "Una dintre cele mai dificile părți ale matematicii care le facem în fiecare zi este sa calculam fracții și procente, iar acum nu va mai trebui să ganditi matematica din nou! Această aplicație oferă jocuri și exerciții pentru a perfecționa aptitudinile tale, inclusiv aritmetica, comparația, conversie și factorizare. Aflați mai multe despre toate fracții și procente, și practică atat cat doresti. Intalnim acest tip de matematică aproape în fiecare zi, astfel încât noile aptitudini vă vor beneficia în moduri neașteptate!"
 
-#: content/Default/apps/content.json.h:220
+#: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KDiamond"
 msgstr "KDiamond"
 
-#: content/Default/apps/content.json.h:221
+#: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
 msgstr "Creeaza linii cu trei diamante"
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:219
 msgctxt "description"
 msgid ""
 "In this fast-paced game, your job is to build lines of three diamonds of the"
@@ -1487,17 +1466,17 @@ msgid ""
 "many age levels."
 msgstr "În acest joc , munca ta este de a construi linii de trei diamante de același tip. Pur și simplu fa schimb de diamante cu vecinii lor pentru a face liniile. Mai bine fă-o repede, astfel încât să poți construi cât mai multe linii, inainte ca runda sa se termine! Acesta este un joc ușor și foarte distractiv puteți juca doar pentru puțin timp, sau ore în șir. Este distractiv, rapid, și  pentru mai multe nivele de vârstă."
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:220
 msgctxt "title"
 msgid "KGeography"
 msgstr "KGeography"
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr "Devino un geniu al geografiei in timp ce te distrezi"
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:222
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -1508,17 +1487,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr "Cât de mult știi despre geografia lumii și afacerile politice? Să înveți geografia lumii printr-un joc captivant. Mai întâi, vezi pe hartă și învața despre nume, capitale și steaguri. Apoi, este timpul pentru ați testa cunoștințele! Ghiceste capitale și steaguri sau încerca să plasezi granițele naționale pe o hartă goală.Vei ști despre fiecare colț al lumii și vei avea o mulțime de distracție!"
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:223
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr "Cauta comori si ascunde-te de inamici"
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:225
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -1528,17 +1507,17 @@ msgid ""
 " through any trapdoors!"
 msgstr "Inamicii sunt chiar in spatele tau atunci cand te misti prin labirint colectand aur in acest joc.Cu puzzle-uri provocatoare și un obiectiv interesant, acest joc este sigur de a fi un favorit. Veți găsi sute de niveluri pentru ore de joc, cu noi labirinturi la fiecare nivel. Pur și simplu sa nu cazi prin orice trape!"
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:226
 msgctxt "title"
 msgid "KHangMan"
 msgstr "KHangMan"
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr "Unul dintre cele mai amuzante jocuri de cuvinte"
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -1550,17 +1529,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr "Practica vocabularul tau in modul distractiv! Vei învăța cuvinte noi cu acest joc de puzzle, și este ceva cu care întreaga familie se poate juca împreună. Cum te joci? Ei bine, computerul va alege un cuvânt și jucătorii vor încerca să ghicească ce este acel cuvânt prin ghicirea literelor sale, una câte una, până când acestia pot ghici cuvântul întreg. După ce jucătorii ghicesc în mod corect, mai mult și mai mult din cuvântul care se arată, dar dacă faci prea multe presupuneri greșite, atunci vei pierde și trebuie să înceapă  un cuvânt nou!"
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "Kigo"
 msgstr "Kigo"
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr "Stravechiul joc de abilitate,actualizat la era moderna"
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:231
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -1572,17 +1551,17 @@ msgid ""
 "too!"
 msgstr "Bazat pe doi jucători,acest joc popular în Asia, această aplicație este ușor de învățat, dar necesită o mare strategie. Este modul perfect pentru a antrena mintea. Scopul este simplu: muta piesele albe sau negre pe grila (dimensiunea tablei depinde de nivelul de dificultate pe care o alegeți), și încearca să înconjori mai multa tabla decât adversarul tău. Dacă îți plac jocurile, cum ar fi șah, atunci vei iubi acest joc de strategie mare!"
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Killbots"
 msgstr "Killbots"
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr "Depaseste prin inteligenta robotul pentru a castiga"
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -1592,17 +1571,17 @@ msgid ""
 "tell the tale!"
 msgstr "Cum vei ajunge departe de roboți criminal aplecati asupra distrugerii? Da-ti seama în acest joc simplu si distractiv. Este posibil să fii depășiț numeric de un flux nesfârșit de roboți, dar cu inteligența și dispozitivul de teleportare la îndemână aveți posibilitatea să le învingeti. Păcăliti toti roboții ucigași să câștigati și să trăiti pentru a spune povestea!"
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "KJumpingCube"
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr "Dezvolta o strategie buna pentru a cuceri toate patratele"
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -1617,17 +1596,17 @@ msgid ""
 " toes! "
 msgstr "Practica gandirea strategica cu acest joc provocator de zaruri! Vă mutați făcând clic pe un pătrat liber sau unul pe care deja îl dețineți. Dacă faceți clic pe un pătrat vacant, modificări de culoare se vor face pentru a arăta că acum il dețineți. De fiecare dată când faceți clic pe un pătrat, crește valoarea cu unu. Odată ce un pătrat are mai multe puncte decât vecinii sai, punctele sale sunt distribuite între vecini (punctele sari in jurul). În cazul în care un pătrat vecin este proprietatea adversarului, să preia controlul de acel pătrat și toate punctele sale. Veți avea nevoie să va gânditi cu atenție pentru a controla toate piețele.!"
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "Kolor Lines"
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
 msgstr "Alinieaza bile de aceeasi culoare pentru a castiga"
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "This game is so fun and addicting, you’ll never want to stop playing. The "
@@ -1638,17 +1617,17 @@ msgid ""
 "possible; you lose if it fills up completely!"
 msgstr "Acest joc este atat de distractiv si de captivan,ca nu vei vrea sa te opresti din jucat.Conceptul este simplu:aduna bile colorate de pe tabla jocului in linii de cate cinci bile de aceeasi culoare,si inaturale de pe tabla.Este mai provocator decat te astepti,deoarece noi bile reapar dupa fiecare mutare."
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Battleships"
 msgstr "Battleships"
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
 msgstr "Scoate-ti adversarii din apa"
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "Try to guess where your enemies ships are to blow them out of the water "
@@ -1659,17 +1638,17 @@ msgid ""
 "Arrr you ready for some great naval fun?"
 msgstr "Incearca sa ghicesti unde sunt navele inamicilor pentru a le arunca in aer inainte sa te arunce ei!Este un joc distractiv de strategie care necesita doua persoane.Poti juca impotriva unui prieten,impotriva cuiva de pe internet,sau impotriva computerului.Ve-ti face cu randul incercand sa ghiciti unde are celalalt nava,si primul care distruge toate navele adversarului castiga."
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "KNetwalk"
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
 msgstr "Conecteaza corect cablurile ca sa castigi"
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "Who knew building computer networks could be fun? You'll need to create the "
@@ -1680,17 +1659,17 @@ msgid ""
 "enjoyable and competitive game you’ll love to play."
 msgstr "Cine a stiut ca pentru a construi retele de calculatoare ai nevoie si de distractie?Va trebui să creați conexiunile potrivite în cât mai puține ture posibil pentru a câștiga - deci pregătiți-vă pentru a muta fire și ghiciti puzzle-ul repede! După ce ați reușit, veți găsi o listă de mare cu scor, permițându-vă să găsiți concurenți! Această aplicație vă ajută să înțelegeți modul în care rețelele de calculatoare  lucreaza, dar mai important, este un joc plăcut și competitiv."
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "KSame"
 msgstr "KSame"
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr "Scapa de toate bilele pentru a castiga"
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -1700,17 +1679,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr "Scoateti în evidență abilitățile dumneavoastră de a găsi modele în acest joc captivant. Potriviti toate bilele colorate pentru a goli tabla și de a câștiga, dar nu uitați: Cu cât mai multe blocuri de bile goliti dintr-o dată, mai mare scorul dvs. va fi, deci să gânditistrategic cu privire la toate mișcările ! Ce poate arata ușor la început este o adevărată provocare. O provocare foarte distractiva!"
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "KSquares"
 msgstr "KSquares"
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
 msgstr "Conecteaza punctele in acest joc strategic provocator"
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
 "Based on a popular old game, this fun app lets you stretch your mind and "
@@ -1721,17 +1700,17 @@ msgid ""
 "entertainment. Be careful – you just might become addicted!"
 msgstr "Bazat pe un joc popular vechi,aceasta aplicatie te va pune la incercare sa rezolvi puzzle-uri.Obiectivul este sa completezi cat mai multe patrate pe grila fata de adversar.Deseneaza linii între puncte, si vei forma pătrate în timp ce încerci să blochezi pătratele adversarilor . Acest joc necesită o gândire geometrică precum și strategie, și este sigur de a oferi ore de divertisment. Fii atent - pur și simplu s-ar putea sa devii dependent"
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
 msgstr "Un provocator joc de puzzle numeric"
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Are you better than your friend is at puzzles? Find out by playing this fun "
@@ -1743,17 +1722,17 @@ msgid ""
 "Sudoku, or are an experienced player, you'll love this app!"
 msgstr "Esti mai bun decat prietenul tau la puzzle-uri?Afla jucand acest joc de puzzle cu numere!Poti juca singur,poti cere ajutor,sau poti provoca familia si prietenii pentru a vedea cine rezolva primul.Aceasta aplicatie are caracteristici speciale,ca abilitatea de a creea jocuri si de a le printa,sau abilitatea de a te ajuta sa rezolvi orice joc de Sudoku.Daca esti nou in Sudoku sau un experimentat,vei iubi aceasta aplicatie!"
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "Omul Cartof"
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
 msgstr "Dai cartofului tau o fata vesela"
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "This is a silly game for children and their parents to play together. Based "
@@ -1763,17 +1742,17 @@ msgid ""
 "lots of laughter. Make the goofiest face you can!"
 msgstr "Acesta este un joc prostesc pentru copii și părinții lor să se joace împreună. Bazat pe Mr. Potato Head, vă permite să glisați și să fixați caracteristici faciale pe un cartof, fete distractive, cum ar fi mustăți, urechi de elf, cozi de cal, si papioane. Nu există nici un obiectiv pentru acest joc, cu excepția o mulțime de râsete!"
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "Kubrick"
 msgstr "Kubrick"
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
 msgstr "Ca si Cubul Rubick - creeaza culori puternice pe lateral ca sa castigi"
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "This puzzling game has lots of options to keep your brain working! Modeled "
@@ -1785,17 +1764,17 @@ msgid ""
 "even design your very own challenge!"
 msgstr "Acest joc de puzzle are o mulțime de opțiuni pentru a păstra in lucru creierul! Modelat după cubul popular Rubik acest joc este o experiență de 3-D,  in care trebuie sa faci din cărămizi mici, într-un cub mare pentru a încerca și de a face fiecare dintre laturile cubului aceeași culoare solidă. obiecte mai mici, mai mari, și forme diferite oferă propriile provocări deosebite. Jocul include, de asemenea, demonstrații de mișcări de soluție sa va ajute, astfel încât să puteți urmări, împreună cu experții, și aveți posibilitatea să proiectați chiar propria dvs. provocare!"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr "KWordQuiz"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
 msgstr "Imbogateste-ti vocabularul si testeaza-ti cunostintele"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "Learning new words is a great way to speak and write more clearly, but "
@@ -1806,17 +1785,17 @@ msgid ""
 "learning all you want."
 msgstr "Sa inveti noi cuvinte este o buna metoda de a vorbi si de a scrie mai clar,dar uneori este greu de facut asta.Folosind carduri de memorie poate fi de ajutor,fie ca studiezi o limba straina sau incersi sa memorezi cuvinte noi din vocabular.Aceasta aplicatie faca memorarea mai usoara si distractiva cu teste care te vor ajuta sa iti testezi cunostintele si sa inveti tot ce ai nevoie."
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Maps"
 msgstr "Harti"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Maps of the entire world"
 msgstr "Harta intregii lumi"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "Where do players from FC Barcelona or Real Madrid live? How far away are you"
@@ -1827,17 +1806,17 @@ msgid ""
 "has changed over time!"
 msgstr "Unde traiesti oamenii de la FC Barcelona sau Real Madrid?Cat de departe este de o tara unde elefantii si leii traiesc liberi?Cat de aproape este cel mai mare vulcan?Acestea sunt intrebari care doar cu o harta potrivita poti afla raspunsurile.Aceasta aplicatie iti da acces la tot felul de harti din toata lumea si de diferite varste,ca sa vezi cat de mult sa schimbat lumea in tot acest timp!"
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Palapeli"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
 msgstr "Un joc distractiv de puzzle"
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
@@ -1847,17 +1826,17 @@ msgid ""
 "rewarding, and as true to life as can be."
 msgstr "Daca esti un mare fan al puzzle-uri, vei iubi acest joc. Spre deosebire de alte jocuri de acest tip, nu este necesar să se aliniezi piese pe o grilă. In schimb, Palapeli are un simt de viata mai reala, cu piese care se pot deplasa liber. Alege puzzle-ul și începe punerea împreună a pieselor. Acest joc este distractiv, plin de satisfacții, și la fel de adevărat pentru viață așa cum poate ea fi."
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "Virtual School"
 msgstr "Scoala Virtuala"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
 msgstr "Clipuri gratuite si educationale despre aproape orice subiect"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
 "Learning is easy and fun with video courses on subjects like math, biology, "
@@ -1869,17 +1848,17 @@ msgid ""
 " this app and these videos can help you succeed in school and in life!"
 msgstr " "
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Numpty Physics"
 msgstr "Numpty Physics"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
 msgstr "Joc puzzle din fizica"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:276
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -1890,17 +1869,17 @@ msgid ""
 "learning."
 msgstr "Cine a stiut ca legile fizicii pot fi atat de distractive?Cu aceasta aplicatie,poti rezolva puzzle-uri desenand obiecte ca scripeti,pârghii,si rampe.În cazul în care creațiile tale se dovedesc corecte,vei completa acel nivel si vei trece la urmatorul.Acest joc provocator te va invata de asemenea bazele fizifii,dar te vei distra in timp ce vei invata."
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr "M.A.R.S."
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "A shooting game in space"
 msgstr "Un joc de tragere in spatiu"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:279
 msgctxt "description"
 msgid ""
 "In the year 3547, civilizations across the galaxy have settled their own "
@@ -1913,17 +1892,17 @@ msgid ""
 "keep playing until you succeed in returning peace to your planet!"
 msgstr "In anul 3547,civilizatiile din intreaga galaxie si-au ales propriile planete.Toti oamenii traiau in pace si armonie cu mediul.Dar in afara planetei tale,un razboi se ducea.Esti un luptator faimos care este cunoscut pentru onoarea si abilitatile sale,si va trebuie sa protejezi planeta ta de vecinii gelosi care vor sa o distruga!Acest joc are optiuni de multiplayer,iti da posibilitatea sa alegi dintr-o varietate de arme,te lasa chiar sa iti personalizezi nava.Vei dori să continui să joci până când reușești sa readuci pacea pe planeta ta!"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "MegaGlest"
 msgstr "MegaGlest"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
 msgstr "O lume fascinanta cu Regi,Regine si Magie"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:282
 msgctxt "description"
 msgid ""
 "Kings, castles, and dragons all unite in this awesome strategy game that "
@@ -1933,17 +1912,17 @@ msgid ""
 "you desire!"
 msgstr "Regi,castele,si dragoni,toate unite in acest joc de strategie care te va face sa vrei sa iti conduci civilizatia.Joaca impotriva prietenilor pentru a vedea cine are ce e necesar pentru a conduce aceasta lume fastastica unde magia te face mai puternic si poti cuceri orice parte de tărâm doresti!"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Open Arena"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr "Castiga acest joc amuzant prin impuscaturi"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:285
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -1953,17 +1932,17 @@ msgid ""
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr "Daca bataile in arena sunt potrivite pentru tine,atunci sigur iti va placea aceasta aplicatie.Foloseste stiluri diferite de arme in concursuri precum Captureaza Steagul,Deadmatch,Team Deathmatch,Last Man Standing si Tournament."
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "3D CAD"
 msgstr "3D CAD"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
 msgstr "Creeaza modele CAD 3D"
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
 "This app is made for programmers who want to create 3D CAD models. The app "
@@ -1976,17 +1955,17 @@ msgid ""
 " you do, this app is a great way to build the 3D models you need."
 msgstr "Aceasta aplicatie este pentru programatorii care vor sa creeze modele CAD 3D.Aplicatia nu se concentreaza pe aspectele artistice ale modelarii 3D,ci mai degraba pe elementele de CAD,deci este cea mai potrivita pentru persoanele care vor sa creeze parti de masina.Ca programator,vei avea control total asupra procesului de modelare pentru a putea modifica orice pas si pentru a configura design-ul care il doresti.Trebuie sa intelegi in totalitate cum sa creezi modele CAD,si daca stii deja,aceasta aplicatie este cea mai potrivita pentru a creeea modele 3D."
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "Pingus"
 msgstr "Pingus"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
 msgstr "Salveaza-ti prietenii pinguini de a nu cadea in apa"
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -1996,17 +1975,17 @@ msgid ""
 " them in order to avoid an untimely end."
 msgstr "Pinguinii sunt cele mai dragute animale,deci cine nu ar juca un joc unde trebuie sa protejezi aceste creaturi de la caderi de pe stanci pana la ape inghetate?Cu multe nivele si caractere frumoase,acesta sigur va deveni jocul tau favorit."
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Etoys"
 msgstr "Etoys"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Learn with visual programming"
 msgstr "Invata cu programare vizuala"
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:294
 msgctxt "description"
 msgid ""
 "This app is a great way for kids to learn how to program while learning "
@@ -2020,18 +1999,18 @@ msgid ""
 "college-aged students alike!"
 msgstr "Aceasta aplicatie este o modalitate foarte bună pentru copii să învețe cum să programeze  în timp ce intata alte discipline și aibe parte de  distracție! Creați desene interactive, povestiri, modele și jocuri cu o interfață de tip trage si lipeste, care ajută la prevenirea erorilor de sintaxă, care sunt de multe ori frustrante pentru noi cursanți. Această aplicație încurajează curiozitatea și explorare, și pot fi folosite pentru a crea  de la desene simple la modele complexe ale lumii fizice. În timp ce inițial a fost conceput pentru studenții de 8 - 13 ani, profesorii au constatat că această aplicație a ajutat elevii de toate vârstele!"
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "Stellarium"
 msgstr "Stelariu"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr "Software-ul planetariu care arată ceea ce vezi când te uiți la stele"
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:297
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -2042,17 +2021,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr "Descoperiti cerul de noapte cu această aplicație. Cu un catalog de mai mult de 600.000 de stele, constelații de la mai mult de o duzină de culturi și mai multe caracteristici, această aplicație vă permite să vedeți și să cunoasteti stelele de pe desktop. Această aplicație vă arată un cer de noapte, care este atât de realist, se potrivește cu cel pe care îl vedeți deasupra ta. Setați coordonatele privind locația și  învața despre stelele de deasupra ta!"
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "X-Moto"
 msgstr "X-Moto"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr "Joc de intreceri cu motociclete"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:300
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
@@ -2062,17 +2041,17 @@ msgid ""
 "time in this fast-paced, exciting test of speed!"
 msgstr "Iti plac motocicletele?Atunci sigur iti va placea acest joc unde fizica joaca un rol important in castigarea cursei!Trebuie sa iti controlezi motocicleta pana la limita daca vrei sa ai o sansa la castig.Invata totul despre stiinta si practica talentul de jucator in acest joc minunat!"
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "Tux Paint"
 msgstr "Tux Paint"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr "O aplicatie de desenat pentru copii"
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:303
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -2083,17 +2062,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr "Creeaza opere de arta cu aceasta aplicatie simpla si distractiva.Pinguinul TUX ajuta la ghidarea copiilor pentru a sti cum sa foloseasca toate uneltele.Varsta recomandata este de 3 -12 ani,dar oricine se paote bucura de ea.Joaca-te cu forme,sau deseneaza de mana pentru a creea ceva special.Daca ai un copil care iubeste sa deseneze,descarca aceasta aplicatie si incepe sa o folosesti alaturi de el!"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "VLC"
 msgstr "VLC"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
 msgstr "Reda clipuri video cu acest media player popular"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:306
 msgctxt "description"
 msgid ""
 "VLC is a free and open source multimedia player that plays most multimedia "
@@ -2103,17 +2082,17 @@ msgid ""
 "abilities out there."
 msgstr "VLC este un gratuit si open source player multimedia care poate reda multiple fisiere multimedia la fel de bine ca DVD, Audio CD, VCD, si variate protocoale streaming de pe internet.Daca ai probleme cu vizionarea clipurilor pe alte playere multimedia, incearca VLC deoarece are una dintre cele mai bune abilitati de redare video care exista."
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "Wesnoth"
 msgstr "Wesnoth"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "Joc strategic"
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:309
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -2122,17 +2101,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr "Bătălia pentru controlul asupra terenurilor, sate și resurse în acest joc de strategie fantezie-tematic. Fiecare jucător controlează o armată  proiectata proprie și o folosește pentru a căuta poziția dominantă. Un amestec interesant de istorie, fantezie, și strategie, acest joc este sigur pentru a descoperi un mare lider în interiorul tău."
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "Music"
 msgstr "Muzica"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
 msgstr "Asculta toata muzica ta,si la radio"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:312
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -2142,17 +2121,17 @@ msgid ""
 "in one convenient app."
 msgstr "In afara de a asculta muzica preferata,aceasta aplicatie te lasa sa cauti prin librarie,creezi playlist,reda si scrie CD-uri.Aceasta aplicatie suporta streaming radio de pe internet ai vizualizare audio.Bucura-te de muzica favorita,inmagazinata si sortata intr-o aplicatie simpla."
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Photos"
 msgstr "Imagini"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
 msgstr "Editeaza usor,organizeaza,si impartaseste imagini."
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -2163,17 +2142,17 @@ msgid ""
 "networks, like Facebook."
 msgstr "Ne place tuturor sa facem fotografii în viața noastră de zi cu zi - și ne place mai ales descărcarea acestora pe computerele noastre astfel încât să putem edita și să le împărtăși prin intermediul retelelor de socializare. Această aplicație vă permite să importați fotografii de la un aparat de fotografiat digital sau un telefon. Le puteți aranja apoi în albume, să le editați pentru frumusețe și un efect maxim, și, desigur, să le afișați pe rețelele sociale preferate, precum Facebook."
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "Remote Desktop"
 msgstr "Desktop de la distanta"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
 msgstr "Administreaza computerul de la distanta"
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:318
 msgctxt "description"
 msgid ""
 "Now you can manage your own computer, or a family member's, without being in"

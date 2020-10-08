@@ -18,9 +18,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-09-05 18:24+0000\n"
-"PO-Revision-Date: 2020-04-18 18:24+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-10-08 21:33+0000\n"
+"PO-Revision-Date: 2020-10-08 21:33+0000\n"
+"Last-Translator: endlessmobile_build <admin@endlessos.org>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-os/eos-shell-content/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1131,36 +1131,15 @@ msgstr "将你面前的纸片翻过来，呈现出相同的颜色。简单吗？
 
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
-msgid "Documents"
-msgstr "文件"
-
-#: content/Default/apps/content.json.h:170
-msgctxt "subtitle"
-msgid "Access all of your documents and files"
-msgstr "访问您的所有文档和文件"
-
-#: content/Default/apps/content.json.h:171
-msgctxt "description"
-msgid ""
-"Get organized with this app, which helps you find all of your documents and "
-"files, no matter how long ago you saved them. Organize things in a way that "
-"makes sense to you, adding and re-naming folders in a way that will help you"
-" stay on top of your pictures, videos, and documents. With this app, you can"
-" store everything in one place and you’ll never lose that important file or "
-"special photo again."
-msgstr "这个app可以帮助您找到所有文档和文件，不管是多久以前保存的都可以找到。我们用一种适用于您的方式来安排文件，添加和重命名文件夹，以便您找到您所需的图片、视频和文件。有了这个app，您就可以吧所有文件存储在一处，永远不再丢失这些重要文件和特别的照片！"
-
-#: content/Default/apps/content.json.h:172
-msgctxt "title"
 msgid "Quadrapassel"
 msgstr "Quadrapassel"
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
 msgstr "一款类似于俄罗斯方块的游戏"
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "You'll need to be quick if you want to win this game! Change the shape of "
@@ -1171,17 +1150,17 @@ msgid ""
 "challenge!"
 msgstr "只有速度足够快才能赢得这个游戏！你需要改变从顶部落下的方块形状，对颜色进行匹，消除方块。如果您没有消除足够多方块，它就会布满整个屏幕，需要重新开始挑战。就算您跟上了速度，游戏也会继续加速，所以准备好迎接挑战吧!"
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Screenshot"
 msgstr "截屏"
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
 msgstr "在您的屏幕上抓取一张图片用来保存"
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Do you ever wish you could take a picture of your screen to save? Well now "
@@ -1190,17 +1169,17 @@ msgid ""
 "make sure to save just what you need and nothing more."
 msgstr "您希望在自己屏幕上抓取一张图片用来保存吗？现在通过easy-to-use screenshot这个app您能够实现这个功能。您能够选择全屏抓取或者抓取其中一个窗口。这就意味着，您能够准确无误地保存您所需要的内容。"
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Solitaire"
 msgstr "Solitaire"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "The classic single player card game"
 msgstr "经典单人纸牌游戏"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:177
 msgctxt "description"
 msgid ""
 "Solitaire is a classic card game that is fun for people of all ages. It’s "
@@ -1210,17 +1189,17 @@ msgid ""
 "entertain you, hour after hour."
 msgstr "Solitaire是一款经典的纸牌游戏，适合各个年龄的玩家。游戏的规则非常易懂，但是要真正掌握游戏并不简单。相信您一定会愿意花时间去琢磨的，因为与此同时您会享受无限的乐趣。这个引人入胜、挑战大脑的游戏一定会让您感到乐趣无穷、流连忘返！"
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Terminal"
 msgstr "终端"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Use the command line"
 msgstr "使用命令行"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch"
@@ -1230,17 +1209,17 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made."
 msgstr "如果你是高级用户，希望不使用鼠标来显示系统信息和启动应用程序，现在您可以这个基本的终端程序来做到这一点。有了这个现代化的终端程序，你可以看到所有通过不同颜色来书写的命令，帮助您正确输入它们，并帮助您轻松识别任何错误。"
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Tetravex"
 msgstr "Tetravex"
 
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
 msgstr "在一个数字拼图游戏中运行计时器"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:183
 msgctxt "description"
 msgid ""
 "Try to match up all of the same numbers on the blocks to win this tricky "
@@ -1249,17 +1228,17 @@ msgid ""
 "beat your or your friends' best time!"
 msgstr "想要赢得游戏，请尝试将相同数字进行匹配。要完成拼图，请仔细快速进行，在最佳时机击败对手。"
 
-#: content/Default/apps/content.json.h:187
+#: content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Videos"
 msgstr "视频"
 
-#: content/Default/apps/content.json.h:188
+#: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr "功能齐全的视频媒体播放器"
 
-#: content/Default/apps/content.json.h:189
+#: content/Default/apps/content.json.h:186
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -1269,17 +1248,17 @@ msgid ""
 "your family and friends to join you in watching all of your favorite movies!"
 msgstr "您喜欢看电影吗？喜欢的话，您可以用这个视频播放软件来全屏观看您下载好的电影。其中音量控制和播放列表等基本功能会给您带来便捷、有趣的观影体验。有了这个软件，您就可以邀请您的家人和朋友来一场电影盛宴啦!"
 
-#: content/Default/apps/content.json.h:190
+#: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: content/Default/apps/content.json.h:191
+#: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "学会如何使用Endless"
 
-#: content/Default/apps/content.json.h:192
+#: content/Default/apps/content.json.h:189
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
@@ -1290,17 +1269,17 @@ msgid ""
 "asking us questions."
 msgstr "您对于如何使用Endless有疑问吗？现在只要点击一下，您就可以知道问题的答案啦。我们为新用户和高级用户创建了帮助中心，您可以根据自己的级别了解更多Endless的使用方法。如果您无法找到问题的答案，请联系我们吧。您的疑问和反馈是Endless不断改进的源泉和动力！"
 
-#: content/Default/apps/content.json.h:193
+#: content/Default/apps/content.json.h:190
 msgctxt "title"
 msgid "Gedit"
 msgstr "Gedit"
 
-#: content/Default/apps/content.json.h:194
+#: content/Default/apps/content.json.h:191
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
 msgstr "一个可以满足您各种文本编辑需求的简单文本编辑器"
 
-#: content/Default/apps/content.json.h:195
+#: content/Default/apps/content.json.h:192
 msgctxt "description"
 msgid ""
 "Use this simple app to create and edit files that require plain text inputs."
@@ -1309,17 +1288,17 @@ msgid ""
 "should be perfect for all of your text editing needs."
 msgstr "使用这个简单的app来创建和编辑需要纯文本输入的文件。如果您是一个程序员或想成为一个程序员，您就需要这个app。它强大的功能和简单实用的界面，完美满足您所有文本编辑需求。"
 
-#: content/Default/apps/content.json.h:196
+#: content/Default/apps/content.json.h:193
 msgctxt "title"
 msgid "Mind Maps"
 msgstr "思维导图"
 
-#: content/Default/apps/content.json.h:197
+#: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
 msgstr "用文本、图像、草图创建思维导图"
 
-#: content/Default/apps/content.json.h:198
+#: content/Default/apps/content.json.h:195
 msgctxt "description"
 msgid ""
 "Do you ever have a complicated idea, but have trouble organizing it? If so, "
@@ -1328,17 +1307,17 @@ msgid ""
 " create all kinds of cool diagrams that you can save and share."
 msgstr "你是否曾经有一个复杂的想法,但很难组织起来，对吗?如果是这样,试试思维导图!图上是一个用来展示话语、思想、任务或其他事物与关键字或想法。你可以创建各种酷图，并保存和分享。"
 
-#: content/Default/apps/content.json.h:199
+#: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: content/Default/apps/content.json.h:200
+#: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
 msgstr "高级构图工具"
 
-#: content/Default/apps/content.json.h:201
+#: content/Default/apps/content.json.h:198
 msgctxt "description"
 msgid ""
 "This app is for intermediate and advanced graphic designers who need to "
@@ -1349,17 +1328,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr "该App适用于中高级构图者，帮助创建与编辑图形图像。该App功能先进，结构类似于Adobe InDesign。例如，它能创建SVGs（可伸缩向量图形），保证图片在一切情况下都具备高质量，创建生动广告、宣传册、演示艺术品，还全免费！"
 
-#: content/Default/apps/content.json.h:202
+#: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "Kalzium"
 msgstr "Kaizium"
 
-#: content/Default/apps/content.json.h:203
+#: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
 msgstr "有趣的互动元素周期表"
 
-#: content/Default/apps/content.json.h:204
+#: content/Default/apps/content.json.h:201
 msgctxt "description"
 msgid ""
 "The periodic table of the elements is one of the basic building blocks of "
@@ -1372,17 +1351,17 @@ msgid ""
 "simple, and informative app."
 msgstr "元素周期表是基础科学构建之一，现在你可以在你指尖滑动此表。该App构建一个彩色周期表，使学习更容易、更有趣。选择元素，了解基本信息，包括熔点、质量以及其他。需要更为复杂的信息，如可视化元素谱线，则使该App更适用于科学发现。你无法预料这是个多么精彩、便捷、信息化的App。"
 
-#: content/Default/apps/content.json.h:205
+#: content/Default/apps/content.json.h:202
 msgctxt "title"
 msgid "Kapman"
 msgstr "Kapman"
 
-#: content/Default/apps/content.json.h:206
+#: content/Default/apps/content.json.h:203
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
 msgstr "魔鬼迷宫经典游戏"
 
-#: content/Default/apps/content.json.h:207
+#: content/Default/apps/content.json.h:204
 msgctxt "description"
 msgid ""
 "If you love Pac-Man, then you you'll love this game too! Eat dots to gain "
@@ -1392,17 +1371,17 @@ msgid ""
 "and family, from kids to grandparents, will love the game, too!"
 msgstr "如果你喜欢Pac-Man，你也会喜欢这个游戏！吃点得点，但不要被抓住，不然你就输了。随着你技术增加，水平上升，游戏会增速，挑战越来越刺激惊险。你一玩就不想停下来，你的朋友、家人，儿童、老人，都会爱上这个游戏。"
 
-#: content/Default/apps/content.json.h:208
+#: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "KAtomic"
 msgstr "KAtomic"
 
-#: content/Default/apps/content.json.h:209
+#: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
 msgstr "学习化学的好方法"
 
-#: content/Default/apps/content.json.h:210
+#: content/Default/apps/content.json.h:207
 msgctxt "description"
 msgid ""
 "If you’re struggling with concepts in chemistry, or simply looking for a way"
@@ -1414,17 +1393,17 @@ msgid ""
 " a ton!"
 msgstr "如果你正在为一些化学概念而烦恼，那么，找个方法来理解吧！你会发现这个App十分实用。这个挑战性的游戏创建从原子到分子的模型——让你的学习过程充满乐趣。屏幕会向你显示你的分子应该是什么样子，你可以移动原子，形成正确的分子。这个游戏需要策略和快速思考的能力，会交给你非常多的知识。"
 
-#: content/Default/apps/content.json.h:211
+#: content/Default/apps/content.json.h:208
 msgctxt "title"
 msgid "KBlocks"
 msgstr "KBlocks"
 
-#: content/Default/apps/content.json.h:212
+#: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
 msgstr "匹配并消除方块，赢得游戏"
 
-#: content/Default/apps/content.json.h:213
+#: content/Default/apps/content.json.h:210
 msgctxt "description"
 msgid ""
 "This game is similar to Tetris, so if you love that game, you will love this"
@@ -1433,17 +1412,17 @@ msgid ""
 " lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr "这个游戏类似于Tetris，如果您喜欢Tetris的话也会喜欢这个游戏的！您只需根据方块的形状进行匹配，以消除方块，避免方块布满屏幕。只有速度够快才能赢得这个游戏，所以赶紧集中注意力，为这个急速游戏最好准备吧！"
 
-#: content/Default/apps/content.json.h:214
+#: content/Default/apps/content.json.h:211
 msgctxt "title"
 msgid "KBounce"
 msgstr "KBounce"
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
 msgstr "您一定会喜欢的围堵弹力球游戏"
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "This is a fun game with a simple goal: you must build walls to decrease the "
@@ -1453,17 +1432,17 @@ msgid ""
 "It requires quick thinking and fast reflexes!"
 msgstr "这个有趣的游戏目标只有一个：通过不断建立围墙来围堵屏幕中移动的弹力球，减少其活动区域。等到整个屏幕几乎建满了围墙时，您就可以挑战下一个关卡。这个游戏包含解谜的元素，游戏节奏很快，有趣之余还考验玩家的思考速度和反应能力。"
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KBruch"
 msgstr "学分数"
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr "了解更多分数、百分数知识"
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -1475,17 +1454,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr "最棘手的一部分就是需要每天进行数学计算分数和百分数。现在你不用质疑你的数学能力了！这个App的相关游戏和练习可以提高你算数、比较、转换、分解技能。了解所有关于分数和百分比的知识，尽可能提供你需要的。我们每天都会遇到这种问题，你获得的新技能将出其不意地对你有好处。"
 
-#: content/Default/apps/content.json.h:220
+#: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KDiamond"
 msgstr "KDiamond"
 
-#: content/Default/apps/content.json.h:221
+#: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
 msgstr "将三颗以上同样的宝石连成一条线"
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:219
 msgctxt "description"
 msgid ""
 "In this fast-paced game, your job is to build lines of three diamonds of the"
@@ -1496,17 +1475,17 @@ msgid ""
 "many age levels."
 msgstr "在这个快节奏游戏中，您的任务就是通过变换相邻两颗宝石的位置，将三颗同样的宝石连成一条线。只有速度足够快，您才能在一轮游戏结束前完成尽量多的连线。这个游戏简单但是非常有趣，适合各年龄的玩家。您既可以把它当作消遣玩意一小会，也可以把它当作挑战玩到最后。"
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:220
 msgctxt "title"
 msgid "KGeography"
 msgstr "KGeography"
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr "有趣的同时还能成为地理天才"
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:222
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -1517,17 +1496,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr "你对世界地理和政治了解多少？通过一个精彩的游戏学习世界地理吧！首先，查看地图，了解地名、国家、各国旗帜。然后，开始测试你的地理知识吧！猜猜首都和旗帜，或者在空地图上标示出国界。通过此游戏学习地理知识，乐趣多多！"
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:223
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr "寻找宝藏，躲避敌人"
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:225
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -1537,17 +1516,17 @@ msgid ""
 " through any trapdoors!"
 msgstr "此游戏中，你穿过迷宫收集黄金，与此同时，敌人正在步步逼近。谜题和目标具有一定挑战性，一定会和你的胃口。你会发现此游戏不限级数，新迷宫层出不穷。注意：无需通过任何板门！"
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:226
 msgctxt "title"
 msgid "KHangMan"
 msgstr "KHangMan"
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr "最好玩的单词游戏之一"
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -1559,17 +1538,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr "用更有趣的方式来练习词汇吧！这是一个学习新单词的益智游戏，可以和家人一起玩耍。你知道怎么玩吗？电脑会选择一个词，游戏者一个字母接一个字母地进行猜测，直到猜出整个单词。游戏者一旦猜对，就会显示出更多的单词。如果猜错次数太多，你就输了，需要重新开始。"
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "Kigo"
 msgstr "Kigo"
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr "以现代手法演绎古老游戏"
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:231
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -1581,17 +1560,17 @@ msgid ""
 "too!"
 msgstr "该App基于亚洲流行的双人键盘游戏，规则简单，但需要策略。是练习大脑、打发时间的好方法。目标很简单：移动黑色或者白色的网格（网格的大小取决于你选择的难度），尝试包围对手的领地。如果你喜欢棋类游戏，你也会喜欢这个战略游戏的！"
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Killbots"
 msgstr "Killbots"
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr "战胜杀手机器人"
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -1601,17 +1580,17 @@ msgid ""
 "tell the tale!"
 msgstr "你将如何摆脱杀手机器穷追不舍？试试这个简单有趣的游戏吧！你可能会遇到无数的机器人，但你的智力和方便的传送装置可以打败他们。战胜杀手机器人，创造奇迹吧！"
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "KJumpingCube"
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr "通过策略来攻占所有方格"
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -1626,17 +1605,17 @@ msgid ""
 " toes! "
 msgstr "这个以骰子为对象的挑战性游戏可以锻炼您的策略性思维！您只需通过点击空白的方格或者您已有的方格来完成游戏。如果您点击了空白方格，它的颜色会改变，归为您拥有。您每点击方格一次，它的点值会上升一点。一旦其中一个方块的点值大于其相邻方块，这个方块的点值会均匀分布到相邻的方块中。如果相邻的方块本来是属于对手的，那就改为归您所有，您可以控制其点值。所以您在操控所有方块时都要仔细想清楚啦。由于骰子可能一瞬间会在双方中转手，游戏十分紧张刺激，相信您一定会喜欢的！"
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "颜色线条"
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
 msgstr "将相同颜色的球连成一条线极为获胜。"
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "This game is so fun and addicting, you’ll never want to stop playing. The "
@@ -1647,17 +1626,17 @@ msgid ""
 "possible; you lose if it fills up completely!"
 msgstr "此游戏十分有趣，让人着迷，欲罢不能！概念很简单：从游戏板中收集颜色相同的五个彩色球。这比你想象中更难，更具有挑战性，因为新球会在每次移动之后出现。你需要尽可能让游戏板和球接近，但如果全部填满，你就输了！"
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Battleships"
 msgstr "战舰"
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
 msgstr "从水中打击对手"
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "Try to guess where your enemies ships are to blow them out of the water "
@@ -1668,17 +1647,17 @@ msgid ""
 "Arrr you ready for some great naval fun?"
 msgstr "猜猜对手的船在抓住你之前会从哪里出现？这是个很有趣的双人战略游戏。你可以和朋友一起，或者在电脑上和其他人联网玩。你们轮流猜测对方船的位置，第一个击落敌船的一方获胜。你准备好了吗？"
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "KNetwalk"
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
 msgstr "连接正确电报以获胜"
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "Who knew building computer networks could be fun? You'll need to create the "
@@ -1689,17 +1668,17 @@ msgid ""
 "enjoyable and competitive game you’ll love to play."
 msgstr "你们知道构建计算机网络其实很有趣吗？你需要创建正确的链接，越少越好，这样才会赢。所以，准备移动电线，尽快解答题目！一旦你成功，你就会发现一个高分列表，允许你找到竞争对手。这个程序可以帮助你了解计算机网络，更重要的是，你还可以享受一个愉快且具有竞争力的游戏。"
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "KSame"
 msgstr "KSame"
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr "消除石块，赢得游戏"
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -1709,17 +1688,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr "在这个有趣的游戏中展示您的图形搜寻能力吧！玩家只需对颜色相同的大理石块进行匹配，使之消除以赢得游戏。但要注意的是：一次性消除的大理石越多，您的得分也越多。因此在移动每一步前都多加思考。这个游戏看上去虽简单，但非常有挑战性。赶紧来加入这个有趣的挑战吧！"
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "KSquares"
 msgstr "KSquares"
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
 msgstr "在此具有挑战性的策略游戏中链接相关点"
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
 "Based on a popular old game, this fun app lets you stretch your mind and "
@@ -1730,17 +1709,17 @@ msgid ""
 "entertainment. Be careful – you just might become addicted!"
 msgstr "这个有趣的App基于一个流行的老游戏,可以让你锻炼你的头脑，解决难题。目标是完成完整的正方形网格，超过你的对手。轮流画点之间,你会形成自己的区域，要试图阻止你的对手的区域。这个游戏需要几何思维以及策略,并确保提供娱乐的时间。小心——你会上瘾的!"
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "Sudoku"
 msgstr "数独游戏"
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
 msgstr "具有挑战性的数字拼图游戏"
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Are you better than your friend is at puzzles? Find out by playing this fun "
@@ -1752,17 +1731,17 @@ msgid ""
 "Sudoku, or are an experienced player, you'll love this app!"
 msgstr "通过玩这个有趣的益智游戏，你比你的朋友更擅长吗?你可以单独玩,寻求别人帮助,或者挑战你的朋友和家人,看谁可以先解决这个难题。这个程序功能特殊,比如能够创建游戏，并打印出来,能够帮助您解决任意数独谜题,这样你就可以学习如何解决它。无论是全新的数独,或者是一名有经验的球员,你都会喜欢这个程序!"
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "土豆人"
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
 msgstr "给土豆换张搞笑的脸"
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "This is a silly game for children and their parents to play together. Based "
@@ -1772,17 +1751,17 @@ msgid ""
 "lots of laughter. Make the goofiest face you can!"
 msgstr "这是一个简单的游戏，儿童和父母可以一起玩。基于老白薯玩具,它允许您将面部特征拖放到一个土豆上,做成有趣的脸。您可以通过触摸胡须,精灵的耳朵,金色马尾辫等来完成。这个游戏只为博游戏者一笑！"
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "Kubrick"
 msgstr "Kubrick"
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
 msgstr "犹如魔方——创建纯色方块为赢"
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "This puzzling game has lots of options to keep your brain working! Modeled "
@@ -1794,17 +1773,17 @@ msgid ""
 "even design your very own challenge!"
 msgstr "这个令人费解的游戏有很多选项,让你的大脑不停地工作!这个游戏模仿了流行的魔方，给客户带来3D体验。你把小砖放在一个大立方体中,并试图使每一个立方体两边颜色相同且为纯色。小的,大的,和不同形状的砖块有它们自己的挑战。游戏还包括冷却解决方案的示范动作,所以你可以跟随专家,甚至可以设计你自己的挑战!"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr "背单词"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
 msgstr "增加及检测词汇量"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "Learning new words is a great way to speak and write more clearly, but "
@@ -1815,17 +1794,17 @@ msgid ""
 "learning all you want."
 msgstr "学习新单词让说、写更清楚,但有时却很难做。抽认卡可以帮你一把！不管你是学习外语或者试图记住新词汇，都可以！这个程序涉及简单记忆和有趣的互动抽认卡测验,可以帮助你测试你的知识，不断学习所有你想要的。"
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Maps"
 msgstr "地图"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Maps of the entire world"
 msgstr "全景地图"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "Where do players from FC Barcelona or Real Madrid live? How far away are you"
@@ -1836,17 +1815,17 @@ msgid ""
 "has changed over time!"
 msgstr "来自巴塞罗那或者皇马的球员住在哪里?大象和狮子自由徘徊的国度和你相距多远?距离最近的火山在哪里?正确的地图可以帮助我们回答所有问题。该App会让你访问来自世界各地和不同年代各种各样的地图,你甚至可以看到随着时间的推移。世界已经变了!"
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Palapeli"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
 msgstr "有趣的拼图游戏"
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
@@ -1856,17 +1835,17 @@ msgid ""
 "rewarding, and as true to life as can be."
 msgstr "如果您是拼图游戏的超级粉丝，您一定会喜欢这个游戏的！与其他拼图游戏不同，在此游戏中您无需将每一片拼图摆在固定的网格中。Palapeli给您带来一种更加真实的体验，每一片拼图都可以完全自由移动。这个游戏有趣、益智、生动逼真，赶紧选择您喜欢的一幅图片，将一片片拼图组合起来吧!"
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "Virtual School"
 msgstr "虚拟学校"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
 msgstr "各种学科的免费教学视频（美国英语原版）"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
 "Learning is easy and fun with video courses on subjects like math, biology, "
@@ -1878,17 +1857,17 @@ msgid ""
 " this app and these videos can help you succeed in school and in life!"
 msgstr "有了视频课程，学习将变得轻松有趣，不管是数学、生物、化学、物理还是其他！世界各地的学生都利用这些视频成功克服学习中的困难，寓教于乐。不管您是需要学校课程的额外辅导还是想学习新东西，这里都可以满足您。一起有意义地学习您的弱科，看看这个app和视频能带给你学业和生活上多大的成就吧！"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Numpty Physics"
 msgstr "Numpty Physics"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
 msgstr "有趣的物理类益智游戏"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:276
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -1899,17 +1878,17 @@ msgid ""
 "learning."
 msgstr "原来物理学定律可以变得这么有趣！在这个游戏里，您可以通过绘制滑轮、杠杆和斜坡等物体来完成游戏挑战。如果你绘制了有用的道具，你就可以完成本关卡的任务，接着挑战下一关卡。游戏挑战十分有趣、益智，您会在不知不觉中学到不少基本的物理学知识。"
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr "M.A.R.S"
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "A shooting game in space"
 msgstr "太空射击游戏"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:279
 msgctxt "description"
 msgid ""
 "In the year 3547, civilizations across the galaxy have settled their own "
@@ -1922,17 +1901,17 @@ msgid ""
 "keep playing until you succeed in returning peace to your planet!"
 msgstr "在3547年,整个星系都有属于自己行星的文明。自己的人生活在和平与和谐的环境中。但是在你和平星球之外,却有着激烈的大战。你是著名的战士，身负荣誉，战绩赫赫,你必须保护你的星球，免善妒邻居的摧毁!这个游戏有一个“多人游戏”选项,允许您选择不同的武器来战斗,甚至允许您定制你自己的宇宙飞船。你要继续玩,直到你成功返回和平星球!"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "MegaGlest"
 msgstr "MegaGlest"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
 msgstr "幻想世界里的国王、王后和魔法"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:282
 msgctxt "description"
 msgid ""
 "Kings, castles, and dragons all unite in this awesome strategy game that "
@@ -1942,17 +1921,17 @@ msgid ""
 "you desire!"
 msgstr "国王,城堡,龙都团结在这个了不起的战略游戏中,他们会让你想统治自己的文明。面对你的朋友,看看谁有什么动机想要统治这个天马行空的幻想世界。魔法让你更加强大,你可以征服你欲望中的任何领域。"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Open Arena"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr "您可以在这个有趣的游戏中尽情射击"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:285
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -1962,17 +1941,17 @@ msgid ""
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr "如果您喜欢竞技场战斗的话，一定也会喜欢这个游戏的！要注意的是，这个游戏场面血腥暴力，比的是真本领。您可以在夺旗赛、死亡竞赛、团队死亡竞赛、竞斗赛、锦标赛等模式中使用不同类型的武器。相信每一种模式都会给您带来不一样的刺激与快感！"
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "3D CAD"
 msgstr "3D CAD"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
 msgstr "构建3D计算机辅助设计模型"
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
 "This app is made for programmers who want to create 3D CAD models. The app "
@@ -1985,17 +1964,17 @@ msgid ""
 " you do, this app is a great way to build the 3D models you need."
 msgstr "专门协助程序员构建3D计算机辅助设计模型的App。此App重点关注计算机辅助设计的组成要素，而非3D艺术，因而适用于机械零件等的设计，而不适用于构建电影3D模型。作为程序设计员，您可以操控整个建模的过程，改变任意步骤，设计出您想要的可配置的模型。如果您已经会构建计算机辅助设计模型，这个App就是协助您完成3D计算机辅助设计模型的一个好帮手。"
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "Pingus"
 msgstr "Pingus"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
 msgstr "拯救您的企鹅，避免它们掉入水中"
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -2005,17 +1984,17 @@ msgid ""
 " them in order to avoid an untimely end."
 msgstr "企鹅们这么可爱，赶紧通过这个有趣的游戏，保护它们不从悬崖掉入刺骨的水中吧。此游戏设有多个关卡，游戏角色十分可爱，一定会成为您的游戏新宠。如果不想游戏早早结束，您就要看管好您的企鹅，给它们使用各种道具啦。"
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Etoys"
 msgstr "Etoys"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Learn with visual programming"
 msgstr "学习可视化编程"
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:294
 msgctxt "description"
 msgid ""
 "This app is a great way for kids to learn how to program while learning "
@@ -2029,18 +2008,18 @@ msgid ""
 "college-aged students alike!"
 msgstr "这个app可以让小孩在学习其他学科和享受乐趣的同时学习如何编程！用拖放界面创建交互式绘图、故事、模型和游戏，让孩子避免犯新手常犯的语法错误，这个app提倡好奇心与探索精神，可以创建任何东西，不管是简单的绘图，还是复杂的物理世界模型。虽然最初设计对象是8—13岁的学生，但是教师也可以用这个app来帮助各个年龄段的学生，不管是年轻学生还是大龄学生！"
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "Stellarium"
 msgstr "Stellarium"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr "可实时实地绘制天空图像的天象软件"
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:297
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -2051,17 +2030,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr "用这个App来探索夜空吧！此App的默认星表中收录了超过60万颗恒星，可以绘制各种星座图像，还有许多独特之处。这个App真实地表现了我们肉眼所能看到的天空。有了它，您可以透过电脑桌面对天空中的星象进行观赏和认识。赶紧设置您的所在地，开始探索您头顶上的星星吧！"
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "X-Moto"
 msgstr "X-Moto"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr "一款摩托车赛车游戏"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:300
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
@@ -2071,17 +2050,17 @@ msgid ""
 "time in this fast-paced, exciting test of speed!"
 msgstr "您喜欢开摩托车吗？喜欢的话，您也一定会喜欢这个物理模拟主导的赛车游戏！如果您想挑战游戏中高难度的路线，您就要控制您的摩托车直至物理极限。在这场速度与激情的较量中，您既可以学到科学知识，又可以锻炼赛车技术！"
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "Tux Paint"
 msgstr "Tux Paint"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr "儿童绘画软件"
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:303
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -2092,17 +2071,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr "用这个便捷、有趣的App来尽情绘画或涂鸦吧！Tux企鹅会引导孩子们使用这个软件的各种功能。此软件的推荐使用年龄为3至12岁，但只要是心态年轻的人，一定都会喜欢它！有了这个App，您可以通过图章工具、图形绘画或者手工绘制来创造一幅独一无二的图画。如果您的孩子喜欢画画，那就下载这个App，让他们开始一幅幅“杰作”吧！"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "VLC"
 msgstr "VLC"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
 msgstr "在一款流行的媒体播放器中播放视频"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:306
 msgctxt "description"
 msgid ""
 "VLC is a free and open source multimedia player that plays most multimedia "
@@ -2112,17 +2091,17 @@ msgid ""
 "abilities out there."
 msgstr "VLC 是一款免费的开源多媒体播放器，可播放许多多媒体文件和 DVD、音频 CD、VCD 等，并支持各种 Internet 流协议。如果你在其他多媒体播放器上观看视频时遇到问题，不妨试一试 VLC，因为这款工具提供了一些最优秀的视频播放支持功能。"
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "Wesnoth"
 msgstr "Wesnoth"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "奇幻的回合制策略游戏"
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:309
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -2131,17 +2110,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr "在这个奇幻主题的策略游戏中，玩家们展开一场抢夺土地、村庄和资源的战役。每位玩家控制一只自己设计好的军队，并通过自己的军队实施统治。这个游戏集历史、奇幻、谋略于一体，透过游戏您一定会发现自己是一位不错的统治者。"
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "Music"
 msgstr "音乐"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
 msgstr "可以播放音乐、收听广播"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:312
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -2151,17 +2130,17 @@ msgid ""
 "in one convenient app."
 msgstr "通过此App，您不仅可以收听喜爱的音乐，还可以搜索本地歌曲，创建歌单，播放或刻录光盘，创作专辑或歌词。同时，此App还支持播放在线广播和可视化音乐。有了它，您就可以尽情收听喜欢的歌曲，对歌曲进行储存和分类啦。"
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Photos"
 msgstr "照片"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
 msgstr "可对照片进行编辑、整理、分享，操作简便"
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -2172,17 +2151,17 @@ msgid ""
 "networks, like Facebook."
 msgstr "我们在生活中都喜欢拍照片——特别是将照片下载到电脑，进行编辑修饰之后分享到社交媒体。此App可以无缝连接数码相机或者手机上的照片。您可以将照片整理成相册，对它们进行美化修饰，然后展示到Facebook等社交网络中。"
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "Remote Desktop"
 msgstr "远程桌面"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
 msgstr "远程管理您的桌面"
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:318
 msgctxt "description"
 msgid ""
 "Now you can manage your own computer, or a family member's, without being in"

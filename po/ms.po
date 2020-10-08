@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2020-09-05 18:24+0000\n"
-"PO-Revision-Date: 2020-04-18 18:24+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"POT-Creation-Date: 2020-10-08 21:33+0000\n"
+"PO-Revision-Date: 2020-10-08 21:33+0000\n"
+"Last-Translator: endlessmobile_build <admin@endlessos.org>\n"
 "Language-Team: Malay (http://www.transifex.com/endless-os/eos-shell-content/language/ms/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1122,36 +1122,15 @@ msgstr "Pusingkan kepingan di hadapan anda supaya mereka semua warna yang sama. 
 
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
-msgid "Documents"
-msgstr "Dokumen"
-
-#: content/Default/apps/content.json.h:170
-msgctxt "subtitle"
-msgid "Access all of your documents and files"
-msgstr "Akses semua dokumen dan fail anda"
-
-#: content/Default/apps/content.json.h:171
-msgctxt "description"
-msgid ""
-"Get organized with this app, which helps you find all of your documents and "
-"files, no matter how long ago you saved them. Organize things in a way that "
-"makes sense to you, adding and re-naming folders in a way that will help you"
-" stay on top of your pictures, videos, and documents. With this app, you can"
-" store everything in one place and you’ll never lose that important file or "
-"special photo again."
-msgstr "Dapat mengatur dengan aplikasi ini, yang membantu anda mencari semua dokumen dan fail anda, tidak kira berapa lama anda menyimpannya. Mengatur perkara dengan cara yang masuk akal kepada anda, menambah dan menamakan semula folder dalam cara yang akan membantu anda kekal di atas gambar, video dan dokumen anda. Dengan aplikasi ini, anda boleh menyimpan segala-galanya di satu tempat dan anda tidak akan kehilangan bahawa fail penting atau foto Khas lagi."
-
-#: content/Default/apps/content.json.h:172
-msgctxt "title"
 msgid "Quadrapassel"
 msgstr "Quadrapassel"
 
-#: content/Default/apps/content.json.h:173
+#: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "A tetris-like puzzle game"
 msgstr "Permainan teka-teki seperti Tetris"
 
-#: content/Default/apps/content.json.h:174
+#: content/Default/apps/content.json.h:171
 msgctxt "description"
 msgid ""
 "You'll need to be quick if you want to win this game! Change the shape of "
@@ -1162,17 +1141,17 @@ msgid ""
 "challenge!"
 msgstr "Anda perlu cepat jika anda ingin memenangi permainan ini! Tukar bentuk keping yang jatuh dari atas untuk memadankan warna dan membuat mereka hilang. Jika anda tidak membuat blok warna yang cukup hilang, anda akan mendapati bahawa skrin anda akan mengisi dan anda perlu mencuba lagi. Dan hanya apabila anda berfikir anda cukup cepat, permainan akan mempercepatkan, jadi bersedia untuk cabaran!"
 
-#: content/Default/apps/content.json.h:175
+#: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Screenshot"
 msgstr "Tangkap Layar"
 
-#: content/Default/apps/content.json.h:176
+#: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Take a picture of your screen to save"
 msgstr "Ambil gambar skrin anda untuk di simpan"
 
-#: content/Default/apps/content.json.h:177
+#: content/Default/apps/content.json.h:174
 msgctxt "description"
 msgid ""
 "Do you ever wish you could take a picture of your screen to save? Well now "
@@ -1181,17 +1160,17 @@ msgid ""
 "make sure to save just what you need and nothing more."
 msgstr "Adakah anda pernah teringin boleh mengambil gambar skrin anda untuk di simpan? Ya, sekarang anda boleh, dengan aplikasi tangkapan skrin yang mudah digunakan ini. Anda boleh memilih untuk mengambil tangkap layar keseluruhan skrin anda, atau hanya satu daripada tetingkap anda. Dengan cara ini, anda boleh memastikan untuk menyimpan apa yang anda perlukan dan tidak lebih."
 
-#: content/Default/apps/content.json.h:178
+#: content/Default/apps/content.json.h:175
 msgctxt "title"
 msgid "Solitaire"
 msgstr "Solitaire"
 
-#: content/Default/apps/content.json.h:179
+#: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "The classic single player card game"
 msgstr "Permainan kad klasik perseorangan"
 
-#: content/Default/apps/content.json.h:180
+#: content/Default/apps/content.json.h:177
 msgctxt "description"
 msgid ""
 "Solitaire is a classic card game that is fun for people of all ages. It’s "
@@ -1201,17 +1180,17 @@ msgid ""
 "entertain you, hour after hour."
 msgstr "Solitaire adalah permainan kad klasik yang menyeronokkan untuk rakyat semua peringkat umur. Mudah untuk memikirkan peraturan, tetapi ia mengambil masa untuk menguasai permainan. Mujurlah, anda akan mahu dimasukkan ke dalam masa untuk benar-benar belajar bagaimana untuk bermain, kerana anda akan mempunyai begitu banyak menyeronokkan. Ini permainan yang lebih hebat dan minda-memperkaya pasti untuk menghiburkan anda, jam selepas jam."
 
-#: content/Default/apps/content.json.h:181
+#: content/Default/apps/content.json.h:178
 msgctxt "title"
 msgid "Terminal"
 msgstr "Terminal"
 
-#: content/Default/apps/content.json.h:182
+#: content/Default/apps/content.json.h:179
 msgctxt "subtitle"
 msgid "Use the command line"
 msgstr "Gunakan baris perintah"
 
-#: content/Default/apps/content.json.h:183
+#: content/Default/apps/content.json.h:180
 msgctxt "description"
 msgid ""
 "If you're an advanced user and want to display system information and launch"
@@ -1221,17 +1200,17 @@ msgid ""
 "in correctly and to help you easily identify any mistakes you have made."
 msgstr "Jika anda pengguna mahir dan mahu memaparkan maklumat sistem dan aplikasi pelancaran tanpa menggunakan tetikus, kini anda boleh melakukannya dengan aplikasi terminal asas ini. Dengan terminal moden ini, anda boleh melihat semua arahan anda ditulis dalam warna yang berbeza untuk membantu memastikan anda menaip mereka dengan betul dan untuk membantu anda dengan mudah mengenal pasti apa-apa kesilapan yang anda telah buat."
 
-#: content/Default/apps/content.json.h:184
+#: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Tetravex"
 msgstr "Tetravex"
 
-#: content/Default/apps/content.json.h:185
+#: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
 msgstr "Perlumbaan jam dalam permainan teka-teki berangka"
 
-#: content/Default/apps/content.json.h:186
+#: content/Default/apps/content.json.h:183
 msgctxt "description"
 msgid ""
 "Try to match up all of the same numbers on the blocks to win this tricky "
@@ -1240,17 +1219,17 @@ msgid ""
 "beat your or your friends' best time!"
 msgstr "Cuba Padankan semua nombor yang sama pada blok untuk memenangi permainan ini rumit. Anda perlu berfikir dengan teliti, tetapi dengan cepat, untuk menyelesaikan teka-teki. Anda akan menjadi masa, jadi pastikan anda terus mendapat lebih cepat untuk mengalahkan anda atau masa terbaik rakan anda!"
 
-#: content/Default/apps/content.json.h:187
+#: content/Default/apps/content.json.h:184
 msgctxt "title"
 msgid "Videos"
 msgstr "Video-Video"
 
-#: content/Default/apps/content.json.h:188
+#: content/Default/apps/content.json.h:185
 msgctxt "subtitle"
 msgid "Full function video and media player"
 msgstr "Video fungsi penuh dan Pemain Media"
 
-#: content/Default/apps/content.json.h:189
+#: content/Default/apps/content.json.h:186
 msgctxt "description"
 msgid ""
 "Do you love watching movies? Do it the right way with this video application"
@@ -1260,17 +1239,17 @@ msgid ""
 "your family and friends to join you in watching all of your favorite movies!"
 msgstr "Adakah anda suka menonton filem? Adakah cara yang betul dengan aplikasi video ini yang membolehkan anda untuk menonton filem anda yang telah dimuat turun dalam mod skrin penuh. Asas lain, seperti kawalan kelantangan dan senarai main, membuat pengalaman menonton video anda mudah dan menyeronokkan. Dengan aplikasi ini, anda akan mahu menjemput semua keluarga dan rakan anda untuk menyertai anda dalam menonton semua filem kegemaran anda!"
 
-#: content/Default/apps/content.json.h:190
+#: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Help Center"
 msgstr "Pusat Bantuan"
 
-#: content/Default/apps/content.json.h:191
+#: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "Learn how to use Endless"
 msgstr "Belajar cara menggunakan Endless"
 
-#: content/Default/apps/content.json.h:192
+#: content/Default/apps/content.json.h:189
 msgctxt "description"
 msgid ""
 "Do you have questions about how to use Endless? Now you can have the answers"
@@ -1281,17 +1260,17 @@ msgid ""
 "asking us questions."
 msgstr "Adakah anda mempunyai soalan mengenai bagaimana untuk menggunakan Endless? Sekarang anda boleh mempunyai jawapan kepada soalan anda hanya satu klik sahaja! Kami telah mencipta Pusat Bantuan untuk pengguna baru dan mahir, supaya anda boleh mempelajari cara menggunakan Endless pada tahap yang anda perlukan. Jika anda tidak dapat mencari jawapan kepada soalan anda - Maklumkan kepada kami! Anda membantu untuk membuat Endless lebih baik dengan memberi kami maklum balas anda, dan dengan bertanya soalan kami."
 
-#: content/Default/apps/content.json.h:193
+#: content/Default/apps/content.json.h:190
 msgctxt "title"
 msgid "Gedit"
 msgstr "Gedit"
 
-#: content/Default/apps/content.json.h:194
+#: content/Default/apps/content.json.h:191
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
 msgstr "Editor teks yang ringkas untuk semua keperluan penyuntingan teks anda"
 
-#: content/Default/apps/content.json.h:195
+#: content/Default/apps/content.json.h:192
 msgctxt "description"
 msgid ""
 "Use this simple app to create and edit files that require plain text inputs."
@@ -1300,17 +1279,17 @@ msgid ""
 "should be perfect for all of your text editing needs."
 msgstr "Gunakan aplikasi mudah ini untuk mencipta dan mengubahsuai fail yang memerlukan input teks biasa. Jika anda seorang pengaturcara atau pengaturcara yang bercita-cita, anda akan memerlukan aplikasi ini. Dengan fungsi yang mantap dan antara muka yang mudah digunakan, editor teks ini perlu sempurna untuk semua keperluan penyuntingan teks anda."
 
-#: content/Default/apps/content.json.h:196
+#: content/Default/apps/content.json.h:193
 msgctxt "title"
 msgid "Mind Maps"
 msgstr "Peta minda"
 
-#: content/Default/apps/content.json.h:197
+#: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "Create mind maps with text, images, and drawings"
 msgstr "Cipta peta minda dengan teks, imej, dan lukisan"
 
-#: content/Default/apps/content.json.h:198
+#: content/Default/apps/content.json.h:195
 msgctxt "description"
 msgid ""
 "Do you ever have a complicated idea, but have trouble organizing it? If so, "
@@ -1319,17 +1298,17 @@ msgid ""
 " create all kinds of cool diagrams that you can save and share."
 msgstr "Adakah anda pernah mempunyai idea yang rumit, tetapi mempunyai masalah menguruskannya? Jika ya, cuba pemetaan minda! Peta minda ialah gambarajah yang digunakan untuk mewakili perkataan, idea, tugas atau item lain yang dikaitkan dengan perkataan atau idea utama Pusat. Anda akan dapat mencipta semua jenis Rajah menarik yang boleh anda simpan dan kongsi."
 
-#: content/Default/apps/content.json.h:199
+#: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: content/Default/apps/content.json.h:200
+#: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
 msgstr "Alat Reka bentuk grafik termaju"
 
-#: content/Default/apps/content.json.h:201
+#: content/Default/apps/content.json.h:198
 msgctxt "description"
 msgid ""
 "This app is for intermediate and advanced graphic designers who need to "
@@ -1340,17 +1319,17 @@ msgid ""
 "presentations and artwork with this great free graphics app!"
 msgstr "Aplikasi ini adalah untuk pereka grafik pertengahan dan lanjutan yang perlu untuk mencipta dan mengedit grafik dan imej mereka. Aplikasi ini memberikan anda ciri canggih dan setanding dengan Adobe InDesign. Sebagai contoh, ia membolehkan anda untuk membuat SVGs (grafik vektor berskala), yang membolehkan grafik anda kekal berkualiti tinggi tidak kira saiz yang mereka. Buat iklan, brosur, persembahan dan karya seni yang indah dengan aplikasi grafik percuma yang hebat ini!"
 
-#: content/Default/apps/content.json.h:202
+#: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "Kalzium"
 msgstr "Kalzium"
 
-#: content/Default/apps/content.json.h:203
+#: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
 msgstr "Jadual berkala elemen yang interaktif"
 
-#: content/Default/apps/content.json.h:204
+#: content/Default/apps/content.json.h:201
 msgctxt "description"
 msgid ""
 "The periodic table of the elements is one of the basic building blocks of "
@@ -1363,17 +1342,17 @@ msgid ""
 "simple, and informative app."
 msgstr "Jadual berkala elemen adalah salah satu blok bangunan asas Sains, dan kini anda boleh mempunyai di hujung jari anda. Aplikasi ini memaparkan jadual berkala berkod warna yang menjadikan pembelajaran setiap elemen lebih mudah dan menyeronokkan. Pilih elemen untuk mempelajari maklumat asas tentang mereka, seperti titik lebur, jisim, dan banyak lagi. Maklumat yang lebih kompleks, seperti visualisasi garis spektrum elemen, menjadikan aplikasi ini sempurna untuk penemuan saintifik. Anda tidak akan percaya berapa banyak anda boleh belajar dengan aplikasi yang indah, mudah dan bermaklumat."
 
-#: content/Default/apps/content.json.h:205
+#: content/Default/apps/content.json.h:202
 msgctxt "title"
 msgid "Kapman"
 msgstr "Kapman"
 
-#: content/Default/apps/content.json.h:206
+#: content/Default/apps/content.json.h:203
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
 msgstr "Permainan klasik hantu dan mazes"
 
-#: content/Default/apps/content.json.h:207
+#: content/Default/apps/content.json.h:204
 msgctxt "description"
 msgid ""
 "If you love Pac-Man, then you you'll love this game too! Eat dots to gain "
@@ -1383,17 +1362,17 @@ msgid ""
 "and family, from kids to grandparents, will love the game, too!"
 msgstr "Jika anda suka PAC-Man, maka anda akan suka permainan ini juga! Makan titik untuk mendapatkan mata tetapi tidak ditangkap oleh hantu atau anda akan kehilangan. Apabila anda mendapat kemahiran dan tahap rentak, kelajuan permainan meningkat, menyediakan cabaran yang lebih dan lebih menarik. Anda tidak akan mahu berhenti bermain, dan kawan-rakan dan keluarga anda, dari anak kepada Datuk nenek, akan suka permainan itu juga!"
 
-#: content/Default/apps/content.json.h:208
+#: content/Default/apps/content.json.h:205
 msgctxt "title"
 msgid "KAtomic"
 msgstr "KAtomic"
 
-#: content/Default/apps/content.json.h:209
+#: content/Default/apps/content.json.h:206
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
 msgstr "Cara yang menyeronokkan untuk belajar kimia"
 
-#: content/Default/apps/content.json.h:210
+#: content/Default/apps/content.json.h:207
 msgctxt "description"
 msgid ""
 "If you’re struggling with concepts in chemistry, or simply looking for a way"
@@ -1405,17 +1384,17 @@ msgid ""
 " a ton!"
 msgstr "Jika anda sedang bergelut dengan konsep dalam kimia, atau hanya mencari cara untuk mengukuhkan pemahaman anda, maka anda telah menemui aplikasi yang betul untuk membantu anda! Permainan yang mencabar ini telah anda mewujudkan molekul daripada atom-cara yang sempurna untuk belajar sambil bersenang-senang! Skrin akan menunjukkan kepada anda bahawa molekul anda harus kelihatan seperti, dan anda boleh menggerakkan atom anda di sekitar untuk membuat molekul yang betul. Permainan ini memerlukan strategi dan pemikiran cepat, dan akan mengajar anda satu tan!"
 
-#: content/Default/apps/content.json.h:211
+#: content/Default/apps/content.json.h:208
 msgctxt "title"
 msgid "KBlocks"
 msgstr "KBlocks"
 
-#: content/Default/apps/content.json.h:212
+#: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
 msgstr "Padankan Blok-blok untuk memusnahkan mereka dan menang"
 
-#: content/Default/apps/content.json.h:213
+#: content/Default/apps/content.json.h:210
 msgctxt "description"
 msgid ""
 "This game is similar to Tetris, so if you love that game, you will love this"
@@ -1424,17 +1403,17 @@ msgid ""
 " lose, so pay attention and get ready for some very fast-actioned fun!"
 msgstr "Permainan ini adalah serupa dengan Tetris, jadi jika anda suka permainan itu, anda akan suka satu ini! Padankan bentuk blok untuk membuat mereka hilang dan menyimpannya daripada mengisi skrin. Anda akan perlu benar-benar cepat atau lain anda akan kehilangan, jadi memberi perhatian dan bersiap sedia untuk beberapa sangat cepat-actimenghabiskan menyeronokkan!"
 
-#: content/Default/apps/content.json.h:214
+#: content/Default/apps/content.json.h:211
 msgctxt "title"
 msgid "KBounce"
 msgstr "KBounce"
 
-#: content/Default/apps/content.json.h:215
+#: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "The ball-bouncing game sure to hook you"
 msgstr "Permainan bola melantun yang pasti untuk menarik anda"
 
-#: content/Default/apps/content.json.h:216
+#: content/Default/apps/content.json.h:213
 msgctxt "description"
 msgid ""
 "This is a fun game with a simple goal: you must build walls to decrease the "
@@ -1444,17 +1423,17 @@ msgid ""
 "It requires quick thinking and fast reflexes!"
 msgstr "Ini adalah permainan yang menyeronokkan dengan matlamat yang mudah: anda mesti membina dinding untuk mengurangkan kawasan di mana bola melantun di skrin boleh bergerak. Sebaik sahaja anda mengisi sebahagian besar skrin dengan dinding, anda akan dapat bergerak ke peringkat seterusnya. Permainan ini mempunyai unsur penyelesaian teka-teki, dan cepat-serba dan menghiburkan. Ia memerlukan pemikiran cepat dan Fast refleks!"
 
-#: content/Default/apps/content.json.h:217
+#: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KBruch"
 msgstr "KBruch"
 
-#: content/Default/apps/content.json.h:218
+#: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Learn about fractions, percentages and more"
 msgstr "Belajar tentang pecahan, peratusan dan banyak lagi"
 
-#: content/Default/apps/content.json.h:219
+#: content/Default/apps/content.json.h:216
 msgctxt "description"
 msgid ""
 "One of the trickiest parts of the math we do every day is calculating "
@@ -1466,17 +1445,17 @@ msgid ""
 "benefit you in unexpected ways!"
 msgstr "Salah satu bahagian yang paling rumit daripada matematik yang kita lakukan setiap hari adalah mengira pecahan dan peratusan, dan sekarang anda tidak akan perlu untuk kedua-meneka matematik anda lagi! Aplikasi ini mempunyai permainan dan latihan untuk mengasah kemahiran anda, termasuk aritmetik, perbandingan, penukaran, dan factorization. Ketahui semua mengenai pecahan dan peratusan, dan amalan sebanyak yang anda mahu. Kami menghadapi jenis matematik ini hampir setiap hari, jadi kemahiran baru anda akan memberi manfaat kepada anda dalam cara yang tidak diduga!"
 
-#: content/Default/apps/content.json.h:220
+#: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KDiamond"
 msgstr "KDiamond "
 
-#: content/Default/apps/content.json.h:221
+#: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
 msgstr "Buat garis tiga berlian"
 
-#: content/Default/apps/content.json.h:222
+#: content/Default/apps/content.json.h:219
 msgctxt "description"
 msgid ""
 "In this fast-paced game, your job is to build lines of three diamonds of the"
@@ -1487,17 +1466,17 @@ msgid ""
 "many age levels."
 msgstr "Dalam permainan ini pantas, tugas anda adalah untuk membina garis tiga berlian daripada jenis yang sama. Hanya swap berlian dengan jiran mereka untuk membuat talian anda. Lebih baik melakukannya dengan cepat, jadi anda boleh membina sebanyak mana baris yang mungkin sebelum pusingan berakhir! Ini adalah permainan yang mudah dan sangat menghiburkan anda boleh bermain untuk hanya sedikit sahaja, atau untuk jam pada akhir. Ia menyeronokkan, cepat, dan hebat untuk banyak peringkat umur."
 
-#: content/Default/apps/content.json.h:223
+#: content/Default/apps/content.json.h:220
 msgctxt "title"
 msgid "KGeography"
 msgstr "KGeography"
 
-#: content/Default/apps/content.json.h:224
+#: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
 msgstr "Menjadi Pintar geografi sambil bersenang-senang"
 
-#: content/Default/apps/content.json.h:225
+#: content/Default/apps/content.json.h:222
 msgctxt "description"
 msgid ""
 "How much do you know about world geography and political affairs? Learn the "
@@ -1508,17 +1487,17 @@ msgid ""
 "and will have had a lot of fun learning it all!"
 msgstr "Berapa banyak Adakah anda tahu tentang hal ehwal geografi dan politik dunia? Mempelajari geografi dunia melalui permainan yang menarik. Pertama, lihat peta dan belajar tentang nama, ibu negara, dan bendera. Kemudian, sudah tiba masanya untuk menguji pengetahuan anda! Meneka ibu negara dan bendera atau cuba untuk meletakkan sempadan negara ke atas peta kosong. Sebelum anda tahu, anda akan tahu tentang setiap sudut dunia dan akan mempunyai banyak yang menyeronokkan pembelajaran semua!"
 
-#: content/Default/apps/content.json.h:226
+#: content/Default/apps/content.json.h:223
 msgctxt "title"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
 
-#: content/Default/apps/content.json.h:227
+#: content/Default/apps/content.json.h:224
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
 msgstr "Cari harta dan sorok daripada musuh"
 
-#: content/Default/apps/content.json.h:228
+#: content/Default/apps/content.json.h:225
 msgctxt "description"
 msgid ""
 "Your enemies are right on your heels as you move through mazes collecting "
@@ -1528,17 +1507,17 @@ msgid ""
 " through any trapdoors!"
 msgstr "Musuh anda adalah betul pada tumit anda kerana anda bergerak melalui mazes mengumpul emas dalam permainan ini menarik. Memaparkan teka-teki yang mencabar dan objektif yang menarik, Permainan ini pasti menjadi kegemaran. Anda akan menemui beratus-ratus tahap untuk jam Permainan, dengan mazes baru pada setiap peringkat. Jangan jatuh dari mana-mana trappintu!"
 
-#: content/Default/apps/content.json.h:229
+#: content/Default/apps/content.json.h:226
 msgctxt "title"
 msgid "KHangMan"
 msgstr "KHangMan"
 
-#: content/Default/apps/content.json.h:230
+#: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
 msgstr "Salah satu permainan perkataan yang paling menyeronokkan di bumi"
 
-#: content/Default/apps/content.json.h:231
+#: content/Default/apps/content.json.h:228
 msgctxt "description"
 msgid ""
 "Practice your vocabulary the fun way! You'll learn new words with this "
@@ -1550,17 +1529,17 @@ msgid ""
 "have to start over with a new word!"
 msgstr "Amalkan kosa kata anda cara yang menyeronokkan! Anda akan belajar perkataan baru dengan permainan teka-teki ini, dan ia adalah sesuatu yang seluruh keluarga boleh bermain bersama-sama. Bagaimana anda bermain? Well, komputer akan memilih perkataan dan pemain akan cuba meneka apa kata itu dengan meneka huruf satu demi satu sehingga mereka boleh meneka keseluruhan perkataan. Apabila pemain meneka dengan betul, semakin banyak perkataan dipaparkan, tetapi jika anda membuat terlalu banyak tekaan yang salah, maka anda akan kehilangan dan perlu bermula dengan perkataan baru!"
 
-#: content/Default/apps/content.json.h:232
+#: content/Default/apps/content.json.h:229
 msgctxt "title"
 msgid "Kigo"
 msgstr "Kigo"
 
-#: content/Default/apps/content.json.h:233
+#: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
 msgstr "Permainan kuno yang memerlukan kemahiran, dikemaskini untuk mainan moden"
 
-#: content/Default/apps/content.json.h:234
+#: content/Default/apps/content.json.h:231
 msgctxt "description"
 msgid ""
 "Based on a two-player board game popular in Asia, this app has easy-to-learn"
@@ -1572,17 +1551,17 @@ msgid ""
 "too!"
 msgstr "Berdasarkan permainan papan dua pemain yang popular di Asia, aplikasi ini mempunyai peraturan yang mudah dipelajari, tetapi memerlukan banyak strategi. Ia adalah cara yang sempurna untuk lulus masa semasa menjalankan fikiran anda. Matlamatnya adalah mudah: memindahkan kepingan hitam atau putih anda pada grid (saiz grid bergantung pada tahap kesukaran yang anda pilih), dan cuba mengelilingi lebih banyak Lembaga daripada lawan anda. Jika anda suka permainan seperti catur, maka anda akan suka ini permainan strategi yang hebat juga!"
 
-#: content/Default/apps/content.json.h:235
+#: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Killbots"
 msgstr "Killbots"
 
-#: content/Default/apps/content.json.h:236
+#: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Outsmart the killer robots to win"
 msgstr "Kalahkan robot pembunuh untuk menang"
 
-#: content/Default/apps/content.json.h:237
+#: content/Default/apps/content.json.h:234
 msgctxt "description"
 msgid ""
 "How will you get away from the killer robots bent on destruction? Figure it "
@@ -1592,17 +1571,17 @@ msgid ""
 "tell the tale!"
 msgstr "Bagaimana anda akan melarikan diri dari robot pembunuh yang bengkok pada pemusnahan? Memikirkan dalam permainan ini mudah dan menghiburkan. Anda boleh melebihi dengan aliran robot yang tidak berkesudahan, tetapi dengan kecerdasan anda dan peranti teleportasi yang berguna, anda boleh mengalahkan mereka. Outsmart semua robot pembunuh untuk menang dan hidup untuk memberitahu kisah!"
 
-#: content/Default/apps/content.json.h:238
+#: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "KJumpingCube"
 msgstr "KJumpingCube"
 
-#: content/Default/apps/content.json.h:239
+#: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
 msgstr "Membangunkan strategi yang baik untuk menakluk semua petak"
 
-#: content/Default/apps/content.json.h:240
+#: content/Default/apps/content.json.h:237
 msgctxt "description"
 msgid ""
 "Practice your strategic thinking with this challenging dice-based game! You "
@@ -1617,17 +1596,17 @@ msgid ""
 " toes! "
 msgstr "Amalkan pemikiran strategik anda dengan permainan ini berasaskan dadu yang mencabar! Anda bergerak dengan klik pada Dataran kosong atau satu yang anda telah miliki. Jika anda klik pada Dataran kosong, warna berubah untuk menunjukkan bahawa anda sekarang sendiri. Setiap kali anda klik pada sebuah dataran, nilainya meningkat dengan satu. Apabila sebuah dataran mempunyai lebih banyak mata daripada jiran terdekat, poin diedarkan di kalangan jiran (mata melompat sekitar). Jika Dataran jiran dimiliki oleh lawan anda, anda mengambil kawalan ke atas dataran itu dan semua titik. Anda akan perlu berfikir dengan teliti untuk mengawal semua petak, dan kerana dadu boleh menukar tangan dengan cepat, Permainan ini adalah pasti untuk membuat anda terlibat dan pada jari kaki anda!"
 
-#: content/Default/apps/content.json.h:241
+#: content/Default/apps/content.json.h:238
 msgctxt "title"
 msgid "Kolor Lines"
 msgstr "Kolor Lines"
 
-#: content/Default/apps/content.json.h:242
+#: content/Default/apps/content.json.h:239
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
 msgstr "Bariskan bola yang sama warna untuk menang"
 
-#: content/Default/apps/content.json.h:243
+#: content/Default/apps/content.json.h:240
 msgctxt "description"
 msgid ""
 "This game is so fun and addicting, you’ll never want to stop playing. The "
@@ -1638,17 +1617,17 @@ msgid ""
 "possible; you lose if it fills up completely!"
 msgstr "Permainan ini adalah begitu menyeronokkan dan menagihkan, anda tidak akan mahu berhenti bermain. Konsep ini adalah mudah: mengumpul bola berwarna dari papan permainan ke dalam garis lima bola warna yang sama, yang akan membuangnya daripada Lembaga. Ia lebih mencabar daripada yang anda harapkan, walaupun, kerana bola baru tiba selepas setiap langkah. Ia adalah tugas anda untuk mendapatkan papan permainan sebagai jelas bola yang mungkin; anda kehilangan jika ia mengisi sepenuhnya!"
 
-#: content/Default/apps/content.json.h:244
+#: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "Battleships"
 msgstr "Kapal perang"
 
-#: content/Default/apps/content.json.h:245
+#: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
 msgstr "Hapuskan lawan anda daripada perairan"
 
-#: content/Default/apps/content.json.h:246
+#: content/Default/apps/content.json.h:243
 msgctxt "description"
 msgid ""
 "Try to guess where your enemies ships are to blow them out of the water "
@@ -1659,17 +1638,17 @@ msgid ""
 "Arrr you ready for some great naval fun?"
 msgstr "Cuba meneka di mana kapal musuh anda adalah untuk menghapuskan mereka keluar dari perairan sebelum mereka mendapatkan anda! Ini adalah permainan strategi yang menyeronokkan yang memerlukan dua orang. Anda boleh bermain melawan rakan, terhadap orang lain di internet, atau terhadap komputer anda. Anda akan mengambil giliran cuba untuk meneka di mana setiap kapal lain, dan orang pertama untuk tenggelam semua kapal musuh mereka menang. Adakah anda bersedia untuk beberapa tentera laut yang hebat serta menyeronokkan?"
 
-#: content/Default/apps/content.json.h:247
+#: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "KNetwalk"
 msgstr "KNetwalk"
 
-#: content/Default/apps/content.json.h:248
+#: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
 msgstr "Buat sambungan kabel yang betul dan menang"
 
-#: content/Default/apps/content.json.h:249
+#: content/Default/apps/content.json.h:246
 msgctxt "description"
 msgid ""
 "Who knew building computer networks could be fun? You'll need to create the "
@@ -1680,17 +1659,17 @@ msgid ""
 "enjoyable and competitive game you’ll love to play."
 msgstr "Siapa yang tahu membina rangkaian komputer boleh menjadi menyeronokkan? Anda perlu membuat sambungan yang betul dalam beberapa giliran yang mungkin untuk menang-jadi bersedia untuk memindahkan wayar dan memikirkan teka-teki dengan cepat! Sebaik sahaja anda berjaya, anda akan menemui senarai skor tinggi, membolehkan anda mencari pesaing! Aplikasi ini membantu anda memahami bagaimana rangkaian komputer berfungsi, tetapi yang lebih penting, ia adalah permainan yang menyeronokkan dan kompetitif yang anda akan suka untuk bermain."
 
-#: content/Default/apps/content.json.h:250
+#: content/Default/apps/content.json.h:247
 msgctxt "title"
 msgid "KSame"
 msgstr "KSame"
 
-#: content/Default/apps/content.json.h:251
+#: content/Default/apps/content.json.h:248
 msgctxt "subtitle"
 msgid "Get rid of all the marbles to win"
 msgstr "Menghilangkan semua guli untuk menang"
 
-#: content/Default/apps/content.json.h:252
+#: content/Default/apps/content.json.h:249
 msgctxt "description"
 msgid ""
 "Show off your pattern-finding skills in this addicting game. Match all of "
@@ -1700,17 +1679,17 @@ msgid ""
 " challenge. A really fun challenge!"
 msgstr "Mempamerkan kemahiran mencari pola anda dalam permainan yang menagihkan. Padankan semua guli berwarna yang sama untuk membersihkan papan dan menang, tetapi ingat: lebih banyak manik yang anda Jelaskan sekali gus, lebih tinggi skor anda akan menjadi, jadi berfikir secara strategik tentang semua langkah anda! Apa yang mungkin kelihatan mudah pada mulanya adalah cabaran yang benar. Cabaran yang benar-benar menyeronokkan!"
 
-#: content/Default/apps/content.json.h:253
+#: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "KSquares"
 msgstr "KSquares"
 
-#: content/Default/apps/content.json.h:254
+#: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
 msgstr "Sambungkan titik dalam permainan strategi yang mencabar"
 
-#: content/Default/apps/content.json.h:255
+#: content/Default/apps/content.json.h:252
 msgctxt "description"
 msgid ""
 "Based on a popular old game, this fun app lets you stretch your mind and "
@@ -1721,17 +1700,17 @@ msgid ""
 "entertainment. Be careful – you just might become addicted!"
 msgstr "Berdasarkan permainan lama yang popular, aplikasi yang menyeronokkan ini membolehkan anda meregangkan fikiran dan menyelesaikan teka-teki. Objektifnya adalah untuk melengkapkan lebih banyak petak pada grid daripada lawan anda. Mengambil bertukar garis lukisan antara titik, anda akan membentuk petak sambil cuba menghalang petak lawan anda. Permainan ini memerlukan pemikiran geometri serta strategi, dan pasti untuk menyediakan jam hiburan. Berhati-hati-anda hanya mungkin menjadi ketagih!"
 
-#: content/Default/apps/content.json.h:256
+#: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "Sudoku"
 msgstr "Sudoku"
 
-#: content/Default/apps/content.json.h:257
+#: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
 msgstr "Permainan teka-teki berangka yang mencabar"
 
-#: content/Default/apps/content.json.h:258
+#: content/Default/apps/content.json.h:255
 msgctxt "description"
 msgid ""
 "Are you better than your friend is at puzzles? Find out by playing this fun "
@@ -1743,17 +1722,17 @@ msgid ""
 "Sudoku, or are an experienced player, you'll love this app!"
 msgstr "Adakah anda lebih baik daripada rakan anda di teka-teki? Ketahui dengan bermain permainan teka-teki nombor yang menyeronokkan ini! Anda boleh bermain sahaja, mempunyai orang lain membantu anda, atau mencabar rakan dan keluarga anda untuk melihat siapa yang boleh menyelesaikan teka-teki terlebih dahulu. Aplikasi ini mempunyai ciri khas, seperti keupayaan untuk mencipta permainan yang boleh anda cetak, dan keupayaan untuk membantu anda menyelesaikan apa-apa teka-teki Sudoku supaya anda boleh belajar bagaimana untuk menyelesaikannya sendiri. Sama ada anda benar-benar baru untuk Sudoku, atau seorang pemain yang berpengalaman, anda akan menyukai aplikasi ini!"
 
-#: content/Default/apps/content.json.h:259
+#: content/Default/apps/content.json.h:256
 msgctxt "title"
 msgid "Potato Guy"
 msgstr "Potato Guy"
 
-#: content/Default/apps/content.json.h:260
+#: content/Default/apps/content.json.h:257
 msgctxt "subtitle"
 msgid "Give your potato a funny face"
 msgstr "Berikan kentang anda wajah lucu"
 
-#: content/Default/apps/content.json.h:261
+#: content/Default/apps/content.json.h:258
 msgctxt "description"
 msgid ""
 "This is a silly game for children and their parents to play together. Based "
@@ -1763,17 +1742,17 @@ msgid ""
 "lots of laughter. Make the goofiest face you can!"
 msgstr "Ini adalah permainan untuk kanak-kanak dan ibu bapa mereka untuk bermain bersama-sama. Berdasarkan mainan kepala kentang, ia membolehkan anda seret dan lepaskan ciri muka ke kentang, membuat muka lucu dengan sentuhan seperti mustat, telinga Elf, perang ponyekor, dan bowties. Tidak ada objektif untuk permainan ini kecuali banyak ketawa. Jadikan muka yang segembira boleh!"
 
-#: content/Default/apps/content.json.h:262
+#: content/Default/apps/content.json.h:259
 msgctxt "title"
 msgid "Kubrick"
 msgstr "Kubrick"
 
-#: content/Default/apps/content.json.h:263
+#: content/Default/apps/content.json.h:260
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
 msgstr "Seperti Rubik kiub - buat sisi warna pepejal untuk menang"
 
-#: content/Default/apps/content.json.h:264
+#: content/Default/apps/content.json.h:261
 msgctxt "description"
 msgid ""
 "This puzzling game has lots of options to keep your brain working! Modeled "
@@ -1785,17 +1764,17 @@ msgid ""
 "even design your very own challenge!"
 msgstr "Ini permainan hairan mempunyai banyak pilihan untuk menjaga otak anda bekerja! Dimodelkan selepas Rubik popular permainan ini adalah pengalaman 3-D yang telah anda menukar bata kecil dalam kiub besar untuk mencuba dan membuat setiap sisi kiub warna pepejal yang sama. Objek yang lebih kecil, lebih besar dan berbentuk berbeza menawarkan cabaran khas mereka sendiri. Permainan ini juga termasuk demonstrasi bergerak penyelesaian yang sejuk, supaya anda boleh mengikuti bersama-sama dengan pakar, dan anda juga boleh Reka bentuk cabaran anda sendiri!"
 
-#: content/Default/apps/content.json.h:265
+#: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "KWordQuiz"
 msgstr "KWordQuiz"
 
-#: content/Default/apps/content.json.h:266
+#: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
 msgstr "Kembangkan Perbendaharaan kata anda dan menguji pembelajaran anda"
 
-#: content/Default/apps/content.json.h:267
+#: content/Default/apps/content.json.h:264
 msgctxt "description"
 msgid ""
 "Learning new words is a great way to speak and write more clearly, but "
@@ -1806,17 +1785,17 @@ msgid ""
 "learning all you want."
 msgstr "Pembelajaran perkataan baru adalah cara yang hebat untuk bercakap dan menulis dengan lebih jelas, tetapi kadang kala ia boleh menjadi sukar untuk dilakukan. Menggunakan Flashcards boleh menjadi bantuan yang besar, sama ada anda belajar bahasa asing atau cuba untuk mengingati perkataan Perbendaharaan kata baru. Aplikasi ini membuat menghafal mudah dan menyeronokkan dengan Flashcards interaktif dan kuiz yang akan membantu anda menguji pengetahuan anda dan terus belajar semua yang anda mahu."
 
-#: content/Default/apps/content.json.h:268
+#: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Maps"
 msgstr "Peta"
 
-#: content/Default/apps/content.json.h:269
+#: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Maps of the entire world"
 msgstr "Peta seluruh dunia"
 
-#: content/Default/apps/content.json.h:270
+#: content/Default/apps/content.json.h:267
 msgctxt "description"
 msgid ""
 "Where do players from FC Barcelona or Real Madrid live? How far away are you"
@@ -1827,17 +1806,17 @@ msgid ""
 "has changed over time!"
 msgstr "Di manakah pemain dari FC Barcelona atau Real Madrid tinggal? Sejauh mana anda dari sebuah negara di mana gajah dan singa bersiar-siar di sekitar dengan bebas? Berapa dekat gunung berapi terdekat? Ini semua adalah soalan yang peta yang betul boleh membantu kita menjawab. Aplikasi ini akan memberikan anda akses kepada pelbagai Peta dari seluruh dunia dan dari umur yang berbeza, supaya anda juga boleh melihat bagaimana dunia telah berubah dari semasa ke semasa!"
 
-#: content/Default/apps/content.json.h:271
+#: content/Default/apps/content.json.h:268
 msgctxt "title"
 msgid "Palapeli"
 msgstr "Palapeli"
 
-#: content/Default/apps/content.json.h:272
+#: content/Default/apps/content.json.h:269
 msgctxt "subtitle"
 msgid "A fun jigsaw puzzle game"
 msgstr "Permainan teka-teki yang menyeronokkan"
 
-#: content/Default/apps/content.json.h:273
+#: content/Default/apps/content.json.h:270
 msgctxt "description"
 msgid ""
 "If you’re a big fan of jigsaw puzzles, you’ll love this game. Unlike other "
@@ -1847,17 +1826,17 @@ msgid ""
 "rewarding, and as true to life as can be."
 msgstr "Jika anda peminat besar teka-teki sfera, anda akan suka permainan ini. Berbeza dengan permainan jenis yang lain, ia tidak perlu untuk menjajarkan kepingan pada grid. Sebaliknya, Palapeli mempunyai rasa hidup yang lebih nyata, dengan kepingan yang bebas alih. Pilih teka-teki anda dan mula meletakkan bersama-sama kepingan. Permainan ini adalah menyeronokkan, memberi ganjaran, dan sebagai kenyataan untuk hidup seperti yang boleh."
 
-#: content/Default/apps/content.json.h:274
+#: content/Default/apps/content.json.h:271
 msgctxt "title"
 msgid "Virtual School"
 msgstr "Sekolah maya"
 
-#: content/Default/apps/content.json.h:275
+#: content/Default/apps/content.json.h:272
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
 msgstr "Video Pendidikan Percuma dalam hampir ke semua subjek"
 
-#: content/Default/apps/content.json.h:276
+#: content/Default/apps/content.json.h:273
 msgctxt "description"
 msgid ""
 "Learning is easy and fun with video courses on subjects like math, biology, "
@@ -1869,17 +1848,17 @@ msgid ""
 " this app and these videos can help you succeed in school and in life!"
 msgstr "Pembelajaran adalah mudah dan menyeronokkan dengan kursus video mengenai subjek seperti matematik, biologi, kimia, fizik, dan banyak lagi! Pelajar di seluruh dunia telah berjaya menggunakan video ini untuk menakluk subjek yang sukar dalam cara yang menyeronokkan dan menarik. Sama ada anda memerlukan bantuan tambahan tentang kerja sekolah anda atau untuk belajar sesuatu yang baru pada anda sendiri, anda akan menemui apa yang anda Cari di sini. Belajar subjek yang sukar dalam cara yang masuk akal untuk anda, dan lihat bagaimana aplikasi ini dan video ini boleh membantu anda berjaya di sekolah dan dalam kehidupan!"
 
-#: content/Default/apps/content.json.h:277
+#: content/Default/apps/content.json.h:274
 msgctxt "title"
 msgid "Numpty Physics"
 msgstr "Numpty Physics"
 
-#: content/Default/apps/content.json.h:278
+#: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
 msgstr "Permainan teka-teki fizik menyeronokkan"
 
-#: content/Default/apps/content.json.h:279
+#: content/Default/apps/content.json.h:276
 msgctxt "description"
 msgid ""
 "Who knew the laws of physics could be so much fun? With this app, you can "
@@ -1890,17 +1869,17 @@ msgid ""
 "learning."
 msgstr "Siapa yang tahu hukum fizik boleh begitu banyak menyeronokkan? Dengan aplikasi ini, anda boleh menyelesaikan teka-teki dengan melukis objek seperti pulleys, levers, dan ramps. Jika ciptaan anda berubah dengan betul, anda akan mencapai tugas peringkat tersebut dan beralih ke peringkat seterusnya. Permainan yang mencabar ini juga akan mengajar anda beberapa fizik asas, tetapi anda akan mempunyai begitu banyak keseronokan yang anda hampir tidak akan tahu anda sedang belajar."
 
-#: content/Default/apps/content.json.h:280
+#: content/Default/apps/content.json.h:277
 msgctxt "title"
 msgid "M.A.R.S."
 msgstr "M.A.R.S."
 
-#: content/Default/apps/content.json.h:281
+#: content/Default/apps/content.json.h:278
 msgctxt "subtitle"
 msgid "A shooting game in space"
 msgstr "Permainan menembak di Angkasa"
 
-#: content/Default/apps/content.json.h:282
+#: content/Default/apps/content.json.h:279
 msgctxt "description"
 msgid ""
 "In the year 3547, civilizations across the galaxy have settled their own "
@@ -1913,17 +1892,17 @@ msgid ""
 "keep playing until you succeed in returning peace to your planet!"
 msgstr "Pada tahun 3547, tamadun di seluruh galaksi telah menjelaskan planet mereka sendiri. Orang anda sendiri hidup dalam kedamaian dan keharmonian dengan alam sekitar. Tetapi di luar planet damai anda, perang besar mengamuk. Anda adalah seorang pejuang terkenal yang dikenali untuk penghormatan dan kemahiran anda, dan anda akan perlu melindungi planet anda dari jiran anda yang cemburu yang mahu memusnahkan! Permainan ini mempunyai pilihan berbilang pemain, membolehkan anda memilih dari pelbagai senjata untuk berlawan, dan juga membolehkan anda untuk menyesuaikan kapal angkasa anda sendiri. Anda akan mahu terus bermain sehingga anda berjaya kembali kedamaian ke planet anda!"
 
-#: content/Default/apps/content.json.h:283
+#: content/Default/apps/content.json.h:280
 msgctxt "title"
 msgid "MegaGlest"
 msgstr "MegaGlest"
 
-#: content/Default/apps/content.json.h:284
+#: content/Default/apps/content.json.h:281
 msgctxt "subtitle"
 msgid "A fantasy world with kings, queens and magic"
 msgstr "Dunia fantasi dengan Raja, Permaisuri dan sihir"
 
-#: content/Default/apps/content.json.h:285
+#: content/Default/apps/content.json.h:282
 msgctxt "description"
 msgid ""
 "Kings, castles, and dragons all unite in this awesome strategy game that "
@@ -1933,17 +1912,17 @@ msgid ""
 "you desire!"
 msgstr "Raja, Istana, dan naga semua Bersatu dalam permainan strategi ini hebat yang akan membuat anda mahu untuk memerintah tamadun anda sendiri. Bermain melawan rakan anda untuk melihat siapa yang mempunyai apa yang diperlukan untuk memerintah dunia fantasi liar di mana sihir membuat anda lebih berkuasa dan anda boleh menakluk apa pun bahagian alam yang anda kehendaki!"
 
-#: content/Default/apps/content.json.h:286
+#: content/Default/apps/content.json.h:283
 msgctxt "title"
 msgid "Open Arena"
 msgstr "Arena terbuka"
 
-#: content/Default/apps/content.json.h:287
+#: content/Default/apps/content.json.h:284
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
 msgstr "Tembak jalan anda daripada masalah dalam permainan yang menyeronokkan"
 
-#: content/Default/apps/content.json.h:288
+#: content/Default/apps/content.json.h:285
 msgctxt "description"
 msgid ""
 "If arena battles are your idea of a good time, then you’ll love this "
@@ -1953,17 +1932,17 @@ msgid ""
 "of these modes offers its own form of excitement as you battle your enemies!"
 msgstr "Jika arena pertempuran adalah idea anda masa yang baik, maka anda akan suka aplikasi ini. Diberi amaran-ini adalah permainan kemahiran yang serius, dan pertumpahan darah yang serius. Gunakan gaya senjata yang berbeza dalam pertandingan seperti menangkap bendera, Deathmatch, pasukan Deathmatch, berdiri lelaki terakhir, dan Kejohanan. Setiap daripada mod ini menawarkan sendiri bentuk keseronokan seperti yang anda pertempuran musuh anda!"
 
-#: content/Default/apps/content.json.h:289
+#: content/Default/apps/content.json.h:286
 msgctxt "title"
 msgid "3D CAD"
 msgstr "3D CAD"
 
-#: content/Default/apps/content.json.h:290
+#: content/Default/apps/content.json.h:287
 msgctxt "subtitle"
 msgid "Create 3D CAD models"
 msgstr "Buat model CAD 3D"
 
-#: content/Default/apps/content.json.h:291
+#: content/Default/apps/content.json.h:288
 msgctxt "description"
 msgid ""
 "This app is made for programmers who want to create 3D CAD models. The app "
@@ -1976,17 +1955,17 @@ msgid ""
 " you do, this app is a great way to build the 3D models you need."
 msgstr "Aplikasi ini dibuat untuk pengatur cara yang ingin mencipta model CAD 3D. Aplikasi ini tidak memberi tumpuan kepada aspek artistik pemodelan 3D, tetapi sebaliknya pada elemen CAD, jadi ia paling sesuai untuk orang yang mahu mencipta bahagian Mesin, sebagai contoh, bukannya sesuatu seperti model 3D untuk filem. Sebagai programmer, anda akan mempunyai kawalan penuh ke atas proses pemodelan supaya anda boleh dengan mudah mengubah apa-apa langkah dan membuat Reka bentuk dikonfigurasikan yang anda kehendaki. Anda perlu mempunyai pemahaman mendalam tentang bagaimana untuk mencipta model CAD, dan jika anda lakukan, aplikasi ini adalah cara yang hebat untuk membina model 3D yang anda perlukan."
 
-#: content/Default/apps/content.json.h:292
+#: content/Default/apps/content.json.h:289
 msgctxt "title"
 msgid "Pingus"
 msgstr "Pingus"
 
-#: content/Default/apps/content.json.h:293
+#: content/Default/apps/content.json.h:290
 msgctxt "subtitle"
 msgid "Save your penguin friends from falling into the water"
 msgstr "Simpan kawan Penguin anda dari jatuh ke dalam air"
 
-#: content/Default/apps/content.json.h:294
+#: content/Default/apps/content.json.h:291
 msgctxt "description"
 msgid ""
 "Penguins are among the cutest animals, so who wouldn’t want to play a fun "
@@ -1996,17 +1975,17 @@ msgid ""
 " them in order to avoid an untimely end."
 msgstr "Penguin adalah di antara haiwan lucu, jadi yang tidak mahu bermain permainan yang menyeronokkan melindungi makhluk yang dikasihi dari jatuh dari tebing dan ke dalam air beku? Dengan banyak peringkat dan comel aksara, ini pasti untuk menjadi permainan kegemaran baru anda. Tonton Penguin anda menggunakan alat yang anda berikan kepada mereka untuk mengelakkan terjadi sekali lagi."
 
-#: content/Default/apps/content.json.h:295
+#: content/Default/apps/content.json.h:292
 msgctxt "title"
 msgid "Etoys"
 msgstr "Etoys"
 
-#: content/Default/apps/content.json.h:296
+#: content/Default/apps/content.json.h:293
 msgctxt "subtitle"
 msgid "Learn with visual programming"
 msgstr "Belajar dengan pengaturcaraan visual"
 
-#: content/Default/apps/content.json.h:297
+#: content/Default/apps/content.json.h:294
 msgctxt "description"
 msgid ""
 "This app is a great way for kids to learn how to program while learning "
@@ -2020,18 +1999,18 @@ msgid ""
 "college-aged students alike!"
 msgstr "Aplikasi ini adalah cara yang hebat untuk kanak-kanak untuk belajar bagaimana program sambil belajar disiplin lain dan mempunyai banyak keseronokan! Buat lukisan interaktif, cerita, model dan permainan dengan antara muka drag-and-drop yang membantu untuk mengelakkan kesilapan sintaks yang sering mengecewakan pelajar baru. Aplikasi ini menggalakkan rasa ingin tahu dan penerokaan, dan boleh digunakan untuk mencipta apa-apa daripada lukisan mudah kepada model kompleks dunia fizikal. Manakala pada asalnya direka untuk pelajar yang berumur 8-13 tahun, guru telah mendapati bahawa aplikasi ini telah membantu pelajar dari semua peringkat umur, daripada pelajar muda untuk pelajar kolej yang berusia sama!"
 
-#: content/Default/apps/content.json.h:298
+#: content/Default/apps/content.json.h:295
 msgctxt "title"
 msgid "Stellarium"
 msgstr "Stellarium"
 
-#: content/Default/apps/content.json.h:299
+#: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid ""
 "Planetarium software that shows what you see when you look at the stars"
 msgstr "Perisian Planetarium yang menunjukkan apa yang anda lihat apabila anda melihat bintang"
 
-#: content/Default/apps/content.json.h:300
+#: content/Default/apps/content.json.h:297
 msgctxt "description"
 msgid ""
 "Discover the night sky with this application. With a catalogue of more than "
@@ -2042,17 +2021,17 @@ msgid ""
 "coordinates and learn about the stars above you!"
 msgstr "Terokai langit malam dengan permohonan ini. Dengan Katalog lebih daripada 600,000 bintang, buruj daripada lebih daripada sedozen budaya, dan banyak lagi ciri, aplikasi ini membolehkan anda melihat dan mendapatkan tahu bintang terus dari desktop anda. Permohonan ini menunjukkan anda langit malam yang begitu realistik, ia sepadan dengan yang anda lihat di atas anda. Tetapkan lokasi anda koordinat dan belajar tentang bintang di atas anda!"
 
-#: content/Default/apps/content.json.h:301
+#: content/Default/apps/content.json.h:298
 msgctxt "title"
 msgid "X-Moto"
 msgstr "X-Moto"
 
-#: content/Default/apps/content.json.h:302
+#: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "A motorcycle racing game"
 msgstr "Permainan perlumbaan motosikal"
 
-#: content/Default/apps/content.json.h:303
+#: content/Default/apps/content.json.h:300
 msgctxt "description"
 msgid ""
 "Love motorcycles? Then you're going to love this racing game where physics "
@@ -2062,17 +2041,17 @@ msgid ""
 "time in this fast-paced, exciting test of speed!"
 msgstr "Suka motosikal? Kemudian anda akan suka permainan perlumbaan ini di mana fizik memainkan peranan penting dalam menang! Anda mesti mengawal motosikal anda kepada had fizikal jika anda ingin mempunyai peluang untuk menamatkan kursus yang sukar. Belajar tentang sains dan mengamalkan kemahiran perlumbaan anda pada masa yang sama dalam ujian kelajuan yang pantas dan menarik!"
 
-#: content/Default/apps/content.json.h:304
+#: content/Default/apps/content.json.h:301
 msgctxt "title"
 msgid "Tux Paint"
 msgstr "Tux Paint"
 
-#: content/Default/apps/content.json.h:305
+#: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "A fun drawing app for kids"
 msgstr "Satu aplikasi menarik untuk kanak-kanak"
 
-#: content/Default/apps/content.json.h:306
+#: content/Default/apps/content.json.h:303
 msgctxt "description"
 msgid ""
 "Create beautiful artwork with this fun and easy to use app! Tux the penguin "
@@ -2083,17 +2062,17 @@ msgid ""
 "then download this app and get them started on their next masterpiece!"
 msgstr "Buat karya seni yang indah dengan ini menyeronokkan dan mudah untuk menggunakan aplikasi! Tux Penguin membantu membimbing anak supaya mereka tahu bagaimana menggunakan semua alat. Umur yang disyorkan untuk menggunakan aplikasi ini adalah 3-12, tetapi sesiapa yang muda di hati pasti mencintai! Gunakan setem, bermain dengan bentuk, atau menarik tangan untuk mencipta sesuatu yang istimewa. Jika anak anda suka melukis dan mencipta karya seni, kemudian muat turun aplikasi ini dan dapatkan mereka bermula pada karya seterusnya!"
 
-#: content/Default/apps/content.json.h:307
+#: content/Default/apps/content.json.h:304
 msgctxt "title"
 msgid "VLC"
 msgstr "VLC"
 
-#: content/Default/apps/content.json.h:308
+#: content/Default/apps/content.json.h:305
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
 msgstr "Main video dengan Pemain Media popular ini"
 
-#: content/Default/apps/content.json.h:309
+#: content/Default/apps/content.json.h:306
 msgctxt "description"
 msgid ""
 "VLC is a free and open source multimedia player that plays most multimedia "
@@ -2103,17 +2082,17 @@ msgid ""
 "abilities out there."
 msgstr "VLC adalah pemain multimedia percuma dan terbuka yang memainkan kebanyakan fail multimedia serta DVD, CD audio, VCD, dan pelbagai protokol penstriman Internet. Jika anda menghadapi masalah melihat video anda pada pemain multimedia lain, cuba VLC kerana ia mempunyai beberapa kebolehan sokongan main balik video terbaik di luar sana."
 
-#: content/Default/apps/content.json.h:310
+#: content/Default/apps/content.json.h:307
 msgctxt "title"
 msgid "Wesnoth"
 msgstr "Wesnoth"
 
-#: content/Default/apps/content.json.h:311
+#: content/Default/apps/content.json.h:308
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
 msgstr "Permainan strategi berdasarkan giliran fantasi"
 
-#: content/Default/apps/content.json.h:312
+#: content/Default/apps/content.json.h:309
 msgctxt "description"
 msgid ""
 "Battle for control of the land, villages, and resources in this fantasy-"
@@ -2122,17 +2101,17 @@ msgid ""
 "strategy, this game is sure to reveal a great leader inside you."
 msgstr "Pertempuran untuk mengawal tanah, Kampung, dan sumber dalam permainan strategi bertemakan fantasi ini. Setiap pemain mengawal tentera Reka bentuk mereka sendiri dan menggunakannya untuk mencari dominasi. Satu campuran yang menarik sejarah, fantasi, dan strategi, Permainan ini adalah pasti untuk mendedahkan pemimpin yang hebat di dalam anda."
 
-#: content/Default/apps/content.json.h:313
+#: content/Default/apps/content.json.h:310
 msgctxt "title"
 msgid "Music"
 msgstr "Muzik"
 
-#: content/Default/apps/content.json.h:314
+#: content/Default/apps/content.json.h:311
 msgctxt "subtitle"
 msgid "Listen to all your music, and to the radio"
 msgstr "Mendengar semua muzik anda, dan radio"
 
-#: content/Default/apps/content.json.h:315
+#: content/Default/apps/content.json.h:312
 msgctxt "description"
 msgid ""
 "In addition to listening to your favorite music, this app lets you search "
@@ -2142,17 +2121,17 @@ msgid ""
 "in one convenient app."
 msgstr "Selain mendengar muzik kegemaran anda, aplikasi ini membolehkan anda mencari melalui Perpustakaan anda, mencipta senarai main, bermain dan membakar CD, menunjukkan kepada anda seni album dan juga Lirik lagu. Aplikasi ini juga menyokong penstriman radio Internet dan visualizations audio. Nikmati semua lagu kegemaran anda, disimpan dan disusun dalam satu aplikasi yang mudah."
 
-#: content/Default/apps/content.json.h:316
+#: content/Default/apps/content.json.h:313
 msgctxt "title"
 msgid "Photos"
 msgstr "Foto"
 
-#: content/Default/apps/content.json.h:317
+#: content/Default/apps/content.json.h:314
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
 msgstr "Mudah menyunting, menyusun, dan berkongsi foto."
 
-#: content/Default/apps/content.json.h:318
+#: content/Default/apps/content.json.h:315
 msgctxt "description"
 msgid ""
 "We all love to take pictures in our everyday lives – and we especially love "
@@ -2163,17 +2142,17 @@ msgid ""
 "networks, like Facebook."
 msgstr "Kita semua suka mengambil gambar dalam kehidupan seharian kita - dan kita sangat suka untuk memuat turun mereka ke komputer kita supaya boleh disunting dan berkongsi melalui media sosial. Aplikasi ini membenarkan anda mengimport foto dari kamera digital atau telefon dengan lancar. Anda kemudian boleh menyusunnya dalam album, menyuntingnya untuk kecantikan dan kesan maksimum, dan tentu saja, memaparkannya pada rangkaian sosial kegemaran anda, seperti Facebook."
 
-#: content/Default/apps/content.json.h:319
+#: content/Default/apps/content.json.h:316
 msgctxt "title"
 msgid "Remote Desktop"
 msgstr "Desktop Kawalan"
 
-#: content/Default/apps/content.json.h:320
+#: content/Default/apps/content.json.h:317
 msgctxt "subtitle"
 msgid "Manage your desktop from afar"
 msgstr "Uruskan desktop anda dari jauh"
 
-#: content/Default/apps/content.json.h:321
+#: content/Default/apps/content.json.h:318
 msgctxt "description"
 msgid ""
 "Now you can manage your own computer, or a family member's, without being in"
