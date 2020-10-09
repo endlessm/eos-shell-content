@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Codecademy
-Comment=Learn to program
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.codecademy.com/en/' es:'gio open http://www.codecademy.com/es/' pt:'gio open http://www.codecademy.com/pt/' 
-Icon=eos-link-codeacademy
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Coursera
-Comment=Take the world's best courses, online, for free
-Type=Application
-Exec=eos-exec-localized 'gio open https://www.coursera.org/' pt:'gio open https://pt.coursera.org/' 
-Icon=eos-link-coursera
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

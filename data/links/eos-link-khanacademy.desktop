@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Khan Academy
-Comment=Educational videos
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.khanacademy.org/' pt:'gio open http://pt.khanacademy.org/' id:'gio open https://id.khanacademy.org/' th:'gio open https://th.khanacademy.org/' 
-Icon=eos-link-khanacademy
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

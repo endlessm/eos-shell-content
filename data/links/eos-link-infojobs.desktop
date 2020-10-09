@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Infojobs
-Comment=Jobs guide
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.infojobs.com/' pt:'gio open http://vagas.infojobs.com.br/' 
-Icon=eos-link-infojobs
-Categories=Education;Health;
-X-Endless-LaunchMaximized=true

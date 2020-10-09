@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=FIFA
-Comment=Football association
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.fifa.com/' es:'gio open http://es.fifa.com/' 
-Icon=eos-link-fifa
-Categories=Sports;
-X-Endless-LaunchMaximized=true

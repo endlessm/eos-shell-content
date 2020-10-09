@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Lazada
-Comment=Belanja online barang elektronik dan mode
-Type=Application
-Exec=eos-exec-localized 'gio open http://www.lazada.co.id/' th:'gio open http://www.lazada.co.th/' vi:'gio open http://www.lazada.vn/' 
-Icon=eos-link-lazada
-Categories=Entertainment;
-X-Endless-LaunchMaximized=true
