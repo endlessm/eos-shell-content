@@ -35,41 +35,6 @@
     "tryexec": ""
   },
   {
-    "application-id": "chromium-browser",
-    "category": "Utility;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "You can find almost anything you want on the internet, but sometimes it is hard to know which sources you can trust. This app will take you to any part of the web you want, and help you uncover awesome new websites you may not yet know about. Get access to a newspaper that automatically updates with the most relevant articles, and a discovery center that will help you start exploring the web in a new way!  **Requires internet",
-    "displayShape": "b1",
-    "exec": "chromium-browser %U",
-    "featured_img": "",
-    "icon": "chromium-browser-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "chromium-browser-screenshot1.jpg",
-        "chromium-browser-screenshot2.jpg",
-        "chromium-browser-screenshot3.jpg"
-      ],
-      "es": [
-        "chromium-browser-screenshot1.jpg",
-        "chromium-browser-screenshot2.jpg",
-        "chromium-browser-screenshot3.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "chromium-browser-thumb.jpg",
-    "subtitle": "Browse the Web",
-    "title": "Internet",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "com.dropbox.Client",
     "category": "Utility;",
     "core": false,
