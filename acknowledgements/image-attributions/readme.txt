@@ -20,8 +20,6 @@ link-thumbs.csv:
   - app center thumbnails for websites (cropped from discover center versions)
   - included in the GResource at
     /usr/share/eos-shell-content/eos-app-store-link-content.gresource
-  - included in the Chromium extension at
-    /usr/share/eos-exploration-center/eos-exploration-center.crx
 
 Many Endless applications also list image credits by clicking on the
 top bar of the application window (to the left of the minimize button)
