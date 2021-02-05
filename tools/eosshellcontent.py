@@ -206,7 +206,7 @@ class ShellContent:
 
         # Remove all screenshots that had only images not starting with our URL
         screenshots = xml_root.find('screenshots')
-        for screenshot in screenshots.getchildren():
+        for screenshot in screenshots:
             for image in screenshot.findall('image'):
                 if not image.text.startswith(CMS_GS_BUCKET_URL):
                     screenshot.remove(image)
