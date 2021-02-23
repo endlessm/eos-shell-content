@@ -6464,44 +6464,6 @@
     "tryexec": "wesnoth-1.11"
   },
   {
-    "application-id": "rhythmbox",
-    "project-group": "GNOME",
-    "category": "AudioVideo;",
-    "core": true,
-    "custom-splash-screen": "",
-    "description": "In addition to listening to your favorite music, this app lets you search through your library, create playlists, play and burn CDs, shows you album art and even songs' lyrics. This app also supports Internet radio streaming and audio visualizations. Enjoy all your favorite songs, stored and sorted in one convenient app.",
-    "displayShape": "b2h",
-    "exec": "rhythmbox %U",
-    "featured_img": "rhythmbox-featured.jpg",
-    "icon": "rhythmbox-icon.png",
-    "is_featured": false,
-    "is_offline": false,
-    "personalities": [
-      "All"
-    ],
-    "screenshots": {
-      "C": [
-        "rhythmbox-screenshot1.jpg",
-        "rhythmbox-screenshot2.jpg"
-      ],
-      "es": [
-        "rhythmbox-screenshot1.jpg",
-        "rhythmbox-screenshot2.jpg"
-      ],
-      "pt": [
-        "rhythmbox-screenshot1.jpg",
-        "rhythmbox-screenshot2.jpg"
-      ]
-    },
-    "splash-screen-type": "Default",
-    "square_img": "rhythmbox-thumb.jpg",
-    "subtitle": "Listen to all your music, and to the radio",
-    "title": "Music",
-    "translation_id": null,
-    "translation_type": null,
-    "tryexec": ""
-  },
-  {
     "application-id": "shotwell",
     "project-group": "GNOME",
     "category": "Graphics;",
