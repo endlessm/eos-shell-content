@@ -1,10 +1,3 @@
-links_desktop_files = $(wildcard links/*.desktop)
-
-desktopsdir = $(datadir)/applications
-desktops_DATA = \
-    $(links_desktop_files) \
-    $(NULL)
-
 foldersdir = $(datadir)/desktop-directories
 folders_DATA = $(wildcard folders/*.directory)
 
@@ -26,7 +19,6 @@ eos-save-icon-grid: eos-save-icon-grid.in Makefile
 	chmod +x $@
 
 EXTRA_DIST = \
-    $(desktops_DATA) \
     $(folders_DATA) \
     $(settings_in_files) \
     settings/arch-blacklist.json \

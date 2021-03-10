@@ -7,10 +7,6 @@
     "org.libreoffice.LibreOffice.impress.desktop",
     "com.endlessm.encyclopedia.fr.desktop",
     "org.learningequality.Kolibri.desktop",
-    "eos-vlc.desktop",
-    "eos-link-facebook.desktop",
-    "eos-link-whatsapp.desktop",
-    "eos-link-youtube.desktop",
     "eos-folder-media.directory",
     "eos-folder-curiosity.directory",
     "eos-folder-games.directory",
@@ -19,9 +15,6 @@
     "eos-folder-social.directory",
     "net.minetest.Minetest.desktop",
     "org.gnome.Rhythmbox3.desktop"
-  ],
-  "eos-folder-curiosity.directory": [
-    "eos-link-duolingo.desktop"
   ],
   "eos-folder-games.directory": [
     "com.endlessnetwork.missilemath.desktop",
@@ -49,13 +42,11 @@
     "com.endlessnetwork.MidnightmareTeddy.desktop",
     "com.endlessnetwork.passage.desktop",
     "com.endlessnetwork.tankwarriors.desktop",
-    "com.endlessnetwork.whitehouse.desktop",
-    "eos-unity.desktop"
+    "com.endlessnetwork.whitehouse.desktop"
   ],
   "eos-folder-media.directory": [
     "com.endlessm.photos.desktop",
     "shotwell.desktop",
-    "eos-spotify.desktop",
     "org.gnome.Totem.desktop",
     "org.tuxpaint.Tuxpaint.desktop",
     "org.audacityteam.Audacity.desktop",
@@ -65,11 +56,7 @@
     "org.blender.Blender.desktop"
   ],
   "eos-folder-social.directory": [
-    "eos-get-us.zoom.Zoom.desktop",
-    "eos-link-twitter.desktop",
-    "evolution.desktop",
-    "eos-skype.desktop",
-    "eos-link-gmail.desktop"
+    "evolution.desktop"
   ],
   "eos-folder-learn-to-code.directory": [
     "edu.mit.Scratch.desktop",
