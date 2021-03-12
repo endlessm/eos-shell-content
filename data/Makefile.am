@@ -22,12 +22,10 @@ EXTRA_DIST = \
     $(folders_DATA) \
     $(settings_in_files) \
     settings/arch-blacklist.json \
-    eos-exec-localized \
     eos-save-icon-grid.in \
     $(NULL)
 
 bin_SCRIPTS = \
-    eos-exec-localized \
     eos-save-icon-grid \
     $(NULL)
 
