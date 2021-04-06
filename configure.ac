@@ -82,7 +82,6 @@ AC_CONFIG_FILES([
         tools/Makefile
         content/Makefile
         data/Makefile
-        icons/Makefile
         po/Makefile.in
         ])
 
