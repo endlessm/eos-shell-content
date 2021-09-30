@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the eos-shell-content package.
 # 
 # Translators:
-# Pavel Borecki <pavel.borecki@gmail.com>, 2020
+# Pavel Borecki <pavel.borecki@gmail.com>, 2020-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2021-09-15 12:11+0000\n"
-"PO-Revision-Date: 2021-09-15 12:11+0000\n"
-"Last-Translator: endlessmobile_build <admin@endlessos.org>\n"
+"POT-Creation-Date: 2021-09-30 06:11+0000\n"
+"PO-Revision-Date: 2021-09-24 20:07+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/endless-os/eos-shell-content/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,7 +56,7 @@ msgid ""
 "share photos or collaborate on a project by sharing a Dropbox folder with "
 "whomever you’d like. Create a free account and start saving and sharing "
 "today!  ** Requires internet"
-msgstr ""
+msgstr "Potřebujete bezpečné úložiště pro všechny vaše důležité dokumenty, fotky, písničky a soubory? Snadné! S touto aplikací je možné použít Internet pro ukládání čehokoli, co je pro vás důležité. K těmto souborům pak můžete přistupovat z libovolného počítače, který má přístup k Internetu. Tuto službu používejte pro zálohování si svých souborů, sdílení fotek nebo spolupráci na projektech sdílením Dropbox složky s kýmkoli chcete. Zdarma si vytvořte účet a začněte ukládat a sdílet ještě dnes!  ** Vyžaduje připojení k Internetu"
 
 #: content/Default/apps/content.json.h:10
 msgctxt "title"
@@ -77,7 +77,7 @@ msgid ""
 "Use this app to research things for school, find out about world events, and"
 " much, much more. You’ll learn more than you ever thought possible with "
 "access to the Internet's greatest informational resource - and all for free!"
-msgstr ""
+msgstr "Ať už jste či nejste připojení k Internetu, chcete přistupovat k největší encyklopedii na světě – Wikipedii. Tato aplikace je nedocenitelným prostředkem pro studenty, učitele a kohokoli, kdo se chce dozvědět víc o světě kolem nás. Tuto aplikaci využijete pro vyhledávání věcí do školy, čtení si o událostech ve světě a mnohem, mnohem víc. Dozvíte se více než kdy předtím díky přístupu k největšímu zdroji informací na Internetu – a to vše zdarma!"
 
 #: content/Default/apps/content.json.h:13
 msgctxt "title"
@@ -98,7 +98,7 @@ msgid ""
 "make budgeting easier, and tips about money management and wise spending "
 "will help you make good choices with your funds. You and your family will "
 "benefit from an organized, clear, and carefully managed financial plan."
-msgstr ""
+msgstr "Může být velmi těžké udržet si přehled financích svých nebo své rodiny, ale zároveň je to také extrémně důležité. Tato aplikace poskytuje prostředky, které potřebujete pro správu rozpočtu a porozumění tomu, jak utrácíte své peníze. Jednoduché šablony usnadňují tvorbu rozpočtu a tipy ke správě peněz a jejich rozvážnému utrácení vám pomohou dobře nakládat s vašimi prostředky. Vy a vaše rodina získáte díky organizovanému, jasnému a pečlivě spravovanému finančnímu plánu."
 
 #: content/Default/apps/content.json.h:16
 msgctxt "title"
@@ -120,7 +120,7 @@ msgid ""
 "more and more about how to code. You'll soon find out that learning how to "
 "program allows you not only to change the world inside your games, but also "
 "your very own!"
-msgstr ""
+msgstr "Hrajete rádi videohry? Pak proč nevytvořit svou vlastní? Naučte se oceňované umění programování pomocí této zábavné aplikace, která vám umožní měnit pravidla videoher a přizpůsobit si je tak! Zjistěte, co se stane, když změníte řádky kódu a procházíte přes úrovně a učte se více a více o tom, jak programovat. Brzy zjistíte, že učení se programování změní nejen svět ve vás, ale také vás samé!"
 
 #: content/Default/apps/content.json.h:19
 msgctxt "title"
@@ -180,7 +180,7 @@ msgctxt "description"
 msgid ""
 "Awesome videos showing animals from the fluffiest to the wildest beasts of "
 "the animal kingdom."
-msgstr ""
+msgstr "Úžasná videa ukazující zvířata od těch nejroztomilejších po nejdivočejší ve zvířecí říši."
 
 #: content/Default/apps/content.json.h:28
 msgctxt "title"
@@ -211,12 +211,12 @@ msgstr "Smích je nejlepší lék"
 msgctxt "description"
 msgid ""
 "These funny videos will help you share a good laugh with the whole family. "
-msgstr ""
+msgstr "Tato zábavná videa pomohou sdílet dobrou náladu s celou rodinou."
 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
 msgid "Globetrotting"
-msgstr ""
+msgstr "Světoběžnictví"
 
 #: content/Default/apps/content.json.h:35
 msgctxt "subtitle"
@@ -229,7 +229,7 @@ msgid ""
 "Navigate through the most beautiful landscapes, from snowy mountains to "
 "sunny beaches. This video app will allow you to travel the world from the "
 "tips of your fingers."
-msgstr ""
+msgstr "Projděte se nejkrásnějšími krajinami, od zasněžených hor por slunné pláže. Tato video aplikace vám umožní procestovat svět."
 
 #: content/Default/apps/content.json.h:37
 msgctxt "title"
@@ -261,7 +261,7 @@ msgctxt "description"
 msgid ""
 "Be inspired watching videos about the incredible records and achievements of"
 " the greatest sports personalities of all time."
-msgstr ""
+msgstr "Inspirujte se sledováním videí o neuvěřitelných rekordech a výkonech nejlepších sportovců všech dob."
 
 #: content/Default/apps/content.json.h:43
 msgctxt "title"
@@ -280,7 +280,7 @@ msgid ""
 "Use the gravity of different planets to your advantage, and use your trusty "
 "slingshot to destroy the enemy spacecraft. No two rounds are ever the same "
 "in this fun and addictive game!"
-msgstr ""
+msgstr "Gravitace je váš nejlepší přítel v této zábavné střílečce zasazené do vesmíru. Použijte gravitaci různých planet jako svou výhodu a použijte svou věrnou zbraň pro zničení nepřátelského vesmírného plavidla. V této zábavné a chytlavé hře je vše pokaždé jiné!"
 
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
@@ -299,7 +299,7 @@ msgid ""
 "trouble watching videos online with other browsers, try Google Chrome since "
 "it has built-in support for the most common video-streaming service "
 "websites. ** Requires internet"
-msgstr ""
+msgstr "Google Chrome je jeden ze světově nejoblíbenějších webových prohlížečů. Pokud máte problémy se sledováním videí na Internetu v jiných prohlížečích, zkuste Google Chrom, protože má vestavěnou podporu pro nejběžnější služby pro streamování videí. ** Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:49
 msgctxt "title"
@@ -318,7 +318,7 @@ msgid ""
 "and a microphone, you can easily make video calls and voice calls to anyone "
 "in the world who also has Skype. This app’s features are simple to use and "
 "you can stay in touch with people anywhere in world!  **Requires Internet"
-msgstr ""
+msgstr "Skype dělá udržování kontaktů snadným a zábavným! Pokud máte webovou kameru a mikrofon, můžete snadno mít videohovory a hlasové hovory s kýmkoli na světě, kdo také má Skype. Funkce této aplikace jsou snadno použitelné a můžete být v kontaktu s lidmi kdekoli na světě!  **Vyžaduje připojení k Internetu"
 
 #: content/Default/apps/content.json.h:52
 msgctxt "title"
@@ -328,7 +328,7 @@ msgstr "Minecraft"
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "Create your own world in one of the most popular video games"
-msgstr "Vytvořte váš vlastní svět v jedné z nejoblíbenějších videoher"
+msgstr "Vytvořte si svůj vlastní svět v jedné z nejoblíbenějších videoher"
 
 #: content/Default/apps/content.json.h:54
 msgctxt "description"
@@ -340,7 +340,7 @@ msgid ""
 " For the best experience, we recommend you create an account and purchase "
 "online at https://minecraft.net/en-us/store/ before installing this app. ** "
 "Requires internet."
-msgstr ""
+msgstr "Přidejte se k lidem z celého světa, kteří hrají Minecraft – jednu z nejoblíbenějších videoher! V této zábavné hře, ve které si vytváříte svět kolem vás, je omezením je pouze vaše vlastní představivost. Hrajte s přáteli, nebo sami. Jak zažíváte dobrodružství, shromažďujete, stavíte a bojujete v neuvěřitelné vaší vlastní zemi. Pro nejlepší zážitek doporučujeme si vytvořit účet a zakoupit na Internetu https://minecraft.net/en-us/store/ a pak teprve tuto aplikaci nainstalovat. ** Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
@@ -361,7 +361,7 @@ msgid ""
 "conversations, and people, so it's easy to stay organized. Integration with "
 "several third-party services allows use of their features directly within "
 "your Slack discussions. ** Requires Internet"
-msgstr ""
+msgstr "Slack nabízí chaty uspořádané podle témat, soukromé skupiny a přímé dopisování si a tím konverzaci a pomoc vašemu týmu dokončovat věci. Ve veškerém obsahu na službě Slack lze vyhledávat, včetně souborů, konverzací a lidí, takže je snadné zůstat organizovaní. Napojení na několik služeb třetích stran umožňuje využívat jejich funkce přímo v rámci diskuzí na službě Slack. ** Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:58
 msgctxt "title"
@@ -371,7 +371,7 @@ msgstr "Spotify"
 #: content/Default/apps/content.json.h:59
 msgctxt "subtitle"
 msgid "Listen to music using Spotify"
-msgstr "Poslouchejte hudbu pomocí Spotify"
+msgstr "Poslouchejte hudbu prostřednictvím Spotify"
 
 #: content/Default/apps/content.json.h:60
 msgctxt "description"
@@ -383,7 +383,7 @@ msgid ""
 "listening to, and then save the songs to your own playlists. Spotify is the "
 "best way to have access to millions of songs, and all the latest hits.  "
 "**Requires internet"
-msgstr ""
+msgstr "Mějte přístup ke své oblíbené hudbě, objevujte nové skladby a sdílejte hudbu na Internetu se svými přáteli – vše na jednom místě. Vytvářejte sdílené seznamy skladeb nebo sdílejte jednotlivé skladby s přáteli na Facebooku pouhým kliknutím na tlačítko. Sledujte své oblíbené umělce nebo přátele a zjistěte, co poslouchají a pak si skladby ukládejte na svůj vlastní seznam. Spotify je nejlepší způsob jak mít přístup k milionům skladeb a všem nejnovějším hitům.  *Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:61
 msgctxt "title"
@@ -404,7 +404,7 @@ msgid ""
 "customize nearly anything within the app to make it your own. ** Requires a "
 "paid license for continued use. For more info visit: "
 "https://www.sublimetext.com/buy"
-msgstr ""
+msgstr "Sublime Text nabízí skvělý dojem z používání a úžasný výkon. Mocné funkce, jako vícenásobné výběry, přejít na cokoli a rozdělené upravování vám pomůže být produktivnější, než kdy předtím. A nejlepší věc je, že si můžete přizpůsobit téměř cokoli v aplikaci svým potřebám. ** Pokud chcete používat dlouhodobě, vyžaduje placenou licenci. Podrobnosti naleznete na: https://www.sublimetext.com/buy"
 
 #: content/Default/apps/content.json.h:64
 msgctxt "title"
@@ -426,7 +426,7 @@ msgid ""
 "opponents. This game is packed with cool featuers like the ability to create"
 " your own map! Lots of bloody fun awaits you, so grab your virtual weapons "
 "and go!"
-msgstr ""
+msgstr "Prostřílejte si cestu k vítězství ve smrtících zápasech a další! Tato hra je dělaná dle staré školy a je vzrušující střílečkou pro více hráčů s epickými bitvami až 16 hráčů naráz. Hrajte na zajmutí vlajky nebo týmový smrtelný zápas, kde se pokoušíte přežít ve smrtící aréně a zároveň se zbavovat svých protivníků. Tato hra přichází se skvělými funkcemi, jako např. možností vytvářet si své vlastní mapy! Očekává vás mnoho krvavé zábavy, takže popadněte své virtuální zbraně a vyrazte!"
 
 #: content/Default/apps/content.json.h:67
 msgctxt "title"
@@ -451,7 +451,7 @@ msgid ""
 "Service, as well as their refund policy. Endless is a separate corporate "
 "entity from Valve Corporation, and cannot refund games or be held "
 "accountable for purchases made on the Steam platform. ** Requires internet"
-msgstr ""
+msgstr "Pokud rádi hrajete videohry, čekají vás zábavné chvíle při zkoumání internetového obchodu Steam společnosti Valve! Mnohé hry vyžadují zakoupení na internetu, ale některé oblíbené hry, jako například Team Fortress 2 je možné hrát zdarma. Při hledání v obchodě nezapomeňte zúžit vyhledávání na operační systém Linux / SteamOS. Ne všechny Linuxové hry jsou kompatibilní s Endless, proto si před zakoupením zkontrolujte jejich požadavky na systém. Při používání her na platformě Steam, je třeba odsouhlasit s všeobecnými podmínkami společnosti Valve Corporation a s jejich podmínkami pro vracení peněz. Společnost Endless nemá nic společného s Valve Corporation a nemůže vracet peníze za hry nebo být odpovědná za nákupy prostřednictvím platformy Steam. ** Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:70
 msgctxt "title"
@@ -471,7 +471,7 @@ msgid ""
 "games right from your home. It’s simple to learn and use, yet highly "
 "realistic. This app is a great tool for both playing for fun and improving "
 "your game."
-msgstr ""
+msgstr "Hrajete rádi kulečník, nebo byste se ho rádi naučili? Tato hra vám umožní zažít hraní kulečníku a dalších podobných her u vás doma. Je snadné se ji naučit a hrát, přesto je velmi realistická. Tato aplikace je skvělá jak pro hraní pro zábavu, tak pro zlepšení se ve hře."
 
 #: content/Default/apps/content.json.h:73
 msgctxt "title"
@@ -492,7 +492,7 @@ msgid ""
 "vocabulary, or news, and even handle important matters – all via email. When"
 " you need to check your email quickly and simply, this app is there for you."
 "  **Requires internet"
-msgstr ""
+msgstr "Být v kontaktu je důležitou součástí moderního života a e-mail se stal jedním z nejlepších způsob jak. Zprávy vám mohou chodit od (geograficky) vzdálených či blízkých přátel a rodiny, zprostředkovávat vám každodenní vtípky, slovník nebo zprávy a dokonce jimi lze vyřizovat důležité věci – vše prostřednictvím e-mailu. Pokud potřebujte kontrolovat svou poštu rychle a jednoduše, tato aplikace je tu pro vás.  **Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:76
 msgctxt "title"
@@ -512,7 +512,7 @@ msgid ""
 "background image, change the brightness of your screen if it's getting late,"
 " or if you want to do something like add a new printer, it'll be easier than"
 " ever with this cool shortcut!"
-msgstr ""
+msgstr "Pokud máte potřebu něco změnit v nastavení svého počítače, stačí k tomu jedno kliknutí! Ať už chcete změnit pozadí plochy, jas obrazovky v pozdnějších hodinách, nebo pokud chcete něco jako přidat novou tiskárnu, s tímto skvělým zástupcem to bude snazší než kdykoli dříve!"
 
 #: content/Default/apps/content.json.h:79
 msgctxt "title"
@@ -531,7 +531,7 @@ msgid ""
 "must run and jump your way to new levels. This game features 26 levels with "
 "different opponents to fight, and fun music, in addition to a story that you"
 " can follow along with as you play."
-msgstr ""
+msgstr "Tato hra je podobná původním hrám Super Mario Brothers, kde se po vás chce proběhnout a proskákat do dalších úrovní. Tato hra kromě příběhu, který vás jí provází, obsahuje 26 úrovní s různými protivníky a zábavnou hudbou."
 
 #: content/Default/apps/content.json.h:82
 msgctxt "title"
@@ -551,7 +551,7 @@ msgid ""
 "blocks together and create whole layers of blocks to get points, all before "
 "the blocks stack up too high and you lose! It’s great for the brain, and "
 "tons of fun."
-msgstr ""
+msgstr "Máte rádi hry na přemýšlení! Pak se vám BlockOut 2 bude líbit. Tato hra s trojrozměrným tetrisem je rychlá a zábavná! Vymyslete, jak poskládat různě tvarované bloky dohromady a vytvořit tak celé vrstvy bloků a získávat tak body – to vše stihnout než se bloky navrší příliš do výšky a vy prohrajete! Je to skvělé pro cvičení mozku a užijete si spoustu zábavy."
 
 #: content/Default/apps/content.json.h:85
 msgctxt "title"
@@ -571,7 +571,7 @@ msgid ""
 " app also features games like chess that are great for young brains. Your "
 "child will have a wonderful time developing valuable skills that will help "
 "him or her throughout life."
-msgstr ""
+msgstr "Tato aplikace činí učení pro malé děti zábavným pomocí více než 100 her a aktivit! Výuková témata včetně čtení, geografie a matematiky. Dále aplikace obsahuje hry jako šachy, které jsou skvělé pro podporu vývoje mladých mozků. Vaše dítě zažije báječné chvíle při rozvoji hodnotných dovedností, které mu pomohou v jeho životě."
 
 #: content/Default/apps/content.json.h:88
 msgctxt "title"
@@ -592,12 +592,12 @@ msgid ""
 "just the games that you want them to. To begin, download this app and the "
 "EduGames app from the 'Games' section of the app store. They'll have so much"
 " fun that they'll want to spend hours doing just what you want them to!"
-msgstr ""
+msgstr "Pomocí této aplikace je možné nastavovat EduGames a vytvářet takový učební zážitek, jaký pro své studenty chcete! Je možné měnit seznam aktivit, dále ovládací prvky aplikace tak, aby zůstali zaměření na hry, které chcete. Nejprve si stáhněte tuto aplikaci a EduGames ze sekce „Hry“ v katalogu. Děti si užijí tolik zábavy, že budou chtít strávit hodiny děláním právě toho, co po nich chcete!"
 
 #: content/Default/apps/content.json.h:91
 msgctxt "title"
 msgid "Minetest"
-msgstr ""
+msgstr "Minetest"
 
 #: content/Default/apps/content.json.h:92
 msgctxt "subtitle"
@@ -614,7 +614,7 @@ msgid ""
 "whatever you'd like during the day, but make sure you’re prepared for the "
 "night. You may find that spiders, skeletons, and zombies might try to attack"
 " your city!"
-msgstr ""
+msgstr "Jaký druh světa byste postavili? Začněte s pouhou zemí a vodou, a pak vyplňte každý detail který si vymyslíte! Buďte tvořiví a postavte neuvěřitelný hrad, obrovský mrakodrap, masivní sídlo a nezapomeňte přidat městské hradby kvůli ochraně. Prozkoumejte svět a postavte cokoli, co se vám v průběhu dne zalíbilo, ale ujistěte se, že jste připraveni na noc. Můžete zjistit, že pavouci, kostlivci a zombie se mohou pokusit zaútočit na město!"
 
 #: content/Default/apps/content.json.h:94
 msgctxt "title"
@@ -633,7 +633,7 @@ msgid ""
 "yourself from and destroy enemy ships as they pursue you through space! This"
 " game has fun graphics and lots of challenges, with over 50 levels for you "
 "to play. You'll have hours and hours of fun blowing up things in space!"
-msgstr ""
+msgstr "Fanoušci arkádových her budou milovat tuto zábavnou střílečku. Chraňte se a ničte nepřátelské lodě, když vás pronásledují vesmírem! Tato hra má zábavnou grafiku a spoustu výzev s více než 50 úrovněmi, které můžete hrát. Budete mít hodiny a hodiny zábavy vyhazováním věcí do vzduchu ve vesmíru!"
 
 #: content/Default/apps/content.json.h:97
 msgctxt "title"
@@ -643,7 +643,7 @@ msgstr "Atomic Tanks"
 #: content/Default/apps/content.json.h:98
 msgctxt "subtitle"
 msgid "Bring friends and families together in the pursuit of world domination"
-msgstr ""
+msgstr "Spojuje přátele a rodiny dohromady snahou o nadvládu nad světem"
 
 #: content/Default/apps/content.json.h:99
 msgctxt "description"
@@ -652,7 +652,7 @@ msgid ""
 "shields and weapons to wipe out the opposition. Win this exciting game and "
 "you'll be a true battle-hardened commander, lose and feel the wrath of your "
 "adversary."
-msgstr ""
+msgstr "Anihilujte ostatní tanky a získávejte tak peníze. Za ty pak nakupujte větší a lepší štíty a zbraně, kterými vyhlaďte oponenty. Vyhrajte tuto vzrušující hru a budete pravým bitvami zoceleným velitelem – prohrajte a pociťte hněv vašeho protivníka."
 
 #: content/Default/apps/content.json.h:100
 msgctxt "title"
@@ -671,7 +671,7 @@ msgid ""
 "you'll be able to access all the tools you need to create audio clips that "
 "you can play for your friends and family. Create high quality clips and "
 "songs that you can even share with the world!"
-msgstr ""
+msgstr "Chtěli jste si někdy vytvořit své vlastní audio klipy nebo písničky? Pomocí této aplikace budete mít přístup ke všem potřebným nástrojům pro vytváření audioklipů, které můžete hrát svým přátelům a rodině. Vytvářejte vysoce kvalitní klipy a skladby, které dokonce můžete sdílet se světem!"
 
 #: content/Default/apps/content.json.h:103
 msgctxt "title"
@@ -689,7 +689,7 @@ msgid ""
 "Battle with family and friends with an arsenal of your design. With awesome "
 "graphics and cool music, it's a fun and dynamic game for players of all "
 "ages. Just make sure you can handle the explosions!"
-msgstr ""
+msgstr "Bitva s rodinou či přáteli s arzenálem dle vašeho návrhu. S úžasnou grafikou a skvělou hudbou, je to zábavná a dynamická hra pro hráče každého věku. Jen se ujistěte, že ustojíte exploze!"
 
 #: content/Default/apps/content.json.h:106
 msgctxt "title"
@@ -709,7 +709,7 @@ msgid ""
 "fighting fleet, you just might make it. This thrilling, arcade-style game is"
 " sure to get your blood pumping. With lots of obstacles and the tools to "
 "overcome them, you’re on your way to a galaxy of fun!"
-msgstr ""
+msgstr "Představte si toto: Jste kapitánem vesmírné lodi, která má dopravit zásoby do předních linií velké války ve vesmíru. S pomocí vaší robotické flotily byste to mohli zvládnout. Tato vzrušující hra arkádového stylu ve vás určitě rozproudí krev. S mnoha překážkami a nástroji pro jejich překonání, jste na cestě do galaxie zábavy!"
 
 #: content/Default/apps/content.json.h:109
 msgctxt "title"
@@ -728,7 +728,7 @@ msgid ""
 "awesome racing game! But it won't be easy! You'll need to avoid the trees, "
 "rocks, and even fish bones that get in your way and slow you down. Sure to "
 "get your heart racing, this game is a must play for any adrenaline addict."
-msgstr ""
+msgstr "Sjíždějte zasněžené a ledem pokryté hory tak rychle, jak je to jen možné v této úžasné závodní hře! Ale nebude to snadné! Bude třeba se vyhýbat stromům, kamenům a dokonce rybím kostrám, které se vám pletou do cesty a zpomalují vás. Určitě vám rozbuší srdce, tato hra je nutností pro každého milovníka adrenalinu."
 
 #: content/Default/apps/content.json.h:112
 msgctxt "title"
@@ -750,7 +750,7 @@ msgid ""
 "files from millions of users online. This app even includes a built-in video"
 " player so that you can easily view all of the media you download.  "
 "**Requires Internet"
-msgstr ""
+msgstr "Přistupujte k, stahujte si a sdílejte téměř jakýkoli soubor, který chcete pomocí této užitečné internetové peer to peer aplikace, která vám umožňuje sdílet soubory s ostatními uživateli, kteří jsou připojení k BitTorrent síti. Od hudbu, videa a her po komplexnější stahování, jako například software, budete moci sdílené soubory od milionů uživatelů na Internetu. Tato aplikace dokonce obsahuje vestavěný přehrávač videa, takže si snadno můžete zobrazit všechna média, která si stahujte.  **Vyžaduje Internet"
 
 #: content/Default/apps/content.json.h:115
 msgctxt "title"
@@ -771,7 +771,7 @@ msgid ""
 "special powers that will help you win, but make sure to avoid the green fish"
 " or you'll slow down. This game is great for both kids and adults alike and "
 "is sure to entertain you and your friends for hours!"
-msgstr ""
+msgstr "Máte rádi závodní hry? Pak je toto aplikace pro vás! Jezděte snadné, střední a těžké závodní tratě jako tučňák Tux a pokoušejte se porazit rychlostní rekordy své i vašich přátel. Pokud se vám podaří získat červenou rybu, získáte speciální síly, která vám pomohou vyhrát, ale vyhněte se zelené rybě, která by vás zpomalila. Tato hra je skvělá jak pro děti, tak pro dospělá a určitě vás a vaše přátel zabaví na hodiny!"
 
 #: content/Default/apps/content.json.h:118
 msgctxt "title"
@@ -781,7 +781,7 @@ msgstr "TORCS"
 #: content/Default/apps/content.json.h:119
 msgctxt "subtitle"
 msgid "Race cool 3D cars in this realistic game"
-msgstr ""
+msgstr "Závod skvělých trojrozměrných aut v této realistické hře"
 
 #: content/Default/apps/content.json.h:120
 msgctxt "description"
@@ -792,7 +792,7 @@ msgid ""
 "drivers to gain an even bigger advantage over their opponents. You'll love "
 "racing your fast cars, and soon you'll see that all of your friends will "
 "want to play too!"
-msgstr ""
+msgstr "Řezejte zatáčky a proburácejte kolem ostatních závodníků v této vzrušující 3D závodní hře s auty. Je tak realistická, že si budete myslet, že cítíte spálenou gumu! Pokročilí uživatelé také mají možnost vytvářet své vlastní nastavení auto a získat tak ještě větší výhodu nad svými protivníky. Bude se vám líbit závodění s rychlými vozy a brzy uvidíte, že všichni vaši přátelé budou chtít hrát také!"
 
 #: content/Default/apps/content.json.h:121
 msgctxt "title"
@@ -811,7 +811,7 @@ msgid ""
 "Show off your skills and strategy while always controling the players with "
 "the ball. Pretty soon, you'll feel like you're ready to take on the "
 "professionals!"
-msgstr ""
+msgstr "Máte rádi fotbal? Nyní můžete hrát celý den s vašimi oblíbenými tučňáky! Ukažte své dovednosti a strategii zatímco vždy ovládáte hráče s míčem. Velmi brzy se budete cítit, že jste připravení si troufnout na profesionály!"
 
 #: content/Default/apps/content.json.h:124
 msgctxt "title"
@@ -821,7 +821,7 @@ msgstr "Warmux"
 #: content/Default/apps/content.json.h:125
 msgctxt "subtitle"
 msgid "Make your computer a battle of wit and war"
-msgstr ""
+msgstr "Udělejte ze svého počítače bitvu důvtipu a války"
 
 #: content/Default/apps/content.json.h:126
 msgctxt "description"
@@ -830,7 +830,7 @@ msgid ""
 "bazookas, or even a baseball bat. Each player controls their own team and "
 "must destroy his adversary using his arsenol and wits, as turn by turn, each"
 " member of each team attempts to destroy his opponents."
-msgstr ""
+msgstr "Vyhlaďte své protivníky v komixovém světě pomocí dynamitu, granátů, bazuk a dokonce basketbalové pálky. Každý hráč ovládá svůj vlastní tým a musí zničit svého protivníka pomocí jeho arzenálu a důvtipu, protože kolo po kole, každý člen každého týmu se snaží zničit své protivníky."
 
 #: content/Default/apps/content.json.h:127
 msgctxt "title"
@@ -850,7 +850,7 @@ msgid ""
 " first into another world where you'll be living and breathing military "
 "strategy. Research technologies, build units, and plan battles in this game "
 "of strategy, tactics, and wit."
-msgstr ""
+msgstr "Ve Warzone 2100 velíte silám, které mají znovu vystavět svět po nukleární válce, která ho zničila. Hrajte sami nebo s přáteli – v obou případech se po hlavě ponoříte do jiného světa, ve kterém budete žít a dýchat vojenskou strategií. Vyvíjejte technologie, stavte jednotky a plánujte bitvy v této hře strategie, taktiky a důvtipu."
 
 #: content/Default/apps/content.json.h:130
 msgctxt "title"
@@ -869,7 +869,7 @@ msgid ""
 "a “light cycle”, a cool and futuristic motorcycle, and battle others on the "
 "road. Force your opponents to hit the arena walls and win. This app is easy "
 "to learn and a lot of fun to play!"
-msgstr ""
+msgstr "Tato vzrušující hra vás vezme do světa Trona. Usedněte za řízení „světlocyklu“ – skvělé a futuristické motorky a bojujte s ostatními na silnici. Donuťte své protivníky narazit do zdí arény a vyhrajte. Tato aplikace se dá snadno naučit a její hraní přináší spoustu zábavy!"
 
 #: content/Default/apps/content.json.h:133
 msgctxt "title"
@@ -891,7 +891,7 @@ msgid ""
 " the wheel. You'll continue through the ages until you reach modern times "
 "and need to balance world politics with your agenda to lead your people to "
 "conquering the moon and beyond!"
-msgstr ""
+msgstr "Vytvořte svůj vlastní svět s touto akcí nabitou hrou, která vám umožní cestovat časem a vybudovat svou vlastní civilizaci. Začnete na začátku, v prehistorickém světe, kde budete potřebovat vytvořit svůj vlastní kmen. Poté se přesunete do středověku, přežijete mor a vyvinete kolo. Pak budete pokračovat věky dokud nedosáhnete moderní doby a budete balancovat světovou politiku se svým programem vést svůj lid k dobývání vesmíru a dál!"
 
 #: content/Default/apps/content.json.h:136
 msgctxt "title"
@@ -911,7 +911,7 @@ msgid ""
 "create towns, cities, and states that will support your ultimate plan. Will "
 "you try to dominate the world, or will you promote international peace and "
 "prosperity? You decide."
-msgstr ""
+msgstr "Chtěli jste kdy vytvořit svojí vlastní zemi? Nyní můžete. Jděte zpět do alternativního vesmíru, kde Amerika ještě nebyla kolonizována a vytvářejte městečka, města a státy, které budou podporovat váš velký plán. Pokusíte se ovládnout svět, nebo propagovat mezinárodní mír a prosperitu? Rozhodnete vy."
 
 #: content/Default/apps/content.json.h:139
 msgctxt "title"
@@ -930,7 +930,7 @@ msgid ""
 "bubbles! Match the colored bubbles in order to knock them down and get them "
 "out of the way before they stack up too high and crash into you. You need to"
 " have a good strategy and develop a quick trigger finger in order to win!"
-msgstr ""
+msgstr "Hrajte si sami nebo vyzvěte své přátele ke vzrušující hře se zmrzlými bublinami! Dávejte k sobě stejně vybarvené bubliny a sestřelujte je tím dolů, čímž si děláte prostor dříve, než se naskládají příliš vysoko a spadnou na vás. Abyste vyhráli, potřebujete dobrou strategii a rychlý prst na spoušti!"
 
 #: content/Default/apps/content.json.h:142
 msgctxt "title"
@@ -952,7 +952,7 @@ msgid ""
 " formats of files and apply a variety of retouching and filtering tools to "
 "create works of art. There are so many possibilities for how to create cool "
 "images once you get the hang of this helpful editing app!"
-msgstr ""
+msgstr "Upravujte si své fotky a vytvářejte ještě hezčí umělecká díla pomocí tohoto pokročilého editoru fotek. Tato aplikace je kompatibilní s Adobe Photoshop, oblíbeným fotoeditorem pro počítače s Windows. Pokud jste nový uživatel, může sloužit jako základní kreslící program. Pokročilí uživatelé mohou dělat věci jako převádět mezi formáty souborů a uplatňovat různé nástroje pro retušování a filtrování a vytvářet tak umělecká díla. Je tolik možností jak vytvářet úžasné obrázky, jakmile se naučíte pracovat s touto užitečnou aplikací pro úpravy!"
 
 #: content/Default/apps/content.json.h:145
 msgctxt "title"
@@ -971,7 +971,7 @@ msgid ""
 "apply filters, and share your creations with your friends and family. Try "
 "turning yourself green, or making yourself have two faces - you'll have "
 "hours of fun playing around and creating funny, cool and beautiful pictures!"
-msgstr ""
+msgstr "Řekněte sýr! Použijte webovou kameru a tuto skvělou aplikaci typu fotobudka a pořizujte obrázky, uplatňujte filtry a sdílejte své výtvory se svými přáteli a rodinou. Zkuste se zbarvit na zeleno, nebo si udělejte dvě tváře – budete mít hodiny zábavného hraní si a vytváření zábavných, skvělých a nádherných obrázků!"
 
 #: content/Default/apps/content.json.h:148
 msgctxt "title"
@@ -991,7 +991,7 @@ msgid ""
 "down in numerical order, but it’s a little more complicated than that. This "
 "card game challenges the mind and provides plenty of entertainment for you "
 "to enjoy."
-msgstr ""
+msgstr "Tato aplikace vám umožní hrát nový typ solitéru, která vás bude bavit celé hodiny! Obecná myšlenka je dávat karty stejné barvy dolů v číselném pořadí, ale je to ještě poněkud komplikovanější. Tato karetní hra potrápí mysl a poskytne spoustu zábavy, kterou si užijete."
 
 #: content/Default/apps/content.json.h:151
 msgctxt "title"
@@ -1012,7 +1012,7 @@ msgid ""
 "you. And even if you’re not, the app works wonderfully as an advanced "
 "calculator. Everything you need to figure out numerical mysteries is right "
 "here."
-msgstr ""
+msgstr "Tato matematická aplikace nabízí pokročilé matematické výpočetní funkce, které je možné použít pro mnohem více než jen základní výpočty. Pokud jste matematický mág, který rád experimentuje s touto vzrušující disciplínou, toto je aplikace pro vás. A i když nejste, aplikace funguje účastně jako pokročilá kalkulačka. Vše co potřebujete pro řešení číselných záhad je právě zde."
 
 #: content/Default/apps/content.json.h:154
 msgctxt "title"
@@ -1033,17 +1033,17 @@ msgid ""
 "note app can help you keep them all in one place. This app also has the "
 "ability to link notes together so that you can easily access all related "
 "notes and stay even more organized!"
-msgstr ""
+msgstr "Zjišťujete, že si píšete spoustu poznámek na papír, který později ztratíte nebo roztrháte? Nebo, máte tolik poznámek na svém stole, že zabírají většinu místa? Lhostejno jaký typ poznámek si potřebujete dělat, tato aplikace pro správu poznámek vám může pomoci mít je všechny na jednom místě. Tato aplikace také má schopnost propojit poznámky dohromady, takže můžete snadno přistupovat ke všem souvisejícím poznámkám a být ještě více organizovaní!"
 
 #: content/Default/apps/content.json.h:157
 msgctxt "title"
 msgid "Iagno"
-msgstr ""
+msgstr "Iagno"
 
 #: content/Default/apps/content.json.h:158
 msgctxt "subtitle"
 msgid "A fun puzzle game that involves lots of thought"
-msgstr ""
+msgstr "Zábavná logická hra která zahrnuje spoustu myšlení"
 
 #: content/Default/apps/content.json.h:159
 msgctxt "description"
@@ -1054,12 +1054,12 @@ msgid ""
 "across consecutive pieces of the other color. So, you need to flip over the "
 "pieces carefully to try to make ALL of the pieces your color. Think very "
 "strategically and see if you can figure this puzzle out!"
-msgstr ""
+msgstr "Otočte všechny kameny před vámi, aby všechny měly stejnou barvu. Jednoduché? Vůbec ne! Kameny můžete měnit na svou barvu pokud můžete umístit jeden ze svých kamenů na místo, kde můžete vytvořit řádek, sloupec nebo diagonálu napříč po sobě jdoucích kamenech jiné barvy. Takže je potřeba otáčet kameny opatrně a pokoušet se udělat VŠECHNY kameny vaší barvou. Myslete velmi strategicky a uvidíte, zda tento hlavolam vyřešíte!"
 
 #: content/Default/apps/content.json.h:160
 msgctxt "title"
 msgid "Quadrapassel"
-msgstr ""
+msgstr "Quadrapassel"
 
 #: content/Default/apps/content.json.h:161
 msgctxt "subtitle"
@@ -1075,7 +1075,7 @@ msgid ""
 " your screen will soon fill up and you'll need to try again. And just when "
 "you think you're quick enough, the game will speed up, so be ready for a "
 "challenge!"
-msgstr ""
+msgstr "Pokud chcete tuto hru vyhrát, je třeba, abyste byli rychlí! Měňte tvar kousků, které padají shora aby odpovídaly barvy a tím mizely. Pokud nedokážete, aby zmizelo dostatek barevných bloků, obrazovka se brzy zaplní a bude třeba zkusit to znovu. A právě když si myslíte, že jste dost rychlí, hra také zrychlí, takže buďte připraveni na výzvu!"
 
 #: content/Default/apps/content.json.h:163
 msgctxt "title"
@@ -1094,7 +1094,7 @@ msgid ""
 "you can, with this easy-to-use screenshot app. You can choose to take a shot"
 " of your entire screen, or of just one of your windows. That way, you can "
 "make sure to save just what you need and nothing more."
-msgstr ""
+msgstr "Přáli jste si někdy pořídit snímek vaší obrazovky a uložit si ho? Nyní můžete, pomocí této snadno použitelné aplikace pro pořizování snímků obrazovky. Můžete pořídit snímek celé obrazovky, nebo jen některého z oken. Takto si můžete uložit pouze to, co potřebujete a nic víc."
 
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
@@ -1114,7 +1114,7 @@ msgid ""
 " you’ll want to put in the time to really learn how to play, because you’ll "
 "be having so much fun. This engrossing and mind-enriching game is sure to "
 "entertain you, hour after hour."
-msgstr ""
+msgstr "Soliter je klasická karetní hra, která je zábavná pro lidi všech věků. Je jednoduché zjistit pravidla, ale zvládnutí hry vyžaduje čas. Naštěstí se opravdu budete chtít naučit jak hrát, protože se budete tak dobře bavit. Tato strhující a mysl obohacující hra vás jistě pobaví, hodinu za hodinou."
 
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
@@ -1134,17 +1134,17 @@ msgid ""
 "basic terminal app. With this modern terminal, you can see all of your "
 "commands written in different colors to help make sure you are typing them "
 "in correctly and to help you easily identify any mistakes you have made."
-msgstr ""
+msgstr "Pokud jste pokročilý uživatel a chcete si zobrazit informace o systému a spouštět aplikace bez použití myši, tak nyní můžete pomocí této základní terminálové aplikace. Prostřednictvím tohoto moderního terminálu je možné vidět veškeré své příkazy zapsané v různých barvách, což pomáhá zajistit, že je píšete správně a snadno tak identifikovat jakékoli chyby, které jste udělali."
 
 #: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Tetravex"
-msgstr ""
+msgstr "Tetravex"
 
 #: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
-msgstr ""
+msgstr "Závoďte proti času v číselné logické hře"
 
 #: content/Default/apps/content.json.h:174
 msgctxt "description"
@@ -1153,7 +1153,7 @@ msgid ""
 "game. You'll need to think carefully, but quickly, in order to finish the "
 "puzzle. You will be timed, so make sure to keep getting faster in order to "
 "beat your or your friends' best time!"
-msgstr ""
+msgstr "Pokuste se dát dohromady všechna stejná čísla na blocích a vyhrát tak tuto ošemetnou hru. Bude třeba pečlivě promýšlet, na druhou stranu ale být rychlí a dokončit tak hlavolam. Měří se čas, takže se snažte být rychlejší a porážet tak nejlepší časy své či svých přátel!"
 
 #: content/Default/apps/content.json.h:175
 msgctxt "title"
@@ -1173,7 +1173,7 @@ msgid ""
 "Other basics, like volume control and playlists, make your video-watching "
 "experience easy and fun. With this application you'll want to invite all of "
 "your family and friends to join you in watching all of your favorite movies!"
-msgstr ""
+msgstr "Sleduje rádi filmy? Udělejte to hned teď s touto video aplikací, která umožňuje shlížet filmy, které jste si stáhli, v režimu na celou obrazovku. Ostatní základní funkce, jako například ovládání hlasitosti a seznamy k přehrávání, usnadňují váš zážitek ze sledování a dělají ho zábavným. S touto aplikací budete chtít pozvat celou svou rodinu a přátele, aby se k vám připojili při sledování vašich oblíbených filmů!"
 
 #: content/Default/apps/content.json.h:178
 msgctxt "title"
@@ -1194,7 +1194,7 @@ msgid ""
 " level you need. If you can't find the answer to your questions - let us "
 "know! You help to make Endless better by giving us your feedback, and by "
 "asking us questions."
-msgstr ""
+msgstr "Měli jste otázky ohledně toho, jak používat Endless? Nyní  vás od odpovědí na vaše otázky dělí jen jedno kliknutí! Vytvořili jsme Centrum nápovědy pro jak nové, tak pokročilé uživatele, takže se můžete dozvědět jak Endless používat na úrovni, kterou potřebujete. Pokud nenalézáte odpověď na svou otázku, dejte nám vědět! Pomůžete udělat Endless lepší poskytnutím zpětné vazby a pokládáním dotazů nám."
 
 #: content/Default/apps/content.json.h:181
 msgctxt "title"
@@ -1213,7 +1213,7 @@ msgid ""
 " If you are a programmer or an aspiring programmer, you will need this app. "
 "With robust functionality and an easy-to-use interface, this text editor "
 "should be perfect for all of your text editing needs."
-msgstr ""
+msgstr "Tuto jednoduchou aplikaci použijte pro vytváření a upravování souborů, které potřebují vstup v neformátovaném textu. Pokud jste programátor nebo jím chcete být, budete tuto aplikaci potřebovat. S robustní funkčností a snadno použitelným rozhraním, by tento textový editor měl být perfektní pro všechny vaše potřeby upravování textu."
 
 #: content/Default/apps/content.json.h:184
 msgctxt "title"
@@ -1253,7 +1253,7 @@ msgid ""
 "create SVGs (Scalable Vector Graphics), which allow your graphics to remain "
 "high quality no matter what size they are. Create beautiful ads, brochures, "
 "presentations and artwork with this great free graphics app!"
-msgstr ""
+msgstr "Tato aplikace je pro mírně a velmi pokročilé grafiky, kteří potřebují tvořit a upravovat své grafiky a obrázky. Tato aplikace poskytuje pokročilé funkce a je srovnatelná s Adobe InDesign. Například, umožňuje vytvářet SVG soubory (Scalable Vector Graphics), které umožňuje, aby grafika měla pořád stejně vysokou kvalitu nezávisle na její velikosti. Vytvářejte nádherné reklamy, brožury, prezentace a umění s touto skvělou svobodnou grafickou aplikací!"
 
 #: content/Default/apps/content.json.h:190
 msgctxt "title"
@@ -1276,7 +1276,7 @@ msgid ""
 " of elements’ spectral lines, makes this app perfect for scientific "
 "discovery. You won’t believe how much you can learn with this beautiful, "
 "simple, and informative app."
-msgstr ""
+msgstr "Periodická tabulka prvků je jedním ze základních stavebních kamenů vědy a nyní ji máte po ruce. Tato aplikace obsahuje barevně kódovanou periodickou tabulku, která usnadňuje učení se o každém prvku a činí ho zábavnějším. Vyberte prvky a dozvíte se o nich základní informace, jako například jejich body tání, hmotnost a další. Komplexnější informace, jako vizualizace spektrálních čar prvku. Neuvěříte, kolik je možné se naučit s toto krásnou, jednoduchou a informativní aplikací."
 
 #: content/Default/apps/content.json.h:193
 msgctxt "title"
@@ -1296,7 +1296,7 @@ msgid ""
 " and beat levels, the speed of the game increases, providing a more and more"
 " exciting challenge. You won’t ever want to stop playing, and your friends "
 "and family, from kids to grandparents, will love the game, too!"
-msgstr ""
+msgstr "Pokud se vám líbí Pac-Man, pak se vám bude líbit i tato hra! Jezte tečky a získávejte tak body, ale nenechte se chytit duchy, nebo prohrajete. Jak se zlepšujete a porážíte úrovně, rychlost hry se zvyšuje, čímž poskytuje další a další vzrušující výzvu. Ani se vám nebude chtít přestat hrát, a vaši přátelé a rodina, od dětí po prarodiče, budou tuto hru mít také rádi!"
 
 #: content/Default/apps/content.json.h:196
 msgctxt "title"
@@ -1318,17 +1318,17 @@ msgid ""
 "should look like, and you can move your atoms around to make the correct "
 "molecule. This game requires strategy and quick thinking, and will teach you"
 " a ton!"
-msgstr ""
+msgstr "Pokud máte problémy s pojmy v chemii, nebo prostě hledáte způsob jak prohloubit své porozumění, pak jste nalezli tu pravou aplikaci, která vám pomůže! V této náročné hře budete vytvářet z atomů molekuly – skvělý způsob, jak se učit a zároveň se bavit! Obrazovka vám ukáže, jak by molekula měla vypadat a vy posouváte atomy, abyste vytvořili správnou molekulu. Hra vyžaduje strategii a rychlé myšlení a spoustu vás toho naučí!"
 
 #: content/Default/apps/content.json.h:199
 msgctxt "title"
 msgid "KBlocks"
-msgstr ""
+msgstr "KBlocks"
 
 #: content/Default/apps/content.json.h:200
 msgctxt "subtitle"
 msgid "Match blocks to destroy them and win"
-msgstr ""
+msgstr "Hledejte shodu bloků, tím je zničte a vyhrajte"
 
 #: content/Default/apps/content.json.h:201
 msgctxt "description"
@@ -1337,7 +1337,7 @@ msgid ""
 " one! Match up the block shapes in order to make them disappear and keep "
 "them from filling the screen. You will need to be really fast or else you'll"
 " lose, so pay attention and get ready for some very fast-actioned fun!"
-msgstr ""
+msgstr "Tato hra je podobná Tetrisu, takže pokud tu hru máte rádi, bude se vám tato líbit! Dávejte k sobě tvary z bloků, aby mizely a nevyplnily obrazovku. Bude třeba být velmi rychlí, nebo prohrajete, takže dávejte pozor a připravte se na velmi rychlou zábavnou akci!"
 
 #: content/Default/apps/content.json.h:202
 msgctxt "title"
@@ -1357,7 +1357,7 @@ msgid ""
 "the screen with walls, you’ll be able to move on to the next level. This "
 "game has an element of puzzle solving, and is fast-paced and entertaining. "
 "It requires quick thinking and fast reflexes!"
-msgstr ""
+msgstr "Toto je zábavná hra s jednoduchým cílem: je třeba postavit zdi a zmenšit tak oblast ve které se odrážející míček na obrazovce může pohybovat. Jakmile vyplníte většinu obrazovky stěnami, budete se moci přesunout do další úrovně. Tato hra má prvek řešení hlavolamu a je rychlá a zábavná. Vyžaduje rychlé myšlení a reflexy!"
 
 #: content/Default/apps/content.json.h:205
 msgctxt "title"
@@ -1379,7 +1379,7 @@ msgid ""
 "about fractions and percentages, and practice as much as you want. We "
 "encounter this kind of math almost every day, so your new skills will "
 "benefit you in unexpected ways!"
-msgstr ""
+msgstr "Jendou z nejošemetnějších částí matematiky, kterou používáme každý den, jsou zlomky a procenta. Nyní už nikdy nebudete muset hádat znovu výsledek! Tato aplikace obsahuje hry a cvičení pro zlepšení vašich dovedností, včetně aritmetiky, porovnávání, převádění a faktorizaci. Zjistěte vše o zlomcích a procentech a cvičte, kolik potřebujete. S tímto druhem matematiky se setkáváme téměř každý den, takže vaše nové dovednosti  vám budou k užitku v neočekávaných chvílích!"
 
 #: content/Default/apps/content.json.h:208
 msgctxt "title"
@@ -1400,7 +1400,7 @@ msgid ""
 "round is over! This is an easy and highly entertaining game you can play for"
 " just a little while, or for hours on end. It’s fun, fast, and great for "
 "many age levels."
-msgstr ""
+msgstr "V této rychlé hře je vaším úkolem vytvářet řady tří diamantů stejného typu. Jednoduše prohazujte diamanty s jejich sousedy a vytvářejte tak řady. A dělejte to rychle, abyste vytvořili co možná nejvíce řad, než kolo skončí! Toto je snadná a velmi zábavná hra, kterou můžete hrát chvilku, nebo celé hodiny. Je zábavná, rychlá a skvělá pro mnoho generací."
 
 #: content/Default/apps/content.json.h:211
 msgctxt "title"
@@ -1421,7 +1421,7 @@ msgid ""
 "knowledge! Guess capitals and flags or try to place national borders onto an"
 " empty map. Before you know it, you’ll know about every corner of the world "
 "and will have had a lot of fun learning it all!"
-msgstr ""
+msgstr "Kolik toho víte o světové geografii a politických záležitostech? Naučte se světovou geografii prostřednictvím poutavé hry. Zaprvé, podívejte se na mapu a naučte se něco o názvech, hlavních městech a vlajkách. Poté je čas na vyzkoušení vašich znalostí! Hádejte hlavní města a vlajky, nebo se pokuste umístit národní hranice na prázdnou mapu. Než se nadějete, budete vědět o každém koutu světa a při učení si užijete spoustu legrace!"
 
 #: content/Default/apps/content.json.h:214
 msgctxt "title"
@@ -1441,7 +1441,7 @@ msgid ""
 "objective, this game is sure to be a favorite. You'll find hundreds of "
 "levels for hours of gameplay, with new mazes at every level. Just don’t fall"
 " through any trapdoors!"
-msgstr ""
+msgstr "Vaši nepřátelé jsou vám v patách, jak se pohybujete bludišti při shromažďování zlata v této poutavé hře. Obsahuje obtížné hádanky a vzrušující úkol, tato hra určitě bude vaší oblíbenou. Naleznete stovky úrovní pro hodiny herního času, s novými bludišti v každé úrovni. Jenom nepropadněte žádným propadlem!"
 
 #: content/Default/apps/content.json.h:217
 msgctxt "title"
@@ -1463,7 +1463,7 @@ msgid ""
 "guess the whole word. As the players guess correctly, more and more of the "
 "word is shows, but if you make too many wrong guesses then you'll lose and "
 "have to start over with a new word!"
-msgstr ""
+msgstr "Procvičujte si svůj slovník zábavným způsobem! Pomocí této logické hry se naučíte nová slova a je něčím, co může hrát celá rodina dohromady. Jak se hraje? Počítač zvolí slovo a hráči se pokoušejí uhádnout jaké hádáním písmen jedno po druhém dokud neuhodnout celé slovo. Jak hráči uhádnout správně, je ze slova zobrazováno více a více, ale pokud uděláte příliš mnoho nesprávných odhadů, tak prohrajete a bude třeba začít znovu s novým slovem!"
 
 #: content/Default/apps/content.json.h:220
 msgctxt "title"
@@ -1473,7 +1473,7 @@ msgstr "Kigo"
 #: content/Default/apps/content.json.h:221
 msgctxt "subtitle"
 msgid "The ancient game of skill, updated for modern play"
-msgstr ""
+msgstr "Starověká hra dovedností, aktualizovaná pro moderní hraní"
 
 #: content/Default/apps/content.json.h:222
 msgctxt "description"
@@ -1485,7 +1485,7 @@ msgid ""
 "level you choose), and try to surround more of the board than your opponent."
 " If you like games like chess, then you'll love this great strategy game "
 "too!"
-msgstr ""
+msgstr "Založená na deskové hře pro dva hráče, oblíbené v Asii, tato aplikace má snadno naučitelná pravidla, ale vyžaduje velké množství strategie. Je to perfektní způsob jak si ukrátit čas a přitom procvičit svou mysl. Cíl je jednoduchý: přesunout své černé nebo bílé kameny na mřížce (velikost mřížky závisí na stupni obtížnosti, kterou zvolíte), a pokusit obklopit více z desky, než váš protihráč. Pokud máte hry jako šachy, pak se vám tato skvělá strategická hra bude líbit také!"
 
 #: content/Default/apps/content.json.h:223
 msgctxt "title"
@@ -1505,7 +1505,7 @@ msgid ""
 "stream of robots, but with your intelligence and handy teleportation device "
 "you can defeat them. Outsmart all of the killer robots to win and live to "
 "tell the tale!"
-msgstr ""
+msgstr "Jak uniknete vražedným robotům, usilujícím o destrukci? Zjistěte to v této jednoduché, zábavné hře. Můžete být přečísleni nekonečným proudem robotů, ale s vaší inteligencí a šikovným teleportačním zařízením je můžete porazit. Vyhrajte přechytračením všech vražedných robotů a žijte, abyste vyprávěli příběh!"
 
 #: content/Default/apps/content.json.h:226
 msgctxt "title"
@@ -1515,7 +1515,7 @@ msgstr "KJumpingCube"
 #: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
-msgstr ""
+msgstr "Vyviňte dobrou strategii a dobijte všechny čtverce"
 
 #: content/Default/apps/content.json.h:228
 msgctxt "description"
@@ -1530,7 +1530,7 @@ msgid ""
 "need to think carefully to control all the squares, and since dice can "
 "change hands very quickly, this game is sure to keep you engaged and on your"
 " toes! "
-msgstr ""
+msgstr "Procvičujte si své strategické myšlení s touto obtížnou hrou, založenou na kostce! Posouváte se klikáním na volný čtverec nebo na nějaký z těch, co už vlastníte. Pokud kliknete na volný čtverec, jeho barva se změní a zobrazí, že už ho teď vlastníte. Pokaždé, když kliknete na čtverec, jeho hodnota se zvýší o jednu. Jakmile má čtverec více bodů, než ty s ním bezprostředně sousedící, jeho body jsou distribuovány mezi ty sousední (body přeskočí). Pokud je sousední čtverec vlastněn vaším protivníkem, získáte vládu nad takovým čtvercem a všemi jeho body. Je třeba pečlivě přemýšlet a ovládat tak všechny čtverce a protože kostka může změnit ruce velmi rychle, tato hra vás určitě udrží napnuté!"
 
 #: content/Default/apps/content.json.h:229
 msgctxt "title"
@@ -1540,7 +1540,7 @@ msgstr "Kolor Lines"
 #: content/Default/apps/content.json.h:230
 msgctxt "subtitle"
 msgid "Line up balls of the same color to win"
-msgstr ""
+msgstr "Seřaďte kuličky stejné barvy a vyhrajte"
 
 #: content/Default/apps/content.json.h:231
 msgctxt "description"
@@ -1551,17 +1551,17 @@ msgid ""
 "more challenging than you’d expect, though, because new balls arrive after "
 "every move. It’s your job to get the game board as clear of balls as "
 "possible; you lose if it fills up completely!"
-msgstr ""
+msgstr "Tato hra je tak zábavná a chytlavá, že nebudete nikdy chtít přestat hrát. Koncept je jednoduchý: Shromážděte obarvené kuličky z herní desky do řádek pěti kuliček stejné barvy, což je odebere z desky. Je to náročnější, než byste předpokládali, ačkoli, protože nové kuličky dorazí po každém tahu. Je na vás, co nejvíc vyčistit herní desku od kuliček; pokud se zcela zaplní!"
 
 #: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Battleships"
-msgstr ""
+msgstr "Křižníky"
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
-msgstr ""
+msgstr "Smeťte své protivníky z vody"
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
@@ -1572,7 +1572,7 @@ msgid ""
 "against your computer. You'll take turns trying to guess where each others' "
 "ships are, and the first person to sink all of their enemies' ships wins. "
 "Arrr you ready for some great naval fun?"
-msgstr ""
+msgstr "Pokuste se uhádnout kde jsou lodě vašich nepřátel a smeťte je z vody než oni dostanou vás! Toto je zábavná strategická hra, která vyžaduje dva lidi. Můžete hrát proti kamarádovi, proti někomu jinému na Internetu nebo proti vašemu počítači. V rámci tahů se vzájemně pokoušíte uhodnout kde jsou lodě toho druhého. Jste připraveni na nějakou tu velkou námořní zábavu?"
 
 #: content/Default/apps/content.json.h:235
 msgctxt "title"
@@ -1593,7 +1593,7 @@ msgid ""
 "find a high score list, allowing you to find competitors! This app helps you"
 " understand how computer networks work, but more importantly, it’s an "
 "enjoyable and competitive game you’ll love to play."
-msgstr ""
+msgstr "Kdo by si pomyslel, že počítačové sítě mohou být zábavné? Bude třeba vytvořit správná propojení v co nejméně tazích a tím vyhrát – takže se připravte na přepojování kabelů a rychle úkol vyřešte! Jakmile uspějete, naleznete seznam nejvyšších skóre, což vám umožní najít soupeře! Tato aplikace pomáhá porozumět tomu, jak počítačové sítě fungují, ale ještě důležitější, je to příjemná a soupeřivá hra, kterou budete rádi hrát."
 
 #: content/Default/apps/content.json.h:238
 msgctxt "title"
@@ -1613,7 +1613,7 @@ msgid ""
 "marbles you clear at once, the higher your score will be, so think "
 "strategically about all of your moves! What may look easy at first is a true"
 " challenge. A really fun challenge!"
-msgstr ""
+msgstr "Ukažte své schopnosti hledání vzorců v této návykové hře. Vyhledejte shodu všech stejně vybarvených míčků a vyhrajte vyčištěním klávesnice, ale pamatujte: čím více kuliček vyčistíte naráz, tím vyšší bude vaše skóre, takže myslete strategicky nad všemi svými tahy! Co může zprvu vypadat snadné, je pravá výzva. Skutečně zábavná výzva!"
 
 #: content/Default/apps/content.json.h:241
 msgctxt "title"
@@ -1623,7 +1623,7 @@ msgstr "KSquares"
 #: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
-msgstr ""
+msgstr "Propojte tečky v této náročné strategické hře"
 
 #: content/Default/apps/content.json.h:243
 msgctxt "description"
@@ -1634,17 +1634,17 @@ msgid ""
 "while trying to block your opponents’ squares. This game requires "
 "geometrical thinking as well as strategy, and is sure to provide hours of "
 "entertainment. Be careful – you just might become addicted!"
-msgstr ""
+msgstr "Založeno na oblíbené staré hře, tato zábavná aplikace vám umožní procvičit si mysl a řešit hádanky. Cílem je dokončit více čtverců na mřížce, než váš protivník. V tazích kreslete čáry mezi tečkami, budete vytvářet čtverce, zatímco se pokoušíte blokovat čtverce svých protivníků. Tato hra vyžaduje geometrické myšlení a strategii a zajisté poskytne hodiny zábavy. Buďte opatrní – prostě byste se mohli stát závislími!"
 
 #: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "Sudoku"
-msgstr ""
+msgstr "Sudoku"
 
 #: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
-msgstr ""
+msgstr "Náročná číselná logická hra"
 
 #: content/Default/apps/content.json.h:246
 msgctxt "description"
@@ -1656,7 +1656,7 @@ msgid ""
 "print out, and the ability to help you solve any Sudoku puzzle so that you "
 "can learn how to solve it on your own. Whether you are completely new to "
 "Sudoku, or are an experienced player, you'll love this app!"
-msgstr ""
+msgstr "Jste na logické hry lepší než ostatní? Zjistěte to hraním této zábavné logické hry s čísly! Je možné hrát samostatně, nechat si pomáhat od dalších lidí, nebo vyzvat své přátele a rodinu, aby se vidělo, kdo vyřeší hádanku první. Tato aplikace má speciální funkce, jako schopnost vytvářet hry, které si můžete vytisknout a schopnost pomoci vám řešit jak vyřešit jakékoli Sudoku takže se můžete naučit, jak je vyřešit sami. Ať už jste v Sudoku úplně noví, nebo zkušení luštitelé, bude se vám tato aplikace líbit!"
 
 #: content/Default/apps/content.json.h:247
 msgctxt "title"
@@ -1676,17 +1676,17 @@ msgid ""
 "onto a potato, making funny faces with such touches as mustaches, elf ears, "
 "blonde ponytails, and bowties. There is no objective to this game except "
 "lots of laughter. Make the goofiest face you can!"
-msgstr ""
+msgstr "Toto je nenáročná hra pro děti a jejich rodiče, kterou mohou hrát společně. Založena na hračce Hlava pana Brambory, umožňuje přetahovat prvky obličeje na bramboru a dělat tak zábavné obličeje s takovými detaily, jako jsou kníry, elfí uši, blonďaté oháňky poníků a motýly. V této hře není žádný jiný cíl krom spousty smíchu. Vytvořte nejhloupější obličej, jaký svedete!"
 
 #: content/Default/apps/content.json.h:250
 msgctxt "title"
 msgid "Kubrick"
-msgstr ""
+msgstr "Kubrick"
 
 #: content/Default/apps/content.json.h:251
 msgctxt "subtitle"
 msgid "Like Rubik's Cube - create solid color sides to win"
-msgstr ""
+msgstr "Jako Rubikova kostka – dosáhněte jednolitých barevných stran a vyhrajte"
 
 #: content/Default/apps/content.json.h:252
 msgctxt "description"
@@ -1698,7 +1698,7 @@ msgid ""
 "offer their own special challenges. The game also includes demonstrations of"
 " cool solution moves, so you can follow along with the experts, and you can "
 "even design your very own challenge!"
-msgstr ""
+msgstr "Tato hra na přemýšlení má mnoho možností jak zaměstnávat svůj mozek! Vytvořeno podle oblíbené Rubikovy kostky, tato hra je 3D zážitek, která po vás chce otáčet malé kostky ve velké kostce a pokusit se udělat každou ze stran kostky stejnolitou barvou. Malé, větší a různě tvarované objekty poskytují své vlastní speciální nároky. Hra také obsahuje demonstrace tahů skvělých řešení, takže můžete následovat experty a můžete dokonce navrhnout svou vlastní výzvu!"
 
 #: content/Default/apps/content.json.h:253
 msgctxt "title"
@@ -1719,7 +1719,7 @@ msgid ""
 "vocabulary words. This app make memorization easy and fun with interactive "
 "flashcards and quizzes that will help you test your knowledge and keep "
 "learning all you want."
-msgstr ""
+msgstr "Učení se novým slovům je skvělý způsob jak mluvit a psát srozumitelněji, ale mnohdy to může být těžké. Použití kartiček může velmi pomoci, ať už studujete cizí jazyk nebo se pokoušíte zapamatovat si nová slova ze slovníku. Tato aplikace dělá zapamatovávání se snadné a zábavné pomocí interaktivních kartiček a kvízů, které vám pomohou vyzkoušet si svou znalost a pokračovat v učení se všemu, čemu chcete."
 
 #: content/Default/apps/content.json.h:256
 msgctxt "title"
@@ -1740,7 +1740,7 @@ msgid ""
 "us answer. This app will give you access to all sorts of maps from all over "
 "the world and from different ages, so that you can even see how the world "
 "has changed over time!"
-msgstr ""
+msgstr "Kde žijí hráči z FC Barcelona nebo Real Madrid? Jak daleko jste od země, kde se volně pohybují sloni a lvi? Jak blízko je nejbližší sopka? Toto vše jsou otázky, které právě mapy mohou pomoci zodpovědět. Tato aplikace vám zpřístupní všechny druhy map z celého světa a z různých dob, takže dokonce můžete vidět jak se svět napříč časem měnil!"
 
 #: content/Default/apps/content.json.h:259
 msgctxt "title"
@@ -1760,7 +1760,7 @@ msgid ""
 "Palapeli has a more real-life feel, with pieces that are freely movable. "
 "Choose your puzzle and start putting together the pieces. This game is fun, "
 "rewarding, and as true to life as can be."
-msgstr ""
+msgstr "Pokud jste fanouškem puzzlí, bude se vám tato hra líbit. Na rozdíl od ostatních her tohoto typu není nezbytné zarovnávat dílky do mřížky. Namísto toho, Palapeli poskytuje více přirozenější dojem, s dílky, se kterými se nechá volně pohybovat. Zvolte své puzzle a začněte skládat obrázky dohromady. Tato hra je zábavná, odměňující a tak skutečná, jak může být."
 
 #: content/Default/apps/content.json.h:262
 msgctxt "title"
@@ -1782,7 +1782,7 @@ msgid ""
 "out to learn something new on your own, you'll find what you're looking for "
 "here. Learn difficult subjects in a way that makes sense to you, and see how"
 " this app and these videos can help you succeed in school and in life!"
-msgstr ""
+msgstr "Učení se je snadné a zábavné s video kurzy předmětů, jako je matematika, biologie, chemie, fyzika a mnoho dalšího! Studenti z celého světa tato videa úspěšně používají pro proniknutí do obtížných témat zábavnou a povzbuzující formou. Ať už potřebujete další pomoc se školními povinnostmi nebo se chcete naučit něco nového sami od sebe, naleznete zde to, co hledáte. Naučte se složitá témata způsobem, který vám dává smysl a podívejte se, jak vám tato aplikace a tato videa mohou pomoci k úspěchu ve škole a životě! "
 
 #: content/Default/apps/content.json.h:265
 msgctxt "title"
@@ -1803,7 +1803,7 @@ msgid ""
 "the next level. This challenging game will also teach you some basic "
 "physics, but you’ll be having so much fun that you’ll hardly know you’re "
 "learning."
-msgstr ""
+msgstr "Kdo by si myslel, že fyzikální zákony mohou být tak zábavné? S touto aplikací můžete řešit hádanky kreslením objektům jako jsou kladky, páky a rampy. Pokud váš výtvor bude fungovat správně, dokončíte úkol takové úrovně a přesunete se na další. Tato náročná hra vás také naučí něco ze základní fyziky, ale také si užijete tolik zábavy, že stěží budete vědět, že se učíte."
 
 #: content/Default/apps/content.json.h:268
 msgctxt "title"
@@ -1826,7 +1826,7 @@ msgid ""
 "has a multiplayer option, allows you to choose from a variety of weapons to "
 "fight, and even allows you to customize your own spaceship. You'll want to "
 "keep playing until you succeed in returning peace to your planet!"
-msgstr ""
+msgstr "V roce 3547, se civilizace napříč galaxií na svých planetách konečně uklidnily Vaši vlastní lidé žijí v míru a harmonii s životním prostředím. Ale mimo vaši poklidnou planetu zuří velká válka. Jste slavný bojovník, který je znám pro svou čest a um a máte ochránit svou planetu před závistivými sousedy, kteří ji chtějí zničit! Tato hra má možnost hry více hráčů, umožňuje volit z různých zbraní a dokonce umožňuje přizpůsobit si svou loď. Budete chtít pokračovat v hraní dokud neuspějete s návratem míru na vaší planetu!"
 
 #: content/Default/apps/content.json.h:271
 msgctxt "title"
@@ -1846,7 +1846,7 @@ msgid ""
 "to see who has what it takes to rule this wild fantasy world where magic "
 "makes you even more powerful and you can conquer whatever part of the realm "
 "you desire!"
-msgstr ""
+msgstr "Králové, hrady a draci – vše se spojuje v této úžasné strategické hře, která vás přiměje chtít vládnout své vlastní civilizaci. Hrajte proti svým přátelům, aby se vidělo, kdo co obnáší vládnout tomuto divokému fantazy světu, kde vás magie činí ještě mocnějšími a můžete dobít jakoukoli část říše, kterou chcete!"
 
 #: content/Default/apps/content.json.h:274
 msgctxt "title"
@@ -1866,7 +1866,7 @@ msgid ""
 "bloodshed. Use different styles of weapons in contests like Capture the "
 "Flag, Deathmatch, Team Deathmatch, Last Man Standing, and Tournament. Each "
 "of these modes offers its own form of excitement as you battle your enemies!"
-msgstr ""
+msgstr "Pokud vás baví bitvy v arénách, pak se vám tato aplikace bude líbit. Ale buďte varováni – toto je hra vážně o dovednostech a krveprolití. Používejte různé styly zbraní v zápasech jako zajmutí vlajky, smrtící zápas, týmový smrtící zápas, poslední přeživší a turnaj. Každý z těchto režimů poskytuje svou vlastní formu vzrušení, jak bojujete s nepřáteli!"
 
 #: content/Default/apps/content.json.h:277
 msgctxt "title"
@@ -1889,7 +1889,7 @@ msgid ""
 " can easily change any step and create the configurable designs you desire. "
 "You'll need to have a deep understanding of how to create CAD models, and if"
 " you do, this app is a great way to build the 3D models you need."
-msgstr ""
+msgstr "Tato aplikace je vytvořena pro programátory, kteří chtějí vytvářet 3D CAD modely. Aplikace se nezaměřuje na umělecké hledisko 3D modelování ale namísto toho na CAD prvky, takže se nejvíce hodí pro lidi, kteří chtějí vytvářet například strojní součásti, namísto něčeho jako 3D modely pro filmy. Jako programátor máte plnou kontrolu nad procesem modelování, takže můžete snadno změnit jakýkoli krok a vytvářet nastavovatelné návrhy dle libosti. Budete potřebovat hluboké porozumění toho, jak vytvářet CAD modely a pokud je máte, tato aplikace je skvělým způsobem jak vytvářet 3D modely, které potřebujete."
 
 #: content/Default/apps/content.json.h:280
 msgctxt "title"
@@ -1909,7 +1909,7 @@ msgid ""
 "freezing waters? With lots of levels and adorable characters, this is sure "
 "to become your new favorite game. Watch your penguins use the tools you give"
 " them in order to avoid an untimely end."
-msgstr ""
+msgstr "Tučňáci jsou jedni z nejroztomilejších zvířat, takže kdo by nechtěl zahrát zábavnou hru ve které by tato chránil před pádem z útesů do mrznoucích vod? S mnoha úrovněmi a rozkošnými postavami, toto se určitě stane vaší novou oblíbenou hrou. Sledujte své tučňáky jak používají nástroje, které jim dáte aby se vyhnuli předčasnému konci."
 
 #: content/Default/apps/content.json.h:283
 msgctxt "title"
@@ -1933,7 +1933,7 @@ msgid ""
 "originally designed for students who are 8 - 13 years old, teachers have "
 "found that this app has helped students of all ages, from young learners to "
 "college-aged students alike!"
-msgstr ""
+msgstr "Tato aplikace je skvělým způsobem, jak se děti naučí programovat, zatímco se učí ostatní disciplíny a baví se! Vytvářejte interaktivní kresby, příběhy, modely a hry s rozhraním typu táhni a pusť, které pomáhá bránit syntaktickým chybám, které jsou pro nováčky často frustrující. Tato aplikace podporuje zvědavost a zkoumání a je možné ji použít pro vytvoření čehokoli od jednoduché kresby po komplexní modely fyzického světa. Byť je původně navržena pro studenty ve věku 8 až 13 let, učitelé zjistili, že tato aplikace pomohla studentům všech věkových kategorií – od malých žáčků pro středoškoláky!"
 
 #: content/Default/apps/content.json.h:286
 msgctxt "title"
@@ -1955,7 +1955,7 @@ msgid ""
 "from your desktop. This application shows you a night sky that is so "
 "realistic, it matches the one you see above you. Set your location "
 "coordinates and learn about the stars above you!"
-msgstr ""
+msgstr "Objevte noční oblohu s touto aplikací. S katalogem více než 600.000 hvězd, konstelací z více než tuctu kultur a mnohými dalšími funkcemi, tato aplikace vám umožní vidět a poznat hvězdy přímo z vašeho počítače. Tato aplikace vám ukáže noční oblohu tak věrně, že odpovídá té, kterou vidíte nad sebou. Nastavte si souřadnice své polohy a poznejte hvězdy nad vámi!"
 
 #: content/Default/apps/content.json.h:289
 msgctxt "title"
@@ -1975,7 +1975,7 @@ msgid ""
 "physical limit if you want to have a chance of finishing the difficult "
 "courses. Learn about science and practice your racing skills at the same "
 "time in this fast-paced, exciting test of speed!"
-msgstr ""
+msgstr "Máte rádi motorky? Pak si oblíbíte tuto závodní hru, ve které důležitou roli ve vítězení hraje fyzika! Pokud chcete mít šanci na dokončení obtížných tras, je třeba ovládat svou motorku k jejím fyzickým limitům. Zjistěte něco o vědě a zároveň si vyzkoušejte své jezdecké dovednost v tomto rychlém, vzrušujícím testu rychlosti!"
 
 #: content/Default/apps/content.json.h:292
 msgctxt "title"
@@ -1996,7 +1996,7 @@ msgid ""
 "heart is sure to love it! Use stamps, play with shapes, or draw freehand to "
 "create something special. If your child loves drawing and creating artwork, "
 "then download this app and get them started on their next masterpiece!"
-msgstr ""
+msgstr "Vytvářejte nádherné umění s touto zábavnou a snadno použitelnou aplikací! Tučňák Tux pomůže vést děti aby věděli, jak použít veškeré z nástrojů. Doporučený věk pro použití této aplikace je 3-12 let, ale kdokoli s mladou myslí si ji určitě oblíbí! Používejte razítka, hrajte si s tvary, nebo kreslete od ruky a vytvořte něco speciálního. Pokud vaše dítě rádo kreslí a tvoří, pak si tuto aplikaci stáhněte a nechte je začít pracovat na jejich příštím mistrovském díle!"
 
 #: content/Default/apps/content.json.h:295
 msgctxt "title"
@@ -2016,7 +2016,7 @@ msgid ""
 "protocols. If you're having trouble viewing your videos on other multimedia "
 "players, try VLC since it has some of the best video playback support "
 "abilities out there."
-msgstr ""
+msgstr "VLC je svobodný a open source přehrávač multimédií, který přehraje většinu multimediálních souborů, stejně tak DVD/VCD videodisků, audio CD a různých internetových streamovacích protokolů. Pokud máte problémy s přehráváním videí v ostatních přehrávačích multimédií, zkuste VLC, protože má některé z nejlepších schopností podpory přehrávání videí vůbec."
 
 #: content/Default/apps/content.json.h:298
 msgctxt "title"
@@ -2026,7 +2026,7 @@ msgstr "Wesnoth"
 #: content/Default/apps/content.json.h:299
 msgctxt "subtitle"
 msgid "Fantasy turn-based strategy game"
-msgstr "Fantazijní tahová strategická hra"
+msgstr "Fantazy tahová strategická hra"
 
 #: content/Default/apps/content.json.h:300
 msgctxt "description"
@@ -2035,7 +2035,7 @@ msgid ""
 "themed strategy game. Each player controls an army of their own design and "
 "uses it to seek dominance. An exciting blend of history, fantasy, and "
 "strategy, this game is sure to reveal a great leader inside you."
-msgstr ""
+msgstr "Bitva o vládu nad územím, vesnicemi a zdroji ve strategické hře v hávu fantazy. Každý hráč ovládá armádu, kterou si navrhne a pomocí ní se snaží o nadvládu. Vzrušujícím mixem historie, fantazy a strategie tato hra určitě odhalí skvělého vůdce ve vás."
 
 #: content/Default/apps/content.json.h:301
 msgctxt "title"
@@ -2056,7 +2056,7 @@ msgid ""
 "seamlessly. You can then arrange them into albums, edit them for maximum "
 "beauty and effect, and of course, display them on your favorite social "
 "networks, like Facebook."
-msgstr ""
+msgstr "Všichni máme rádi obrázky z našich každodenních životů – a zvláště si je stahovat na své počítače, abychom je mohli upravovat a sdílet je na sociálních sítích. Tato aplikace umožňuje hladké importování fotek z digitálních fotoaparátů nebo telefonů. Fotky je pak možné uspořádávat do alb, upravovat je aby byly co nejhezčí a efektní a samozřejmě je ukazovat na vámi oblíbených sociálních sítích, jako např. Facebooku."
 
 #: content/Default/apps/content.json.h:304
 msgctxt "title"
@@ -2074,7 +2074,7 @@ msgid ""
 "Now you can manage your own computer, or a family member's, without being in"
 " front of it. This is great for people who want to help someone troubleshoot"
 " their computer from afar, or manage their computer from another computer."
-msgstr ""
+msgstr "Nyní můžete spravovat svůj počítač nebo ty členů rodiny, i když u nich nesedíte. Toto je skvělé pro lidi, kteří chtějí někomu pomoct s jejich počítačem na dálku, nebo spravovat svůj počítač z jiného počítače."
 
 #: content/folders.json.h:4
 msgctxt "folderName"
@@ -2089,7 +2089,7 @@ msgstr "Hry"
 #: content/folders.json.h:6
 msgctxt "folderName"
 msgid "Games to Hack"
-msgstr ""
+msgstr "Hry k Hack"
 
 #: content/folders.json.h:7
 msgctxt "folderName"
