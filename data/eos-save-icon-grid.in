@@ -150,6 +150,15 @@ const generateJsonAndDesktops = function(locale) {
             const item = workspace[key].deepUnpack();
             const isFolder = !key.endsWith('.desktop');
 
+            // Try and preserve the position of the icon within the desktop.
+            // This may introduce holes into the array, as items may be
+            // listed in the settings out of position order.
+            let position = -1;
+            try {
+                position = item['position'].unpack() + workspaceItemOffset;
+            } catch {}
+
+            // Write out additional configuration for folders.
             if (isFolder) {
                 const folderId = key + '.directory';
                 const folderPath = FOLDER_PATH + key + '/';
@@ -158,15 +167,8 @@ const generateJsonAndDesktops = function(locale) {
                 filesWritten.push(writeDirectoryDesktop(key, folderSettings.get_value('name').unpack(), locale));
 
                 jsonOut[folderId] = folderSettings.get_value('apps').deepUnpack();
+                jsonOut['desktop'][position] = folderId;
             } else {
-                // Try and preserve the position of the icon within the desktop.
-                // This may introduce holes into the array, as items may be
-                // listed in the settings out of position order.
-                let position = -1;
-                try {
-                    position = item['position'].unpack() + workspaceItemOffset;
-                } catch {}
-
                 jsonOut['desktop'][position] = key;
             }
         }
