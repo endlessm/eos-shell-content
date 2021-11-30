@@ -95,13 +95,13 @@ const getLocale = function(args) {
 }
 
 const writeDirectoryDesktop = function(directoryId, name) {
-    // Save a .desktop file for the given icon grid directory. This contains
-    // metadata for the directory. It should be copied into
-    // `/usr/local/share/desktop-directories` on the image, typically using a
-    // hook like
+    // Save a .directory file for the given icon grid directory. This is a
+    // desktop file which contains metadata for the directory. It should be
+    // copied into `/usr/local/share/desktop-directories` on the image,
+    // typically using a hook like
     // https://github.com/endlessm/endless-image-config/blob/c03674a7/hooks/image/51-hack-desktop-folders.chroot
 
-    const path = GLib.build_filenamev([SAVE_PATH, directoryId + '.desktop']);
+    const path = GLib.build_filenamev([SAVE_PATH, directoryId + '.directory']);
 
     const contents = `[Desktop Entry]
 Version=1.0
