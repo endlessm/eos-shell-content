@@ -35,7 +35,7 @@ const selectLocale = function() {
         files = dir.enumerate_children('standard::name,standard::type',
                                        Gio.FileQueryInfoFlags.NONE, null);
     } catch (e) {
-        logError(e, 'Missing language configuration files in ' + path);
+        logError(e, 'Missing language configuration files in ' + dir.get_path());
         return null;
     }
 
