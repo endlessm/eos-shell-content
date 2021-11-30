@@ -75,6 +75,10 @@ const selectLocale = function() {
         // User canceled
         locale = null;
     }
+
+    if (locale == 'default')
+        locale = 'C';
+
     return locale;
 }
     
