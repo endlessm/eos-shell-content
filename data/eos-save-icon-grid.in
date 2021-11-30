@@ -70,7 +70,7 @@ const selectLocale = function() {
         // User hit OK
         let selection = response[SELECTION];
         // Convert to string and trim the new line
-        locale = String(selection).trim();
+        locale = ByteArray.toString(selection).trim();
     } else {
         // User canceled
         locale = null;
