@@ -198,6 +198,12 @@ if (locale) {
 
     print('Wrote the following files:');
     filesWritten.forEach(value => print(` - ${value}`));
+
+    print('Directory files should be installed on the image in ' +
+          '/usr/local/share/desktop-directories using a hook in ' +
+          'endless-image-config. Some of the directories may already be ' +
+          'installed on the image; those .directory files should be ' +
+          'preferred over these new ones.')
 } else {
     print('Locale could not be determined');
 }
