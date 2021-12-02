@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the eos-shell-content package.
 # 
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2021
 # Stefan Schroeder <ondekoza@gmail.com>, 2016
 # Thomas Siegele <tsiegele@gmx.at>, 2019
 # XorgMC <xorgmc@gmail.com>, 2018
@@ -10,9 +11,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eos-shell-content\n"
 "Report-Msgid-Bugs-To: https://www.transifex.com/projects/p/eos-shell-content/\n"
-"POT-Creation-Date: 2021-10-28 06:11+0000\n"
-"PO-Revision-Date: 2021-09-15 12:11+0000\n"
-"Last-Translator: endlessmobile_build <admin@endlessos.org>\n"
+"POT-Creation-Date: 2021-12-02 07:13+0000\n"
+"PO-Revision-Date: 2021-11-29 21:04+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (http://www.transifex.com/endless-os/eos-shell-content/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -213,7 +214,7 @@ msgstr "Lachen ist die beste Medizin"
 msgctxt "description"
 msgid ""
 "These funny videos will help you share a good laugh with the whole family. "
-msgstr ""
+msgstr "Mit diesen lustigen Videos können Sie mit der ganzen Familie lachen."
 
 #: content/Default/apps/content.json.h:34
 msgctxt "title"
@@ -256,7 +257,7 @@ msgstr "Bewegung"
 #: content/Default/apps/content.json.h:41
 msgctxt "subtitle"
 msgid "Find videos about your favorite sport"
-msgstr ""
+msgstr "Finde Videos über deinen Lieblingssport"
 
 #: content/Default/apps/content.json.h:42
 msgctxt "description"
@@ -287,12 +288,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:46
 msgctxt "title"
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 #: content/Default/apps/content.json.h:47
 msgctxt "subtitle"
 msgid "Google's popular web browser"
-msgstr ""
+msgstr "Googles beliebter Webbrowser"
 
 #: content/Default/apps/content.json.h:48
 msgctxt "description"
@@ -330,7 +331,7 @@ msgstr "Minecraft"
 #: content/Default/apps/content.json.h:53
 msgctxt "subtitle"
 msgid "Create your own world in one of the most popular video games"
-msgstr ""
+msgstr "Erschaffe deine eigene Welt in einem der beliebtesten Videospiele"
 
 #: content/Default/apps/content.json.h:54
 msgctxt "description"
@@ -347,12 +348,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:55
 msgctxt "title"
 msgid "Slack"
-msgstr ""
+msgstr "Slack"
 
 #: content/Default/apps/content.json.h:56
 msgctxt "subtitle"
 msgid "Chat with your team"
-msgstr ""
+msgstr "Chat mit deinem Team"
 
 #: content/Default/apps/content.json.h:57
 msgctxt "description"
@@ -735,7 +736,7 @@ msgstr ""
 #: content/Default/apps/content.json.h:112
 msgctxt "title"
 msgid "FrostWire"
-msgstr ""
+msgstr "FrostWire"
 
 #: content/Default/apps/content.json.h:113
 msgctxt "subtitle"
@@ -1101,12 +1102,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:166
 msgctxt "title"
 msgid "Solitaire"
-msgstr ""
+msgstr "Solitär"
 
 #: content/Default/apps/content.json.h:167
 msgctxt "subtitle"
 msgid "The classic single player card game"
-msgstr ""
+msgstr "Das klassische Kartenspiel für einen Spieler"
 
 #: content/Default/apps/content.json.h:168
 msgctxt "description"
@@ -1121,12 +1122,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:169
 msgctxt "title"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: content/Default/apps/content.json.h:170
 msgctxt "subtitle"
 msgid "Use the command line"
-msgstr ""
+msgstr "Benutze die Befehlszeile"
 
 #: content/Default/apps/content.json.h:171
 msgctxt "description"
@@ -1141,12 +1142,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:172
 msgctxt "title"
 msgid "Tetravex"
-msgstr ""
+msgstr "Tetravex"
 
 #: content/Default/apps/content.json.h:173
 msgctxt "subtitle"
 msgid "Race the clock in a numerical puzzle game"
-msgstr ""
+msgstr "Wettlauf gegen die Zeit in einem numerischen Puzzlespiel"
 
 #: content/Default/apps/content.json.h:174
 msgctxt "description"
@@ -1165,7 +1166,7 @@ msgstr "Videos"
 #: content/Default/apps/content.json.h:176
 msgctxt "subtitle"
 msgid "Full function video and media player"
-msgstr ""
+msgstr "Voll funktionsfähiger Video- und Medienabspieler"
 
 #: content/Default/apps/content.json.h:177
 msgctxt "description"
@@ -1201,12 +1202,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:181
 msgctxt "title"
 msgid "Gedit"
-msgstr ""
+msgstr "Gedit"
 
 #: content/Default/apps/content.json.h:182
 msgctxt "subtitle"
 msgid "A simple text editor for all of your text editing needs"
-msgstr ""
+msgstr "Ein einfacher Texteditor für alle deine Bedürfnisse bei der Textbearbeitung"
 
 #: content/Default/apps/content.json.h:183
 msgctxt "description"
@@ -1239,12 +1240,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:187
 msgctxt "title"
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: content/Default/apps/content.json.h:188
 msgctxt "subtitle"
 msgid "An advanced graphic design tool"
-msgstr ""
+msgstr "Ein fortgeschrittenes Grafikdesign-Werkzeug"
 
 #: content/Default/apps/content.json.h:189
 msgctxt "description"
@@ -1260,12 +1261,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:190
 msgctxt "title"
 msgid "Kalzium"
-msgstr ""
+msgstr "Kalzium"
 
 #: content/Default/apps/content.json.h:191
 msgctxt "subtitle"
 msgid "A fun interactive periodic table of elements"
-msgstr ""
+msgstr "Ein unterhaltsames interaktives Periodensystem der Elemente"
 
 #: content/Default/apps/content.json.h:192
 msgctxt "description"
@@ -1283,12 +1284,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:193
 msgctxt "title"
 msgid "Kapman"
-msgstr ""
+msgstr "Kapman"
 
 #: content/Default/apps/content.json.h:194
 msgctxt "subtitle"
 msgid "The classic game of ghosts and mazes"
-msgstr ""
+msgstr "Das klassische Spiel mit Geistern und Labyrinthen"
 
 #: content/Default/apps/content.json.h:195
 msgctxt "description"
@@ -1303,12 +1304,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:196
 msgctxt "title"
 msgid "KAtomic"
-msgstr ""
+msgstr "KAtomic"
 
 #: content/Default/apps/content.json.h:197
 msgctxt "subtitle"
 msgid "A fun way to learn chemistry"
-msgstr ""
+msgstr "Chemie auf spielerische Art und Weise lernen"
 
 #: content/Default/apps/content.json.h:198
 msgctxt "description"
@@ -1391,7 +1392,7 @@ msgstr "KDiamond"
 #: content/Default/apps/content.json.h:209
 msgctxt "subtitle"
 msgid "Create lines of three diamonds"
-msgstr ""
+msgstr "Bilde Linien aus drei Rauten"
 
 #: content/Default/apps/content.json.h:210
 msgctxt "description"
@@ -1412,7 +1413,7 @@ msgstr "KGeography"
 #: content/Default/apps/content.json.h:212
 msgctxt "subtitle"
 msgid "Become a geography genius while having fun"
-msgstr ""
+msgstr "Werde mit viel Spaß zum Geografie-Genie"
 
 #: content/Default/apps/content.json.h:213
 msgctxt "description"
@@ -1428,12 +1429,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:214
 msgctxt "title"
 msgid "KGoldrunner"
-msgstr ""
+msgstr "KGoldrunner"
 
 #: content/Default/apps/content.json.h:215
 msgctxt "subtitle"
 msgid "Look for treasure and hide from enemies"
-msgstr ""
+msgstr "Suche nach Schätzen und verstecke dich vor Feinden"
 
 #: content/Default/apps/content.json.h:216
 msgctxt "description"
@@ -1448,12 +1449,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:217
 msgctxt "title"
 msgid "KHangMan"
-msgstr ""
+msgstr "KHangMan"
 
 #: content/Default/apps/content.json.h:218
 msgctxt "subtitle"
 msgid "One of the most fun word games on earth"
-msgstr ""
+msgstr "Eines der lustigsten Wortspiele der Welt"
 
 #: content/Default/apps/content.json.h:219
 msgctxt "description"
@@ -1517,7 +1518,7 @@ msgstr "KJumpingCube"
 #: content/Default/apps/content.json.h:227
 msgctxt "subtitle"
 msgid "Develop a good strategy to conquer all the squares"
-msgstr ""
+msgstr "Entwickle eine gute Strategie, um alle Quadrate zu erobern"
 
 #: content/Default/apps/content.json.h:228
 msgctxt "description"
@@ -1558,12 +1559,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:232
 msgctxt "title"
 msgid "Battleships"
-msgstr ""
+msgstr "Battleships"
 
 #: content/Default/apps/content.json.h:233
 msgctxt "subtitle"
 msgid "Blow your opponents out of the water"
-msgstr ""
+msgstr "Blase deine Gegner aus dem Wasser"
 
 #: content/Default/apps/content.json.h:234
 msgctxt "description"
@@ -1579,12 +1580,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:235
 msgctxt "title"
 msgid "KNetwalk"
-msgstr ""
+msgstr "KNetwalk"
 
 #: content/Default/apps/content.json.h:236
 msgctxt "subtitle"
 msgid "Make the right cable connections and win"
-msgstr ""
+msgstr "Stelle die richtigen Kabelverbindungen her und gewinne"
 
 #: content/Default/apps/content.json.h:237
 msgctxt "description"
@@ -1620,12 +1621,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:241
 msgctxt "title"
 msgid "KSquares"
-msgstr ""
+msgstr "KSquares"
 
 #: content/Default/apps/content.json.h:242
 msgctxt "subtitle"
 msgid "Connect the dots in this challenging strategy game"
-msgstr ""
+msgstr "Verbinde die Punkte in diesem herausfordernden Strategiespiel"
 
 #: content/Default/apps/content.json.h:243
 msgctxt "description"
@@ -1641,12 +1642,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:244
 msgctxt "title"
 msgid "Sudoku"
-msgstr ""
+msgstr "Sudoku"
 
 #: content/Default/apps/content.json.h:245
 msgctxt "subtitle"
 msgid "A challenging numerical puzzle game"
-msgstr ""
+msgstr "Ein herausforderndes numerisches Puzzlespiel"
 
 #: content/Default/apps/content.json.h:246
 msgctxt "description"
@@ -1705,12 +1706,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:253
 msgctxt "title"
 msgid "KWordQuiz"
-msgstr ""
+msgstr "KWordQuiz"
 
 #: content/Default/apps/content.json.h:254
 msgctxt "subtitle"
 msgid "Grow your vocabulary and test your learning"
-msgstr ""
+msgstr "Erweitere deinen Wortschatz und teste dein Wissen"
 
 #: content/Default/apps/content.json.h:255
 msgctxt "description"
@@ -1767,12 +1768,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:262
 msgctxt "title"
 msgid "Virtual School"
-msgstr ""
+msgstr "Virtuelle Schule"
 
 #: content/Default/apps/content.json.h:263
 msgctxt "subtitle"
 msgid "Free educational videos on almost any subject"
-msgstr ""
+msgstr "Kostenlose Lehrvideos zu fast jedem Thema"
 
 #: content/Default/apps/content.json.h:264
 msgctxt "description"
@@ -1789,12 +1790,12 @@ msgstr ""
 #: content/Default/apps/content.json.h:265
 msgctxt "title"
 msgid "Numpty Physics"
-msgstr ""
+msgstr "Numpty Physics"
 
 #: content/Default/apps/content.json.h:266
 msgctxt "subtitle"
 msgid "Fun physics puzzle games"
-msgstr ""
+msgstr "Spaßige Physik-Puzzlespiele"
 
 #: content/Default/apps/content.json.h:267
 msgctxt "description"
@@ -1858,7 +1859,7 @@ msgstr "Open-Arena"
 #: content/Default/apps/content.json.h:275
 msgctxt "subtitle"
 msgid "Shoot your way out of trouble in this fun game"
-msgstr ""
+msgstr "Schieß dir in diesem unterhaltsamen Spiel den Weg frei"
 
 #: content/Default/apps/content.json.h:276
 msgctxt "description"
@@ -2008,7 +2009,7 @@ msgstr "VLC"
 #: content/Default/apps/content.json.h:296
 msgctxt "subtitle"
 msgid "Play videos with this popular media player"
-msgstr ""
+msgstr "Wiedergabe von Videos mit diesem beliebten Medienabspieler"
 
 #: content/Default/apps/content.json.h:297
 msgctxt "description"
@@ -2047,7 +2048,7 @@ msgstr "Fotos"
 #: content/Default/apps/content.json.h:302
 msgctxt "subtitle"
 msgid "Easily edit, organize, and share photos."
-msgstr ""
+msgstr "Einfaches Bearbeiten, Organisieren und Weitergeben von Fotos."
 
 #: content/Default/apps/content.json.h:303
 msgctxt "description"
@@ -2096,7 +2097,7 @@ msgstr ""
 #: content/folders.json.h:7
 msgctxt "folderName"
 msgid "Learn to Code"
-msgstr ""
+msgstr "Programmieren lernen"
 
 #: content/folders.json.h:8
 msgctxt "folderName"
@@ -2111,7 +2112,7 @@ msgstr "Nachrichten"
 #: content/folders.json.h:10
 msgctxt "folderName"
 msgid "Social"
-msgstr ""
+msgstr "Sozial"
 
 #: content/folders.json.h:11
 msgctxt "folderName"
