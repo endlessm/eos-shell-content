@@ -17,6 +17,7 @@
 const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
 const Json = imports.gi.Json;
+const ByteArray = imports.byteArray;
 
 const INSTALL_PATH = '@PKG_DATA_DIR@/icon-grid-defaults';
 const SAVE_PATH = GLib.get_user_special_dir(GLib.UserDirectory.DIRECTORY_DOCUMENTS);
