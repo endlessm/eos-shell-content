@@ -15,7 +15,8 @@ Homepage: http://www.endlessm.com
 Package: eos-shell-content
 Architecture: all
 Depends: ${misc:Depends},
-         eos-shell-content-icon-grid (= ${binary:Version})
+         eos-shell-content-icon-grid (= ${binary:Version}),
+         zenity
 Recommends: eos-theme
 Description: Endless OS Shell Content installation package
  This package will install the content for the app store

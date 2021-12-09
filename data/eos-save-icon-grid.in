@@ -2,7 +2,9 @@
 // -*- mode: js; js-indent-level: 4; indent-tabs-mode: nil -*-
 
 // Script to save the current icon grid layout as a JSON file
-// in the user's Documents folder
+// in the user's Documents folder. If there are any folders in the current icon
+// grid, they will be saved as `${folderId}.desktop` in the user’s Documents
+// folder alongside the JSON.
 //
 // Usage:
 //   eos-save-icon-grid [default | <locale>]
@@ -15,11 +17,14 @@
 const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
 const Json = imports.gi.Json;
+const ByteArray = imports.byteArray;
 
 const INSTALL_PATH = '@PKG_DATA_DIR@/icon-grid-defaults';
 const SAVE_PATH = GLib.get_user_special_dir(GLib.UserDirectory.DIRECTORY_DOCUMENTS);
 const SHELL_SCHEMA = 'org.gnome.shell';
-const SCHEMA_KEY = 'icon-grid-layout';
+const FOLDER_SCHEMA = 'org.gnome.desktop.app-folders.folder';
+const FOLDER_PATH = '/org/gnome/desktop/app-folders/folders/';
+const SCHEMA_KEY = 'app-picker-layout';
 
 const selectLocale = function() {
     let command = 'zenity --list --title="Desktop configuration to save" --text="Select an option and hit OK" --radiolist --hide-header --column=button --column=selection TRUE default';
@@ -31,7 +36,7 @@ const selectLocale = function() {
         files = dir.enumerate_children('standard::name,standard::type',
                                        Gio.FileQueryInfoFlags.NONE, null);
     } catch (e) {
-        logError(e, 'Missing language configuration files in ' + path);
+        logError(e, 'Missing language configuration files in ' + dir.get_path());
         return null;
     }
 
@@ -66,11 +71,15 @@ const selectLocale = function() {
         // User hit OK
         let selection = response[SELECTION];
         // Convert to string and trim the new line
-        locale = String(selection).trim();
+        locale = ByteArray.toString(selection).trim();
     } else {
         // User canceled
         locale = null;
     }
+
+    if (locale == 'default')
+        locale = 'C';
+
     return locale;
 }
     
@@ -86,15 +95,116 @@ const getLocale = function(args) {
     return locale;
 }
 
-let locale = getLocale(ARGV);
+const writeDirectoryDesktop = function(directoryId, name) {
+    // Save a .directory file for the given icon grid directory. This is a
+    // desktop file which contains metadata for the directory. It should be
+    // copied into `/usr/local/share/desktop-directories` on the image,
+    // typically using a hook like
+    // https://github.com/endlessm/endless-image-config/blob/c03674a7/hooks/image/51-hack-desktop-folders.chroot
+
+    const path = GLib.build_filenamev([SAVE_PATH, directoryId + '.directory']);
+
+    const contents = `[Desktop Entry]
+Version=1.0
+Name${(locale != 'C') ? '[' + locale + ']' : ''}=${name}
+Type=Directory`;
+
+    GLib.file_set_contents(path, contents);
+
+    return path
+}
+
+const generateJsonAndDesktops = function(locale) {
+    // Save a JSON file for the icon grid layout. This describes the icon grid
+    // layout in a way which will be loaded by eos-desktop-extension (see
+    // https://github.com/endlessm/eos-desktop-extension/blob/f6fa4d24/settings.js#L124)
+    // and eventually stored in the new-style GSettings keys for the icon grid
+    // configuration. See:
+    // ```
+    // gsettings get org.gnome.shell app-picker-layout
+    // gsettings get org.gnome.desktop.app-folders folder-children
+    // gsettings list-recursively org.gnome.desktop.app-folders.folder:/org/gnome/desktop/app-folders/folders/${folderId}/
+    // ```
+    //
+    // The JSON file has type `a{sas}`, where each dictionary key is a folder ID
+    // which maps to an array of desktop file names for the icons in that
+    // directory. The `desktop` key is special, and means the main icon grid.
+    //
+    // Each folder ID corresponds to a `.desktop` file in
+    // `/usr/local/share/desktop-directories` which gives the metadata (mostly,
+    // the human readable name) for that folder. See `writeDirectoryDesktop()`.
+    const jsonOut = {
+        'desktop': [],
+    };
+    const filesWritten = [];
+
+    const settings = new Gio.Settings({ schema: SHELL_SCHEMA });
+    const layout = settings.get_value(SCHEMA_KEY).deepUnpack();
+
+    for (const workspace of layout) {
+        // Since the JSON format only supports one workspace, offset the items
+        // in each workspace by the number of items already outputted.
+        // i.e. Concatenate all the workspaces.
+        const workspaceItemOffset = jsonOut['desktop'].length;
+
+        for (const key in workspace) {
+            const item = workspace[key].deepUnpack();
+            const isFolder = !key.endsWith('.desktop');
+
+            // Try and preserve the position of the icon within the desktop.
+            // This may introduce holes into the array, as items may be
+            // listed in the settings out of position order.
+            let position = -1;
+            try {
+                position = item['position'].unpack() + workspaceItemOffset;
+            } catch {}
+
+            // Write out additional configuration for folders.
+            if (isFolder) {
+                const folderId = key + '.directory';
+                const folderPath = FOLDER_PATH + key + '/';
+                const folderSettings = new Gio.Settings({ schema: FOLDER_SCHEMA, path: folderPath });
+
+                filesWritten.push(writeDirectoryDesktop(key, folderSettings.get_value('name').unpack(), locale));
+
+                jsonOut[folderId] = folderSettings.get_value('apps').deepUnpack();
+                jsonOut['desktop'][position] = folderId;
+            } else {
+                jsonOut['desktop'][position] = key;
+            }
+        }
+    }
+
+    // Remove holes from the desktop array before serialising it as a variant
+    // (which doesn’t like holes).
+    jsonOut['desktop'] = jsonOut['desktop'].filter(x => true);
+
+    // Write the JSON file out.
+    const convertedLayout = GLib.Variant.new('a{sas}', jsonOut);
+    const jsonLayout = Json.gvariant_serialize(convertedLayout);
+
+    const jsonGenerator = new Json.Generator({ root: jsonLayout,
+                                               pretty: true });
+    const jsonFile = GLib.build_filenamev([SAVE_PATH, 'icon-grid-' + locale + '.json']);
+    jsonGenerator.to_file(jsonFile);
+    filesWritten.push(jsonFile);
+
+    return filesWritten;
+}
+
+const locale = getLocale(ARGV);
 
 if (locale) {
-    let settings = new Gio.Settings({ schema: SHELL_SCHEMA });
-    let layout = settings.get_value(SCHEMA_KEY);
-    let jsonLayout = Json.gvariant_serialize(layout);
-    let jsonGenerator = new Json.Generator({ root: jsonLayout,
-                                             pretty: true });
-    let file = GLib.build_filenamev([SAVE_PATH,
-                                     'icon-grid-' + locale + '.json']);
-    jsonGenerator.to_file(file);
+    const filesWritten = generateJsonAndDesktops(locale);
+
+    print('Wrote the following files:');
+    filesWritten.forEach(value => print(` - ${value}`));
+
+    print('Directory files should be installed on the image in ' +
+          '/usr/local/share/desktop-directories using a hook in ' +
+          'endless-image-config. Some of the directories may already be ' +
+          'installed on the image; those .directory files should be ' +
+          'preferred over these new ones.')
+} else {
+    print('Locale could not be determined');
 }
