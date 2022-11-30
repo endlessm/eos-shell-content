@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[eos-shell-content.app]
+[o:endless-os:p:eos-shell-content:r:app]
 file_filter = po/<lang>.po
 source_file = po/eos-shell-content.pot
 source_lang = en
