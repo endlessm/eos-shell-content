@@ -1,25 +1,17 @@
 #!/usr/bin/env python3
 
-from argparse import ArgumentParser
-from collections import OrderedDict
-import errno
+from argparse import ArgumentParser, FileType
 import json
 import os
 import sys
 
 aparser = ArgumentParser(description='Write icon grid json file')
 aparser.add_argument('-o', '--output', help='output file')
-aparser.add_argument('input', help='input template file')
-aparser.add_argument('blacklist', help='blacklist file')
-aparser.add_argument('cpu', help='CPU for blacklisting')
+aparser.add_argument('input', help='input template file', type=FileType("r"))
 args = aparser.parse_args()
 
-# Load with template and blacklist. Use OrderedDict for the grid to
-# maintain sorting of the keys.
-with open(args.input, 'r') as infile:
-    grid = json.load(infile, object_pairs_hook=OrderedDict)
-with open(args.blacklist, 'r') as blfile:
-    blacklist = json.load(blfile)
+# Load template
+grid = json.load(args.input)
 
 # Open the a temporary version of the output file if specified, ensuring
 # that leading directories are created first.
@@ -28,21 +20,8 @@ if args.output is None:
 else:
     outdir = os.path.dirname(args.output)
     if len(outdir) > 0:
-        try:
-            os.makedirs(outdir)
-        except OSError as err:
-            if err.errno != errno.EEXIST:
-                raise
+        os.makedirs(outdir, exist_ok=True)
     outfile = open(args.output + '.tmp', 'w')
-
-# Strip out blacklisted apps
-cpu_blacklist = blacklist.get(args.cpu, [])
-for app in cpu_blacklist:
-    if app in grid:
-        del grid[app]
-    for sect, apps in grid.items():
-        if app in apps:
-            grid[sect].remove(app)
 
 # Check that all directories are in the top-level "desktop" pseudo-directory
 desktop = grid["desktop"]

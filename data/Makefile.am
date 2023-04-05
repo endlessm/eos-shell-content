@@ -6,9 +6,9 @@ settings_in_files = $(wildcard settings/icon-grid-*.json.in)
 settings_DATA = $(settings_in_files:.in=)
 dist_noinst_SCRIPTS = settings/write-grid-json.py
 
-%.json: %.json.in settings/arch-blacklist.json settings/write-grid-json.py
+%.json: %.json.in settings/write-grid-json.py
 	$(AM_V_GEN)$(srcdir)/settings/write-grid-json.py -o $@ \
-		$< $(srcdir)/settings/arch-blacklist.json $(host_cpu)
+		$<
 
 do_subst = sed \
 	-e 's|@PKG_DATA_DIR[@]|$(pkgdatadir)|g' \
@@ -21,7 +21,6 @@ eos-save-icon-grid: eos-save-icon-grid.in Makefile
 EXTRA_DIST = \
     $(folders_DATA) \
     $(settings_in_files) \
-    settings/arch-blacklist.json \
     eos-save-icon-grid.in \
     $(NULL)
 
