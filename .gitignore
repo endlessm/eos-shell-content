@@ -25,7 +25,9 @@ stamp-h1
 /content/*.gresource
 /content/*.gresource.xml
 /data/eos-save-icon-grid
-/data/settings/icon-grid-*.json
+/data/test-suite.log
+/data/settings/validate-grid-json.py.log
+/data/settings/validate-grid-json.py.trs
 /debian/eos-acknowledgements
 /debian/eos-shell-content
 /debian/eos-shell-content-dev
@@ -53,4 +55,5 @@ stamp-h1
 /po/stamp-po
 /po/*.gmo
 /py-compile
+/test-driver
 /unzipped
