@@ -1,8 +1,6 @@
 {
   "desktop": [
     "com.hack_computer.Clubhouse.desktop",
-    "org.chromium.Chromium.desktop",
-    "org.gnome.Nautilus.desktop",
     "eos-folder-curiosity.directory",
     "eos-folder-work.directory",
     "eos-folder-tools.directory",
@@ -55,7 +53,7 @@
     "org.gnome.Rhythmbox3.desktop",
     "org.gnome.Totem.desktop",
     "org.audacityteam.Audacity.desktop",
-    "shotwell.desktop",
+    "org.gnome.Shotwell.desktop",
     "com.endlessm.photos.desktop",
     "org.gimp.GIMP.desktop",
     "org.inkscape.Inkscape.desktop",

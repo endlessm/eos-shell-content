@@ -1,8 +1,6 @@
 {
   "desktop": [
     "com.hack_computer.Clubhouse.desktop",
-    "org.chromium.Chromium.desktop",
-    "org.gnome.Nautilus.desktop",
     "org.libreoffice.LibreOffice.writer.desktop",
     "org.libreoffice.LibreOffice.calc.desktop",
     "org.libreoffice.LibreOffice.impress.desktop",
@@ -51,7 +49,7 @@
   ],
   "eos-folder-media.directory": [
     "com.endlessm.photos.desktop",
-    "shotwell.desktop",
+    "org.gnome.Shotwell.desktop",
     "org.gnome.Totem.desktop",
     "org.tuxpaint.Tuxpaint.desktop",
     "org.audacityteam.Audacity.desktop",
