@@ -1,46 +1,20 @@
 {
   "desktop": [
-    "com.hack_computer.Clubhouse.desktop",
     "org.gnome.Totem.desktop",
-    "org.gnome.Shotwell.desktop",
+    "org.gnome.eog.desktop",
     "org.gnome.Rhythmbox3.desktop",
-    "com.hack_computer.OperatingSystemApp.desktop",
-    "com.hack_computer.Sidetrack.desktop",
+    "org.gnome.Evince.desktop",
+    "org.freedesktop.MalcontentControl.desktop",
+    "com.endlessm.encyclopedia.es.desktop",
+    "org.learningequality.Kolibri.desktop",
+    "com.tux4kids.tuxmath.desktop",
     "eos-folder-play.directory",
     "eos-folder-create.directory",
-    "eos-folder-work.directory",
     "eos-folder-coding-education.directory",
+    "eos-folder-work.directory",
     "X-GNOME-Utilities.directory",
-    "com.endlessm.encyclopedia.es.desktop",
-    "org.learningequality.Kolibri.channel_c1f2b7e6ac9f56a2bb44fa7a48b66dce.desktop",
-    "org.learningequality.Kolibri.desktop",
-    "com.endlessm.finance.desktop",
-    "com.endlessm.resume.desktop",
-    "com.endlessm.howto.es.desktop",
-    "com.endlessm.cooking.es.desktop",
-    "com.endlessm.water_and_sanitation.es.desktop",
-    "com.endlessm.healthy_teeth.es.desktop",
-    "com.endlessm.health.es.desktop",
-    "com.endlessm.maternity.es.desktop",
-    "com.endlessm.disabilities.es.desktop",
-    "com.endlessm.myths.es.desktop",
-    "com.endlessm.travel.es.desktop",
-    "com.endlessm.geography.es.desktop",
-    "com.endlessm.history.es.desktop",
-    "com.endlessm.astronomy.es.desktop",
-    "com.endlessm.dinosaurs.es.desktop",
-    "com.endlessm.animals.es.desktop",
-    "com.endlessm.biology.es.desktop",
-    "com.endlessm.physics.es.desktop",
-    "com.endlessm.math.es.desktop",
-    "com.endlessm.programming_guide.es.desktop",
-    "com.endlessm.childrens_collection.es.desktop",
-    "com.endlessm.world_literature.es.desktop",
-    "com.endlessm.socialsciences.es.desktop",
-    "com.endlessm.creativity_center.es.desktop",
-    "com.endlessm.handicrafts.es.desktop",
-    "com.endlessm.celebrities.es.desktop",
-    "com.endlessm.soccer.es.desktop"
+    "Education.directory",
+    "eos-folder-curiosity.directory"
   ],
   "eos-folder-play.directory": [
     "com.endlessnetwork.aqueducts.desktop",
@@ -55,7 +29,6 @@
     "com.endlessnetwork.tankwarriors.desktop",
     "com.endlessnetwork.whitehouse.desktop",
     "org.laptop.TurtleArtActivity.desktop",
-    "com.tux4kids.tuxmath.desktop",
     "com.tux4kids.tuxtype.desktop"
   ],
   "eos-folder-create.directory": [
@@ -66,7 +39,17 @@
     "org.blender.Blender.desktop",
     "io.lmms.LMMS.desktop",
     "org.gimp.GIMP.desktop",
-    "org.tuxpaint.Tuxpaint.desktop"
+    "org.tuxpaint.Tuxpaint.desktop",
+    "org.gnome.Shotwell.desktop",
+    "com.endlessm.creativity_center.es.desktop"
+  ],
+  "eos-folder-coding-education.directory": [
+    "com.hack_computer.Clubhouse.desktop",
+    "edu.mit.Scratch.desktop",
+    "com.hack_computer.OperatingSystemApp.desktop",
+    "com.hack_computer.Sidetrack.desktop",
+    "cc.arduino.arduinoide.desktop",
+    "com.endlessm.programming_guide.es.desktop"
   ],
   "eos-folder-work.directory": [
     "org.libreoffice.LibreOffice.writer.desktop",
@@ -77,17 +60,11 @@
     "org.libreoffice.LibreOffice.base.desktop",
     "org.libreoffice.LibreOffice.desktop"
   ],
-  "eos-folder-coding-education.directory": [
-    "cc.arduino.arduinoide.desktop",
-    "edu.mit.Scratch.desktop"
-  ],
   "X-GNOME-Utilities.directory": [
     "org.gnome.clocks.desktop",
     "gnome-control-center.desktop",
     "org.gnome.Yelp.desktop",
     "org.gnome.Cheese.desktop",
-    "org.gnome.eog.desktop",
-    "org.gnome.Evince.desktop",
     "org.gnome.Screenshot.desktop",
     "org.gnome.Weather.desktop",
     "org.gnome.Gnote.desktop",
@@ -96,7 +73,6 @@
     "org.gnome.Contacts.desktop",
     "org.gnome.Evolution.desktop",
     "org.gnome.font-viewer.desktop",
-    "org.freedesktop.MalcontentControl.desktop",
     "org.gnome.baobab.desktop",
     "org.gnome.DiskUtility.desktop",
     "org.gnome.Logs.desktop",
@@ -107,5 +83,35 @@
     "org.gnome.FileRoller.desktop",
     "org.gnome.Tour.desktop",
     "org.gnome.Epiphany.desktop"
+  ],
+  "Education.directory": [
+    "org.learningequality.Kolibri.channel_c1f2b7e6ac9f56a2bb44fa7a48b66dce.desktop",
+    "com.endlessm.biology.es.desktop",
+    "com.endlessm.socialsciences.es.desktop",
+    "com.endlessm.resume.desktop",
+    "com.endlessm.healthy_teeth.es.desktop",
+    "com.endlessm.physics.es.desktop",
+    "com.endlessm.math.es.desktop",
+    "com.endlessm.maternity.es.desktop",
+    "com.endlessm.finance.desktop",
+    "com.endlessm.disabilities.es.desktop",
+    "com.endlessm.health.es.desktop",
+    "com.endlessm.water_and_sanitation.es.desktop"
+  ],
+  "eos-folder-curiosity.directory": [
+    "com.endlessm.animals.es.desktop",
+    "com.endlessm.handicrafts.es.desktop",
+    "com.endlessm.astronomy.es.desktop",
+    "com.endlessm.cooking.es.desktop",
+    "com.endlessm.howto.es.desktop",
+    "com.endlessm.childrens_collection.es.desktop",
+    "com.endlessm.travel.es.desktop",
+    "com.endlessm.dinosaurs.es.desktop",
+    "com.endlessm.soccer.es.desktop",
+    "com.endlessm.geography.es.desktop",
+    "com.endlessm.history.es.desktop",
+    "com.endlessm.world_literature.es.desktop",
+    "com.endlessm.myths.es.desktop",
+    "com.endlessm.celebrities.es.desktop"
   ]
 }
