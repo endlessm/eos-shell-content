@@ -3,7 +3,7 @@
     "org.endlessos.Key.desktop",
     "org.gnome.Totem.desktop",
     "org.gnome.Shotwell.desktop",
-    "org.gnome.Rhythmbox3.desktop",
+    "org.gnome.Music.desktop",
     "eos-folder-play.directory",
     "eos-folder-create.directory",
     "eos-folder-work.directory",
@@ -132,6 +132,7 @@
     "org.gnome.gedit.desktop",
     "org.gnome.FileRoller.desktop",
     "org.gnome.Tour.desktop",
-    "org.gnome.Epiphany.desktop"
+    "org.gnome.Epiphany.desktop",
+    "com.vixalien.decibels.desktop"
   ]
 }
