@@ -162,7 +162,6 @@
   "Network.directory": [
     "org.gnome.Evolution.desktop",
     "org.chromium.Chromium.desktop",
-    "org.gnome.Weather.desktop",
     "org.gnome.Epiphany.desktop"
   ],
   "X-GNOME-Utilities.directory": [
@@ -189,6 +188,7 @@
     "org.gnome.Tour.desktop",
     "org.gnome.font-viewer.desktop",
     "org.freedesktop.MalcontentControl.desktop",
+    "org.gnome.Weather.desktop",
     "org.gnome.Gnote.desktop",
     "org.gnome.TextEditor.desktop",
     "org.gnome.Calculator.desktop",
