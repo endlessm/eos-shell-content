@@ -76,6 +76,7 @@
     "org.blender.Blender.desktop",
     "com.endlessnetwork.blendertutorials.desktop",
     "org.godotengine.Godot.desktop",
+    "com.unity.UnityHub.desktop",
     "io.gdevelop.ide.desktop",
     "com.endlessnetwork.arduinoprojects.desktop",
     "org.eclipse.Java.desktop",
@@ -86,7 +87,6 @@
   "eos-folder-design.directory": [
     "org.inkscape.Inkscape.desktop",
     "org.gimp.GIMP.desktop",
-    "com.unity.UnityHub.desktop",
     "com.orama_interactive.Pixelorama.desktop",
     "org.freecad.FreeCAD.desktop"
   ],
@@ -148,7 +148,6 @@
     "org.gnome.Loupe.desktop",
     "org.gnome.Totem.desktop",
     "org.gnome.Music.desktop",
-    "org.gnome.Evince.desktop",
     "org.videolan.VLC.desktop",
     "org.gnome.Cheese.desktop",
     "org.gnome.Decibels.desktop"
@@ -192,6 +191,7 @@
     "org.gnome.Gnote.desktop",
     "org.gnome.TextEditor.desktop",
     "org.gnome.Calculator.desktop",
+    "org.gnome.Evince.desktop",
     "simple-scan.desktop",
     "org.gnome.Contacts.desktop"
   ]
