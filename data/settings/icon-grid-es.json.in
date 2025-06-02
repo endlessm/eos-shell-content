@@ -29,17 +29,23 @@
   ],
   "eos-folder-encyclopedias.directory": [
     "com.endlessm.encyclopedia.es.desktop",
+    "com.endlessm.guatemala.es_GT.desktop",
     "org.learningequality.Kolibri.desktop",
     "com.endlessm.dinosaurs.es.desktop",
     "com.endlessm.history.es.desktop",
+    "com.endlessm.history.es_GT.desktop",
     "com.endlessm.myths.es.desktop",
     "org.endlessos.Key.desktop",
     "com.endlessm.cooking.es.desktop",
-    "com.endlessm.animals.es.desktop"
+    "com.endlessm.cooking.es_GT.desktop",
+    "com.endlessm.animals.es.desktop",
+    "com.endlessm.animals.es_GT.desktop"
   ],
   "eos-folder-read.directory": [
     "com.endlessm.world_literature.es.desktop",
     "com.endlessm.childrens_collection.es.desktop",
+    "com.endlessm.edu_collections.es_GT.desktop",
+    "com.endlessm.mayan_languages.es_GT.desktop",
     "com.mardojai.DiccionarioLengua.desktop",
     "com.endlessnetwork.fablemaker.desktop"
   ],
@@ -64,6 +70,7 @@
   "eos-folder-geography.directory": [
     "org.kde.kgeography.desktop",
     "com.endlessm.geography.es.desktop",
+    "com.endlessm.geography.es_GT.desktop",
     "org.qgis.qgis.desktop"
   ],
   "Development.directory": [
@@ -93,6 +100,7 @@
   "eos-folder-health.directory": [
     "com.endlessm.social_enterprises.es_GT.desktop",
     "com.endlessm.socialsciences.es.desktop",
+    "com.endlessm.socialsciences.es_GT.desktop",
     "com.endlessm.disabilities.es.desktop",
     "com.endlessm.health.es.desktop",
     "com.endlessm.healthy_teeth.es.desktop",
@@ -154,8 +162,11 @@
   ],
   "eos-folder-entertainment.directory": [
     "com.endlessm.travel.es.desktop",
+    "com.endlessm.travel.es_GT.desktop",
     "com.endlessm.soccer.es.desktop",
+    "com.endlessm.soccer.es_GT.desktop",
     "com.endlessm.celebrities.es.desktop",
+    "com.endlessm.celebrities.es_GT.desktop",
     "com.endlessm.video_animal_kingdom.desktop"
   ],
   "Network.directory": [
