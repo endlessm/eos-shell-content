@@ -32,20 +32,3 @@ Architecture: any
 Depends: ${misc:Depends}
 Description: Endless OS Shell Content installation package - icon grid
  This package will install the shell icon grid defaults.
-
-Package: eos-shell-content-dev
-Architecture: all
-Priority: optional
-Depends: eos-shell-content (= ${binary:Version}),
-         ${misc:Depends},
-         ${perl:Depends},
-         debhelper,
-         gir1.2-appstreamglib-1.0,
-         libdpkg-perl,
-         libjson-perl,
-         python3,
-         python3-gi,
-         python3-polib
-Description: Endless OS Shell Content installation package - dev files
- This package will install the content to build bundles for the app
- store.
