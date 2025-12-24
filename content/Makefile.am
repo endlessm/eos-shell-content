@@ -2,15 +2,6 @@ NULL =
 EXTRA_DIST =
 MAINTAINERCLEANFILES =
 
-default_app_json = \
-	Default/apps/content.json \
-	$(NULL)
-
-EXTRA_DIST += $(default_app_json)
-
-app_jsondir = $(pkgdatadir)
-app_json_DATA = $(default_app_json)
-
 default_folders_json = \
 	folders.json \
 	$(NULL)
